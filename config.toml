@@ -1,0 +1,42 @@
+baseURL = "https://medicarestarter.com/"
+languageCode = "en-us"
+title = "Medicare Starter"
+theme = ""
+paginate = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Your plain-English guide to Medicare - plans, enrollment, costs, and coverage explained simply for new and existing enrollees."
+  niche = "Medicare & Senior Health Insurance"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
+  image_query = "senior health insurance medicare"
+  author = "Medicare Starter Editorial Team"
+  logo_text = "Medicare Starter"
+  tagline = "Medicare Made Clear"
+  primary_color = "#1a2744"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
