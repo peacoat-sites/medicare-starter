@@ -50,7 +50,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.PIPELINE_TOKEN }}
-          GITHUB_ORG: ${{ secrets.GITHUB_ORG }}
+          GITHUB_ORG: ${{ vars.PORTFOLIO_ORG }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           FLUX_API_KEY: ${{ secrets.FLUX_API_KEY }}
           NAMECHEAP_USERNAME: ${{ secrets.NAMECHEAP_USERNAME }}
