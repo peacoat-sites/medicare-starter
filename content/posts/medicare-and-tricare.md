@@ -3,7 +3,7 @@ title: "Medicare And Tricare"
 date: 2026-05-18T14:28:31.933130+00:00
 draft: false
 description: "Learn how Medicare and TRICARE work together to cover military retirees. Discover coordination of benefits, enrollment tips, and how to maximize your coverage."
-image: "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/4990545/pexels-photo-4990545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Special Situations"]
 tags: ["Medicare", "and", "TRICARE"]
 author: "Editorial Team"
