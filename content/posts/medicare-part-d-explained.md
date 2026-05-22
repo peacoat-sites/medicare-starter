@@ -3,7 +3,7 @@ title: "Medicare Part D Explained"
 date: 2026-05-18T18:31:51.866944+00:00
 draft: false
 description: "Learn how Medicare Part D works, what prescription drugs it covers, costs involved, and how to choose the right plan to save money on your medications."
-image: "https://images.pexels.com/photos/5790807/pexels-photo-5790807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5466245/pexels-photo-5466245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "Part", "explained"]
 author: "Linda Morrison"
