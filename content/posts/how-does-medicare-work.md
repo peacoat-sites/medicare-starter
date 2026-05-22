@@ -3,7 +3,7 @@ title: "How Does Medicare Work"
 date: 2026-05-18T21:16:21.582990+00:00
 draft: false
 description: "Learn how Medicare works, including eligibility, coverage options, and costs. Discover Parts A, B, C, and D to choose the right plan for your healthcare needs."
-image: "https://images.pexels.com/photos/5790818/pexels-photo-5790818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/4175028/pexels-photo-4175028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["does", "Medicare", "work"]
 author: "Robert Hughes"
