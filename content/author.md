@@ -15,12 +15,12 @@ Our writers research every topic thoroughly, drawing on primary sources, expert 
 
 **Accuracy first.** Every factual claim is verified against authoritative sources before publication. We cite our sources and update articles when information changes.
 
-**No fluff.** We write for people who want actionable information, not filler content. If it does not help you, it does not belong in the article.
+**No fluff.** We write for people who want actionable information, not filler content. If it doesn't help you, it doesn't belong in the article.
 
 **Transparent about affiliates.** When we include affiliate links, we say so. Our editorial decisions are never influenced by commercial relationships.
 
 ## Corrections Policy
 
-Notice something that needs updating? We take accuracy seriously. Email us at contact@medicarestarter.com and we will review and correct any errors promptly.
+Notice something that needs updating? We take accuracy seriously. Email us at contact@medicarestarter.com and we'll review and correct any errors promptly.
 
 *This site does not provide professional advice. Content is for informational purposes only. Always consult a qualified professional for decisions specific to your situation.*
