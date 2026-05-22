@@ -3,7 +3,7 @@ title: "What Medicare Does Not Cover"
 date: 2026-05-20T00:31:27.783650+00:00
 draft: false
 description: "Medicare has coverage gaps that can cost you. Learn what services Medicare does not cover, including dental, vision, hearing, and long-term care, so you can pla"
-image: "https://images.pexels.com/photos/5790807/pexels-photo-5790807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5583972/pexels-photo-5583972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["what", "Medicare", "does", "cover"]
 author: "Robert Hughes"
