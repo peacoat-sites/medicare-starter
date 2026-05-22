@@ -3,7 +3,7 @@ title: "Medicare Part A Explained"
 date: 2026-05-18T21:12:12.276373+00:00
 draft: false
 description: "Learn what Medicare Part A covers, including hospital stays, skilled nursing care, and hospice. Find out costs, eligibility, and how to enroll in this guide."
-image: "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5439169/pexels-photo-5439169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "Part", "explained"]
 author: "Linda Morrison"
