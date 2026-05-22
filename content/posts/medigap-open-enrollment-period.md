@@ -3,7 +3,7 @@ title: "Medigap Open Enrollment Period"
 date: 2026-05-22T12:05:32.147082+00:00
 draft: false
 description: "Medigap open enrollment period explained: Learn your enrollment windows, deadlines, coverage options, and how to switch plans without penalties or waiting perio"
-image: "https://images.pexels.com/photos/5790818/pexels-photo-5790818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5478468/pexels-photo-5478468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["Medigap", "open", "enrollment", "period"]
 author: "Carol Davenport"
