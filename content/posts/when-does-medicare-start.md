@@ -3,7 +3,7 @@ title: "When Does Medicare Start"
 date: 2026-05-18T21:18:44.285892+00:00
 draft: false
 description: "Find out exactly when Medicare starts, including key enrollment ages, eligibility dates, and important deadlines to avoid coverage gaps or costly late penalties"
-image: "https://images.pexels.com/photos/5790821/pexels-photo-5790821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: https://images.pexels.com/photos/5583974/pexels-photo-5583974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["when", "does", "Medicare", "start"]
 author: "Carol Davenport"
