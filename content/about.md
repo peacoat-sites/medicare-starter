@@ -1,43 +1,40 @@
 ---
 title: "About Medicare Starter"
-description: "Learn about Medicare Starter — our mission, editorial standards, and the topics we cover."
-layout: "page"
+date: 2026-01-01
+draft: false
+description: "About Medicare Starter — meet Frank Alvarez and learn how we help people navigate Medicare enrollment and coverage."
 ---
 
-## Our Mission
+## About Medicare Starter
 
-Medicare Starter exists to cut through the confusion around Medicare. We explain enrollment windows, plan types, costs, and coverage gaps in plain English — so you can make confident decisions without needing a benefits expert on speed dial.
+Medicare Starter is an independent resource dedicated to helping people understand Medicare — what it covers, how enrollment works, and how to choose the right plan without getting lost in the complexity.
+
+## Meet the Editor
+
+**Frank Alvarez** is the editor behind Medicare Starter.
+
+Frank spent 20 years as an employee benefits coordinator, managing healthcare enrollment and Medicare transitions for thousands of employees and retirees at large organizations. He processed the paperwork, fielded the questions, and watched people make expensive mistakes — missing enrollment windows, choosing the wrong plan, or signing up for coverage they didn’t understand until they needed to use it.
+
+After retiring from benefits administration, Frank started writing Medicare guides to give everyday people access to the same clear information he spent two decades explaining to employees one-on-one.
 
 ## What We Cover
 
-Medicare Starter publishes in-depth, reader-first guides on Medicare Part A and B, Medicare Advantage (Part C), Part D prescription drug coverage, Medigap supplemental insurance, and senior health and wellness.
+Medicare Starter covers Medicare from the ground up — Original Medicare (Parts A and B), Medicare Advantage (Part C), prescription drug coverage (Part D), Medigap supplement plans, enrollment windows and penalties, and how to compare plans for your specific health needs and budget.
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Our Approach
 
-## Editorial Standards
+We are not affiliated with Medicare, CMS, or any insurance carrier. We don’t sell plans or collect commissions. Our only goal is to make this system easier to understand.
 
-We follow a straightforward editorial process:
-
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+Every article is researched from official Medicare.gov guidance, CMS publications, and the Medicare & You handbook — updated annually to reflect current plan options and enrollment rules.
 
 ## Important Disclaimer
 
-<div class="disclaimer-box">
+Medicare Starter provides general informational content about Medicare. Frank Alvarez is a retired benefits professional and researcher — not a licensed insurance agent or financial advisor. Medicare rules and available plans vary by location and change annually. Contact Medicare at 1-800-MEDICARE or a licensed benefits counselor for advice specific to your situation.
 
-The content on this site is for **general educational purposes only** and does not constitute medical, insurance, or financial advice. Medicare rules, costs, and coverage change frequently. Always consult a **licensed Medicare counselor (SHIP), licensed insurance agent, or qualified healthcare provider** before making any decisions about your Medicare coverage or health care.
+## Affiliate Disclosure
 
-</div>
-
-## About This Site
-
-Medicare Starter is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
+Some links on this site are Amazon affiliate links (for books and planning resources). Purchases may earn us a small commission at no extra cost to you.
 
 ## Contact
 
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@medicarestarter.com](mailto:hello@medicarestarter.com)
+Questions or topic suggestions? [Contact us here](/contact/).
