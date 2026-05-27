@@ -32,7 +32,12 @@ author = "Stephen Brenish"
   satisfaction    = 96
   trust_extra     = "Licensed insurance professionals"
   impact_verification = ""
-  impact_tracking_id  = "" 
+  impact_tracking_id  = ""
+  persona_name       = "Frank Alvarez"
+  persona_title      = "Medicare Benefits Editor"
+  persona_bio        = "Frank spent 20 years coordinating employee benefits for large organizations, managing open enrollment and Medicare transition for thousands of retirees. He now writes plain-language guides to help people navigate Medicare enrollment, plan comparisons, and coverage decisions."
+  persona_initials   = "FA"
+  disclaimer         = "This site provides general Medicare information only and is not affiliated with the U.S. government or CMS. For advice specific to your situation, contact Medicare directly at 1-800-MEDICARE or consult a licensed benefits advisor."
 
 [taxonomies]
   category = "categories"
