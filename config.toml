@@ -18,14 +18,9 @@ enableEmoji = true
   author = "Medicare Starter Editorial Team"
   logo_text = "Medicare Starter"
   tagline = "Medicare Made Clear"
-  primary_color = "#1a2744"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#0c1a14"
-  hero_color_2 = "#1a2744"
-  hero_color_3 = "#b45309"
-  hero_color_4 = "#92400e"
   monthly_readers = 62000
   research_hours  = 480
   satisfaction    = 96
