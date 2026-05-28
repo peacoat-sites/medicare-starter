@@ -38,6 +38,13 @@ enableEmoji = true
   persona_initials   = "FA"
   disclaimer         = "This site provides general Medicare information only and is not affiliated with the U.S. government or CMS. For advice specific to your situation, contact Medicare directly at 1-800-MEDICARE or consult a licensed benefits advisor."
 
+logo_text_1 = "Medicare"
+logo_text_2 = "Starter"
+primary_color = "#60a5fa"
+hero_color_1 = "#000818"
+hero_color_2 = "#00102e"
+hero_color_3 = "#60a5fa"
+hero_color_4 = "#000510"
 [taxonomies]
   category = "categories"
   tag = "tags"
