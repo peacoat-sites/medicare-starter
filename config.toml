@@ -7,7 +7,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#f8f9fb"
+  page_bg = "#ecfeff"
   nav_style = "dark"
   description = "Your plain-English guide to Medicare - plans, enrollment, costs, and coverage explained simply for new and existing enrollees."
   niche = "Medicare & Senior Health Insurance"
@@ -36,7 +36,7 @@ enableEmoji = true
 
 logo_text_1 = "Medicare"
 logo_text_2 = "Starter"
-primary_color = "#1a2744"
+primary_color = "#155e75"
 hero_color_1 = "#000818"
 hero_color_2 = "#00102e"
 hero_color_3 = "#60a5fa"
