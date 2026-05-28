@@ -7,6 +7,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#f8f9fb"
+  nav_style = "dark"
   description = "Your plain-English guide to Medicare - plans, enrollment, costs, and coverage explained simply for new and existing enrollees."
   niche = "Medicare & Senior Health Insurance"
   adsense_id = "ca-pub-3466203197759215"
