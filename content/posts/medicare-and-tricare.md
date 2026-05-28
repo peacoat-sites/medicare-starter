@@ -12,9 +12,9 @@ slug: "medicare-and-tricare"
 
 # Medicare and TRICARE: The Complete Guide for Military Retirees and Veterans
 
-If you've spent years serving in the United States military, you've earned benefits that most Americans never have access to — including one of the most comprehensive health coverage combinations available: Medicare paired with TRICARE. But navigating how these two powerful programs work together can feel like navigating a battlefield of bureaucratic complexity. Which one pays first? Do you even need both? What happens when you turn 65? These are questions that thousands of military retirees and their families face every year, and getting the answers wrong can mean unexpected medical bills, coverage gaps, or missed savings opportunities.
+If you've spent years serving in the United States military, you've earned benefits that most Americans never have access to ,  including one of the most comprehensive health coverage combinations available: Medicare paired with TRICARE. But navigating how these two powerful programs work together can feel like navigating a battlefield of bureaucratic complexity. Which one pays first? Do you even need both? What happens when you turn 65? These are questions that thousands of military retirees and their families face every year, and getting the answers wrong can mean unexpected medical bills, coverage gaps, or missed savings opportunities.
 
-The good news is that Medicare and TRICARE are designed to complement each other beautifully — when you understand the rules. Whether you're a military retiree approaching age 65, a surviving spouse trying to make sense of your options, or someone already in the system who wants to make sure they're maximizing their benefits, this guide will walk you through everything you need to know.
+The good news is that Medicare and TRICARE are designed to complement each other beautifully ,  when you understand the rules. Whether you're a military retiree approaching age 65, a surviving spouse trying to make sense of your options, or someone already in the system who wants to make sure they're maximizing their benefits, this guide will walk you through everything you need to know.
 
 ---
 
@@ -22,7 +22,7 @@ The good news is that Medicare and TRICARE are designed to complement each other
 
 Before diving into how TRICARE and Medicare interact, it helps to have a firm grasp of what TRICARE actually is and who qualifies.
 
-TRICARE is the health care program for uniformed service members, military retirees, and their families. It's administered by the Defense Health Agency (DHA) and covers a broad network of military treatment facilities (MTFs) and civilian providers. TRICARE isn't a single plan — it's a family of plans, each designed to serve different groups and lifestyles.
+TRICARE is the health care program for uniformed service members, military retirees, and their families. It's administered by the Defense Health Agency (DHA) and covers a broad network of military treatment facilities (MTFs) and civilian providers. TRICARE isn't a single plan ,  it's a family of plans, each designed to serve different groups and lifestyles.
 
 ### TRICARE Plans Available to Retirees
 
@@ -30,7 +30,7 @@ TRICARE is the health care program for uniformed service members, military retir
 
 **TRICARE Select** (formerly TRICARE Standard and Extra) is a preferred provider organization (PPO)-style plan that gives you more flexibility to see any TRICARE-authorized provider without a referral. You'll pay more out-of-pocket than with Prime, but you gain freedom of choice.
 
-**TRICARE for Life (TFL)** is the plan specifically designed for Medicare-eligible military retirees and their dependents. Once you turn 65 and enroll in Medicare Parts A and B, you automatically qualify for TRICARE for Life — and this combination is where the real magic happens.
+**TRICARE for Life (TFL)** is the plan specifically designed for Medicare-eligible military retirees and their dependents. Once you turn 65 and enroll in Medicare Parts A and B, you automatically qualify for TRICARE for Life ,  and this combination is where the real magic happens.
 
 **TRICARE Reserve Select and Retired Reserve** plans serve Guard and Reserve members and their families, though the rules differ somewhat from active duty retirees.
 
@@ -42,11 +42,11 @@ TRICARE eligibility requires either 20 or more years of qualifying active duty s
 
 ## How Medicare and TRICARE Work Together
 
-Here is where understanding the coordination of benefits becomes critical — and where many beneficiaries make costly mistakes.
+Here is where understanding the coordination of benefits becomes critical ,  and where many beneficiaries make costly mistakes.
 
 When you turn 65 and become eligible for Medicare, your TRICARE coverage doesn't simply disappear. Instead, it transitions. If you're a military retiree (or dependent) who has paid Medicare taxes during your working years, you'll qualify for Medicare Part A (hospital insurance) premium-free, and you can enroll in Medicare Part B (medical insurance) for a monthly premium.
 
-**Once you enroll in both Medicare Part A and Part B, you automatically qualify for TRICARE for Life (TFL)** — no separate enrollment application required. TFL essentially acts as a secondary payer to Medicare, covering many of the costs that Medicare doesn't pay.
+**Once you enroll in both Medicare Part A and Part B, you automatically qualify for TRICARE for Life (TFL)** ,  no separate enrollment application required. TFL essentially acts as a secondary payer to Medicare, covering many of the costs that Medicare doesn't pay.
 
 ### How the Billing Cascade Works
 
@@ -64,7 +64,7 @@ This cannot be overstated: **if you don't enroll in Medicare Part B, you lose yo
 
 The standard Medicare Part B premium in 2024 is $174.70 per month (subject to income-related adjustments). While that's a real cost, it's far outweighed by the combined value of TFL coverage, which virtually eliminates most out-of-pocket medical expenses.
 
-[RELATED: Medicare Part B Enrollment Guide — Avoiding Costly Late Penalties]
+[RELATED: Medicare Part B Enrollment Guide ,  Avoiding Costly Late Penalties]
 
 ---
 
@@ -99,7 +99,7 @@ Military retirees with TFL have access to TRICARE's robust pharmacy benefit, whi
 - **Retail Network Pharmacies**: Modest copays for covered medications
 - **Non-network Retail Pharmacies**: Higher cost-share but still available
 
-Because of TRICARE's pharmacy benefit, many military retirees choose **not to enroll in Medicare Part D** (prescription drug coverage), since they're already well-covered. However, there's a nuance here — if you ever lose TRICARE coverage and need to enroll in Part D later, you won't face the late enrollment penalty because TRICARE is considered "creditable coverage."
+Because of TRICARE's pharmacy benefit, many military retirees choose **not to enroll in Medicare Part D** (prescription drug coverage), since they're already well-covered. However, there's a nuance here ,  if you ever lose TRICARE coverage and need to enroll in Part D later, you won't face the late enrollment penalty because TRICARE is considered "creditable coverage."
 
 [RELATED: Do You Need Medicare Part D If You Have TRICARE?]
 
@@ -111,7 +111,7 @@ Many beneficiaries wonder whether they can enroll in a Medicare Advantage plan (
 
 ### How TRICARE Interacts with Medicare Advantage
 
-When you're enrolled in a Medicare Advantage plan, that plan pays instead of Original Medicare. The challenge is that TRICARE for Life is designed to wrap around **Original Medicare** payments. When Medicare Advantage is in the picture, TRICARE for Life generally covers the same cost-sharing amounts it would have covered under Original Medicare — but only if the provider also accepts TRICARE.
+When you're enrolled in a Medicare Advantage plan, that plan pays instead of Original Medicare. The challenge is that TRICARE for Life is designed to wrap around **Original Medicare** payments. When Medicare Advantage is in the picture, TRICARE for Life generally covers the same cost-sharing amounts it would have covered under Original Medicare ,  but only if the provider also accepts TRICARE.
 
 In practice, this means:
 
@@ -121,7 +121,7 @@ In practice, this means:
 
 The Defense Health Agency's official guidance is that beneficiaries **generally do better financially staying with Original Medicare plus TRICARE for Life** rather than switching to Medicare Advantage. Before enrolling in any Medicare Advantage plan, always check with TRICARE directly about how your specific plan would interact with your benefits.
 
-[RELATED: Medicare Advantage vs. Original Medicare — Which Is Right for You?]
+[RELATED: Medicare Advantage vs. Original Medicare ,  Which Is Right for You?]
 
 ---
 
@@ -139,7 +139,7 @@ If you've worked and paid Medicare taxes for at least 10 years (40 quarters), Pa
 
 ### Step 3: Enroll in Medicare Part B
 
-Don't skip this step — it's the gateway to TRICARE for Life. Enroll during your Initial Enrollment Period to avoid late penalties. You can complete this enrollment alongside your Part A enrollment.
+Don't skip this step ,  it's the gateway to TRICARE for Life. Enroll during your Initial Enrollment Period to avoid late penalties. You can complete this enrollment alongside your Part A enrollment.
 
 ### Step 4: Confirm Your TRICARE for Life Status
 
@@ -202,6 +202,6 @@ While not impossible
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) ,  The definitive consumer guide to Medicare ,  enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) ,  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
 
