@@ -2,6 +2,7 @@ baseURL = "https://medicarestarter.com/"
 languageCode = "en-us"
 title = "Medicare Starter"
 
+
 enableRobotsTXT = true
 enableEmoji = true
 
