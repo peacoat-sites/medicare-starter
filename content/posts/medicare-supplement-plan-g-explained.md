@@ -170,6 +170,6 @@ Plan G isn't magic, and no insurance policy is. But for the right person, especi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) ,  The definitive consumer guide to Medicare ,  enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) ,  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22),  The definitive consumer guide to Medicare,  enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17),  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
 

@@ -166,7 +166,7 @@ The right Medigap plan isn't a one-size-fits-all answer. It depends on your heal
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) ,  The definitive consumer guide to Medicare ,  enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) ,  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15) ,  The original bestselling guide to navigating Medicare and Social Security timing ,  over 100,000 copies sold.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22),  The definitive consumer guide to Medicare,  enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17),  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15),  The original bestselling guide to navigating Medicare and Social Security timing,  over 100,000 copies sold.
 
