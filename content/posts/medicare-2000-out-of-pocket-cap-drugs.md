@@ -3,7 +3,7 @@ title: "Medicare $2000 Out Of Pocket Cap Drugs"
 date: 2026-05-29T21:49:13.773805+00:00
 draft: false
 description: "Medicare's new $2,000 annual out-of-pocket drug cap is here. Learn how this landmark change reduces costs for beneficiaries and which medications qualify under "
-image: ""
+image: "https://images.pexels.com/photos/17570086/pexels-photo-17570086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "$2000", "pocket", "drugs"]
 author: "Maria Vasquez"

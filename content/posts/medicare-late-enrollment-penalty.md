@@ -3,7 +3,7 @@ title: "Medicare Late Enrollment Penalty"
 date: 2026-05-29T22:01:44.459643+00:00
 draft: false
 description: "Learn how the Medicare late enrollment penalty works, why it happens, and how to avoid costly surcharges added to your monthly premiums for Part A, B, and D."
-image: ""
+image: "https://images.pexels.com/photos/8569643/pexels-photo-8569643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "late", "enrollment", "penalty"]
 author: "Alex Reeves"
