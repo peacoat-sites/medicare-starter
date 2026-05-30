@@ -68,6 +68,18 @@
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
     {{ end }}
 
+    {{- if .Params.faqs }}
+    <div class="faq-section">
+      <h2 class="faq-heading">Frequently Asked Questions</h2>
+      {{- range .Params.faqs }}
+      <div class="faq-item">
+        <h3 class="faq-question">{{ .q }}</h3>
+        <p class="faq-answer">{{ .a }}</p>
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
     <!-- Author Bio -->
     {{ with .Site.Params.persona_name }}
     <div class="author-bio">
