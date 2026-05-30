@@ -54,3 +54,9 @@
 </script>
 {{- end -}}
 {{ end }}
+
+{{- if and (eq .Type "posts") .Params.faqs }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{{- range $i, $faq := .Params.faqs }}{{- if $i }},{{ end }}{"@type":"Question","name":"{{ $faq.q }}","acceptedAnswer":{"@type":"Answer","text":"{{ $faq.a }}"}}{{- end }}]}
+</script>
+{{- end }}
