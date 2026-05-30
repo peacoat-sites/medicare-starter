@@ -1,6 +1,6 @@
 ---
 title: "Medicare Part B Explained"
-date: 2026-05-18T18:24:59.473355+00:00
+date: 2026-05-24T20:16:13.665636+00:00
 draft: false
 description: "Learn what Medicare Part B covers, including doctor visits, outpatient care, and preventive services, plus costs, eligibility, and how to enroll in this medical"
 image: https://images.pexels.com/photos/5439398/pexels-photo-5439398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

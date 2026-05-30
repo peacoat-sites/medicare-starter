@@ -1,6 +1,6 @@
 ---
 title: "Medicare Part C Explained"
-date: 2026-05-18T18:28:37.189655+00:00
+date: 2026-05-29T14:10:50.730199+00:00
 draft: false
 description: "Learn how Medicare Part C works, what it covers, and how it differs from Original Medicare. Find out if an Advantage plan is the right choice for you."
 image: https://images.pexels.com/photos/5466243/pexels-photo-5466243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

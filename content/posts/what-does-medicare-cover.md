@@ -1,6 +1,6 @@
 ---
 title: "What Does Medicare Cover"
-date: 2026-05-18T18:34:44.319861+00:00
+date: 2026-05-18T23:22:04.788613+00:00
 draft: false
 description: "Medicare covers hospital stays, doctor visits, preventive care, and more. Learn exactly what's included in each part of Medicare and what costs you may still ow"
 image: https://images.pexels.com/photos/5583969/pexels-photo-5583969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940

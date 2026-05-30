@@ -1,6 +1,6 @@
 ---
 title: "Medicare Initial Enrollment Period"
-date: 2026-05-29T21:53:41.577379+00:00
+date: 2026-05-23T00:00:47.111606+00:00
 draft: false
 description: "Learn when and how to enroll in Medicare during your Initial Enrollment Period to avoid late penalties and ensure seamless coverage when you turn 65."
 image: "https://images.pexels.com/photos/30298777/pexels-photo-30298777.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Medicare Annual Enrollment Period Dates 2026"
-date: 2026-05-29T21:57:53.560872+00:00
+date: 2026-05-18T17:46:53.244450+00:00
 draft: false
 description: "Compare 2026 Medicare Annual Enrollment Period dates, deadlines, and coverage changes. Learn when AEP starts, what you can change, and how to pick the right pla"
 image: "https://images.pexels.com/photos/15020647/pexels-photo-15020647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

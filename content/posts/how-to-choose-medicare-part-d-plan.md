@@ -1,6 +1,6 @@
 ---
 title: "How To Choose Medicare Part D Plan"
-date: 2026-05-28T22:23:18.226389+00:00
+date: 2026-05-22T15:26:27.345658+00:00
 draft: false
 description: "Compare Medicare Part D plans by checking your drug formulary, monthly premiums, deductibles, and pharmacy network to find the best coverage at the lowest cost."
 image: "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
