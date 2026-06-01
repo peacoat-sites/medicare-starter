@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Is a Medicare Advantage Plan Right for You? Take the Quiz"
 description: "A quick 7-question quiz to see how well a Medicare Advantage plan fits your habits, priorities, and preferences. For education only, not insurance or medical advice."
 slug: "is-medicare-advantage-right-for-you"
