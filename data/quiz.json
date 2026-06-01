@@ -1,0 +1,149 @@
+{
+  "title": "Is a Medicare Advantage Plan Right for You?",
+  "intro": "Answer 7 quick questions to see how well a Medicare Advantage (Part C) approach fits your habits, priorities, and preferences. This is a self-reflection tool for general education, not insurance or medical advice.",
+  "questions": [
+    {
+      "q": "When it comes to your monthly budget, what matters most to you?",
+      "options": [
+        {
+          "t": "Keeping my monthly premium as low as possible, even if I pay a bit when I use care",
+          "s": 3
+        },
+        {
+          "t": "A balance of low premiums and predictable costs",
+          "s": 1
+        },
+        {
+          "t": "Paying more each month so I rarely face surprise bills later",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about staying within a network of doctors and hospitals?",
+      "options": [
+        {
+          "t": "Fine by me, I mostly use local providers and don't mind a network",
+          "s": 3
+        },
+        {
+          "t": "I could adjust if the network includes my main doctor",
+          "s": 1
+        },
+        {
+          "t": "I want to see any doctor anywhere without referrals or network limits",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How would you describe your travel habits?",
+      "options": [
+        {
+          "t": "I'm mostly home, with occasional short trips",
+          "s": 3
+        },
+        {
+          "t": "I travel a few times a year within the country",
+          "s": 1
+        },
+        {
+          "t": "I spend long stretches in another state or travel often abroad",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Extra perks like dental, vision, hearing, or fitness benefits are something you...",
+      "options": [
+        {
+          "t": "Really want bundled into one plan",
+          "s": 3
+        },
+        {
+          "t": "Would appreciate but could take or leave",
+          "s": 1
+        },
+        {
+          "t": "Don't need, I'd rather arrange those separately",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you prefer to manage the paperwork and pieces of your coverage?",
+      "options": [
+        {
+          "t": "I like one card and one plan that bundles everything together",
+          "s": 3
+        },
+        {
+          "t": "I'm okay with a little coordination if it gets me what I want",
+          "s": 1
+        },
+        {
+          "t": "I'd rather build my own mix of separate parts and policies",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How comfortable are you with reviewing and possibly switching plans each year?",
+      "options": [
+        {
+          "t": "Comfortable, I'm happy to compare options during open enrollment",
+          "s": 3
+        },
+        {
+          "t": "I'll do it if needed, but I'd prefer to keep things steady",
+          "s": 1
+        },
+        {
+          "t": "I want to choose once and never think about it again",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How would you describe your current health and care needs?",
+      "options": [
+        {
+          "t": "Generally steady, with routine checkups and predictable visits",
+          "s": 3
+        },
+        {
+          "t": "A few ongoing needs, but nothing too complex",
+          "s": 1
+        },
+        {
+          "t": "Frequent specialist care or I expect that to grow, and I value maximum flexibility",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Medicare Advantage might not be your easiest fit right now",
+      "body": "Your answers lean toward wanting maximum flexibility, freedom to see any provider, and steady coverage that travels with you. Those are signals that a different path, like Original Medicare paired with a supplement, may feel more comfortable. That doesn't rule Advantage out, but it's worth understanding the trade-offs first. Start with the basics and see how the options compare side by side.",
+      "cta": "Read our Original Medicare vs. Advantage guide"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "Medicare Advantage could work well for you, with a little planning",
+      "body": "You have several traits that fit a Medicare Advantage approach, along with a few preferences worth double-checking, like network details or how you handle travel. With some homework, an Advantage plan could be a strong match. Focus on confirming your doctors are in-network and that the extra benefits you care about are actually included.",
+      "cta": "See our Medicare Advantage plan checklist"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You look like a strong Medicare Advantage candidate",
+      "body": "Your habits and priorities line up well with what Medicare Advantage offers: bundled benefits, low or no monthly premiums, local care, and the convenience of one plan. You're also comfortable reviewing your options each year, which helps you get the most from this kind of coverage. Dig into the details so you can compare specific plans with confidence.",
+      "cta": "Browse our beginner Medicare Advantage guides"
+    }
+  ],
+  "disclaimer": "This quiz is a self-reflection tool for general education only. It is not insurance advice, medical advice, or a plan recommendation, and it does not reflect any specific plan's benefits or eligibility. Before making any Medicare decision, talk with a licensed insurance advisor or a free State Health Insurance Assistance Program (SHIP) counselor, and consult your doctor about your health needs."
+}
