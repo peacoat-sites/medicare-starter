@@ -10,6 +10,17 @@ author: "Carol Davenport"
 author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-supplement-vs-medicare-advantage-cost"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I switch from Medicare Advantage to Medigap later if I change my mind?"
+    a: "You can technically apply for Medigap at any time, but unless you have a guaranteed issue right (triggered by specific life events, like your Advantage plan leaving your area), insurers in most states can review your medical history and either deny you coverage or charge you more. This is one of the biggest reasons to think carefully before leaving Medigap for Advantage in the first place. Your initial enrollment window is your strongest protection."
+  - q: "Does Medicare Advantage always include dental and vision coverage?"
+    a: "Many Advantage plans include some dental and vision benefits, but 'some' is doing a lot of work in that sentence. Coverage limits, networks, and what's actually covered vary enormously from plan to plan. Some plans offer a modest annual dental allowance that covers cleanings but little else. Always read the Evidence of Coverage document for specifics before you assume the benefits will meet your needs."
+  - q: "Is Medigap worth the higher premium if I'm currently healthy?"
+    a: "This is the most common question I hear, and there's no universal answer. What I tell clients is this: you're not just paying for the care you need today; you're buying access to guaranteed, stable cost-sharing for as long as you hold the policy. Whether that peace of mind is worth the premium depends on your financial cushion, your risk tolerance, and your health history. Someone with a strong family history of serious illness might feel very differently than someone with a clean bill of health at 65."
+  - q: "What's the difference between an HMO and PPO under Medicare Advantage?"
+    a: "A Health Maintenance Organization (HMO) Advantage plan typically requires you to choose a primary care physician, get referrals to see specialists, and stay within the plan's network except in true emergencies. A Preferred Provider Organization (PPO) plan gives you more flexibility to see out-of-network providers, usually at a higher cost-sharing level. PPO plans tend to have higher premiums than HMOs. For a deeper look at how Advantage plan types work, the Medicare Part C Explained article covers the structure in more detail."
+  - q: "Does the $0 premium on many Advantage plans mean I pay nothing for Medicare?"
+    a: "No. You still pay the Part B premium every month regardless of which coverage path you choose. In 2025, the standard Part B premium is set by Medicare and applies to nearly all enrollees. The $0 premium advertised by many Advantage plans refers only to the plan's own additional premium on top of Part B. You always owe Part B."
 ---
 
 Picture this: you just turned 65, you have two envelopes on the kitchen table, and both promise to "fill the gaps" in Original Medicare. One has a $0 monthly premium. The other has a premium that could top $200 a month. Most people grab the free one without a second thought. I've seen that choice come back to bite people in very expensive ways, and I've also seen it work out beautifully. The difference almost always comes down to one thing: understanding what you're actually comparing before you sign anything.

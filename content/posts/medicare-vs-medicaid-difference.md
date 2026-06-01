@@ -10,6 +10,17 @@ author: "Robert Hughes"
 author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "medicare-vs-medicaid-difference"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I have Medicare and Medicaid at the same time?"
+    a: "Yes. This is called being 'dual eligible' and it's more common than most people realize. About 12 million Americans are enrolled in both programs. Medicare pays first for covered services, and Medicaid may cover some or all of the remaining costs depending on your income level and which Medicaid program you qualify for."
+  - q: "If I'm on Medicare, do I still need to apply for Medicaid separately?"
+    a: "Yes. Medicare and Medicaid are separate programs with separate applications. Being enrolled in Medicare does not automatically enroll you in Medicaid. You apply for Medicaid through your state's Medicaid agency. There's no shame in applying if you think you may qualify; that's what the program is for."
+  - q: "Does Medicaid cover prescription drugs for Medicare beneficiaries?"
+    a: "If you're on both Medicare and Medicaid, your prescription drugs are generally covered through Medicare Part D, not Medicaid. You'll automatically be enrolled in a Part D plan (called an auto-enrollment or 'facilitated enrollment' plan) if you're full dual eligible and don't choose a plan yourself. These plans have low or zero premiums and limited cost-sharing for covered drugs."
+  - q: "What's the difference between Medicare Supplement (Medigap) and Medicaid?"
+    a: "Medicare Supplement insurance, commonly called Medigap, is a private insurance product you purchase to help cover Medicare's out-of-pocket costs. It has nothing to do with income eligibility. Medicaid is a government program based on financial need. If your income is too high for Medicaid but you want help with Medicare cost-sharing, a Medigap policy is one option. You can find a helpful overview of Medigap options in this guide to Medicare supplement insurance on Medicare.gov."
+  - q: "Will Medicare or Medicaid pay for home care?"
+    a: "Medicare covers short-term skilled home health care (like a nurse visiting after a hospitalization) under specific conditions. It doesn't cover custodial home care, meaning help with bathing, dressing, and daily activities, unless it's combined with skilled care. Medicaid, especially through Home and Community Based Services (HCBS) waivers, can cover long-term custodial home care for people who qualify financially. The rules vary significantly by state, so checking with your state Medicaid office or a SHIP counselor is essential."
 ---
 
 Every week, I get a call from someone who says something like: "My neighbor told me I'm on the wrong program and I've been overpaying for years." Nine times out of ten, what they've stumbled on is the single most common source of confusion in all of American healthcare: Medicare and Medicaid sound almost identical, they're both government health programs, and they can even overlap, but they are fundamentally different animals. One is based on age and work history. The other is based on income. Mixing them up can cost you real money and real access to care.

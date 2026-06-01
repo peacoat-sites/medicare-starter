@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-medicare-part-d-plans-2026"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I switch Part D plans every year?"
+    a: "Yes. During the Annual Enrollment Period (October 15 through December 7 each year), you can switch to any Part D plan available in your area. Your new coverage starts January 1st. You don't need a reason to switch, and your health status can't be used against you in a standalone Part D plan."
+  - q: "What if my doctor prescribes a drug that isn't on my plan's formulary?"
+    a: "You have options. You can request a formulary exception, which asks the plan to cover the drug as an exception to their standard rules. Your doctor will need to provide documentation showing the drug is medically necessary. You can also ask your doctor if a therapeutically similar drug is available that is covered. If the exception is denied, you have the right to appeal through a formal process."
+  - q: "Is a $0 premium Part D plan ever a good choice?"
+    a: "Sometimes, yes. If your drug costs are very low, you take mostly generic medications, and you don't expect that to change, a low or no-premium plan might make sense. But always check the total estimated annual cost in Medicare's Plan Finder before deciding. A $0 premium plan with high drug tier placements can cost far more than a plan with a modest monthly premium."
+  - q: "What's the difference between a standalone Part D plan and drug coverage through Medicare Advantage?"
+    a: "A standalone Part D plan (PDP) works alongside Original Medicare Parts A and B. A Medicare Advantage Prescription Drug plan (MA-PD) bundles medical, hospital, and drug coverage into one plan. If you're happy with Original Medicare and just need drug coverage, a standalone PDP is your path. If you're evaluating Medicare Advantage as a whole, make sure any plan you consider includes drug coverage and that you evaluate the drug formulary as part of your overall comparison."
+  - q: "What happens if I miss the Open Enrollment deadline?"
+    a: "If you miss December 7th and you already have Part D, you're locked into your current plan until the next enrollment period (with some exceptions, like qualifying life events or Extra Help status). If you're new to Medicare and miss your initial enrollment window without having creditable coverage elsewhere, you'll face the Late Enrollment Penalty, which is permanently added to your premium. The penalty is calculated as 1% of the national base beneficiary premium for each full month you went without coverage."
 ---
 
 Picture this: it's November, you're sitting at the kitchen table with a stack of Medicare mail, and your current Part D plan just sent a notice that your blood pressure medication is jumping from a $10 copay to $47 starting January 1st. You didn't change anything. The plan did. And now you have about six weeks to figure out what to do about it. I've seen this exact situation play out hundreds of times, and every single time the person at that kitchen table says the same thing: "I didn't know I could switch."

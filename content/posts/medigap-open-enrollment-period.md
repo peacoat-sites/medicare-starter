@@ -10,6 +10,17 @@ author: "Carol Davenport"
 author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medigap-open-enrollment-period"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I buy a Medigap policy before my OEP starts?"
+    a: "In some cases, yes. Some states allow you to purchase a Medigap plan during the three months before your Part B coverage begins. This lets coverage start on the same day your Part B kicks in, so there's no gap. Availability varies by state, so confirm with your state's insurance department or check Medicare.gov."
+  - q: "What if I missed my Medigap Open Enrollment Period?"
+    a: "You can still apply for a Medigap plan after your OEP ends, but you won't have guaranteed issue rights in most states. Insurers can review your health history and may decline you, charge higher premiums, or exclude certain conditions. A few states (Connecticut, Massachusetts, Maine, New York, and others) have year-round guaranteed issue rules. Check whether your state offers additional protections."
+  - q: "Does the Medigap OEP apply to Medicare Advantage plans too?"
+    a: "No. The Medigap OEP is specifically for Medicare Supplement Insurance policies. Medicare Advantage plans have their own enrollment windows. Medigap and Medicare Advantage are separate paths; you can't have both active at the same time in any meaningful way."
+  - q: "Can an insurer charge me more because I smoke or have a pre-existing condition during my OEP?"
+    a: "During your Medigap OEP, insurers cannot deny you coverage or charge more because of pre-existing conditions. However, some states allow tobacco surcharges, where smokers pay a higher premium. That's legal even during the open enrollment window. Ask any insurer you're considering whether they apply tobacco rating."
+  - q: "How much does Medigap cost, and is it worth it?"
+    a: "Premiums vary widely based on your location, the plan letter you choose, the insurer's pricing method, and your age. There's no single 'typical' cost that applies universally. What I can say is that for people who use medical services regularly or have chronic conditions, a Medigap plan frequently pays for itself. The how much does Medigap cost guide on this site walks through the factors that influence pricing so you can build a realistic estimate for your situation."
 ---
 
 Imagine you've just turned 65, enrolled in Medicare Part B (the part that covers doctor visits and outpatient services), and your neighbor mentions she was denied a Medigap policy because of her diabetes. You think: *could that happen to me?* The answer depends almost entirely on timing. There's a window, a specific and limited one, during which insurance companies legally cannot turn you away or charge you more because of your health history. Miss it, and you could spend years paying higher premiums, or get denied coverage altogether. That window is called the Medigap Open Enrollment Period, and understanding it could be one of the most financially important things you do this decade.

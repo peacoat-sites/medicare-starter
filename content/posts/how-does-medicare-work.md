@@ -10,6 +10,17 @@ author: "Robert Hughes"
 author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "how-does-medicare-work"
 affiliate_disclosure: true
+faqs:
+  - q: "When does Medicare coverage actually begin?"
+    a: "It depends on when you enroll. If you sign up during the first three months of your Initial Enrollment Period (before your birthday month), coverage starts the first day of your birthday month. If you enroll during your birthday month, coverage begins the following month. Enrolling in month six or seven of your IEP pushes your start date out further. The Social Security Administration website walks through these specific timing rules if you want the precise details for your situation."
+  - q: "Do I have to pay for Medicare if I worked my whole life?"
+    a: "Most people don't pay a premium for Part A because of their work history. Part B, however, always has a premium regardless of how many years you worked. Think of your Medicare taxes as covering Part A, not the whole program. The standard Part B premium changes each year, so check Medicare.gov for the current figure."
+  - q: "Can I keep my doctor if I switch to Medicare?"
+    a: "With Original Medicare, you can see any doctor or specialist who accepts Medicare, and the vast majority do. With Medicare Advantage, you'll need to verify that your specific doctors are in that plan's network before enrolling. Don't assume, and don't rely on an old directory. Call the doctor's office directly and ask whether they accept the specific plan you're considering."
+  - q: "What if I can't afford my Medicare costs?"
+    a: "You may qualify for help. Medicare Savings Programs, run by each state's Medicaid agency, can pay your Part B premium and sometimes your deductibles and copays if your income and assets are below certain limits. The Extra Help program (also called the Low Income Subsidy, or LIS) can significantly reduce Part D drug costs. Your local State Health Insurance Assistance Program (SHIP) counselor, a free service in every state, can help you apply. Find yours at shiphelp.org."
+  - q: "Is Medicare the same as Medicaid?"
+    a: "No, and the confusion is understandable given the similar names. Medicare is federal health insurance based on age (65+) or disability, and most people earn it through their work history. Medicaid is a joint federal-state program based on income and financial need. Some people qualify for both, which is called being 'dual eligible,' and in those cases Medicaid can help cover Medicare's premiums and cost-sharing. They're two distinct programs with different rules, different income limits, and different covered services."
 ---
 
 You're turning 65 in three months, your employer just sent a letter about ending your group health coverage, and someone at your church mentioned you might owe a penalty if you don't enroll in Medicare at exactly the right time. That last part is absolutely true, and it's the kind of detail that trips up thousands of people every year. Medicare is one of the most valuable benefits you'll ever receive, but it comes with rules, moving parts, and deadlines that aren't always obvious. Let me walk you through exactly how it works.

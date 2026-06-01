@@ -10,6 +10,17 @@ author: "Carol Davenport"
 author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-advantage-vs-original-medicare"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I have both Original Medicare and Medicare Advantage at the same time?"
+    a: "No. When you enroll in a Medicare Advantage plan, that plan takes over your Medicare coverage. You're still technically enrolled in Medicare Parts A and B, and you still pay your Part B premium, but your Advantage plan handles your actual benefits. You can't use Original Medicare and a Medicare Advantage plan simultaneously for the same services."
+  - q: "Does Medicare Advantage always include prescription drug coverage?"
+    a: "Most Medicare Advantage plans include Part D drug coverage, but not all of them do. Before enrolling, confirm whether your plan includes drug coverage and review the formulary (the list of covered drugs) to make sure your medications are covered at a reasonable cost tier."
+  - q: "If I travel a lot, is Original Medicare the better choice?"
+    a: "For most frequent travelers, yes. Original Medicare is accepted by any provider in the U.S. who accepts Medicare, with no network restrictions. Medicare Advantage plans typically only cover care in their service area except in genuine emergencies. If you spend significant time in another state, Original Medicare gives you much more flexibility."
+  - q: "Are there income-based programs that affect which option is better for me?"
+    a: "Yes. If your income is limited, you may qualify for programs like Extra Help (for drug costs) or your state's Medicaid program, which can work alongside either Original Medicare or Medicare Advantage. These programs can dramatically change the cost comparison. A SHIP counselor can help you identify what you might qualify for."
+  - q: "What happens if I'm not happy with my Medicare Advantage plan?"
+    a: "You have options. During the Medicare Advantage Open Enrollment Period, which runs January 1 through March 31 each year, you can switch to a different Advantage plan or return to Original Medicare. You can also make changes during the Annual Enrollment Period each fall. Just remember the Medigap underwriting issue mentioned above if you're considering returning to Original Medicare."
 ---
 
 Imagine you're sitting at your kitchen table, staring at a stack of Medicare mail that arrived right around your 65th birthday. One envelope promises "$0 premiums and free dental!" Another is from the government and looks a lot less exciting. You're not sure which one is the real Medicare and which one is something else entirely. If that sounds familiar, you're not alone. Every year, millions of Americans face this exact moment of confusion, and the choice they make can affect their medical bills, their doctors, and their peace of mind for years to come.

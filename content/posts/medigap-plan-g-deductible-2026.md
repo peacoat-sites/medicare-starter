@@ -10,6 +10,17 @@ author: "Robert Hughes"
 author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "medigap-plan-g-deductible-2026"
 affiliate_disclosure: true
+faqs:
+  - q: "Does Plan G cover the Part B deductible in 2026?"
+    a: "No. The Medicare Part B deductible, which is $257 in 2026, is the one cost Plan G specifically excludes. You pay that amount yourself at the beginning of each calendar year before your Plan G benefits apply to Part B services."
+  - q: "Can my Plan G premium change from year to year?"
+    a: "Yes, it can. Medigap premiums are set by private insurance companies and can increase over time. How they increase depends on the rating method the insurer uses: community-rated, issue-age-rated, or attained-age-rated. Attained-age plans often start with lower premiums but increase as you get older. It's smart to ask your insurer which rating method they use before you buy."
+  - q: "Is there a deductible for hospital stays under Plan G?"
+    a: "No. One of the strongest benefits of Plan G is that it covers the Medicare Part A deductible in full. For 2026, that deductible is $1,676 per benefit period. If you were hospitalized, you'd pay nothing for that Part A deductible. Plan G handles it."
+  - q: "What happens if I don't meet my Part B deductible in 2026?"
+    a: "If you happen to go a whole year without using any Part B services, you simply carry forward without having paid the deductible. It resets each January 1. There's no penalty for not meeting it, and you don't lose any coverage."
+  - q: "Can someone who already has Plan F switch to Plan G?"
+    a: "Technically, you can apply to switch from Plan F to Plan G if you're willing to go through medical underwriting (health questions). In most states, insurers can decline you or charge higher premiums based on your health. The financial incentive to switch is that Plan G premiums are often lower than Plan F premiums. Whether the premium savings outweigh the loss of the Part B deductible coverage depends on your specific quotes and health situation. A licensed agent or SHIP counselor can help you do the math."
 ---
 
 Imagine you just turned 65, and your doctor's office hands you a bill for $257 after a routine visit. You thought Medicare covered everything. It doesn't, and that surprise gap is exactly why millions of people choose Medigap Plan G every year. But here's the part that trips people up: Plan G has one out-of-pocket cost you still have to pay yourself, and in 2026 that cost has changed. If you're shopping for a supplement plan right now, understanding this single deductible could save you real money and a lot of frustration.

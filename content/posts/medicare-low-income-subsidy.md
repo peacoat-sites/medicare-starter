@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-low-income-subsidy"
 affiliate_disclosure: true
+faqs:
+  - q: "Does Extra Help affect my Social Security benefits or other income?"
+    a: "No. Receiving Extra Help does not count as income and does not reduce your Social Security, SSI, or any other federal benefit. It's a cost-sharing subsidy, not income, so there is no tax impact or benefit reduction to worry about."
+  - q: "I own my home. Does that disqualify me?"
+    a: "No. Your primary home is excluded from the resource calculation entirely. The same goes for one vehicle, household goods, personal belongings, and certain burial funds. Many people assume home ownership disqualifies them, but it doesn't. The resource test focuses on liquid financial assets like bank accounts and investments."
+  - q: "Can I get Extra Help if I have employer or union retiree drug coverage?"
+    a: "The research here is a bit mixed depending on how your retiree coverage is structured. If your retiree plan is considered 'creditable' (meaning it's at least as good as standard Medicare Part D), you may not need a separate Part D plan. However, Extra Help eligibility is based on enrolling in Part D, so if you don't enroll in Part D, you can't use the Extra Help subsidy. Talk to a SHIP counselor before making changes to retiree coverage, because the decision can be difficult to undo."
+  - q: "How will I know which Part D plans I can join for $0 premium with Extra Help?"
+    a: "Each year, Medicare calculates a regional benchmark premium for Part D plans. If a plan's premium falls at or below that benchmark, full Extra Help recipients pay $0. The benchmark varies by state. The Medicare Plan Finder tool at Medicare.gov lets you filter plans by your Extra Help status so you can see exactly which plans cost you nothing in premium."
+  - q: "What if my income or resources go up during the year?"
+    a: "You're required to report significant changes to the SSA. If your income or resources increase enough to push you over the eligibility thresholds, your subsidy may end. However, changes typically take effect at your next annual redetermination rather than immediately, depending on the nature of the change. When in doubt, call SSA to ask how a specific change affects your status."
 ---
 
 Imagine you're paying $60 or $70 a month in Medicare prescription drug premiums, plus copays that add up to hundreds of dollars every quarter, and you find out after the fact that you qualified for a program that could have reduced all of that to nearly zero. I've seen this happen more times than I can count. The Medicare Low Income Subsidy, also called Extra Help, is one of the most valuable and most overlooked benefits in the entire Medicare system. Every year, the Social Security Administration estimates that hundreds of thousands of eligible people aren't enrolled. That's not a rounding error. That's real money left on the table by real people who simply didn't know where to look.

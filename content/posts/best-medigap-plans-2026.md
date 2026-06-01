@@ -10,6 +10,17 @@ author: "Carol Davenport"
 author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "best-medigap-plans-2026"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I be denied a Medigap plan if I have pre-existing conditions?"
+    a: "During your six-month Medigap Open Enrollment Period, no. Insurance companies are legally required to sell you any plan they offer at standard rates, regardless of your health history. Outside that window, in most states, they can use medical underwriting and may deny you or charge more. A handful of states, including New York, Connecticut, and Massachusetts, have year-round guaranteed issue laws. Check your state's rules."
+  - q: "Is Plan G better than Plan F in 2026?"
+    a: "For anyone newly eligible for Medicare, this is a moot point: Plan F isn't available to you. For those who already have Plan F, it's usually worth keeping if the premium is reasonable. Plan G covers nearly everything Plan F does except the Part B deductible. Since that deductible is just over $250 per year, Plan G is often the smarter financial choice even for those who could still access Plan F."
+  - q: "Does Medigap cover prescription drugs?"
+    a: "No. Medigap plans sold after 2006 don't include prescription drug coverage. You'll need to enroll in a separate Medicare Part D prescription drug plan. Missing your Part D enrollment window can result in a late enrollment penalty that lasts as long as you have Part D, so don't delay that enrollment either."
+  - q: "How much does Medigap cost per month?"
+    a: "Premiums vary significantly by plan type, your age, your location, the insurer, and the pricing method they use. A 65-year-old nonsmoker might pay anywhere from under $100 to over $300 per month for Plan G depending on where they live and which company they choose. Get quotes from at least three insurers using Medicare.gov's comparison tool or a licensed broker."
+  - q: "Can I switch Medigap plans after I've already enrolled?"
+    a: "You can apply to switch at any time, but outside of your Open Enrollment Period, the new insurer will typically ask health questions and can deny you. If you're in good health, switching to a lower-premium option may make sense. If your health has changed, you may find it difficult to qualify. Review your options annually, and if you're considering a switch, do it sooner rather than later."
 ---
 
 Imagine you just turned 65, you've enrolled in Original Medicare (Parts A and B), and your very first Explanation of Benefits arrives in the mail. The numbers are a little alarming. Medicare paid its share, but there's still a 20% coinsurance charge staring back at you, plus a hospital deductible that, in 2025, sits at $1,676 per benefit period. Multiply that by a serious illness or two surgeries in a year, and you can see how quickly the out-of-pocket costs add up. That's the gap Medigap was designed to fill, and choosing the right plan in 2026 could save you thousands of dollars or give you genuine peace of mind when you need it most.

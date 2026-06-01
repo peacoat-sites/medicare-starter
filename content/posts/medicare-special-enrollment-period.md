@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-special-enrollment-period"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I get a Special Enrollment Period if I missed my Initial Enrollment Period because I didn't know about it?"
+    a: "No. Lack of awareness isn't a qualifying event. Medicare won't grant an SEP for enrollment confusion or administrative oversight. If you missed your IEP without qualifying coverage in place, you'll face the General Enrollment Period and, very likely, a Part B late enrollment penalty of 10% for each full 12-month period you went without Part B when you were eligible."
+  - q: "Does my spouse's employer coverage protect me from a late penalty?"
+    a: "Yes, as long as your spouse is actively employed and you're covered under that group health plan. When your spouse retires or the coverage ends, your eight-month SEP clock starts. The plan must be employer-sponsored group coverage based on active work, not retiree coverage."
+  - q: "What happens if I miss my Special Enrollment Period?"
+    a: "You'll have to wait for the General Enrollment Period (January 1 through March 31), coverage won't start until July 1, and you'll likely owe a Part B late enrollment penalty for every 12-month period you delayed. That penalty is permanent and added to your premium every month you have Part B going forward."
+  - q: "Do I need to enroll in Part A during an SEP, or just Part B?"
+    a: "Most people are automatically enrolled in Part A at 65 if they're collecting Social Security, and Part A is usually premium-free. The more critical decision is Part B, which has a monthly premium and is where the late penalty applies. That said, if you have a Health Savings Account (HSA) through work, know that enrolling in any part of Medicare, including Part A, stops your ability to contribute to that HSA. Plan accordingly before you enroll."
+  - q: "Is there a Special Enrollment Period for Medicare Part D if I had other drug coverage?"
+    a: "Yes. If you had other 'creditable' prescription drug coverage (coverage at least as good as Medicare's standard Part D benefit) and you lose it, you typically have 63 days from the date coverage ends to join a Part D plan without a late penalty. Your former insurer is required to notify you in writing whether your coverage was creditable. Keep that letter."
 ---
 
 You missed your Medicare signup window and now you're panicking. Or maybe you just retired at 67, lost your employer health coverage last Friday, and someone told you that you "might" be able to still enroll. The "might" is doing a lot of work in that sentence, and the uncertainty is exactly what this article is here to fix.

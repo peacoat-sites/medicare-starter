@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-initial-enrollment-period"
 affiliate_disclosure: true
+faqs:
+  - q: "What if I turn 65 but I'm still working full-time with employer insurance?"
+    a: "You likely qualify to delay Part B without penalty, using the Special Enrollment Period when your coverage ends. The key is that coverage must be through active employment, either yours or a spouse's, at a company with 20 or more employees. Part A is usually free (if you've paid Medicare taxes for at least 10 years) and many people enroll in it even while delaying Part B, since it doesn't require a premium. Before making this decision, I'd strongly suggest speaking with your HR department and a Medicare counselor."
+  - q: "Can I sign up for Medicare online?"
+    a: "Yes. You can apply for Medicare Part A and Part B through the Social Security Administration's website at SSA.gov. The online application takes about 10-15 minutes if you have your information ready. You can also call 1-800-MEDICARE (1-800-633-4227) or visit a local Social Security office if you prefer in-person help."
+  - q: "What happens if I miss my Initial Enrollment Period entirely?"
+    a: "You'll generally have to wait for the General Enrollment Period (January 1 to March 31), with coverage starting July 1 of that year, and you may owe late enrollment penalties on Part B and Part D going forward. There are specific exceptions for people with qualifying special circumstances, but missing the IEP without a valid reason is one of the most costly Medicare mistakes I see."
+  - q: "Does the IEP apply to Medicare Advantage and Part D too?"
+    a: "Yes. Your IEP applies across Medicare Parts A, B, C, and D. You can enroll in a Medicare Advantage plan or a standalone Part D plan during this same seven-month window. The timing rules for coverage start dates apply the same way. Shopping for these plans before your birthday month gives you the most flexibility."
+  - q: "I'm turning 65 but don't plan to retire for several years. Do I need to do anything?"
+    a: "You should at minimum review your situation. If you're covered through qualifying employer insurance, you probably don't need to enroll in Part B yet, but you should document that coverage carefully. You may still want to enroll in Part A since it's premium-free for most people. Don't just ignore the IEP without consciously deciding what applies to your situation. The 'do nothing' approach can mean a penalty that follows you for life."
 ---
 
 Most people assume they have plenty of time to sign up for Medicare. They picture a wide-open window, maybe a year or two around their 65th birthday, and figure they'll get around to it. What I've found after two decades helping seniors work through this is that the actual window is far shorter than people expect, and missing it by even a single month can cost you money every month for the rest of your life. That's not a scare tactic. It's just the math. The Medicare Initial Enrollment Period (IEP) is seven months long, and exactly when those seven months fall makes a real difference in when your coverage actually starts. Let me walk you through what I've learned, including the parts that often catch people off guard.

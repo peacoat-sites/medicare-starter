@@ -10,6 +10,17 @@ author: "Robert Hughes"
 author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "switching-from-medicare-advantage-to-original-medicare"
 affiliate_disclosure: true
+faqs:
+  - q: "Will I automatically get my Original Medicare back when I leave a Medicare Advantage plan?"
+    a: "Yes. Original Medicare (Part A and Part B) never actually goes away when you join a Medicare Advantage plan. It stays active in the background. When you disenroll from Medicare Advantage, your Original Medicare benefits become your primary coverage again automatically. You don't need to re-enroll in Part A or Part B."
+  - q: "Can I be denied Medigap coverage when I switch back?"
+    a: "In most states, yes. Unless you have a guaranteed issue right or live in a state with special protections, Medigap insurers can use medical underwriting to decline you or charge higher premiums based on your health history. This is the single most important factor to investigate before you decide to switch. A SHIP counselor can tell you what protections apply in your state."
+  - q: "What if I switch back and then want to rejoin a Medicare Advantage plan later?"
+    a: "You can rejoin a Medicare Advantage plan during a future AEP or a qualifying SEP. However, keep in mind that if you later want Medigap again, you'd face the same underwriting concerns. Bouncing back and forth between Advantage and Original Medicare can limit your future Medigap options significantly."
+  - q: "Does switching back to Original Medicare affect my Social Security benefit?"
+    a: "No. Your Social Security payments are separate from your Medicare coverage choice. The Part B premium is still deducted from your Social Security check regardless of whether you have Original Medicare or Medicare Advantage. The amount you pay for Part B doesn't change based on your coverage type."
+  - q: "What if I have both Medicare and employer insurance?"
+    a: "This situation adds an extra layer of complexity. If you or your spouse is still working and covered by an employer plan, the coordination between Medicare and that employer coverage affects which plan pays first. Leaving Medicare Advantage doesn't change the fundamental rules about primary and secondary payer status. Our article on Medicare and employer insurance covers this in detail and is worth reading before you make any changes."
 ---
 
 Imagine you've been happy with your Medicare Advantage plan for three years, but your favorite cardiologist just left the network. Or maybe you're spending winters in Arizona and summers in Maine, and your HMO (Health Maintenance Organization) plan simply doesn't cover you well outside your home service area. These situations happen more than most people realize, and they lead a lot of seniors to ask the same question: "Can I go back to Original Medicare?" The answer is yes, but the timing, the rules, and especially the Medigap (Medicare Supplement Insurance) piece of it can catch you off guard if you're not prepared.
