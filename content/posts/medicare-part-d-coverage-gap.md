@@ -3,7 +3,7 @@ title: "Medicare Part D Coverage Gap"
 date: 2026-05-29T13:50:32.184846+00:00
 draft: false
 description: "Learn how the Medicare Part D coverage gap works, what costs you may face, and how to save money on prescription drugs while in the donut hole."
-image: "https://images.pexels.com/photos/5790822/pexels-photo-5790822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/17820733/pexels-photo-17820733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Part", "coverage"]
 author: "Maria Vasquez"

@@ -3,7 +3,7 @@ title: "Medicare Extra Help Program"
 date: 2026-05-24T23:38:53.590249+00:00
 draft: false
 description: "Learn how the Medicare Extra Help program reduces prescription drug costs for eligible beneficiaries. Find out if you qualify and how to apply for this valuable"
-image: "https://images.pexels.com/photos/8441778/pexels-photo-8441778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34520606/pexels-photo-34520606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Extra", "Help", "program"]
 author: "Dana Hargrove"

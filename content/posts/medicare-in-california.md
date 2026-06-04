@@ -3,7 +3,7 @@ title: "Medicare In California"
 date: 2026-06-02T12:56:47.779993+00:00
 draft: false
 description: "Learn how Medicare works in California, including coverage options, costs, and how to enroll. Find plans that fit your health needs and budget in the Golden Sta"
-image: "https://images.pexels.com/photos/5790815/pexels-photo-5790815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34945286/pexels-photo-34945286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "California"]
 author: "Alex Reeves"

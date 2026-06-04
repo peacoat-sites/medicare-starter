@@ -3,7 +3,7 @@ title: "Medicare Extra Help By State"
 date: 2026-06-03T14:12:45.623474+00:00
 draft: false
 description: "Learn how Medicare Extra Help benefits vary by state. Find eligibility requirements, income limits, and how to apply for prescription drug cost assistance near "
-image: "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29372730/pexels-photo-29372730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "Extra", "Help", "state"]
 author: "Maria Vasquez"
