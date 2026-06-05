@@ -1,0 +1,63 @@
+{
+  "title": "Medicare Costs: 2025 vs. 2026",
+  "year_prev": "2025",
+  "year_curr": "2026",
+  "source": "Centers for Medicare & Medicaid Services (CMS)",
+  "updated": "Updated for 2026 \u2014 figures announced by CMS on November 14, 2025",
+  "rows": [
+    {
+      "label": "Part B standard premium (monthly)",
+      "prev": "$185.00",
+      "curr": "$202.90",
+      "change": "+$17.90"
+    },
+    {
+      "label": "Part B annual deductible",
+      "prev": "$257",
+      "curr": "$283",
+      "change": "+$26"
+    },
+    {
+      "label": "Part A inpatient hospital deductible (per benefit period)",
+      "prev": "$1,676",
+      "curr": "$1,736",
+      "change": "+$60"
+    },
+    {
+      "label": "Part A coinsurance, days 61\u201390 (per day)",
+      "prev": "$419",
+      "curr": "$434",
+      "change": "+$15"
+    },
+    {
+      "label": "Part A coinsurance, lifetime reserve days (per day)",
+      "prev": "$838",
+      "curr": "$868",
+      "change": "+$30"
+    },
+    {
+      "label": "Skilled nursing facility coinsurance, days 21\u2013100 (per day)",
+      "prev": "$209.50",
+      "curr": "$217.00",
+      "change": "+$7.50"
+    },
+    {
+      "label": "Part A premium \u2014 fewer than 30 quarters (monthly)",
+      "prev": "$518",
+      "curr": "$565",
+      "change": "+$47"
+    },
+    {
+      "label": "Part A premium \u2014 30\u201339 quarters (monthly)",
+      "prev": "$285",
+      "curr": "$311",
+      "change": "+$26"
+    },
+    {
+      "label": "Part A premium \u2014 40+ quarters / most people (monthly)",
+      "prev": "$0",
+      "curr": "$0",
+      "change": "No change"
+    }
+  ]
+}
