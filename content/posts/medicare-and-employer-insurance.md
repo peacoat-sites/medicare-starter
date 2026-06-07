@@ -177,13 +177,3 @@ When your employer coverage ends, you trigger a Special Enrollment Period that g
 *Photo by [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) on Pexels*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22),  The definitive consumer guide to Medicare,  enrollment windows, Part A/B/C/D, and supplement plans. Written by a former AARP Medicare editor.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17),  Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap selection in depth.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22),  Certified pet first aid kit with step-by-step instructions,  an essential item for every pet owner, especially before vet visits.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32),  Vet-approved 95-piece kit for dogs and cats,  covers cuts, burns, sprains, and emergencies until you can reach a vet.
-
