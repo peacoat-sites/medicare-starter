@@ -23,10 +23,6 @@ faqs:
     a: "File SSA Form SSA-44 with the Social Security Administration. You can download it at SSA.gov, call 1-800-772-1213, or visit your local Social Security office. You'll need documentation of your qualifying life event and a reasonable estimate of your current-year income. File as soon as you receive your IRMAA notice, since processing takes time and you want any reduction to apply to as many months as possible."
 ---
 
-*By Dana Hargrove*
-
----
-
 Here's something that catches people completely off guard every single year: a letter from Social Security in the fall, telling them their Medicare premiums are going up, sometimes by hundreds of dollars a month. No warning. No obvious reason. Just a higher number, effective January 1st.
 
 That letter is about IRMAA, the Income-Related Monthly Adjustment Amount, and I've watched it blindside otherwise financially savvy retirees more times than I can count. The couple who sold a rental property in 2024. The woman who did a large Roth conversion the year she retired. The man whose wife passed away, changing their filing status from married to single, which cut the income thresholds almost in half. Every one of them ended up paying significantly more for Medicare Part B and Part D in a subsequent year, and most of them had no idea it was coming.
