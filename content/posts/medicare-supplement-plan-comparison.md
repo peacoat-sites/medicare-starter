@@ -6,8 +6,6 @@ description: "Compare Medicare supplement plans side by side to find the best co
 image: https://images.pexels.com/photos/5466271/pexels-photo-5466271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "plan", "comparison"]
-author: "Linda Morrison"
-author_bio: "Certified Medicare counselor with 20 years helping seniors understand their benefits options."
 slug: "medicare-supplement-plan-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your insurer stops offering Medigap in your state, you typically receive a guaranteed issue right to buy a new Medigap policy from another company without medical underwriting, as long as you apply within a specific timeframe. Keep an eye on notices from your insurer and don't let any deadlines pass. Contact your state's SHIP program immediately if this happens."
   - q: "Does Medigap cover dental, vision, or hearing?"
     a: "Standard Medigap plans don't cover dental, vision, or hearing. Those are gaps in Medicare itself, not just in Medigap. Some insurers bundle add-on benefits with their Medigap policies, but these are separate from the standardized Medigap benefits and vary widely. If dental and vision coverage matter to you, look at those add-ons separately and compare them like any other insurance product. Choosing a Medigap plan is one of the most consequential insurance decisions you'll make. But it doesn't have to be overwhelming. The standardization of plans takes most of the complexity off the table. Once"
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you're 64, retirement is three months away, and you're staring at a stack of mailers from insurance companies, each one promising the "best" Medicare supplement plan. One brochure says Plan G is the gold standard. Another insists Plan N will save you a fortune. A third one doesn't even explain what the letters mean. If your kitchen table looks like that right now, you're in the right place. Let's sort this out together.

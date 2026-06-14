@@ -6,8 +6,6 @@ description: "Learn about Medicare Special Enrollment Periods, when you qualify,
 image: "https://images.pexels.com/photos/9052846/pexels-photo-9052846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "Special", "Enrollment", "Period"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-special-enrollment-period"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most people are automatically enrolled in Part A at 65 if they're collecting Social Security, and Part A is usually premium-free. The more critical decision is Part B, which has a monthly premium and is where the late penalty applies. That said, if you have a Health Savings Account (HSA) through work, know that enrolling in any part of Medicare, including Part A, stops your ability to contribute to that HSA. Plan accordingly before you enroll."
   - q: "Is there a Special Enrollment Period for Medicare Part D if I had other drug coverage?"
     a: "Yes. If you had other 'creditable' prescription drug coverage (coverage at least as good as Medicare's standard Part D benefit) and you lose it, you typically have 63 days from the date coverage ends to join a Part D plan without a late penalty. Your former insurer is required to notify you in writing whether your coverage was creditable. Keep that letter."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 You missed your Medicare signup window and now you're panicking. Or maybe you just retired at 67, lost your employer health coverage last Friday, and someone told you that you "might" be able to still enroll. The "might" is doing a lot of work in that sentence, and the uncertainty is exactly what this article is here to fix.

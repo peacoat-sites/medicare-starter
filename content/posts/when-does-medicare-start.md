@@ -6,8 +6,6 @@ description: "Find out exactly when Medicare starts, including key enrollment ag
 image: https://images.pexels.com/photos/5583974/pexels-photo-5583974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["when", "does", "Medicare", "start"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "when-does-medicare-start"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, it can. If you're covered under your spouse's employer group health plan and that employer has 20 or more employees, you generally qualify for the Special Enrollment Period when that coverage ends. You'll have eight months to enroll in Part B without penalty. Keep documentation of your coverage dates because you may need to prove creditable coverage."
   - q: "When does Part D (drug coverage) start?"
     a: "Part D coverage can start as early as the first day of the month you're first eligible for Medicare, as long as you enrolled during your Initial Enrollment Period. If you enroll later using a Special Enrollment Period, coverage typically begins the first day of the month after the plan receives your enrollment. Check the specifics with your chosen plan, because the start date can vary slightly."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 You turned 64 a few months ago, and suddenly your mailbox is full of Medicare mailers. Your neighbor says you need to sign up at 65. Your HR department says something different. And your brother-in-law is absolutely certain you can wait until you retire, no matter when that is. Everybody has an opinion, and almost nobody agrees. Here's the truth: Medicare start dates are surprisingly personal, and getting the timing wrong can cost you real money in permanent penalties and coverage gaps.

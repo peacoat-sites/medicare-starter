@@ -6,8 +6,6 @@ description: "Learn what a Medigap plan is, how it works with Original Medicare,
 image: "https://images.pexels.com/photos/8441857/pexels-photo-8441857.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medigap"]
 tags: ["what", "medigap", "plan"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "what-is-a-medigap-plan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Potentially, yes. Medigap premiums may be deductible as a medical expense on your federal taxes, but only if your total unreimbursed medical expenses exceed 7.5% of your adjusted gross income, and only if you itemize deductions rather than taking the standard deduction. For most seniors, this threshold isn't reached, but it's worth discussing with a tax professional if you have significant medical costs."
   - q: "Does Medigap cover dental, vision, or hearing?"
     a: "Standard Medigap plans do not cover dental, vision, hearing, or long-term care. Those are notable gaps that Original Medicare also doesn't cover. Some insurers offer riders or bundled packages that add some of those benefits, but they're not standardized Medigap benefits. If dental and vision coverage are important to you, you'll need to look at standalone dental and vision plans separately."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you just turned 65, enrolled in Original Medicare, and felt pretty good about your coverage, until your neighbor mentioned she paid almost nothing out of pocket after her knee replacement, while your cousin paid thousands for the same surgery. Same Medicare. Wildly different bills. The difference, in most cases, comes down to one thing: your neighbor probably had a Medigap plan, and your cousin probably didn't.

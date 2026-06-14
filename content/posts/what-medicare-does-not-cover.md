@@ -6,8 +6,6 @@ description: "Medicare has coverage gaps that can cost you. Learn what services 
 image: https://images.pexels.com/photos/5583972/pexels-photo-5583972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["what", "Medicare", "does", "cover"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "what-medicare-does-not-cover"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Original Medicare generally won't pay for care received outside the United States. A few narrow exceptions apply near U.S. borders and in territorial waters. If you travel internationally, you have a few options: some Medigap plans cover foreign travel emergencies up to a plan lifetime maximum, and you can also purchase separate travel health insurance for specific trips. Review your plan documents or call 1-800-MEDICARE if you're unsure what your current coverage includes abroad."
   - q: "Are hearing aids covered if my doctor prescribes them?"
     a: "No. Even with a doctor's prescription or recommendation, Original Medicare does not cover hearing aids or the fitting exams for them. Some Medicare Advantage plans have started including hearing aid benefits as they compete for enrollees, but the coverage varies widely, from basic hearing aid discounts to allowances of several hundred dollars per year. If hearing aids are a priority, use the Medicare Plan Finder at Medicare.gov to filter for plans that include hearing benefits in your zip code."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Imagine you've just turned 65, you've signed up for Medicare, and you're feeling pretty good about your coverage. Then your dentist mentions you need a crown, your eye doctor recommends new glasses, and your doctor says you'd benefit from three months of physical therapy at a skilled nursing facility. You pull out your Medicare card, confident it'll handle things. It won't. Not most of it, anyway. This is the moment millions of seniors discover the hard way that Medicare, as generous as it is, leaves some surprisingly large gaps in coverage. Knowing those gaps before you need care is the difference between a manageable bill and a financial shock.

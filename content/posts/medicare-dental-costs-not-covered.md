@@ -6,8 +6,6 @@ description: "Discover what Medicare dental costs aren't covered, why gaps exist
 image: "https://images.pexels.com/photos/5790807/pexels-photo-5790807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "dental", "costs", "covered"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-dental-costs-not-covered"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In general, no. Dental implants are considered a dental service, not a medical one, and are excluded from Original Medicare. Some Medicare Advantage plans claim to cover implants, but those plans are less common, and when they do cover implants, annual benefit caps often don't come close to covering the full cost. Read any plan's terms on implants very carefully before enrolling."
   - q: "What if I can't afford dental care at all on Medicare?"
     a: "Start with your local SHIP counselor (free at shiphelp.org), who can tell you about Medicaid dental benefits in your state and local low-income programs. Also look up federally qualified health centers in your area, which offer sliding-scale fees, and contact dental schools nearby. These aren't ideal options for everyone, but they exist, and they're real."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Most people find out the hard way. They turn 65, sign up for Medicare, feel genuinely relieved to have health coverage sorted out — and then they need a crown. Suddenly they're staring at a $1,200 dentist bill with absolutely no help from the federal insurance they've been paying into for decades.

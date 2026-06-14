@@ -6,8 +6,6 @@ description: "Medicare Advantage vs Original Medicare: Compare coverage options,
 image: "https://images.pexels.com/photos/8413340/pexels-photo-8413340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "original", "Medicare"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-advantage-vs-original-medicare"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. If your income is limited, you may qualify for programs like Extra Help (for drug costs) or your state's Medicaid program, which can work alongside either Original Medicare or Medicare Advantage. These programs can dramatically change the cost comparison. A SHIP counselor can help you identify what you might qualify for."
   - q: "What happens if I'm not happy with my Medicare Advantage plan?"
     a: "You have options. During the Medicare Advantage Open Enrollment Period, which runs January 1 through March 31 each year, you can switch to a different Advantage plan or return to Original Medicare. You can also make changes during the Annual Enrollment Period each fall. Just remember the Medigap underwriting issue mentioned above if you're considering returning to Original Medicare."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Imagine you're sitting at your kitchen table, staring at a stack of Medicare mail that arrived right around your 65th birthday. One envelope promises "$0 premiums and free dental!" Another is from the government and looks a lot less exciting. You're not sure which one is the real Medicare and which one is something else entirely. If that sounds familiar, you're not alone. Every year, millions of Americans face this exact moment of confusion, and the choice they make can affect their medical bills, their doctors, and their peace of mind for years to come.

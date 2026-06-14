@@ -6,8 +6,6 @@ description: "Missing your Medicare enrollment deadline can mean permanent penal
 image: "https://images.pexels.com/photos/8441778/pexels-photo-8441778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "enrollment", "deadline"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-enrollment-deadline"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most people can enroll online through the Social Security Administration's website at SSA.gov, by calling 1-800-772-1213, or by visiting a local Social Security office. If you're already receiving Social Security, enrollment in Part A and B may happen automatically."
   - q: "Is there any way to get a late penalty waived?"
     a: "Penalties can sometimes be waived if you can document that you had creditable coverage during the period in question, or in rare cases where Social Security made an administrative error in your enrollment. You'll need to appeal through Social Security, and the process isn't fast. Keeping your creditable coverage documentation every year is the only reliable protection."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Every year, someone calls me in a panic in late November, convinced they've already missed their chance to sign up for Medicare. Sometimes they're right. More often, they're wrong about which deadline actually applies to them, and the difference costs them either a lifetime penalty or months of uncovered medical bills while they wait for the next window.

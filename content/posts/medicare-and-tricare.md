@@ -6,8 +6,12 @@ description: "Learn how Medicare and TRICARE work together to cover military ret
 image: https://images.pexels.com/photos/4990545/pexels-photo-4990545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Special Situations"]
 tags: ["Medicare", "and", "TRICARE"]
-author: "Editorial Team"
 slug: "medicare-and-tricare"
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 # Medicare and TRICARE: The Complete Guide for Military Retirees and Veterans

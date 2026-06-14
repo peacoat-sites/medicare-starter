@@ -6,8 +6,6 @@ description: "Explore Medicare in Texas, including eligibility, plan options, en
 image: "https://images.pexels.com/photos/36883131/pexels-photo-36883131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "Texas"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-in-texas"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "During the 60-day window that starts on your birthday each year, you can switch from your current Medigap plan to any Medigap plan with equal or lesser benefits from a different insurance company, without medical underwriting. This means you could potentially move from an expensive Plan G to a cheaper Plan G from another carrier even if you have health conditions. The law went into effect for Texans in 2023."
   - q: "I'm still working at 67. Do I need to sign up for Medicare?"
     a: "It depends on your employer's size. If your employer has 20 or more employees, your group coverage is primary, and you can delay Medicare Part B without penalty as long as you're actively employed and covered. If your employer has fewer than 20 employees, Medicare becomes primary and you should enroll to avoid gaps and potential penalties. Call the Social Security Administration at 1-800-772-1213 to confirm your specific situation before making that decision."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Most people assume Medicare is just... Medicare. Federal program, same rules everywhere, one-size-fits-all. I believed that too, until I started really digging into how the program actually plays out state by state. Texas, it turns out, is one of the most interesting cases in the country, and not always in a good way.

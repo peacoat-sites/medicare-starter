@@ -6,8 +6,6 @@ description: "Learn how the Medicare Part D coverage gap works, what costs you m
 image: "https://images.pexels.com/photos/17820733/pexels-photo-17820733.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Part", "coverage"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medicare-part-d-coverage-gap"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you have a Medicare Advantage plan that includes Part D drug coverage (called an MA-PD plan), the same Part D cost structure applies, including the coverage gap thresholds. However, some Medicare Advantage plans offer enhanced drug benefits that may reduce your costs in the gap. Check your plan's Summary of Benefits carefully, and compare plans every year during open enrollment."
   - q: "Will the 2025 $2,000 cap automatically apply to me, or do I need to do something?"
     a: "The $2,000 out-of-pocket cap is a change in federal law, so it will apply to all Part D plans, including standalone Part D and Medicare Advantage plans with drug coverage, beginning January 1, 2025. You don't need to do anything special to receive this protection. That said, it's still smart to review your plan during open enrollment, because other factors like premiums, deductibles, and your specific drug tiers will vary by plan and can affect your total costs even with the new cap in place."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 You fill your prescription at the pharmacy, hand over your Medicare Part D card, and then the cashier tells you your cost just jumped significantly. Nothing about your health changed. Nothing about your plan changed. You've simply crossed an invisible spending threshold, and now you're in what Medicare calls the coverage gap. For millions of people, this moment is genuinely shocking, and I want to make sure you understand exactly what happened, why it happened, and what you can do about it.

@@ -6,8 +6,6 @@ description: "Switching from Medicare Advantage to Original Medicare: learn elig
 image: "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Medicare Advantage"]
 tags: ["switching", "from", "Medicare", "Advantage", "original"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "switching-from-medicare-advantage-to-original-medicare"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Your Social Security payments are separate from your Medicare coverage choice. The Part B premium is still deducted from your Social Security check regardless of whether you have Original Medicare or Medicare Advantage. The amount you pay for Part B doesn't change based on your coverage type."
   - q: "What if I have both Medicare and employer insurance?"
     a: "This situation adds an extra layer of complexity. If you or your spouse is still working and covered by an employer plan, the coordination between Medicare and that employer coverage affects which plan pays first. Leaving Medicare Advantage doesn't change the fundamental rules about primary and secondary payer status. Our article on Medicare and employer insurance covers this in detail and is worth reading before you make any changes."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Imagine you've been happy with your Medicare Advantage plan for three years, but your favorite cardiologist just left the network. Or maybe you're spending winters in Arizona and summers in Maine, and your HMO (Health Maintenance Organization) plan simply doesn't cover you well outside your home service area. These situations happen more than most people realize, and they lead a lot of seniors to ask the same question: "Can I go back to Original Medicare?" The answer is yes, but the timing, the rules, and especially the Medigap (Medicare Supplement Insurance) piece of it can catch you off guard if you're not prepared.

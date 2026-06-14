@@ -6,8 +6,6 @@ description: "Compare the best Medicare Part D plans for 2026 by premiums, drug 
 image: "https://images.pexels.com/photos/3846165/pexels-photo-3846165.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["best", "Medicare", "Part", "plans", "2026"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-medicare-part-d-plans-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A standalone Part D plan (PDP) works alongside Original Medicare Parts A and B. A Medicare Advantage Prescription Drug plan (MA-PD) bundles medical, hospital, and drug coverage into one plan. If you're happy with Original Medicare and just need drug coverage, a standalone PDP is your path. If you're evaluating Medicare Advantage as a whole, make sure any plan you consider includes drug coverage and that you evaluate the drug formulary as part of your overall comparison."
   - q: "What happens if I miss the Open Enrollment deadline?"
     a: "If you miss December 7th and you already have Part D, you're locked into your current plan until the next enrollment period (with some exceptions, like qualifying life events or Extra Help status). If you're new to Medicare and miss your initial enrollment window without having creditable coverage elsewhere, you'll face the Late Enrollment Penalty, which is permanently added to your premium. The penalty is calculated as 1% of the national base beneficiary premium for each full month you went without coverage."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Picture this: it's November, you're sitting at the kitchen table with a stack of Medicare mail, and your current Part D plan just sent a notice that your blood pressure medication is jumping from a $10 copay to $47 starting January 1st. You didn't change anything. The plan did. And now you have about six weeks to figure out what to do about it. I've seen this exact situation play out hundreds of times, and every single time the person at that kitchen table says the same thing: "I didn't know I could switch."

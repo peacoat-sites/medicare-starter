@@ -6,8 +6,6 @@ description: "Learn how the Medicare late enrollment penalty works, why it happe
 image: "https://images.pexels.com/photos/6005007/pexels-photo-6005007.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "late", "enrollment", "penalty"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-late-enrollment-penalty"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Talk to your HR department immediately and find out three things: whether your employer coverage is considered primary to Medicare (it is if your employer has 20 or more employees), whether your drug coverage is creditable, and what your last day of coverage would be if you left or retired. If your employer coverage is primary and creditable, you may be able to delay Medicare without penalty. But you should confirm this in writing, not just based on a hallway conversation with a coworker."
   - q: "How do I find out if I already have a penalty on my account?"
     a: "If you're already enrolled in Medicare, your penalty amount should be reflected in your premium bill. You can also call 1-800-MEDICARE or log into your MyMedicare account at Medicare.gov to review your enrollment record. If you suspect an error, ask for a detailed breakdown in writing."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Most people assume the Medicare late enrollment penalty is a one-time fee you pay and move on. It isn't. It follows you. Every single month, for the rest of your life, your premium is higher than it would have been if you'd enrolled on time. I've sat across from seniors who didn't find this out until they were already paying the penalty, and the look on their faces when they realized it was permanent, not temporary, is something I don't forget. If you're reading this because you missed your enrollment window, or because you're not sure when your window actually closes, you're in exactly the right place.

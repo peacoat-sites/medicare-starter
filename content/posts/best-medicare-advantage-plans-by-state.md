@@ -6,8 +6,6 @@ description: "Discover the best Medicare Advantage plans by state. Compare top-r
 image: "https://images.pexels.com/photos/5790815/pexels-photo-5790815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["best", "Medicare", "Advantage", "plans", "state"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "best-medicare-advantage-plans-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most HMO plans cover emergency and urgent care anywhere in the country. Routine care outside your service area is generally not covered. PPO plans offer more flexibility for out-of-network care, though at higher cost-sharing. If you travel frequently or spend extended time in another state, a PPO or a plan with a national network may serve you better."
   - q: "How do star ratings actually affect my coverage?"
     a: "Star ratings don't directly change what your plan covers, but they're a reliable proxy for quality. Higher-rated plans tend to have better care coordination, fewer complaints, and more responsive customer service. Practically speaking, being in a 4- or 5-star plan also gives you flexibility to switch at certain times outside the normal enrollment windows. CMS publishes updated ratings each fall, and you can check your plan's current rating on Medicare.gov."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 You spent decades paying into Medicare, and now that you're finally eligible, you're staring at a list of plan names that might as well be in another language. Sound familiar? Here's a surprising truth I share with almost every person I work with: there is no single "best" Medicare Advantage plan in America. The best plan for your neighbor in Phoenix might be exactly wrong for you, even if you live on the same street. What makes one plan exceptional is how well it fits *your* doctors, *your* prescriptions, and *your* ZIP code. That's the thing Medicare Advantage, also called Medicare Part C, gets right and wrong at the same time: it's deeply local, deeply personal, and deeply confusing until you know how to look at it.

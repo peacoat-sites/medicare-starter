@@ -6,8 +6,6 @@ description: "Learn the key differences between Medicare and Medicaid, including
 image: "https://images.pexels.com/photos/5637584/pexels-photo-5637584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Basics"]
 tags: ["difference", "between", "medicare", "medicaid", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "difference-between-medicare-and-medicaid-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily 'poor' in the everyday sense. Medicaid income limits vary widely by state and by which group you fall into (parent, child, pregnant, elderly, disabled, etc). Many working adults and families who don't think of themselves as low-income still qualify, especially in states that expanded Medicaid under the Affordable Care Act. For seniors needing long-term care, the income and asset rules are different and more complex."
   - q: "What happens to your Medicare if you lose Medicaid eligibility?"
     a: "Your Medicare stays. Medicare eligibility is based on age or disability, not on your income or Medicaid status. Losing Medicaid coverage doesn't affect your Medicare enrollment at all, though you may lose the help Medicaid was providing with Medicare cost-sharing."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Forty-three million Americans are enrolled in Medicare. Over ninety million are on Medicaid. And a remarkable number of people in both programs aren't entirely sure which one they're on, or what the difference actually is. I don't say that to embarrass anyone. I say it because these two programs were designed by the federal government, named almost identically, and explained in documents that read like legal briefs. Of course people get them confused.

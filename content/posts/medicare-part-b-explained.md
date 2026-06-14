@@ -6,8 +6,6 @@ description: "Learn what Medicare Part B covers, including doctor visits, outpat
 image: https://images.pexels.com/photos/5439398/pexels-photo-5439398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "Part", "explained"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-part-b-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you qualify for both Medicare and Medicaid (making you a 'dual eligible'), Medicaid may help pay your Part B premiums and cost-sharing. In some cases, a Medicare Savings Program (MSP) will cover your Part B premium entirely. Contact your state Medicaid office or a SHIP counselor to see if you qualify. This benefit is underused and can make a significant financial difference."
   - q: "How does Part B work with a Medicare Advantage plan?"
     a: "If you join a Medicare Advantage plan (Part C), you're still enrolled in Part B and still pay your Part B premium. The Medicare Advantage plan replaces how you receive your Part A and Part B benefits, but you don't give up Part B itself. Your Advantage plan may have different cost-sharing structures, a provider network, and possibly extra benefits, but the foundation is still your Part B enrollment."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Imagine you just turned 65, you're healthy, and you're thinking about skipping Part B to save money on premiums. A neighbor did it, after all, and seemed fine. Then you have a fall, need an MRI, and discover that without Part B, you're on the hook for 100% of that outpatient bill. I've seen this exact situation play out more times than I'd like to admit. Part B is one of those things people gloss over until they desperately need it, and by then the late enrollment penalties can follow them for years.

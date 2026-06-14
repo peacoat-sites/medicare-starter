@@ -6,8 +6,6 @@ description: "Medicare Advantage out of pocket maximum limits your annual health
 image: "https://images.pexels.com/photos/16705555/pexels-photo-16705555.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "pocket", "maximum"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-advantage-out-of-pocket-maximum"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. Extra benefits that Medicare Advantage plans offer beyond Original Medicare coverage, things like dental cleanings, vision exams, or gym memberships, often have their own separate cost structures and don't count toward your medical MOOP. Check your plan's Summary of Benefits for the exact details on each extra benefit. For a closer look at how dental benefits specifically work, Medicare Advantage dental coverage explains what's typically included and what isn't."
   - q: "What happens if I accidentally pay more than my MOOP?"
     a: "If your claims are processed correctly, you shouldn't overpay. Providers are supposed to stop billing you once you've hit your MOOP. But errors happen. If you notice you've been billed for covered services after reaching your maximum, call your plan immediately. Keep an Explanation of Benefits (EOB) statement for every claim so you can track your accumulation throughout the year. If you can't resolve the issue with the plan, you have the right to file a complaint with Medicare at 1-800-MEDICARE."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you get a cancer diagnosis in January. Suddenly you're facing chemotherapy, specialist visits, imaging scans, and maybe a hospital stay or two. The bills start stacking up fast. If you're on a Medicare Advantage plan, one number could be the difference between financial devastation and a manageable year: your out-of-pocket maximum. That single figure caps how much you'll ever pay for covered services in a calendar year. Once you hit it, the plan pays 100% for the rest of the year. Most people don't think about this number until they're sick. That's exactly the wrong time to be surprised by it.

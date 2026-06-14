@@ -6,8 +6,6 @@ description: "Sign up for Medicare during your Initial Enrollment Period at 65 t
 image: "https://images.pexels.com/photos/8637983/pexels-photo-8637983.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["medicare", "initial", "enrollment", "period", "when"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-initial-enrollment-period-when-to-sign-up-at-65"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You'll need to wait for the General Enrollment Period, January 1 through March 31, with coverage starting July 1. You'll likely owe the late enrollment penalty going forward. If you have circumstances you believe qualify as exceptional, contact 1-800-MEDICARE (1-800-633-4227) to ask about a possible administrative exception, but those are rarely granted."
   - q: "I'm turning 65 but I'm staying on my spouse's plan. Do I need to do anything?"
     a: "If your spouse is still actively employed and their employer plan covers you, you can delay Part B without penalty. You'll want to enroll when that coverage ends using your Special Enrollment Period. Just make sure you have documentation of your creditable employer coverage. When the time comes to enroll, you'll need a form from the employer confirming coverage dates."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Picture this: your 65th birthday is two months away, and a neighbor mentions offhandedly that you were supposed to sign up for Medicare *before* your birthday. Your stomach drops. You had no idea. You thought you'd handle it afterward, maybe wait until you actually needed it. Now you're not sure if you've missed something, if there are penalties, or whether your doctor visits next month will even be covered.

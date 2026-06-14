@@ -6,8 +6,6 @@ description: "Medicare Advantage dental coverage: Compare plans, learn what's in
 image: "https://images.pexels.com/photos/5622041/pexels-photo-5622041.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "dental", "coverage"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-advantage-dental-coverage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A small number of higher-tier Medicare Advantage plans have begun including dental implant coverage, but it's not common and typically comes with significant cost-sharing. If implants are important to you, search specifically for plans that list implant coverage and review the reimbursement percentage and any annual limits that apply to implants specifically."
   - q: "Can I switch Medicare Advantage plans if my dental needs change?"
     a: "Yes, but only during specific enrollment periods. The Annual Enrollment Period runs from October 15 to December 7 each year, and changes take effect January 1. There's also an Open Enrollment Period from January 1 to March 31, during which you can switch from one Medicare Advantage plan to another or return to original Medicare. Outside those windows, you'd generally need a Special Enrollment Period triggered by a qualifying life event."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Imagine you've just turned 65, enrolled in a Medicare Advantage plan, and you're feeling pretty good about your coverage. Then your dentist tells you that you need a crown and possibly a root canal. You hand over your insurance card, and the front desk clerk looks up your plan and shakes her head. "This is only covered up to $1,000 a year," she says, "and you've already used $600 on cleanings." That moment of surprise happens to thousands of seniors every year. Dental coverage under Medicare Advantage sounds great in the brochure, but the details can catch you completely off guard if you don't know what to look for.

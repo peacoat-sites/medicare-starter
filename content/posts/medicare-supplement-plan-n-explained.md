@@ -6,8 +6,6 @@ description: "Compare Medicare Supplement Plan N costs and coverage. Learn what 
 image: https://images.pexels.com/photos/5466281/pexels-photo-5466281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "Plan", "explained"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-supplement-plan-n-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Plan N is available in most states, but Massachusetts, Minnesota, and Wisconsin have their own standardized Medigap systems that work differently from the rest of the country. If you live in one of those three states, work with a local broker who knows the state-specific options. In all other states, Plan N should be available from multiple carriers."
   - q: "Are there any situations where Plan N is clearly the wrong choice?"
     a: "Yes. If you regularly see providers who don't accept Medicare assignment, Plan N's lack of excess charge coverage can turn into real out-of-pocket expenses. Also, if you find yourself visiting the doctor frequently, say 12 or more times a year, the $20 copays can accumulate until they approach or exceed the premium savings over Plan G. Run the math for your actual usage pattern. There's no shame in choosing the more comprehensive plan if the numbers support it. The honest truth about Plan N is that it's a genuinely strong plan for the right person, and a poor fit for someone else. What makes i"
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 You're standing in the pharmacy checkout line, prescription in hand, and you suddenly wonder whether you picked the right Medicare supplement plan. Your neighbor swears by her Plan G. Your brother-in-law says Plan N saves him a bundle every month. And you have absolutely no idea who's right for your situation. That confusion is completely normal, and it's exactly why Plan N deserves a close, honest look.

@@ -6,8 +6,6 @@ description: "Learn how Medicare's income-related premium adjustment affects you
 image: "https://images.pexels.com/photos/5790818/pexels-photo-5790818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "income", "related", "premium", "adjustment"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medicare-income-related-premium-adjustment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. IRMAA is recalculated every year based on the most recent tax data available. The thresholds themselves are also adjusted annually for inflation. So if your income drops or you successfully file an SSA-44 using a lower-income year, your IRMAA will be reduced or eliminated in the next determination cycle."
   - q: "What if I missed the 60-day appeal window?"
     a: "You may still be able to file a late appeal if you can show good cause for missing the deadline, things like a serious illness, a family emergency, or genuinely never receiving the notice. It's not guaranteed, but it's worth contacting Social Security at 1-800-772-1213 and asking explicitly about a late appeal. Don't assume the window is closed without asking."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Most people find out about IRMAA the worst possible way: they get their Medicare bill and it's $100 or $200 higher than they expected, with no warning and no explanation they can easily understand. I've seen that moment play out in my office more times than I can count, and the look on people's faces is always the same. Confusion, then a flash of anger, then something close to defeat. You've done everything right, saved carefully, and now Medicare is charging you more because of it.

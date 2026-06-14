@@ -6,8 +6,6 @@ description: "Discover how Medicare Supplement Plan G works, what it covers, cos
 image: https://images.pexels.com/photos/5466280/pexels-photo-5466280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "Plan", "explained"]
-author: "Linda Morrison"
-author_bio: "Certified Medicare counselor with 20 years helping seniors understand their benefits options."
 slug: "medicare-supplement-plan-g-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, they almost certainly will. Insurance companies file rate increases with state insurance regulators, and premiums typically go up at least a few percent per year. This is why shopping among carriers at enrollment matters, and why it's worth revisiting your options periodically. Some people switch to a lower-cost carrier for the same Plan G benefits when they're still healthy enough to pass underwriting."
   - q: "Can my Plan G coverage be canceled if I get sick?"
     a: "No. As long as you pay your premiums on time, a Medigap insurer cannot cancel your coverage or change your benefits because of your health status. This protection is guaranteed under federal law. It's one of the most important and underappreciated features of Medigap plans."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Imagine you just turned 65, and your neighbor tells you she paid almost nothing out of pocket for a three-day hospital stay last year. No surprise bills. No stressful phone calls with the insurance company afterward. She shrugs and says, "I have Plan G." If you've been shopping for Medicare coverage and keep hearing that name, you're in the right place. Medicare Supplement Plan G is one of the most popular Medigap policies sold in the United States right now, and for good reason. Let me walk you through exactly what it covers, what it costs, and whether it makes sense for your situation.

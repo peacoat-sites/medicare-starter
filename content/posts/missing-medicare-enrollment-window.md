@@ -6,8 +6,6 @@ description: "Missing your Medicare enrollment window can lead to permanent late
 image: "https://images.pexels.com/photos/8441870/pexels-photo-8441870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["missing", "Medicare", "enrollment", "window"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "missing-medicare-enrollment-window"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For Part B, the penalty lasts as long as you have Part B coverage. There's no point at which it expires or is forgiven. If you have Medicare for 30 years with a 20% late enrollment penalty, you'll pay that surcharge every single month for those 30 years."
   - q: "What if I'm still working at 65 and my employer has fewer than 20 employees?"
     a: "This is a really important edge case. If your employer has fewer than 20 employees, Medicare is the 'primary payer' and your employer plan is secondary. In that situation, you generally should enroll in Medicare at 65, because your small employer plan may not cover costs that Medicare would have covered. Talk to your HR department and your plan administrator before assuming you can delay."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Most people assume Medicare enrollment is a forgiving, flexible system. They think: I'll sign up when I'm ready, maybe after I retire, maybe when I get around to it. That assumption costs thousands of people real money every single year, in some cases for the rest of their lives.

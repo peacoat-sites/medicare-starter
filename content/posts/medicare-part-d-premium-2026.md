@@ -6,8 +6,6 @@ description: "Compare 2026 Medicare Part D premium costs, coverage changes, and 
 image: "https://images.pexels.com/photos/32851836/pexels-photo-32851836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Part", "premium", "2026"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-part-d-premium-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. An MAPD plan (Medicare Advantage Prescription Drug plan) satisfies your Part D requirement. You won't need a separate standalone PDP. However, if you're enrolled in a Medicare Advantage plan without drug coverage, you can add a standalone PDP if your MA plan permits it. Check your MA plan's terms, since not all do."
   - q: "Is the $2,000 out-of-pocket cap automatic, or do I need to elect something?"
     a: "It's automatic. You don't need to enroll in any special program or notify your plan. Every Part D plan, whether standalone or bundled in Medicare Advantage, is required by law to apply the $2,000 annual out-of-pocket maximum starting in 2025 and continuing in 2026. Once you hit that threshold in a calendar year, your plan covers 100% of covered drug costs for the rest of the year."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 You opened your Medicare plan confirmation letter expecting the usual small tweak to your prescription drug costs. Instead, the 2026 premium figure staring back at you is noticeably higher than what you paid last year. You're not imagining it, and you're not alone. Part D premiums are climbing again in 2026, and the reasons why, and what you can do about it, are worth understanding before you accept whatever plan you're currently enrolled in as your only option.

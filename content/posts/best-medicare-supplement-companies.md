@@ -6,8 +6,6 @@ description: "Best Medicare supplement companies: Compare top-rated plans, cover
 image: "https://images.pexels.com/photos/3683049/pexels-photo-3683049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medigap Plans"]
 tags: ["best", "Medicare", "supplement", "companies"]
-author: "Linda Morrison"
-author_bio: "Certified Medicare counselor with 20 years helping seniors understand their benefits options."
 slug: "best-medicare-supplement-companies"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can apply to switch carriers at any time, but outside of certain protected situations, you'll need to pass medical underwriting. Insurers can reject you or charge higher premiums based on your health history. This is why choosing carefully at the start, during your Open Enrollment window, matters so much."
   - q: "Are Medicare Advantage plans a better deal than Medigap?"
     a: "It depends entirely on your health, how much you travel, and how important predictable costs are to you. Medicare Advantage (Part C) plans often have lower or zero premiums but come with networks, referrals, and out-of-pocket maximums you need to understand carefully. Our Medigap vs. Medicare Advantage article lays out both sides honestly so you can make the comparison yourself. There's no magic list that tells you which Medicare Supplement company is best for you. But there's absolutely a right process, and following it means you won't overpay, won't end up with a carrier that fights your cla"
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you've just turned 65, you're staring at a stack of insurance mailers, and three different agents have each told you their company is "the best." One quote is $112 a month. Another is $187. A third is $203. The coverage on all three? Identical. That's not a sales pitch, that's actually how Medicare Supplement insurance works, and understanding it could save you hundreds of dollars every year without sacrificing a single benefit.

@@ -6,8 +6,6 @@ description: "Medicare's new $2,000 annual out-of-pocket drug cap is here. Learn
 image: "https://images.pexels.com/photos/17570086/pexels-photo-17570086.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "$2000", "pocket", "drugs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medicare-2000-out-of-pocket-cap-drugs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No plan is allowed to charge you more than $2,000 in TrOOP costs for covered Part D drugs in 2025. Once you reach that threshold, your cost-sharing drops to zero for covered drugs for the remainder of the calendar year. The cap resets on January 1 of each new plan year."
   - q: "I'm on a fixed income. Will the $2,000 still be hard to manage in January?"
     a: "It can be, especially if you take a high-cost specialty drug and hit the cap quickly. That's exactly why the new Medicare Prescription Payment Plan exists. It lets you spread your out-of-pocket costs into equal monthly payments across the year rather than absorbing a large cost in the first few months. Contact your plan directly to enroll. The installment option is free to use and doesn't change the total amount you owe, only when you pay it."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 If you're taking a specialty drug for something like rheumatoid arthritis, multiple sclerosis, or cancer, you already know how fast the costs can pile up. Before 2025, some Medicare Part D enrollees were spending $10,000, $15,000, even more out of pocket on prescriptions in a single year, with no ceiling in sight. That changes now. Starting January 1, 2025, Medicare Part D has a hard cap on what you'll ever pay out of pocket for covered drugs in a calendar year: $2,000. Full stop. If you've been white-knuckling through expensive drug costs or quietly rationing medication because you couldn't afford the refill, this is the change you've been waiting for.

@@ -6,8 +6,6 @@ description: "Learn how Medicare Extra Help benefits vary by state. Find eligibi
 image: "https://images.pexels.com/photos/29372730/pexels-photo-29372730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "Extra", "Help", "state"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medicare-extra-help-by-state"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, and you should if you believe the decision was wrong. You have 60 days from the denial notice to request a review. This is another place where a SHIP counselor earns their keep. They can help you understand why you were denied and whether an appeal makes sense given your specific situation."
   - q: "My parent lives in a different state than me. Can I still help them apply?"
     a: "Yes. You can help a family member apply by phone or online. You'll want to have their Medicare card and basic financial information on hand. If they have a Medicare Savings Program question or a state-specific SPAP, look up the SHIP number for their state specifically, not yours, since programs vary."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 About 14 million people qualify for Extra Help with Medicare drug costs. Roughly a third of them never apply.

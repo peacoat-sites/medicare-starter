@@ -6,8 +6,6 @@ description: "Learn what Medicare Part A covers, including hospital stays, skill
 image: https://images.pexels.com/photos/5439169/pexels-photo-5439169.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "Part", "explained"]
-author: "Linda Morrison"
-author_bio: "Certified Medicare counselor with 20 years helping seniors understand their benefits options."
 slug: "medicare-part-a-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you're eligible for Medicare but haven't yet enrolled, Original Medicare won't cover your care. This is why understanding your enrollment windows is so important. If you're in your Initial Enrollment Period and you haven't enrolled yet, do it now. If you're past your IEP and don't have a qualifying Special Enrollment Period, you may face a coverage gap until the next General Enrollment Period."
   - q: "Does Medicare Part A cover mental health care in a hospital?"
     a: "Yes. Part A covers inpatient mental health care received in a general hospital or a psychiatric hospital. There is a lifetime limit of 190 days for inpatient psychiatric hospital care specifically (not including psychiatric units in general hospitals), though most people never approach that limit. The same deductible and coinsurance structure applies as with medical inpatient stays."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you're 64 years old, six months away from retirement, and someone asks you a simple question: "Do you have hospital coverage lined up?" You pause. You know Medicare is coming, but the details feel foggy. You've heard of Part A, but you're not sure what it actually covers, whether you'll pay for it, or what happens if you miss a deadline. That uncertainty is more common than you'd think, and it can cost people real money. Let me walk you through everything you need to know about Medicare Part A so you can step into this next chapter feeling confident.

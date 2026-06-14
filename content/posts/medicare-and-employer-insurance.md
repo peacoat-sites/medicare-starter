@@ -6,8 +6,12 @@ description: "Compare Medicare and employer insurance coverage options. Learn ho
 image: https://images.pexels.com/photos/4887926/pexels-photo-4887926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Special Situations"]
 tags: ["Medicare", "and", "employer", "insurance"]
-author: "Editorial Team"
 slug: "medicare-and-employer-insurance"
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 # Medicare and Employer Insurance: How to Coordinate Your Coverage and Avoid Costly Mistakes

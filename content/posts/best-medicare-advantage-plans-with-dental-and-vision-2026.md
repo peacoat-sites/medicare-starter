@@ -6,8 +6,6 @@ description: "Compare the best Medicare Advantage plans with dental and vision c
 image: "https://images.pexels.com/photos/8899548/pexels-photo-8899548.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["best", "medicare", "advantage", "plans", "with"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "best-medicare-advantage-plans-with-dental-and-vision-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Dental implants are not covered by most MA plans, even those with comprehensive dental benefits. Some plans are starting to add limited implant coverage as a selling point in competitive markets, but it remains uncommon as of 2026. If implants are a priority, you'll want to specifically search for plans that list implant coverage and read the fine print on annual maximums and cost-sharing."
   - q: "When can I change my Medicare Advantage plan if I'm not happy with the dental coverage?"
     a: "The main window is the Annual Enrollment Period (AEP), October 15 through December 7 each year, for coverage starting January 1. There's also a Medicare Advantage Open Enrollment Period (OEP) from January 1 through March 31 where you can switch to a different MA plan or return to Original Medicare, though you can't add a new MA plan during the OEP if you're already on Original Medicare."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Most people spend more time researching a new refrigerator than they do picking their Medicare Advantage plan. I've watched people lock themselves into a plan for an entire year only to discover in February that their dentist isn't covered, their vision benefit barely covers a basic eye exam, and getting new glasses means paying almost full price out of pocket. That stings. And the frustrating part is it was completely avoidable.

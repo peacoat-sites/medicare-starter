@@ -6,8 +6,6 @@ description: "Compare Medicare Supplement vs Medicare Advantage costs, including
 image: "https://images.pexels.com/photos/8441869/pexels-photo-8441869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "Medicare", "Advantage", "cost"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-supplement-vs-medicare-advantage-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most of the time, a Medigap plan is financially safer for people managing ongoing conditions like heart disease, diabetes requiring specialist oversight, or cancer. The predictable cost structure and absence of prior authorization or network restrictions usually matter more than the premium savings from Advantage in those situations."
   - q: "Why do Medicare Advantage plans cost so little if the coverage is real?"
     a: "The federal government pays private insurers a set amount per enrollee to provide Medicare-equivalent coverage. Insurers that manage costs efficiently (through networks, prior authorization, and healthy enrollment pools) can price premiums at $0 and still profit. It's not a trick, but it does explain why cost control is built into the product's DNA in ways that Medigap's isn't."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Most people get this comparison backwards. They look at the monthly premium first, see that Medicare Advantage plans often cost $0 or close to it, and assume they're getting a better deal than the $150-$250 a month they'd pay for a Medigap (Medicare Supplement) plan. That math is understandable. It's also incomplete in a way that can cost you thousands when you're already sick.

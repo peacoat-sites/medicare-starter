@@ -6,8 +6,6 @@ description: "Discover how low income seniors can reduce Medicare costs through 
 image: "https://images.pexels.com/photos/5790821/pexels-photo-5790821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "cost", "income", "seniors"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-cost-for-low-income-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, MSPs and Extra Help look at your individual (or household) income, not a family member's income unless they're your spouse. Living with an adult child with higher income typically doesn't affect your eligibility. A SHIP counselor can help you sort out your specific situation."
   - q: "What's the fastest way to find out if I qualify?"
     a: "The quickest path is to call your local SHIP office (find them at shiphelp.org) or your state Medicaid office. You can also use the Medicare Plan Finder at Medicare.gov to get a rough sense of Extra Help eligibility, but for a definitive answer and actual application, talking to a real person is genuinely worth the call."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Most people assume Medicare is either free or close to it once you hit 65. I've spent two decades watching that assumption cost seniors real money, sometimes thousands of dollars a year that they never had to spend.

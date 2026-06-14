@@ -6,8 +6,6 @@ description: "Compare 2026 Medicare Annual Enrollment Period dates, deadlines, a
 image: "https://images.pexels.com/photos/15020647/pexels-photo-15020647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "Annual", "Enrollment", "Period", "dates"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medicare-annual-enrollment-period-dates-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you qualify for both Medicare and Medicaid, often called 'dual eligible,' you have additional protections and flexibility. You can generally change your Medicare Advantage or Part D plan once per quarter for the first three quarters of the year, not just during AEP. You may also be eligible for a Dual Eligible Special Needs Plan, or D-SNP, which is designed specifically for people in your situation. A SHIP counselor can help you understand what's available in your area."
   - q: "Are there any changes to the Part D out-of-pocket cap in 2026?"
     a: "The $2,000 annual out-of-pocket cap on Medicare Part D drug costs that took effect in 2025 remains in place for 2026. This is a meaningful protection, particularly for people taking expensive specialty medications. However, because plans are restructuring their designs around this cap, you may see changes to premiums, deductibles, or drug tier placement compared to 2025. Running your specific prescriptions through the Medicare Plan Finder will give you the clearest picture of what you'd actually spend in 2026."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 You checked the mail and found a thick envelope from your Medicare plan. Inside is a notice that your premiums are going up next year, or maybe your plan is dropping a drug you take every month, or your favorite doctor is no longer in the network. Your stomach drops a little. Now what? Here's the good news: once a year, Medicare gives you a dedicated window to do something about exactly this kind of situation. That window is called the Annual Enrollment Period, and for 2026 coverage, it runs from **October 15 to December 7, 2025**. If you miss it, you'll generally be locked into your current plan for another full year. So let's make sure that doesn't happen.

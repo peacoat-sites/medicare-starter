@@ -6,8 +6,6 @@ description: "Explore Medicare options in New York, including eligibility, enrol
 image: "https://images.pexels.com/photos/8441820/pexels-photo-8441820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "York"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-in-new-york"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a really common situation in New York. Most Medicare Advantage HMO plans will not cover you for routine care when you're outside their New York service area. PPO Advantage plans cover more out-of-network care but usually at higher cost-sharing. If you genuinely split time between states for months at a time, a Medigap plan (which works with any doctor who accepts Medicare, anywhere in the country) is almost always the stronger choice. Original Medicare plus a Plan G gives you coast-to-coast coverage without network restrictions."
   - q: "When can I first enroll in Medicare in New York?"
     a: "Your Initial Enrollment Period (IEP) starts 3 months before the month you turn 65, includes your birthday month, and runs for 3 months after. That's a 7-month window. If you miss it and don't have qualifying employer coverage, you'll face late enrollment penalties: 10% added to your Part B premium for each 12-month period you delayed, and that penalty is permanent. Enroll on time, or make sure you have documented proof of creditable employer coverage if you're delaying."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 New York has some of the most generous Medicare rules in the country, and most people living here never take advantage of them. I've sat across the table from hundreds of seniors in this state who were overpaying by hundreds of dollars a month, sometimes more, simply because nobody told them what New York does differently. That changes today.

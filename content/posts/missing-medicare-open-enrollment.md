@@ -6,8 +6,6 @@ description: "Missed Medicare open enrollment? Learn your options, special enrol
 image: "https://images.pexels.com/photos/8439763/pexels-photo-8439763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["missing", "Medicare", "open", "enrollment"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "missing-medicare-open-enrollment"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Probably not, if you had employer health coverage. People who have coverage through their own active employment (or a spouse's) can delay Medicare without penalty and use a Special Enrollment Period when that coverage ends. Retiree coverage and COBRA generally do not count as creditable coverage for this purpose, which surprises a lot of people."
   - q: "How do I find out if I qualify for a Special Enrollment Period?"
     a: "Call 1-800-MEDICARE directly and explain your situation. You can also work with your local SHIP counselor, who can review your specific circumstances for free. Don't rely on a plan's sales line for this answer, since they can only see their own enrollment records, not your full Medicare history."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Every year, around December 8th, my phone starts ringing off the hook. People who realized, sometimes only hours too late, that they missed Medicare's Open Enrollment Period. The panic in their voices is real, and I understand it completely. If that's where you are right now, take a breath. You're not the first person to sit in this exact spot, and your situation is almost certainly not as catastrophic as it feels right now.

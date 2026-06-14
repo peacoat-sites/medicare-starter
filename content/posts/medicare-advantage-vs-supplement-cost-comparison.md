@@ -6,8 +6,6 @@ description: "Compare Medicare Advantage and Medicare Supplement costs side by s
 image: "https://images.pexels.com/photos/5790822/pexels-photo-5790822.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "supplement", "cost", "comparison"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-advantage-vs-supplement-cost-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is one of the most common and painful surprises I've seen. If your doctor doesn't participate in a plan's network, you may pay significantly more or the visit may not be covered at all, except in emergencies. Before enrolling in any Medicare Advantage plan, confirm that your primary care doctor, your specialists, and your preferred hospital are all in-network. Network directories are updated frequently, so call the doctor's office directly and call the plan to verify, rather than relying solely on the printed directory."
   - q: "Is a $0 premium Medicare Advantage plan really free?"
     a: "You're still paying your Medicare Part B premium (which most people pay regardless of which coverage they choose). And as covered above, the real cost of a $0-premium Advantage plan shows up in copays, coinsurance, and potentially reaching your out-of-pocket maximum in a bad year. 'Free' is a marketing word. The actual cost of the plan depends on how much healthcare you use."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Imagine you're sitting at your kitchen table with two folders in front of you. One is from a Medicare Advantage plan with a $0 premium and a colorful brochure about dental and vision benefits. The other is a Medigap (Medicare Supplement) application with a monthly premium that made you catch your breath. Your neighbor swears by her Advantage plan. Your brother-in-law says supplements are the only way to go. And you have no idea who's right. I've sat at that table with hundreds of clients over the years, and here's what I can tell you: both of them are probably right for their own situations. The real question is which one is right for *yours*.

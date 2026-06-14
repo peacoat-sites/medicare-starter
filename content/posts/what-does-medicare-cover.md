@@ -6,8 +6,6 @@ description: "Medicare covers hospital stays, doctor visits, preventive care, an
 image: https://images.pexels.com/photos/5583969/pexels-photo-5583969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["what", "does", "Medicare", "cover"]
-author: "Linda Morrison"
-author_bio: "Certified Medicare counselor with 20 years helping seniors understand their benefits options."
 slug: "what-does-medicare-cover"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your Initial Enrollment Period is a seven-month window: three months before the month you turn 65, the month of your birthday, and three months after. Missing this window without qualifying for a Special Enrollment Period can result in permanent late enrollment penalties for Part B (1% added to your premium for every month you were eligible but didn't enroll) and Part D. If you're still working and covered by employer insurance, the rules are different, so check with your employer's HR department and a SHIP counselor before deciding to delay."
   - q: "Can I have both Medicare and Medicaid at the same time?"
     a: "Yes. People who qualify for both are called 'dual-eligible,' and it's actually a very beneficial combination. Medicaid can pick up costs that Medicare doesn't cover, including some dental, vision, and long-term care. Your local SHIP office can help you understand exactly how your state's Medicaid program coordinates with Medicare benefits."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Imagine you've just turned 65, your Medicare card arrives in the mail, and you hold it up thinking: "Okay, but what exactly does this cover?" You're not alone. Every single day, I talk with people who've paid into Medicare their entire working lives and still aren't sure what they're actually entitled to. The honest answer is that Medicare covers quite a lot, but it also has some real gaps that catch people off guard. Let's walk through all of it together.

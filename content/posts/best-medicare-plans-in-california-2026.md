@@ -6,8 +6,6 @@ description: "Explore the best Medicare plans in California for 2026. Compare to
 image: "https://images.pexels.com/photos/27958546/pexels-photo-27958546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["best", "Medicare", "plans", "California", "2026"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "best-medicare-plans-in-california-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. California's birthday rule allows Medigap policyholders to switch to a plan with equal or lesser benefits during the 30 days after their birthday each year, without medical underwriting. That's a significant consumer protection not available in most states. California also has guaranteed issue protections for some people losing employer coverage."
   - q: "How do I find out if my prescriptions are covered under a specific plan?"
     a: "The Medicare Plan Finder at Medicare.gov lets you enter your exact medications with dosages and compare estimated annual drug costs across every available plan in your zip code. This is the most accurate way to compare, because formularies and tier placements vary widely between plans and change every year."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Most people picking a Medicare plan in California treat it like choosing a cable package: flip through the options, pick something that sounds okay, and move on. That instinct costs them hundreds, sometimes thousands, of dollars a year. I've watched it happen more times than I can count.

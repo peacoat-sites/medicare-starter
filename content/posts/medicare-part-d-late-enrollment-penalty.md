@@ -6,8 +6,6 @@ description: "Learn how the Medicare Part D late enrollment penalty works, why i
 image: "https://images.pexels.com/photos/31406894/pexels-photo-31406894.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Part", "late", "enrollment", "penalty"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-part-d-late-enrollment-penalty"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your insurer or employer plan administrator is required by law to send you a creditable coverage notice before October 15 each year. It will explicitly state whether your plan is creditable for Part D purposes. If you're unsure or didn't receive one, contact your HR or benefits department directly and ask in writing so you have documentation."
   - q: "I'm 67 and just retired. How much time do I have before the penalty kicks in?"
     a: "When your employer coverage ends, you have a Special Enrollment Period of 2 months to enroll in a Part D plan without penalty. The window opens the day your coverage ends, not the day you realize you need coverage. If you miss it, day 63 of being uncovered starts generating penalty months. Contact Medicare immediately when your coverage ends and don't assume you have more time than you do."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Most people don't discover the Medicare Part D late enrollment penalty by reading about it ahead of time. They find out when their first monthly premium arrives and it's higher than they expected. Sometimes significantly higher. That surprise bill is the result of a straightforward but unforgiving rule: if you go without creditable prescription drug coverage for 63 or more consecutive days after your Initial Enrollment Period ends, Medicare adds a permanent penalty to your Part D premium for as long as you have drug coverage. Permanent. Not a one-time fee. Not a short-term surcharge. A monthly addition to your bill that follows you for the rest of your life.

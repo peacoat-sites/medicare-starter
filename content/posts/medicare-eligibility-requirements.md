@@ -6,8 +6,6 @@ description: "Learn who qualifies for Medicare, including age requirements, disa
 image: https://images.pexels.com/photos/5098043/pexels-photo-5098043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "eligibility", "requirements"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "medicare-eligibility-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Claiming Social Security retirement benefits early doesn't move your Medicare eligibility date. Medicare still begins at 65 regardless of when you started receiving Social Security retirement income. You'll need to maintain your own health coverage until then."
   - q: "My parent is a green card holder who hasn't worked much in the U.S. Can they get Medicare?"
     a: "Possibly. Permanent legal residents who have lived in the U.S. for at least five continuous years are eligible for Medicare at 65. If they have fewer than 40 work quarters, they won't get premium-free Part A, but they can purchase it. They'll also need to actively enroll rather than being enrolled automatically, since they likely won't be receiving Social Security benefits. A local State Health Insurance Assistance Program (SHIP) counselor, which you can find at shiphelp.org, can help walk through the specifics at no cost."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 You worked for 35 years, paid into the system every single paycheck, and now you're 64 and wondering: "Wait, am I actually going to qualify for Medicare?" Most people assume it's automatic. It's not quite that simple. There are specific rules around age, work history, disability status, and citizenship that determine whether you qualify, what you'll pay, and when you can enroll. Getting these details wrong can cost you real money in late penalties that follow you for life. Let's walk through exactly what you need to know.

@@ -6,8 +6,6 @@ description: "Learn how Medicare Part C works, what it covers, and how it differ
 image: https://images.pexels.com/photos/5466243/pexels-photo-5466243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "Part", "explained"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "medicare-part-c-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Plans vary significantly by location. In major metropolitan areas, you might have dozens of options. In rural counties, there may be very few, or the networks may be quite thin. When you use the plan finder at Medicare.gov and enter your zip code, you'll see exactly what's available in your area."
   - q: "Can I be denied coverage for a Medicare Advantage plan because of a health condition?"
     a: "No. Medicare Advantage plans are required to accept anyone who is eligible for Medicare and lives in the plan's service area, regardless of health status. The only exceptions are Special Needs Plans, which are restricted to people who meet specific eligibility criteria. This is a meaningful protection that makes Medicare Advantage accessible even if you have serious health conditions."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Imagine you just turned 65, you're staring at a stack of Medicare mailers on your kitchen table, and every single one of them mentions something called a "Medicare Advantage plan." Your neighbor swears by hers. Your brother-in-law says he'd never touch one. And you're sitting there wondering whether Medicare Part C is some kind of secret fourth option or just a fancy name for something you already know. Here's the short answer: Medicare Part C and Medicare Advantage are exactly the same thing. But understanding what that actually means for your health care, your wallet, and your daily life? That takes a little more unpacking.

@@ -6,8 +6,6 @@ description: "Learn when Medicare Open Enrollment runs, what changes you can mak
 image: "https://images.pexels.com/photos/6129115/pexels-photo-6129115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "Open", "Enrollment", "Period"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-open-enrollment-period"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Open Enrollment is for people already enrolled in Medicare. If you're new to Medicare, your Initial Enrollment Period (IEP) is the window that applies to you, generally the seven-month period around your 65th birthday (three months before, the month of, and three months after). There's also a General Enrollment Period (January 1 through March 31) for people who missed their IEP, but late enrollment penalties may apply. If you're coming up on Medicare eligibility, that's a separate conversation from AEP."
   - q: "If I switch Medicare Advantage plans, will I lose my current doctors?"
     a: "Possibly, if your current doctors aren't in the new plan's network. That's why verifying network status is one of the most important steps before you switch. Don't assume that because a doctor accepted your old plan they'll accept your new one, even if both plans are offered by the same insurance company. Networks can differ between products from the same insurer. Call the doctor's office directly and ask about your specific new plan for the upcoming plan year."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Every October, I get a call that sounds something like this: "Dana, I just got a letter saying my drug plan is changing next year and my insulin is going to cost twice as much. Can I do anything about it?" The answer is almost always yes, but only if we act before December 7th. That window, October 15 through December 7, is Medicare's Open Enrollment Period, and it's genuinely one of the most powerful tools you have as a Medicare beneficiary. Miss it, and you could be stuck with a plan that doesn't serve you for a full year. Catch it at the right time, and you might save hundreds, sometimes thousands, of dollars.

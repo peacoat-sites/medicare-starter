@@ -6,8 +6,6 @@ description: "Learn when and how to enroll in Medicare at 65, key deadlines to a
 image: "https://images.pexels.com/photos/8088854/pexels-photo-8088854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "enrollment"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-enrollment-at-65"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Part A is premium-free for most people. Part B has a standard premium of $174.70 a month in 2024, higher if your income exceeds certain thresholds. You'll also pay deductibles, copays, and coinsurance unless you have a supplement plan. 'Free' is a word Medicare's marketing leans on harder than it should."
   - q: "When can I change my Medicare plan after I enroll?"
     a: "For Medicare Advantage and Part D, you can make changes during the Annual Enrollment Period (October 15 through December 7). There's also a Medicare Advantage Open Enrollment Period from January 1 through March 31. Medigap is different: outside of your initial six-month window, switching plans requires medical underwriting in most states, and you can be denied."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Most people miss their Medicare enrollment window not because they're careless, but because the rules are genuinely confusing and the official guidance buries the deadline math in bureaucratic language. Let me fix that.

@@ -6,8 +6,6 @@ description: "Compare Medigap Plan G vs Plan N costs, coverage, and out-of-pocke
 image: "https://images.pexels.com/photos/5790813/pexels-photo-5790813.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medigap Plans"]
 tags: ["medigap", "plan", "plan", "comparison"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "medigap-plan-g-vs-plan-n-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Plan N is widely available, but not every insurer offers it in every state or ZIP code. A few states (Massachusetts, Minnesota, and Wisconsin) have their own standardized Medigap systems that don't use the standard lettered plan structure at all. If you're in one of those states, you'll want to work with a counselor who understands your state's specific plan options."
   - q: "If I'm healthy now, is it smarter to wait and see which plan I need?"
     a: "This is the one piece of advice I push back on most often. Your Medigap Open Enrollment Period, when you have guaranteed issue rights regardless of health, only lasts six months. Once it closes, you lose that protection in most states. Making a decision based on your health right now is actually the worst time to wait. Get enrolled in the plan that makes sense for your current situation and financial comfort level, knowing that Plan G offers more predictable costs if anything changes."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Most people choosing between Medigap Plan G and Plan N are not confused about the Medicare basics anymore. They've done their homework. What they're stuck on is a specific question that sounds simple but isn't: "Is the cheaper plan actually worth it, or will I regret saving that money?"

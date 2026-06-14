@@ -6,8 +6,6 @@ description: "Compare the best Medigap plans for 2026 to find the right Medicare
 image: https://images.pexels.com/photos/4175023/pexels-photo-4175023.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["best", "Medigap", "plans", "2026"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "best-medigap-plans-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Premiums vary significantly by plan type, your age, your location, the insurer, and the pricing method they use. A 65-year-old nonsmoker might pay anywhere from under $100 to over $300 per month for Plan G depending on where they live and which company they choose. Get quotes from at least three insurers using Medicare.gov's comparison tool or a licensed broker."
   - q: "Can I switch Medigap plans after I've already enrolled?"
     a: "You can apply to switch at any time, but outside of your Open Enrollment Period, the new insurer will typically ask health questions and can deny you. If you're in good health, switching to a lower-premium option may make sense. If your health has changed, you may find it difficult to qualify. Review your options annually, and if you're considering a switch, do it sooner rather than later."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Imagine you just turned 65, you've enrolled in Original Medicare (Parts A and B), and your very first Explanation of Benefits arrives in the mail. The numbers are a little alarming. Medicare paid its share, but there's still a 20% coinsurance charge staring back at you, plus a hospital deductible that, in 2025, sits at $1,676 per benefit period. Multiply that by a serious illness or two surgeries in a year, and you can see how quickly the out-of-pocket costs add up. That's the gap Medigap was designed to fill, and choosing the right plan in 2026 could save you thousands of dollars or give you genuine peace of mind when you need it most.

@@ -6,8 +6,6 @@ description: "Learn how Medicare Part D works, what prescription drugs it covers
 image: https://images.pexels.com/photos/5466245/pexels-photo-5466245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["Medicare", "Part", "explained"]
-author: "Linda Morrison"
-author_bio: "Certified Medicare counselor with 20 years helping seniors understand their benefits options."
 slug: "medicare-part-d-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, with significant improvements in recent years. Under the Inflation Reduction Act, Medicare Part D caps the monthly cost-sharing for covered insulin at $35 per month per prescription, with no deductible applying to insulin. Certain diabetes supplies, like test strips and lancets, are actually covered under Medicare Part B (not Part D), so check which part applies to what you need."
   - q: "When can I switch Part D plans outside of Open Enrollment?"
     a: "Outside of the October 15 to December 7 Open Enrollment window, you can switch in limited circumstances. These include moving to a new address that changes your plan availability, losing other drug coverage, qualifying for Extra Help or losing that qualification, or being enrolled in a Special Needs Plan. There's also a Medicare Advantage Open Enrollment Period from January 1 to March 31, though that applies specifically to Advantage plan changes."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you're standing at the pharmacy counter, handing over your new Medicare card for the first time, and the pharmacist tells you your prescription will cost $340 out of pocket. You assumed Medicare covered your medications. It doesn't, not automatically. That gap catches thousands of people off guard every year, and it's exactly why Medicare Part D exists, and why understanding it before you need it can save you real money and real stress.

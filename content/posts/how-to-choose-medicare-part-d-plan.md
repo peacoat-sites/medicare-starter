@@ -6,8 +6,6 @@ description: "Compare Medicare Part D plans by checking your drug formulary, mon
 image: "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["choose", "Medicare", "Part", "plan"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-choose-medicare-part-d-plan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A standalone Part D plan (PDP) pairs with Original Medicare, Parts A and B, and covers only prescription drugs. A Medicare Advantage Prescription Drug plan (MA-PD) bundles hospital, medical, and drug coverage all in one. If you're on Original Medicare, you need a standalone PDP. If you're on Medicare Advantage, your drug coverage is built into that plan, and you generally cannot also enroll in a separate standalone PDP. Choosing between the two approaches is a bigger decision than just drug coverage, and it's worth getting personalized help."
   - q: "What is the Medicare Extra Help program and who qualifies?"
     a: "Extra Help, also called the Low Income Subsidy or LIS, is a federal program that helps people with limited income and resources pay for Part D premiums, deductibles, and copays. In 2024, individuals with annual incomes up to roughly 150% of the federal poverty level may qualify, though the limits adjust annually. If you qualify, your Part D costs can drop dramatically. You apply through the Social Security Administration or online at SSA.gov. It's free to apply and absolutely worth checking, even if you're not sure you'll qualify."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent late enrollment penalty for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. I've sat with people in exactly this position for two decades, and I can tell you: the right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.

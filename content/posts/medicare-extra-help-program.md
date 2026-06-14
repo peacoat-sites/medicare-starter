@@ -6,8 +6,6 @@ description: "Learn how the Medicare Extra Help program reduces prescription dru
 image: "https://images.pexels.com/photos/34520606/pexels-photo-34520606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Extra", "Help", "program"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-extra-help-program"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Qualifying for Extra Help gives you a Special Enrollment Period (SEP) that lets you switch Part D or Medicare Advantage plans at any time, once per quarter during the first three quarters of the year. You don't have to wait for the annual October enrollment window."
   - q: "What happens to my Extra Help if my income goes up?"
     a: "The SSA reviews your eligibility each year using IRS data. If your income rises above the limit, you'll receive a notice and your subsidy may be reduced or ended. You can provide updated information to the SSA if their data doesn't reflect your current situation accurately. And if your income later decreases again, you can reapply."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Picture this: you're sitting at the kitchen table with a stack of Medicare paperwork, and you notice your prescription drug plan is about to cost you several hundred dollars a month. You're on a fixed income. You've paid into this system your whole working life. And nobody told you there's a program that could reduce those drug costs to almost nothing. I've seen this exact situation play out dozens of times, and every single time, the person in that chair is stunned that they qualified and never knew to ask.

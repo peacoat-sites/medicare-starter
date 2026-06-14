@@ -6,8 +6,6 @@ description: "Compare Medicare Part D plans side by side to find the best prescr
 image: "https://images.pexels.com/photos/7948004/pexels-photo-7948004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["comparing", "Medicare", "Part", "plans"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "comparing-medicare-part-d-plans"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is one of the most significant recent changes to Part D, coming out of the Inflation Reduction Act. Starting in 2025, there's a hard cap of $2,000 on what you pay out of pocket for covered Part D drugs in a calendar year. Once you hit $2,000, your covered drugs cost you nothing for the rest of the year. This eliminates the old 'donut hole' coverage gap. It's a major change for people on expensive specialty medications. There's also a new Medicare Prescription Payment Plan that lets you spread your out-of-pocket costs across the year in monthly installments rather than paying large amounts"
   - q: "Is a plan with a 5-star rating always the best choice?"
     a: "Not necessarily. Star ratings reflect customer service quality, safety measures, and member experience. They don't directly reflect whether a plan's formulary is right for your specific drugs or whether the network includes your pharmacy. A 4-star plan that covers all your medications at a pharmacy two blocks from your house may serve you better than a 5-star plan where your main medication sits on tier 4. Use star ratings as a quality filter, not as the final answer."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Most people spend more time choosing a Netflix subscription than they do comparing Medicare Part D plans. I'll be honest: I used to find that statistic hard to believe. Then I watched a close friend pay nearly $400 more per month than necessary for her prescriptions because she simply re-enrolled in the same plan she'd had for three years without checking whether it still made sense for her. That $400 difference wasn't because one plan was a scam and the other was a steal. It was because drug formularies change, premiums shift, and what worked perfectly last October may be quietly working against you by January. If you have Medicare and you take even one prescription medication, what I found when I dug into how Part D comparisons actually work might genuinely change what you do this fall.

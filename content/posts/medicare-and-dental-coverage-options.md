@@ -6,8 +6,6 @@ description: "Learn about Medicare dental coverage gaps, standalone dental plans
 image: "https://images.pexels.com/photos/5622003/pexels-photo-5622003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "dental", "coverage", "options"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-and-dental-coverage-options"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For Medicare Advantage plans (which bundle dental), the Annual Enrollment Period runs October 15 through December 7 each year, with new coverage starting January 1. For standalone dental insurance, you can generally enroll year-round since it's not tied to Medicare's enrollment windows. The one exception: if you're newly eligible for Medicare, your Initial Enrollment Period gives you more flexibility on the Advantage side."
   - q: "Do dental schools really provide safe, quality care?"
     a: "Yes, consistently. Dental school clinics are staffed by supervised students in their clinical years, but every procedure is reviewed and overseen by a licensed dentist or specialist. Wait times are longer, appointments often take twice as long as a private practice visit, and scheduling can be less flexible. But the quality of the work itself is well-documented and monitored. Many people who start using dental schools out of financial necessity keep going because the care is thorough."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Most people find out the hard way: Original Medicare, the federal program covering tens of millions of Americans 65 and older, does not cover routine dental care. No cleanings. No fillings. No dentures. A basic crown can run $1,000 to $1,500 out of pocket, and full dentures can easily hit $3,000 to $5,000 per arch. That's not a gap in coverage. That's a canyon.

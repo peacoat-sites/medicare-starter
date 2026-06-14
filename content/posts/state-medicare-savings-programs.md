@@ -6,8 +6,6 @@ description: "Discover how state Medicare Savings Programs can help cover premiu
 image: "https://images.pexels.com/photos/8439679/pexels-photo-8439679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["state", "Medicare", "savings", "programs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "state-medicare-savings-programs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You can apply any time during the year. There's no fixed enrollment window for most MSPs (the QI program has a first-come, first-served element once funding is allocated, but applications are accepted year-round). If you're approved mid-year, your benefits typically start from your application date or the date you became eligible, depending on your state's rules."
   - q: "My spouse doesn't have Medicare. Can I still apply for an MSP?"
     a: "Yes. MSP eligibility is based on your individual Medicare enrollment, income, and resources. Your household composition and your spouse's income will factor into the calculation, but your spouse doesn't need to be on Medicare for you to apply. Some states also have companion programs that can help a non-Medicare spouse with other health costs, worth asking about when you call."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Fewer than half the people who qualify for Medicare Savings Programs are actually enrolled in them. That number has stayed stubbornly low for years, and honestly, it bothers me. These programs can save someone $2,000 or more a year, sometimes considerably more, and most people who'd qualify have never even heard of them.

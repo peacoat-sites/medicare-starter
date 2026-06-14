@@ -6,8 +6,6 @@ description: "Compare Medigap costs by plan type, age, and location. Monthly pre
 image: https://images.pexels.com/photos/4255039/pexels-photo-4255039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["much", "does", "Medigap", "cost"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "how-much-does-medigap-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The benefits are identical, but insurers have different claims histories, administrative costs, profit margins, and pricing strategies. An insurer with a large, older enrollment pool may charge more because their average member is sicker and filing more claims. A newer entrant to a market might price aggressively to attract younger, healthier enrollees. This is exactly why shopping multiple companies matters."
   - q: "I'm in good health. Should I choose a high-deductible plan to save money?"
     a: "High-Deductible Plan G can be a genuinely smart choice for people in good health who want catastrophic protection without paying high monthly premiums. The math works in your favor in years when your medical costs stay low. The risk is that one bad year with significant cost-sharing could use up your deductible quickly. Many of my clients use a hybrid strategy: start with High-Deductible Plan G in their early 60s and revisit their coverage as their health and healthcare use evolve."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Imagine you've just turned 65, you're staring at a stack of Medicare mail on the kitchen table, and one envelope promises to protect you from "unlimited out-of-pocket costs." You open it and see a monthly premium that makes your coffee go cold. Is that price reasonable? Too high? Is there something cheaper that does the same job? These are the questions I hear every single week, and the honest answer is: Medigap pricing is genuinely complicated, but it's absolutely learnable. Let me walk you through what actually drives those costs, what you can expect to pay, and how to make sure you're not leaving money on the table.

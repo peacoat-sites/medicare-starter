@@ -6,8 +6,6 @@ description: "Compare Medicare Advantage and Medicare Supplement total costs, in
 image: "https://images.pexels.com/photos/8441854/pexels-photo-8441854.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "Advantage", "Medicare", "supplement", "total"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-advantage-vs-medicare-supplement-total-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most MA plans cover emergency and urgent care anywhere in the country, but routine care typically must stay in-network. For people who spend part of the year in another state or who travel frequently, this can be a real constraint. Medigap with Original Medicare covers you anywhere in the U.S. that accepts Medicare, with no network restrictions."
   - q: "What's the difference between Plan G and Plan N for Medigap?"
     a: "Both are popular standardized Medigap plans, but Plan N has a lower premium in exchange for copays of up to $20 for office visits and up to $50 for emergency room visits (waived if you're admitted). Plan G covers those copays with no additional cost-sharing after the Part B deductible. If you rarely see doctors, Plan N's lower premium might save you money over time. If you're a frequent health system user, Plan G's predictability often wins."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Most people pick the plan with the lower monthly premium and call it a day. That's the single most expensive mistake you can make in Medicare.

@@ -6,8 +6,6 @@ description: "Compare Medicare Supplement Plan G vs Plan N costs, coverage, and 
 image: https://images.pexels.com/photos/5583966/pexels-photo-5583966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["Plan", "Plan", "Medicare", "supplement"]
-author: "David Park"
-author_bio: "Benefits counselor focused on helping Medicare-eligible Americans understand their coverage options."
 slug: "plan-g-vs-plan-n-medicare-supplement"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Medigap plans are standardized at the federal level, so Plans G and N are available in most states. However, Massachusetts, Minnesota, and Wisconsin have their own standardized Medigap systems that don't follow the lettered plan structure. Residents of those states work with different plan names and designs. If you live in one of those states, your state insurance department can explain your local equivalent options."
   - q: "Do Medigap plans cover prescription drugs?"
     a: "No. Plans G and N, like all Medigap policies sold after 2006, do not include prescription drug coverage. If you want drug coverage, you need to enroll separately in a Part D Prescription Drug Plan. You can compare Part D options at Medicare.gov. Skipping Part D when you're first eligible can result in a permanent late enrollment penalty, so don't assume you can add it later without consequence."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you've just retired, you're sitting across from an insurance agent, and they slide two brochures across the table: Plan G and Plan N. Both promise to cover most of what Original Medicare leaves behind. Both look pretty good on paper. But the premiums are different, the out-of-pocket exposure is different, and the agent is watching the clock. You don't want to pick the wrong one and pay for it for years. This is the exact situation I've seen hundreds of times over two decades of helping seniors sort through their Medicare options, and the good news is that once you understand what each plan actually does, the choice usually becomes much clearer.

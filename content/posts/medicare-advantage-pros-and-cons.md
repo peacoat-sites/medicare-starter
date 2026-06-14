@@ -6,8 +6,6 @@ description: "Medicare Advantage offers an alternative to Original Medicare with
 image: "https://images.pexels.com/photos/8569643/pexels-photo-8569643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "pros", "cons"]
-author: "Carol Davenport"
-author_bio: "Senior health advocate and Medicare education specialist. Volunteers with State Health Insurance Assistance Programs (SHIP)."
 slug: "medicare-advantage-pros-and-cons"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your current Medicare Advantage plan likely won't cover you in your new state, since most plans are geographically specific. You'll have a Special Enrollment Period to choose a new plan in your new location. This is another reason why Original Medicare with Medigap is often a better fit for people who move or travel frequently."
   - q: "Is Medicare Advantage a good choice if I have a serious chronic condition?"
     a: "It can be, but you need to do your homework carefully. Some Medicare Advantage plans specialize in chronic care and offer excellent care coordination benefits. Others may create barriers through prior authorization requirements or narrow specialist networks. For complex conditions, many counselors, myself included, suggest modeling out your expected annual costs under both options before deciding. The best Medicare Advantage plans for 2026 vary significantly by region and health need."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Imagine you're turning 65 in three months, your mailbox is stuffed with colorful Medicare Advantage brochures, and every one of them promises $0 premiums, dental coverage, and gym memberships. It sounds almost too good to be true. And sometimes, honestly, parts of it are. Medicare Advantage, also called Medicare Part C, now covers more than half of all Medicare beneficiaries, according to the [Centers for Medicare & Medicaid Services](https://www.cms.gov/). That's a remarkable shift from just a decade ago. But "popular" doesn't automatically mean "right for you." Let's walk through the real pros and cons so you can make a decision you'll feel confident about for years to come.

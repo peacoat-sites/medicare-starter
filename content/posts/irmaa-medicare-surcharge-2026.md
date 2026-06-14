@@ -6,8 +6,6 @@ description: "Learn about 2026 IRMAA Medicare surcharges, including income thres
 image: "https://images.pexels.com/photos/8637974/pexels-photo-8637974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["IRMAA", "Medicare", "surcharge", "2026"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "irmaa-medicare-surcharge-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a reasonable question, but the answer is almost always no. Married filing separately has its own IRMAA tier structure, and it's extremely harsh, basically applying the highest Part B surcharge starting at just $106,000 of individual income. For most couples, filing jointly almost always results in a lower combined IRMAA burden. Run the numbers with a CPA before changing your filing status."
   - q: "Where do I go to formally appeal my IRMAA determination?"
     a: "File SSA Form SSA-44 with the Social Security Administration. You can download it at SSA.gov, call 1-800-772-1213, or visit your local Social Security office. You'll need documentation of your qualifying life event and a reasonable estimate of your current-year income. File as soon as you receive your IRMAA notice, since processing takes time and you want any reduction to apply to as many months as possible."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Here's something that catches people completely off guard every single year: a letter from Social Security in the fall, telling them their Medicare premiums are going up, sometimes by hundreds of dollars a month. No warning. No obvious reason. Just a higher number, effective January 1st.

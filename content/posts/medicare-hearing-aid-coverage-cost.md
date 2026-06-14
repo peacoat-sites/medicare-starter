@@ -6,8 +6,6 @@ description: "Learn what Medicare covers for hearing aids, how much you can expe
 image: "https://images.pexels.com/photos/8441811/pexels-photo-8441811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "hearing", "coverage", "cost"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-hearing-aid-coverage-cost"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Start with your state's SHIP counselor (find yours at shiphelp.org), who can identify plan options and assistance programs you may not know about. If you have limited income, check whether you qualify for your state's Medicaid program, since many state Medicaid programs do cover hearing aids. Manufacturer assistance programs, the Hearing Loss Association of America, and Lions Clubs International also provide devices at reduced or no cost to qualifying individuals."
   - q: "Will Medicare ever cover hearing aids?"
     a: "Possibly. The Medicare Hearing, Vision, and Dental Improvement Act has been introduced in Congress multiple times, most recently in recent sessions, and would add hearing coverage to original Medicare. It hasn't passed as of this writing. Some broader health care reform proposals have included hearing coverage. Whether and when that changes is genuinely uncertain, and planning your coverage around legislation that hasn't yet passed is a bad bet."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Most people assume Medicare covers hearing aids the way it covers a hip replacement or a round of chemotherapy. It doesn't. Not even close.

@@ -6,8 +6,6 @@ description: "Medicare Part A covers hospital stays, skilled nursing, and hospic
 image: "https://images.pexels.com/photos/5790824/pexels-photo-5790824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Basics"]
 tags: ["what", "does", "medicare", "part", "cover"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "what-does-medicare-part-a-and-b-cover-for-seniors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "With Original Medicare, yes. You can see any doctor, specialist, or hospital in the country that accepts Medicare, with no referrals required. That freedom is one of Original Medicare's real strengths compared to many Medicare Advantage plans, which typically require you to stay within a network or get referrals for specialists."
   - q: "What's the difference between a Medigap plan and Medicare Part B?"
     a: "They're completely separate things. Part B is part of Original Medicare, the government insurance that covers outpatient medical services, and you pay a premium for it to the federal government. A Medigap plan (also called Medicare Supplement insurance) is private insurance you buy separately to help cover the cost-sharing that Part B leaves behind, like that 20% coinsurance. You need Part B before you can use Medigap."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Every year, I watch the same thing happen to people turning 65. They get their Medicare card in the mail, feel a wave of relief, and assume they're basically covered. Then they get a bill for $1,600 after a hospital stay and call me completely blindsided.

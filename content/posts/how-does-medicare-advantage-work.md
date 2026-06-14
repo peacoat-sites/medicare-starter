@@ -6,8 +6,6 @@ description: "Medicare Advantage is an alternative to Original Medicare offered 
 image: "https://images.pexels.com/photos/7551659/pexels-photo-7551659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Medicare Advantage"]
 tags: ["does", "Medicare", "Advantage", "work"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "how-does-medicare-advantage-work"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No, and this confusion trips up a lot of people. Medicare Advantage replaces Original Medicare as your coverage. Medigap (also called Medicare Supplement insurance) works alongside Original Medicare to pay for costs that Original Medicare doesn't fully cover, like coinsurance, copayments, and deductibles. You cannot have both Medicare Advantage and a Medigap policy at the same time. If you're curious about the Medigap path, the best Medigap plans for 2026 gives you a detailed overview of what's available."
   - q: "Can I switch back to Original Medicare if I don't like my Medicare Advantage plan?"
     a: "Yes. You can switch back during the Annual Enrollment Period (October 15 to December 7) or during the Medicare Advantage Open Enrollment Period (January 1 to March 31). The practical concern is Medigap access. In most states, if you're past your initial enrollment window, you may face medical underwriting when applying for a Medigap policy, which could result in higher premiums or denial of coverage. A few states have stronger consumer protections. Checking your state's rules through SHIP before making this move is genuinely worth your time."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you've just turned 65, your Medicare card arrives in the mail, and your neighbor tells you over the fence that she pays almost nothing for her health coverage because she switched to "Medicare Advantage." You nod along, but quietly wonder: what exactly is Medicare Advantage, and how does it actually work? You're not alone. Every year, millions of Americans face this same moment of confusion, and the choices they make in the next few weeks can affect their healthcare and their wallet for years to come.

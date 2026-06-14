@@ -6,8 +6,6 @@ description: "Learn how Medicare works in California, including coverage options
 image: "https://images.pexels.com/photos/34945286/pexels-photo-34945286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "California"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "medicare-in-california"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Moving within California might change which Medicare Advantage or Part D plans are available to you, since these plans operate in defined counties. If you move to a new county, you get a Special Enrollment Period to switch plans. Original Medicare and Medigap coverage, on the other hand, don't change based on your address within the state."
   - q: "Does Medicare cover long-term care in California?"
     a: "This is one of the biggest misconceptions I encounter. Medicare does not cover custodial long-term care, meaning help with daily activities like bathing, dressing, or eating in a nursing home or assisted living facility. Medicare will cover short-term skilled nursing care after a qualifying hospital stay, but that coverage is limited and has specific conditions. Long-term care in California is expensive and typically requires either private long-term care insurance, personal assets, or Medi-Cal once assets are depleted. This is a planning conversation worth having before you need it."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 You'd think that living in one of the wealthiest, most populous states in the country would make Medicare simpler. More options, more competition, better coverage. And honestly, for many Californians, that's exactly true. But here's what surprises most people I talk to: California's sheer size and diversity can make Medicare *more* confusing, not less. Your ZIP code matters enormously. A Medicare Advantage plan that's highly rated in Los Angeles County might not even be available in Shasta County. A doctor who's in-network in San Diego could be out-of-network if you spend winters in Palm Springs. I've worked with California seniors who assumed that enrolling in Medicare would be the same experience their friends in smaller states had, and they walked away from our first meeting genuinely stunned at the number of decisions involved. So let's get into the real story.

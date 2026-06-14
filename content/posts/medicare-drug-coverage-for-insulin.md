@@ -6,8 +6,6 @@ description: "Learn how Medicare covers insulin through Part B and Part D, what 
 image: "https://images.pexels.com/photos/8965149/pexels-photo-8965149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "drug", "coverage", "insulin"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "medicare-drug-coverage-for-insulin"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. Federal law prohibits Medicare beneficiaries from using manufacturer coupons for drugs covered by their Medicare plan. Using one could be considered a compliance issue for both you and the pharmacy. The $35 cap is designed to make those coupons unnecessary for Medicare enrollees. If your insulin is somehow not covered by your plan and you're paying full price, that's a different situation worth addressing through a formulary exception or plan change."
   - q: "I'm in the Medicare low-income subsidy (LIS) program, also called Extra Help. Does the $35 cap still apply to me?"
     a: "Yes, and your costs will likely be even lower. The Extra Help program provides additional subsidies for people with limited income and resources, and your insulin copays under LIS are typically just a few dollars per prescription, well below the $35 cap. If you're not sure whether you qualify for Extra Help, the Social Security Administration handles enrollment. You can apply at ssa.gov or call 1-800-772-1213."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 If you're paying more than $35 a month for insulin right now, something has gone wrong somewhere in your coverage setup. That's not an exaggeration. Since 2023, Medicare has capped out-of-pocket insulin costs at $35 per month per covered insulin under Part D drug plans and Medicare Advantage plans with drug coverage. A lot of seniors don't know this. A lot of pharmacies don't flag it automatically. And a lot of people are still overpaying because nobody told them the rules changed.

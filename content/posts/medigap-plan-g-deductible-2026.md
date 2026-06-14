@@ -6,8 +6,6 @@ description: "Medicare Supplement Plan G deductible for 2026. Learn about curren
 image: "https://images.pexels.com/photos/3786166/pexels-photo-3786166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Medigap Plans"]
 tags: ["Medigap", "Plan", "deductible", "2026"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "medigap-plan-g-deductible-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you happen to go a whole year without using any Part B services, you simply carry forward without having paid the deductible. It resets each January 1. There's no penalty for not meeting it, and you don't lose any coverage."
   - q: "Can someone who already has Plan F switch to Plan G?"
     a: "Technically, you can apply to switch from Plan F to Plan G if you're willing to go through medical underwriting (health questions). In most states, insurers can decline you or charge higher premiums based on your health. The financial incentive to switch is that Plan G premiums are often lower than Plan F premiums. Whether the premium savings outweigh the loss of the Part B deductible coverage depends on your specific quotes and health situation. A licensed agent or SHIP counselor can help you do the math."
+author: "Dorothy Chen"
+author_slug: "dorothy-chen"
+author_title: "Medicare Specialist"
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+
 ---
 
 Imagine you just turned 65, and your doctor's office hands you a bill for $257 after a routine visit. You thought Medicare covered everything. It doesn't, and that surprise gap is exactly why millions of people choose Medigap Plan G every year. But here's the part that trips people up: Plan G has one out-of-pocket cost you still have to pay yourself, and in 2026 that cost has changed. If you're shopping for a supplement plan right now, understanding this single deductible could save you real money and a lot of frustration.

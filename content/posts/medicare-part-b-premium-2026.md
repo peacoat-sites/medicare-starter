@@ -6,8 +6,6 @@ description: "Discover the Medicare Part B premium for 2026, including monthly c
 image: "https://images.pexels.com/photos/5790820/pexels-photo-5790820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "Part", "premium", "2026"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-part-b-premium-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Most people pay the standard premium ($185/month in 2025), but higher-income beneficiaries pay more through IRMAA surcharges. People enrolled in certain Medicare Savings Programs may have their premium paid on their behalf by the state."
   - q: "Can I drop Part B to save money on the premium?"
     a: "You can, but be very careful. If you drop Part B and later want to re-enroll, you'll face a late enrollment penalty of 10% for every 12-month period you were eligible but not enrolled. That penalty lasts for as long as you have Part B. The only exception is if you had creditable coverage through an employer or spouse's employer during that time. For most people without that coverage, dropping Part B is a costly mistake that compounds over time."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 The 2026 Medicare Part B premium hasn't been officially announced yet as of this writing, but based on the pattern of the last several years, I'd put good money on it being higher than what you're paying right now. It almost always is. The Centers for Medicare & Medicaid Services (CMS) typically releases the official figures in November for the following year, so if you're reading this close to that window, check [Medicare.gov](https://www.medicare.gov/) directly for the confirmed number.

@@ -6,8 +6,6 @@ description: "Learn how Medicare works, including eligibility, coverage options,
 image: https://images.pexels.com/photos/4175028/pexels-photo-4175028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medicare Basics"]
 tags: ["does", "Medicare", "work"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "how-does-medicare-work"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You may qualify for help. Medicare Savings Programs, run by each state's Medicaid agency, can pay your Part B premium and sometimes your deductibles and copays if your income and assets are below certain limits. The Extra Help program (also called the Low Income Subsidy, or LIS) can significantly reduce Part D drug costs. Your local State Health Insurance Assistance Program (SHIP) counselor, a free service in every state, can help you apply. Find yours at shiphelp.org."
   - q: "Is Medicare the same as Medicaid?"
     a: "No, and the confusion is understandable given the similar names. Medicare is federal health insurance based on age (65+) or disability, and most people earn it through their work history. Medicaid is a joint federal-state program based on income and financial need. Some people qualify for both, which is called being 'dual eligible,' and in those cases Medicaid can help cover Medicare's premiums and cost-sharing. They're two distinct programs with different rules, different income limits, and different covered services."
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 You're turning 65 in three months, your employer just sent a letter about ending your group health coverage, and someone at your church mentioned you might owe a penalty if you don't enroll in Medicare at exactly the right time. That last part is absolutely true, and it's the kind of detail that trips up thousands of people every year. Medicare is one of the most valuable benefits you'll ever receive, but it comes with rules, moving parts, and deadlines that aren't always obvious. Let me walk you through exactly how it works.

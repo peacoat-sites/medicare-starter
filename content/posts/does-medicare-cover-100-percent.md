@@ -6,8 +6,6 @@ description: "Wondering if Medicare covers 100 percent of your costs? Learn what
 image: "https://images.pexels.com/photos/7551636/pexels-photo-7551636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["does", "Medicare", "cover", "percent"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "does-medicare-cover-100-percent"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some Medicare Advantage plans have $0 deductibles and $0 copays for certain services, but virtually all of them have cost-sharing for hospitalizations, specialist visits, and other care. Maximum out-of-pocket limits on Advantage plans are capped (around $8,850 for in-network care in 2024), which Original Medicare doesn't offer. That cap matters a lot in a serious illness."
   - q: "Does Medicare cover 100 percent of preventive care?"
     a: "Mostly yes. Medicare covers many preventive services at 100 percent with no cost-sharing, including the annual wellness visit, certain cancer screenings, flu shots, and cardiovascular screenings, as long as you see a provider who accepts Medicare assignment and the service is billed as preventive. The fine print: if your annual wellness visit turns into a discussion of a new symptom or problem, it can be reclassified as a regular office visit, and cost-sharing applies."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Medicare does not cover 100 percent of your healthcare costs. Full stop. That's the single most important thing you can know going in, and it's the thing the system never quite states plainly enough.

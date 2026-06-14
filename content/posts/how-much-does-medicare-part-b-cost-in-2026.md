@@ -6,8 +6,6 @@ description: "Learn what Medicare Part B costs in 2026, including monthly premiu
 image: "https://images.pexels.com/photos/8441861/pexels-photo-8441861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["much", "does", "medicare", "part", "cost"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-much-does-medicare-part-b-cost-in-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Original Medicare Part B does not cover routine dental, vision, or hearing. No cleanings, no glasses, no hearing aids. Some Medicare Advantage plans include these benefits, which is one of the main reasons people choose Advantage over Original Medicare plus Medigap. If you stick with Original Medicare, you'll need separate standalone coverage or pay out of pocket for these services."
   - q: "What happens if I don't pay my Part B premium?"
     a: "Medicare can disenroll you from Part B if you fall behind on premiums, typically after a two-month grace period. If that happens, you lose your outpatient coverage and will likely face a permanent late enrollment penalty when you re-enroll. It's a situation worth going to considerable lengths to avoid. If you're struggling to afford the premium, check MSP eligibility before you skip a payment."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Most people assume their Medicare Part B premium is just one flat number. It isn't, and that misunderstanding costs some beneficiaries real money every year.

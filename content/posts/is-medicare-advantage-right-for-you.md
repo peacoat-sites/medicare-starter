@@ -5,6 +5,11 @@ description: "A quick 7-question quiz to see how well a Medicare Advantage plan 
 slug: "is-medicare-advantage-right-for-you"
 date: 2026-05-27T10:00:00+00:00
 tags: ["medicare advantage", "medicare basics", "plan comparison", "medicare quiz", "choosing coverage"]
+author: "Frank Thompson"
+author_slug: "frank-thompson"
+author_title: "Retirement Researcher"
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+
 ---
 
 Choosing how you get your Medicare coverage is a big decision, and Medicare Advantage (Part C) is one of the most popular paths. But "popular" doesn't mean "right for everyone." The plans bundle benefits in a way that fits some lifestyles beautifully and frustrates others.

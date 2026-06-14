@@ -6,8 +6,6 @@ description: "Learn what Medicare prescription drug costs look like in 2026, inc
 image: "https://images.pexels.com/photos/4386176/pexels-photo-4386176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "prescription", "drug", "costs", "2026"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "medicare-prescription-drug-costs-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You have a few options. First, ask your doctor if a therapeutically equivalent generic or preferred alternative exists. Second, check whether your plan has an exceptions process: if your doctor provides documentation that the higher-tier drug is medically necessary and lower-tier alternatives aren't appropriate for you, the plan may grant a formulary exception and cover the drug at a lower cost-sharing level. Third, during Open Enrollment, use Medicare.gov's Plan Finder to compare other plans that may cover your drug at a lower tier."
   - q: "I'm on a fixed income. Is there help with Part D costs beyond the $2,000 cap?"
     a: "Absolutely. Extra Help is a federal program specifically designed for people with limited income and resources. Eligible beneficiaries pay dramatically reduced premiums, deductibles, and copays on their Part D coverage. The income and resource limits are adjusted annually, so even if you checked a few years ago and didn't qualify, it's worth checking again. You can apply through Social Security at ssa.gov/extrahelp. Your State Medicaid office can also help if you may qualify for both Medicare and Medicaid."
+author: "Robert Williams"
+author_slug: "robert-williams"
+author_title: "Benefits Advocate"
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+
 ---
 
 Imagine opening your mailbox in October and finding a letter from your Part D plan saying your monthly premium is going up again, your favorite cholesterol medication just moved to a higher tier, and your annual deductible has changed. That scenario plays out for millions of Medicare beneficiaries every single fall, and the confusion it causes is real. The good news: 2026 brings some genuinely significant changes to how Medicare prescription drug costs work, and if you understand what's shifting, you can make smarter decisions during Open Enrollment and potentially save hundreds of dollars over the year.

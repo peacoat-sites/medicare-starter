@@ -6,8 +6,6 @@ description: "Compare Medigap and Medicare Advantage plans to find the best cove
 image: "https://images.pexels.com/photos/8441808/pexels-photo-8441808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medigap Plans"]
 tags: ["Medigap", "Medicare", "Advantage"]
-author: "David Park"
-author_bio: "Benefits counselor focused on helping Medicare-eligible Americans understand their coverage options."
 slug: "medigap-vs-medicare-advantage"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Medicare rates Advantage plans on a scale of 1 to 5 stars based on quality measures like member satisfaction, managing chronic conditions, and customer service. Plans that earn 5 stars can be enrolled in at any time of year, a special enrollment right. Higher-rated plans also receive more funding from Medicare, which often translates into better benefits. You should absolutely check a plan's star rating before enrolling. You can see ratings for every plan at Medicare.gov's plan comparison tool."
   - q: "If I keep Original Medicare with Medigap, do I still need to sign up for Part D?"
     a: "Yes, and don't skip it. If you don't enroll in a Part D prescription drug plan when you're first eligible and you go more than 63 consecutive days without creditable drug coverage, you'll face a late enrollment penalty. That penalty is permanently added to your Part D premium for as long as you have Medicare. Even if you take no prescriptions today, enrolling in a low-cost Part D plan protects you from this penalty and covers you if your situation changes."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+
 ---
 
 Imagine you've just turned 65, your Medicare card arrived in the mail, and now your phone won't stop ringing. Insurance agents are calling, mailers are piling up on the kitchen table, and two of your closest friends are giving you completely opposite advice. One swears by her Medicare Advantage plan because she pays almost nothing each month. The other insists his Medigap policy is the only way to go because he never gets a surprise bill. They're both right for their own situations, and that's exactly what makes this choice so genuinely tricky.

@@ -6,8 +6,6 @@ description: "Medicare Advantage HMO vs PPO: Compare coverage, costs, flexibilit
 image: "https://images.pexels.com/photos/4173239/pexels-photo-4173239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage"]
-author: "Robert Hughes"
-author_bio: "Retired insurance broker who specialized in Medicare supplements for over 18 years."
 slug: "medicare-advantage-hmo-vs-ppo"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "In most cases, no. You're generally limited to switching during the Annual Enrollment Period (October 15 to December 7) for a January 1 start date, or during the Medicare Advantage Open Enrollment Period (January 1 to March 31) for a one-time switch. Special Enrollment Periods (SEPs) do exist for specific life events, like moving out of your plan's service area or losing other coverage, but 'I want more flexibility' doesn't qualify on its own. This is exactly why choosing carefully during Open Enrollment is so important."
   - q: "Do Medicare Advantage PPOs cover care in other countries?"
     a: "No. Medicare Advantage plans, whether HMO or PPO, generally do not cover care outside the United States. Some plans include emergency travel coverage as an added benefit, but that's plan-specific, not a standard feature, and it's often limited in scope. If international travel is a regular part of your life, you'll want to look closely at each plan's travel benefits section and possibly consider a separate travel insurance policy."
+author: "Nancy Davis"
+author_slug: "nancy-davis"
+author_title: "Drug Plan Analyst"
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+
 ---
 
 Imagine you're sitting at your kitchen table in October, staring at a stack of Medicare plan brochures, and two of them look almost identical on the surface. Same monthly premium. Same star rating. One says "HMO" and the other says "PPO." You pick the wrong one, and by January you're getting bills you didn't expect or you can't see the specialist you've been going to for years. That scenario plays out thousands of times every fall during the Medicare Open Enrollment Period (October 15 through December 7), and it's almost always avoidable with a little upfront knowledge.
