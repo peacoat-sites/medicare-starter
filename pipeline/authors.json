@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "dorothy-chen",
+    "name": "Dorothy Chen",
+    "title": "Medicare Specialist",
+    "specialty": "Medicare Enrollment & Benefits Guidance",
+    "bio": "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+  },
+  {
+    "slug": "frank-thompson",
+    "name": "Frank Thompson",
+    "title": "Retirement Researcher",
+    "specialty": "Medicare & Retirement Income Coordination",
+    "bio": "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+  },
+  {
+    "slug": "susan-park",
+    "name": "Susan Park",
+    "title": "Plan Comparison Specialist",
+    "specialty": "Medicare Advantage, Medigap & Part D Plans",
+    "bio": "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+  },
+  {
+    "slug": "robert-williams",
+    "name": "Robert Williams",
+    "title": "Benefits Advocate",
+    "specialty": "Medicare Extra Help & Low-Income Benefits",
+    "bio": "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+  },
+  {
+    "slug": "nancy-davis",
+    "name": "Nancy Davis",
+    "title": "Drug Plan Analyst",
+    "specialty": "Medicare Part D & Prescription Cost Reduction",
+    "bio": "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+  }
+]
