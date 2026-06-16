@@ -114,27 +114,6 @@ The calculation changes if your plan has altered its formulary for 2026 and your
 
 ---
 
-## Frequently Asked Questions
-
-### Can my Part D premium increase mid-year after I've enrolled?
-
-No. Once you enroll in a Part D plan for the year, your premium is locked through December 31. The only exception is IRMAA surcharges, which Social Security can adjust if your income changes, but that's separate from your plan premium. Premiums can only change at the start of a new plan year.
-
-### What happens if I don't have Part D coverage and I don't sign up when I'm first eligible?
-
-You'll face a late enrollment penalty: 1% of the national base premium multiplied by the number of months you went without creditable drug coverage. That penalty is added to your premium permanently, every month, for as long as you have Part D. If you went 24 months without coverage, you're paying 24% extra indefinitely. The only exception is if you had creditable prescription coverage elsewhere, such as through an employer or union plan.
-
-### My income dropped significantly after 2024. Can I get my IRMAA reduced?
-
-Yes. If you had a life-changing event, including retirement, divorce, death of a spouse, or reduced work hours, you can appeal your IRMAA determination using SSA Form SSA-44, available at ssa.gov. You'll need documentation showing your income change. Social Security can adjust your surcharge to reflect your current income rather than the 2024 figure they'd normally use.
-
-### Do Medicare Advantage plans with drug coverage count as Part D?
-
-Yes. An MAPD plan (Medicare Advantage Prescription Drug plan) satisfies your Part D requirement. You won't need a separate standalone PDP. However, if you're enrolled in a Medicare Advantage plan without drug coverage, you can add a standalone PDP if your MA plan permits it. Check your MA plan's terms, since not all do.
-
-### Is the $2,000 out-of-pocket cap automatic, or do I need to elect something?
-
-It's automatic. You don't need to enroll in any special program or notify your plan. Every Part D plan, whether standalone or bundled in Medicare Advantage, is required by law to apply the $2,000 annual out-of-pocket maximum starting in 2025 and continuing in 2026. Once you hit that threshold in a calendar year, your plan covers 100% of covered drug costs for the rest of the year.
 
 ---
 

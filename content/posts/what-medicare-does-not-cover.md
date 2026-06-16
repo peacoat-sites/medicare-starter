@@ -105,27 +105,6 @@ If long-term custodial care is your biggest worry, long-term care insurance (or 
 
 ---
 
-## Frequently Asked Questions
-
-### Does Medicare ever cover dental work?
-
-Medicare will cover dental services that are directly tied to a covered medical procedure. For example, if you need to have a tooth extracted before heart surgery or jaw reconstruction, that extraction may be covered. Routine dental care, cleanings, fillings, dentures, and implants are not covered by Original Medicare. Some Medicare Advantage plans do include routine dental benefits, so if this matters to you, it's worth comparing plans carefully.
-
-### Will Medicare pay for a nursing home if I can no longer live independently?
-
-Not for custodial care, which is the type of care most nursing home residents need. Medicare only covers skilled nursing facility care following a qualifying hospital stay, and only for as long as you require skilled nursing or therapy services. Once your care becomes custodial, meaning help with daily activities rather than skilled medical treatment, Medicare stops paying. Long-term care insurance or Medicaid (for those who qualify) are the primary ways people fund ongoing nursing home stays.
-
-### Is there any way to get vision coverage through Medicare?
-
-Original Medicare doesn't cover routine vision care, but Medicare Part B does cover treatment for medical eye conditions like glaucoma, macular degeneration, and diabetic retinopathy. After cataract surgery, Medicare covers one pair of standard eyeglasses or contacts. For routine exams and glasses, you'd need a Medicare Advantage plan that includes vision benefits or a standalone vision plan.
-
-### What happens if I have a medical emergency in another country?
-
-Original Medicare generally won't pay for care received outside the United States. A few narrow exceptions apply near U.S. borders and in territorial waters. If you travel internationally, you have a few options: some Medigap plans cover foreign travel emergencies up to a plan lifetime maximum, and you can also purchase separate travel health insurance for specific trips. Review your plan documents or call 1-800-MEDICARE if you're unsure what your current coverage includes abroad.
-
-### Are hearing aids covered if my doctor prescribes them?
-
-No. Even with a doctor's prescription or recommendation, Original Medicare does not cover hearing aids or the fitting exams for them. Some Medicare Advantage plans have started including hearing aid benefits as they compete for enrollees, but the coverage varies widely, from basic hearing aid discounts to allowances of several hundred dollars per year. If hearing aids are a priority, use the Medicare Plan Finder at Medicare.gov to filter for plans that include hearing benefits in your zip code.
 
 ---
 

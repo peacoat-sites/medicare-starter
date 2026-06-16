@@ -127,27 +127,6 @@ If you enroll in a Medicare Advantage plan and find the dental coverage lacking,
 
 **Veterans Affairs dental benefits:** If you're a veteran, you may be eligible for VA dental coverage. This is separate from Medicare and can be extremely valuable. If you're also dealing with Tricare alongside Medicare, [our guide on Medicare and Tricare](/medicare-and-tricare/) explains how those two programs interact.
 
-## FAQ
-
-### Does Medicare Advantage always include dental coverage?
-
-No. While many Medicare Advantage plans advertise dental benefits as a selling point, coverage is not guaranteed and varies significantly by plan. Some plans include only preventive dental care, while others offer more comprehensive coverage. Always read the Summary of Benefits before enrolling to understand exactly what's included in your specific plan.
-
-### Can I use any dentist I want with Medicare Advantage dental coverage?
-
-Usually not. Most Medicare Advantage plans with dental benefits have a network of participating dentists, and using an out-of-network provider can result in higher costs or no coverage at all. HMO-style plans are especially strict about this. Before enrolling, confirm that your preferred dentist is in the plan's dental network.
-
-### What's a typical annual maximum for Medicare Advantage dental benefits?
-
-Annual maximums vary widely. According to the Centers for Medicare & Medicaid Services, many plans offer maximums in the $1,000 to $2,000 range, though some plans offer higher limits. Given the cost of major dental work like implants or full dentures, even a $2,000 cap may not cover everything you need in a given year.
-
-### Will Medicare Advantage dental coverage pay for implants?
-
-A small number of higher-tier Medicare Advantage plans have begun including dental implant coverage, but it's not common and typically comes with significant cost-sharing. If implants are important to you, search specifically for plans that list implant coverage and review the reimbursement percentage and any annual limits that apply to implants specifically.
-
-### Can I switch Medicare Advantage plans if my dental needs change?
-
-Yes, but only during specific enrollment periods. The Annual Enrollment Period runs from October 15 to December 7 each year, and changes take effect January 1. There's also an Open Enrollment Period from January 1 to March 31, during which you can switch from one Medicare Advantage plan to another or return to original Medicare. Outside those windows, you'd generally need a Special Enrollment Period triggered by a qualifying life event.
 
 ---
 

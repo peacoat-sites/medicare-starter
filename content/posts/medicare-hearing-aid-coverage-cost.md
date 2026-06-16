@@ -96,27 +96,6 @@ Missing these windows means waiting up to a year, so if hearing coverage is a pr
 
 ---
 
-## Frequently Asked Questions
-
-### Does Medicare cover hearing tests?
-
-Medicare Part B covers a diagnostic hearing and balance exam only when your doctor orders it to investigate a medical condition, not for routine hearing screenings or hearing aid fittings. The exam itself may be covered (you'd pay the Part B coinsurance, typically 20% after your deductible), but any recommendation for a hearing aid that comes out of that appointment will not be covered.
-
-### Can I get hearing aids through Medicare Advantage?
-
-Many Medicare Advantage plans include some hearing aid benefit, but the specifics vary enormously by plan and location. Some offer a fixed dollar allowance toward approved devices; others provide access to discounted pricing through partner networks like TruHearing. Always verify the network, the allowance amount, and which device tiers are included before assuming the benefit will meet your actual needs.
-
-### Are over-the-counter hearing aids covered by Medicare?
-
-No. Medicare does not cover OTC hearing aids any more than it covers prescription hearing aids. The advantage of OTC options is that their lower price point, often $300 to $1,500 for a pair, reduces how much the coverage gap costs you. They're worth considering for mild to moderate hearing loss, but they're not a fit for everyone.
-
-### What if I can't afford hearing aids at all?
-
-Start with your state's SHIP counselor (find yours at shiphelp.org), who can identify plan options and assistance programs you may not know about. If you have limited income, check whether you qualify for your state's Medicaid program, since many state Medicaid programs do cover hearing aids. Manufacturer assistance programs, the Hearing Loss Association of America, and Lions Clubs International also provide devices at reduced or no cost to qualifying individuals.
-
-### Will Medicare ever cover hearing aids?
-
-Possibly. The Medicare Hearing, Vision, and Dental Improvement Act has been introduced in Congress multiple times, most recently in recent sessions, and would add hearing coverage to original Medicare. It hasn't passed as of this writing. Some broader health care reform proposals have included hearing coverage. Whether and when that changes is genuinely uncertain, and planning your coverage around legislation that hasn't yet passed is a bad bet.
 
 ---
 

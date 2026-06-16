@@ -111,27 +111,6 @@ The table makes it clear: what's changed isn't just a number. The entire back ha
 
 ---
 
-## Frequently Asked Questions
-
-### Does the $2,000 cap apply to Medicare Advantage plans with drug coverage?
-
-Yes. If you're enrolled in a Medicare Advantage plan that includes Part D drug coverage (these are often called MA-PD plans), the $2,000 out-of-pocket cap applies to your prescription drug costs under that plan. However, your medical out-of-pocket costs under the Medicare Advantage plan itself are governed by a separate limit. The drug cap and the medical cap are tracked independently.
-
-### Do generic drugs count toward my $2,000 cap?
-
-Yes. Every dollar you spend out of pocket on covered prescription drugs, whether brand-name or generic, counts toward your $2,000 TrOOP. In practice, most people taking only low-cost generics will never come close to the cap, but those costs still accumulate in your TrOOP tracker.
-
-### What if I use a mail-order pharmacy? Does that change how the cap works?
-
-No, the cap works the same way regardless of where you fill your prescription, retail pharmacy, mail-order, or specialty pharmacy. Your out-of-pocket spending counts toward TrOOP either way. Many plans offer lower cost-sharing for mail-order, which can be a smart way to stretch your dollars before you hit the cap.
-
-### Can my plan charge me more than $2,000 out of pocket?
-
-No plan is allowed to charge you more than $2,000 in TrOOP costs for covered Part D drugs in 2025. Once you reach that threshold, your cost-sharing drops to zero for covered drugs for the remainder of the calendar year. The cap resets on January 1 of each new plan year.
-
-### I'm on a fixed income. Will the $2,000 still be hard to manage in January?
-
-It can be, especially if you take a high-cost specialty drug and hit the cap quickly. That's exactly why the new Medicare Prescription Payment Plan exists. It lets you spread your out-of-pocket costs into equal monthly payments across the year rather than absorbing a large cost in the first few months. Contact your plan directly to enroll. The installment option is free to use and doesn't change the total amount you owe, only when you pay it.
 
 ---
 

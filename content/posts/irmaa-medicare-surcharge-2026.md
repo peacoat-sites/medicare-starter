@@ -121,27 +121,6 @@ If you're still working or have some control over income timing, consider whethe
 
 ---
 
-## Frequently Asked Questions
-
-### Does IRMAA apply to Medicare Advantage plans too?
-
-Yes. If you're enrolled in a Medicare Advantage (Part C) plan, you still pay the Part B premium and any IRMAA surcharge on top of it. Some Advantage plans have a $0 additional premium, but the Part B IRMAA is still collected, usually via Social Security withholding. Part D IRMAA applies to your drug coverage regardless of whether you have a standalone Part D plan or drug coverage bundled into an Advantage plan.
-
-### What happens if my income goes up one year and then drops back down?
-
-IRMAA is recalculated every year based on your income from two years prior. So a spike in income in one year will affect your premiums two years later, but only for that year. Once Social Security pulls your next tax return showing the lower income, your IRMAA tier adjusts back down. It's not permanent.
-
-### Can I avoid IRMAA by holding assets in a trust?
-
-Not effectively. IRMAA is based on MAGI, which includes income from most trust structures. Certain irrevocable grantor trusts may have specific tax treatment worth discussing with an estate planning attorney, but there's no simple trust wrapper that makes income disappear for IRMAA purposes. Be skeptical of anyone suggesting otherwise.
-
-### If my spouse and I file jointly but one of us has very high income, can we file separately to avoid IRMAA?
-
-This is a reasonable question, but the answer is almost always no. Married filing separately has its own IRMAA tier structure, and it's extremely harsh, basically applying the highest Part B surcharge starting at just $106,000 of individual income. For most couples, filing jointly almost always results in a lower combined IRMAA burden. Run the numbers with a CPA before changing your filing status.
-
-### Where do I go to formally appeal my IRMAA determination?
-
-File SSA Form SSA-44 with the Social Security Administration. You can download it at SSA.gov, call 1-800-772-1213, or visit your local Social Security office. You'll need documentation of your qualifying life event and a reasonable estimate of your current-year income. File as soon as you receive your IRMAA notice, since processing takes time and you want any reduction to apply to as many months as possible.
 
 ---
 

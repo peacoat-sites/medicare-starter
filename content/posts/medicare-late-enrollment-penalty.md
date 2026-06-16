@@ -116,27 +116,6 @@ The Part A penalty is the only one with an end date (two years). Everything else
 
 ---
 
-## Frequently Asked Questions
-
-### Can I appeal a Medicare late enrollment penalty?
-
-Yes, you can request a review if you believe the penalty was calculated incorrectly or if you have documentation of creditable coverage that Medicare didn't account for. You'll typically receive a notice when a penalty is applied, and that notice includes instructions for requesting a reconsideration. Acting quickly matters here. If you're disputing based on coverage you believe was creditable, gather every document you have: employer letters, insurance ID cards, benefit summaries with effective dates.
-
-### Does COBRA count as creditable coverage for Medicare purposes?
-
-For Part B, no. COBRA is considered secondary to Medicare, not a substitute for it. If you're eligible for Medicare and you choose COBRA instead, Medicare can still impose the Part B late enrollment penalty when you eventually sign up. For Part D, COBRA drug coverage may or may not be creditable depending on the plan. You should receive a notice from your COBRA administrator telling you whether it meets the creditable coverage standard.
-
-### What happens if I just never enroll in Part D?
-
-If you go without any form of creditable drug coverage for 63 or more days after your IEP ends, you'll face the Part D penalty whenever you do eventually enroll. There's no statute of limitations. Some people in excellent health decide they don't need drug coverage and skip Part D for years. When they do eventually need it, the penalty can be significant. The math almost never works out in favor of skipping.
-
-### I'm turning 65 but I'm still working. What should I do?
-
-Talk to your HR department immediately and find out three things: whether your employer coverage is considered primary to Medicare (it is if your employer has 20 or more employees), whether your drug coverage is creditable, and what your last day of coverage would be if you left or retired. If your employer coverage is primary and creditable, you may be able to delay Medicare without penalty. But you should confirm this in writing, not just based on a hallway conversation with a coworker.
-
-### How do I find out if I already have a penalty on my account?
-
-If you're already enrolled in Medicare, your penalty amount should be reflected in your premium bill. You can also call 1-800-MEDICARE or log into your MyMedicare account at Medicare.gov to review your enrollment record. If you suspect an error, ask for a detailed breakdown in writing.
 
 ---
 

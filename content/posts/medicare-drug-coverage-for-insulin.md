@@ -109,27 +109,6 @@ In my experience, the people who end up paying the most are those who auto-renew
 
 ---
 
-## Frequently Asked Questions
-
-### Does the $35 insulin cap apply if I have Medicare Advantage instead of Original Medicare?
-
-Yes, as long as your Medicare Advantage plan includes drug coverage (an MA-PD plan). All MA-PD plans are required to apply the $35 monthly cap per covered insulin. If you have a Medicare Advantage plan without drug coverage, you'd need a separate Part D plan for prescription coverage, and the same cap rules apply there.
-
-### My doctor prescribed a brand-name insulin that's not on my plan's formulary. Am I stuck paying full price?
-
-Not necessarily. You have a few options. Your doctor can request a formulary exception, asking the plan to cover your specific insulin at a standard cost-sharing rate. Alternatively, you can ask your doctor whether a therapeutically equivalent insulin that is on the formulary would work for you medically. If neither works, you can appeal the plan's denial. SHIP counselors at [shiphelp.org](https://www.shiphelp.org/) can walk you through the exception and appeal process at no charge.
-
-### I use an insulin pump. Does the $35 cap apply to my pump insulin?
-
-No. Pump insulin is covered under Part B as part of durable medical equipment, not under Part D. The $35 cap is a Part D benefit only. Under Part B, you'd typically pay 20% of the Medicare-approved amount for pump insulin after your Part B deductible, unless you have a Medigap (Medicare Supplement) policy that covers that coinsurance.
-
-### Can I use a manufacturer coupon or a program like Eli Lilly's insulin savings program alongside Medicare?
-
-Generally, no. Federal law prohibits Medicare beneficiaries from using manufacturer coupons for drugs covered by their Medicare plan. Using one could be considered a compliance issue for both you and the pharmacy. The $35 cap is designed to make those coupons unnecessary for Medicare enrollees. If your insulin is somehow not covered by your plan and you're paying full price, that's a different situation worth addressing through a formulary exception or plan change.
-
-### I'm in the Medicare low-income subsidy (LIS) program, also called Extra Help. Does the $35 cap still apply to me?
-
-Yes, and your costs will likely be even lower. The Extra Help program provides additional subsidies for people with limited income and resources, and your insulin copays under LIS are typically just a few dollars per prescription, well below the $35 cap. If you're not sure whether you qualify for Extra Help, the Social Security Administration handles enrollment. You can apply at ssa.gov or call 1-800-772-1213.
 
 ---
 

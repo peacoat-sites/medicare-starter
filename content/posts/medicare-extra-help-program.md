@@ -137,27 +137,6 @@ Extra Help doesn't exist in a vacuum. It works best when paired with other assis
 
 ---
 
-## Frequently Asked Questions About Extra Help
-
-### Does applying for Extra Help affect my Social Security benefits?
-
-No. Receiving Extra Help has no impact on your Social Security income, your Medicare coverage, or any other federal benefits. It's a separate subsidy specifically for prescription drug costs.
-
-### Can I get Extra Help if I have a Medicare Advantage plan?
-
-Yes, if your Medicare Advantage plan includes prescription drug coverage (called an MA-PD plan), Extra Help can apply. The subsidy works with the drug benefit portion of your plan. Not all Medicare Advantage plans include drug coverage, so check your plan's details or call 1-800-MEDICARE to confirm.
-
-### How do I know if I'm already enrolled in Extra Help?
-
-Check any letters you've received from the SSA or from CMS. You can also call 1-800-MEDICARE and ask. If you're enrolled in Medicaid or SSI, you're almost certainly already receiving it.
-
-### If I qualify mid-year, can I change my drug plan?
-
-Yes. Qualifying for Extra Help gives you a Special Enrollment Period (SEP) that lets you switch Part D or Medicare Advantage plans at any time, once per quarter during the first three quarters of the year. You don't have to wait for the annual October enrollment window.
-
-### What happens to my Extra Help if my income goes up?
-
-The SSA reviews your eligibility each year using IRS data. If your income rises above the limit, you'll receive a notice and your subsidy may be reduced or ended. You can provide updated information to the SSA if their data doesn't reflect your current situation accurately. And if your income later decreases again, you can reapply.
 
 ---
 

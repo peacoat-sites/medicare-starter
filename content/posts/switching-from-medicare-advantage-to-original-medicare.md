@@ -118,27 +118,6 @@ For prescription drugs, as mentioned above, you'll need a Part D plan. Enroll du
 
 ---
 
-## Frequently Asked Questions
-
-### Will I automatically get my Original Medicare back when I leave a Medicare Advantage plan?
-
-Yes. Original Medicare (Part A and Part B) never actually goes away when you join a Medicare Advantage plan. It stays active in the background. When you disenroll from Medicare Advantage, your Original Medicare benefits become your primary coverage again automatically. You don't need to re-enroll in Part A or Part B.
-
-### Can I be denied Medigap coverage when I switch back?
-
-In most states, yes. Unless you have a guaranteed issue right or live in a state with special protections, Medigap insurers can use medical underwriting to decline you or charge higher premiums based on your health history. This is the single most important factor to investigate before you decide to switch. A SHIP counselor can tell you what protections apply in your state.
-
-### What if I switch back and then want to rejoin a Medicare Advantage plan later?
-
-You can rejoin a Medicare Advantage plan during a future AEP or a qualifying SEP. However, keep in mind that if you later want Medigap again, you'd face the same underwriting concerns. Bouncing back and forth between Advantage and Original Medicare can limit your future Medigap options significantly.
-
-### Does switching back to Original Medicare affect my Social Security benefit?
-
-No. Your Social Security payments are separate from your Medicare coverage choice. The Part B premium is still deducted from your Social Security check regardless of whether you have Original Medicare or Medicare Advantage. The amount you pay for Part B doesn't change based on your coverage type.
-
-### What if I have both Medicare and employer insurance?
-
-This situation adds an extra layer of complexity. If you or your spouse is still working and covered by an employer plan, the coordination between Medicare and that employer coverage affects which plan pays first. Leaving Medicare Advantage doesn't change the fundamental rules about primary and secondary payer status. Our article on [Medicare and employer insurance](/medicare-and-employer-insurance/) covers this in detail and is worth reading before you make any changes.
 
 ---
 

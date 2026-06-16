@@ -130,27 +130,6 @@ Understanding the full cost picture for 2026 is also something the [Medigap cost
 
 ---
 
-## FAQ
-
-### Does Plan G cover the Part B deductible in 2026?
-
-No. The Medicare Part B deductible, which is $257 in 2026, is the one cost Plan G specifically excludes. You pay that amount yourself at the beginning of each calendar year before your Plan G benefits apply to Part B services.
-
-### Can my Plan G premium change from year to year?
-
-Yes, it can. Medigap premiums are set by private insurance companies and can increase over time. How they increase depends on the rating method the insurer uses: community-rated, issue-age-rated, or attained-age-rated. Attained-age plans often start with lower premiums but increase as you get older. It's smart to ask your insurer which rating method they use before you buy.
-
-### Is there a deductible for hospital stays under Plan G?
-
-No. One of the strongest benefits of Plan G is that it covers the Medicare Part A deductible in full. For 2026, that deductible is $1,676 per benefit period. If you were hospitalized, you'd pay nothing for that Part A deductible. Plan G handles it.
-
-### What happens if I don't meet my Part B deductible in 2026?
-
-If you happen to go a whole year without using any Part B services, you simply carry forward without having paid the deductible. It resets each January 1. There's no penalty for not meeting it, and you don't lose any coverage.
-
-### Can someone who already has Plan F switch to Plan G?
-
-Technically, you can apply to switch from Plan F to Plan G if you're willing to go through medical underwriting (health questions). In most states, insurers can decline you or charge higher premiums based on your health. The financial incentive to switch is that Plan G premiums are often lower than Plan F premiums. Whether the premium savings outweigh the loss of the Part B deductible coverage depends on your specific quotes and health situation. A licensed agent or SHIP counselor can help you do the math.
 
 ---
 

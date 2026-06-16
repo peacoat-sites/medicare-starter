@@ -94,27 +94,6 @@ If any of this is giving you a headache, call your local SHIP. It's free, it's n
 
 ---
 
-## Frequently Asked Questions
-
-### Can you have Medicare and Medicaid at the same time?
-
-Yes, absolutely. People who qualify for both are called "dual eligibles," and it's more common than most people realize, particularly among low-income seniors and people with disabilities. When you have both, Medicare pays first and Medicaid helps cover the gaps.
-
-### Does Medicare cover nursing home care?
-
-Medicare covers a limited stay in a skilled nursing facility after a qualifying hospital stay of at least three days, but only for up to 100 days and only for skilled care like physical therapy or wound care. It does not cover long-term custodial care in a nursing home, which is the kind most people need. Medicaid does cover long-term nursing home care for those who qualify financially.
-
-### Is Medicaid the same in every state?
-
-No, and this is one of the most important things to understand. Medicaid is a federal-state partnership, so each state sets its own income limits, asset rules, covered services, and program names. Qualifying in New York doesn't mean you'd qualify in Georgia with the same income and assets.
-
-### Do you have to be poor to get Medicaid?
-
-Not necessarily "poor" in the everyday sense. Medicaid income limits vary widely by state and by which group you fall into (parent, child, pregnant, elderly, disabled, etc). Many working adults and families who don't think of themselves as low-income still qualify, especially in states that expanded Medicaid under the Affordable Care Act. For seniors needing long-term care, the income and asset rules are different and more complex.
-
-### What happens to your Medicare if you lose Medicaid eligibility?
-
-Your Medicare stays. Medicare eligibility is based on age or disability, not on your income or Medicaid status. Losing Medicaid coverage doesn't affect your Medicare enrollment at all, though you may lose the help Medicaid was providing with Medicare cost-sharing.
 
 ---
 

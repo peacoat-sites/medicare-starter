@@ -122,29 +122,6 @@ Here's the practical process I walk clients through. It takes maybe two or three
 
 AARP's Medicare resource center at [AARP](https://www.aarp.org/health/medicare-insurance/) also offers a quote comparison tool and educational content that can supplement this research process, particularly if you're comparing their UnitedHealthcare-backed plans to other options.
 
-## Frequently Asked Questions
-
-### Is the cheapest Medigap company always a bad choice?
-
-Not at all. Because Medigap benefits are federally standardized, a lower premium doesn't mean lower coverage. The same Plan G benefits apply regardless of what you pay. A lower-cost carrier can be the best choice if they have strong financial ratings and a reasonable complaint history. Price shop without guilt.
-
-### Can a Medicare Supplement company drop me if I get sick?
-
-No. As long as you pay your premiums on time, a Medigap insurer cannot cancel your policy due to health changes. This is a federal protection under guaranteed renewability rules. Your coverage can't be taken away because you develop diabetes, cancer, or any other condition.
-
-### Do I need Medigap if I have retiree health insurance from a former employer?
-
-Maybe not, but you need to understand how they coordinate before you make a decision. Employer retiree coverage and Medicare work together in specific ways. Our article on [Medicare and employer insurance](/medicare-and-employer-insurance/) explains exactly how that coordination works so you don't pay for duplicate coverage.
-
-### How often can I switch Medicare Supplement companies?
-
-You can apply to switch carriers at any time, but outside of certain protected situations, you'll need to pass medical underwriting. Insurers can reject you or charge higher premiums based on your health history. This is why choosing carefully at the start, during your Open Enrollment window, matters so much.
-
-### Are Medicare Advantage plans a better deal than Medigap?
-
-It depends entirely on your health, how much you travel, and how important predictable costs are to you. Medicare Advantage (Part C) plans often have lower or zero premiums but come with networks, referrals, and out-of-pocket maximums you need to understand carefully. Our [Medigap vs. Medicare Advantage](/medigap-vs-medicare-advantage/) article lays out both sides honestly so you can make the comparison yourself.
-
-There's no magic list that tells you which Medicare Supplement company is best for you. But there's absolutely a right process, and following it means you won't overpay, won't end up with a carrier that fights your claims, and won't be caught off guard by runaway rate increases five years from now. Take the time. Use the framework. And if you feel overwhelmed, sit down with an independent Medicare broker who can walk through your specific situation without a sales agenda. That hour of conversation could easily be worth a thousand dollars a year or more.
 
 ## Helpful Resources
 

@@ -119,27 +119,6 @@ Neither is automatically better. But if you develop a serious illness and your c
 
 ---
 
-## FAQ
-
-### Does Medigap cost the same no matter when I buy it?
-
-No. Your age at enrollment is a major pricing factor with most plans. Buying at 65 during your Open Enrollment Period gives you access to guaranteed-issue rates, which are usually the best combination of low price and no medical screening. Waiting until 70 or 75 generally means higher premiums, and in most states, insurers can also ask about your health and turn you down or charge more.
-
-### Can my Medigap premium go up after I enroll?
-
-Yes, it can. Even with issue-age-rated or community-rated plans, premiums can rise due to overall claims trends, inflation, and state-approved rate increases. The rate method determines whether age alone makes your bill climb, but no Medigap plan guarantees a frozen premium forever. Review your plan annually and compare it to competitor prices.
-
-### Are Medigap premiums tax-deductible?
-
-They can be, under certain circumstances. If you itemize deductions and your total unreimbursed medical expenses exceed 7.5% of your adjusted gross income, Medigap premiums count as a medical expense. Self-employed individuals may deduct them as a business expense. This is a tax question, so please check with a tax professional rather than relying on general guidance.
-
-### Why does one company charge so much more than another for the exact same Plan G?
-
-The benefits are identical, but insurers have different claims histories, administrative costs, profit margins, and pricing strategies. An insurer with a large, older enrollment pool may charge more because their average member is sicker and filing more claims. A newer entrant to a market might price aggressively to attract younger, healthier enrollees. This is exactly why shopping multiple companies matters.
-
-### I'm in good health. Should I choose a high-deductible plan to save money?
-
-High-Deductible Plan G can be a genuinely smart choice for people in good health who want catastrophic protection without paying high monthly premiums. The math works in your favor in years when your medical costs stay low. The risk is that one bad year with significant cost-sharing could use up your deductible quickly. Many of my clients use a hybrid strategy: start with High-Deductible Plan G in their early 60s and revisit their coverage as their health and healthcare use evolve.
 
 ---
 

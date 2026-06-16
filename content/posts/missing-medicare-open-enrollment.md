@@ -105,27 +105,6 @@ One more thing: if you feel like you were misled by a plan or an agent, or if so
 
 ---
 
-## FAQ
-
-### What happens to my current Medicare coverage if I miss open enrollment?
-
-Nothing changes. Your existing plan stays exactly as it is for the coming year. Missing the October 15 through December 7 window just means you can't switch plans until the next available enrollment period. It does not cancel or suspend your current benefits.
-
-### Can I still change my Medicare Advantage plan after December 7?
-
-Yes, in most cases. The Medicare Advantage Open Enrollment Period (January 1 through March 31) lets you switch to a different Medicare Advantage plan or go back to Original Medicare. If you have a qualifying life event, a Special Enrollment Period may also apply.
-
-### Will I be penalized for missing Medicare open enrollment?
-
-The annual open enrollment period (October through December) doesn't carry a penalty for missing it. Penalties apply when you delay signing up for Medicare Part B or Part D in the first place, past your Initial Enrollment Period, without having creditable coverage during that time.
-
-### I missed my Initial Enrollment Period because I was still working. Do I owe a penalty?
-
-Probably not, if you had employer health coverage. People who have coverage through their own active employment (or a spouse's) can delay Medicare without penalty and use a Special Enrollment Period when that coverage ends. Retiree coverage and COBRA generally do not count as creditable coverage for this purpose, which surprises a lot of people.
-
-### How do I find out if I qualify for a Special Enrollment Period?
-
-Call 1-800-MEDICARE directly and explain your situation. You can also work with your local SHIP counselor, who can review your specific circumstances for free. Don't rely on a plan's sales line for this answer, since they can only see their own enrollment records, not your full Medicare history.
 
 ---
 

@@ -103,27 +103,6 @@ Work through these questions before you commit to anything.
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch from Medicare Advantage back to Medigap later?
-
-Yes, but it's not always easy. You can disenroll from Medicare Advantage during the Medicare Advantage Open Enrollment Period (January 1 through March 31 each year) or during the Annual Enrollment Period (October 15 through December 7). But returning to Medigap means applying for a new policy, and in most states, insurers can reject you or charge higher premiums based on your current health. There are a handful of guaranteed issue situations where they can't, such as if your plan leaves your area or goes bankrupt, but those are exceptions. This is why the timing decision at age 65 carries so much weight.
-
-### Does Medicare Advantage cover care when I travel internationally?
-
-Generally, no. Most Medicare Advantage plans cover emergency care only within the United States and its territories. Some Medigap plans, specifically Plans C, D, F, G, M, and N, include foreign travel emergency coverage up to a lifetime limit, typically 80% of covered costs after a $250 deductible. If you travel abroad frequently, this is a meaningful difference.
-
-### Are Medigap premiums tax deductible?
-
-Potentially, yes. Medigap premiums are considered medical expenses. If your total medical expenses exceed 7.5% of your adjusted gross income and you itemize deductions, the amount above that threshold may be deductible. Talk to a tax professional for guidance specific to your situation, because this varies based on your overall financial picture.
-
-### What's the Medicare Advantage star rating system and should I care about it?
-
-Medicare rates Advantage plans on a scale of 1 to 5 stars based on quality measures like member satisfaction, managing chronic conditions, and customer service. Plans that earn 5 stars can be enrolled in at any time of year, a special enrollment right. Higher-rated plans also receive more funding from Medicare, which often translates into better benefits. You should absolutely check a plan's star rating before enrolling. You can see ratings for every plan at Medicare.gov's plan comparison tool.
-
-### If I keep Original Medicare with Medigap, do I still need to sign up for Part D?
-
-Yes, and don't skip it. If you don't enroll in a Part D prescription drug plan when you're first eligible and you go more than 63 consecutive days without creditable drug coverage, you'll face a late enrollment penalty. That penalty is permanently added to your Part D premium for as long as you have Medicare. Even if you take no prescriptions today, enrolling in a low-cost Part D plan protects you from this penalty and covers you if your situation changes.
 
 ---
 

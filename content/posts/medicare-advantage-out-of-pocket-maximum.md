@@ -109,27 +109,6 @@ If you want professional, free help with this comparison, the State Health Insur
 
 For a curated look at plans worth considering next year, the [best Medicare Advantage plans for 2026](/best-medicare-advantage-plans-2026/) offers a solid starting point.
 
-## Frequently Asked Questions
-
-### Does my Medicare Advantage MOOP reset every year?
-
-Yes, it resets on January 1 of each calendar year. If you hit your MOOP in October, you get full coverage through December 31. Come January, your cost-sharing clock starts over from zero.
-
-### Can my plan change my MOOP from one year to the next?
-
-Absolutely. Plans can and do adjust their MOOPs annually, along with premiums, copays, and covered services. That's why it's so important to review your plan every fall during the Annual Enrollment Period, even if you're happy with your current coverage. You'll receive an Annual Notice of Change from your plan each September that spells out what's changing.
-
-### If I switch Medicare Advantage plans mid-year, does my MOOP progress transfer?
-
-No, it doesn't. If you switch plans, your out-of-pocket accumulation starts over with the new plan. This is a significant financial consideration if you're already deep into your existing plan's MOOP for the year. Switching mid-year can actually cost you more, not less.
-
-### Do extra benefits like dental or vision count toward the MOOP?
-
-Generally, no. Extra benefits that Medicare Advantage plans offer beyond Original Medicare coverage, things like dental cleanings, vision exams, or gym memberships, often have their own separate cost structures and don't count toward your medical MOOP. Check your plan's Summary of Benefits for the exact details on each extra benefit. For a closer look at how dental benefits specifically work, [Medicare Advantage dental coverage](/medicare-advantage-dental-coverage/) explains what's typically included and what isn't.
-
-### What happens if I accidentally pay more than my MOOP?
-
-If your claims are processed correctly, you shouldn't overpay. Providers are supposed to stop billing you once you've hit your MOOP. But errors happen. If you notice you've been billed for covered services after reaching your maximum, call your plan immediately. Keep an Explanation of Benefits (EOB) statement for every claim so you can track your accumulation throughout the year. If you can't resolve the issue with the plan, you have the right to file a complaint with Medicare at 1-800-MEDICARE.
 
 ---
 

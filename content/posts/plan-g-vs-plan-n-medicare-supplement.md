@@ -136,27 +136,6 @@ If you're approaching Medicare eligibility right now, this timing issue deserves
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch from Plan N to Plan G later if my health needs change?
-
-You can try to switch, but there's a catch. After your Open Enrollment Period ends, most states allow insurers to require medical underwriting before approving a switch between Medigap plans. If you've developed significant health issues, you might be declined. A few states, including Connecticut, Massachusetts, and New York, have stronger protections that allow year-round switching without underwriting, but most don't. This is one reason some people start with Plan G when they're younger and healthier, even if it costs more, rather than getting locked into Plan N when switching later becomes difficult.
-
-### Does Plan N still cover me if I go to the emergency room but don't get admitted?
-
-Yes, Plan N covers ER visits, but you'll owe a copay of up to $50. If the ER visit results in an inpatient admission, that copay is waived. So if you go to the ER for chest pain and get admitted overnight, you pay nothing for the ER visit itself under Plan N. If you're treated and sent home, you could owe up to $50.
-
-### What's the difference between Plan G and Plan G High Deductible?
-
-Plan G High Deductible is a variation where you pay all costs out of pocket until you reach a high deductible amount, which is $2,800 in 2024, before Plan G benefits kick in. In exchange, the monthly premiums are significantly lower. This can work well for healthy people who want catastrophic-level protection, but it requires you to be comfortable absorbing moderate costs on your own. It's a separate conversation from standard Plan G vs. Plan N, but worth knowing about.
-
-### Are Plan G and Plan N available in all states?
-
-Medigap plans are standardized at the federal level, so Plans G and N are available in most states. However, Massachusetts, Minnesota, and Wisconsin have their own standardized Medigap systems that don't follow the lettered plan structure. Residents of those states work with different plan names and designs. If you live in one of those states, your state insurance department can explain your local equivalent options.
-
-### Do Medigap plans cover prescription drugs?
-
-No. Plans G and N, like all Medigap policies sold after 2006, do not include prescription drug coverage. If you want drug coverage, you need to enroll separately in a Part D Prescription Drug Plan. You can compare Part D options at [Medicare.gov](https://www.medicare.gov/). Skipping Part D when you're first eligible can result in a permanent late enrollment penalty, so don't assume you can add it later without consequence.
 
 ---
 

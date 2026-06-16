@@ -107,27 +107,6 @@ Medigap Plan G is the most comprehensive option available to new enrollees in 20
 
 ---
 
-## Frequently Asked Questions
-
-### Is the $185 Part B premium going up in 2027?
-
-Nobody knows yet. CMS announces the following year's premium in the fall, typically October or November. The 2027 premium will be set by fall 2026. What we do know is that Part B premiums have generally increased over time, tied to Medicare spending growth. Holding flat two years in a row (2025 and 2026 both at $185) is actually unusual.
-
-### Can my Part B premium change mid-year?
-
-In most cases, no. Your premium is set at the start of the year and stays fixed through December. The exception: if your income changes significantly and you file an IRMAA appeal (SSA Form SSA-44) due to a qualifying life-changing event like retirement, divorce, or the death of a spouse, SSA can adjust your premium during the year.
-
-### Do I have to pay Part B if I have coverage through my spouse's employer?
-
-No, you can delay Part B without penalty if you're covered by an active employer group health plan (your own or your spouse's). "Active" is the key word. Retiree coverage does not count, COBRA does not count, and marketplace coverage does not count. When that employer coverage ends, you have an 8-month Special Enrollment Period to sign up for Part B penalty-free.
-
-### Does Part B cover dental, vision, or hearing?
-
-Original Medicare Part B does not cover routine dental, vision, or hearing. No cleanings, no glasses, no hearing aids. Some Medicare Advantage plans include these benefits, which is one of the main reasons people choose Advantage over Original Medicare plus Medigap. If you stick with Original Medicare, you'll need separate standalone coverage or pay out of pocket for these services.
-
-### What happens if I don't pay my Part B premium?
-
-Medicare can disenroll you from Part B if you fall behind on premiums, typically after a two-month grace period. If that happens, you lose your outpatient coverage and will likely face a permanent late enrollment penalty when you re-enroll. It's a situation worth going to considerable lengths to avoid. If you're struggling to afford the premium, check MSP eligibility before you skip a payment.
 
 ---
 

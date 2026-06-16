@@ -131,27 +131,6 @@ Visit Medicare.gov or call 1-800-MEDICARE (1-800-633-4227) to start the enrollme
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get Medicare if I've never worked?
-
-Yes, in some cases. If you're 65 and your spouse has 40 or more work credits, you can qualify for premium-free Part A through their record. This applies to current spouses, and in some situations to divorced spouses (marriage of at least 10 years, and you haven't remarried). If you don't qualify through a spouse's record, you can still buy into Part A by paying the monthly premium.
-
-### What if I'm still working at 65 and have employer insurance?
-
-You have options. If your employer has 20 or more employees, your group plan is your primary insurance and Medicare would be secondary. Many people in this situation choose to delay Part B to avoid paying two premiums. Just be certain your employer coverage qualifies as creditable. AARP's Medicare resource center (https://www.aarp.org/health/medicare-insurance/) has a helpful breakdown of how employer coverage interacts with Medicare for people who are still working.
-
-### Does Medicare eligibility depend on income?
-
-No, the basic eligibility rules have nothing to do with income. Your income may affect what you pay. Higher earners pay more for Part B and Part D through a surcharge called IRMAA (Income-Related Monthly Adjustment Amount), but income doesn't determine whether you can enroll. On the flip side, people with limited income may qualify for programs like Medicaid or Medicare Savings Programs that help cover costs.
-
-### I'm 62 and on Social Security retirement benefits early. Do I get Medicare now?
-
-No. Claiming Social Security retirement benefits early doesn't move your Medicare eligibility date. Medicare still begins at 65 regardless of when you started receiving Social Security retirement income. You'll need to maintain your own health coverage until then.
-
-### My parent is a green card holder who hasn't worked much in the U.S. Can they get Medicare?
-
-Possibly. Permanent legal residents who have lived in the U.S. for at least five continuous years are eligible for Medicare at 65. If they have fewer than 40 work quarters, they won't get premium-free Part A, but they can purchase it. They'll also need to actively enroll rather than being enrolled automatically, since they likely won't be receiving Social Security benefits. A local State Health Insurance Assistance Program (SHIP) counselor, which you can find at shiphelp.org, can help walk through the specifics at no cost.
 
 ---
 

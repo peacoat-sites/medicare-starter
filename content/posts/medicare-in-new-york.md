@@ -96,27 +96,6 @@ One more New York-specific benefit worth knowing: the Medicaid Buy-In for Workin
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch from Medicare Advantage back to Original Medicare in New York?
-
-Yes, and New York makes this easier than nearly any other state. Because of New York's guaranteed issue rules for Medigap plans, you can switch from a Medicare Advantage plan to Original Medicare and buy a Medigap supplement at any time of year without being denied or charged more due to health conditions. The switch itself (dropping the Advantage plan) typically happens during the Annual Enrollment Period (October 15 to December 7) or during the Medicare Advantage Open Enrollment Period (January 1 to March 31), but Medigap enrollment in New York isn't restricted to those windows.
-
-### Does Medicare cover home care in New York?
-
-Original Medicare covers skilled home health care (like nursing visits or physical therapy) when it's medically necessary and ordered by a doctor, and you're considered homebound. It does not cover custodial home care, meaning help with bathing, dressing, or meals if that's the only care you need. New York Medicaid programs, including the Consumer Directed Personal Assistance Program (CDPAP) and Managed Long Term Care (MLTC), fill this gap for people who qualify based on income and medical need.
-
-### What's the difference between HIICAP and a Medicare insurance broker in New York?
-
-HIICAP counselors are certified, state-trained, and don't sell anything. They'll help you compare plans, understand your rights, and apply for savings programs at no cost. A broker earns a commission when you enroll in a plan. Brokers aren't bad, some are excellent and genuinely helpful, but their incentives are different. For unbiased comparison help, start with HIICAP. For enrollment help across many plans, a good independent broker can be efficient and useful.
-
-### Is Medicare Advantage or Medigap better for someone who lives part of the year in Florida?
-
-This is a really common situation in New York. Most Medicare Advantage HMO plans will not cover you for routine care when you're outside their New York service area. PPO Advantage plans cover more out-of-network care but usually at higher cost-sharing. If you genuinely split time between states for months at a time, a Medigap plan (which works with any doctor who accepts Medicare, anywhere in the country) is almost always the stronger choice. Original Medicare plus a Plan G gives you coast-to-coast coverage without network restrictions.
-
-### When can I first enroll in Medicare in New York?
-
-Your Initial Enrollment Period (IEP) starts 3 months before the month you turn 65, includes your birthday month, and runs for 3 months after. That's a 7-month window. If you miss it and don't have qualifying employer coverage, you'll face late enrollment penalties: 10% added to your Part B premium for each 12-month period you delayed, and that penalty is permanent. Enroll on time, or make sure you have documented proof of creditable employer coverage if you're delaying.
 
 ---
 

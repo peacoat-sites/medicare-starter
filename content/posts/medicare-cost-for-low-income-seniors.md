@@ -106,27 +106,6 @@ The point is: don't assume you make too much or have too many assets without act
 
 ---
 
-## FAQ
-
-### What if I already have Medicare but didn't know about these programs?
-
-You can apply for Medicare Savings Programs and Extra Help at any time, even if you've been enrolled in Medicare for years. Some programs can help going forward, and in certain cases you may be able to recoup premiums you already paid. Contact your state Medicaid office or a SHIP counselor to find out what's available retroactively in your state.
-
-### Does getting extra help affect my Social Security benefits?
-
-No. Receiving Medicare Savings Programs, Extra Help, or Medicaid does not reduce your Social Security income. These are distinct programs, and benefits from one don't count against the other.
-
-### I'm not on Social Security yet. Can I still get help with Medicare costs?
-
-Yes. These programs are based on your current income and assets, not whether you're receiving Social Security. If you enrolled in Medicare at 65 but deferred Social Security, you can still qualify for MSPs and Extra Help.
-
-### Can I get help if I live with family and they have higher income?
-
-Generally, MSPs and Extra Help look at your individual (or household) income, not a family member's income unless they're your spouse. Living with an adult child with higher income typically doesn't affect your eligibility. A SHIP counselor can help you sort out your specific situation.
-
-### What's the fastest way to find out if I qualify?
-
-The quickest path is to call your local SHIP office (find them at shiphelp.org) or your state Medicaid office. You can also use the Medicare Plan Finder at Medicare.gov to get a rough sense of Extra Help eligibility, but for a definitive answer and actual application, talking to a real person is genuinely worth the call.
 
 ---
 

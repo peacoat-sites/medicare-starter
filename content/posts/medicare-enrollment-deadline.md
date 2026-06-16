@@ -90,27 +90,6 @@ The pragmatic move: find the cheapest Part D plan available in your area when yo
 
 ---
 
-## Frequently Asked Questions
-
-### What happens if I miss my Medicare Initial Enrollment Period?
-
-If you miss your IEP without a qualifying Special Enrollment Period, you can sign up during the General Enrollment Period (January 1 through March 31), but your coverage won't start until July 1. You'll also owe late enrollment penalties on Part B and possibly Part D, which are added to your premiums permanently.
-
-### Can I sign up for Medicare before I retire if I'm still working at 65?
-
-Yes, and sometimes it makes sense. If your employer has fewer than 20 employees, Medicare is typically expected to be your primary insurance at 65, and you should enroll in both Part A and Part B during your IEP. If your employer has 20 or more employees and you're covered under an active employee plan, you have more flexibility to delay Part B without penalty.
-
-### Does my spouse's employer coverage count to protect me from Medicare late penalties?
-
-Yes, as long as it's coverage through your spouse's current active employment. Retiree coverage from a former employer does not qualify, even if your spouse recently retired. Make sure to confirm the plan qualifies as creditable coverage each year.
-
-### How do I actually sign up for Medicare?
-
-Most people can enroll online through the Social Security Administration's website at SSA.gov, by calling 1-800-772-1213, or by visiting a local Social Security office. If you're already receiving Social Security, enrollment in Part A and B may happen automatically.
-
-### Is there any way to get a late penalty waived?
-
-Penalties can sometimes be waived if you can document that you had creditable coverage during the period in question, or in rare cases where Social Security made an administrative error in your enrollment. You'll need to appeal through Social Security, and the process isn't fast. Keeping your creditable coverage documentation every year is the only reliable protection.
 
 ---
 

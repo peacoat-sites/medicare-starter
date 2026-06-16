@@ -132,27 +132,6 @@ The General Enrollment Period is the safety net that catches people who missed t
 
 ---
 
-## Frequently Asked Questions
-
-### Do I have to sign up for Medicare if I turn 65 but don't want it?
-
-Technically, if you're still on qualifying employer coverage, you can delay Part B without penalty. But if you're not covered by qualifying employer insurance, you really should enroll. Going without Medicare when you're eligible doesn't freeze the clock on penalties. The months of missed coverage still count against you.
-
-### What if my birthday is on the first of the month?
-
-This is a quirk many people don't know about. If you're born on the first of any month, Medicare treats your birthday as the last day of the previous month. So if your birthday is August 1, you're considered to have turned 65 in July, and your IEP starts three months before July, in April. Your coverage can begin as early as July 1.
-
-### Can I enroll in Medicare while I'm still working and have employer coverage?
-
-Yes, you can. Many people choose to sign up for Part A only (since it's usually free) and delay Part B while their employer coverage is active. Whether that makes sense depends on how your employer plan works alongside Medicare. Some employers actually require you to take Medicare as your primary insurance once you're eligible. Check with your HR department.
-
-### I missed my IEP and I don't have a Special Enrollment Period. What now?
-
-You'll need to wait for the General Enrollment Period, January 1 through March 31, with coverage starting July 1. You'll likely owe the late enrollment penalty going forward. If you have circumstances you believe qualify as exceptional, contact 1-800-MEDICARE (1-800-633-4227) to ask about a possible administrative exception, but those are rarely granted.
-
-### I'm turning 65 but I'm staying on my spouse's plan. Do I need to do anything?
-
-If your spouse is still actively employed and their employer plan covers you, you can delay Part B without penalty. You'll want to enroll when that coverage ends using your Special Enrollment Period. Just make sure you have documentation of your creditable employer coverage. When the time comes to enroll, you'll need a form from the employer confirming coverage dates.
 
 ---
 

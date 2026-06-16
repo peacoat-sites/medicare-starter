@@ -108,27 +108,6 @@ Here's a practical checklist to make sure your Part A enrollment goes smoothly.
 
 ---
 
-## Frequently Asked Questions About Medicare Part A
-
-### Does Medicare Part A cover long-term nursing home care?
-
-No. This is one of the most important misunderstandings I run into. Part A covers skilled nursing facility care for a limited time after a qualifying hospital stay, but it does not cover long-term custodial care. If you need help with daily activities like bathing, dressing, or eating over an extended period, that cost falls to you personally, or it may be covered by Medicaid if you meet income and asset requirements. Long-term care insurance is a separate product designed to address this gap.
-
-### What is a benefit period, and why does it matter?
-
-A benefit period is how Medicare measures your use of Part A benefits. It starts when you're admitted as a hospital inpatient and ends when you've been out of the hospital and not in skilled care for 60 consecutive days in a row. You pay a separate Part A deductible for each benefit period. In theory, you could face multiple deductibles in a single calendar year if you have separate illnesses or injuries with enough time between them. There's no annual limit on benefit periods.
-
-### Can I have Part A without Part B?
-
-Yes, you can have Part A without Part B. Some people who are still working and have employer coverage choose to enroll in Part A (especially if it's premium-free) while delaying Part B. However, if you take Part A, you generally cannot continue contributing to a Health Savings Account (HSA). Talk to your benefits administrator and a SHIP counselor before making that decision.
-
-### What happens if I need emergency care before I've enrolled in Medicare?
-
-If you're eligible for Medicare but haven't yet enrolled, Original Medicare won't cover your care. This is why understanding your enrollment windows is so important. If you're in your Initial Enrollment Period and you haven't enrolled yet, do it now. If you're past your IEP and don't have a qualifying Special Enrollment Period, you may face a coverage gap until the next General Enrollment Period.
-
-### Does Medicare Part A cover mental health care in a hospital?
-
-Yes. Part A covers inpatient mental health care received in a general hospital or a psychiatric hospital. There is a lifetime limit of 190 days for inpatient psychiatric hospital care specifically (not including psychiatric units in general hospitals), though most people never approach that limit. The same deductible and coinsurance structure applies as with medical inpatient stays.
 
 ---
 

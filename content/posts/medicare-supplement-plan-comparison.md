@@ -108,29 +108,6 @@ In my experience, a few mistakes show up again and again.
 
 If you'd like to dig deeper into plan details before talking to an agent, a good reference like a [Medicare supplement insurance guide](https://www.amazon.com/s?k=medicare+supplement+insurance+guide) can lay out every plan's benefits clearly (note: this site may earn a commission on purchases through that link).
 
-## Frequently Asked Questions
-
-### Can I have both a Medicare Advantage plan and a Medigap policy at the same time?
-
-No. It's actually illegal for an insurance company to sell you a Medigap policy if they know you're enrolled in Medicare Advantage. The two systems don't work together. Medigap is designed to supplement Original Medicare, not Advantage plans. If you want Medigap, you need to be on Original Medicare (Parts A and B).
-
-### Is there a yearly Open Enrollment Period for Medigap like there is for Medicare Advantage?
-
-No, and this surprises a lot of people. Unlike Medicare Advantage or Part D drug plans, Medigap doesn't have an annual open enrollment window where everyone can freely join or switch. Your main guaranteed access window is the six-month Open Enrollment Period when you first become eligible. After that, changing plans usually means medical underwriting in most states.
-
-### Do Medigap plans cover prescription drugs?
-
-No. Medigap plans don't include prescription drug coverage. You'll need a separate Part D plan for that. When you're buying Medigap, budget for a standalone Part D drug plan as well. Use the plan finder tool at [Medicare.gov](https://www.medicare.gov/plan-compare/) to compare drug plans based on the specific medications you take.
-
-### What happens to my Medigap policy if the insurance company leaves my state?
-
-If your insurer stops offering Medigap in your state, you typically receive a guaranteed issue right to buy a new Medigap policy from another company without medical underwriting, as long as you apply within a specific timeframe. Keep an eye on notices from your insurer and don't let any deadlines pass. Contact your state's SHIP program immediately if this happens.
-
-### Does Medigap cover dental, vision, or hearing?
-
-Standard Medigap plans don't cover dental, vision, or hearing. Those are gaps in Medicare itself, not just in Medigap. Some insurers bundle add-on benefits with their Medigap policies, but these are separate from the standardized Medigap benefits and vary widely. If dental and vision coverage matter to you, look at those add-ons separately and compare them like any other insurance product.
-
-Choosing a Medigap plan is one of the most consequential insurance decisions you'll make. But it doesn't have to be overwhelming. The standardization of plans takes most of the complexity off the table. Once you know which letter fits your health situation and budget, it really does come down to price, company quality, and timing. Take your time, get several quotes, talk to a SHIP counselor if you want free guidance with no sales pressure, and make sure you act before your Open Enrollment Period closes. You've worked too long and too hard to let avoidable gaps in coverage catch you off guard.
 
 ## Helpful Resources
 

@@ -112,27 +112,6 @@ Missing the IRMAA appeal when income dropped at retirement. File SSA-44. It's fo
 
 ---
 
-## FAQ
-
-### Do I have to enroll in Medicare at 65 if I'm still working?
-
-Not necessarily. If you're covered by an employer group health plan from a company with 20 or more employees, you can delay Part B enrollment without penalty. You'll get a Special Enrollment Period of eight months when that coverage ends. Part A is usually free and harmless to enroll in early.
-
-### What happens if I miss my Initial Enrollment Period?
-
-You can still sign up during the General Enrollment Period (January 1 through March 31 each year), but your coverage won't start until July 1 and you'll owe a late enrollment penalty on your Part B premium. The penalty is 10% for every full 12-month period you were late, and it's permanent.
-
-### Can I enroll in Medicare online?
-
-Yes. Go to [Medicare.gov](https://www.medicare.gov/) and apply through your my Social Security account. It takes about 10 minutes and you receive a confirmation immediately. This is genuinely easier than calling or visiting an office.
-
-### Is Medicare free at 65?
-
-Part A is premium-free for most people. Part B has a standard premium of $174.70 a month in 2024, higher if your income exceeds certain thresholds. You'll also pay deductibles, copays, and coinsurance unless you have a supplement plan. "Free" is a word Medicare's marketing leans on harder than it should.
-
-### When can I change my Medicare plan after I enroll?
-
-For Medicare Advantage and Part D, you can make changes during the Annual Enrollment Period (October 15 through December 7). There's also a Medicare Advantage Open Enrollment Period from January 1 through March 31. Medigap is different: outside of your initial six-month window, switching plans requires medical underwriting in most states, and you can be denied.
 
 ---
 

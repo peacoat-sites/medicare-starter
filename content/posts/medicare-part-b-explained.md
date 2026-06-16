@@ -118,27 +118,6 @@ If you'd like to compare your options, [this Medicare plan comparison guide](htt
 
 ---
 
-## Frequently Asked Questions
-
-### Can I drop Part B if I decide I don't need it?
-
-You can, but think carefully before you do. If you drop Part B and later want to re-enroll, you'll likely face a late enrollment penalty and can only sign up during the General Enrollment Period (January through March). If you're dropping it because you have qualifying employer coverage, document everything carefully and understand the rules around re-enrolling when that coverage ends.
-
-### Does Part B cover dental, vision, and hearing?
-
-Generally, no. Original Medicare Part B doesn't cover routine dental care, eyeglasses, contact lenses, or hearing aids. This surprises a lot of people. Some Medicare Advantage plans do offer these benefits, which is one reason Advantage plans have grown in popularity. If these services matter to you, factor them into your coverage decision.
-
-### What's the difference between Medicare-approved amounts and actual charges?
-
-Medicare sets an approved amount for each service. Doctors who "accept assignment" agree to that amount as full payment. Doctors who don't accept assignment can charge up to 15% more than the Medicare-approved amount, known as an "excess charge." If you see a lot of specialists or use out-of-network providers, this can affect your costs. Medigap Plan G covers these excess charges; Plan N does not.
-
-### Is Part B required if I'm on Medicaid?
-
-If you qualify for both Medicare and Medicaid (making you a "dual eligible"), Medicaid may help pay your Part B premiums and cost-sharing. In some cases, a Medicare Savings Program (MSP) will cover your Part B premium entirely. Contact your state Medicaid office or a SHIP counselor to see if you qualify. This benefit is underused and can make a significant financial difference.
-
-### How does Part B work with a Medicare Advantage plan?
-
-If you join a Medicare Advantage plan (Part C), you're still enrolled in Part B and still pay your Part B premium. The Medicare Advantage plan replaces how you receive your Part A and Part B benefits, but you don't give up Part B itself. Your Advantage plan may have different cost-sharing structures, a provider network, and possibly extra benefits, but the foundation is still your Part B enrollment.
 
 ---
 

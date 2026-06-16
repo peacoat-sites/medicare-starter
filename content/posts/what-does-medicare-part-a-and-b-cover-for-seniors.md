@@ -105,27 +105,6 @@ For prescription drug coverage, comparing Part D plans by your actual medication
 
 ---
 
-## FAQ
-
-### Does Medicare Part A cover ambulance transportation?
-
-Yes, Part B (not Part A) covers medically necessary ambulance services when other transportation would endanger your health. You'll pay 20% of the Medicare-approved amount after your deductible. Air ambulance is covered under the same rules, but costs can be very high if the provider isn't in a Medicare-participating network. Some people add supplemental coverage specifically for this.
-
-### Is there really no out-of-pocket maximum with Original Medicare?
-
-Correct. Original Medicare (Part A and Part B alone) has no annual cap on what you can owe. A serious illness or prolonged hospital stay could result in costs well into the five figures. That's why most people add either a Medigap policy or choose Medicare Advantage, which is required by law to have a yearly out-of-pocket maximum.
-
-### Does Medicare cover physical therapy?
-
-Yes. Part B covers outpatient physical therapy as a medically necessary service. You'll pay 20% after your Part B deductible once you meet it. There used to be annual dollar caps on therapy services, but those caps were permanently repealed in 2018. Coverage is now unlimited as long as services are medically necessary.
-
-### Can I have both Part A and Part B but still see any doctor I want?
-
-With Original Medicare, yes. You can see any doctor, specialist, or hospital in the country that accepts Medicare, with no referrals required. That freedom is one of Original Medicare's real strengths compared to many Medicare Advantage plans, which typically require you to stay within a network or get referrals for specialists.
-
-### What's the difference between a Medigap plan and Medicare Part B?
-
-They're completely separate things. Part B is part of Original Medicare, the government insurance that covers outpatient medical services, and you pay a premium for it to the federal government. A Medigap plan (also called Medicare Supplement insurance) is private insurance you buy separately to help cover the cost-sharing that Part B leaves behind, like that 20% coinsurance. You need Part B before you can use Medigap.
 
 ---
 

@@ -96,27 +96,6 @@ This matters more than people realize. Part D plans vary a lot in how they cover
 
 ---
 
-## Frequently Asked Questions
-
-### Does Extra Help eligibility reset every year?
-
-Yes. SSA redetermines your eligibility annually, usually by mailing you a form in the fall. If your income and assets haven't changed significantly, redetermination is typically straightforward. But you do need to respond. If you ignore the form, you could lose your benefit. Most people stay enrolled year after year, but the review is real.
-
-### Can I get Extra Help if I'm still working?
-
-Absolutely. Being employed doesn't disqualify you. Wages count as income in the calculation, but if your total income stays below the threshold, you're eligible. Some working seniors are surprised to find they still qualify, especially if they're working part-time.
-
-### Does Extra Help affect my Part D plan options?
-
-You can use Extra Help with most standalone Part D plans or Medicare Advantage plans that include drug coverage. There's a benchmark premium amount set each year, and if your plan's premium is at or below the benchmark, you pay nothing. If your plan's premium exceeds the benchmark, you pay the difference. Sticking to benchmark plans is usually the right move.
-
-### What if I was denied? Can I appeal?
-
-Yes, and you should if you believe the decision was wrong. You have 60 days from the denial notice to request a review. This is another place where a SHIP counselor earns their keep. They can help you understand why you were denied and whether an appeal makes sense given your specific situation.
-
-### My parent lives in a different state than me. Can I still help them apply?
-
-Yes. You can help a family member apply by phone or online. You'll want to have their Medicare card and basic financial information on hand. If they have a Medicare Savings Program question or a state-specific SPAP, look up the SHIP number for their state specifically, not yours, since programs vary.
 
 ---
 

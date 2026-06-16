@@ -89,27 +89,6 @@ Apply for both at the same time. Apply through your state Medicaid office. Many 
 
 ---
 
-## Frequently Asked Questions
-
-### Does having a 401(k) or IRA disqualify me from Extra Help?
-
-Not automatically. Whether retirement accounts count as a "resource" depends on whether you can currently access the funds. If you're required to take minimum distributions, the account's value may count partially. If the funds are inaccessible without penalty, the rules get more complicated. The honest answer is: it depends on your specific situation, and it's worth getting help from a SHIP counselor to run the numbers accurately.
-
-### What if my income is over the limit but just barely?
-
-There's a gray zone. If you're close to the income limits, apply anyway. Extra Help counts certain deductions (like earned income disregards for people still working) that can bring your countable income below the limit. A denial isn't permanent either. You can reapply if your circumstances change, and you can appeal a denial if you think the calculation was wrong.
-
-### Can I get Extra Help if I'm already enrolled in a Medicare Advantage plan?
-
-Yes. If your Medicare Advantage plan includes Part D drug coverage (most do), Extra Help applies. Your drug copays drop significantly, and your plan can't charge you more than the Extra Help copay amounts for covered drugs. Call your plan after your Extra Help is approved to confirm everything is updated correctly.
-
-### How do I know if I already have Extra Help?
-
-Look at your Medicare card or any recent letter from Medicare or Social Security. If you have full Medicaid, SSI, or a Medicare Savings Program, you have automatic Extra Help. You can also call 1-800-MEDICARE (1-800-633-4227) and ask directly. It takes about five minutes.
-
-### Does Extra Help coverage renew automatically?
-
-If you have automatic Extra Help (through Medicaid, SSI, or an MSP), it renews as long as you stay enrolled in those programs. If you applied directly through Social Security, you'll typically receive a review letter periodically, usually once a year, to confirm your situation hasn't changed significantly. Respond to those letters promptly. Missing one can interrupt your benefits.
 
 ---
 

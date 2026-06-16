@@ -114,29 +114,6 @@ Buying a Medigap plan doesn't have to be complicated, but it does require some t
 
 **Step 7: Submit your application.** Once you've chosen a carrier, the application is usually straightforward. You'll provide your Medicare information, confirm your Part B effective date, and set up premium payment. Coverage typically begins the first of a month.
 
-## Frequently Asked Questions About Plan N
-
-### Can I switch from Plan G to Plan N later to save money on premiums?
-
-You can apply to switch at any time, but outside your Open Enrollment Period, the insurance company can require medical underwriting. If you've developed health conditions since you originally enrolled, you may be declined or charged a higher rate. If you're healthy and recently enrolled, switching might make financial sense, but run the numbers carefully first and consult a licensed broker or SHIP counselor before making any changes.
-
-### Does Plan N cover prescription drugs?
-
-No. Plan N, like all Medigap plans, does not include prescription drug coverage. You'll need to enroll in a standalone Medicare Part D plan to help with medication costs. You can compare Part D plans at Medicare.gov's plan finder tool. If you're enrolled in a Medicare Advantage plan, you generally can't use a Medigap plan at all, so make sure you understand which type of Medicare coverage you have before shopping for supplements.
-
-### What happens if I go to the emergency room and I'm admitted to the hospital?
-
-If your ER visit results in an inpatient hospital admission, the $50 ER copay under Plan N is waived. You'd only pay that copay for ER visits where you are treated and released without being admitted as an inpatient. This distinction matters, and it's one that Plan N enrollees often don't realize until they see a bill.
-
-### Is Plan N available in all 50 states?
-
-Plan N is available in most states, but Massachusetts, Minnesota, and Wisconsin have their own standardized Medigap systems that work differently from the rest of the country. If you live in one of those three states, work with a local broker who knows the state-specific options. In all other states, Plan N should be available from multiple carriers.
-
-### Are there any situations where Plan N is clearly the wrong choice?
-
-Yes. If you regularly see providers who don't accept Medicare assignment, Plan N's lack of excess charge coverage can turn into real out-of-pocket expenses. Also, if you find yourself visiting the doctor frequently, say 12 or more times a year, the $20 copays can accumulate until they approach or exceed the premium savings over Plan G. Run the math for your actual usage pattern. There's no shame in choosing the more comprehensive plan if the numbers support it.
-
-The honest truth about Plan N is that it's a genuinely strong plan for the right person, and a poor fit for someone else. What makes it worth understanding carefully is that the savings are real and the trade-offs are manageable for many people. Take your time, get multiple quotes, ask your doctors the right questions, and please don't make this decision based on what worked for your neighbor. Their health situation and their doctors aren't yours. Get personalized guidance, whether from a licensed broker, a SHIP counselor, or both, before you sign anything.
 
 ## Helpful Resources
 

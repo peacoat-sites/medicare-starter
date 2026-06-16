@@ -127,27 +127,6 @@ Beyond Medigap, the coverage gaps that consistently catch people off guard inclu
 
 ---
 
-## Frequently Asked Questions
-
-### Does Medicare cover dental implants or dentures?
-
-No. Original Medicare doesn't cover routine dental services, including implants, dentures, extractions, or cleanings. Some Medicare Advantage plans include dental benefits, so if dental coverage is a priority, that's something to check carefully when comparing plans. Standalone dental insurance for seniors is also available as a separate purchase.
-
-### Will Medicare pay for a home health aide to help me bathe and dress?
-
-Medicare covers home health services only when they're skilled and medically necessary, meaning a nurse or therapist must be providing them under a doctor's plan of care. It doesn't cover custodial care (bathing, dressing, meal prep) when that's the only help you need. For ongoing personal care assistance, you'd generally be looking at Medicaid if you qualify, long-term care insurance, or private pay.
-
-### Does Medicare cover ambulance transportation?
-
-Yes, Part B covers medically necessary ambulance transportation to a hospital or skilled nursing facility when other transportation would be dangerous to your health. Non-emergency transportation for routine appointments is generally not covered under Original Medicare, though some Medicare Advantage plans include transportation benefits.
-
-### When can I sign up, and what happens if I miss the window?
-
-Your Initial Enrollment Period is a seven-month window: three months before the month you turn 65, the month of your birthday, and three months after. Missing this window without qualifying for a Special Enrollment Period can result in permanent late enrollment penalties for Part B (1% added to your premium for every month you were eligible but didn't enroll) and Part D. If you're still working and covered by employer insurance, the rules are different, so check with your employer's HR department and a SHIP counselor before deciding to delay.
-
-### Can I have both Medicare and Medicaid at the same time?
-
-Yes. People who qualify for both are called "dual-eligible," and it's actually a very beneficial combination. Medicaid can pick up costs that Medicare doesn't cover, including some dental, vision, and long-term care. Your local SHIP office can help you understand exactly how your state's Medicaid program coordinates with Medicare benefits.
 
 ---
 

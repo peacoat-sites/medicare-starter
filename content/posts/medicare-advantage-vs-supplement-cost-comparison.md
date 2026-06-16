@@ -110,27 +110,6 @@ The practical upshot: if you're leaning toward Medigap, strongly consider enroll
 
 ---
 
-## Frequently Asked Questions
-
-### Can I have both Medicare Advantage and a Medigap plan at the same time?
-
-No. This is actually illegal. Medigap policies are designed to work with Original Medicare, not Medicare Advantage. If you enroll in Medicare Advantage, any Medigap policy you have becomes essentially worthless because the Advantage plan is now your primary coverage. If someone tries to sell you both, that's a red flag.
-
-### Is Medicare Advantage only for healthy people?
-
-Not necessarily, but it tends to work best for people who are in reasonably good health, live in an area with strong plan options, and have predictable healthcare needs. People managing serious chronic conditions or who need frequent specialist care often find that the copay structure adds up and that network restrictions create real friction. That said, some Medicare Advantage plans, particularly Special Needs Plans (SNPs) designed for people with specific conditions, are built specifically for higher-need enrollees.
-
-### Do Medigap premiums go up as I age?
-
-Yes, in most cases. How they increase depends on the pricing method the insurance company uses. "Attained-age" pricing means your premium rises as you get older. "Issue-age" pricing locks your rate to the age when you bought the policy. "Community-rated" pricing charges everyone in a geographic area the same rate. Attained-age is the most common. Ask about the pricing method before you buy, and factor in that premiums will likely increase over time.
-
-### What if my doctor isn't in a Medicare Advantage network?
-
-This is one of the most common and painful surprises I've seen. If your doctor doesn't participate in a plan's network, you may pay significantly more or the visit may not be covered at all, except in emergencies. Before enrolling in any Medicare Advantage plan, confirm that your primary care doctor, your specialists, and your preferred hospital are all in-network. Network directories are updated frequently, so call the doctor's office directly and call the plan to verify, rather than relying solely on the printed directory.
-
-### Is a $0 premium Medicare Advantage plan really free?
-
-You're still paying your Medicare Part B premium (which most people pay regardless of which coverage they choose). And as covered above, the real cost of a $0-premium Advantage plan shows up in copays, coinsurance, and potentially reaching your out-of-pocket maximum in a bad year. "Free" is a marketing word. The actual cost of the plan depends on how much healthcare you use.
 
 ---
 

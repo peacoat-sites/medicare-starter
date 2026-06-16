@@ -98,27 +98,6 @@ No plan makes everything free. But with the right combination, "100 percent of c
 
 ---
 
-## FAQ
-
-### Does Medicare Part A cover 100 percent of hospital costs?
-
-No. Part A covers hospital stays after you pay the benefit period deductible (around $1,632 in 2024). After 60 days in the hospital, daily coinsurance charges kick in, and after 90 days you're drawing on lifetime reserve days, which you only get 60 of total. Long hospital stays can get expensive quickly.
-
-### Is there a Medicare plan that covers 100 percent of everything?
-
-No single Medicare plan covers everything. Medigap Plan G comes closest for hospital and doctor costs: after you pay the Part B deductible, it covers virtually all remaining cost-sharing for Medicare-approved services. But you'll still need separate coverage for dental, vision, hearing, and drugs.
-
-### Does Medicare cover 100 percent after you meet the deductible?
-
-For many Part B services, yes, once you've met the annual deductible, Medicare pays 80 percent and you owe 20 percent. Medicare itself never pays 100 percent of Part B costs on its own. You'd need a Medigap plan to cover that remaining 20 percent.
-
-### Can Medicare Advantage plans cover 100 percent of costs?
-
-Some Medicare Advantage plans have $0 deductibles and $0 copays for certain services, but virtually all of them have cost-sharing for hospitalizations, specialist visits, and other care. Maximum out-of-pocket limits on Advantage plans are capped (around $8,850 for in-network care in 2024), which Original Medicare doesn't offer. That cap matters a lot in a serious illness.
-
-### Does Medicare cover 100 percent of preventive care?
-
-Mostly yes. Medicare covers many preventive services at 100 percent with no cost-sharing, including the annual wellness visit, certain cancer screenings, flu shots, and cardiovascular screenings, as long as you see a provider who accepts Medicare assignment and the service is billed as preventive. The fine print: if your annual wellness visit turns into a discussion of a new symptom or problem, it can be reclassified as a regular office visit, and cost-sharing applies.
 
 ---
 

@@ -110,27 +110,6 @@ Open Enrollment for 2026 plans runs October 15 through December 7, 2025. If you'
 
 ---
 
-## FAQ
-
-### Can I use any doctor in California with Medicare Advantage?
-
-Not always. Most Medicare Advantage HMO plans require you to stay within a specific network of doctors and hospitals, and you usually need a primary care referral to see a specialist. PPO plans give you more flexibility but typically charge higher cost sharing when you go out of network. Always check whether your specific doctors are in a plan's network before you enroll.
-
-### Is Kaiser the best Medicare plan in California?
-
-For people already in the Kaiser system who are happy with their care, Kaiser's Medicare Advantage HMO plans consistently earn the highest star ratings in California and offer excellent value. But Kaiser only works if you're willing to get all your care through Kaiser providers. If you have outside specialists you want to keep seeing, it's the wrong fit regardless of the ratings.
-
-### What's the difference between Medicare Advantage and Medigap?
-
-Medicare Advantage replaces Original Medicare entirely, usually through a private insurer's network. Medigap supplements Original Medicare by paying most or all of its cost sharing, so you keep Original Medicare's broad provider access. They work completely differently and you can't have both at the same time.
-
-### Does California have any special Medicare enrollment rules?
-
-Yes. California's birthday rule allows Medigap policyholders to switch to a plan with equal or lesser benefits during the 30 days after their birthday each year, without medical underwriting. That's a significant consumer protection not available in most states. California also has guaranteed issue protections for some people losing employer coverage.
-
-### How do I find out if my prescriptions are covered under a specific plan?
-
-The Medicare Plan Finder at Medicare.gov lets you enter your exact medications with dosages and compare estimated annual drug costs across every available plan in your zip code. This is the most accurate way to compare, because formularies and tier placements vary widely between plans and change every year.
 
 ---
 

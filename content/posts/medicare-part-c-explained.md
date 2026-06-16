@@ -111,27 +111,6 @@ Finally, don't assume you're locked in forever. Each Annual Enrollment Period gi
 
 ---
 
-## Frequently Asked Questions
-
-### Does Medicare Part C replace Original Medicare?
-
-Not exactly. When you enroll in a Medicare Advantage plan, you're still technically enrolled in Medicare Part A and Part B. The private plan just delivers your benefits instead of the federal government doing it directly. You still carry your red, white, and blue Medicare card, and your coverage must meet the same standards Original Medicare sets.
-
-### Can I have both a Medicare Supplement (Medigap) plan and a Medicare Advantage plan at the same time?
-
-No. These two options don't work together. Medigap plans are designed to fill gaps in Original Medicare coverage. Medicare Advantage replaces that Original Medicare delivery model, so a Medigap plan has nothing to supplement. It would just be an extra premium you're paying for nothing. If you decide to leave Medicare Advantage and return to Original Medicare, that's when a Medigap plan becomes relevant again, though getting one after your initial enrollment window may involve medical underwriting.
-
-### What happens if I need care while traveling outside my plan's service area?
-
-Most Medicare Advantage plans cover emergency and urgently needed care anywhere in the United States. However, routine care outside your plan's network typically isn't covered unless you have a PPO plan. If you travel frequently or split time between two states, this is a genuinely important factor to consider. Some people in that situation find that Original Medicare with a Medigap plan gives them more flexibility.
-
-### Are Medicare Advantage plans available everywhere?
-
-Plans vary significantly by location. In major metropolitan areas, you might have dozens of options. In rural counties, there may be very few, or the networks may be quite thin. When you use the plan finder at Medicare.gov and enter your zip code, you'll see exactly what's available in your area.
-
-### Can I be denied coverage for a Medicare Advantage plan because of a health condition?
-
-No. Medicare Advantage plans are required to accept anyone who is eligible for Medicare and lives in the plan's service area, regardless of health status. The only exceptions are Special Needs Plans, which are restricted to people who meet specific eligibility criteria. This is a meaningful protection that makes Medicare Advantage accessible even if you have serious health conditions.
 
 ---
 

@@ -113,27 +113,6 @@ If Plan N still comes out ahead or roughly equal in the second scenario, it's pr
 
 ---
 
-## Frequently Asked Questions
-
-### Can I switch from Plan N to Plan G later if I want to?
-
-You can try, but it's not guaranteed. Outside of your initial Medigap Open Enrollment Period, most states allow insurers to use medical underwriting, which means they can deny your application or charge you more based on your health history. A handful of states (Connecticut, Massachusetts, New York, Maine) have more protective rules. Check your state's rules before assuming a switch will be easy.
-
-### Do Plan G and Plan N cover prescription drugs?
-
-Neither plan covers prescription drugs. Medigap plans don't include drug coverage. For that, you'd need a separate Part D (prescription drug) plan, which you enroll in through a private insurer. Medicare.gov has a plan finder tool where you can compare Part D options based on the specific drugs you take.
-
-### Are Plan G and Plan N the same regardless of which insurance company I buy from?
-
-The benefits are standardized by federal law, so a Plan G from Aetna covers exactly the same things as a Plan G from Mutual of Omaha. What differs is the premium, the company's financial stability, their customer service reputation, and how they set rates as you age. It's worth comparing a few companies, not just going with whichever name you recognize first.
-
-### Is Plan N available everywhere?
-
-Plan N is widely available, but not every insurer offers it in every state or ZIP code. A few states (Massachusetts, Minnesota, and Wisconsin) have their own standardized Medigap systems that don't use the standard lettered plan structure at all. If you're in one of those states, you'll want to work with a counselor who understands your state's specific plan options.
-
-### If I'm healthy now, is it smarter to wait and see which plan I need?
-
-This is the one piece of advice I push back on most often. Your Medigap Open Enrollment Period, when you have guaranteed issue rights regardless of health, only lasts six months. Once it closes, you lose that protection in most states. Making a decision based on your health right now is actually the worst time to wait. Get enrolled in the plan that makes sense for your current situation and financial comfort level, knowing that Plan G offers more predictable costs if anything changes.
 
 ## Helpful Resources
 

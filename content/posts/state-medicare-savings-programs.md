@@ -102,27 +102,6 @@ The QI program requires a new application every year regardless. For other progr
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get an MSP if I have Medicare Advantage instead of Original Medicare?
-
-Yes. Medicare Savings Programs work with both Original Medicare and Medicare Advantage (Part C) plans. If you're in a Medicare Advantage plan and you qualify for QMB, your plan is required to apply the QMB protections to your cost-sharing. In practice, some plans don't always implement this correctly, so if you're in this situation and getting billed for cost-sharing that should be covered, contact your State Health Insurance Assistance Program for help.
-
-### Does getting an MSP affect my other benefits like Social Security or SSI?
-
-An MSP itself doesn't reduce your Social Security or Supplemental Security Income (SSI) payments. It also doesn't count as income for SSI purposes. That said, if you have other benefits you're worried about, it's worth asking your SHIP counselor specifically about your situation before applying, just to make sure you have the full picture.
-
-### I'm still working part-time. Does that income disqualify me?
-
-Not necessarily. The income limits for MSPs are higher than many people expect, and they're based on modified adjusted gross income thresholds set by CMS, not just your wages. Some income exclusions may apply. The honest answer is you need to check the current limits for your specific state and program, because the exact cutoffs shift yearly and vary by state. Don't assume your work income disqualifies you.
-
-### What if I missed my chance to enroll in an MSP for this year?
-
-You can apply any time during the year. There's no fixed enrollment window for most MSPs (the QI program has a first-come, first-served element once funding is allocated, but applications are accepted year-round). If you're approved mid-year, your benefits typically start from your application date or the date you became eligible, depending on your state's rules.
-
-### My spouse doesn't have Medicare. Can I still apply for an MSP?
-
-Yes. MSP eligibility is based on your individual Medicare enrollment, income, and resources. Your household composition and your spouse's income will factor into the calculation, but your spouse doesn't need to be on Medicare for you to apply. Some states also have companion programs that can help a non-Medicare spouse with other health costs, worth asking about when you call.
 
 ---
 

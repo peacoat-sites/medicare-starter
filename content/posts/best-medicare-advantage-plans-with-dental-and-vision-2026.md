@@ -92,27 +92,6 @@ The Annual Notice of Change (ANOC) your plan mails you in late September tells y
 
 ---
 
-## FAQ
-
-### Do all Medicare Advantage plans include dental and vision benefits?
-
-No. While many MA plans offer dental and vision as extra benefits, they aren't required to by federal law. Plans that do offer them vary enormously in what's actually covered, from basic preventive dental care only to comprehensive coverage that includes crowns and dentures. Always check the Summary of Benefits before enrolling.
-
-### Can I use any dentist with my Medicare Advantage dental benefit?
-
-It depends on the plan type. HMO plans generally require you to use in-network dentists, while PPO plans allow out-of-network providers but typically at a higher cost to you. Some plans have networks so narrow that you may struggle to find an in-network dentist near you, so checking your specific dentist's participation before enrolling is one of the most important steps you can take.
-
-### Is the dental benefit included in the plan premium, or is it a separate add-on?
-
-Most MA plans bundle dental, vision, and sometimes hearing into the plan's standard benefit package. However, some plans offer tiered dental options where you can pay a small additional monthly amount for a higher benefit maximum. Read the plan's benefit summary carefully so you understand exactly what you're paying for.
-
-### What if I need major dental work like implants? Will Medicare Advantage cover it?
-
-Dental implants are not covered by most MA plans, even those with comprehensive dental benefits. Some plans are starting to add limited implant coverage as a selling point in competitive markets, but it remains uncommon as of 2026. If implants are a priority, you'll want to specifically search for plans that list implant coverage and read the fine print on annual maximums and cost-sharing.
-
-### When can I change my Medicare Advantage plan if I'm not happy with the dental coverage?
-
-The main window is the Annual Enrollment Period (AEP), October 15 through December 7 each year, for coverage starting January 1. There's also a Medicare Advantage Open Enrollment Period (OEP) from January 1 through March 31 where you can switch to a different MA plan or return to Original Medicare, though you can't add a new MA plan during the OEP if you're already on Original Medicare.
 
 ---
 

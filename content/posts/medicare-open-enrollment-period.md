@@ -117,27 +117,6 @@ I've been doing this long enough to recognize the patterns. Here are the ones th
 
 ---
 
-## Frequently Asked Questions
-
-### Can I change my Medigap (Medicare Supplement) plan during Open Enrollment?
-
-In most states, no, at least not without going through medical underwriting, which means the insurance company can review your health history and potentially deny coverage or charge you more based on pre-existing conditions. Medigap has its own enrollment protections, most notably the six-month Medigap Open Enrollment Period that starts when you first enroll in Part B. Once that window closes, your options for changing Medigap plans depend heavily on your state's rules. A few states (Connecticut, Massachusetts, and New York, for example) have stronger protections that allow you to change Medigap plans more freely. Check with your state insurance department or a SHIP counselor for specifics.
-
-### What if I miss the December 7 deadline?
-
-If you miss the Annual Enrollment Period, your options narrow considerably. You may be able to make changes during the Medicare Advantage Open Enrollment Period (January 1 through March 31) if you're in an Advantage plan. Outside of that, you'd typically need a Special Enrollment Period triggered by a qualifying life event, such as moving to a new service area, losing other coverage, or your plan leaving the Medicare program. Missing the window is a real cost, which is exactly why I encourage people to put October 15 on their calendar every year.
-
-### Does everyone on Medicare need to do something during Open Enrollment?
-
-No. If your current coverage is working well, your doctors are still in-network, your medications are still covered at a reasonable cost, and you've reviewed your ANOC letter and nothing significant changed, staying put is a perfectly valid choice. But please do actually review it, rather than assuming nothing changed. Something almost always does.
-
-### Can I enroll in Medicare for the first time during Open Enrollment?
-
-Open Enrollment is for people already enrolled in Medicare. If you're new to Medicare, your Initial Enrollment Period (IEP) is the window that applies to you, generally the seven-month period around your 65th birthday (three months before, the month of, and three months after). There's also a General Enrollment Period (January 1 through March 31) for people who missed their IEP, but late enrollment penalties may apply. If you're coming up on Medicare eligibility, that's a separate conversation from AEP.
-
-### If I switch Medicare Advantage plans, will I lose my current doctors?
-
-Possibly, if your current doctors aren't in the new plan's network. That's why verifying network status is one of the most important steps before you switch. Don't assume that because a doctor accepted your old plan they'll accept your new one, even if both plans are offered by the same insurance company. Networks can differ between products from the same insurer. Call the doctor's office directly and ask about your specific new plan for the upcoming plan year.
 
 ---
 

@@ -94,27 +94,6 @@ If you're in Medicare Advantage, review your plan's Evidence of Coverage (EOC) d
 
 ---
 
-## Frequently Asked Questions
-
-### Does the $2,000 out-of-pocket cap apply to all Medicare drug plans in 2026?
-
-Yes. The $2,000 annual out-of-pocket cap on Part D drug costs applies to all Medicare Part D plans in 2026, including both standalone Part D plans and Medicare Advantage plans that include drug coverage (MA-PD plans). Once you've paid $2,000 out of pocket for covered drugs in the calendar year, your plan covers 100% of covered drug costs for the remainder of that year. Premiums do not count toward this cap.
-
-### What counts as "out of pocket" toward the $2,000 cap?
-
-Your deductible payments, your copays and coinsurance during the initial coverage phase, and amounts paid on your behalf by Medicare's Extra Help (Low-Income Subsidy) program all count. Manufacturer discounts on certain drugs can also count in some circumstances. Your monthly premium does NOT count toward the cap, and costs for drugs not on your plan's formulary don't count either.
-
-### Can I spread out my drug costs throughout the year to avoid a big bill early on?
-
-Yes, and there's actually a formal mechanism to do this starting in 2025 that continues into 2026. It's called the Medicare Prescription Payment Plan, sometimes referred to as the "smoothing" option. If you'd otherwise face large drug costs early in the year before hitting your $2,000 cap, you can opt into this program and spread those costs in equal monthly payments across the year. You need to opt in through your Part D plan. It doesn't reduce the total you owe, but it prevents one month from being financially brutal.
-
-### My drug moved to a higher tier on my plan. What can I do?
-
-You have a few options. First, ask your doctor if a therapeutically equivalent generic or preferred alternative exists. Second, check whether your plan has an exceptions process: if your doctor provides documentation that the higher-tier drug is medically necessary and lower-tier alternatives aren't appropriate for you, the plan may grant a formulary exception and cover the drug at a lower cost-sharing level. Third, during Open Enrollment, use Medicare.gov's Plan Finder to compare other plans that may cover your drug at a lower tier.
-
-### I'm on a fixed income. Is there help with Part D costs beyond the $2,000 cap?
-
-Absolutely. Extra Help is a federal program specifically designed for people with limited income and resources. Eligible beneficiaries pay dramatically reduced premiums, deductibles, and copays on their Part D coverage. The income and resource limits are adjusted annually, so even if you checked a few years ago and didn't qualify, it's worth checking again. You can apply through Social Security at ssa.gov/extrahelp. Your State Medicaid office can also help if you may qualify for both Medicare and Medicaid.
 
 ---
 
