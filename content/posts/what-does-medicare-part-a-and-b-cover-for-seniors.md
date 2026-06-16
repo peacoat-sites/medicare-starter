@@ -3,7 +3,7 @@ title: "What Does Medicare Part A And B Cover For Seniors"
 date: 2026-06-06T15:23:42.324645+00:00
 draft: false
 description: "Medicare Part A covers hospital stays, skilled nursing, and hospice care, while Part B covers doctor visits, outpatient services, and preventive care for senior"
-image: "https://images.pexels.com/photos/5790824/pexels-photo-5790824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18459702/pexels-photo-18459702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Basics"]
 tags: ["what", "does", "medicare", "part", "cover"]
 slug: "what-does-medicare-part-a-and-b-cover-for-seniors"
@@ -119,7 +119,7 @@ None of this is simple, and I won't pretend the system is designed with your con
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 
 ---
 

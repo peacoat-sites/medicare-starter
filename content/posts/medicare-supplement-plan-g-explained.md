@@ -151,7 +151,7 @@ Plan G isn't magic, and no insurance policy is. But for the right person, especi
 - **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Gundula Vogel](https://www.pexels.com/@guvo59) via Pexels*
 
 ---
 

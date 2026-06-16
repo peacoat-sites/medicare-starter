@@ -3,7 +3,7 @@ title: "Medicare Income Related Premium Adjustment"
 date: 2026-06-12T16:54:44.122457+00:00
 draft: false
 description: "Learn how Medicare's income-related premium adjustment affects your costs, who pays more, income thresholds, and how to appeal an IRMAA determination."
-image: "https://images.pexels.com/photos/5790818/pexels-photo-5790818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6863512/pexels-photo-6863512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "income", "related", "premium", "adjustment"]
 slug: "medicare-income-related-premium-adjustment"
@@ -125,7 +125,7 @@ The hard truth is that IRMAA catches a lot of people by surprise precisely becau
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 
 ---
 

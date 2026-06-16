@@ -125,7 +125,7 @@ The choice between Medicare Advantage and Original Medicare is one of the most p
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

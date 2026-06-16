@@ -3,7 +3,7 @@ title: "Missing Medicare Open Enrollment"
 date: 2026-06-14T15:55:38.257104+00:00
 draft: false
 description: "Missed Medicare open enrollment? Learn your options, special enrollment periods, and steps to take now to avoid penalties and get the coverage you need."
-image: "https://images.pexels.com/photos/8439763/pexels-photo-8439763.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6170644/pexels-photo-6170644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["missing", "Medicare", "open", "enrollment"]
 slug: "missing-medicare-open-enrollment"
@@ -119,7 +119,7 @@ Missing an enrollment window feels enormous in the moment. Sometimes it genuinel
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

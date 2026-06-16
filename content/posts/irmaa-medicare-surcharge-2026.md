@@ -3,7 +3,7 @@ title: "Irmaa Medicare Surcharge 2026"
 date: 2026-06-08T17:30:42.502025+00:00
 draft: false
 description: "Learn about 2026 IRMAA Medicare surcharges, including income thresholds, premium amounts, and how to appeal if your income has changed since your base year."
-image: "https://images.pexels.com/photos/8637974/pexels-photo-8637974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8962520/pexels-photo-8962520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["IRMAA", "Medicare", "surcharge", "2026"]
 slug: "irmaa-medicare-surcharge-2026"
@@ -135,7 +135,7 @@ The two-year lookback makes IRMAA feel like you're always reacting rather than p
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 ---
 

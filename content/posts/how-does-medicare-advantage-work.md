@@ -3,7 +3,7 @@ title: "How Does Medicare Advantage Work"
 date: 2026-05-27T12:12:31.022990+00:00
 draft: false
 description: "Medicare Advantage is an alternative to Original Medicare offered by private insurers. Learn how these plans work, what they cover, and if one is right for you."
-image: "https://images.pexels.com/photos/7551659/pexels-photo-7551659.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/8123888/pexels-photo-8123888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["does", "Medicare", "Advantage", "work"]
 slug: "how-does-medicare-advantage-work"

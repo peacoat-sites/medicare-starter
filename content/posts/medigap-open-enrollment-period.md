@@ -132,7 +132,7 @@ Your Medigap Open Enrollment Period is a one-time gift that most people only get
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
 

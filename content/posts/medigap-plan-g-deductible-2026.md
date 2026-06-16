@@ -3,7 +3,7 @@ title: "Medigap Plan G Deductible 2026"
 date: 2026-05-21T10:41:10.593334+00:00
 draft: false
 description: "Medicare Supplement Plan G deductible for 2026. Learn about current costs, coverage details, and how Plan G compares to other Medigap options."
-image: "https://images.pexels.com/photos/3786166/pexels-photo-3786166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/7821554/pexels-photo-7821554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medigap Plans"]
 tags: ["Medigap", "Plan", "deductible", "2026"]
 slug: "medigap-plan-g-deductible-2026"

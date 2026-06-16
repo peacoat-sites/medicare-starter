@@ -141,7 +141,7 @@ Medicare is a genuinely powerful safety net, and once you understand its structu
 - **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

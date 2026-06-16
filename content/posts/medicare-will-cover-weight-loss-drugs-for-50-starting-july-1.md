@@ -3,7 +3,7 @@ title: "Medicare Will Cover Weight-Loss Drugs for $50 Starting July 1"
 date: 2026-06-15T18:46:01.357895+00:00
 draft: false
 description: "Medicare beneficiaries can access weight-loss drugs like GLP-1s for just $50 per month starting July 1. Learn what's covered, who qualifies, and how to enroll."
-image: "https://images.pexels.com/photos/8657369/pexels-photo-8657369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/47073/nutrient-additives-medicine-pills-bless-you-47073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["medicare", "will", "cover", "weight-loss", "drugs"]
 author: "Frank Thompson"
@@ -75,7 +75,7 @@ The GLP-1 Bridge Program is genuinely historic for Medicare. For millions of Par
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
+*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 
 ---
 

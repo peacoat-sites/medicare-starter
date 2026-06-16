@@ -3,7 +3,7 @@ title: "Medicare Extra Help Program"
 date: 2026-05-24T23:38:53.590249+00:00
 draft: false
 description: "Learn how the Medicare Extra Help program reduces prescription drug costs for eligible beneficiaries. Find out if you qualify and how to apply for this valuable"
-image: "https://images.pexels.com/photos/34520606/pexels-photo-34520606.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7567600/pexels-photo-7567600.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Extra", "Help", "program"]
 slug: "medicare-extra-help-program"
@@ -151,7 +151,7 @@ The truth is, Extra Help is one of the most underused benefits in all of Medicar
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
 

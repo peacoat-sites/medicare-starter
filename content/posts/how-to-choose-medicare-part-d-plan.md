@@ -3,7 +3,7 @@ title: "How To Choose Medicare Part D Plan"
 date: 2026-05-22T15:26:27.345658+00:00
 draft: false
 description: "Compare Medicare Part D plans by checking your drug formulary, monthly premiums, deductibles, and pharmacy network to find the best coverage at the lowest cost."
-image: "https://images.pexels.com/photos/5790814/pexels-photo-5790814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8657374/pexels-photo-8657374.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["choose", "Medicare", "Part", "plan"]
 slug: "how-to-choose-medicare-part-d-plan"
@@ -122,7 +122,7 @@ Choosing a Part D plan isn't something you do once and forget. It's a decision w
 - **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

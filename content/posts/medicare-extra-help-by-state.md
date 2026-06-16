@@ -3,7 +3,7 @@ title: "Medicare Extra Help By State"
 date: 2026-06-03T14:12:45.623474+00:00
 draft: false
 description: "Learn how Medicare Extra Help benefits vary by state. Find eligibility requirements, income limits, and how to apply for prescription drug cost assistance near "
-image: "https://images.pexels.com/photos/29372730/pexels-photo-29372730.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6919776/pexels-photo-6919776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "Extra", "Help", "state"]
 slug: "medicare-extra-help-by-state"
@@ -112,7 +112,7 @@ Fourteen million people. A third of them leaving help on the table, not because 
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 
 ---
 

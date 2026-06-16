@@ -3,7 +3,7 @@ title: "Medicare Part D Premium 2026"
 date: 2026-05-26T18:53:07.565596+00:00
 draft: false
 description: "Compare 2026 Medicare Part D premium costs, coverage changes, and ways to lower your monthly drug plan expenses with updated pricing and enrollment details."
-image: "https://images.pexels.com/photos/32851836/pexels-photo-32851836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8899976/pexels-photo-8899976.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Part", "premium", "2026"]
 slug: "medicare-part-d-premium-2026"
@@ -128,7 +128,7 @@ The 2026 Part D landscape has more moving parts than any year since the program 
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

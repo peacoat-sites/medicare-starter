@@ -145,7 +145,7 @@ Getting your Medicare start date right is one of those things that's easy to ove
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 
 ---
 

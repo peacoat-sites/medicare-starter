@@ -3,7 +3,7 @@ title: "Switching From Medicare Advantage To Original Medicare"
 date: 2026-05-26T03:02:03.043906+00:00
 draft: false
 description: "Switching from Medicare Advantage to Original Medicare: learn eligibility rules, enrollment periods, coverage differences, and key factors to consider before ma"
-image: "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+image: "https://images.pexels.com/photos/8439682/pexels-photo-8439682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Advantage"]
 tags: ["switching", "from", "Medicare", "Advantage", "original"]
 slug: "switching-from-medicare-advantage-to-original-medicare"

@@ -3,7 +3,7 @@ title: "Medicare Enrollment Deadline"
 date: 2026-06-04T12:23:46.072652+00:00
 draft: false
 description: "Missing your Medicare enrollment deadline can mean permanent penalties and coverage gaps. Learn key dates, enrollment windows, and how to avoid costly mistakes."
-image: "https://images.pexels.com/photos/8441778/pexels-photo-8441778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7723784/pexels-photo-7723784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "enrollment", "deadline"]
 slug: "medicare-enrollment-deadline"
@@ -104,7 +104,7 @@ Deadlines feel abstract until they aren't. The people who end up paying penaltie
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
 ---
 

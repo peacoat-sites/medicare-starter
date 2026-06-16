@@ -3,7 +3,7 @@ title: "Medicare Hearing Aid Coverage Cost"
 date: 2026-06-05T12:21:46.593529+00:00
 draft: false
 description: "Learn what Medicare covers for hearing aids, how much you can expect to pay out of pocket, and ways to reduce your hearing care costs in 2024."
-image: "https://images.pexels.com/photos/8441811/pexels-photo-8441811.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11340544/pexels-photo-11340544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "hearing", "coverage", "cost"]
 slug: "medicare-hearing-aid-coverage-cost"
@@ -110,7 +110,7 @@ The math here is unpleasant. Two hearing aids, realistically priced, can cost mo
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Ali  Alcántara](https://www.pexels.com/@alialcantara) via Pexels*
 
 ---
 

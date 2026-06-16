@@ -3,7 +3,7 @@ title: "State Medicare Savings Programs"
 date: 2026-06-10T17:30:39.187349+00:00
 draft: false
 description: "Discover how state Medicare Savings Programs can help cover premiums, deductibles, and copays for eligible low-income beneficiaries and reduce your healthcare c"
-image: "https://images.pexels.com/photos/8439679/pexels-photo-8439679.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/18738059/pexels-photo-18738059.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["state", "Medicare", "savings", "programs"]
 slug: "state-medicare-savings-programs"
@@ -116,7 +116,7 @@ There's a reason I keep coming back to this topic with people. Hundreds of dolla
 - **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Jermaine Lewis](https://www.pexels.com/@jaytrick) via Pexels*
 
 ---
 

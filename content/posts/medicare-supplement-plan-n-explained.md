@@ -124,7 +124,7 @@ Buying a Medigap plan doesn't have to be complicated, but it does require some t
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
 ---
 

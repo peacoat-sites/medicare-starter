@@ -3,7 +3,7 @@ title: "Medicare GLP-1 Bridge: What Beneficiaries Need to Know Before July 1"
 date: 2026-06-16T18:41:01.855864+00:00
 draft: false
 description: "Medicare may soon cover GLP-1 drugs for weight loss. Learn what the proposed coverage means for beneficiaries, key deadlines, and how to prepare before July 1."
-image: "https://images.pexels.com/photos/8088898/pexels-photo-8088898.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6823665/pexels-photo-6823665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["medicare", "glp-1", "bridge:", "what", "beneficiaries"]
 author: "Nancy Davis"
@@ -85,7 +85,7 @@ The GLP-1 Bridge is genuinely historic. Medicare has never covered drugs prescri
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Yaroslav Shuraev](https://www.pexels.com/@yaroslav-shuraev) via Pexels*
+*Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 
 ---
 

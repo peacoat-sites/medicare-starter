@@ -3,7 +3,7 @@ title: "Medicare Irmaa Income Thresholds 2026"
 date: 2026-06-16T18:39:02.212035+00:00
 draft: false
 description: "Learn the 2026 Medicare IRMAA income thresholds and find out how your modified adjusted gross income affects your Part B and Part D premiums."
-image: "https://images.pexels.com/photos/7163939/pexels-photo-7163939.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6928879/pexels-photo-6928879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["medicare", "irmaa", "income", "thresholds", "2026"]
 author: "Robert Williams"
@@ -105,7 +105,7 @@ If you're anywhere near an IRMAA threshold, the smartest thing you can do right 
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 
 ---
 

@@ -119,7 +119,7 @@ Medicare is a remarkable program, and after 20 years in this field, I still see 
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 
 ---
 

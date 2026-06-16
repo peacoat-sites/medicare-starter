@@ -3,7 +3,7 @@ title: "Medicare In California"
 date: 2026-06-02T12:56:47.779993+00:00
 draft: false
 description: "Learn how Medicare works in California, including coverage options, costs, and how to enroll. Find plans that fit your health needs and budget in the Golden Sta"
-image: "https://images.pexels.com/photos/34945286/pexels-photo-34945286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8083429/pexels-photo-8083429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "California"]
 slug: "medicare-in-california"
@@ -121,7 +121,7 @@ California Medicare is genuinely complex, but it's not impossible to figure out 
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

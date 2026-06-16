@@ -3,7 +3,7 @@ title: "Medicare In New York"
 date: 2026-06-12T16:57:26.325736+00:00
 draft: false
 description: "Explore Medicare options in New York, including eligibility, enrollment periods, plan types, and state-specific programs to help you maximize your healthcare be"
-image: "https://images.pexels.com/photos/8441820/pexels-photo-8441820.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35167760/pexels-photo-35167760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "York"]
 slug: "medicare-in-new-york"
@@ -110,7 +110,7 @@ If you're just starting Medicare in New York, the single most useful thing you c
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Abhishek  Navlakha](https://www.pexels.com/@navlakha) via Pexels*
 
 ---
 

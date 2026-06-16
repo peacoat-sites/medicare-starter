@@ -133,7 +133,7 @@ The bottom line is simple: Medigap pricing rewards people who shop actively, enr
 - **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

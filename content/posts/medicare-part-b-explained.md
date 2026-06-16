@@ -132,7 +132,7 @@ Part B is the backbone of your day-to-day medical coverage under Medicare. Get t
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Ilias Saltidis](https://www.pexels.com/@ilias-saltidis-488992979) via Pexels*
 
 ---
 

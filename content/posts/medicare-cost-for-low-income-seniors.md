@@ -3,7 +3,7 @@ title: "Medicare Cost For Low Income Seniors"
 date: 2026-06-11T17:41:39.390688+00:00
 draft: false
 description: "Discover how low income seniors can reduce Medicare costs through savings programs, Medicaid, and extra help benefits that cover premiums, deductibles, and copa"
-image: "https://images.pexels.com/photos/5790821/pexels-photo-5790821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/14599250/pexels-photo-14599250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "cost", "income", "seniors"]
 slug: "medicare-cost-for-low-income-seniors"
@@ -120,7 +120,7 @@ The programs are real, the savings are real, and the barriers to applying are sm
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Vodafone x Rankin everyone.connected](https://www.pexels.com/@vodafone-x-rankin-everyone-connected-374579797) via Pexels*
 
 ---
 

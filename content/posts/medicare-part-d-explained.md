@@ -126,7 +126,7 @@ Part D isn't the simplest benefit Medicare offers, but it's one of the most fina
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

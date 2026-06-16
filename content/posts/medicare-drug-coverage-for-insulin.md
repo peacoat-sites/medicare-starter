@@ -3,7 +3,7 @@ title: "Medicare Drug Coverage For Insulin"
 date: 2026-05-23T14:24:33.390607+00:00
 draft: false
 description: "Learn how Medicare covers insulin through Part B and Part D, what costs to expect, and how the $35 monthly cap may help you save on this essential diabetes medi"
-image: "https://images.pexels.com/photos/8965149/pexels-photo-8965149.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8670196/pexels-photo-8670196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "drug", "coverage", "insulin"]
 slug: "medicare-drug-coverage-for-insulin"

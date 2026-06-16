@@ -3,7 +3,7 @@ title: "Medicare Open Enrollment Period"
 date: 2026-05-19T05:52:24.485436+00:00
 draft: false
 description: "Learn when Medicare Open Enrollment runs, what changes you can make to your plan, and how to compare options to ensure you have the best coverage for your needs"
-image: "https://images.pexels.com/photos/6129115/pexels-photo-6129115.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/636246/pexels-photo-636246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "Open", "Enrollment", "Period"]
 slug: "medicare-open-enrollment-period"

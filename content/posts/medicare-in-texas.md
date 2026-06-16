@@ -3,7 +3,7 @@ title: "Medicare In Texas"
 date: 2026-06-13T15:48:00.757469+00:00
 draft: false
 description: "Explore Medicare in Texas, including eligibility, plan options, enrollment periods, and how to find the best coverage for your healthcare needs in the Lone Star"
-image: "https://images.pexels.com/photos/36883131/pexels-photo-36883131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15033397/pexels-photo-15033397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "Texas"]
 slug: "medicare-in-texas"
@@ -106,7 +106,7 @@ Texas is a place where independence runs deep, and figuring out Medicare largely
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 
 
-*Photo: [Priscilla  Cezar](https://www.pexels.com/@priscilla-cezar-2157245929) via Pexels*
+*Photo: [Levy Marchetto](https://www.pexels.com/@leewee) via Pexels*
 
 ---
 

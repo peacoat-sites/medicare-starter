@@ -150,7 +150,7 @@ Choosing between Plan G and Plan N doesn't have to feel overwhelming. At its cor
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 
 ---
 

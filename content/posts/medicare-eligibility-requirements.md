@@ -145,7 +145,7 @@ Medicare eligibility has more layers than most people expect, and the stakes are
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
 ---
 

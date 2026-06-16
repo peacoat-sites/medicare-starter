@@ -118,7 +118,7 @@ Medicare isn't a perfect system, and it takes a little time to understand the pi
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
 
-*Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
+*Photo: [Lukas Blazek](https://www.pexels.com/@goumbik) via Pexels*
 
 ---
 
