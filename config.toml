@@ -20,6 +20,7 @@ enableEmoji = true
   pagerSize = 12
 
 [params]
+  youtube_channel = "UCGJpvEi7Z9J5nJhHYjiWEjQ"
   page_bg = "#ecfeff"
   nav_style = "dark"
   description = "Your plain-English guide to Medicare - plans, enrollment, costs, and coverage explained simply for new and existing enrollees."
