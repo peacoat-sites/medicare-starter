@@ -115,7 +115,7 @@ Original Medicare's most significant structural gap is the lack of an out-of-poc
 
 Most people address this with a Medicare Supplement plan, also called Medigap. These are private insurance plans that help pay Medicare's cost-sharing: deductibles, coinsurance, and copays. Plans are standardized by letter (Plan G and Plan N are popular options), so the benefits of a Plan G from one company are identical to Plan G from another. The only real variable is price.
 
-For a well-organized breakdown of Medigap plan options, the *[Medicare Supplement Insurance Guide](https://www.amazon.com/dp/B09B56LG76?tag=example-tag-20)* (affiliate link) is a helpful reference that many of my clients have found useful.
+For a well-organized breakdown of Medigap plan options, the *[Medicare Supplement Insurance Guide](https://www.amazon.com/dp/B09B56LG76?tag=contentportfo-20)* (affiliate link) is a helpful reference that many of my clients have found useful.
 
 Beyond Medigap, the coverage gaps that consistently catch people off guard include:
 
