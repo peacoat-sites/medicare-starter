@@ -30,6 +30,16 @@ Every year, someone calls me in a panic in late November, convinced they've alre
 
 Medicare deadlines are genuinely confusing, and I say that with zero condescension. The system has at least four distinct enrollment periods, each with different rules, different consequences for missing them, and different exceptions. Even people who work in healthcare get this wrong. So let's just go through it the right way.
 
+
+<div class="value-module">
+  <div class="vm-head">Medicare Enrollment Periods Quick Reference</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix shows each Medicare enrollment period, who it applies to, and the concrete consequences of missing it.</p>
+    <table><caption>Medicare Enrollment Periods: Timing, Eligibility, and Penalties</caption><thead><tr><th>Enrollment Period</th><th>Who It's For</th><th>Window</th><th>What You Can Do</th><th>Consequence of Missing It</th></tr></thead><tbody><tr><td>Initial Enrollment Period (IEP)</td><td>People turning 65 or qualifying via disability</td><td>7 months: 3 months before birthday month through 3 months after</td><td>Enroll in Parts A, B, D, or Medicare Advantage</td><td>Part B: 10% premium penalty per 12-month period without coverage (permanent). Coverage gap until next General Enrollment.</td></tr><tr><td>General Enrollment Period (GEP)</td><td>People who missed their IEP and don't qualify for a Special Enrollment Period</td><td>January 1 – March 31 each year</td><td>Enroll in Part A and/or Part B</td><td>Coverage doesn't start until July 1. Late penalties still apply.</td></tr><tr><td>Special Enrollment Period (SEP)</td><td>People with qualifying life events (e.g., losing employer coverage, moving)</td><td>Typically 8 months after employment or group coverage ends; varies by event</td><td>Enroll in Parts A, B, D, or Medicare Advantage without penalty</td><td>If you miss the SEP window, you wait for GEP and face potential penalties.</td></tr><tr><td>Annual Election Period (AEP)</td><td>Current Medicare beneficiaries</td><td>October 15 – December 7 each year</td><td>Switch Medicare Advantage plans, switch to/from Original Medicare, change Part D plans</td><td>Stuck with current plan until next AEP (with limited exceptions).</td></tr><tr><td>Medicare Advantage Open Enrollment</td><td>People currently in a Medicare Advantage plan</td><td>January 1 – March 31 each year</td><td>Switch to a different Advantage plan or return to Original Medicare + add Part D</td><td>No penalty, but no other opportunity to switch until next AEP.</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Your Initial Enrollment Period: The One That Really Matters
 
 Most people's first encounter with Medicare happens around their 65th birthday, and the window you get is called the Initial Enrollment Period, or IEP. It's seven months long: the three months before the month you turn 65, the month you turn 65, and the three months after.

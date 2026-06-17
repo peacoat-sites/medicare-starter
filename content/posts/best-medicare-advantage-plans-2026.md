@@ -32,6 +32,16 @@ Let me walk you through what actually matters.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Medicare Advantage Plan Comparison Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to systematically evaluate any Medicare Advantage plan against your actual healthcare needs before enrolling.</p>
+    <table><caption>Essential Evaluation Criteria with Decision Thresholds</caption><thead><tr><th>Evaluation Factor</th><th>What to Check</th><th>Green Flag</th><th>Red Flag</th></tr></thead><tbody><tr><td>Doctor Network Coverage</td><td>Verify your current doctors are in-network using the plan's online provider directory</td><td>All primary specialists in-network; multiple nearby alternatives</td><td>Must switch PCP or key specialist; narrow network in your county</td></tr><tr><td>Prescription Drug Formulary</td><td>Look up each current medication on the plan's drug list; note tier and restrictions</td><td>All medications on Tier 1-2; no prior authorization required</td><td>Key medications on Tier 4-5 or require step therapy; drugs excluded entirely</td></tr><tr><td>Maximum Out-of-Pocket (MOOP)</td><td>Compare the annual in-network MOOP limit across plans you're considering</td><td>MOOP under $4,000 for in-network services</td><td>MOOP above $7,500; separate/higher limit for out-of-network care</td></tr><tr><td>Specialist Access Rules</td><td>Determine if referrals are required and which specialists need prior authorization</td><td>No referral required for most specialists (PPO-style access)</td><td>Referral required for all specialists; extensive prior authorization list</td></tr><tr><td>Hospital Network Quality</td><td>Check if preferred local hospitals are in-network; verify CMS star ratings</td><td>Nearest hospital in-network with 4+ star CMS rating</td><td>Closest in-network hospital more than 30 minutes away; low ratings</td></tr><tr><td>Extra Benefits Value</td><td>Calculate realistic annual use of dental, vision, hearing, and fitness benefits</td><td>Benefits match services you actually use annually</td><td>Flashy benefits you won't use masking higher cost-sharing elsewhere</td></tr><tr><td>Plan Star Rating</td><td>Review the plan's overall CMS star rating (1-5 scale, updated annually)</td><td>4+ stars overall; 4+ stars for drug plan if applicable</td><td>Below 3 stars; declining rating trend over past 2 years</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Medicare Advantage Really Is (And What It Isn't)
 
 Before we get into specific plans, let's make sure we're on the same page about what you're actually buying. Medicare Advantage is not a supplement to Original Medicare. It *replaces* Original Medicare for most of your care. Private insurance companies contract with the federal government to deliver your Part A (hospital insurance) and Part B (medical insurance) benefits, and almost all plans include Part D (prescription drug coverage) as well.

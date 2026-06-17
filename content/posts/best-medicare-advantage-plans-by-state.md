@@ -28,6 +28,16 @@ author_bio: "Frank Thompson is a retirement planning researcher who focuses on t
 
 You spent decades paying into Medicare, and now that you're finally eligible, you're staring at a list of plan names that might as well be in another language. Sound familiar? Here's a surprising truth I share with almost every person I work with: there is no single "best" Medicare Advantage plan in America. The best plan for your neighbor in Phoenix might be exactly wrong for you, even if you live on the same street. What makes one plan exceptional is how well it fits *your* doctors, *your* prescriptions, and *your* ZIP code. That's the thing Medicare Advantage, also called Medicare Part C, gets right and wrong at the same time: it's deeply local, deeply personal, and deeply confusing until you know how to look at it.
 
+
+<div class="value-module">
+  <div class="vm-head">Medicare Advantage Plan-Type Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to match your healthcare patterns with the right plan structure before comparing specific insurers in your state.</p>
+    <table><caption>Which Medicare Advantage Plan Type Fits Your Situation</caption><thead><tr><th>Your Situation</th><th>HMO</th><th>PPO</th><th>HMO-POS</th><th>PFFS</th></tr></thead><tbody><tr><td>All doctors are in one health system</td><td>Strong fit</td><td>Overpaying for flexibility</td><td>Acceptable</td><td>Rarely needed</td></tr><tr><td>See specialists without referrals</td><td>Poor fit</td><td>Strong fit</td><td>Limited fit</td><td>Strong fit</td></tr><tr><td>Travel or live in multiple states seasonally</td><td>Poor fit (emergency only)</td><td>Good fit</td><td>Moderate fit</td><td>Strong fit</td></tr><tr><td>Want lowest possible premium</td><td>Best odds ($0 premiums common)</td><td>Moderate ($20-80 typical)</td><td>Moderate</td><td>Variable</td></tr><tr><td>Need specific specialist outside networks</td><td>Poor fit</td><td>Workable (higher cost-share)</td><td>Workable with referral</td><td>Check if provider accepts</td></tr><tr><td>Prefer care coordination by one doctor</td><td>Strong fit</td><td>Optional</td><td>Strong fit</td><td>Self-directed</td></tr><tr><td>Rural area with limited provider networks</td><td>Check network carefully</td><td>Better flexibility</td><td>Check network</td><td>Often best rural option</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Medicare Advantage Actually Is (And Why It's Different From Original Medicare)
 
 Before we talk about which plans shine in which states, let's get grounded in what you're actually choosing.

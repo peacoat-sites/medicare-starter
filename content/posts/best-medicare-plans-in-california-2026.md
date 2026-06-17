@@ -34,6 +34,16 @@ So let me give you the real picture, not the brochure version.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">California Medicare Decision Checklist by Profile</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these threshold-based criteria to narrow your choice between Medicare Advantage (MA), Original Medicare + Medigap, or a hybrid approach based on your actual situation.</p>
+    <table><thead><tr><th>Profile Factor</th><th>Leans Toward Medicare Advantage</th><th>Leans Toward Original Medicare + Medigap</th></tr></thead><tbody><tr><td>Annual specialist visits</td><td>Fewer than 4 visits/year; comfortable with referrals</td><td>5+ specialist visits/year or complex multi-provider care</td></tr><tr><td>Prescription count &amp; type</td><td>0–3 generics or drugs on MA plan's low-tier formulary</td><td>4+ medications, brand-name drugs, or specialty prescriptions (need standalone Part D flexibility)</td></tr><tr><td>Travel frequency</td><td>Primarily stay within California or plan's service area</td><td>Spend 3+ months/year outside California or travel unpredictably</td></tr><tr><td>Provider attachment</td><td>Willing to switch doctors for cost savings</td><td>Must keep specific specialists who may not join MA networks</td></tr><tr><td>Budget tolerance</td><td>Prefer $0–50/month premium; accept variable copays per visit</td><td>Prefer predictable costs; can pay $150–250+/month Medigap premium for near-zero cost-sharing</td></tr><tr><td>Out-of-pocket maximum comfort</td><td>Can absorb up to $3,500–8,000 MOOP in a bad health year</td><td>Want expenses capped near $0 after premiums regardless of utilization</td></tr><tr><td>Extra benefits value</td><td>Dental/vision/hearing/OTC allowances worth trade-offs</td><td>Prefer to buy standalone dental/vision; prioritize provider freedom</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## First, Understand What "Best" Actually Means Here
 
 I'll be honest: there is no single best Medicare plan in California. What surprised me, even after years of helping people through this, is how wildly different the right answer can be for two people who live on the same block. A 68-year-old in San Diego who takes two generic medications and sees one specialist is looking at a completely different calculation than a 74-year-old in Fresno managing diabetes, heart disease, and a handful of brand-name prescriptions.

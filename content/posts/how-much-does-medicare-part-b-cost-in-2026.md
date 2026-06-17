@@ -34,6 +34,16 @@ Here's what I want to do in this article: walk you through what Part B actually 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">IRMAA Brackets: Your 2026 Monthly Cost</div>
+  <div class="vm-body">
+    <p class="vm-intro">Your actual Part B premium depends on your modified adjusted gross income (MAGI) from two years prior—so 2024 income determines your 2026 premium.</p>
+    <table><caption>2026 Part B Monthly Premiums by Income (IRMAA Brackets)</caption><thead><tr><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Monthly Premium</th><th scope="col">Annual Cost</th></tr></thead><tbody><tr><td>$106,000 or less</td><td>$212,000 or less</td><td>$185.00</td><td>$2,220</td></tr><tr><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$259.00</td><td>$3,108</td></tr><tr><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$369.90</td><td>$4,439</td></tr><tr><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$480.80</td><td>$5,770</td></tr><tr><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$591.70</td><td>$7,100</td></tr><tr><td>Above $500,000</td><td>Above $750,000</td><td>$628.90</td><td>$7,547</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Standard Premium, the Deductible, and What Part B Actually Covers
 
 Start with the basics, because they matter.

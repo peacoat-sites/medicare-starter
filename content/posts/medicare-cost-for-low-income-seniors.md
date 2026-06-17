@@ -34,6 +34,16 @@ Let me give you the real picture.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Medicare Savings Programs Eligibility at a Glance</div>
+  <div class="vm-body">
+    <p class="vm-intro">These four Medicare Savings Programs (MSPs) cover different cost levels based on your income and assets—here's how they compare for 2024.</p>
+    <table><caption>Medicare Savings Programs: Income Limits and Benefits (2024)</caption><thead><tr><th>Program</th><th>Monthly Income Limit (Individual)</th><th>Asset Limit (Individual)</th><th>What It Pays</th></tr></thead><tbody><tr><td>Qualified Medicare Beneficiary (QMB)</td><td>≤ $1,275</td><td>≤ $9,430</td><td>Part A premium, Part B premium, deductibles, coinsurance, copays</td></tr><tr><td>Specified Low-Income Medicare Beneficiary (SLMB)</td><td>$1,275 – $1,528</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualifying Individual (QI)</td><td>$1,528 – $1,715</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualified Disabled and Working Individuals (QDWI)</td><td>≤ $4,945</td><td>≤ $4,000</td><td>Part A premium only (for those who lost premium-free Part A)</td></tr></tbody><tfoot><tr><td colspan="4">Note: Limits shown are federal minimums; most states set higher thresholds. Couples' limits are roughly 35% higher. Assets exclude home, one car, burial funds, and personal belongings. Apply through your state Medicaid office or at ssa.gov.</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Medicare Actually Costs (Before Any Help)
 
 Standard Medicare has a few moving parts. Part A, which covers hospital stays, is free for most people if they or their spouse worked and paid Medicare taxes for at least 10 years (40 quarters). If you didn't hit that threshold, you could pay up to $505 a month for Part A in 2024. That surprises people.

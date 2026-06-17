@@ -34,6 +34,16 @@ So let's be specific about what Medicare actually covers, where the gaps are, an
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Original Medicare Out-of-Pocket Cost Breakdown</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table shows the standard cost-sharing structure for Original Medicare (Parts A and B), illustrating why the 20% Part B coinsurance with no annual cap creates the largest financial exposure.</p>
+    <table><caption>Original Medicare Standard Cost-Sharing (2024 Figures Are Illustrative)</caption><thead><tr><th>Coverage Area</th><th>What You Pay</th><th>Key Risk Factor</th></tr></thead><tbody><tr><td>Part A: Hospital Days 1–60</td><td>One deductible per benefit period (approx. $1,600)</td><td>Multiple hospital admissions can trigger multiple deductibles in same year</td></tr><tr><td>Part A: Hospital Days 61–90</td><td>Daily coinsurance (approx. $400/day)</td><td>Extended stays accumulate quickly; 30-day stay in this window ≈ $12,000</td></tr><tr><td>Part A: Lifetime Reserve Days (91–150)</td><td>Higher daily coinsurance (approx. $800/day); 60 days total lifetime</td><td>Once exhausted, never renewed; you pay 100% beyond day 150</td></tr><tr><td>Part A: Skilled Nursing Days 21–100</td><td>Daily coinsurance (approx. $200/day)</td><td>80-day SNF stay after day 20 ≈ $16,000 out-of-pocket</td></tr><tr><td>Part B: Most Outpatient Services</td><td>20% of Medicare-approved amount after annual deductible (approx. $240)</td><td>No annual out-of-pocket maximum; $200,000 treatment = $40,000 owed</td></tr><tr><td>Part B: Preventive Services</td><td>$0 for most screenings (colonoscopy, mammogram, flu shot)</td><td>Diagnostic follow-ups after screening revert to 20% coinsurance</td></tr><tr><td>Prescription Drugs (Part D)</td><td>Varies by plan; deductibles, copays, and coverage gap apply</td><td>Specialty drugs can cost thousands before catastrophic coverage begins</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Basic Structure: Why 100% Was Never the Design
 
 Original Medicare, the federal program administered by the [Centers for Medicare & Medicaid Services](https://www.cms.gov/), is made up of two main parts. Part A covers hospital stays, skilled nursing facility (SNF) care, hospice, and some home health services. Part B covers doctor visits, outpatient procedures, lab work, durable medical equipment, and preventive services.

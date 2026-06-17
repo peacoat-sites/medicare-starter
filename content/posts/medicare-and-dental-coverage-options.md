@@ -30,6 +30,16 @@ Most people find out the hard way: Original Medicare, the federal program coveri
 
 The good news is that options exist. The bad news is that most of the advice out there glosses over the real differences between them, which means a lot of seniors end up paying for coverage that doesn't actually cover what they need. Let's fix that.
 
+
+<div class="value-module">
+  <div class="vm-head">Dental Coverage Comparison by Option Type</div>
+  <div class="vm-body">
+    <p class="vm-intro">Each coverage path involves different cost structures, provider restrictions, and benefit limits—here's how they actually compare for common dental needs.</p>
+    <table><thead><tr><th>Coverage Option</th><th>Typical Monthly Cost</th><th>Annual Maximum Benefit</th><th>Waiting Period for Major Work</th><th>Provider Network</th><th>Best For</th></tr></thead><tbody><tr><td>Medicare Advantage with dental</td><td>$0–$50 (bundled with medical)</td><td>$1,000–$2,500</td><td>Usually none</td><td>Plan network only (HMO/PPO)</td><td>Seniors wanting one-card simplicity who can use network dentists</td></tr><tr><td>Standalone dental insurance (DPPO)</td><td>$25–$60</td><td>$1,000–$1,500</td><td>6–12 months for crowns, bridges, dentures</td><td>In-network savings; out-of-network allowed</td><td>Those on Original Medicare who want predictable coverage</td></tr><tr><td>Dental discount plan</td><td>$8–$20</td><td>No maximum (discount only)</td><td>None</td><td>Participating dentists only</td><td>Seniors needing immediate major work who'd exceed insurance caps</td></tr><tr><td>Dental school clinics</td><td>$0 (pay per service at 50–70% discount)</td><td>No maximum</td><td>None (availability varies)</td><td>School clinic only</td><td>Budget-conscious seniors with flexibility and time</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Original Medicare Actually Covers (It's Almost Nothing)
 
 Medicare Part A and Part B, the traditional federal program, covers dental work only in genuinely narrow circumstances: if you need jaw reconstruction after an accident, if a dental exam is required before a kidney transplant or heart valve surgery, or if you're being treated for oral cancer. That's the list. A toothache, an abscess, a broken molar? Entirely on you.

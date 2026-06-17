@@ -28,6 +28,16 @@ author_bio: "Susan Park has spent years helping Medicare-eligible adults compare
 
 Most people spend more time choosing a Netflix subscription than they do comparing Medicare Part D plans. I'll be honest: I used to find that statistic hard to believe. Then I watched a close friend pay nearly $400 more per month than necessary for her prescriptions because she simply re-enrolled in the same plan she'd had for three years without checking whether it still made sense for her. That $400 difference wasn't because one plan was a scam and the other was a steal. It was because drug formularies change, premiums shift, and what worked perfectly last October may be quietly working against you by January. If you have Medicare and you take even one prescription medication, what I found when I dug into how Part D comparisons actually work might genuinely change what you do this fall.
 
+
+<div class="value-module">
+  <div class="vm-head">Annual Cost Comparison Worksheet</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this template to compare your true yearly costs across plans—premium alone typically accounts for less than 30% of total drug spending.</p>
+    <table><caption>Part D Plan Cost Comparison (Fill in for each plan you're considering)</caption><thead><tr><th>Cost Component</th><th>Plan A</th><th>Plan B</th><th>Plan C</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Monthly Premium × 12</td><td>$____</td><td>$____</td><td>$____</td><td>Higher premium often means lower copays—don't optimize for this alone</td></tr><tr><td>Annual Deductible</td><td>$____</td><td>$____</td><td>$____</td><td>2025 standard max is $590; some plans offer $0</td></tr><tr><td>Drug 1: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Check if your drug is even on the formulary</td></tr><tr><td>Drug 2: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Tier placement varies widely between plans</td></tr><tr><td>Drug 3: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Brand vs. generic tier can mean $50+ difference per fill</td></tr><tr><td>Preferred Pharmacy Savings</td><td>−$____</td><td>−$____</td><td>−$____</td><td>Using preferred pharmacy can cut copays 20–50%</td></tr><tr><td>Mail-Order 90-Day Option</td><td>Yes / No</td><td>Yes / No</td><td>Yes / No</td><td>Often saves 10–25% vs. 3 monthly fills</td></tr><tr><td><strong>Estimated Annual Total</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td>Compare this number, not just premium</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Part D Actually Is (And What It Isn't)
 
 Medicare Part D is the prescription drug coverage piece of Medicare. It's offered through private insurance companies that are approved and regulated by the Centers for Medicare & Medicaid Services, which means the federal government sets minimum standards but the private insurers design the actual plans. That distinction matters more than most people realize.

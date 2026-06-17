@@ -32,6 +32,16 @@ Here's the honest truth: Original Medicare (that's Part A and Part B, the tradit
 
 I'll be honest — even after years in this field, I find the dental gap in Medicare genuinely frustrating on behalf of the people I work with. A 67-year-old on a fixed income shouldn't have to choose between a root canal and groceries. But understanding exactly where the gap is, and what your real options are, makes a bigger difference than most people realize.
 
+
+<div class="value-module">
+  <div class="vm-head">Dental Cost Ranges Without Medicare Coverage</div>
+  <div class="vm-body">
+    <p class="vm-intro">Here are typical out-of-pocket costs for common dental procedures that Original Medicare does not cover, helping you estimate potential expenses.</p>
+    <table><caption>Illustrative Dental Procedure Costs (2024 U.S. Averages)</caption><thead><tr><th>Procedure</th><th>Typical Cost Range</th><th>Frequency Needed</th><th>Budget Planning Note</th></tr></thead><tbody><tr><td>Routine cleaning (prophylaxis)</td><td>$75–$200</td><td>Every 6 months</td><td>$150–$400/year ongoing</td></tr><tr><td>Full exam with X-rays</td><td>$150–$350</td><td>Annually</td><td>Often bundled with cleaning</td></tr><tr><td>Single filling (composite)</td><td>$150–$400</td><td>As needed</td><td>Cost varies by tooth size/location</td></tr><tr><td>Root canal (molar)</td><td>$1,000–$1,500</td><td>One-time per tooth</td><td>Add $800–$1,500 for required crown</td></tr><tr><td>Crown (porcelain)</td><td>$800–$1,500</td><td>One-time per tooth</td><td>May need replacement after 10–15 years</td></tr><tr><td>Simple extraction</td><td>$150–$300</td><td>One-time per tooth</td><td>Surgical extractions cost more</td></tr><tr><td>Full upper or lower dentures</td><td>$1,000–$3,000</td><td>Replace every 5–10 years</td><td>Add $300–$500 for adjustments/relines</td></tr><tr><td>Single dental implant</td><td>$3,000–$6,000</td><td>One-time (typically permanent)</td><td>Includes post, abutment, and crown</td></tr><tr><td>Periodontal deep cleaning</td><td>$500–$1,200</td><td>As prescribed</td><td>Often billed per quadrant of mouth</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Original Medicare Actually Covers (and What It Doesn't)
 
 Let's be precise, because vague explanations here cause real financial harm.

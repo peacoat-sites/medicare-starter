@@ -30,6 +30,16 @@ Forty-three million Americans are enrolled in Medicare. Over ninety million are 
 
 If you're here because you or someone you love is approaching 65, facing a serious illness, helping an aging parent, or trying to figure out what you actually qualify for, you're in the right place. Let me walk you through this the way I would if we were sitting across from each other at a kitchen table.
 
+
+<div class="value-module">
+  <div class="vm-head">Medicare vs Medicaid: Side-by-Side Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This table compares the two programs across the criteria that matter most when determining which applies to you or a family member.</p>
+    <table><thead><tr><th>Criteria</th><th>Medicare</th><th>Medicaid</th></tr></thead><tbody><tr><td>Primary eligibility</td><td>Age 65+ OR under 65 with qualifying disability/ESRD</td><td>Income below state threshold (often 138% of federal poverty level in expansion states)</td></tr><tr><td>Income limits</td><td>None—billionaires and minimum-wage retirees both qualify</td><td>Yes—varies by state; typically $1,500–$2,000/month for single adult</td></tr><tr><td>Asset limits</td><td>None</td><td>Some states: $2,000–$130,000+ depending on state and program type</td></tr><tr><td>Who runs it</td><td>Federal government (CMS) with uniform national rules</td><td>State governments following federal guidelines—50 different versions</td></tr><tr><td>Monthly premiums</td><td>Part A: $0 if work history qualifies; Part B: ~$175/month (income-adjusted)</td><td>$0 or nominal copays in most states</td></tr><tr><td>Long-term nursing home care</td><td>Limited: only 100 days post-hospitalization in skilled nursing facility</td><td>Yes—covers extended nursing home stays (largest payer of nursing home care in U.S.)</td></tr><tr><td>Prescription drugs</td><td>Part D plan required (separate premium)</td><td>Included in coverage</td></tr><tr><td>Dental/vision/hearing</td><td>Generally NOT covered under Original Medicare</td><td>Often covered (varies by state)</td></tr><tr><td>Can you have both?</td><td colspan="2">Yes—"dual eligible" individuals qualify for both; Medicaid typically pays Medicare premiums and fills coverage gaps</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The single biggest difference: how you qualify
 
 Medicare is age-based (and sometimes disability-based). Medicaid is income-based.
