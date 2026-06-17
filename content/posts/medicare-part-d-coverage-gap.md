@@ -124,6 +124,10 @@ The coverage gap has frustrated Medicare beneficiaries for nearly two decades, a
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Costs in the coverage gap](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage/costs-in-the-coverage-gap) — Official Medicare explanation of coverage gap costs and phases
+- [CMS.gov — Medicare Part D benefits overview](https://www.cms.gov/medicare/coverage/prescription-drug-coverage) — CMS overview of Part D structure and benefit phases
 
 *Photo: [Etatics Inc.](https://www.pexels.com/@etatics-inc-252430999) via Pexels*
 

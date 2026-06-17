@@ -131,6 +131,11 @@ You've probably spent years hearing about Medicare changes that turned out to be
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — Part D costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage) — Official explanation of Part D cost structure and $2,000 cap
+- [CMS.gov — Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare) — Federal source on IRA drug pricing provisions including cap
+
 ---
 
 ## Recommended Resources

@@ -121,6 +121,10 @@ Medicare Part A is the foundation of your hospital coverage, and for most people
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Part A Covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers) — Official details on Part A hospital, SNF, hospice, home health coverage
+- [CMS.gov — Medicare Benefit Policy Manual](https://www.cms.gov/medicare/medicare-general-information/bni) — Authoritative source for coverage rules and eligibility requirements
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

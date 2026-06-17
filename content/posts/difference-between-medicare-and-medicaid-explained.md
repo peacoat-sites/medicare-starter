@@ -117,6 +117,10 @@ These two programs have helped hundreds of millions of people since Medicare and
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 - **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What is Medicare?](https://www.medicare.gov/what-medicare-covers) — Explains Medicare eligibility, coverage, and who qualifies
+- [CMS.gov — Medicare-Medicaid Coordination](https://www.cms.gov/Medicare-Medicaid-Coordination/Medicare-and-Medicaid-Coordination/Medicare-Medicaid-Coordination-Office) — Explains dual eligibility and how programs interact
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

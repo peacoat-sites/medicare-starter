@@ -115,6 +115,10 @@ There's a reason I keep coming back to this topic with people. Hundreds of dolla
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 - **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Medicare Savings Programs](https://www.medicare.gov/basics/costs/help/medicare-savings-programs) — Official overview of all four MSP types and eligibility
+- [Benefits.gov — Medicare Savings Programs](https://www.benefits.gov/benefit/4329) — Eligibility requirements and how to apply
 
 *Photo: [Jermaine Lewis](https://www.pexels.com/@jaytrick) via Pexels*
 

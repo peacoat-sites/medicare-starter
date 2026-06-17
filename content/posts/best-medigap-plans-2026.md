@@ -146,6 +146,11 @@ The right Medigap plan isn't a one-size-fits-all answer. It depends on your heal
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap) — Official overview of Medigap plans, standardization, and coverage
+- [Medicare.gov — Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — Confirms Part A deductibles and coinsurance amounts
+- [CMS.gov — Choosing a Medigap Policy guide](https://www.medicare.gov/publications/02110-choosing-a-medigap-policy.pdf) — Official CMS guide detailing all 10 standardized plan letters
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

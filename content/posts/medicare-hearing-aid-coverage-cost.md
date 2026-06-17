@@ -109,6 +109,10 @@ The math here is unpleasant. Two hearing aids, realistically priced, can cost mo
 - **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Hearing aids coverage](https://www.medicare.gov/coverage/hearing-aids) — Confirms Medicare exclusion of hearing aids and routine exams
+- [Medicare.gov — Hearing and balance exams](https://www.medicare.gov/coverage/hearing-balance-exams) — Explains diagnostic vs routine hearing exam coverage distinction
 
 *Photo: [Ali  Alcántara](https://www.pexels.com/@alialcantara) via Pexels*
 

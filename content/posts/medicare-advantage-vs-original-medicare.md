@@ -140,6 +140,10 @@ The choice between Original Medicare and Medicare Advantage is genuinely persona
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CMS — Medicare Program Overview](https://www.cms.gov/Medicare/Medicare-General-Information/MedicareGenInfo) — supports explanation of Original Medicare Parts A and B
+- [Medicare.gov — What's Medicare](https://www.medicare.gov/what-medicare-covers) — official resource on Medicare coverage basics
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

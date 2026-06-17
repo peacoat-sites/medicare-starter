@@ -182,6 +182,11 @@ When your employer coverage ends, you trigger a Special Enrollment Period that g
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — Who pays first](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65) — Explains coordination rules based on employer size
+- [Medicare.gov — Late enrollment penalties](https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties) — Explains penalties for delayed Medicare enrollment
+
 ---
 
 ## Recommended Resources

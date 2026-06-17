@@ -202,6 +202,11 @@ While not impossible
 
 ---
 
+## Sources & References
+
+- [TRICARE — Medicare & TRICARE](https://www.tricare.mil/medicare) — Official rules for TRICARE For Life and Medicare enrollment requirements
+- [Defense Health Agency — TRICARE Plans](https://www.tricare.mil/Plans) — Details on TRICARE Prime, Select, and retiree plan options
+
 ---
 
 ## Recommended Resources

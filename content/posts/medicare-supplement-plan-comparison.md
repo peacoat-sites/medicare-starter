@@ -117,6 +117,11 @@ If you'd like to dig deeper into plan details before talking to an agent, a good
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap) — Explains Medigap basics, standardized plans, and how it differs from Medicare Advantage
+- [Medicare.gov — Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — Official 2024 Part A/B deductibles and coinsurance amounts
+- [CMS.gov — Choosing a Medigap Policy guide](https://www.cms.gov/medicare/health-drug-plans/medigap) — Federal guide to comparing standardized Medigap plan letters
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

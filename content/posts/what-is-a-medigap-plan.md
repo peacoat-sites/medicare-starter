@@ -137,6 +137,11 @@ The honest truth about Medigap is that it isn't right for everyone, and the righ
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap) — Official overview of Medigap plans, coverage, and enrollment rules
+- [CMS.gov — Choosing a Medigap Policy Guide](https://www.cms.gov/medicare/health-drug-plans/medigap) — Federal guidance on standardized plan benefits and rights
+
 ---
 
 ## Recommended Resources

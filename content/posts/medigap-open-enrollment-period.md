@@ -131,6 +131,10 @@ Your Medigap Open Enrollment Period is a one-time gift that most people only get
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What's Medigap?](https://www.medicare.gov/health-drug-plans/medigap) — Covers Medigap basics and how it works with Original Medicare
+- [CMS — Choosing a Medigap Policy guide](https://www.medicare.gov/publications/02110-choosing-a-medigap-policy.pdf) — Official guide detailing enrollment periods and protections
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

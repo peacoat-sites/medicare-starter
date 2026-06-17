@@ -140,6 +140,11 @@ Medicare is a genuinely powerful safety net, and once you understand its structu
 - **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
 - **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Medicare Covers](https://www.medicare.gov/what-medicare-covers) — Official overview of Part A, Part B, and covered services
+- [CMS.gov — Medicare Benefits](https://www.cms.gov/Medicare/Medicare) — Federal agency source on Medicare program structure and coverage
+- [SHIP National Technical Assistance Center](https://www.shiphelp.org/) — Confirms SHIP program for Medicare counseling assistance
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

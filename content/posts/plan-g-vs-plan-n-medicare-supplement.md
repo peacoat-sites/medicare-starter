@@ -149,6 +149,11 @@ Choosing between Plan G and Plan N doesn't have to feel overwhelming. At its cor
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Medigap policies cover](https://www.medicare.gov/health-drug-plans/medigap) — Official explanation of standardized Medigap plan benefits
+- [Medicare.gov — Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — Confirms Part A and Part B deductibles and cost-sharing
+- [CMS.gov — Choosing a Medigap Policy guide](https://www.cms.gov/medicare/health-drug-plans/medigap) — Federal guide explaining how Medigap works with Original Medicare
 
 *Photo: [Anna Shvets](https://www.pexels.com/@shvetsa) via Pexels*
 

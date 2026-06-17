@@ -127,6 +127,11 @@ The honest truth is that reviewing your Part D coverage every year is one of the
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — Part D Costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage) — Explains Part D premiums, tiers, formularies, and cost structure
+- [CMS.gov — Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare) — Details IRA provisions including Part D out-of-pocket caps
+
 ---
 
 ## Recommended Resources

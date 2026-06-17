@@ -131,6 +131,10 @@ Part B is the backbone of your day-to-day medical coverage under Medicare. Get t
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers) — Official list of Part B covered services
+- [Medicare.gov — Preventive services](https://www.medicare.gov/coverage/preventive-screening-services) — Free preventive services under Part B
 
 *Photo: [Ilias Saltidis](https://www.pexels.com/@ilias-saltidis-488992979) via Pexels*
 

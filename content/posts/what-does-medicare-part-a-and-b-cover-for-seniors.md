@@ -118,6 +118,11 @@ None of this is simple, and I won't pretend the system is designed with your con
 - **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers) — Official source for Part A coverage details
+- [Medicare.gov — Part A costs](https://www.medicare.gov/basics/costs/medicare-costs) — Supports 2024 deductible and coinsurance figures
+- [Medicare.gov — What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers) — Official source for Part B coverage details
 
 *Photo: [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 

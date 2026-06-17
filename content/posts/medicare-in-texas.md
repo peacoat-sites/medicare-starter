@@ -105,6 +105,11 @@ Texas is a place where independence runs deep, and figuring out Medicare largely
 - **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Medicare covers](https://www.medicare.gov/what-medicare-covers) — Explains Parts A and B coverage details
+- [CMS — Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — 2024 Part B premium and cost information
+- [KFF — Status of Medicaid expansion decisions](https://www.kff.org/medicaid/issue-brief/status-of-state-medicaid-expansion-decisions/) — Documents Texas non-expansion status and coverage gap
 
 *Photo: [Levy Marchetto](https://www.pexels.com/@leewee) via Pexels*
 

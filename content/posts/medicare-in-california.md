@@ -120,6 +120,11 @@ California Medicare is genuinely complex, but it's not impossible to figure out 
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Medicare Covers](https://www.medicare.gov/what-medicare-covers) — Explains Part A and Part B coverage details
+- [Medicare.gov — Costs](https://www.medicare.gov/basics/costs/medicare-costs) — Current premiums, deductibles, and cost-sharing information
+- [California SHIP — Health Insurance Counseling](https://www.aging.ca.gov/Programs_and_Services/Medicare_Counseling/) — Free California-specific Medicare counseling and resources
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -132,6 +132,11 @@ The annual Open Enrollment window closes December 7, which means most people are
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — Plan Finder Tool](https://www.medicare.gov/plan-compare/) — Official tool for comparing Part D plans by drug costs
+- [Medicare.gov — Part D Costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage) — Details premiums, deductibles, and cost-sharing structure
+
 ---
 
 ## Recommended Resources

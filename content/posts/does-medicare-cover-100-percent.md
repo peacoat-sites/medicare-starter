@@ -123,6 +123,11 @@ If you're comparing Medigap plans in your area, tools like the [Medicare.gov Pla
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
 - **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — official Medicare cost-sharing and deductible information
+- [Medicare.gov — What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers) — hospital coverage details and benefit periods
+- [Medicare.gov — What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers) — Part B coinsurance and coverage limits
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

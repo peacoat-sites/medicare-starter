@@ -131,6 +131,10 @@ AARP's Medicare resource center at [AARP](https://www.aarp.org/health/medicare-i
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 - **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What's Medicare Supplement Insurance (Medigap)](https://www.medicare.gov/health-drug-plans/medigap) — Confirms Medigap standardization and what plans cover
+- [AM Best — Insurance Company Ratings](https://www.ambest.com/home/default.aspx) — Authoritative source for insurer financial strength ratings
 
 *Photo: [Max Vakhtbovych](https://www.pexels.com/@artbovich) via Pexels*
 

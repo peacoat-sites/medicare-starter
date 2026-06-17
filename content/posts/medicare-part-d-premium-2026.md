@@ -127,6 +127,11 @@ The 2026 Part D landscape has more moving parts than any year since the program 
 - **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CMS — Medicare Part D Coverage and Costs](https://www.medicare.gov/drug-coverage-part-d) — Explains Part D premiums, coverage structure, and enrollment rules
+- [CMS — Medicare Costs at a Glance](https://www.medicare.gov/basics/costs/medicare-costs) — Official breakdown of current Medicare premium amounts
+- [CMS — Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare) — Details IRA changes including $2,000 out-of-pocket cap
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

@@ -133,6 +133,11 @@ Choosing a Medicare plan in California is genuinely one of the more consequentia
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Find Medicare plans in your area](https://www.medicare.gov/plan-compare/) — Official tool for comparing MA, Medigap, Part D plans
+- [CMS — Medicare & You 2025 Handbook](https://www.medicare.gov/publications/10050-medicare-and-you.pdf) — Covers plan types, enrollment periods, coverage rules
+- [California Department of Insurance — Medicare Supplement Guide](https://www.insurance.ca.gov/01-consumers/110-health/60-Resources/) — State-specific Medigap regulations and consumer resources
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

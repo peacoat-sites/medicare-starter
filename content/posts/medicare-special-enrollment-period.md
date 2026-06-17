@@ -138,6 +138,11 @@ The stakes here are real: a missed SEP can lock you into a penalty that follows 
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — Special Enrollment Period](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) — Official SEP rules and triggering events
+- [CMS.gov — Medicare General Information](https://www.cms.gov/Medicare/Medicare-General-Information/MedicareGenInfo) — Federal agency Medicare enrollment overview
+
 ---
 
 ## Recommended Resources

@@ -114,6 +114,11 @@ If there's one thing I hope you take away, it's this: the rules around Medicare 
 
 ---
 
+## Sources & References
+
+- [CMS — Medicare Part D Coverage](https://www.medicare.gov/drug-coverage-part-d) — Official Part D info including 2026 cost changes
+- [CMS — Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare) — Details on $2,000 cap, insulin limits, vaccine coverage
+
 ---
 
 ## Recommended Resources

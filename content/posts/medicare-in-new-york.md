@@ -109,6 +109,10 @@ If you're just starting Medicare in New York, the single most useful thing you c
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Medicare covers](https://www.medicare.gov/what-medicare-covers) — supports Part A/B coverage details and 2024 costs
+- [Medicare.gov — Costs for Medicare drug coverage](https://www.medicare.gov/basics/costs/medicare-costs) — supports deductibles, premiums, IRMAA information
 
 *Photo: [Abhishek  Navlakha](https://www.pexels.com/@navlakha) via Pexels*
 

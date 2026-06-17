@@ -121,6 +121,10 @@ Choosing a Part D plan isn't something you do once and forget. It's a decision w
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 - **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Part D costs & coverage](https://www.medicare.gov/drug-coverage-part-d) — Official overview of Part D coverage, costs, and enrollment rules
+- [Medicare.gov — Plan finder tool](https://www.medicare.gov/plan-compare/) — Official tool to compare Part D plans by medications and ZIP code
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

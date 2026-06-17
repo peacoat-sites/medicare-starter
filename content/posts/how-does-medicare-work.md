@@ -117,6 +117,12 @@ Medicare isn't a perfect system, and it takes a little time to understand the pi
 - **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — What Medicare covers](https://www.medicare.gov/what-medicare-covers) — Explains Parts A, B, C, D coverage details
+- [Medicare.gov — Medicare costs](https://www.medicare.gov/basics/costs/medicare-costs) — Current premiums, IRMAA, and cost information
+- [Medicare.gov — When to sign up](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) — Enrollment periods and late penalty rules
+- [CMS.gov — Medicare program overview](https://www.cms.gov/Medicare/Medicare-General-Information/MedicareGenInfo) — Official CMS explanation of Medicare structure
 
 *Photo: [Lukas Blazek](https://www.pexels.com/@goumbik) via Pexels*
 

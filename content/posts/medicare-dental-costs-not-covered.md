@@ -111,6 +111,10 @@ The coverage gap is real, it's been there since the beginning of Medicare, and i
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Dental services coverage](https://www.medicare.gov/coverage/dental-services) — confirms Original Medicare excludes most dental care
+- [CMS.gov — Medicare Benefit Policy Manual](https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/bp102c15.pdf) — official policy on limited dental exceptions
 
 *Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
 

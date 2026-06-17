@@ -144,6 +144,10 @@ Medicare eligibility has more layers than most people expect, and the stakes are
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 - **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
 
+## Sources & References
+
+- [Medicare.gov — Eligibility & Premium Info](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare) — Official eligibility rules, enrollment periods, premium details
+- [Medicare.gov — Sign Up for Medicare](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) — Initial Enrollment Period timing and coverage start dates
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 

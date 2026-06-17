@@ -150,6 +150,11 @@ Plan G remains one of the strongest combinations of comprehensive coverage and w
 
 ---
 
+## Sources & References
+
+- [Medicare.gov — What Medigap policies cover](https://www.medicare.gov/health-drug-plans/medigap) — Official Medigap coverage details and plan comparison
+- [Medicare.gov — Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — 2026 Part B deductible and other cost-sharing amounts
+
 ---
 
 ## Recommended Resources
