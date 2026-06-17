@@ -1,0 +1,121 @@
+<div class="ms-plan-wizard" id="ms-plan-wizard">
+<style>
+.ms-plan-wizard{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.mpw-header{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem;color:var(--text,#1a1a18)}
+.mpw-body{padding:20px}
+.mpw-ymyl{margin-bottom:16px;padding:12px 16px;border-radius:10px;background:color-mix(in srgb,#3b82f6 8%,#fff);border:1px solid color-mix(in srgb,#3b82f6 25%,transparent);font-size:.85rem;color:#1e3a5f;line-height:1.6}
+.mpw-ymyl strong{display:block;margin-bottom:4px;font-size:.9rem}
+.mpw-progress{font-size:12px;color:var(--stone,#a09c94);margin-bottom:14px}
+.mpw-question{font-size:1rem;font-weight:700;color:var(--text,#1a1a18);margin-bottom:14px;line-height:1.4}
+.mpw-options{display:flex;flex-direction:column;gap:10px}
+.mpw-opt{display:block;padding:13px 16px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;background:var(--surface,#fff);cursor:pointer;font-size:.95rem;color:var(--text,#1a1a18);text-align:left;transition:border-color .15s,box-shadow .15s,background .15s;font-family:inherit}
+.mpw-opt:hover{border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 15%,transparent);background:color-mix(in srgb,var(--accent,#c2410c) 4%,#fff)}
+.mpw-back{margin-top:14px;background:none;border:none;color:var(--muted,#6b6860);cursor:pointer;font-size:.85rem;padding:4px 0;font-family:inherit;text-decoration:underline}
+.mpw-result{display:none}
+.mpw-result-badge{display:inline-block;padding:4px 12px;border-radius:20px;background:var(--accent,#c2410c);color:#fff;font-size:.8rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:10px}
+.mpw-result-title{font-size:1.15rem;font-weight:800;color:var(--text,#1a1a18);margin-bottom:12px}
+.mpw-reasons{margin:0 0 16px;padding-left:20px;font-size:.9rem;color:var(--text,#1a1a18);line-height:1.7}
+.mpw-nextsteps{padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.9rem;line-height:1.6;margin-bottom:16px}
+.mpw-nextsteps strong{display:block;margin-bottom:6px;font-size:.95rem}
+.mpw-nextsteps a{color:var(--accent,#c2410c)}
+.mpw-ship{margin-top:14px;padding:12px 16px;border-radius:10px;background:color-mix(in srgb,#3b82f6 8%,#fff);border:1px solid color-mix(in srgb,#3b82f6 25%,transparent);font-size:.85rem;color:#1e3a5f;line-height:1.5}
+.mpw-restart{margin-top:16px;padding:10px 20px;background:var(--accent,#c2410c);color:#fff;border:none;border-radius:10px;cursor:pointer;font-size:.9rem;font-family:inherit;font-weight:700}
+.mpw-restart:hover{opacity:.88}
+</style>
+<div class="mpw-header">Original Medicare vs. Medicare Advantage: Which Fits You?</div>
+<div class="mpw-body">
+  <div class="mpw-ymyl"><strong>&#9888; Important Guidance</strong>This tool provides general education only. Medicare choices are highly personal and affect your healthcare access and costs. For free, unbiased, personalized help contact your <strong>State Health Insurance Assistance Program (SHIP)</strong> at <a href="https://www.shiphelp.org" target="_blank" rel="noopener">shiphelp.org</a> or call <strong>1-800-MEDICARE (1-800-633-4227)</strong>.</div>
+  <div id="mpw-quiz">
+    <div class="mpw-progress" id="mpw-prog">Question 1 of 5</div>
+    <div class="mpw-question" id="mpw-q"></div>
+    <div class="mpw-options" id="mpw-opts"></div>
+    <button class="mpw-back" id="mpw-back" style="display:none" onclick="mpwBack()">&#8592; Back</button>
+  </div>
+  <div class="mpw-result" id="mpw-result">
+    <div class="mpw-result-badge">Your Result</div>
+    <div class="mpw-result-title" id="mpw-rt"></div>
+    <ul class="mpw-reasons" id="mpw-rl"></ul>
+    <div class="mpw-nextsteps" id="mpw-ns"></div>
+    <div class="mpw-ship">&#128222; <strong>Get free help:</strong> SHIP counselors are trained Medicare experts who work for your state — not an insurance company. Find your local counselor at <a href="https://www.shiphelp.org" target="_blank" rel="noopener">shiphelp.org</a> or call 1-800-MEDICARE.</div>
+    <button class="mpw-restart" onclick="mpwRestart()">Start Over</button>
+  </div>
+</div>
+</div>
+<script>
+(function(){
+var Qs=[
+  {q:"Do you travel frequently or split time between states?",opts:["Yes, I travel often or live in multiple states","Occasionally — a few trips per year","No, I stay in one local area"]},
+  {q:"Do you have specific doctors or specialists you must continue seeing?",opts:["Yes — I have several doctors I need to keep","1–2 key doctors I'd like to keep if possible","I'm flexible and can switch providers"]},
+  {q:"How often do you typically use medical care?",opts:["Rarely — 1 to 2 visits per year","Occasionally — 3 to 6 visits per year","Frequently — monthly visits or ongoing treatment"]},
+  {q:"Which matters more to you: predictable costs or lower monthly premiums?",opts:["Predictable out-of-pocket costs, even if the premium is higher","Lower monthly premiums, even if I pay more when I use care","A balance of both"]},
+  {q:"Do you want vision, dental, or hearing coverage included in your plan?",opts:["Yes — these benefits matter to me","Maybe — it would be a nice bonus","Not really — I can handle these separately"]}
+];
+var answers=[];
+var cur=0;
+function render(){
+  document.getElementById('mpw-prog').textContent='Question '+(cur+1)+' of '+Qs.length;
+  document.getElementById('mpw-q').textContent=Qs[cur].q;
+  var opts=document.getElementById('mpw-opts');
+  opts.innerHTML='';
+  Qs[cur].opts.forEach(function(o,i){
+    var b=document.createElement('button');
+    b.className='mpw-opt';
+    b.textContent=o;
+    b.onclick=function(){pick(i);};
+    opts.appendChild(b);
+  });
+  document.getElementById('mpw-back').style.display=cur>0?'block':'none';
+}
+function pick(i){answers[cur]=i;cur++;if(cur<Qs.length){render();}else{showResult();}}
+function mpwBack(){if(cur>0){cur--;answers.pop();render();}}
+function showResult(){
+  var score=0;
+  // Q0: travel. 0=often(OM+2, national coverage), 1=occasionally(OM+1), 2=local(MA+1)
+  if(answers[0]===0)score+=2;
+  if(answers[0]===1)score+=1;
+  if(answers[0]===2)score-=1;
+  // Q1: doctors. 0=must keep several(OM+2), 1=1-2(OM+1), 2=flexible(MA+1)
+  if(answers[1]===0)score+=2;
+  if(answers[1]===1)score+=1;
+  if(answers[1]===2)score-=1;
+  // Q2: usage. 0=rarely(MA+1 low premium), 1=occasionally(neutral), 2=frequently(OM+2 predictable costs)
+  if(answers[2]===0)score-=1;
+  if(answers[2]===2)score+=2;
+  // Q3: costs. 0=predictable(OM+2), 1=lower premium(MA+1), 2=balanced(neutral)
+  if(answers[3]===0)score+=2;
+  if(answers[3]===1)score-=1;
+  // Q4: V/D/H. 0=yes(MA+1), 1=maybe(neutral), 2=no(neutral)
+  if(answers[4]===0)score-=1;
+
+  var rt=document.getElementById('mpw-rt');
+  var rl=document.getElementById('mpw-rl');
+  var ns=document.getElementById('mpw-ns');
+  document.getElementById('mpw-quiz').style.display='none';
+  document.getElementById('mpw-result').style.display='block';
+
+  if(score>=2){
+    rt.textContent='Original Medicare + Medigap (Supplement) Plan G';
+    var reasons=['Your travel pattern or multi-state living requires access to any Medicare-accepting provider nationwide — Original Medicare works everywhere, Medicare Advantage is network-restricted.'];
+    if(answers[1]<=1)reasons.push('You have specific doctors you want to keep. Original Medicare lets you see any provider who accepts Medicare without referrals or network approval.');
+    if(answers[2]===2)reasons.push('You use care frequently. A Medigap Plan G eliminates most out-of-pocket costs (covering the 20% Original Medicare co-insurance), giving you predictable, capped spending.');
+    if(answers[3]===0)reasons.push('You prioritize predictable costs. Original Medicare + Medigap is the most cost-predictable combination available.');
+    reasons.push('Plan G is the most comprehensive Medigap plan available to new Medicare enrollees and covers nearly all gaps except the Part B deductible.');
+    rl.innerHTML=reasons.map(function(r){return '<li>'+r+'</li>';}).join('');
+    ns.innerHTML='<strong>Suggested Next Steps</strong>1. Enroll in Medicare Part A and Part B during your Initial Enrollment Period.<br>2. Compare Medigap Plan G premiums in your ZIP code at <a href="https://www.medicare.gov/medigap-supplemental-insurance-plans" target="_blank" rel="noopener">medicare.gov</a> — prices vary widely by insurer for identical coverage.<br>3. Also consider a separate Part D prescription drug plan.<br>4. Contact <a href="https://www.shiphelp.org" target="_blank" rel="noopener">SHIP</a> for free help comparing specific plans in your area.';
+  } else {
+    rt.textContent='Medicare Advantage (Part C)';
+    var reasons=['You stay local and are comfortable with a provider network, which is how Medicare Advantage plans are structured.'];
+    if(answers[1]===2)reasons.push('You\'re flexible on providers — Medicare Advantage plans require you to use in-network providers (or pay more for out-of-network), which works well if you don\'t have strong provider preferences.');
+    if(answers[2]===0)reasons.push('You rarely use medical care. Medicare Advantage plans typically have $0 or very low monthly premiums, which can mean significant savings if you don\'t use much care.');
+    if(answers[3]===1)reasons.push('You prefer lower monthly premiums. Many Medicare Advantage plans have $0 premiums (you still pay Part B).');
+    if(answers[4]===0)reasons.push('You want vision, dental, and hearing coverage. Most Medicare Advantage plans bundle these extras, which Original Medicare does not cover.');
+    reasons.push('Important: review the plan\'s network, formulary (drug list), and out-of-pocket maximum carefully each year during Open Enrollment (Oct 15 – Dec 7).');
+    rl.innerHTML=reasons.map(function(r){return '<li>'+r+'</li>';}).join('');
+    ns.innerHTML='<strong>Suggested Next Steps</strong>1. Use the <a href="https://www.medicare.gov/plan-compare/" target="_blank" rel="noopener">Medicare Plan Finder at medicare.gov</a> to compare available Advantage plans in your ZIP code.<br>2. Check that your doctors and preferred hospital are in-network for any plan you consider.<br>3. Review the plan\'s Annual Out-of-Pocket Maximum — this is your financial safety net.<br>4. Contact <a href="https://www.shiphelp.org" target="_blank" rel="noopener">SHIP</a> for free, unbiased plan comparison help.';
+  }
+}
+function mpwRestart(){cur=0;answers=[];document.getElementById('mpw-result').style.display='none';document.getElementById('mpw-quiz').style.display='block';render();}
+window.mpwBack=mpwBack;window.mpwRestart=mpwRestart;
+render();
+})();
+</script>
