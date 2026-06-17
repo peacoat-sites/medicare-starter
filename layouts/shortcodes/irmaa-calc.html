@@ -1,0 +1,100 @@
+<style>
+.irmaa{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.irmaa-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.irmaa-body{padding:20px}
+.irmaa-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.irmaa label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.irmaa input,.irmaa select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.irmaa input:focus,.irmaa select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.irmaa-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rv{display:block;font-size:1.7rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.15;margin:2px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.irmaa-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.irmaa-callout b{color:var(--accent,#c2410c)}
+.irmaa-bracket{margin-top:12px;padding:12px 16px;background:var(--surface2,#f5f2ec);border-radius:10px;font-size:13px;color:var(--muted,#6b6860)}
+.irmaa-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.rv{font-size:1.4rem}}
+</style>
+<div class="irmaa">
+  <div class="irmaa-head">Medicare IRMAA Cost Estimator</div>
+  <div class="irmaa-body">
+    <div class="irmaa-grid">
+      <label>Filing Status
+        <select id="irmaa-status" onchange="irmaCalc()">
+          <option value="single">Single</option>
+          <option value="mfj">Married Filing Jointly</option>
+          <option value="mfs">Married Filing Separately</option>
+        </select>
+      </label>
+      <label>Annual Income — MAGI ($)
+        <input type="number" id="irmaa-income" value="90000" min="0" step="1000" oninput="irmaCalc()" placeholder="e.g. 95000">
+      </label>
+    </div>
+    <div class="irmaa-cards" id="irmaa-cards">
+      <div class="rc"><span class="rl">Part B Monthly Premium</span><span class="rv" id="ir-partb">$174.70</span><span class="rs">Per month</span></div>
+      <div class="rc"><span class="rl">Part D Monthly Surcharge</span><span class="rv" id="ir-partd">$0.00</span><span class="rs">Added to plan premium</span></div>
+      <div class="rc"><span class="rl">Annual Extra vs Standard</span><span class="rv" id="ir-annual">$0</span><span class="rs">Above standard $174.70/mo</span></div>
+    </div>
+    <div class="irmaa-callout" id="irmaa-callout"></div>
+    <div class="irmaa-bracket" id="irmaa-bracket"></div>
+    <p class="irmaa-note">These are estimates based on 2024 IRMAA brackets and standard premiums. Your actual premium is determined by SSA using your income from 2 years prior. Contact Social Security (<a href="tel:18007721213">1-800-772-1213</a>) or <a href="https://ssa.gov/benefits/medicare/medicare-premiums.html" target="_blank" rel="noopener">ssa.gov</a> for personalized information.</p>
+  </div>
+</div>
+<script>
+(function(){
+  // Brackets: [maxIncomeSingle, maxIncomeMFJ, partBPremium, partDSurcharge, label]
+  var BRACKETS = [
+    [103000,  206000,  174.70,  0,    "Standard — no IRMAA", "Up to $103,000 (Single) / $206,000 (MFJ)"],
+    [129000,  258000,  244.60,  12.90, "IRMAA Tier 1",       "$103,001–$129,000 (Single) / $206,001–$258,000 (MFJ)"],
+    [161000,  322000,  349.40,  33.30, "IRMAA Tier 2",       "$129,001–$161,000 (Single) / $258,001–$322,000 (MFJ)"],
+    [193000,  386000,  454.20,  53.80, "IRMAA Tier 3",       "$161,001–$193,000 (Single) / $322,001–$386,000 (MFJ)"],
+    [500000,  750000,  559.00,  74.20, "IRMAA Tier 4",       "$193,001–$500,000 (Single) / $386,001–$750,000 (MFJ)"],
+    [Infinity,Infinity,594.00,  81.00, "IRMAA Tier 5 (highest)", "Over $500,000 (Single) / Over $750,000 (MFJ)"]
+  ];
+
+  function fmt(n){ return '$'+n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g,','); }
+  function fmtInt(n){ return '$'+Math.round(n).toLocaleString(); }
+
+  window.irmaCalc = function(){
+    var status = document.getElementById('irmaa-status').value;
+    var income = parseFloat(document.getElementById('irmaa-income').value)||0;
+    var partB, partD, bracketName, bracketRange;
+
+    if(status === 'mfs'){
+      if(income <= 103000){
+        partB=174.70; partD=0; bracketName='Standard (MFS)'; bracketRange='Up to $103,000';
+      } else {
+        partB=559.00; partD=81.00; bracketName='IRMAA Flat Rate (MFS)'; bracketRange='Over $103,000';
+      }
+    } else {
+      var col = (status==='single') ? 0 : 1;
+      for(var i=0;i<BRACKETS.length;i++){
+        if(income <= BRACKETS[i][col]){
+          partB=BRACKETS[i][2]; partD=BRACKETS[i][3];
+          bracketName=BRACKETS[i][4]; bracketRange=BRACKETS[i][5];
+          break;
+        }
+      }
+    }
+
+    var annualExtra = 12*(partB - 174.70 + partD);
+
+    document.getElementById('ir-partb').textContent = fmt(partB);
+    document.getElementById('ir-partd').textContent = fmt(partD);
+    document.getElementById('ir-annual').textContent = fmtInt(annualExtra);
+
+    var callout = document.getElementById('irmaa-callout');
+    if(annualExtra > 0){
+      callout.innerHTML = '<b>IRMAA applies:</b> Based on your income, you pay an extra <b>'+fmtInt(annualExtra)+'</b> per year ('+fmt(partB-174.70+partD)+'/month) above the standard Medicare premium. This is added directly to your Part B bill.';
+    } else {
+      callout.innerHTML = '<b>No IRMAA surcharge.</b> Your income falls within the standard Medicare bracket — you pay the standard Part B premium of <b>$174.70/month</b>.';
+    }
+
+    document.getElementById('irmaa-bracket').textContent = 'Your bracket: '+bracketName+' — '+bracketRange;
+  };
+
+  irmaCalc();
+})();
+</script>

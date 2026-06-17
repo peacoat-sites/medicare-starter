@@ -1,0 +1,128 @@
+<style>
+.mcd{margin:30px 0;border:1px solid var(--border,rgba(0,0,0,.1));border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.mcd-head{padding:15px 20px;background:var(--surface2,#f5f2ec);font-weight:800;font-size:1.1rem}
+.mcd-body{padding:20px}
+.mcd-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.mcd label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted,#6b6860)}
+.mcd select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong,rgba(0,0,0,.14));border-radius:10px;font-size:16px;color:var(--text,#1a1a18);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.mcd select:focus{outline:none;border-color:var(--accent,#c2410c);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent,#c2410c) 20%,transparent)}
+.mcd-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.rc{background:var(--surface2,#f5f2ec);border-radius:12px;padding:14px 16px;text-align:center}
+.rl{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860)}
+.rv{display:block;font-size:1.3rem;font-weight:800;color:var(--accent,#c2410c);line-height:1.2;margin:4px 0}
+.rs{display:block;font-size:11.5px;color:var(--muted,#6b6860)}
+.mcd-timeline{margin-top:18px;padding:16px 18px;background:var(--surface2,#f5f2ec);border-radius:12px;font-size:13px;overflow-x:auto}
+.mcd-tl-title{font-weight:700;font-size:12px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted,#6b6860);margin-bottom:10px}
+.mcd-tl-row{display:flex;align-items:center;gap:0;white-space:nowrap;font-size:13px}
+.mcd-tl-seg{padding:6px 10px;background:var(--surface,#fff);border:1px solid var(--border,rgba(0,0,0,.1));border-radius:6px;margin:2px;font-size:12px;flex-shrink:0}
+.mcd-tl-seg.active{background:color-mix(in srgb,var(--accent,#c2410c) 15%,#fff);border-color:color-mix(in srgb,var(--accent,#c2410c) 40%,transparent);font-weight:700;color:var(--accent,#c2410c)}
+.mcd-tl-seg.bday{background:var(--accent,#c2410c);color:#fff;font-weight:800}
+.mcd-tl-arrow{color:var(--stone,#a09c94);font-size:16px;margin:0 2px;flex-shrink:0}
+.mcd-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent,#c2410c) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent,#c2410c) 35%,transparent);font-size:.95rem;line-height:1.5}
+.mcd-callout b{color:var(--accent,#c2410c)}
+.mcd-penalty{margin-top:12px;padding:12px 16px;border-radius:10px;background:#fff8f0;border:1px solid rgba(194,65,12,.2);font-size:13px;line-height:1.5}
+.mcd-note{margin:16px 0 0;font-size:12px;color:var(--stone,#a09c94);line-height:1.5}
+@media(max-width:560px){.rv{font-size:1.1rem}}
+</style>
+<div class="mcd">
+  <div class="mcd-head">Medicare Enrollment Window Calculator</div>
+  <div class="mcd-body">
+    <div class="mcd-grid">
+      <label>Birth Month
+        <select id="mcd-month" onchange="mcdCalc()">
+          <option value="0">January</option><option value="1">February</option>
+          <option value="2">March</option><option value="3">April</option>
+          <option value="4">May</option><option value="5">June</option>
+          <option value="6">July</option><option value="7">August</option>
+          <option value="8">September</option><option value="9">October</option>
+          <option value="10">November</option><option value="11">December</option>
+        </select>
+      </label>
+      <label>Birth Year
+        <select id="mcd-year" onchange="mcdCalc()"></select>
+      </label>
+      <label>On employer health insurance?
+        <select id="mcd-employer" onchange="mcdCalc()">
+          <option value="no">No</option>
+          <option value="yes">Yes</option>
+        </select>
+      </label>
+    </div>
+    <div class="mcd-cards" id="mcd-cards">
+      <div class="rc"><span class="rl">65th Birthday Month</span><span class="rv" id="mcd-bday65">—</span><span class="rs">Your Medicare eligibility starts</span></div>
+      <div class="rc"><span class="rl">IEP Start</span><span class="rv" id="mcd-iep-start">—</span><span class="rs">3 months before birthday month</span></div>
+      <div class="rc"><span class="rl">IEP End</span><span class="rv" id="mcd-iep-end">—</span><span class="rs">3 months after birthday month</span></div>
+    </div>
+    <div class="mcd-timeline" id="mcd-timeline"></div>
+    <div class="mcd-callout" id="mcd-callout"></div>
+    <div class="mcd-penalty" id="mcd-penalty"></div>
+    <p class="mcd-note">Dates are estimates. Use <a href="https://medicare.gov" target="_blank" rel="noopener">medicare.gov</a> or call <a href="tel:18006334227">1-800-633-4227</a> (1-800-MEDICARE) to confirm your specific enrollment window.</p>
+  </div>
+</div>
+<script>
+(function(){
+  var MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+  var SHORT=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+  // Populate year select
+  var ySel=document.getElementById('mcd-year');
+  var curY=new Date().getFullYear();
+  // Show people turning 65: birth years from ~1945 to curY-55
+  for(var y=curY-55;y>=1945;y--){
+    var opt=document.createElement('option');
+    opt.value=y; opt.textContent=y;
+    if(y===curY-65)opt.selected=true;
+    ySel.appendChild(opt);
+  }
+
+  function addMonths(m,y,n){
+    var d=new Date(y,m,1); d.setMonth(d.getMonth()+n);
+    return {m:d.getMonth(), y:d.getFullYear()};
+  }
+  function fmtMY(m,y){return MONTHS[m]+' '+y;}
+
+  window.mcdCalc=function(){
+    var bMonth=parseInt(document.getElementById('mcd-month').value);
+    var bYear=parseInt(document.getElementById('mcd-year').value);
+    var employer=document.getElementById('mcd-employer').value;
+
+    // 65th birthday month
+    var age65=addMonths(bMonth,bYear,65*12);
+    var iepStart=addMonths(age65.m,age65.y,-3);
+    var iepEnd=addMonths(age65.m,age65.y,3);
+
+    document.getElementById('mcd-bday65').textContent=fmtMY(age65.m,age65.y);
+    document.getElementById('mcd-iep-start').textContent=fmtMY(iepStart.m,iepStart.y);
+    document.getElementById('mcd-iep-end').textContent=fmtMY(iepEnd.m,iepEnd.y);
+
+    // Timeline
+    var segs=[];
+    for(var i=-3;i<=3;i++){
+      var s=addMonths(age65.m,age65.y,i);
+      var cls='mcd-tl-seg'+(i===0?' bday':' active');
+      var label=SHORT[s.m]+' '+s.y+(i===-3?' [IEP START]':i===0?' [65th Birthday]':i===3?' [IEP END]':'');
+      segs.push('<span class="'+cls+'">'+label+'</span>');
+      if(i<3) segs.push('<span class="mcd-tl-arrow">→</span>');
+    }
+    document.getElementById('mcd-timeline').innerHTML='<div class="mcd-tl-title">Your 7-Month Initial Enrollment Period (IEP)</div><div class="mcd-tl-row">'+segs.join('')+'</div>';
+
+    // Callout
+    var callout=document.getElementById('mcd-callout');
+    if(employer==='yes'){
+      callout.innerHTML='<b>Employer Coverage Active:</b> You qualify for a <b>Special Enrollment Period (SEP)</b>. You have <b>8 months</b> from when your employer coverage ends to enroll without penalty. Do not delay beyond this — contact Medicare at <a href="https://medicare.gov" target="_blank" rel="noopener">medicare.gov</a> or 1-800-MEDICARE when coverage ends.';
+    } else {
+      callout.innerHTML='<b>No employer coverage:</b> Your <b>7-month Initial Enrollment Period</b> is your primary window. Enrolling in the 3 months before your birthday month means coverage starts the 1st of your birthday month — the earliest possible start date.';
+    }
+
+    // Penalty
+    var pen=document.getElementById('mcd-penalty');
+    if(employer==='no'){
+      pen.innerHTML='<strong>Part B Late Enrollment Penalty:</strong> For every 12-month period you delay Part B enrollment without qualifying employer coverage, your premium increases <strong>10% — permanently</strong>. A 2-year delay = 20% higher premium for life.';
+    } else {
+      pen.innerHTML='<strong>Avoid the penalty:</strong> As long as you enroll within 8 months of losing employer coverage, no late-enrollment penalty applies to Part B.';
+    }
+  };
+
+  mcdCalc();
+})();
+</script>

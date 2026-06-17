@@ -1,0 +1,200 @@
+{
+  "title": "Medigap (Medicare Supplement) Plan Comparison",
+  "note": "Coverage shown for plans sold after June 1, 2010. Plans C and F are not available to people who became eligible for Medicare on or after January 1, 2020. Monthly premiums vary by state, age, and insurer \u2014 contact your State Health Insurance Assistance Program (SHIP) for free personalized help.",
+  "search": true,
+  "filters": [
+    {
+      "key": "deductible",
+      "label": "Deductible"
+    }
+  ],
+  "columns": [
+    {
+      "key": "plan",
+      "label": "Plan",
+      "primary": true
+    },
+    {
+      "key": "part_a_coinsurance",
+      "label": "Part A Coinsurance"
+    },
+    {
+      "key": "part_b_coinsurance",
+      "label": "Part B Coinsurance"
+    },
+    {
+      "key": "blood",
+      "label": "First 3 Pints Blood"
+    },
+    {
+      "key": "snf",
+      "label": "SNF Coinsurance"
+    },
+    {
+      "key": "part_a_deductible",
+      "label": "Part A Deductible"
+    },
+    {
+      "key": "part_b_deductible",
+      "label": "Part B Deductible"
+    },
+    {
+      "key": "excess_charges",
+      "label": "Part B Excess Charges"
+    },
+    {
+      "key": "foreign",
+      "label": "Foreign Travel Emergency"
+    },
+    {
+      "key": "deductible",
+      "label": "Has Deductible"
+    }
+  ],
+  "rows": [
+    {
+      "plan": "A",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "No",
+      "part_a_deductible": "No",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "No",
+      "deductible": "No"
+    },
+    {
+      "plan": "B",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "No",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "No",
+      "deductible": "No"
+    },
+    {
+      "plan": "C",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "Yes",
+      "excess_charges": "No",
+      "foreign": "80%",
+      "deductible": "No"
+    },
+    {
+      "plan": "D",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "80%",
+      "deductible": "No"
+    },
+    {
+      "plan": "F",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "Yes",
+      "excess_charges": "Yes",
+      "foreign": "80%",
+      "deductible": "No"
+    },
+    {
+      "plan": "F-HD",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "Yes",
+      "excess_charges": "Yes",
+      "foreign": "80%",
+      "deductible": "Yes (high-deductible)"
+    },
+    {
+      "plan": "G",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "No",
+      "excess_charges": "Yes",
+      "foreign": "80%",
+      "deductible": "No"
+    },
+    {
+      "plan": "G-HD",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "No",
+      "excess_charges": "Yes",
+      "foreign": "80%",
+      "deductible": "Yes (high-deductible)"
+    },
+    {
+      "plan": "K",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "50%",
+      "blood": "50%",
+      "snf": "50%",
+      "part_a_deductible": "50%",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "No",
+      "deductible": "Out-of-pocket limit"
+    },
+    {
+      "plan": "L",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "75%",
+      "blood": "75%",
+      "snf": "75%",
+      "part_a_deductible": "75%",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "No",
+      "deductible": "Out-of-pocket limit"
+    },
+    {
+      "plan": "M",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "50%",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "80%",
+      "deductible": "No"
+    },
+    {
+      "plan": "N",
+      "part_a_coinsurance": "Yes",
+      "part_b_coinsurance": "Yes (copays up to $20)",
+      "blood": "Yes",
+      "snf": "Yes",
+      "part_a_deductible": "Yes",
+      "part_b_deductible": "No",
+      "excess_charges": "No",
+      "foreign": "80%",
+      "deductible": "No"
+    }
+  ]
+}
