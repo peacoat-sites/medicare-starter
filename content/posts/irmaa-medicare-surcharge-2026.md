@@ -1,12 +1,12 @@
 ---
-title: "Irmaa Medicare Surcharge 2026"
+title: "Irmaa Medicare Surcharge"
 date: 2026-06-08T17:30:42.502025+00:00
 draft: false
 description: "Learn about 2026 IRMAA Medicare surcharges, including income thresholds, premium amounts, and how to appeal if your income has changed since your base year."
 image: "https://images.pexels.com/photos/8962520/pexels-photo-8962520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["IRMAA", "Medicare", "surcharge", "2026"]
-slug: "irmaa-medicare-surcharge-2026"
+slug: "irmaa-medicare-surcharge"
 affiliate_disclosure: true
 faqs:
   - q: "Does IRMAA apply to Medicare Advantage plans too?"

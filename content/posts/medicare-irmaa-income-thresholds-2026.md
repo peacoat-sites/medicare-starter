@@ -1,5 +1,5 @@
 ---
-title: "Medicare Irmaa Income Thresholds 2026"
+title: "Medicare Irmaa Income Thresholds"
 date: 2026-06-16T18:39:02.212035+00:00
 draft: false
 description: "Learn the 2026 Medicare IRMAA income thresholds and find out how your modified adjusted gross income affects your Part B and Part D premiums."
@@ -10,7 +10,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-slug: "medicare-irmaa-income-thresholds-2026"
+slug: "medicare-irmaa-income-thresholds"
 affiliate_disclosure: true
 faqs:
   - q: "What income is used to calculate my 2026 IRMAA?"

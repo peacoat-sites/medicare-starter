@@ -1,12 +1,12 @@
 ---
-title: "How Much Does Medicare Part B Cost In 2026"
+title: "How Much Does Medicare Part B Cost"
 date: 2026-06-13T15:50:21.425282+00:00
 draft: false
 description: "Learn what Medicare Part B costs in 2026, including monthly premiums, deductibles, and income-based IRMAA surcharges, so you can plan your healthcare budget."
 image: "https://images.pexels.com/photos/6838589/pexels-photo-6838589.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["much", "does", "medicare", "part", "cost"]
-slug: "how-much-does-medicare-part-b-cost-in-2026"
+slug: "how-much-does-medicare-part-b-cost-in"
 affiliate_disclosure: true
 faqs:
   - q: "Is the $185 Part B premium going up in 2027?"
