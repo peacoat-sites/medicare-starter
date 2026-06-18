@@ -40,7 +40,7 @@ So let me give you the real picture, not the brochure version.
   <div class="vm-body">
     <p class="vm-intro">Use these threshold-based criteria to narrow your choice between Medicare Advantage (MA), Original Medicare + Medigap, or a hybrid approach based on your actual situation.</p>
     <table><thead><tr><th>Profile Factor</th><th>Leans Toward Medicare Advantage</th><th>Leans Toward Original Medicare + Medigap</th></tr></thead><tbody><tr><td>Annual specialist visits</td><td>Fewer than 4 visits/year; comfortable with referrals</td><td>5+ specialist visits/year or complex multi-provider care</td></tr><tr><td>Prescription count &amp; type</td><td>0–3 generics or drugs on MA plan's low-tier formulary</td><td>4+ medications, brand-name drugs, or specialty prescriptions (need standalone Part D flexibility)</td></tr><tr><td>Travel frequency</td><td>Primarily stay within California or plan's service area</td><td>Spend 3+ months/year outside California or travel unpredictably</td></tr><tr><td>Provider attachment</td><td>Willing to switch doctors for cost savings</td><td>Must keep specific specialists who may not join MA networks</td></tr><tr><td>Budget tolerance</td><td>Prefer $0–50/month premium; accept variable copays per visit</td><td>Prefer predictable costs; can pay $150–250+/month Medigap premium for near-zero cost-sharing</td></tr><tr><td>Out-of-pocket maximum comfort</td><td>Can absorb up to $3,500–8,000 MOOP in a bad health year</td><td>Want expenses capped near $0 after premiums regardless of utilization</td></tr><tr><td>Extra benefits value</td><td>Dental/vision/hearing/OTC allowances worth trade-offs</td><td>Prefer to buy standalone dental/vision; prioritize provider freedom</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -135,9 +135,9 @@ Choosing a Medicare plan in California is genuinely one of the more consequentia
 
 ## Sources & References
 
-- [Medicare.gov — Find Medicare plans in your area](https://www.medicare.gov/plan-compare/) — Official tool for comparing MA, Medigap, Part D plans
-- [CMS — Medicare & You 2025 Handbook](https://www.medicare.gov/publications/10050-medicare-and-you.pdf) — Covers plan types, enrollment periods, coverage rules
-- [California Department of Insurance — Medicare Supplement Guide](https://www.insurance.ca.gov/01-consumers/110-health/60-Resources/) — State-specific Medigap regulations and consumer resources
+- [Medicare.gov, Find Medicare plans in your area](https://www.medicare.gov/plan-compare/), Official tool for comparing MA, Medigap, Part D plans
+- [CMS, Medicare & You 2025 Handbook](https://www.medicare.gov/publications/10050-medicare-and-you.pdf), Covers plan types, enrollment periods, coverage rules
+- [California Department of Insurance, Medicare Supplement Guide](https://www.insurance.ca.gov/01-consumers/110-health/60-Resources/), State-specific Medigap regulations and consumer resources
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -153,6 +153,6 @@ Choosing a Medicare plan in California is genuinely one of the more consequentia
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

@@ -32,9 +32,9 @@ Imagine you get a cancer diagnosis in January. Suddenly you're facing chemothera
 <div class="value-module">
   <div class="vm-head">MOOP Comparison: Plan Tiers by Cost</div>
   <div class="vm-body">
-    <p class="vm-intro">Medicare Advantage plans cluster into predictable tiers—here's how MOOP levels typically correlate with premiums and cost-sharing structures.</p>
+    <p class="vm-intro">Medicare Advantage plans cluster into predictable tiers-here's how MOOP levels typically correlate with premiums and cost-sharing structures.</p>
     <table><caption>Typical Medicare Advantage Plan Tiers (2025)</caption><thead><tr><th>Plan Tier</th><th>Typical MOOP Range</th><th>Monthly Premium Range</th><th>PCP Copay</th><th>Specialist Copay</th><th>Best For</th></tr></thead><tbody><tr><td>Low-Premium / High-MOOP</td><td>$7,500–$9,350</td><td>$0–$25</td><td>$0–$10</td><td>$40–$50</td><td>Healthy enrollees wanting minimal monthly costs</td></tr><tr><td>Mid-Range</td><td>$5,000–$7,499</td><td>$30–$75</td><td>$5–$15</td><td>$30–$45</td><td>Moderate healthcare users seeking balance</td></tr><tr><td>Lower-MOOP / Higher-Premium</td><td>$3,000–$4,999</td><td>$80–$150</td><td>$0–$10</td><td>$20–$35</td><td>Those with chronic conditions or expected high utilization</td></tr><tr><td>Integrated D-SNP Plans</td><td>$0–$3,400</td><td>$0 (Medicaid-eligible)</td><td>$0</td><td>$0–$10</td><td>Dual-eligible enrollees (Medicare + Medicaid)</td></tr></tbody><tfoot><tr><td colspan="6">Note: Ranges are illustrative based on typical plan structures. Actual plans vary by region and carrier. The 2025 federal maximum is $9,350 in-network.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -147,6 +147,6 @@ The out-of-pocket maximum is one of the most important numbers in your Medicare 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

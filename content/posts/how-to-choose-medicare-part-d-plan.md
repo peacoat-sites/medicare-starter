@@ -123,8 +123,8 @@ Choosing a Part D plan isn't something you do once and forget. It's a decision w
 
 ## Sources & References
 
-- [Medicare.gov — Part D costs & coverage](https://www.medicare.gov/drug-coverage-part-d) — Official overview of Part D coverage, costs, and enrollment rules
-- [Medicare.gov — Plan finder tool](https://www.medicare.gov/plan-compare/) — Official tool to compare Part D plans by medications and ZIP code
+- [Medicare.gov, Part D costs & coverage](https://www.medicare.gov/drug-coverage-part-d), Official overview of Part D coverage, costs, and enrollment rules
+- [Medicare.gov, Plan finder tool](https://www.medicare.gov/plan-compare/), Official tool to compare Part D plans by medications and ZIP code
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
@@ -140,7 +140,7 @@ Choosing a Part D plan isn't something you do once and forget. It's a decision w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15) — The original bestselling guide to navigating Medicare and Social Security timing — over 100,000 copies sold.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
 

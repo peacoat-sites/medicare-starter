@@ -120,9 +120,9 @@ None of this is simple, and I won't pretend the system is designed with your con
 
 ## Sources & References
 
-- [Medicare.gov — What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers) — Official source for Part A coverage details
-- [Medicare.gov — Part A costs](https://www.medicare.gov/basics/costs/medicare-costs) — Supports 2024 deductible and coinsurance figures
-- [Medicare.gov — What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers) — Official source for Part B coverage details
+- [Medicare.gov, What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers), Official source for Part A coverage details
+- [Medicare.gov, Part A costs](https://www.medicare.gov/basics/costs/medicare-costs), Supports 2024 deductible and coinsurance figures
+- [Medicare.gov, What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers), Official source for Part B coverage details
 
 *Photo: [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 
@@ -138,8 +138,8 @@ None of this is simple, and I won't pretend the system is designed with your con
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32) — Senior-specific Cosequin formula with added Omega-3s — designed for aging dogs with joint and immune health needs.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
 

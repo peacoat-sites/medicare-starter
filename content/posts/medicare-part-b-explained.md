@@ -133,8 +133,8 @@ Part B is the backbone of your day-to-day medical coverage under Medicare. Get t
 
 ## Sources & References
 
-- [Medicare.gov — What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers) — Official list of Part B covered services
-- [Medicare.gov — Preventive services](https://www.medicare.gov/coverage/preventive-screening-services) — Free preventive services under Part B
+- [Medicare.gov, What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers), Official list of Part B covered services
+- [Medicare.gov, Preventive services](https://www.medicare.gov/coverage/preventive-screening-services), Free preventive services under Part B
 
 *Photo: [Ilias Saltidis](https://www.pexels.com/@ilias-saltidis-488992979) via Pexels*
 
@@ -150,6 +150,6 @@ Part B is the backbone of your day-to-day medical coverage under Medicare. Get t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

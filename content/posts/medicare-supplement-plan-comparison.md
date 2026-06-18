@@ -119,9 +119,9 @@ If you'd like to dig deeper into plan details before talking to an agent, a good
 
 ## Sources & References
 
-- [Medicare.gov — What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap) — Explains Medigap basics, standardized plans, and how it differs from Medicare Advantage
-- [Medicare.gov — Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — Official 2024 Part A/B deductibles and coinsurance amounts
-- [CMS.gov — Choosing a Medigap Policy guide](https://www.cms.gov/medicare/health-drug-plans/medigap) — Federal guide to comparing standardized Medigap plan letters
+- [Medicare.gov, What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap), Explains Medigap basics, standardized plans, and how it differs from Medicare Advantage
+- [Medicare.gov, Medicare costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs), Official 2024 Part A/B deductibles and coinsurance amounts
+- [CMS.gov, Choosing a Medigap Policy guide](https://www.cms.gov/medicare/health-drug-plans/medigap), Federal guide to comparing standardized Medigap plan letters
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
@@ -137,6 +137,6 @@ If you'd like to dig deeper into plan details before talking to an agent, a good
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

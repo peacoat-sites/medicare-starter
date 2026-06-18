@@ -40,7 +40,7 @@ So let's be specific about what Medicare actually covers, where the gaps are, an
   <div class="vm-body">
     <p class="vm-intro">This table shows the standard cost-sharing structure for Original Medicare (Parts A and B), illustrating why the 20% Part B coinsurance with no annual cap creates the largest financial exposure.</p>
     <table><caption>Original Medicare Standard Cost-Sharing (2024 Figures Are Illustrative)</caption><thead><tr><th>Coverage Area</th><th>What You Pay</th><th>Key Risk Factor</th></tr></thead><tbody><tr><td>Part A: Hospital Days 1–60</td><td>One deductible per benefit period (approx. $1,600)</td><td>Multiple hospital admissions can trigger multiple deductibles in same year</td></tr><tr><td>Part A: Hospital Days 61–90</td><td>Daily coinsurance (approx. $400/day)</td><td>Extended stays accumulate quickly; 30-day stay in this window ≈ $12,000</td></tr><tr><td>Part A: Lifetime Reserve Days (91–150)</td><td>Higher daily coinsurance (approx. $800/day); 60 days total lifetime</td><td>Once exhausted, never renewed; you pay 100% beyond day 150</td></tr><tr><td>Part A: Skilled Nursing Days 21–100</td><td>Daily coinsurance (approx. $200/day)</td><td>80-day SNF stay after day 20 ≈ $16,000 out-of-pocket</td></tr><tr><td>Part B: Most Outpatient Services</td><td>20% of Medicare-approved amount after annual deductible (approx. $240)</td><td>No annual out-of-pocket maximum; $200,000 treatment = $40,000 owed</td></tr><tr><td>Part B: Preventive Services</td><td>$0 for most screenings (colonoscopy, mammogram, flu shot)</td><td>Diagnostic follow-ups after screening revert to 20% coinsurance</td></tr><tr><td>Prescription Drugs (Part D)</td><td>Varies by plan; deductibles, copays, and coverage gap apply</td><td>Specialty drugs can cost thousands before catastrophic coverage begins</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -125,9 +125,9 @@ If you're comparing Medigap plans in your area, tools like the [Medicare.gov Pla
 
 ## Sources & References
 
-- [Medicare.gov — Costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs) — official Medicare cost-sharing and deductible information
-- [Medicare.gov — What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers) — hospital coverage details and benefit periods
-- [Medicare.gov — What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers) — Part B coinsurance and coverage limits
+- [Medicare.gov, Costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs), official Medicare cost-sharing and deductible information
+- [Medicare.gov, What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers), hospital coverage details and benefit periods
+- [Medicare.gov, What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers), Part B coinsurance and coverage limits
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
@@ -141,6 +141,6 @@ If you're comparing Medigap plans in your area, tools like the [Medicare.gov Pla
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

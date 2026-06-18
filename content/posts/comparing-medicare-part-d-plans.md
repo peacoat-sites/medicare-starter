@@ -32,9 +32,9 @@ Most people spend more time choosing a Netflix subscription than they do compari
 <div class="value-module">
   <div class="vm-head">Annual Cost Comparison Worksheet</div>
   <div class="vm-body">
-    <p class="vm-intro">Use this template to compare your true yearly costs across plans—premium alone typically accounts for less than 30% of total drug spending.</p>
-    <table><caption>Part D Plan Cost Comparison (Fill in for each plan you're considering)</caption><thead><tr><th>Cost Component</th><th>Plan A</th><th>Plan B</th><th>Plan C</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Monthly Premium × 12</td><td>$____</td><td>$____</td><td>$____</td><td>Higher premium often means lower copays—don't optimize for this alone</td></tr><tr><td>Annual Deductible</td><td>$____</td><td>$____</td><td>$____</td><td>2025 standard max is $590; some plans offer $0</td></tr><tr><td>Drug 1: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Check if your drug is even on the formulary</td></tr><tr><td>Drug 2: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Tier placement varies widely between plans</td></tr><tr><td>Drug 3: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Brand vs. generic tier can mean $50+ difference per fill</td></tr><tr><td>Preferred Pharmacy Savings</td><td>−$____</td><td>−$____</td><td>−$____</td><td>Using preferred pharmacy can cut copays 20–50%</td></tr><tr><td>Mail-Order 90-Day Option</td><td>Yes / No</td><td>Yes / No</td><td>Yes / No</td><td>Often saves 10–25% vs. 3 monthly fills</td></tr><tr><td><strong>Estimated Annual Total</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td>Compare this number, not just premium</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-intro">Use this template to compare your true yearly costs across plans-premium alone typically accounts for less than 30% of total drug spending.</p>
+    <table><caption>Part D Plan Cost Comparison (Fill in for each plan you're considering)</caption><thead><tr><th>Cost Component</th><th>Plan A</th><th>Plan B</th><th>Plan C</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Monthly Premium × 12</td><td>$____</td><td>$____</td><td>$____</td><td>Higher premium often means lower copays-don't optimize for this alone</td></tr><tr><td>Annual Deductible</td><td>$____</td><td>$____</td><td>$____</td><td>2025 standard max is $590; some plans offer $0</td></tr><tr><td>Drug 1: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Check if your drug is even on the formulary</td></tr><tr><td>Drug 2: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Tier placement varies widely between plans</td></tr><tr><td>Drug 3: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Brand vs. generic tier can mean $50+ difference per fill</td></tr><tr><td>Preferred Pharmacy Savings</td><td>−$____</td><td>−$____</td><td>−$____</td><td>Using preferred pharmacy can cut copays 20–50%</td></tr><tr><td>Mail-Order 90-Day Option</td><td>Yes / No</td><td>Yes / No</td><td>Yes / No</td><td>Often saves 10–25% vs. 3 monthly fills</td></tr><tr><td><strong>Estimated Annual Total</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td>Compare this number, not just premium</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -134,8 +134,8 @@ The annual Open Enrollment window closes December 7, which means most people are
 
 ## Sources & References
 
-- [Medicare.gov — Plan Finder Tool](https://www.medicare.gov/plan-compare/) — Official tool for comparing Part D plans by drug costs
-- [Medicare.gov — Part D Costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage) — Details premiums, deductibles, and cost-sharing structure
+- [Medicare.gov, Plan Finder Tool](https://www.medicare.gov/plan-compare/), Official tool for comparing Part D plans by drug costs
+- [Medicare.gov, Part D Costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage), Details premiums, deductibles, and cost-sharing structure
 
 ---
 
@@ -143,7 +143,7 @@ The annual Open Enrollment window closes December 7, which means most people are
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15) — The original bestselling guide to navigating Medicare and Social Security timing — over 100,000 copies sold.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
 

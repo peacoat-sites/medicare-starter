@@ -35,8 +35,8 @@ If you're here because you or someone you love is approaching 65, facing a serio
   <div class="vm-head">Medicare vs Medicaid: Side-by-Side Comparison</div>
   <div class="vm-body">
     <p class="vm-intro">This table compares the two programs across the criteria that matter most when determining which applies to you or a family member.</p>
-    <table><thead><tr><th>Criteria</th><th>Medicare</th><th>Medicaid</th></tr></thead><tbody><tr><td>Primary eligibility</td><td>Age 65+ OR under 65 with qualifying disability/ESRD</td><td>Income below state threshold (often 138% of federal poverty level in expansion states)</td></tr><tr><td>Income limits</td><td>None—billionaires and minimum-wage retirees both qualify</td><td>Yes—varies by state; typically $1,500–$2,000/month for single adult</td></tr><tr><td>Asset limits</td><td>None</td><td>Some states: $2,000–$130,000+ depending on state and program type</td></tr><tr><td>Who runs it</td><td>Federal government (CMS) with uniform national rules</td><td>State governments following federal guidelines—50 different versions</td></tr><tr><td>Monthly premiums</td><td>Part A: $0 if work history qualifies; Part B: ~$175/month (income-adjusted)</td><td>$0 or nominal copays in most states</td></tr><tr><td>Long-term nursing home care</td><td>Limited: only 100 days post-hospitalization in skilled nursing facility</td><td>Yes—covers extended nursing home stays (largest payer of nursing home care in U.S.)</td></tr><tr><td>Prescription drugs</td><td>Part D plan required (separate premium)</td><td>Included in coverage</td></tr><tr><td>Dental/vision/hearing</td><td>Generally NOT covered under Original Medicare</td><td>Often covered (varies by state)</td></tr><tr><td>Can you have both?</td><td colspan="2">Yes—"dual eligible" individuals qualify for both; Medicaid typically pays Medicare premiums and fills coverage gaps</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <table><thead><tr><th>Criteria</th><th>Medicare</th><th>Medicaid</th></tr></thead><tbody><tr><td>Primary eligibility</td><td>Age 65+ OR under 65 with qualifying disability/ESRD</td><td>Income below state threshold (often 138% of federal poverty level in expansion states)</td></tr><tr><td>Income limits</td><td>None-billionaires and minimum-wage retirees both qualify</td><td>Yes-varies by state; typically $1,500–$2,000/month for single adult</td></tr><tr><td>Asset limits</td><td>None</td><td>Some states: $2,000–$130,000+ depending on state and program type</td></tr><tr><td>Who runs it</td><td>Federal government (CMS) with uniform national rules</td><td>State governments following federal guidelines-50 different versions</td></tr><tr><td>Monthly premiums</td><td>Part A: $0 if work history qualifies; Part B: ~$175/month (income-adjusted)</td><td>$0 or nominal copays in most states</td></tr><tr><td>Long-term nursing home care</td><td>Limited: only 100 days post-hospitalization in skilled nursing facility</td><td>Yes-covers extended nursing home stays (largest payer of nursing home care in U.S.)</td></tr><tr><td>Prescription drugs</td><td>Part D plan required (separate premium)</td><td>Included in coverage</td></tr><tr><td>Dental/vision/hearing</td><td>Generally NOT covered under Original Medicare</td><td>Often covered (varies by state)</td></tr><tr><td>Can you have both?</td><td colspan="2">Yes-"dual eligible" individuals qualify for both; Medicaid typically pays Medicare premiums and fills coverage gaps</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -119,8 +119,8 @@ These two programs have helped hundreds of millions of people since Medicare and
 
 ## Sources & References
 
-- [Medicare.gov — What is Medicare?](https://www.medicare.gov/what-medicare-covers) — Explains Medicare eligibility, coverage, and who qualifies
-- [CMS.gov — Medicare-Medicaid Coordination](https://www.cms.gov/Medicare-Medicaid-Coordination/Medicare-and-Medicaid-Coordination/Medicare-Medicaid-Coordination-Office) — Explains dual eligibility and how programs interact
+- [Medicare.gov, What is Medicare?](https://www.medicare.gov/what-medicare-covers), Explains Medicare eligibility, coverage, and who qualifies
+- [CMS.gov, Medicare-Medicaid Coordination](https://www.cms.gov/Medicare-Medicaid-Coordination/Medicare-and-Medicaid-Coordination/Medicare-Medicaid-Coordination-Office), Explains dual eligibility and how programs interact
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
@@ -136,6 +136,6 @@ These two programs have helped hundreds of millions of people since Medicare and
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

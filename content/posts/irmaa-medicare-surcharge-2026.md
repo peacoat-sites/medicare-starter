@@ -40,7 +40,7 @@ So let's get into what IRMAA actually is, what the 2026 numbers look like, and, 
   <div class="vm-body">
     <p class="vm-intro">Below are the projected 2026 IRMAA brackets showing how your 2024 MAGI triggers progressively higher Part B and Part D surcharges (figures are illustrative based on historical bracket patterns; official 2026 numbers release in fall 2025).</p>
     <table><caption>2026 IRMAA Tiers: 2024 MAGI Thresholds and Estimated Monthly Premiums</caption><thead><tr><th scope="col">Tier</th><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Est. Part B Monthly</th><th scope="col">Est. Part D Surcharge</th><th scope="col">Annual Extra Cost (Single)</th></tr></thead><tbody><tr><td>Standard (no IRMAA)</td><td>≤$106,000</td><td>≤$212,000</td><td>$190</td><td>$0</td><td>$0</td></tr><tr><td>Tier 1</td><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$266</td><td>$13</td><td>$1,068</td></tr><tr><td>Tier 2</td><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$380</td><td>$34</td><td>$2,688</td></tr><tr><td>Tier 3</td><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$494</td><td>$55</td><td>$4,308</td></tr><tr><td>Tier 4</td><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$608</td><td>$76</td><td>$5,928</td></tr><tr><td>Tier 5 (Max)</td><td>&gt;$500,000</td><td>&gt;$750,000</td><td>$628</td><td>$85</td><td>$6,276</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -157,6 +157,6 @@ The two-year lookback makes IRMAA feel like you're always reacting rather than p
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

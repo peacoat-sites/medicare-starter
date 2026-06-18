@@ -111,8 +111,8 @@ If you're just starting Medicare in New York, the single most useful thing you c
 
 ## Sources & References
 
-- [Medicare.gov — What Medicare covers](https://www.medicare.gov/what-medicare-covers) — supports Part A/B coverage details and 2024 costs
-- [Medicare.gov — Costs for Medicare drug coverage](https://www.medicare.gov/basics/costs/medicare-costs) — supports deductibles, premiums, IRMAA information
+- [Medicare.gov, What Medicare covers](https://www.medicare.gov/what-medicare-covers), supports Part A/B coverage details and 2024 costs
+- [Medicare.gov, Costs for Medicare drug coverage](https://www.medicare.gov/basics/costs/medicare-costs), supports deductibles, premiums, IRMAA information
 
 *Photo: [Abhishek  Navlakha](https://www.pexels.com/@navlakha) via Pexels*
 
@@ -126,6 +126,6 @@ If you're just starting Medicare in New York, the single most useful thing you c
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

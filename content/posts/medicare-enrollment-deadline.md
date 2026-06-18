@@ -36,7 +36,7 @@ Medicare deadlines are genuinely confusing, and I say that with zero condescensi
   <div class="vm-body">
     <p class="vm-intro">This matrix shows each Medicare enrollment period, who it applies to, and the concrete consequences of missing it.</p>
     <table><caption>Medicare Enrollment Periods: Timing, Eligibility, and Penalties</caption><thead><tr><th>Enrollment Period</th><th>Who It's For</th><th>Window</th><th>What You Can Do</th><th>Consequence of Missing It</th></tr></thead><tbody><tr><td>Initial Enrollment Period (IEP)</td><td>People turning 65 or qualifying via disability</td><td>7 months: 3 months before birthday month through 3 months after</td><td>Enroll in Parts A, B, D, or Medicare Advantage</td><td>Part B: 10% premium penalty per 12-month period without coverage (permanent). Coverage gap until next General Enrollment.</td></tr><tr><td>General Enrollment Period (GEP)</td><td>People who missed their IEP and don't qualify for a Special Enrollment Period</td><td>January 1 – March 31 each year</td><td>Enroll in Part A and/or Part B</td><td>Coverage doesn't start until July 1. Late penalties still apply.</td></tr><tr><td>Special Enrollment Period (SEP)</td><td>People with qualifying life events (e.g., losing employer coverage, moving)</td><td>Typically 8 months after employment or group coverage ends; varies by event</td><td>Enroll in Parts A, B, D, or Medicare Advantage without penalty</td><td>If you miss the SEP window, you wait for GEP and face potential penalties.</td></tr><tr><td>Annual Election Period (AEP)</td><td>Current Medicare beneficiaries</td><td>October 15 – December 7 each year</td><td>Switch Medicare Advantage plans, switch to/from Original Medicare, change Part D plans</td><td>Stuck with current plan until next AEP (with limited exceptions).</td></tr><tr><td>Medicare Advantage Open Enrollment</td><td>People currently in a Medicare Advantage plan</td><td>January 1 – March 31 each year</td><td>Switch to a different Advantage plan or return to Original Medicare + add Part D</td><td>No penalty, but no other opportunity to switch until next AEP.</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -128,6 +128,6 @@ Deadlines feel abstract until they aren't. The people who end up paying penaltie
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

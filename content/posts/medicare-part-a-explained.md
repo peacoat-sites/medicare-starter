@@ -123,8 +123,8 @@ Medicare Part A is the foundation of your hospital coverage, and for most people
 
 ## Sources & References
 
-- [Medicare.gov — What Part A Covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers) — Official details on Part A hospital, SNF, hospice, home health coverage
-- [CMS.gov — Medicare Benefit Policy Manual](https://www.cms.gov/medicare/medicare-general-information/bni) — Authoritative source for coverage rules and eligibility requirements
+- [Medicare.gov, What Part A Covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers), Official details on Part A hospital, SNF, hospice, home health coverage
+- [CMS.gov, Medicare Benefit Policy Manual](https://www.cms.gov/medicare/medicare-general-information/bni), Authoritative source for coverage rules and eligibility requirements
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -140,6 +140,6 @@ Medicare Part A is the foundation of your hospital coverage, and for most people
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

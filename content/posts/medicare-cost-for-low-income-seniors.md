@@ -38,9 +38,9 @@ Let me give you the real picture.
 <div class="value-module">
   <div class="vm-head">Medicare Savings Programs Eligibility at a Glance</div>
   <div class="vm-body">
-    <p class="vm-intro">These four Medicare Savings Programs (MSPs) cover different cost levels based on your income and assets—here's how they compare for 2024.</p>
+    <p class="vm-intro">These four Medicare Savings Programs (MSPs) cover different cost levels based on your income and assets-here's how they compare for 2024.</p>
     <table><caption>Medicare Savings Programs: Income Limits and Benefits (2024)</caption><thead><tr><th>Program</th><th>Monthly Income Limit (Individual)</th><th>Asset Limit (Individual)</th><th>What It Pays</th></tr></thead><tbody><tr><td>Qualified Medicare Beneficiary (QMB)</td><td>≤ $1,275</td><td>≤ $9,430</td><td>Part A premium, Part B premium, deductibles, coinsurance, copays</td></tr><tr><td>Specified Low-Income Medicare Beneficiary (SLMB)</td><td>$1,275 – $1,528</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualifying Individual (QI)</td><td>$1,528 – $1,715</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualified Disabled and Working Individuals (QDWI)</td><td>≤ $4,945</td><td>≤ $4,000</td><td>Part A premium only (for those who lost premium-free Part A)</td></tr></tbody><tfoot><tr><td colspan="4">Note: Limits shown are federal minimums; most states set higher thresholds. Couples' limits are roughly 35% higher. Assets exclude home, one car, burial funds, and personal belongings. Apply through your state Medicaid office or at ssa.gov.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -142,8 +142,8 @@ The programs are real, the savings are real, and the barriers to applying are sm
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

@@ -38,9 +38,9 @@ Here's what I want to do in this article: walk you through what Part B actually 
 <div class="value-module">
   <div class="vm-head">IRMAA Brackets: Your 2026 Monthly Cost</div>
   <div class="vm-body">
-    <p class="vm-intro">Your actual Part B premium depends on your modified adjusted gross income (MAGI) from two years prior—so 2024 income determines your 2026 premium.</p>
+    <p class="vm-intro">Your actual Part B premium depends on your modified adjusted gross income (MAGI) from two years prior-so 2024 income determines your 2026 premium.</p>
     <table><caption>2026 Part B Monthly Premiums by Income (IRMAA Brackets)</caption><thead><tr><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Monthly Premium</th><th scope="col">Annual Cost</th></tr></thead><tbody><tr><td>$106,000 or less</td><td>$212,000 or less</td><td>$185.00</td><td>$2,220</td></tr><tr><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$259.00</td><td>$3,108</td></tr><tr><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$369.90</td><td>$4,439</td></tr><tr><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$480.80</td><td>$5,770</td></tr><tr><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$591.70</td><td>$7,100</td></tr><tr><td>Above $500,000</td><td>Above $750,000</td><td>$628.90</td><td>$7,547</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -143,8 +143,8 @@ The $185.00 standard premium is a starting point, not a guarantee of what you'll
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

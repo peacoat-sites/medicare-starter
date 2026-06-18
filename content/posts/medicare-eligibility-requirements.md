@@ -146,8 +146,8 @@ Medicare eligibility has more layers than most people expect, and the stakes are
 
 ## Sources & References
 
-- [Medicare.gov — Eligibility & Premium Info](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare) — Official eligibility rules, enrollment periods, premium details
-- [Medicare.gov — Sign Up for Medicare](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) — Initial Enrollment Period timing and coverage start dates
+- [Medicare.gov, Eligibility & Premium Info](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare), Official eligibility rules, enrollment periods, premium details
+- [Medicare.gov, Sign Up for Medicare](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start), Initial Enrollment Period timing and coverage start dates
 
 *Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
@@ -163,6 +163,6 @@ Medicare eligibility has more layers than most people expect, and the stakes are
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

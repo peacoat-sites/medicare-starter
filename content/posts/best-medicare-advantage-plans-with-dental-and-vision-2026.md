@@ -34,9 +34,9 @@ If dental and vision coverage is a priority for you in 2026, the plan landscape 
 <div class="value-module">
   <div class="vm-head">Dental & Vision Benefit Tiers Comparison</div>
   <div class="vm-body">
-    <p class="vm-intro">Medicare Advantage dental and vision benefits vary dramatically—here's how to decode what each tier actually covers and what out-of-pocket costs to expect.</p>
+    <p class="vm-intro">Medicare Advantage dental and vision benefits vary dramatically-here's how to decode what each tier actually covers and what out-of-pocket costs to expect.</p>
     <table><caption>Medicare Advantage Dental & Vision Benefit Tiers (Illustrative 2026 Ranges)</caption><thead><tr><th>Benefit Tier</th><th>Dental Coverage</th><th>Typical Annual Max</th><th>Vision Coverage</th><th>Typical Eyewear Allowance</th><th>Best For</th></tr></thead><tbody><tr><td><strong>Basic/Preventive Only</strong></td><td>Cleanings, X-rays, exams only; no restorative work</td><td>$300–$500</td><td>Routine eye exam only; no materials</td><td>$0–$50</td><td>People with excellent oral health who rarely need dental work</td></tr><tr><td><strong>Mid-Tier/Enhanced</strong></td><td>Preventive + fillings, simple extractions; limited crowns</td><td>$1,000–$1,500</td><td>Annual exam + basic frames/lenses</td><td>$100–$150</td><td>Those needing occasional fillings or updated prescriptions</td></tr><tr><td><strong>Comprehensive</strong></td><td>Preventive + restorative + major (crowns, root canals, dentures)</td><td>$2,000–$3,000</td><td>Exam + expanded eyewear selection or contacts</td><td>$200–$300</td><td>People expecting significant dental work or premium eyewear</td></tr><tr><td><strong>Premium/Unlimited (Rare)</strong></td><td>No annual cap on covered services; lower coinsurance</td><td>$3,500+ or uncapped</td><td>Exam + allowance usable at any provider</td><td>$300–$400+</td><td>Those with ongoing dental needs or strong brand preferences</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -128,8 +128,8 @@ The single best thing you can do before the October enrollment window opens is p
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36) — The #1 veterinarian-recommended joint supplement brand — clinically studied for reducing joint pain in dogs.
-- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32) — The #1 vet-recommended probiotic for dogs — prescribed to manage diarrhea, vomiting, and intestinal upset.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
+- **[Purina Pro Plan FortiFlora Probiotic for Dogs (30ct)](https://www.amazon.com/dp/B00XEVJB84/?tag=contentportfo-20)** (~$32), The #1 vet-recommended probiotic for dogs, prescribed to manage diarrhea, vomiting, and intestinal upset.
 

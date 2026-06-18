@@ -127,8 +127,8 @@ The enrollment rules aren't designed to be friendly. They reward people who do a
 
 ## Sources & References
 
-- [Medicare.gov — Initial Enrollment Period](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start) — Explains 7-month IEP and enrollment timing rules
-- [Medicare.gov — Part B costs](https://www.medicare.gov/basics/costs/medicare-costs) — Confirms 2024 premiums and late enrollment penalties
+- [Medicare.gov, Initial Enrollment Period](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start), Explains 7-month IEP and enrollment timing rules
+- [Medicare.gov, Part B costs](https://www.medicare.gov/basics/costs/medicare-costs), Confirms 2024 premiums and late enrollment penalties
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -142,6 +142,6 @@ The enrollment rules aren't designed to be friendly. They reward people who do a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

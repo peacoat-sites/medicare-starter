@@ -26,11 +26,11 @@ author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of sen
 
 ---
 
-Most people find out the hard way. They turn 65, sign up for Medicare, feel genuinely relieved to have health coverage sorted out — and then they need a crown. Suddenly they're staring at a $1,200 dentist bill with absolutely no help from the federal insurance they've been paying into for decades.
+Most people find out the hard way. They turn 65, sign up for Medicare, feel genuinely relieved to have health coverage sorted out, and then they need a crown. Suddenly they're staring at a $1,200 dentist bill with absolutely no help from the federal insurance they've been paying into for decades.
 
 Here's the honest truth: Original Medicare (that's Part A and Part B, the traditional federal program) covers almost nothing when it comes to your teeth. Not cleanings. Not fillings. Not dentures. Not extractions, except in very specific hospital settings. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) makes this explicit in their coverage rules, and it catches people completely off guard every single year.
 
-I'll be honest — even after years in this field, I find the dental gap in Medicare genuinely frustrating on behalf of the people I work with. A 67-year-old on a fixed income shouldn't have to choose between a root canal and groceries. But understanding exactly where the gap is, and what your real options are, makes a bigger difference than most people realize.
+I'll be honest, even after years in this field, I find the dental gap in Medicare genuinely frustrating on behalf of the people I work with. A 67-year-old on a fixed income shouldn't have to choose between a root canal and groceries. But understanding exactly where the gap is, and what your real options are, makes a bigger difference than most people realize.
 
 
 <div class="value-module">
@@ -38,7 +38,7 @@ I'll be honest — even after years in this field, I find the dental gap in Medi
   <div class="vm-body">
     <p class="vm-intro">Here are typical out-of-pocket costs for common dental procedures that Original Medicare does not cover, helping you estimate potential expenses.</p>
     <table><caption>Illustrative Dental Procedure Costs (2024 U.S. Averages)</caption><thead><tr><th>Procedure</th><th>Typical Cost Range</th><th>Frequency Needed</th><th>Budget Planning Note</th></tr></thead><tbody><tr><td>Routine cleaning (prophylaxis)</td><td>$75–$200</td><td>Every 6 months</td><td>$150–$400/year ongoing</td></tr><tr><td>Full exam with X-rays</td><td>$150–$350</td><td>Annually</td><td>Often bundled with cleaning</td></tr><tr><td>Single filling (composite)</td><td>$150–$400</td><td>As needed</td><td>Cost varies by tooth size/location</td></tr><tr><td>Root canal (molar)</td><td>$1,000–$1,500</td><td>One-time per tooth</td><td>Add $800–$1,500 for required crown</td></tr><tr><td>Crown (porcelain)</td><td>$800–$1,500</td><td>One-time per tooth</td><td>May need replacement after 10–15 years</td></tr><tr><td>Simple extraction</td><td>$150–$300</td><td>One-time per tooth</td><td>Surgical extractions cost more</td></tr><tr><td>Full upper or lower dentures</td><td>$1,000–$3,000</td><td>Replace every 5–10 years</td><td>Add $300–$500 for adjustments/relines</td></tr><tr><td>Single dental implant</td><td>$3,000–$6,000</td><td>One-time (typically permanent)</td><td>Includes post, abutment, and crown</td></tr><tr><td>Periodontal deep cleaning</td><td>$500–$1,200</td><td>As prescribed</td><td>Often billed per quadrant of mouth</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ Community health centers operated under FQHC (Federally Qualified Health Center)
 
 Dental schools are seriously underutilized by seniors. Schools like NYU College of Dentistry, UCLA School of Dentistry, and hundreds of others around the country offer dental services performed by supervised students at dramatically reduced prices, sometimes 50% to 80% below typical fees. The work takes longer, but the quality is supervised by licensed faculty. For people in or near cities with dental schools, this is genuinely one of the best-kept secrets in reducing out-of-pocket costs.
 
-Dental tourism — going to Mexico or another country for major dental work — is real, it's common, and the research here is honestly mixed. People in border states like Texas, Arizona, and California have been crossing for decades with good experiences and real savings. The risks are real too: follow-up care if something goes wrong is complicated, and quality varies widely by provider. It's not something I'd recommend casually, but I'd be leaving something out if I didn't mention it.
+Dental tourism, going to Mexico or another country for major dental work, is real, it's common, and the research here is honestly mixed. People in border states like Texas, Arizona, and California have been crossing for decades with good experiences and real savings. The risks are real too: follow-up care if something goes wrong is complicated, and quality varies widely by provider. It's not something I'd recommend casually, but I'd be leaving something out if I didn't mention it.
 
 State Medicaid programs cover dental for low-income seniors in some states, though coverage varies dramatically. Your state's [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) can point you toward income-based programs available in your state. SHIP counselors are free, unbiased, and often have deep knowledge of local resources that aren't well-publicized.
 
@@ -113,8 +113,8 @@ The coverage gap is real, it's been there since the beginning of Medicare, and i
 
 ## Sources & References
 
-- [Medicare.gov — Dental services coverage](https://www.medicare.gov/coverage/dental-services) — confirms Original Medicare excludes most dental care
-- [CMS.gov — Medicare Benefit Policy Manual](https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/bp102c15.pdf) — official policy on limited dental exceptions
+- [Medicare.gov, Dental services coverage](https://www.medicare.gov/coverage/dental-services), confirms Original Medicare excludes most dental care
+- [CMS.gov, Medicare Benefit Policy Manual](https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/bp102c15.pdf), official policy on limited dental exceptions
 
 *Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
 
@@ -128,8 +128,8 @@ The coverage gap is real, it's been there since the beginning of Medicare, and i
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

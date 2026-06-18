@@ -122,9 +122,9 @@ California Medicare is genuinely complex, but it's not impossible to figure out 
 
 ## Sources & References
 
-- [Medicare.gov — What Medicare Covers](https://www.medicare.gov/what-medicare-covers) — Explains Part A and Part B coverage details
-- [Medicare.gov — Costs](https://www.medicare.gov/basics/costs/medicare-costs) — Current premiums, deductibles, and cost-sharing information
-- [California SHIP — Health Insurance Counseling](https://www.aging.ca.gov/Programs_and_Services/Medicare_Counseling/) — Free California-specific Medicare counseling and resources
+- [Medicare.gov, What Medicare Covers](https://www.medicare.gov/what-medicare-covers), Explains Part A and Part B coverage details
+- [Medicare.gov, Costs](https://www.medicare.gov/basics/costs/medicare-costs), Current premiums, deductibles, and cost-sharing information
+- [California SHIP, Health Insurance Counseling](https://www.aging.ca.gov/Programs_and_Services/Medicare_Counseling/), Free California-specific Medicare counseling and resources
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -140,6 +140,6 @@ California Medicare is genuinely complex, but it's not impossible to figure out 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

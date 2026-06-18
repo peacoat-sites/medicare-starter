@@ -34,7 +34,7 @@ You spent decades paying into Medicare, and now that you're finally eligible, yo
   <div class="vm-body">
     <p class="vm-intro">Use this matrix to match your healthcare patterns with the right plan structure before comparing specific insurers in your state.</p>
     <table><caption>Which Medicare Advantage Plan Type Fits Your Situation</caption><thead><tr><th>Your Situation</th><th>HMO</th><th>PPO</th><th>HMO-POS</th><th>PFFS</th></tr></thead><tbody><tr><td>All doctors are in one health system</td><td>Strong fit</td><td>Overpaying for flexibility</td><td>Acceptable</td><td>Rarely needed</td></tr><tr><td>See specialists without referrals</td><td>Poor fit</td><td>Strong fit</td><td>Limited fit</td><td>Strong fit</td></tr><tr><td>Travel or live in multiple states seasonally</td><td>Poor fit (emergency only)</td><td>Good fit</td><td>Moderate fit</td><td>Strong fit</td></tr><tr><td>Want lowest possible premium</td><td>Best odds ($0 premiums common)</td><td>Moderate ($20-80 typical)</td><td>Moderate</td><td>Variable</td></tr><tr><td>Need specific specialist outside networks</td><td>Poor fit</td><td>Workable (higher cost-share)</td><td>Workable with referral</td><td>Check if provider accepts</td></tr><tr><td>Prefer care coordination by one doctor</td><td>Strong fit</td><td>Optional</td><td>Strong fit</td><td>Self-directed</td></tr><tr><td>Rural area with limited provider networks</td><td>Check network carefully</td><td>Better flexibility</td><td>Check network</td><td>Often best rural option</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
 
@@ -156,6 +156,6 @@ Choosing a Medicare Advantage plan is one of the most personal financial decisio
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

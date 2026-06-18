@@ -184,8 +184,8 @@ When your employer coverage ends, you trigger a Special Enrollment Period that g
 
 ## Sources & References
 
-- [Medicare.gov — Who pays first](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65) — Explains coordination rules based on employer size
-- [Medicare.gov — Late enrollment penalties](https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties) — Explains penalties for delayed Medicare enrollment
+- [Medicare.gov, Who pays first](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/working-past-65), Explains coordination rules based on employer size
+- [Medicare.gov, Late enrollment penalties](https://www.medicare.gov/basics/costs/medicare-costs/avoid-penalties), Explains penalties for delayed Medicare enrollment
 
 ---
 
@@ -193,8 +193,8 @@ When your employer coverage ends, you trigger a Special Enrollment Period that g
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 
