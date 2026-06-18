@@ -2,7 +2,7 @@
 title: "Medicare Hearing Aid Coverage Cost"
 date: 2026-06-05T12:21:46.593529+00:00
 draft: false
-description: "Learn what Medicare covers for hearing aids, how much you can expect to pay out of pocket, and ways to reduce your hearing care costs in 2024."
+description: "Learn what Medicare covers for hearing aids, how much you can expect to pay out of pocket, and ways to reduce your hearing care costs."
 image: "https://images.pexels.com/photos/11340544/pexels-photo-11340544.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "hearing", "coverage", "cost"]

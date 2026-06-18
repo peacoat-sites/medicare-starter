@@ -2,7 +2,7 @@
 title: "Plan G Vs Plan N Medicare Supplement"
 date: 2026-05-23T10:43:05.519256+00:00
 draft: false
-description: "Compare Medicare Supplement Plan G vs Plan N costs, coverage, and benefits to find the best fit for your healthcare needs and budget in 2024."
+description: "Compare Medicare Supplement Plan G vs Plan N costs, coverage, and benefits to find the best fit for your healthcare needs and budget."
 image: https://images.pexels.com/photos/5583966/pexels-photo-5583966.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
 categories: ["Medigap Plans"]
 tags: ["Plan", "Plan", "Medicare", "supplement"]
