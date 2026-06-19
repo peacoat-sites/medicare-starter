@@ -25,7 +25,6 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 
 ---
-
 You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent late enrollment penalty for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. I've sat with people in exactly this position for two decades, and I can tell you: the right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.
 
 ## What Medicare Part D Actually Is (And What It Isn't)
@@ -37,10 +36,6 @@ Here's what trips people up: Part D plans are sold by private insurance companie
 Each plan has what's called a formulary. Think of it as the plan's official drug list. Drugs are organized into "tiers," and the tier your medication sits on determines your cost. A generic might be Tier 1 with a $2 copay. A brand-name drug you can't substitute might sit on Tier 4 or Tier 5 with costs that climb into the hundreds per fill. Knowing your formulary is the single most important thing you can do before picking a plan.
 
 ## The Five Things You Need to Know Before You Compare Plans
-
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Before you open a single comparison website, gather this information. Without it, any plan comparison is just guessing.
 
@@ -106,12 +101,7 @@ The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/
 
 You can also work with a licensed insurance broker who specializes in Medicare. A good broker can be enormously helpful, but make sure you understand they're typically compensated by the insurance companies whose plans they sell. That doesn't mean their advice is bad, but it's worth knowing. Ask them upfront whether they represent all carriers in your area or just a few.
 
----
-
-
----
-
-Choosing a Part D plan isn't something you do once and forget. It's a decision worth revisiting every fall, because your health changes, your medications change, and plans change. The good news is that the tools and free help available to you today are genuinely excellent. Use the Plan Finder at Medicare.gov with your actual drug list, consider a free session with your local SHIP counselor if you want a second set of eyes, and don't let the volume of mail you're receiving convince you that this has to be complicated. With the right information in front of you, it's a very manageable decision.
+Choosing a Part D plan isn't something you do once and forget. Every fall, your medications might change, your plans might change, your health might change. The good news? The tools and free help available to you today are genuinely excellent. Use the Plan Finder at Medicare.gov with your actual drug list, consider a free session with your local SHIP counselor if you want another set of eyes, and don't let the volume of mail you're receiving convince you that this has to be complicated. With the right information in front of you, it's a manageable decision.
 
 ## Helpful Resources
 
@@ -134,8 +124,6 @@ Choosing a Part D plan isn't something you do once and forget. It's a decision w
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -143,4 +131,3 @@ Choosing a Part D plan isn't something you do once and forget. It's a decision w
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
-

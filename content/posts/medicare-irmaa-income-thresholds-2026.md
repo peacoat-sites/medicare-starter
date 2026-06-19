@@ -24,24 +24,19 @@ faqs:
   - q: "How will I know if I owe an IRMAA surcharge?"
     a: "Social Security mails a notice, typically in November or December before the coverage year starts. It will tell you your income tier and your resulting premium. If you disagree with it, you have 60 days from the date of the notice to request a reconsideration."
 ---
-
 Most people discover IRMAA the worst possible way: they get their Medicare premium letter in the fall, see a number that's $100 or $200 higher than they expected, and spend the next week convinced Social Security made a clerical error. They didn't. That's IRMAA doing exactly what it was designed to do, and the surprise is almost always avoidable.
 
-IRMAA stands for Income-Related Monthly Adjustment Amount. It's the surcharge that higher-income Medicare beneficiaries pay on top of the standard Part B and Part D premiums. I'll be honest: after two decades of walking seniors through their Medicare options, I still think IRMAA is one of the most misunderstood pieces of the whole program. Not because it's complicated in theory, but because the income year it's based on trips people up every single time.
+IRMAA stands for Income-Related Monthly Adjustment Amount. It's the surcharge that higher-income Medicare beneficiaries pay on top of the standard Part B and Part D premiums. After two decades of walking seniors through their Medicare options, I still think IRMAA is one of the most misunderstood pieces of the whole program. Not because it's complicated in theory, but because the income year it's based on trips people up every single time.
 
 ## How IRMAA Actually Works (And the Part Everyone Gets Wrong)
 
-Here's the thing that catches almost everyone off guard. Medicare doesn't look at what you earned this year to decide your surcharge. It reaches back two years. Your 2026 IRMAA surcharge is based on your 2024 income, specifically your Modified Adjusted Gross Income, or MAGI. MAGI for Medicare purposes is your Adjusted Gross Income plus any tax-exempt interest income you received. That's the number on line 11 of your Form 1040, plus line 2a.
+Here's what catches almost everyone off guard: Medicare doesn't look at what you earned this year to decide your surcharge. It reaches back two years. Your 2026 IRMAA surcharge is based on your 2024 income, specifically your Modified Adjusted Gross Income, or MAGI. MAGI for Medicare purposes is your Adjusted Gross Income plus any tax-exempt interest income you received. That's the number on line 11 of your Form 1040, plus line 2a.
 
 What surprised me, even after seeing it hundreds of times, is how often this catches retirees who sold a home, took a large IRA distribution, or converted funds to a Roth IRA in 2024. They're past that financial event, they've moved on, and then IRMAA shows up in 2026 like an uninvited houseguest reminding them of it. The Centers for Medicare & Medicaid Services (https://www.cms.gov/) uses your tax return data directly from the IRS, so there's no paperwork you submit yourself. The process is automatic, which is convenient until the number isn't what you want to see.
 
 The Social Security Administration sends out the IRMAA determination letters, typically in November or December before the coverage year begins. If you're already on Medicare and your income crossed a threshold, you'll get a notice. If you're newly enrolling, it'll be factored into your first premium bill.
 
 ## The 2026 IRMAA Thresholds, Spelled Out
-
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what the brackets actually look like for 2026. I want to be upfront: these figures reflect the thresholds as adjusted for inflation and released by CMS. If your situation is at or near a boundary, please verify the exact current numbers at Medicare.gov, since small adjustments do happen.
 
@@ -83,18 +78,13 @@ If you want help with any of this, your state's State Health Insurance Assistanc
 
 ## The Bigger Picture: IRMAA and Retirement Income Planning
 
-The research here is genuinely mixed on how much impact IRMAA has on retirement income strategies overall, because it depends so heavily on individual circumstances. But what I'll say clearly: for people with income hovering near a threshold, the dollar impact is real enough that it deserves attention, not as an afterthought, but as part of actual planning conversations.
+The research here is genuinely mixed on how much impact IRMAA has on retirement income strategies overall, because it depends so heavily on individual circumstances. But here's what I'll say clearly: for people with income hovering near a threshold, the dollar impact is real enough that it deserves attention, not as an afterthought, but as part of actual planning conversations.
 
 Some people deliberately manage income to stay under $106,000 individually. Others decide the tax benefits of a Roth conversion outweigh a temporary IRMAA bump and pay the surcharge for one or two years knowingly. Neither approach is wrong. But the worst outcome is what I see most: someone triggers a threshold accidentally, doesn't understand why their premium jumped, and then doesn't know they might be able to appeal or adjust course going forward.
 
-One more wrinkle worth knowing: if you're enrolled in a Medicare Advantage plan (Part C) rather than Original Medicare, you still pay the Part B premium, which includes any IRMAA surcharge. Some people assume that switching to Medicare Advantage makes IRMAA go away. It doesn't.
+If you're enrolled in a Medicare Advantage plan (Part C) rather than Original Medicare, you still pay the Part B premium, which includes any IRMAA surcharge. Some people assume that switching to Medicare Advantage makes IRMAA go away. It doesn't.
 
----
-
-
----
-
-If you're anywhere near an IRMAA threshold, the smartest thing you can do right now is pull your 2024 tax return and do the math before the premium letter arrives. Don't let November's mail be the first time you find out.
+If you're anywhere near an IRMAA threshold, pull your 2024 tax return and do the math before the premium letter arrives. Don't let November's mail be the first time you find out.
 
 ## Helpful Resources
 
@@ -103,7 +93,6 @@ If you're anywhere near an IRMAA threshold, the smartest thing you can do right 
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 
@@ -119,4 +108,3 @@ If you're anywhere near an IRMAA threshold, the smartest thing you can do right 
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

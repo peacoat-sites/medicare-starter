@@ -25,7 +25,6 @@ author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 
 ---
-
 Most people miss their Medicare enrollment window not because they're careless, but because the rules are genuinely confusing and the official guidance buries the deadline math in bureaucratic language. Let me fix that.
 
 You turn 65. You have exactly seven months to sign up for Medicare without penalty. That window opens three months before your birthday month, includes your birthday month, and closes three months after. Miss it, and you could pay a 10% surcharge on your Part B premium for every 12-month period you were late. That surcharge doesn't go away. You carry it for life.
@@ -47,8 +46,6 @@ Medicare has four main pieces, and conflating them is where most confusion start
 ## Who Has to Sign Up at 65 (And Who Doesn't)
 
 > **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the part most articles get wrong, or at least underexplain.
 
@@ -72,7 +69,7 @@ The fix: you can appeal IRMAA if you've had a "life-changing event" like retirem
 
 ## Medigap, Advantage, or Bare Original Medicare?
 
-Choosing how to structure your coverage is a separate decision from enrollment, but it's tangled up in timing because of one rule that doesn't get nearly enough attention.
+Choosing how to structure your coverage is separate from enrollment, but it's tangled up in timing because of one rule that doesn't get nearly enough attention.
 
 When you first enroll in Part B, you have a six-month Medigap Open Enrollment Period. During those six months, any Medicare Supplement (Medigap) insurer licensed in your state must sell you a policy at standard rates, regardless of your health history. Pre-existing conditions can't affect your acceptance or your price.
 
@@ -80,19 +77,19 @@ After that window closes, insurers in most states can reject you, or charge you 
 
 I lean toward telling people to take this window seriously. If you're 65 and healthy, you might look at Medigap Plan G premiums and think "why am I paying $150 to $200 a month when I feel fine?" But the point of that window is to lock in coverage before you're not fine. People who buy Medigap at 65 and then develop a serious illness in their 70s are extremely glad they did. People who try to switch to Medigap after a cancer diagnosis often can't.
 
-Medicare Advantage has its own appeal: lower upfront premiums, dental, vision, sometimes a gym membership. But the network restrictions and prior authorization requirements tend to bite harder as your healthcare needs increase. Not a universal truth, but a common pattern.
+Medicare Advantage has lower upfront premiums, dental, vision, sometimes a gym membership. The tradeoff: network restrictions and prior authorization requirements tend to bite harder as your healthcare needs increase. Not a universal truth, but a pattern I've seen repeatedly.
 
-For an independent comparison of Medigap plans, the [*Medicare Supplement Insurance* book from NOLO](https://www.nolo.com/) is genuinely useful. (Note: this site may earn a commission on purchases.) For completely free, unbiased help, your state's [SHIP (State Health Insurance Assistance Program)](https://www.shiphelp.org/) offers one-on-one counseling at no charge. These are trained volunteers who have no financial stake in what you choose, which is rarer than it should be.
+For an independent comparison of Medigap plans, the [*Medicare Supplement Insurance* book from NOLO](https://www.nolo.com/) is genuinely useful. (Note: this site may earn a commission on purchases.) For free, unbiased help with zero financial incentives, your state's [SHIP (State Health Insurance Assistance Program)](https://www.shiphelp.org/) offers one-on-one counseling at no charge. These are trained volunteers who have no stake in what you choose.
 
 ## The Actual Steps, In Order
 
-You're turning 65 in, say, April. Here's how I'd walk through it:
+You're turning 65 in April. Here's how I'd walk through it:
 
-Start in January. Review whether you have any qualifying employer coverage. If you don't, you need to enroll in Part B before April ends to avoid a gap. Go to Medicare.gov, log into (or create) your my Social Security account, and apply.
+Start in January. Review whether you have any qualifying employer coverage. If you don't, enroll in Part B before April ends to avoid a gap. Go to Medicare.gov, log into (or create) your my Social Security account, and apply.
 
 Simultaneously, decide on Part D. Even if you take no prescriptions, enroll in the cheapest available plan in your area rather than skipping it entirely. The late penalty math is unforgiving, and a $5-a-month plan beats a lifetime surcharge.
 
-Within the first month after your Part B effective date, evaluate your Medigap options. Get quotes from multiple insurers. Premiums for the same plan can vary significantly between carriers because each company sets its own rates. Plan G is the most comprehensive option available to new Medicare enrollees (Plan F closed to new enrollees in 2020). Plan N costs less but involves some copays.
+Within the first month after your Part B effective date, evaluate your Medigap options. Get quotes from multiple insurers. Premiums for the same plan can vary significantly between carriers. Plan G is the most comprehensive option available to new Medicare enrollees (Plan F closed to new enrollees in 2020). Plan N costs less but involves some copays.
 
 If you're leaning toward Medicare Advantage instead, compare plans during the fall Annual Enrollment Period (October 15 through December 7), with coverage starting January 1. You can also make this switch during your Initial Enrollment Period.
 
@@ -104,16 +101,11 @@ Waiting until your birthday month to enroll. Your coverage doesn't start until t
 
 Assuming your spouse's employer coverage protects you. It might. Depends entirely on the employer size and plan structure. Verify in writing before you rely on it.
 
-Ignoring Part D because you're healthy. See above. The penalty is permanent and calculated on a base that changes annually, so the longer you wait, the worse it gets.
+Ignoring Part D because you're healthy. The penalty is permanent and calculated on a base that changes annually. The longer you wait, the worse it gets.
 
 Not checking for Extra Help. If your income and assets are limited, you may qualify for the Low Income Subsidy (LIS), which dramatically reduces Part D costs. The income thresholds are higher than most people expect. Check at Medicare.gov before assuming you don't qualify.
 
 Missing the IRMAA appeal when income dropped at retirement. File SSA-44. It's four pages and can save you thousands.
-
----
-
-
----
 
 The enrollment rules aren't designed to be friendly. They reward people who do a little homework early and penalize those who assume it'll sort itself out. It won't. A conversation with a SHIP counselor, a half hour on Medicare.gov, and enrolling before your birthday month arrives will put you in better shape than most.
 
@@ -144,4 +136,3 @@ The enrollment rules aren't designed to be friendly. They reward people who do a
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

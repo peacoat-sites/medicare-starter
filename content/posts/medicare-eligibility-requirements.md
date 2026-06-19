@@ -25,7 +25,6 @@ author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 
 ---
-
 You worked for 35 years, paid into the system every single paycheck, and now you're 64 and wondering: "Wait, am I actually going to qualify for Medicare?" Most people assume it's automatic. It's not quite that simple. There are specific rules around age, work history, disability status, and citizenship that determine whether you qualify, what you'll pay, and when you can enroll. Getting these details wrong can cost you real money in late penalties that follow you for life. Let's walk through exactly what you need to know.
 
 ---
@@ -42,13 +41,9 @@ Your Initial Enrollment Period (IEP) is a seven-month window. It starts three mo
 
 ## Medicare Eligibility Based on Disability or Illness
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Age isn't the only door into Medicare. Two other significant pathways exist for people under 65: qualifying through disability or through a specific serious illness.
 
-If you've been receiving Social Security Disability Insurance (SSDI) benefits, you'll automatically become eligible for Medicare after 24 months of receiving those disability payments. The clock starts the month your SSDI benefits begin, not the month you applied or were approved. This 24-month waiting period is one of the most painful gaps in the system, and I've sat with clients who genuinely struggled during that time.
+If you've been receiving Social Security Disability Insurance (SSDI) benefits, you'll automatically become eligible for Medicare after 24 months of receiving those disability payments. The clock starts the month your SSDI benefits begin, not the month you applied or were approved. This 24-month waiting period is genuinely brutal. I've talked with clients who struggled hard during that time.
 
 Two conditions bypass the 24-month wait entirely:
 
@@ -56,21 +51,21 @@ Two conditions bypass the 24-month wait entirely:
 
 **ALS (Amyotrophic Lateral Sclerosis, also called Lou Gehrig's Disease):** If you're approved for SSDI due to ALS, Medicare coverage begins immediately, the same month your disability benefits start. No waiting period.
 
-These exceptions exist because the medical costs associated with ESRD and ALS are so substantial that Congress specifically created faster access. If you or a loved one is dealing with either diagnosis, contact Social Security right away.
+These exceptions exist because the medical costs are staggering. Congress created faster access specifically for this reason. If you or a loved one has either diagnosis, contact Social Security right away.
 
 ---
 
 ## Understanding the Work History Requirement and Premium-Free Part A
 
-Here's where things get specific and genuinely matter for your wallet.
+Here's where it gets specific and actually matters for your wallet.
 
-Medicare Part A covers hospital care, skilled nursing facility stays, hospice, and some home health services. Most people get Part A without paying a monthly premium. But that "premium-free" status isn't guaranteed for everyone.
+Medicare Part A covers hospital care, skilled nursing facility stays, hospice, and some home health services. Most people get Part A without paying a monthly premium. But that "premium-free" status isn't guaranteed.
 
 To receive premium-free Part A, you or your spouse must have paid Medicare taxes for at least 40 quarters, which equals 10 years of work. Those quarters don't have to be consecutive. They can be spread across your entire working life.
 
 If you have between 30 and 39 quarters of work history, you can still get Part A, but you'll pay a reduced monthly premium. In 2024, that premium is set by the Centers for Medicare & Medicaid Services (https://www.cms.gov/) and adjusted annually, so always check the current year's figures on Medicare.gov before planning your budget.
 
-If you have fewer than 30 quarters, you'll pay the highest Part A premium available.
+Fewer than 30 quarters? You'll pay the highest Part A premium available.
 
 A few important nuances:
 
@@ -78,19 +73,19 @@ A few important nuances:
 - Divorced spouses may also qualify through an ex-spouse's work record, as long as the marriage lasted at least 10 years and you haven't remarried.
 - Government employees who didn't pay Medicare taxes (some state and local workers fall into this category) need to pay close attention to their quarters. Some may have gaps they're unaware of.
 
-Part B, which covers doctor visits, outpatient care, and preventive services, always has a monthly premium for everyone. There's no "premium-free" version. The standard premium amount changes each year, so verify the current rate at Medicare.gov.
+Part B, which covers doctor visits, outpatient care, and preventive services, always has a monthly premium for everyone. No "premium-free" version exists. The standard premium amount changes each year, so verify the current rate at Medicare.gov.
 
 ---
 
 ## Late Enrollment Penalties: The Consequence of Missing Your Window
 
-This is the part I wish every pre-retiree understood years before they turned 65. Penalties for late enrollment aren't temporary. They can follow you for as long as you have Medicare.
+This is the part I wish every pre-retiree understood years before turning 65. Penalties for late enrollment aren't temporary. They follow you for as long as you have Medicare.
 
-**Part A Late Penalty:** If you have to pay a premium for Part A and you don't enroll when first eligible, your monthly premium increases by 10% for twice the number of years you delayed. So if you waited two years to enroll, you'll pay a higher premium for four years.
+**Part A Late Penalty:** If you have to pay a premium for Part A and you don't enroll when first eligible, your monthly premium increases by 10% for twice the number of years you delayed. Wait two years to enroll? You'll pay a higher premium for four years.
 
 **Part B Late Penalty:** For every 12-month period you were eligible but didn't enroll in Part B, your premium goes up by 10%. That penalty is permanent. Someone who waited three years could pay 30% more for Part B for the rest of their life.
 
-**Part D Late Penalty:** Part D covers prescription drug coverage. If you go 63 or more consecutive days without creditable drug coverage (meaning coverage at least as good as standard Medicare drug coverage), you'll owe a penalty when you eventually do enroll. It's calculated as 1% of the national base beneficiary premium for each full month you went without coverage, and yes, it's added to your premium permanently.
+**Part D Late Penalty:** Part D covers prescription drug coverage. If you go 63 or more consecutive days without creditable drug coverage (meaning coverage at least as good as standard Medicare drug coverage), you'll owe a penalty when you eventually enroll. It's calculated as 1% of the national base beneficiary premium for each full month you went without coverage, and yes, it sticks around permanently.
 
 There are legitimate exceptions. If you're covered by employer-sponsored health insurance through your own active employment or a spouse's active employment when you turn 65, you qualify for a Special Enrollment Period (SEP) when that coverage ends. That means you can delay Medicare without penalties. The key word is "active." Retiree insurance or COBRA coverage does not protect you from penalties the way active employer coverage does.
 
@@ -131,10 +126,7 @@ Visit Medicare.gov or call 1-800-MEDICARE (1-800-633-4227) to start the enrollme
 
 ---
 
-
----
-
-Medicare eligibility has more layers than most people expect, and the stakes are real. A missed enrollment window or a misunderstanding about what coverage "counts" can lead to penalties you'll pay for decades. My honest advice: don't wait until 64 and a half to look into this. Start reviewing your work credits and coverage situation at least two years out. And if your situation is complicated, reach out to a licensed Medicare counselor or your local SHIP office before you make any decisions. Getting this right the first time is always worth the effort.
+Medicare eligibility has more layers than most people expect, and the stakes are real. A missed enrollment window or a misunderstanding about what coverage "counts" can lead to penalties you'll pay for decades. My honest advice: don't wait until 64 and a half to look into this. Start reviewing your work credits and coverage situation at least two years out. If your situation is complicated, reach out to a licensed Medicare counselor or your local SHIP office before you make any decisions. Getting this right the first time is always worth the effort.
 
 ## Helpful Resources
 
@@ -149,7 +141,7 @@ Medicare eligibility has more layers than most people expect, and the stakes are
 - [Medicare.gov, Eligibility & Premium Info](https://www.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare), Official eligibility rules, enrollment periods, premium details
 - [Medicare.gov, Sign Up for Medicare](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start), Initial Enrollment Period timing and coverage start dates
 
-*Photo: [AI25.Studio  Studio](https://www.pexels.com/@ai25studioai) via Pexels*
+*Photo: [AI25.Studio Studio](https://www.pexels.com/@ai25studioai) via Pexels*
 
 ---
 
@@ -157,12 +149,9 @@ Medicare eligibility has more layers than most people expect, and the stakes are
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

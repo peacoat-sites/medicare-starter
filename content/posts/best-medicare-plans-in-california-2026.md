@@ -25,7 +25,6 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 
 ---
-
 Most people picking a Medicare plan in California treat it like choosing a cable package: flip through the options, pick something that sounds okay, and move on. That instinct costs them hundreds, sometimes thousands, of dollars a year. I've watched it happen more times than I can count.
 
 Here's what I'll tell you upfront: California is actually one of the best states in the country to be a Medicare beneficiary. The sheer size of the market forces insurers to compete hard, which means lower premiums, richer benefits, and more plan choices than you'll find almost anywhere else. But more options can be paralyzing. In 2026, Californians in most counties will have access to dozens of Medicare Advantage (MA) plans, several Medicare Supplement (Medigap) options, and standalone Part D (prescription drug) plans. Picking the wrong one is genuinely easy to do.
@@ -33,7 +32,6 @@ Here's what I'll tell you upfront: California is actually one of the best states
 So let me give you the real picture, not the brochure version.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">California Medicare Decision Checklist by Profile</div>
@@ -46,25 +44,23 @@ So let me give you the real picture, not the brochure version.
 
 ## First, Understand What "Best" Actually Means Here
 
-I'll be honest: there is no single best Medicare plan in California. What surprised me, even after years of helping people through this, is how wildly different the right answer can be for two people who live on the same block. A 68-year-old in San Diego who takes two generic medications and sees one specialist is looking at a completely different calculation than a 74-year-old in Fresno managing diabetes, heart disease, and a handful of brand-name prescriptions.
+There's no single best Medicare plan in California. What surprised me, even after years of helping people through this, is how wildly different the right answer can be for two people who live on the same block. A 68-year-old in San Diego who takes two generic medications and sees one specialist is looking at a completely different calculation than a 74-year-old in Fresno managing diabetes, heart disease, and a handful of brand-name prescriptions.
 
-The four things that should drive your decision are:
+Four things should drive your decision:
 
-Your doctors. Are they in network? This matters enormously with Medicare Advantage, which typically uses HMO (Health Maintenance Organization) or PPO (Preferred Provider Organization) networks. A plan with a $0 premium looks great until your cardiologist isn't on it.
+**Your doctors.** Are they in network? This matters enormously with Medicare Advantage, which typically uses HMO (Health Maintenance Organization) or PPO (Preferred Provider Organization) networks. A plan with a $0 premium looks great until your cardiologist isn't on it.
 
-Your prescriptions. Part D formularies (the list of covered drugs) vary plan to plan. A drug that costs $12 a month on one plan might cost $85 on another for the exact same pill. The Medicare Plan Finder at [Medicare.gov](https://www.medicare.gov/plan-compare/) lets you enter your specific medications and compare actual costs.
+**Your prescriptions.** Part D formularies (the list of covered drugs) vary plan to plan. A drug that costs $12 a month on one plan might cost $85 on another for the exact same pill. The Medicare Plan Finder at [Medicare.gov](https://www.medicare.gov/plan-compare/) lets you enter your specific medications and compare actual costs.
 
-Your county. California's 58 counties have dramatically different plan availability. LA County residents might have 40+ Advantage plans to choose from. Someone in Lassen County might have four.
+**Your county.** California's 58 counties have dramatically different plan availability. LA County residents might have 40+ Advantage plans to choose from. Someone in Lassen County might have four.
 
-Your health trajectory. If you're healthy now but have a family history of serious illness, the predictability of Original Medicare plus a Medigap policy might be worth paying for.
+**Your health trajectory.** If you're healthy now but have a family history of serious illness, the predictability of Original Medicare plus a Medigap policy might be worth paying for.
 
 ---
 
 ## Medicare Advantage in California: The Big Players
 
 > **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 In 2026, the Medicare Advantage market in California is dominated by a handful of carriers, and they're not all equally good.
 
@@ -82,17 +78,17 @@ One thing I'll flag: star ratings matter more than people realize. CMS uses them
 
 ## The Case for Original Medicare Plus Medigap (It's Not Dead)
 
-A lot of people assume that because so many Advantage plans advertise $0 premiums, Medigap (Medicare Supplement Insurance) is only for people with money to burn. That's not right, and it's one of the most persistent misconceptions I come across.
+A lot of people assume that because so many Advantage plans advertise $0 premiums, Medigap is only for people with money to burn. That's not right, and it's one of the most persistent misconceptions I come across.
 
-Here's the honest tradeoff. Original Medicare (Parts A and B) has no network restrictions. You can see any doctor in the country who accepts Medicare, no referrals needed. Add a Medigap policy, and you're covering most or all of the gaps in Original Medicare's cost sharing. Add a standalone Part D plan for drug coverage, and you have comprehensive, predictable coverage.
+The honest tradeoff: Original Medicare (Parts A and B) has no network restrictions. You can see any doctor in the country who accepts Medicare, no referrals needed. Add a Medigap policy, and you're covering most or all of the gaps in Original Medicare's cost sharing. Add a standalone Part D plan for drug coverage, and you have comprehensive, predictable coverage.
 
-The cost is real. A Plan G (the most popular Medigap option since Plan F closed to new enrollees in 2020), runs somewhere in the range of $100 to $250+ per month for a California beneficiary in their late 60s, depending on your age, gender, and which insurer you buy from. That's on top of your Part B premium (in 2026, the standard Part B premium is $185.00 per month). So yes, you're paying more upfront.
+The cost is real. A Plan G (the most popular Medigap option since Plan F closed to new enrollees in 2020) runs somewhere in the range of $100 to $250+ per month for a California beneficiary in their late 60s, depending on age, gender, and which insurer you buy from. That's on top of your Part B premium (in 2026, the standard Part B premium is $185.00 per month). So yes, you're paying more upfront.
 
 But here's what the $0-premium Advantage plan brochure doesn't show you: cost sharing adds up fast when you're actually sick. Copays for specialist visits, hospital stays, chemotherapy, dialysis. People who have serious, ongoing health needs often find that the predictability of Medigap is worth every dollar.
 
 The AARP Medicare resource center has a genuinely useful comparison tool if you want to think through this tradeoff with some structure: [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/).
 
-One more thing on Medigap in California specifically: California is one of a small number of states that allows guaranteed issue enrollment during an annual birthday rule window. Every year, during the 30 days following your birthday, you can switch to a Medigap plan with equal or lesser benefits without underwriting (meaning insurers can't deny you or charge more based on health conditions). That's a meaningful consumer protection that most states don't have. If you're in California and haven't thought about Medigap because you assumed you'd be denied, that rule changes the math.
+California is also one of a small number of states that allows guaranteed issue enrollment during an annual birthday rule window. Every year, during the 30 days following your birthday, you can switch to a Medigap plan with equal or lesser benefits without underwriting (meaning insurers can't deny you or charge more based on health conditions). That's a meaningful consumer protection that most states don't have. If you're in California and haven't thought about Medigap because you assumed you'd be denied, that rule changes the math.
 
 ---
 
@@ -110,16 +106,13 @@ For Californians using Extra Help (also called the Low Income Subsidy, or LIS), 
 
 ## How to Actually Choose: A Practical Approach
 
-Stop trying to find the "best" plan in the abstract and start with your own situation.
+Stop trying to find the "best" plan in the abstract. Start with your own situation.
 
 Pull together your current doctors' names and their NPI (National Provider Identifier) numbers if you can find them. List every prescription medication with dosage. Then go to Medicare.gov's Plan Finder, enter your zip code, and run the comparison with your actual data. The tool will show you estimated annual costs including premiums, deductibles, and cost sharing, not just the monthly premium number insurers love to advertise.
 
 After that, I'd strongly recommend calling your State Health Insurance Assistance Program (SHIP) counselor. SHIP is a free, unbiased counseling program funded by the federal government, and California's version is called the Health Insurance Counseling and Advocacy Program (HICAP). These are trained volunteers and staff who have no financial stake in what you choose. You can find your local HICAP through [the SHIP website at shiphelp.org](https://www.shiphelp.org/). I'm genuinely not sure enough people know this service exists.
 
 Open Enrollment for 2026 plans runs October 15 through December 7, 2025. If you're new to Medicare, your Initial Enrollment Period (IEP) is a 7-month window around your 65th birthday.
-
----
-
 
 ---
 
@@ -147,12 +140,9 @@ Choosing a Medicare plan in California is genuinely one of the more consequentia
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -25,20 +25,19 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 
 ---
-
-Imagine you just turned 65, and your doctor's office hands you a bill for $257 after a routine visit. You thought Medicare covered everything. It doesn't, and that surprise gap is exactly why millions of people choose Medigap Plan G every year. But here's the part that trips people up: Plan G has one out-of-pocket cost you still have to pay yourself, and in 2026 that cost has changed. If you're shopping for a supplement plan right now, understanding this single deductible could save you real money and a lot of frustration.
+You just turned 65. Your doctor's visit cost $300. Medicare's share? Nothing yet. Your share? $257, plus 20% of what's left after that. That surprise is exactly why millions of people pick Medigap Plan G every year, but there's one thing they all need to know: Plan G has a deductible that changed in 2026, and understanding it could save you real money.
 
 ---
 
 ## What Is Medigap Plan G, and Why Do So Many People Choose It?
 
-Medigap (also called Medicare Supplement Insurance) is private health insurance that fills the gaps Original Medicare leaves behind. Original Medicare, meaning Medicare Part A (hospital coverage) and Medicare Part B (medical and outpatient coverage), covers a lot, but it doesn't cover everything. Copayments, coinsurance, and deductibles can pile up fast, especially if you have a serious illness or need frequent care.
+Medigap (also called Medicare Supplement Insurance) fills the gaps that Original Medicare leaves behind. Original Medicare covers hospital and outpatient care through Parts A and B, but it doesn't cover everything. Copayments, coinsurance, and deductibles add up fast when you're dealing with serious illness or frequent care.
 
-Plan G is consistently one of the most popular Medigap options on the market, and for good reason. It covers nearly every gap Original Medicare doesn't, including the Part A deductible, Part A coinsurance and hospital costs up to 365 days after Medicare benefits run out, Part B coinsurance, skilled nursing facility coinsurance, and even foreign travel emergency care up to plan limits. The only thing Plan G does not cover is the Medicare Part B deductible.
+Plan G is one of the most popular Medigap options, and it's easy to see why. It covers nearly every gap Original Medicare creates: the Part A deductible, Part A coinsurance for hospital stays beyond 60 days (up to 365 days after Medicare stops), Part B coinsurance, skilled nursing facility coinsurance, and foreign travel emergency care. There's exactly one thing Plan G doesn't cover: the Medicare Part B deductible.
 
-That single exclusion is what makes Plan G different from old Plan F, which used to cover everything. Congress eliminated the sale of Plan F to newly eligible Medicare beneficiaries starting in 2020, which pushed Plan G into the spotlight as the most comprehensive option available for most people enrolling today.
+That single exclusion is what separates Plan G from the old Plan F, which used to cover everything. Congress stopped selling Plan F to newly eligible beneficiaries starting in 2020, which made Plan G the most comprehensive option available to most people enrolling today.
 
-If you want a deeper look at how the whole Medicare system fits together before diving into supplement plans, the [how Medicare works overview](/how-does-medicare-work/) is a great place to start.
+If you want a full picture of how Medicare works before diving into supplements, the [how Medicare works overview](/how-does-medicare-work/) is a solid starting point.
 
 ---
 
@@ -46,37 +45,33 @@ If you want a deeper look at how the whole Medicare system fits together before 
 
 > **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+The Medicare Part B deductible for 2026 is $257. That's what Plan G doesn't cover, and it's the only out-of-pocket cost you'll face once you've met it. Every calendar year, you pay that $257 before Medicare Part B starts covering its share of your outpatient costs. After you've hit it, Plan G covers your Part B coinsurance (usually 20%) for the rest of the year.
 
+Real example: that $300 doctor's visit. You pay $257 (the deductible) plus 20% of the remaining $43, which is about $8.60. Plan G covers that $8.60. After your first visit, assuming your deductible's met, you owe nothing for covered Part B services for the rest of the year.
 
-Here's the number you came here for. The Medicare Part B deductible for 2026 is $257. That's the one cost Plan G doesn't cover. Every calendar year, you'll pay that $257 before Medicare Part B starts picking up its share of your outpatient costs. After you've met it, Plan G covers your Part B coinsurance (normally 20%) for the rest of the year.
+Most people find that once they understand the deductible is the only variable, healthcare budgeting becomes straightforward.
 
-To put that in practical terms: if your first doctor's visit of the year costs $300 and Medicare approves the full amount, you'll pay $257 (your deductible) plus 20% of the remaining $43, which is about $8.60. Plan G picks up that $8.60. After that first visit, assuming you've met your deductible, you'll generally owe nothing for covered Part B services for the rest of the year.
-
-It's a clean arrangement. Most of my clients find that once they understand the deductible is the only variable, budgeting for their healthcare becomes much simpler.
-
-One thing worth keeping in mind: the Part B deductible is set by the federal government each year and can change. In recent years it has gradually increased. The 2026 figure of $257 is up from $240 in 2024, so it's reasonable to expect modest increases in future years too. That's not a reason to panic, but it is a reason to plan.
+The Part B deductible is set by the federal government annually and has increased gradually over time. It went from $240 in 2024 to $257 in 2026, so modest increases should be expected in future years. Plan accordingly, but don't lose sleep over it.
 
 ---
 
 ## Plan G vs. Plan G High-Deductible: Know the Difference
 
-You may have seen something called "High-Deductible Plan G" while shopping and wondered whether it's the same product at a lower price. It's not exactly the same, and the difference matters a lot.
+You might see "High-Deductible Plan G" advertised at a lower price and wonder if it's the same thing cheaper. It's not.
 
-Standard Plan G has the one deductible we just talked about: $257 for Part B costs. That's it.
+Standard Plan G has the $257 Part B deductible we just discussed. That's it.
 
-High-Deductible Plan G is a separate variation with a much larger deductible before the plan benefits kick in at all. For 2026, that high deductible amount is $2,870. You pay all Medicare-covered costs out of pocket until you've reached that $2,870 threshold. After that, the plan works just like standard Plan G.
+High-Deductible Plan G is a different animal. For 2026, it has a $2,870 deductible before any plan benefits kick in. You pay all Medicare-covered costs out of pocket until you hit that threshold. After that, it functions exactly like standard Plan G.
 
-Why would anyone choose the high-deductible version? The monthly premium is significantly lower, sometimes dramatically so. If you're relatively healthy and don't expect much medical care in a given year, the premium savings might outweigh the risk of a larger deductible. But if you have ongoing conditions or use medical services regularly, the standard Plan G often makes more financial sense.
+Why would anyone choose it? Lower monthly premiums, sometimes dramatically lower. If you're healthy and don't expect much medical care, the premium savings might beat the risk of a higher deductible. But if you have chronic conditions or see doctors regularly, standard Plan G usually wins.
 
-Think of it this way. Standard Plan G gives you cost predictability. High-Deductible Plan G is more of a calculated gamble that trades lower premiums for higher potential out-of-pocket exposure.
-
-I've seen clients go either way on this decision, and there's no universal right answer. It depends on your health history, your income, and your personal comfort with financial risk. What I always tell people: run the numbers for your specific situation before deciding.
+Standard Plan G offers predictability. High-Deductible Plan G is a calculated bet that lower premiums will outweigh higher out-of-pocket exposure. Neither is universally right, it depends on your health, income, and risk tolerance. Run your own numbers before choosing.
 
 ---
 
 ## How Plan G Compares to Other Popular Medigap Plans in 2026
 
-It helps to see Plan G alongside its closest alternatives. Here's a quick comparison of the major plans most people actually consider:
+Here's how Plan G stacks up against the plans most people actually consider:
 
 | Medigap Benefit | Plan F | Plan G | Plan N |
 |---|---|---|---|
@@ -87,53 +82,48 @@ It helps to see Plan G alongside its closest alternatives. Here's a quick compar
 | Part B excess charges | Covered | Covered | **Not covered** |
 | Foreign travel emergency | Covered (80%) | Covered (80%) | Covered (80%) |
 
-A few things stand out. Plan F covers everything including the Part B deductible, but it's only available to people who were eligible for Medicare before January 1, 2020. If you're newly enrolling, Plan F is off the table.
+Plan F covers everything, including the Part B deductible, but only people eligible for Medicare before January 1, 2020 can enroll.
 
-Plan N is often less expensive than Plan G, but it leaves you responsible for Part B excess charges (the extra amount some doctors can bill above Medicare's approved rate) and small copays for office and emergency room visits. For some people that's a worthwhile trade-off. For others, the extra exposure isn't worth the premium savings.
+Plan N costs less than Plan G but leaves you responsible for Part B excess charges (when doctors bill above Medicare's approved rate) and small copays for office and emergency visits. For some people that trade-off makes sense. For others, the extra exposure isn't worth it.
 
-For a side-by-side breakdown across all standardized plans, the [Medicare Supplement plan comparison guide](/medicare-supplement-plan-comparison/) lays it all out clearly. And if you want to go deeper on Plan N specifically, the [Plan N explanation](/medicare-supplement-plan-n-explained/) is worth reading before you decide.
+For a complete comparison across all standardized plans, check out the [Medicare Supplement plan comparison guide](/medicare-supplement-plan-comparison/). The [Plan N explanation](/medicare-supplement-plan-n-explained/) is worth reading too if you're weighing your options.
 
 ---
 
 ## Step-by-Step: How to Evaluate Whether Plan G Makes Sense for You in 2026
 
-Shopping for Medigap can feel overwhelming. Here's a straightforward process I walk people through.
-
 **Step 1: Confirm your eligibility window.**
-Your best opportunity to enroll in any Medigap plan without medical underwriting is during your 6-month Medigap Open Enrollment Period, which starts the month you're both 65 and enrolled in Medicare Part B. Outside that window, insurers in most states can ask health questions and potentially deny coverage or charge more. Check the [Medicare eligibility requirements](/medicare-eligibility-requirements/) if you're unsure where you stand.
+Your best shot at enrolling without medical underwriting is during your 6-month Medigap Open Enrollment Period, which starts the month you turn 65 and enroll in Part B. Outside that window, insurers can ask health questions and potentially deny coverage or charge more. Check [Medicare eligibility requirements](/medicare-eligibility-requirements/) if you're unsure.
 
 **Step 2: Estimate your likely annual healthcare use.**
-Look at the past year or two. How many doctor visits did you have? Any hospitalizations? Ongoing prescriptions? If you're fairly healthy and see the doctor a handful of times a year, your out-of-pocket under Plan G is likely to be close to just the $257 Part B deductible. If you have chronic conditions, Plan G's comprehensive coverage becomes even more valuable.
+Look back at the past year or two. How many doctor visits? Any hospitalizations? Regular prescriptions? If you're healthy and see your doctor a few times a year, your out-of-pocket under Plan G is basically just the $257 deductible. Chronic conditions make Plan G's comprehensive coverage much more valuable.
 
 **Step 3: Get quotes from multiple insurers.**
-Here's something that surprises many people: Medigap plans are standardized by the federal government. Every insurer selling Plan G in your state must offer the same benefits. The only difference is the premium. So shopping around genuinely pays off. AARP's Medicare resource center at [aarp.org](https://www.aarp.org/health/medicare-insurance/) has comparison tools that can help, and so does [Medicare.gov](https://www.medicare.gov/), which has a Medigap policy search feature.
+Here's what catches people off guard: Medigap plans are federally standardized. Every insurer selling Plan G in your state offers identical benefits. The only difference is price. So shopping around actually works. [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has comparison tools, and so does [Medicare.gov](https://www.medicare.gov/) with its Medigap policy search.
 
-For a sense of what premiums look like across reputable carriers, the [best Medicare Supplement companies](/best-medicare-supplement-companies/) page can give you a useful starting point.
+The [best Medicare Supplement companies](/best-medicare-supplement-companies/) page can give you a starting point for seeing what premiums look like.
 
-**Step 4: Factor in the Part D drug plan.**
-Plan G doesn't cover prescription drugs. You'll need a separate Medicare Part D (prescription drug) plan or a standalone drug plan. Don't skip this step. The penalty for late enrollment in Part D can follow you for years.
+**Step 4: Factor in Medicare Part D.**
+Plan G doesn't cover prescriptions. You need a separate Part D plan or a standalone drug plan. Don't skip this. Late enrollment penalties in Part D stick with you for years.
 
-**Step 5: Consider working with a licensed insurance counselor or SHIP counselor.**
-SHIP stands for State Health Insurance Assistance Program, and it offers free, unbiased counseling from trained volunteers. They don't sell plans. They just help you understand your options. It's a genuinely excellent resource.
+**Step 5: Consider a SHIP counselor.**
+SHIP (State Health Insurance Assistance Program) offers free, unbiased counseling from trained volunteers. They don't sell anything. They just help you understand your options. It's genuinely excellent and totally free.
 
 ---
 
 ## What Plan G Does NOT Cover: No Surprises Allowed
 
-Let's be direct about the limits so you're not caught off guard.
+Let's be clear about the limits.
 
-Plan G does not cover: the Medicare Part B deductible ($257 in 2026), prescription drugs, dental care, vision exams or glasses, hearing aids, long-term custodial care (like most nursing home stays), or private-duty nursing.
+Plan G doesn't cover the Medicare Part B deductible ($257 in 2026), prescription drugs, dental care, vision exams or glasses, hearing aids, long-term custodial care (most nursing home stays), or private-duty nursing.
 
-The Part B deductible gets all the attention because it's the one cost that directly overlaps with what Plan G otherwise handles. But the others matter too. Many people are surprised to find that Medicare, and by extension Medigap, doesn't touch dental or vision in any meaningful way. Those gaps often require separate supplemental coverage.
+The Part B deductible gets attention because it overlaps with what Plan G otherwise handles. But the others matter too. Many people are shocked to discover that Medicare doesn't cover dental or vision in any real way. Those gaps usually need separate supplemental coverage.
 
-Understanding the full cost picture for 2026 is also something the [Medigap cost breakdown resource](/how-much-does-medigap-cost/) addresses in detail, including how premiums vary by age, location, and rating method.
-
----
-
+For the full cost picture in 2026, the [Medigap cost breakdown resource](/how-much-does-medigap-cost/) covers how premiums vary by age, location, and rating method.
 
 ---
 
-Plan G remains one of the strongest combinations of comprehensive coverage and wide availability in the Medigap market. The $257 Part B deductible in 2026 is a predictable, manageable cost, and once you've paid it, you can see any Medicare-accepting doctor in the country without worrying about network restrictions or surprise bills. That kind of simplicity and peace of mind is genuinely valuable, especially as healthcare needs tend to grow with age. Take the time to get multiple quotes, understand the rating method behind each premium, and don't hesitate to ask for help. Making a well-informed choice now can pay off for many years to come.
+Plan G delivers comprehensive coverage and wide availability in a single package. The $257 Part B deductible in 2026 is manageable and predictable, and once you pay it, you can see any Medicare-accepting doctor anywhere without network limits or surprise bills. That simplicity matters, especially as healthcare needs grow with age. Get multiple quotes, understand the rating method behind each premium, and ask for help when you need it. A good decision now pays off for years.
 
 ## Helpful Resources
 
@@ -142,7 +132,6 @@ Plan G remains one of the strongest combinations of comprehensive coverage and w
 - **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
 - **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
 - **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
 
 ---
 
@@ -165,4 +154,3 @@ Plan G remains one of the strongest combinations of comprehensive coverage and w
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
 - **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
-

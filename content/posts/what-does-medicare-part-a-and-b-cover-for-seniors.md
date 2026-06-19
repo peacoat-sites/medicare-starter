@@ -25,10 +25,9 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 
 ---
-
 Every year, I watch the same thing happen to people turning 65. They get their Medicare card in the mail, feel a wave of relief, and assume they're basically covered. Then they get a bill for $1,600 after a hospital stay and call me completely blindsided.
 
-That $1,600 isn't a billing error. It's the Part A deductible. And it's just one of the gaps that Original Medicare, meaning Part A and Part B, leaves wide open. Before you can make smart decisions about supplements, Advantage plans, or prescription drug coverage, you have to understand what you actually have in the first place. So let's walk through it like I'm sitting across from you at your kitchen table.
+That $1,600 isn't a billing error. It's the Part A deductible. And it's just one of the gaps that Original Medicare, meaning Part A and Part B, leaves wide open. Before you can make smart decisions about supplements, Advantage plans, or prescription drug coverage, you have to understand what you actually have in the first place.
 
 ---
 
@@ -36,7 +35,7 @@ That $1,600 isn't a billing error. It's the Part A deductible. And it's just one
 
 Part A is often called "hospital insurance," which is accurate but a little too simple. It covers inpatient hospital care, yes. It also covers skilled nursing facility (SNF) care after a qualifying hospital stay, hospice care, and some home health services. Those last two categories surprise people constantly.
 
-Here's the practical breakdown for inpatient hospital stays. For each benefit period (which begins the day you're admitted and ends after you've been out of the hospital or SNF for 60 consecutive days), you pay:
+Here's the practical breakdown for inpatient hospital stays. For each benefit period, which begins the day you're admitted and ends after you've been out of the hospital or SNF for 60 consecutive days, you pay:
 
 - A deductible of around $1,632 in 2024 for days 1 through 60
 - A daily coinsurance of about $408 for days 61 through 90
@@ -45,23 +44,19 @@ Here's the practical breakdown for inpatient hospital stays. For each benefit pe
 
 That structure baffles most people. It's not an annual deductible like you'd have with employer insurance. It resets every benefit period. If you're admitted in March, recover, go back in July, you've got a brand new deductible to meet.
 
-**Skilled nursing facility care** is worth understanding carefully, because a lot of people assume Medicare pays for long-term nursing home care. It does not, with very narrow exceptions. To get SNF coverage at all, you need to have had a qualifying inpatient hospital stay of at least three days (and observation status does not count, which is a whole separate headache). After that three-day stay, Medicare covers SNF days 1 through 20 at 100%. Days 21 through 100 cost you a daily coinsurance of around $204 in 2024. Day 101 onward? Medicare stops paying entirely. That's where long-term care insurance, Medicaid, or personal savings have to take over.
+**Skilled nursing facility care** is where things get tricky, because a lot of people assume Medicare pays for long-term nursing home care. It doesn't, with very narrow exceptions. To get SNF coverage at all, you need a qualifying inpatient hospital stay of at least three days. Observation status does not count, which is a whole separate headache. After that three-day stay, Medicare covers SNF days 1 through 20 at 100%. Days 21 through 100 cost you about $204 per day in 2024. Day 101 onward? Medicare stops paying entirely. That's where long-term care insurance, Medicaid, or personal savings have to take over.
 
-Most people qualify for Part A without paying a premium, as long as they or their spouse worked and paid Medicare taxes for at least 40 quarters (10 years). If you haven't, you can buy into Part A, but the premiums in 2024 are up to $505 a month. That's not a situation most people are in, but it's worth checking if your work history is complicated.
+Most people qualify for Part A without paying a premium, as long as they or their spouse worked and paid Medicare taxes for at least 40 quarters (10 years). If you haven't, you can buy in. The premiums in 2024 are up to $505 a month. Not many people face this, but it's worth checking if your work history is complicated.
 
 ---
 
 ## Part B: The Part Most People Underestimate
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Part B covers what the government calls "medically necessary" outpatient services and "preventive" services. The standard monthly premium in 2024 is $174.70, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). If your income from two years prior was above $103,000 as an individual, expect to pay more. Sometimes significantly more.
 
-What Part B actually covers is a long list. Doctors' visits, outpatient surgery, lab tests, X-rays, MRIs, CT scans, chemotherapy, dialysis, durable medical equipment (things like walkers, wheelchairs, blood glucose monitors), mental health services, physical therapy, occupational therapy, and second opinions before surgery. It also covers a genuinely useful initial "Welcome to Medicare" preventive visit and an annual wellness visit, both of which are fully covered with no cost to you as long as your doctor accepts Medicare assignment.
+What Part B actually covers is extensive. Doctors' visits, outpatient surgery, lab tests, X-rays, MRIs, CT scans, chemotherapy, dialysis, durable medical equipment like walkers, wheelchairs, and blood glucose monitors. Mental health services, physical therapy, occupational therapy, second opinions before surgery. It also covers an initial "Welcome to Medicare" preventive visit and an annual wellness visit, both fully covered with no cost to you if your doctor accepts Medicare assignment.
 
-After your Part B deductible (about $240 in 2024), Medicare typically pays 80% of approved costs. You pay 20%. There is no out-of-pocket maximum in Original Medicare. None. That 20% can compound in terrifying ways if you have a serious illness, which is the single strongest argument for adding a Medigap (Medicare Supplement) policy. I'll come back to that.
+After your Part B deductible (about $240 in 2024), Medicare typically pays 80% of approved costs. You pay 20%. There is no out-of-pocket maximum in Original Medicare. None. That 20% can compound in terrifying ways if you have a serious illness, which is the single strongest argument for adding a Medigap (Medicare Supplement) policy.
 
 One thing that catches people off guard: Part B covers outpatient mental health at 80% after the deductible, same as physical health services. That parity has improved a lot in recent years. Substance abuse treatment, psychiatric evaluations, individual and group psychotherapy, all covered. If you or someone you're helping has delayed mental health care due to cost concerns, this is worth knowing.
 
@@ -71,13 +66,13 @@ One thing that catches people off guard: Part B covers outpatient mental health 
 
 Here's what Part A and Part B don't cover, and this is where people run into real trouble.
 
-Prescription drugs. Neither Part A nor Part B covers most outpatient prescription drugs. You need Part D (stand-alone drug coverage) or a Medicare Advantage plan that includes drug coverage to handle that. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) has comparison tools on Medicare.gov to help you find plans in your zip code based on your specific medications.
+**Prescription drugs.** Neither Part A nor Part B covers most outpatient prescription drugs. You need Part D (stand-alone drug coverage) or a Medicare Advantage plan that includes drug coverage to handle that. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) has comparison tools on Medicare.gov to help you find plans in your zip code based on your specific medications.
 
-Dental, vision, and hearing. Original Medicare does not cover routine dental cleanings, eyeglasses, contact lenses, or hearing aids. This is one of the biggest shocks people face. A few very limited exceptions exist (Medicare will pay for dental work that's part of a covered procedure, like jaw reconstruction after an accident), but for routine care? You're on your own with Original Medicare. This is one reason Medicare Advantage plans, which often bundle some dental, vision, and hearing benefits, have become so popular.
+**Dental, vision, and hearing.** Original Medicare does not cover routine dental cleanings, eyeglasses, contact lenses, or hearing aids. This is one of the biggest shocks people face. A few very limited exceptions exist (Medicare will pay for dental work that's part of a covered procedure, like jaw reconstruction after an accident), but for routine care? You're on your own with Original Medicare. This is one reason Medicare Advantage plans, which often bundle some dental, vision, and hearing benefits, have become so popular.
 
-Long-term custodial care. As I mentioned above, Medicare does not pay for ongoing nursing home or in-home custodial care (help with bathing, dressing, eating). The SNF benefit is specifically for skilled care, meaning you need nursing or rehabilitation services, not just assistance with daily activities.
+**Long-term custodial care.** Medicare does not pay for ongoing nursing home or in-home custodial care, meaning help with bathing, dressing, eating. The SNF benefit is specifically for skilled care, meaning you need nursing or rehabilitation services, not just assistance with daily activities.
 
-Overseas care. If you travel internationally, Original Medicare generally won't cover care outside the United States. Some Medigap plans do provide limited foreign travel emergency benefits. Worth checking if you travel.
+**Overseas care.** If you travel internationally, Original Medicare generally won't cover care outside the United States. Some Medigap plans do provide limited foreign travel emergency benefits. Worth checking if you travel.
 
 ---
 
@@ -85,7 +80,7 @@ Overseas care. If you travel internationally, Original Medicare generally won't 
 
 The line between inpatient and outpatient isn't always obvious, and that line matters enormously for your costs.
 
-Take a hospital visit that starts in the emergency room and turns into a longer stay. You might expect that to count as inpatient (Part A) automatically. But hospitals sometimes keep patients under "observation status," which is technically outpatient and billed under Part B. That distinction affects not just your current bill but whether you'll qualify for SNF coverage afterward. If you weren't admitted as an inpatient for three days, you don't qualify, no matter how sick you were. I've seen this cost people tens of thousands of dollars.
+Take a hospital visit that starts in the emergency room and turns into a longer stay. You might expect that to count as inpatient automatically. But hospitals sometimes keep patients under "observation status," which is technically outpatient and billed under Part B. That distinction affects not just your current bill but whether you'll qualify for SNF coverage afterward. If you weren't admitted as an inpatient for three days, you don't qualify, no matter how sick you were. I've seen this cost people tens of thousands of dollars.
 
 Ask your care team directly: "Am I being admitted as an inpatient, or am I under observation status?" It's your right to know, and it's worth asking every time.
 
@@ -97,18 +92,13 @@ For home health care, both Part A and Part B can cover it depending on the situa
 
 Original Medicare gives you a real foundation, but the gaps are significant enough that most people benefit from additional coverage. [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has solid side-by-side comparisons if you want to understand Medigap versus Medicare Advantage in more depth.
 
-In simple terms: if you want to stick with Original Medicare and see any doctor who accepts Medicare nationwide (which is most of them), a Medigap plan plugs most of those out-of-pocket holes. The tradeoff is a monthly premium on top of your Part B premium.
+If you want to stick with Original Medicare and see any doctor who accepts Medicare nationwide (which is most of them), a Medigap plan plugs most of those out-of-pocket holes. The tradeoff is a monthly premium on top of your Part B premium.
 
-If you're willing to work within a network and want extra benefits bundled in (dental, vision, hearing, sometimes gym memberships and transportation), Medicare Advantage might make more sense. Just read the fine print on the network and prior authorization requirements before you sign up. I'd also encourage anyone shopping plans to use the Medicare Plan Finder at Medicare.gov. It's free, official, and lets you compare real plan options in your area.
+If you're willing to work within a network and want extra benefits bundled in, Medicare Advantage might make more sense. You'd get dental, vision, hearing, sometimes gym memberships and transportation. Just read the fine print on the network and prior authorization requirements before you sign up. The Medicare Plan Finder at Medicare.gov is free, official, and lets you compare real plan options in your area.
 
-For prescription drug coverage, comparing Part D plans by your actual medication list matters more than comparing premiums. A plan with a $15/month premium might cost you far more at the pharmacy than a $45/month plan that covers your specific drugs at a better tier.
+For prescription drug coverage, comparing Part D plans by your actual medication list matters more than premiums. A plan with a $15/month premium might cost you far more at the pharmacy than a $45/month plan that covers your specific drugs at a better tier.
 
----
-
-
----
-
-None of this is simple, and I won't pretend the system is designed with your convenience in mind. But once you understand what Parts A and B actually do and don't cover, you're in a much better position to decide what else you need. Your coverage decisions in the first few months of Medicare eligibility can affect your health and finances for years. Take the time. Ask the questions. And if you're ever genuinely confused, call 1-800-MEDICARE. The people there can walk you through your specific situation at no charge.
+None of this is simple, and the system wasn't designed with your convenience in mind. But once you understand what Parts A and B actually do and don't cover, you're in a much better position to decide what else you need. Your coverage decisions in the first few months of Medicare eligibility can affect your health and finances for years. Take the time. Ask the questions. If you're ever genuinely confused, call 1-800-MEDICARE. The people there can walk you through your specific situation at no charge.
 
 ## Helpful Resources
 
@@ -124,13 +114,11 @@ None of this is simple, and I won't pretend the system is designed with your con
 - [Medicare.gov, Part A costs](https://www.medicare.gov/basics/costs/medicare-costs), Supports 2024 deductible and coinsurance figures
 - [Medicare.gov, What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers), Official source for Part B coverage details
 
-*Photo: [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
+*Photo: [Jsme MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
----
 
 ---
 
@@ -142,4 +130,3 @@ None of this is simple, and I won't pretend the system is designed with your con
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Nutramax Cosequin Senior Dog Soft Chews (60ct)](https://www.amazon.com/dp/B07218JGWH/?tag=contentportfo-20)** (~$32), Senior-specific Cosequin formula with added Omega-3s, designed for aging dogs with joint and immune health needs.
 - **[Nutramax Cosequin DS Joint Supplement for Dogs (132ct)](https://www.amazon.com/dp/B003ULL1NQ/?tag=contentportfo-20)** (~$36), The #1 veterinarian-recommended joint supplement brand, clinically studied for reducing joint pain in dogs.
-

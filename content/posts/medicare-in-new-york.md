@@ -25,7 +25,6 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 
 ---
-
 New York has some of the most generous Medicare rules in the country, and most people living here never take advantage of them. I've sat across the table from hundreds of seniors in this state who were overpaying by hundreds of dollars a month, sometimes more, simply because nobody told them what New York does differently. That changes today.
 
 Let me be direct: Medicare itself is a federal program, the same basic structure whether you live in Manhattan or Montana. But New York layers on state rules, state-funded assistance programs, and consumer protections that can dramatically change what you pay and what you're entitled to. If you moved here from another state, or if you first enrolled in Medicare years ago without getting good local advice, there's a real chance you're leaving money on the table.
@@ -42,15 +41,13 @@ This is why most New Yorkers need to choose something beyond Original Medicare: 
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's what most people don't realize: in most states, if you miss your initial Medigap open enrollment window (the 6-month period starting when you're 65 and enrolled in Part B), insurers can charge you more or deny you coverage entirely based on your health history. New York doesn't allow that.
 
-New York is one of a tiny handful of states with guaranteed issue and community rating for Medigap plans year-round. That means insurers in New York cannot turn you down for a Medigap policy because of pre-existing conditions, and they cannot charge you more because you're sick. They also cannot charge you more simply because you're older, because of community rating. A 72-year-old and a 65-year-old pay the same rate for the same plan from the same insurer. That's remarkable, and it's the law here.
+New York is one of a tiny handful of states with guaranteed issue and community rating for Medigap plans year-round. Insurers in New York cannot turn you down for a Medigap policy because of pre-existing conditions, and they cannot charge you more because you're sick. They also can't charge you more simply because you're older, because of community rating. A 72-year-old and a 65-year-old pay the same rate for the same plan from the same insurer. That's remarkable, and it's the law here.
 
 The practical consequence is significant. If you've been on Medicare Advantage and want to switch to Original Medicare plus a Medigap plan, you can do that in New York at any time of year. In other states, that switch could leave you uninsurable or facing sky-high premiums if you have conditions like diabetes or heart disease. In New York, the insurer has to take you.
 
-I've seen people in their late 70s, dealing with serious health conditions, switch from an Advantage plan to a Medigap Plan G and dramatically reduce their total out-of-pocket costs. That option is legally protected here. Take advantage of it.
+I've seen people in their late 70s with serious health conditions switch from an Advantage plan to a Medigap Plan G and dramatically reduce their total out-of-pocket costs. That option is legally protected here. Take advantage of it.
 
 The most popular Medigap plans in New York right now are Plan G and Plan N. Plan G covers almost everything Original Medicare doesn't, except the Part B deductible ($240 in 2024). Plan N covers most of the same things but requires small copays for some office visits and doesn't cover Part B excess charges. Plan G tends to run roughly $150 to $300 per month in New York depending on the insurer and your borough or county, though prices vary enough that shopping around genuinely matters. Plan N runs lower, often in the $100 to $200 range.
 
@@ -60,25 +57,25 @@ One thing worth knowing: New York also still offers Plan C and Plan F to people 
 
 New York City in particular has one of the most competitive Medicare Advantage (Part C) markets in the country. You'll see plans from UnitedHealthcare, Aetna, Humana, EmblemHealth, MetroPlus, VNS Health (formerly VNSNY CHOICE), and others competing hard for enrollees, which often means $0 premium plans with extra benefits like dental, vision, hearing coverage, and gym memberships.
 
-That sounds great. And for some people, especially those who are generally healthy, stay within one borough, and have predictable medical needs, a well-chosen Advantage plan can work out cheaper than Original Medicare plus a Medigap plan.
+That sounds great. For some people, especially those who are generally healthy, stay within one borough, and have predictable medical needs, a well-chosen Advantage plan can work out cheaper than Original Medicare plus a Medigap plan.
 
-But I want to be honest with you about what I've seen go wrong.
+But I want to be honest about what I've seen go wrong.
 
 Medicare Advantage plans use provider networks. HMO plans (Health Maintenance Organizations) require you to use in-network doctors and get referrals. PPO plans (Preferred Provider Organizations) give you more flexibility but still cost more when you go out of network. If you have a specialist you've been seeing for years and that doctor leaves the plan's network, you're either losing your doctor or paying more. This happens more than the TV commercials suggest.
 
-Advantage plans also use prior authorization more heavily than Original Medicare. That means the plan can require approval before you get certain procedures, specialist visits, or equipment. A 2022 report from the HHS Office of Inspector General found that prior authorization denials for services that met Medicare coverage rules were a significant problem across Advantage plans nationally. This isn't unique to New York, but it's a reality worth knowing before you sign up.
+Advantage plans also use prior authorization more heavily than Original Medicare. The plan can require approval before you get certain procedures, specialist visits, or equipment. A 2022 report from the HHS Office of Inspector General found that prior authorization denials for services that met Medicare coverage rules were a significant problem across Advantage plans nationally. This isn't unique to New York, but it's a reality worth knowing before you sign up.
 
-If you're comparing Advantage plans, I'd strongly recommend using Medicare's official plan finder at [Medicare.gov](https://www.medicare.gov/plan-compare/) and checking each plan's Star Rating, which is Medicare's quality score on a 1 to 5 scale. Aim for 4 stars or higher.
+If you're comparing Advantage plans, check each plan's Star Rating at [Medicare.gov](https://www.medicare.gov/plan-compare/), which is Medicare's quality score on a 1 to 5 scale. Aim for 4 stars or higher.
 
 ## Part D: Prescription Drug Coverage in New York
 
-Part D (prescription drug coverage) works the same way in New York as everywhere else: you either get it bundled into a Medicare Advantage plan, or you buy a standalone Part D plan if you're on Original Medicare. There are dozens of standalone Part D plans available in New York, and the premiums, deductibles, and formularies (which is the list of covered drugs) vary enormously.
+Part D works the same way in New York as everywhere else: you either get it bundled into a Medicare Advantage plan, or you buy a standalone Part D plan if you're on Original Medicare. There are dozens of standalone Part D plans available in New York, and the premiums, deductibles, and formularies (which is the list of covered drugs) vary enormously.
 
 The single biggest mistake I see people make with Part D is choosing the cheapest premium without checking whether their specific medications are covered at a reasonable cost-sharing tier. A plan with a $12 monthly premium might put your $400-a-month medication on a tier requiring 33% coinsurance. Do the math before you pick.
 
 Use Medicare's drug plan finder at Medicare.gov to enter your exact medications, dosages, and preferred pharmacy. It will calculate your total estimated annual drug costs across every plan available to you. This takes about 15 minutes and could save you $1,000 a year or more.
 
-Also worth knowing: New York has its own Elderly Pharmaceutical Insurance Coverage program, called EPIC. It's a state program for New Yorkers 65 and older with income below certain thresholds (in 2024, roughly $75,000 for a single person and $100,000 for a married couple). EPIC can wrap around your Part D plan to help with premiums and copays. You can call them at 1-800-332-3742 or visit the New York State Department of Health website.
+New York also has its own Elderly Pharmaceutical Insurance Coverage program, called EPIC. It's a state program for New Yorkers 65 and older with income below certain thresholds (in 2024, roughly $75,000 for a single person and $100,000 for a married couple). EPIC can wrap around your Part D plan to help with premiums and copays. You can call them at 1-800-332-3742 or visit the New York State Department of Health website.
 
 ## Help Paying for Medicare in New York
 
@@ -93,11 +90,6 @@ Apply for MSPs through your local Department of Social Services. You can also ge
 The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) also publishes updated income and asset limits for all the savings programs each year, and their website is actually useful for this specific piece of research.
 
 One more New York-specific benefit worth knowing: the Medicaid Buy-In for Working People with Disabilities, and the Medicare Advantage Prescription Drug Special Needs Plans (D-SNPs) specifically designed for people who are dually eligible for Medicare and Medicaid. New York has robust D-SNP offerings. If you have both Medicare and Medicaid, you should specifically ask about these plans when comparing options.
-
----
-
-
----
 
 If you're just starting Medicare in New York, the single most useful thing you can do right now is call HIICAP at 1-800-701-0501 and schedule a free counseling appointment. Bring your Medicare card, a list of your medications, and a list of your doctors. A good counselor can review your specific situation in about an hour and potentially save you real money. That's not a small thing when you're on a fixed income.
 
@@ -114,13 +106,9 @@ If you're just starting Medicare in New York, the single most useful thing you c
 - [Medicare.gov, What Medicare covers](https://www.medicare.gov/what-medicare-covers), supports Part A/B coverage details and 2024 costs
 - [Medicare.gov, Costs for Medicare drug coverage](https://www.medicare.gov/basics/costs/medicare-costs), supports deductibles, premiums, IRMAA information
 
-*Photo: [Abhishek  Navlakha](https://www.pexels.com/@navlakha) via Pexels*
-
----
+*Photo: [Abhishek Navlakha](https://www.pexels.com/@navlakha) via Pexels*
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
----
 
 ## Recommended Resources
 
@@ -128,4 +116,3 @@ If you're just starting Medicare in New York, the single most useful thing you c
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-
