@@ -135,6 +135,15 @@ The October 15 start date will arrive before you know it. Getting your informati
 
 ## Recommended Resources
 
+## Sources
+
+- [Medicare Plan Finder tool on Medicare.gov](https://www.medicare.gov/plan-compare/)
+- [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
+- [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
+- [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
+- [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
+
+
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.

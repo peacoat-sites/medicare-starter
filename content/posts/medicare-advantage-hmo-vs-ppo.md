@@ -136,6 +136,15 @@ Choosing between an HMO and a PPO inside Medicare Advantage comes down to your d
 
 ## Recommended Resources
 
+## Sources
+
+- [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
+- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
+- [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
+- [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
+- [Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.

@@ -117,6 +117,15 @@ The process is more manageable than it looks from the outside. The real work is 
 
 ## Recommended Resources
 
+## Sources
+
+- [Medicare.gov](https://www.medicare.gov/)
+- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
+- [ssa.gov](https://www.ssa.gov/)
+- [aarp.org](https://www.aarp.org/health/medicare-insurance/)
+- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.

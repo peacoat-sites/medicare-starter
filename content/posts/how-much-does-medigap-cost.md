@@ -139,6 +139,15 @@ The real takeaway: Medigap pricing rewards people who shop actively, enroll at t
 
 ## Recommended Resources
 
+## Sources
+
+- [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
+- [Medicare.gov](https://www.medicare.gov/medigap-supplemental-insurance-plans)
+- [aarp.org](https://www.aarp.org/health/medicare-insurance/)
+- [shiphelp.org](https://www.shiphelp.org/)
+- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.

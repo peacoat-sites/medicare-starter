@@ -136,4 +136,13 @@ Buying a Medigap plan doesn't have to be complicated, but it does require some t
 
 ### Question?
 
+## Sources
+
+- [AARP Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
+- [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
+- [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
+- [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
+- [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
+
+
 *Submit your question via email or chat.*

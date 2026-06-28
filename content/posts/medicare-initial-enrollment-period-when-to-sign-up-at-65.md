@@ -139,6 +139,15 @@ The seven months of your Initial Enrollment Period go fast, especially when you'
 
 ## Recommended Resources
 
+## Sources
+
+- [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
+- [SSA.gov](https://www.ssa.gov/medicare/)
+- [Medicare.gov's plan finder](https://www.medicare.gov/plan-compare)
+- [shiphelp.org](https://www.shiphelp.org/)
+- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.

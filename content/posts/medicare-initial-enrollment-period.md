@@ -99,6 +99,15 @@ The window you have right now, those seven months, is genuinely one of the most 
 
 ## Recommended Resources
 
+## Sources
+
+- [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
+- [Medicare.gov](https://www.medicare.gov/)
+- [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
+- [ssa.gov](https://www.ssa.gov/)
+- [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.

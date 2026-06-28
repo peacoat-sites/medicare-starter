@@ -127,6 +127,15 @@ Medicare is remarkable. After 20 years in this field, I still see it change peop
 
 ## Recommended Resources
 
+## Sources
+
+- [CMS.gov](https://www.cms.gov/)
+- [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
+- [Medicare.gov](https://www.medicare.gov/)
+- [Medicare.gov's plan finder tool](https://www.medicare.gov/find-a-plan/questions/home.aspx)
+- [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
