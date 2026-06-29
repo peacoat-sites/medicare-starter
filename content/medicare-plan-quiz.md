@@ -5,6 +5,7 @@ description: "Use our free interactive selector to understand whether Original M
 categories: ["Medicare Enrollment"]
 author: "Frank Alvarez"
 slug: "medicare-plan-quiz"
+image: "https://images.pexels.com/photos/8569643/pexels-photo-8569643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 The most consequential Medicare choice most people face is not which Medigap plan to buy or which Medicare Advantage carrier to pick — it is the fundamental decision between **Original Medicare** and **Medicare Advantage (Part C)**. This choice shapes your provider access, cost structure, and flexibility for years to come.

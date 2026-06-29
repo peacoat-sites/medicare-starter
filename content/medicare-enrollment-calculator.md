@@ -6,6 +6,7 @@ author: "Frank Alvarez"
 categories: ["Medicare Enrollment"]
 description: "Calculate your Medicare Initial Enrollment Period, Special Enrollment Period, and understand late-enrollment penalties. Free enrollment date calculator."
 image: ""
+image: "https://images.pexels.com/photos/34240091/pexels-photo-34240091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Missing your Medicare enrollment window is one of the most expensive mistakes a retiree can make. A late Part B enrollment can mean a permanent 10% premium increase for every full year you delayed — and that penalty follows you for life. Knowing your exact enrollment window before you turn 65 is essential.

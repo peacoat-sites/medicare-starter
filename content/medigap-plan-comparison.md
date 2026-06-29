@@ -6,6 +6,7 @@ author: "Frank Alvarez"
 categories: ["Medicare Supplement"]
 description: "Compare all Medigap (Medicare Supplement) plans A through N side by side. See what each plan covers, which plans include Part A and B deductibles, and how to choose the right one."
 image: ""
+image: "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Original Medicare covers a lot, but it does not cover everything. There is no out-of-pocket maximum under Original Medicare, which means a serious illness or extended hospital stay can cost you tens of thousands of dollars in coinsurance and copays. Medigap — also called Medicare Supplement Insurance — fills those gaps by covering costs that Original Medicare leaves to you.
