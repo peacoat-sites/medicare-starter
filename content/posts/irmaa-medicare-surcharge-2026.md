@@ -9,16 +9,16 @@ tags: ["IRMAA", "Medicare", "surcharge", "2026"]
 slug: "irmaa-medicare-surcharge"
 affiliate_disclosure: true
 faqs:
-  - q: "Does IRMAA apply to Medicare Advantage plans too?"
-    a: "Yes. If you're enrolled in a Medicare Advantage (Part C) plan, you still pay the Part B premium and any IRMAA surcharge on top of it. Some Advantage plans have a $0 additional premium, but the Part B IRMAA is still collected, usually via Social Security withholding. Part D IRMAA applies to your drug coverage regardless of whether you have a standalone Part D plan or drug coverage bundled into an Advantage plan."
-  - q: "What happens if my income goes up one year and then drops back down?"
-    a: "IRMAA is recalculated every year based on your income from two years prior. So a spike in income in one year will affect your premiums two years later, but only for that year. Once Social Security pulls your next tax return showing the lower income, your IRMAA tier adjusts back down. It's not permanent."
-  - q: "Can I avoid IRMAA by holding assets in a trust?"
-    a: "Not effectively. IRMAA is based on MAGI, which includes income from most trust structures. Certain irrevocable grantor trusts may have specific tax treatment worth discussing with an estate planning attorney, but there's no simple trust wrapper that makes income disappear for IRMAA purposes. Be skeptical of anyone suggesting otherwise."
-  - q: "If my spouse and I file jointly but one of us has very high income, can we file separately to avoid IRMAA?"
-    a: "This is a reasonable question, but the answer is almost always no. Married filing separately has its own IRMAA tier structure, and it's extremely harsh, basically applying the highest Part B surcharge starting at just $106,000 of individual income. For most couples, filing jointly almost always results in a lower combined IRMAA burden. Run the numbers with a CPA before changing your filing status."
-  - q: "Where do I go to formally appeal my IRMAA determination?"
-    a: "File SSA Form SSA-44 with the Social Security Administration. You can download it at SSA.gov, call 1-800-772-1213, or visit your local Social Security office. You'll need documentation of your qualifying life event and a reasonable estimate of your current-year income. File as soon as you receive your IRMAA notice, since processing takes time and you want any reduction to apply to as many months as possible."
+ - q: "Does IRMAA apply to Medicare Advantage plans too?"
+ a: "Yes. If you're enrolled in a Medicare Advantage (Part C) plan, you still pay the Part B premium and any IRMAA surcharge on top of it. Some Advantage plans have a $0 additional premium, but the Part B IRMAA is still collected, usually via Social Security withholding. Part D IRMAA applies to your drug coverage regardless of whether you have a standalone Part D plan or drug coverage bundled into an Advantage plan."
+ - q: "What happens if my income goes up one year and then drops back down?"
+ a: "IRMAA is recalculated every year based on your income from two years prior. So a spike in income in one year will affect your premiums two years later, but only for that year. Once Social Security pulls your next tax return showing the lower income, your IRMAA tier adjusts back down. It's not permanent."
+ - q: "Can I avoid IRMAA by holding assets in a trust?"
+ a: "Not effectively. IRMAA is based on MAGI, which includes income from most trust structures. Certain irrevocable grantor trusts may have specific tax treatment worth discussing with an estate planning attorney, but there's no simple trust wrapper that makes income disappear for IRMAA purposes. Be skeptical of anyone suggesting otherwise."
+ - q: "If my spouse and I file jointly but one of us has very high income, can we file separately to avoid IRMAA?"
+ a: "This is a reasonable question, but the answer is almost always no. Married filing separately has its own IRMAA tier structure, and it's extremely harsh, basically applying the highest Part B surcharge starting at just $106,000 of individual income. For most couples, filing jointly almost always results in a lower combined IRMAA burden. Run the numbers with a CPA before changing your filing status."
+ - q: "Where do I go to formally appeal my IRMAA determination?"
+ a: "File SSA Form SSA-44 with the Social Security Administration. You can download it at SSA.gov, call 1-800-772-1213, or visit your local Social Security office. You'll need documentation of your qualifying life event and a reasonable estimate of your current-year income. File as soon as you receive your IRMAA notice, since processing takes time and you want any reduction to apply to as many months as possible."
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
@@ -34,12 +34,12 @@ So let's get into what IRMAA actually is, what the 2026 numbers look like, and, 
 ---
 
 <div class="value-module">
-  <div class="vm-head">IRMAA Tier Thresholds & Monthly Costs 2026</div>
-  <div class="vm-body">
-    <p class="vm-intro">Below are the projected 2026 IRMAA brackets showing how your 2024 MAGI triggers progressively higher Part B and Part D surcharges (figures are illustrative based on historical bracket patterns; official 2026 numbers release in fall 2025).</p>
-    <table><caption>2026 IRMAA Tiers: 2024 MAGI Thresholds and Estimated Monthly Premiums</caption><thead><tr><th scope="col">Tier</th><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Est. Part B Monthly</th><th scope="col">Est. Part D Surcharge</th><th scope="col">Annual Extra Cost (Single)</th></tr></thead><tbody><tr><td>Standard (no IRMAA)</td><td>≤$106,000</td><td>≤$212,000</td><td>$190</td><td>$0</td><td>$0</td></tr><tr><td>Tier 1</td><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$266</td><td>$13</td><td>$1,068</td></tr><tr><td>Tier 2</td><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$380</td><td>$34</td><td>$2,688</td></tr><tr><td>Tier 3</td><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$494</td><td>$55</td><td>$4,308</td></tr><tr><td>Tier 4</td><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$608</td><td>$76</td><td>$5,928</td></tr><tr><td>Tier 5 (Max)</td><td>&gt;$500,000</td><td>&gt;$750,000</td><td>$628</td><td>$85</td><td>$6,276</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">IRMAA Tier Thresholds & Monthly Costs 2026</div>
+ <div class="vm-body">
+ <p class="vm-intro">Below are the projected 2026 IRMAA brackets showing how your 2024 MAGI triggers progressively higher Part B and Part D surcharges (figures are illustrative based on historical bracket patterns; official 2026 numbers release in fall 2025).</p>
+ <table><caption>2026 IRMAA Tiers: 2024 MAGI Thresholds and Estimated Monthly Premiums</caption><thead><tr><th scope="col">Tier</th><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Est. Part B Monthly</th><th scope="col">Est. Part D Surcharge</th><th scope="col">Annual Extra Cost (Single)</th></tr></thead><tbody><tr><td>Standard (no IRMAA)</td><td>≤$106,000</td><td>≤$212,000</td><td>$190</td><td>$0</td><td>$0</td></tr><tr><td>Tier 1</td><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$266</td><td>$13</td><td>$1,068</td></tr><tr><td>Tier 2</td><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$380</td><td>$34</td><td>$2,688</td></tr><tr><td>Tier 3</td><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$494</td><td>$55</td><td>$4,308</td></tr><tr><td>Tier 4</td><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$608</td><td>$76</td><td>$5,928</td></tr><tr><td>Tier 5 (Max)</td><td>&gt;$500,000</td><td>&gt;$750,000</td><td>$628</td><td>$85</td><td>$6,276</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What IRMAA Actually Is (and Why It Works the Way It Does)

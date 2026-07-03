@@ -23,7 +23,7 @@ Here's the good news: Medicare and TRICARE are designed to complement each other
 
 ## Understanding TRICARE: The Basics for Military Beneficiaries
 
-TRICARE is the health care program for uniformed service members, military retirees, and their families. The Defense Health Agency (DHA) runs it and connects you to a broad network of military treatment facilities (MTFs) and civilian providers. But TRICARE isn't one thing,  it's a family of plans, each built for different situations.
+TRICARE is the health care program for uniformed service members, military retirees, and their families. The Defense Health Agency (DHA) runs it and connects you to a broad network of military treatment facilities (MTFs) and civilian providers. But TRICARE isn't one thing, it's a family of plans, each built for different situations.
 
 ### TRICARE Plans Available to Retirees
 
@@ -110,7 +110,7 @@ Can you enroll in Medicare Advantage (Part C) while keeping TRICARE for Life? Te
 
 ### How TRICARE Interacts with Medicare Advantage
 
-Medicare Advantage is a separate plan that replaces Original Medicare. TRICARE for Life wraps around **Original Medicare**. When Advantage is in play, TRICARE for Life covers the same cost-sharing it would have under Original Medicare,  but only if your provider accepts TRICARE too.
+Medicare Advantage is a separate plan that replaces Original Medicare. TRICARE for Life wraps around **Original Medicare**. When Advantage is in play, TRICARE for Life covers the same cost-sharing it would have under Original Medicare, but only if your provider accepts TRICARE too.
 
 Real-world problems:
 

@@ -13,16 +13,16 @@ author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of sen
 slug: "medicare-deductible-2026"
 affiliate_disclosure: true
 faqs:
-  - q: "What is the Medicare Part B deductible for 2026?"
-    a: "The Part B deductible for 2026 is $257. You pay this once per calendar year before Medicare starts covering its 80% share of approved outpatient costs. It resets every January 1."
-  - q: "Does the Part A deductible reset every year?"
-    a: "No, and this is one of the most misunderstood things about Medicare. The Part A deductible resets per benefit period, not per calendar year. A new benefit period begins each time you're admitted to the hospital after being out of the hospital (and skilled nursing care) for 60 or more consecutive days. You could pay the $1,676 deductible more than once in the same year if you have multiple separate hospitalizations."
-  - q: "Do Medicare Advantage plans have the same deductibles as Original Medicare?"
-    a: "No. Medicare Advantage plans set their own cost-sharing structures, including their own deductibles, which can be higher or lower than Original Medicare's. Some have $0 deductibles; others charge a few hundred dollars for hospital admission. You need to review your specific plan's Evidence of Coverage document to know what applies."
-  - q: "Can a Medigap plan cover my Medicare deductibles?"
-    a: "Most Medigap plans cover the Part A deductible. For the Part B deductible, only Plans C and F cover it, and both of those are unavailable to people who became eligible for Medicare after January 1, 2020. No Medigap plan covers Part D costs. Always confirm what a specific plan covers before enrolling."
-  - q: "Is the Part D deductible always $590 in 2026?"
-    a: "$590 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
+ - q: "What is the Medicare Part B deductible for 2026?"
+ a: "The Part B deductible for 2026 is $257. You pay this once per calendar year before Medicare starts covering its 80% share of approved outpatient costs. It resets every January 1."
+ - q: "Does the Part A deductible reset every year?"
+ a: "No, and this is one of the most misunderstood things about Medicare. The Part A deductible resets per benefit period, not per calendar year. A new benefit period begins each time you're admitted to the hospital after being out of the hospital (and skilled nursing care) for 60 or more consecutive days. You could pay the $1,676 deductible more than once in the same year if you have multiple separate hospitalizations."
+ - q: "Do Medicare Advantage plans have the same deductibles as Original Medicare?"
+ a: "No. Medicare Advantage plans set their own cost-sharing structures, including their own deductibles, which can be higher or lower than Original Medicare's. Some have $0 deductibles; others charge a few hundred dollars for hospital admission. You need to review your specific plan's Evidence of Coverage document to know what applies."
+ - q: "Can a Medigap plan cover my Medicare deductibles?"
+ a: "Most Medigap plans cover the Part A deductible. For the Part B deductible, only Plans C and F cover it, and both of those are unavailable to people who became eligible for Medicare after January 1, 2020. No Medigap plan covers Part D costs. Always confirm what a specific plan covers before enrolling."
+ - q: "Is the Part D deductible always $590 in 2026?"
+ a: "$590 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
 ---
 
 Most people assume the Medicare deductible is one single number you hit at the start of the year and then you're done. I believed that myself for the first few years I was counseling clients. The reality is messier, more expensive in some spots than you'd expect, and genuinely confusing in ways that catch even careful planners off guard.
@@ -154,7 +154,7 @@ The big difference is that MA plans do have a maximum out-of-pocket limit, which
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89) — Whole-home 4-pack of 10-year battery-powered detectors — covers a standard 3-bedroom home.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Kidde 10-Year Smoke & CO Detector (4-Pack)](https://www.amazon.com/dp/B0DDWDDGDS/?tag=contentportfo-20)** (~$89), Whole-home 4-pack of 10-year battery-powered detectors, covers a standard 3-bedroom home.
 

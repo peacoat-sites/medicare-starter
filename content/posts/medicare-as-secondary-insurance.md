@@ -13,16 +13,16 @@ author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of sen
 slug: "medicare-as-secondary-insurance"
 affiliate_disclosure: true
 faqs:
-  - q: "Does Medicare automatically know when it's supposed to be secondary?"
-    a: "Not always. Medicare relies on coordination of benefits reporting, but errors happen. You should always inform your providers of your insurance order, and if you notice Medicare paying claims it should be paying second (or vice versa), contact the Medicare Coordination of Benefits Contractor at 1-800-999-1118."
-  - q: "Can I have Medicare as secondary without any other primary insurance?"
-    a: "No. Medicare can only be secondary when there's a legitimate primary payer that legally applies to the same claim. You can't elect to have Medicare be secondary as a cost-saving strategy if no other insurer has the legal obligation to pay first."
-  - q: "Will my provider bill both insurers automatically?"
-    a: "Usually yes, but don't assume it. Confirm with every new provider or facility that they're billing the correct primary insurer first and that they'll submit the remainder to Medicare. Getting this wrong at the front end creates months of corrected-claim frustration."
-  - q: "What happens if Medicare pays a claim it should have paid as secondary?"
-    a: "Medicare may pursue the primary payer to recover what it paid. This is called a conditional payment. Medicare is allowed to pay conditionally (as a courtesy) when the primary payer hasn't paid yet, but it will seek reimbursement once the primary pays. This comes up most often in workers' comp and liability situations."
-  - q: "If my employer plan is primary, do I still need Medicare Part D for prescriptions?"
-    a: "It depends on whether your employer plan's drug coverage is 'creditable,' meaning it's at least as good as Medicare's standard Part D coverage. If it is, you can delay Part D enrollment without penalty. Your employer is required to notify you annually whether their drug coverage is creditable. Keep that letter. You'll need it when you eventually enroll in Part D."
+ - q: "Does Medicare automatically know when it's supposed to be secondary?"
+ a: "Not always. Medicare relies on coordination of benefits reporting, but errors happen. You should always inform your providers of your insurance order, and if you notice Medicare paying claims it should be paying second (or vice versa), contact the Medicare Coordination of Benefits Contractor at 1-800-999-1118."
+ - q: "Can I have Medicare as secondary without any other primary insurance?"
+ a: "No. Medicare can only be secondary when there's a legitimate primary payer that legally applies to the same claim. You can't elect to have Medicare be secondary as a cost-saving strategy if no other insurer has the legal obligation to pay first."
+ - q: "Will my provider bill both insurers automatically?"
+ a: "Usually yes, but don't assume it. Confirm with every new provider or facility that they're billing the correct primary insurer first and that they'll submit the remainder to Medicare. Getting this wrong at the front end creates months of corrected-claim frustration."
+ - q: "What happens if Medicare pays a claim it should have paid as secondary?"
+ a: "Medicare may pursue the primary payer to recover what it paid. This is called a conditional payment. Medicare is allowed to pay conditionally (as a courtesy) when the primary payer hasn't paid yet, but it will seek reimbursement once the primary pays. This comes up most often in workers' comp and liability situations."
+ - q: "If my employer plan is primary, do I still need Medicare Part D for prescriptions?"
+ a: "It depends on whether your employer plan's drug coverage is 'creditable,' meaning it's at least as good as Medicare's standard Part D coverage. If it is, you can delay Part D enrollment without penalty. Your employer is required to notify you annually whether their drug coverage is creditable. Keep that letter. You'll need it when you eventually enroll in Part D."
 ---
 
 Most people think of Medicare as the thing that kicks in first and pays the most. That assumption is wrong often enough to cost real money, and it catches people completely off guard when a medical bill arrives looking much larger than expected.
@@ -140,8 +140,8 @@ The coordination of benefits rules exist because Congress didn't want Medicare p
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

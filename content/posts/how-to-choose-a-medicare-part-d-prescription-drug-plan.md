@@ -13,16 +13,16 @@ author_bio: "Frank Thompson is a retirement planning researcher who focuses on t
 slug: "how-to-choose-a-medicare-part-d-prescription-drug-plan"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I have more than one Part D plan at the same time?"
-    a: "No. You can only be enrolled in one Part D plan at a time. If you join a new plan during Open Enrollment, the new plan automatically replaces your old one on January 1st."
-  - q: "What happens if I don't sign up for Part D when I'm first eligible?"
-    a: "You'll face a late enrollment penalty. It's calculated as 1% of the national base beneficiary premium multiplied by every month you went without creditable drug coverage, and it gets added permanently to your premium for as long as you have Part D. The national base premium changes annually; in 2026 it's around $36. It adds up. The only exception is if you had other creditable coverage, like through an employer or union plan."
-  - q: "Do I need Part D if I'm on Medicare Advantage?"
-    a: "Maybe not separately. Most Medicare Advantage plans (Part C) include built-in drug coverage that functions like Part D. Before enrolling in a standalone Part D plan, confirm whether your Medicare Advantage plan already includes drug coverage. If it does, enrolling separately in Part D could actually trigger a disenrollment from your Advantage plan."
-  - q: "My drug isn't on the plan's formulary. What should I do?"
-    a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
-  - q: "Is a $0 premium Part D plan always a bad deal?"
-    a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
+ - q: "Can I have more than one Part D plan at the same time?"
+ a: "No. You can only be enrolled in one Part D plan at a time. If you join a new plan during Open Enrollment, the new plan automatically replaces your old one on January 1st."
+ - q: "What happens if I don't sign up for Part D when I'm first eligible?"
+ a: "You'll face a late enrollment penalty. It's calculated as 1% of the national base beneficiary premium multiplied by every month you went without creditable drug coverage, and it gets added permanently to your premium for as long as you have Part D. The national base premium changes annually; in 2026 it's around $36. It adds up. The only exception is if you had other creditable coverage, like through an employer or union plan."
+ - q: "Do I need Part D if I'm on Medicare Advantage?"
+ a: "Maybe not separately. Most Medicare Advantage plans (Part C) include built-in drug coverage that functions like Part D. Before enrolling in a standalone Part D plan, confirm whether your Medicare Advantage plan already includes drug coverage. If it does, enrolling separately in Part D could actually trigger a disenrollment from your Advantage plan."
+ - q: "My drug isn't on the plan's formulary. What should I do?"
+ a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
+ - q: "Is a $0 premium Part D plan always a bad deal?"
+ a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
 ---
 
 Most people spend more time picking a Netflix subscription than they do choosing their Medicare Part D drug plan. I've watched that mistake cost people hundreds of dollars a year, sometimes over a thousand, and it's entirely avoidable.
@@ -103,7 +103,7 @@ The single most important thing you can do is run your own drugs through Medicar
 - **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
 
 
-*Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
+*Photo: [MART PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
 
 ---
 
@@ -118,13 +118,13 @@ The single most important thing you can do is run your own drugs through Medicar
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [MART  PRODUCTION](https://www.pexels.com/@mart-production)
+- [MART PRODUCTION](https://www.pexels.com/@mart-production)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15) — The original bestselling guide to navigating Medicare and Social Security timing — over 100,000 copies sold.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
 

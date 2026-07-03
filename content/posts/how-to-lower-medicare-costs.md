@@ -13,16 +13,16 @@ author_bio: "Robert Williams is trained through the SHIP counselor framework and
 slug: "how-to-lower-medicare-costs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I change my Medicare plan if I'm unhappy with my costs?"
-    a: "Yes, but the timing matters. The Annual Enrollment Period (AEP) runs October 15 to December 7 each year, and that's when most people can switch plans. There's also the Medicare Advantage Open Enrollment Period from January 1 to March 31, where you can switch to a different Medicare Advantage plan or return to Original Medicare. Outside of these windows, changes are generally only allowed if you qualify for a Special Enrollment Period."
-  - q: "Does Medicare cover dental, vision, or hearing costs?"
-    a: "Original Medicare doesn't cover most routine dental, vision, or hearing care, which surprises a lot of people and adds significant out-of-pocket costs. Some Medicare Advantage plans include these benefits, so it's worth comparing plans specifically on this point if those costs are meaningful to you. Stand-alone dental and vision insurance is also available to Medicare enrollees."
-  - q: "What is the Medicare Part B deductible for 2026?"
-    a: "As of 2026, the Part B deductible is $257 per year. After you meet the deductible, Medicare typically covers 80% of approved services and you pay the remaining 20%, unless you have a supplement plan or Medicare Advantage that covers that cost-sharing."
-  - q: "Is it worth buying a Medigap policy?"
-    a: "For many people, yes, particularly if you have ongoing health needs or simply want cost predictability. Medigap Plan G is currently the most comprehensive option for new Medicare enrollees (Plan C and Plan F are no longer available to people who became eligible for Medicare after January 1, 2020). Whether it's worth the premium depends on how often you use medical services; run the numbers for your specific situation before committing."
-  - q: "What if I can't afford my Medicare premiums right now?"
-    a: "Don't just stop paying. Contact Medicare or Social Security immediately, and check your eligibility for Medicare Savings Programs through your state Medicaid office. If you're in a Medicare Advantage plan, you may also be able to move to a lower-cost plan during an enrollment period. A free SHIP counselor can help you sort through your options without any sales pressure."
+ - q: "Can I change my Medicare plan if I'm unhappy with my costs?"
+ a: "Yes, but the timing matters. The Annual Enrollment Period (AEP) runs October 15 to December 7 each year, and that's when most people can switch plans. There's also the Medicare Advantage Open Enrollment Period from January 1 to March 31, where you can switch to a different Medicare Advantage plan or return to Original Medicare. Outside of these windows, changes are generally only allowed if you qualify for a Special Enrollment Period."
+ - q: "Does Medicare cover dental, vision, or hearing costs?"
+ a: "Original Medicare doesn't cover most routine dental, vision, or hearing care, which surprises a lot of people and adds significant out-of-pocket costs. Some Medicare Advantage plans include these benefits, so it's worth comparing plans specifically on this point if those costs are meaningful to you. Stand-alone dental and vision insurance is also available to Medicare enrollees."
+ - q: "What is the Medicare Part B deductible for 2026?"
+ a: "As of 2026, the Part B deductible is $257 per year. After you meet the deductible, Medicare typically covers 80% of approved services and you pay the remaining 20%, unless you have a supplement plan or Medicare Advantage that covers that cost-sharing."
+ - q: "Is it worth buying a Medigap policy?"
+ a: "For many people, yes, particularly if you have ongoing health needs or simply want cost predictability. Medigap Plan G is currently the most comprehensive option for new Medicare enrollees (Plan C and Plan F are no longer available to people who became eligible for Medicare after January 1, 2020). Whether it's worth the premium depends on how often you use medical services; run the numbers for your specific situation before committing."
+ - q: "What if I can't afford my Medicare premiums right now?"
+ a: "Don't just stop paying. Contact Medicare or Social Security immediately, and check your eligibility for Medicare Savings Programs through your state Medicaid office. If you're in a Medicare Advantage plan, you may also be able to move to a lower-cost plan during an enrollment period. A free SHIP counselor can help you sort through your options without any sales pressure."
 ---
 
 Most people don't realize they're overpaying for Medicare until the bill lands and they're already locked in for the year.
@@ -133,8 +133,8 @@ One more thing: if a large Roth conversion or a property sale temporarily spiked
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

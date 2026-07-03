@@ -9,16 +9,16 @@ tags: ["does", "Medicare", "cover", "percent"]
 slug: "does-medicare-cover-100-percent"
 affiliate_disclosure: true
 faqs:
-  - q: "Does Medicare Part A cover 100 percent of hospital costs?"
-    a: "No. Part A covers hospital stays after you pay the benefit period deductible (around $1,632 in 2024). After 60 days in the hospital, daily coinsurance charges kick in, and after 90 days you're drawing on lifetime reserve days, which you only get 60 of total. Long hospital stays can get expensive quickly."
-  - q: "Is there a Medicare plan that covers 100 percent of everything?"
-    a: "No single Medicare plan covers everything. Medigap Plan G comes closest for hospital and doctor costs: after you pay the Part B deductible, it covers virtually all remaining cost-sharing for Medicare-approved services. But you'll still need separate coverage for dental, vision, hearing, and drugs."
-  - q: "Does Medicare cover 100 percent after you meet the deductible?"
-    a: "For many Part B services, yes, once you've met the annual deductible, Medicare pays 80 percent and you owe 20 percent. Medicare itself never pays 100 percent of Part B costs on its own. You'd need a Medigap plan to cover that remaining 20 percent."
-  - q: "Can Medicare Advantage plans cover 100 percent of costs?"
-    a: "Some Medicare Advantage plans have $0 deductibles and $0 copays for certain services, but virtually all of them have cost-sharing for hospitalizations, specialist visits, and other care. Maximum out-of-pocket limits on Advantage plans are capped (around $8,850 for in-network care in 2024), which Original Medicare doesn't offer. That cap matters a lot in a serious illness."
-  - q: "Does Medicare cover 100 percent of preventive care?"
-    a: "Mostly yes. Medicare covers many preventive services at 100 percent with no cost-sharing, including the annual wellness visit, certain cancer screenings, flu shots, and cardiovascular screenings, as long as you see a provider who accepts Medicare assignment and the service is billed as preventive. The fine print: if your annual wellness visit turns into a discussion of a new symptom or problem, it can be reclassified as a regular office visit, and cost-sharing applies."
+ - q: "Does Medicare Part A cover 100 percent of hospital costs?"
+ a: "No. Part A covers hospital stays after you pay the benefit period deductible (around $1,632 in 2024). After 60 days in the hospital, daily coinsurance charges kick in, and after 90 days you're drawing on lifetime reserve days, which you only get 60 of total. Long hospital stays can get expensive quickly."
+ - q: "Is there a Medicare plan that covers 100 percent of everything?"
+ a: "No single Medicare plan covers everything. Medigap Plan G comes closest for hospital and doctor costs: after you pay the Part B deductible, it covers virtually all remaining cost-sharing for Medicare-approved services. But you'll still need separate coverage for dental, vision, hearing, and drugs."
+ - q: "Does Medicare cover 100 percent after you meet the deductible?"
+ a: "For many Part B services, yes, once you've met the annual deductible, Medicare pays 80 percent and you owe 20 percent. Medicare itself never pays 100 percent of Part B costs on its own. You'd need a Medigap plan to cover that remaining 20 percent."
+ - q: "Can Medicare Advantage plans cover 100 percent of costs?"
+ a: "Some Medicare Advantage plans have $0 deductibles and $0 copays for certain services, but virtually all of them have cost-sharing for hospitalizations, specialist visits, and other care. Maximum out-of-pocket limits on Advantage plans are capped (around $8,850 for in-network care in 2024), which Original Medicare doesn't offer. That cap matters a lot in a serious illness."
+ - q: "Does Medicare cover 100 percent of preventive care?"
+ a: "Mostly yes. Medicare covers many preventive services at 100 percent with no cost-sharing, including the annual wellness visit, certain cancer screenings, flu shots, and cardiovascular screenings, as long as you see a provider who accepts Medicare assignment and the service is billed as preventive. The fine print: if your annual wellness visit turns into a discussion of a new symptom or problem, it can be reclassified as a regular office visit, and cost-sharing applies."
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
@@ -34,12 +34,12 @@ So let's be specific about what Medicare actually covers, where the gaps are, an
 ---
 
 <div class="value-module">
-  <div class="vm-head">Original Medicare Out-of-Pocket Cost Breakdown</div>
-  <div class="vm-body">
-    <p class="vm-intro">This table shows the standard cost-sharing structure for Original Medicare (Parts A and B), illustrating why the 20% Part B coinsurance with no annual cap creates the largest financial exposure.</p>
-    <table><caption>Original Medicare Standard Cost-Sharing (2024 Figures Are Illustrative)</caption><thead><tr><th>Coverage Area</th><th>What You Pay</th><th>Key Risk Factor</th></tr></thead><tbody><tr><td>Part A: Hospital Days 1–60</td><td>One deductible per benefit period (approx. $1,600)</td><td>Multiple hospital admissions can trigger multiple deductibles in same year</td></tr><tr><td>Part A: Hospital Days 61–90</td><td>Daily coinsurance (approx. $400/day)</td><td>Extended stays accumulate quickly; 30-day stay in this window ≈ $12,000</td></tr><tr><td>Part A: Lifetime Reserve Days (91–150)</td><td>Higher daily coinsurance (approx. $800/day); 60 days total lifetime</td><td>Once exhausted, never renewed; you pay 100% beyond day 150</td></tr><tr><td>Part A: Skilled Nursing Days 21–100</td><td>Daily coinsurance (approx. $200/day)</td><td>80-day SNF stay after day 20 ≈ $16,000 out-of-pocket</td></tr><tr><td>Part B: Most Outpatient Services</td><td>20% of Medicare-approved amount after annual deductible (approx. $240)</td><td>No annual out-of-pocket maximum; $200,000 treatment = $40,000 owed</td></tr><tr><td>Part B: Preventive Services</td><td>$0 for most screenings (colonoscopy, mammogram, flu shot)</td><td>Diagnostic follow-ups after screening revert to 20% coinsurance</td></tr><tr><td>Prescription Drugs (Part D)</td><td>Varies by plan; deductibles, copays, and coverage gap apply</td><td>Specialty drugs can cost thousands before catastrophic coverage begins</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Original Medicare Out-of-Pocket Cost Breakdown</div>
+ <div class="vm-body">
+ <p class="vm-intro">This table shows the standard cost-sharing structure for Original Medicare (Parts A and B), illustrating why the 20% Part B coinsurance with no annual cap creates the largest financial exposure.</p>
+ <table><caption>Original Medicare Standard Cost-Sharing (2024 Figures Are Illustrative)</caption><thead><tr><th>Coverage Area</th><th>What You Pay</th><th>Key Risk Factor</th></tr></thead><tbody><tr><td>Part A: Hospital Days 1–60</td><td>One deductible per benefit period (approx. $1,600)</td><td>Multiple hospital admissions can trigger multiple deductibles in same year</td></tr><tr><td>Part A: Hospital Days 61–90</td><td>Daily coinsurance (approx. $400/day)</td><td>Extended stays accumulate quickly; 30-day stay in this window ≈ $12,000</td></tr><tr><td>Part A: Lifetime Reserve Days (91–150)</td><td>Higher daily coinsurance (approx. $800/day); 60 days total lifetime</td><td>Once exhausted, never renewed; you pay 100% beyond day 150</td></tr><tr><td>Part A: Skilled Nursing Days 21–100</td><td>Daily coinsurance (approx. $200/day)</td><td>80-day SNF stay after day 20 ≈ $16,000 out-of-pocket</td></tr><tr><td>Part B: Most Outpatient Services</td><td>20% of Medicare-approved amount after annual deductible (approx. $240)</td><td>No annual out-of-pocket maximum; $200,000 treatment = $40,000 owed</td></tr><tr><td>Part B: Preventive Services</td><td>$0 for most screenings (colonoscopy, mammogram, flu shot)</td><td>Diagnostic follow-ups after screening revert to 20% coinsurance</td></tr><tr><td>Prescription Drugs (Part D)</td><td>Varies by plan; deductibles, copays, and coverage gap apply</td><td>Specialty drugs can cost thousands before catastrophic coverage begins</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Basic Structure: Why 100% Was Never the Design

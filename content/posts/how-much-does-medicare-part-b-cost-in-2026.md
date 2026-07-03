@@ -9,16 +9,16 @@ tags: ["much", "does", "medicare", "part", "cost"]
 slug: "how-much-does-medicare-part-b-cost-in"
 affiliate_disclosure: true
 faqs:
-  - q: "Is the $185 Part B premium going up in 2027?"
-    a: "Nobody knows yet. CMS announces the following year's premium in the fall, typically October or November. The 2027 premium will be set by fall 2026. What we do know is that Part B premiums have generally increased over time, tied to Medicare spending growth. Holding flat two years in a row (2025 and 2026 both at $185) is actually unusual."
-  - q: "Can my Part B premium change mid-year?"
-    a: "In most cases, no. Your premium is set at the start of the year and stays fixed through December. The exception: if your income changes significantly and you file an IRMAA appeal (SSA Form SSA-44) due to a qualifying life-changing event like retirement, divorce, or the death of a spouse, SSA can adjust your premium during the year."
-  - q: "Do I have to pay Part B if I have coverage through my spouse's employer?"
-    a: "No, you can delay Part B without penalty if you're covered by an active employer group health plan (your own or your spouse's). 'Active' is the key word. Retiree coverage does not count, COBRA does not count, and marketplace coverage does not count. When that employer coverage ends, you have an 8-month Special Enrollment Period to sign up for Part B penalty-free."
-  - q: "Does Part B cover dental, vision, or hearing?"
-    a: "Original Medicare Part B does not cover routine dental, vision, or hearing. No cleanings, no glasses, no hearing aids. Some Medicare Advantage plans include these benefits, which is one of the main reasons people choose Advantage over Original Medicare plus Medigap. If you stick with Original Medicare, you'll need separate standalone coverage or pay out of pocket for these services."
-  - q: "What happens if I don't pay my Part B premium?"
-    a: "Medicare can disenroll you from Part B if you fall behind on premiums, typically after a two-month grace period. If that happens, you lose your outpatient coverage and will likely face a permanent late enrollment penalty when you re-enroll. It's a situation worth going to considerable lengths to avoid. If you're struggling to afford the premium, check MSP eligibility before you skip a payment."
+ - q: "Is the $185 Part B premium going up in 2027?"
+ a: "Nobody knows yet. CMS announces the following year's premium in the fall, typically October or November. The 2027 premium will be set by fall 2026. What we do know is that Part B premiums have generally increased over time, tied to Medicare spending growth. Holding flat two years in a row (2025 and 2026 both at $185) is actually unusual."
+ - q: "Can my Part B premium change mid-year?"
+ a: "In most cases, no. Your premium is set at the start of the year and stays fixed through December. The exception: if your income changes significantly and you file an IRMAA appeal (SSA Form SSA-44) due to a qualifying life-changing event like retirement, divorce, or the death of a spouse, SSA can adjust your premium during the year."
+ - q: "Do I have to pay Part B if I have coverage through my spouse's employer?"
+ a: "No, you can delay Part B without penalty if you're covered by an active employer group health plan (your own or your spouse's). 'Active' is the key word. Retiree coverage does not count, COBRA does not count, and marketplace coverage does not count. When that employer coverage ends, you have an 8-month Special Enrollment Period to sign up for Part B penalty-free."
+ - q: "Does Part B cover dental, vision, or hearing?"
+ a: "Original Medicare Part B does not cover routine dental, vision, or hearing. No cleanings, no glasses, no hearing aids. Some Medicare Advantage plans include these benefits, which is one of the main reasons people choose Advantage over Original Medicare plus Medigap. If you stick with Original Medicare, you'll need separate standalone coverage or pay out of pocket for these services."
+ - q: "What happens if I don't pay my Part B premium?"
+ a: "Medicare can disenroll you from Part B if you fall behind on premiums, typically after a two-month grace period. If that happens, you lose your outpatient coverage and will likely face a permanent late enrollment penalty when you re-enroll. It's a situation worth going to considerable lengths to avoid. If you're struggling to afford the premium, check MSP eligibility before you skip a payment."
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
@@ -34,12 +34,12 @@ Here's what I'm going to do: walk you through what Part B actually costs in 2026
 ---
 
 <div class="value-module">
-  <div class="vm-head">IRMAA Brackets: Your 2026 Monthly Cost</div>
-  <div class="vm-body">
-    <p class="vm-intro">Your actual Part B premium depends on your modified adjusted gross income (MAGI) from two years prior, so 2024 income determines your 2026 premium.</p>
-    <table><caption>2026 Part B Monthly Premiums by Income (IRMAA Brackets)</caption><thead><tr><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Monthly Premium</th><th scope="col">Annual Cost</th></tr></thead><tbody><tr><td>$106,000 or less</td><td>$212,000 or less</td><td>$185.00</td><td>$2,220</td></tr><tr><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$259.00</td><td>$3,108</td></tr><tr><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$369.90</td><td>$4,439</td></tr><tr><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$480.80</td><td>$5,770</td></tr><tr><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$591.70</td><td>$7,100</td></tr><tr><td>Above $500,000</td><td>Above $750,000</td><td>$628.90</td><td>$7,547</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">IRMAA Brackets: Your 2026 Monthly Cost</div>
+ <div class="vm-body">
+ <p class="vm-intro">Your actual Part B premium depends on your modified adjusted gross income (MAGI) from two years prior, so 2024 income determines your 2026 premium.</p>
+ <table><caption>2026 Part B Monthly Premiums by Income (IRMAA Brackets)</caption><thead><tr><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Monthly Premium</th><th scope="col">Annual Cost</th></tr></thead><tbody><tr><td>$106,000 or less</td><td>$212,000 or less</td><td>$185.00</td><td>$2,220</td></tr><tr><td>$106,001–$133,000</td><td>$212,001–$266,000</td><td>$259.00</td><td>$3,108</td></tr><tr><td>$133,001–$167,000</td><td>$266,001–$334,000</td><td>$369.90</td><td>$4,439</td></tr><tr><td>$167,001–$200,000</td><td>$334,001–$400,000</td><td>$480.80</td><td>$5,770</td></tr><tr><td>$200,001–$500,000</td><td>$400,001–$750,000</td><td>$591.70</td><td>$7,100</td></tr><tr><td>Above $500,000</td><td>Above $750,000</td><td>$628.90</td><td>$7,547</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## The Standard Premium, the Deductible, and What Part B Actually Covers

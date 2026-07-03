@@ -13,16 +13,16 @@ author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of sen
 slug: "medicare-advantage-vs-medicare-supplement-total-cost"
 affiliate_disclosure: true
 faqs:
-  - q: "Which is cheaper overall, Medicare Advantage or Medigap?"
-    a: "For healthy people who rarely use medical services, Medicare Advantage often costs less in total over the course of a year because the $0 or low premium offsets modest out-of-pocket costs. For people with significant health conditions or high service use, Medigap typically comes out cheaper once you add up all the cost-sharing on an Advantage plan. The honest answer is that it depends entirely on your individual health and usage."
-  - q: "What is the out-of-pocket maximum on Medicare Advantage in 2026?"
-    a: "For 2026, the maximum out-of-pocket limit on Medicare Advantage plans for in-network services is set by CMS (Centers for Medicare and Medicaid Services) at $9,350, though individual plans can set a lower cap. Combined in-network and out-of-network maximums can be higher. This is the most you'd pay in a year before the plan covers 100% of covered services."
-  - q: "Can I switch from Medicare Advantage to Medigap whenever I want?"
-    a: "In most states, no. Outside of your initial enrollment window, Medigap insurers can use medical underwriting to deny coverage or charge higher premiums based on your health history. Some states (like New York and Connecticut) have guaranteed issue protections year-round, but most don't. This is why the decision you make at 65 carries more weight than most people realize."
-  - q: "Does Medigap cover prescription drugs?"
-    a: "No. Medigap plans don't include prescription drug coverage. If you have a Medigap policy, you need to enroll in a separate standalone Part D prescription drug plan to get drug coverage. Medicare Advantage plans typically include drug coverage (called MAPD plans), which is one reason the comparison between the two approaches involves looking at total premium costs across multiple plan types."
-  - q: "Are Medicare Advantage extra benefits like dental and vision worth factoring into the cost comparison?"
-    a: "Yes, with a caveat. The dental, vision, hearing, and over-the-counter benefits on some MA plans have genuine dollar value, but only if you actually use them. A $1,500 dental benefit that requires using specific in-network dentists who aren't near you, or that covers only cleanings and basic fillings, may be worth far less than the headline number suggests. Get specific about what the benefit actually covers before counting it in your comparison."
+ - q: "Which is cheaper overall, Medicare Advantage or Medigap?"
+ a: "For healthy people who rarely use medical services, Medicare Advantage often costs less in total over the course of a year because the $0 or low premium offsets modest out-of-pocket costs. For people with significant health conditions or high service use, Medigap typically comes out cheaper once you add up all the cost-sharing on an Advantage plan. The honest answer is that it depends entirely on your individual health and usage."
+ - q: "What is the out-of-pocket maximum on Medicare Advantage in 2026?"
+ a: "For 2026, the maximum out-of-pocket limit on Medicare Advantage plans for in-network services is set by CMS (Centers for Medicare and Medicaid Services) at $9,350, though individual plans can set a lower cap. Combined in-network and out-of-network maximums can be higher. This is the most you'd pay in a year before the plan covers 100% of covered services."
+ - q: "Can I switch from Medicare Advantage to Medigap whenever I want?"
+ a: "In most states, no. Outside of your initial enrollment window, Medigap insurers can use medical underwriting to deny coverage or charge higher premiums based on your health history. Some states (like New York and Connecticut) have guaranteed issue protections year-round, but most don't. This is why the decision you make at 65 carries more weight than most people realize."
+ - q: "Does Medigap cover prescription drugs?"
+ a: "No. Medigap plans don't include prescription drug coverage. If you have a Medigap policy, you need to enroll in a separate standalone Part D prescription drug plan to get drug coverage. Medicare Advantage plans typically include drug coverage (called MAPD plans), which is one reason the comparison between the two approaches involves looking at total premium costs across multiple plan types."
+ - q: "Are Medicare Advantage extra benefits like dental and vision worth factoring into the cost comparison?"
+ a: "Yes, with a caveat. The dental, vision, hearing, and over-the-counter benefits on some MA plans have genuine dollar value, but only if you actually use them. A $1,500 dental benefit that requires using specific in-network dentists who aren't near you, or that covers only cleanings and basic fillings, may be worth far less than the headline number suggests. Get specific about what the benefit actually covers before counting it in your comparison."
 ---
 
 Most people shopping for Medicare coverage fixate on the monthly premium. I get it. That number shows up first, it's easy to compare, and a $0 premium Medicare Advantage plan looks like an obvious winner against a Medigap Plan G that might run $140 a month or more. But here's what I've seen trip up seniors over and over again in my two decades of doing this: the premium is almost the worst number to focus on. Total annual cost is what actually matters, and those two plans might end up costing you more or less the same, or wildly different, depending entirely on how much healthcare you use.
@@ -116,8 +116,8 @@ One more thing: get quotes from multiple Medigap insurers for the same plan lett
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

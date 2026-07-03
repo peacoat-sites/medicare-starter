@@ -13,16 +13,16 @@ author_bio: "Robert Williams is trained through the SHIP counselor framework and
 slug: "medicare-and-health-savings-account-hsa"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use my HSA to pay for my spouse's Medicare premiums?"
-    a: "Yes. HSA funds can pay for qualified medical expenses for your spouse, including their Medicare Part B and Part D premiums, even if your spouse isn't the account holder. The key is that the expenses must be qualified under IRS rules."
-  - q: "What happens to my HSA if I die before spending it?"
-    a: "If your spouse is the named beneficiary, they inherit the account as their own HSA and can use it under the same rules. Non-spouse beneficiaries receive the full balance as taxable income in the year of your death, with no penalty. That's a significant difference worth knowing when you name beneficiaries."
-  - q: "Can I have an HSA through my employer if my spouse is on Medicare?"
-    a: "Your spouse's Medicare enrollment has no effect on your HSA eligibility. What matters is your own health coverage. If you're enrolled in a qualifying HDHP through your employer and not on Medicare yourself, you can contribute."
-  - q: "Does enrolling in Part A only (not Part B) still block HSA contributions?"
-    a: "Yes. Part A enrollment alone disqualifies you from making new HSA contributions, even if you haven't enrolled in Part B. There's no 'partial' Medicare enrollment that preserves HSA eligibility."
-  - q: "If I decline Medicare Part A to keep my HSA, am I giving up something valuable?"
-    a: "Part A is premium-free for most people who've worked 40 or more quarters, so declining it has a real cost. You'd give up hospital coverage to preserve HSA contribution ability. For most people, that trade doesn't pencil out unless they have another specific reason to delay and are still building significant HSA assets. Run the numbers before deciding."
+ - q: "Can I use my HSA to pay for my spouse's Medicare premiums?"
+ a: "Yes. HSA funds can pay for qualified medical expenses for your spouse, including their Medicare Part B and Part D premiums, even if your spouse isn't the account holder. The key is that the expenses must be qualified under IRS rules."
+ - q: "What happens to my HSA if I die before spending it?"
+ a: "If your spouse is the named beneficiary, they inherit the account as their own HSA and can use it under the same rules. Non-spouse beneficiaries receive the full balance as taxable income in the year of your death, with no penalty. That's a significant difference worth knowing when you name beneficiaries."
+ - q: "Can I have an HSA through my employer if my spouse is on Medicare?"
+ a: "Your spouse's Medicare enrollment has no effect on your HSA eligibility. What matters is your own health coverage. If you're enrolled in a qualifying HDHP through your employer and not on Medicare yourself, you can contribute."
+ - q: "Does enrolling in Part A only (not Part B) still block HSA contributions?"
+ a: "Yes. Part A enrollment alone disqualifies you from making new HSA contributions, even if you haven't enrolled in Part B. There's no 'partial' Medicare enrollment that preserves HSA eligibility."
+ - q: "If I decline Medicare Part A to keep my HSA, am I giving up something valuable?"
+ a: "Part A is premium-free for most people who've worked 40 or more quarters, so declining it has a real cost. You'd give up hospital coverage to preserve HSA contribution ability. For most people, that trade doesn't pencil out unless they have another specific reason to delay and are still building significant HSA assets. Run the numbers before deciding."
 ---
 Most people get the Medicare-HSA relationship completely backwards. They assume an HSA is just a savings account, so it shouldn't matter what insurance you have. Wrong. The IRS ties HSA eligibility directly to your health coverage type, not your age or income, and the moment Medicare enters the picture, everything changes.
 

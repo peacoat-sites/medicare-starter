@@ -11,10 +11,7 @@ author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "cms-proposes-making-medicare-drug-price-negotiations-permanent"
-affiliate_disclosure: true
----
-
-For two years, the Medicare drug price negotiation program has run on administrative guidance, which is essentially rules that the next administration could rewrite or ignore. On June 12, 2026, CMS changed that. The agency published proposed rule CMS-4215-P, which would lock the negotiation program into permanent federal regulation for the first time. If you're on Medicare Part D, or about to be, this matters more than most policy news you'll scroll past this week.
+affiliate_disclosure: true, For two years, the Medicare drug price negotiation program has run on administrative guidance, which is essentially rules that the next administration could rewrite or ignore. On June 12, 2026, CMS changed that. The agency published proposed rule CMS-4215-P, which would lock the negotiation program into permanent federal regulation for the first time. If you're on Medicare Part D, or about to be, this matters more than most policy news you'll scroll past this week.
 
 ## What the Proposed Rule Actually Does
 
@@ -67,9 +64,9 @@ CMS has built something real here over two years. Whether the proposed permanent
 ## Sources
 - [CMS Proposed Rule Locks in Lower Prices and Fosters Innovation for the Medicare Drug Price Negotiation Program](https://www.cms.gov/newsroom/press-releases/cms-proposed-rule-locks-lower-prices-fosters-innovation-medicare-drug-price-negotiation-program) (June 12, 2026)
 - [Federal Register: Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program (CMS-4215-P)](https://www.federalregister.gov/documents/2026/06/16/2026-12059/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program) (June 16, 2026)
-- [CMS Issues First Proposed Rule for IRA Medicare Drug Price Negotiation ,  Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-first-proposed-rule-for-ira-medicare-drug-price-negotiation) (June 2026)
-- [CMS Proposes Permanent Framework for Medicare Drug Price Negotiation Program ,  Duane Morris LLP](https://www.duanemorris.com/alerts/cms_proposes_permanent_framework_medicare_drug_price_negotiation_program_0626.html) (June 2026)
-- [CMS proposes permanent framework for Medicare drug price negotiations ,  Fierce Healthcare](https://www.fiercehealthcare.com/regulatory/cms-proposes-permanent-framework-medicare-drug-price-negotiations) (June 2026)
+- [CMS Issues First Proposed Rule for IRA Medicare Drug Price Negotiation , Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-first-proposed-rule-for-ira-medicare-drug-price-negotiation) (June 2026)
+- [CMS Proposes Permanent Framework for Medicare Drug Price Negotiation Program , Duane Morris LLP](https://www.duanemorris.com/alerts/cms_proposes_permanent_framework_medicare_drug_price_negotiation_program_0626.html) (June 2026)
+- [CMS proposes permanent framework for Medicare drug price negotiations , Fierce Healthcare](https://www.fiercehealthcare.com/regulatory/cms-proposes-permanent-framework-medicare-drug-price-negotiations) (June 2026)
 
 ## Helpful Resources
 

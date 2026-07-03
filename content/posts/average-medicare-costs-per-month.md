@@ -13,16 +13,16 @@ author_bio: "Robert Williams is trained through the SHIP counselor framework and
 slug: "average-medicare-costs-per-month"
 affiliate_disclosure: true
 faqs:
-  - q: "Is Medicare free when you turn 65?"
-    a: "Not exactly. Part A is premium-free for most people with sufficient work history, but Part B has a standard premium of around $185 per month currently, and most people pay it. There's also cost-sharing for services even once you're enrolled."
-  - q: "What is the income limit before Medicare premiums go up?"
-    a: "The IRMAA surcharge for Part B kicks in once your income (as an individual) exceeds roughly $106,000, based on your tax return from two years prior. Above that threshold, your Part B premium increases in steps, up to over $590 per month at the highest income tier."
-  - q: "Can I get help paying my Medicare premiums?"
-    a: "Yes. Medicare Savings Programs (MSPs) are state-run programs that help people with limited income and assets pay Part A and/or Part B premiums, deductibles, and coinsurance. Call your state Medicaid office or 1-800-MEDICARE to find out if you qualify."
-  - q: "Do I need Medigap if I have Medicare Advantage?"
-    a: "No. Medigap policies only work with Original Medicare (Parts A and B). If you're enrolled in a Medicare Advantage plan, you can't use a Medigap policy, and insurance companies can't legally sell you one that applies to Advantage coverage."
-  - q: "When does my Medicare enrollment period open?"
-    a: "Your Initial Enrollment Period is a 7-month window: it starts 3 months before the month you turn 65, includes your birthday month, and ends 3 months after. Enrolling late without a valid Special Enrollment Period can trigger permanent premium penalties for Part B and Part D."
+ - q: "Is Medicare free when you turn 65?"
+ a: "Not exactly. Part A is premium-free for most people with sufficient work history, but Part B has a standard premium of around $185 per month currently, and most people pay it. There's also cost-sharing for services even once you're enrolled."
+ - q: "What is the income limit before Medicare premiums go up?"
+ a: "The IRMAA surcharge for Part B kicks in once your income (as an individual) exceeds roughly $106,000, based on your tax return from two years prior. Above that threshold, your Part B premium increases in steps, up to over $590 per month at the highest income tier."
+ - q: "Can I get help paying my Medicare premiums?"
+ a: "Yes. Medicare Savings Programs (MSPs) are state-run programs that help people with limited income and assets pay Part A and/or Part B premiums, deductibles, and coinsurance. Call your state Medicaid office or 1-800-MEDICARE to find out if you qualify."
+ - q: "Do I need Medigap if I have Medicare Advantage?"
+ a: "No. Medigap policies only work with Original Medicare (Parts A and B). If you're enrolled in a Medicare Advantage plan, you can't use a Medigap policy, and insurance companies can't legally sell you one that applies to Advantage coverage."
+ - q: "When does my Medicare enrollment period open?"
+ a: "Your Initial Enrollment Period is a 7-month window: it starts 3 months before the month you turn 65, includes your birthday month, and ends 3 months after. Enrolling late without a valid Special Enrollment Period can trigger permanent premium penalties for Part B and Part D."
 ---
 
 Most people walk into Medicare assuming it's free. I've watched that assumption cost retirees hundreds of dollars a month in surprise premiums, cost-sharing, and uncovered services they didn't see coming. Let me save you that particular frustration.
@@ -132,8 +132,8 @@ One thing I'd add before you go: Medicare costs in retirement are almost always 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

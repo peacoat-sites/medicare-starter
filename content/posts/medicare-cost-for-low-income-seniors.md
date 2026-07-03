@@ -9,16 +9,16 @@ tags: ["Medicare", "cost", "income", "seniors"]
 slug: "medicare-cost-for-low-income-seniors"
 affiliate_disclosure: true
 faqs:
-  - q: "What if I already have Medicare but didn't know about these programs?"
-    a: "You can apply for Medicare Savings Programs and Extra Help at any time, even if you've been enrolled in Medicare for years. Some programs can help going forward, and in certain cases you may be able to recoup premiums you already paid. Contact your state Medicaid office or a SHIP counselor to find out what's available retroactively in your state."
-  - q: "Does getting extra help affect my Social Security benefits?"
-    a: "No. Receiving Medicare Savings Programs, Extra Help, or Medicaid does not reduce your Social Security income. These are distinct programs, and benefits from one don't count against the other."
-  - q: "I'm not on Social Security yet. Can I still get help with Medicare costs?"
-    a: "Yes. These programs are based on your current income and assets, not whether you're receiving Social Security. If you enrolled in Medicare at 65 but deferred Social Security, you can still qualify for MSPs and Extra Help."
-  - q: "Can I get help if I live with family and they have higher income?"
-    a: "Generally, MSPs and Extra Help look at your individual (or household) income, not a family member's income unless they're your spouse. Living with an adult child with higher income typically doesn't affect your eligibility. A SHIP counselor can help you sort out your specific situation."
-  - q: "What's the fastest way to find out if I qualify?"
-    a: "The quickest path is to call your local SHIP office (find them at shiphelp.org) or your state Medicaid office. You can also use the Medicare Plan Finder at Medicare.gov to get a rough sense of Extra Help eligibility, but for a definitive answer and actual application, talking to a real person is genuinely worth the call."
+ - q: "What if I already have Medicare but didn't know about these programs?"
+ a: "You can apply for Medicare Savings Programs and Extra Help at any time, even if you've been enrolled in Medicare for years. Some programs can help going forward, and in certain cases you may be able to recoup premiums you already paid. Contact your state Medicaid office or a SHIP counselor to find out what's available retroactively in your state."
+ - q: "Does getting extra help affect my Social Security benefits?"
+ a: "No. Receiving Medicare Savings Programs, Extra Help, or Medicaid does not reduce your Social Security income. These are distinct programs, and benefits from one don't count against the other."
+ - q: "I'm not on Social Security yet. Can I still get help with Medicare costs?"
+ a: "Yes. These programs are based on your current income and assets, not whether you're receiving Social Security. If you enrolled in Medicare at 65 but deferred Social Security, you can still qualify for MSPs and Extra Help."
+ - q: "Can I get help if I live with family and they have higher income?"
+ a: "Generally, MSPs and Extra Help look at your individual (or household) income, not a family member's income unless they're your spouse. Living with an adult child with higher income typically doesn't affect your eligibility. A SHIP counselor can help you sort out your specific situation."
+ - q: "What's the fastest way to find out if I qualify?"
+ a: "The quickest path is to call your local SHIP office (find them at shiphelp.org) or your state Medicaid office. You can also use the Medicare Plan Finder at Medicare.gov to get a rough sense of Extra Help eligibility, but for a definitive answer and actual application, talking to a real person is genuinely worth the call."
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
@@ -34,12 +34,12 @@ Let me give you the real picture.
 ---
 
 <div class="value-module">
-  <div class="vm-head">Medicare Savings Programs Eligibility at a Glance</div>
-  <div class="vm-body">
-    <p class="vm-intro">These four Medicare Savings Programs (MSPs) cover different cost levels based on your income and assets-here's how they compare for 2024.</p>
-    <table><caption>Medicare Savings Programs: Income Limits and Benefits (2024)</caption><thead><tr><th>Program</th><th>Monthly Income Limit (Individual)</th><th>Asset Limit (Individual)</th><th>What It Pays</th></tr></thead><tbody><tr><td>Qualified Medicare Beneficiary (QMB)</td><td>≤ $1,275</td><td>≤ $9,430</td><td>Part A premium, Part B premium, deductibles, coinsurance, copays</td></tr><tr><td>Specified Low-Income Medicare Beneficiary (SLMB)</td><td>$1,275 – $1,528</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualifying Individual (QI)</td><td>$1,528 – $1,715</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualified Disabled and Working Individuals (QDWI)</td><td>≤ $4,945</td><td>≤ $4,000</td><td>Part A premium only (for those who lost premium-free Part A)</td></tr></tbody><tfoot><tr><td colspan="4">Note: Limits shown are federal minimums; most states set higher thresholds. Couples' limits are roughly 35% higher. Assets exclude home, one car, burial funds, and personal belongings. Apply through your state Medicaid office or at ssa.gov.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Medicare Savings Programs Eligibility at a Glance</div>
+ <div class="vm-body">
+ <p class="vm-intro">These four Medicare Savings Programs (MSPs) cover different cost levels based on your income and assets-here's how they compare for 2024.</p>
+ <table><caption>Medicare Savings Programs: Income Limits and Benefits (2024)</caption><thead><tr><th>Program</th><th>Monthly Income Limit (Individual)</th><th>Asset Limit (Individual)</th><th>What It Pays</th></tr></thead><tbody><tr><td>Qualified Medicare Beneficiary (QMB)</td><td>≤ $1,275</td><td>≤ $9,430</td><td>Part A premium, Part B premium, deductibles, coinsurance, copays</td></tr><tr><td>Specified Low-Income Medicare Beneficiary (SLMB)</td><td>$1,275, $1,528</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualifying Individual (QI)</td><td>$1,528, $1,715</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualified Disabled and Working Individuals (QDWI)</td><td>≤ $4,945</td><td>≤ $4,000</td><td>Part A premium only (for those who lost premium-free Part A)</td></tr></tbody><tfoot><tr><td colspan="4">Note: Limits shown are federal minimums; most states set higher thresholds. Couples' limits are roughly 35% higher. Assets exclude home, one car, burial funds, and personal belongings. Apply through your state Medicaid office or at ssa.gov.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Medicare Actually Costs (Before Any Help)

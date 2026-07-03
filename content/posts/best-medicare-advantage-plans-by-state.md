@@ -9,16 +9,16 @@ tags: ["best", "Medicare", "Advantage", "plans", "state"]
 slug: "best-medicare-advantage-plans-by-state"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I switch Medicare Advantage plans if I'm unhappy?"
-    a: "Yes, but timing matters. The main window for switching is the Annual Enrollment Period, which runs from October 15 to December 7 each year. There's also an open enrollment period specifically for Medicare Advantage, running January 1 to March 31, during which you can switch to a different Advantage plan or return to Original Medicare. If you're enrolled in a 5-star plan, you have a special right to switch to that plan at any time during the year."
-  - q: "Are $0 premium Medicare Advantage plans too good to be true?"
-    a: "Not necessarily. A $0 premium means the insurer is absorbing the cost using the federal payment they receive per enrollee. These plans are real and often comprehensive, especially in competitive markets. The catch is that you still pay your Part B premium (around $174.70 per month in 2024), and your costs inside the plan through copays and coinsurance can add up quickly if you use a lot of services. Always look at total estimated annual cost, not just the monthly premium."
-  - q: "What happens if I move to a different state?"
-    a: "Your current Medicare Advantage plan likely won't cover you in your new location, except for emergencies. Moving triggers a Special Enrollment Period that lets you choose a new plan in your new area. You'll want to start researching plans in your destination state before you move, using Medicare.gov's plan finder tool for your new ZIP code."
-  - q: "Does Medicare Advantage cover me when I travel?"
-    a: "Most HMO plans cover emergency and urgent care anywhere in the country. Routine care outside your service area is generally not covered. PPO plans offer more flexibility for out-of-network care, though at higher cost-sharing. If you travel frequently or spend extended time in another state, a PPO or a plan with a national network may serve you better."
-  - q: "How do star ratings actually affect my coverage?"
-    a: "Star ratings don't directly change what your plan covers, but they're a reliable proxy for quality. Higher-rated plans tend to have better care coordination, fewer complaints, and more responsive customer service. Practically speaking, being in a 4- or 5-star plan also gives you flexibility to switch at certain times outside the normal enrollment windows. CMS publishes updated ratings each fall, and you can check your plan's current rating on Medicare.gov."
+ - q: "Can I switch Medicare Advantage plans if I'm unhappy?"
+ a: "Yes, but timing matters. The main window for switching is the Annual Enrollment Period, which runs from October 15 to December 7 each year. There's also an open enrollment period specifically for Medicare Advantage, running January 1 to March 31, during which you can switch to a different Advantage plan or return to Original Medicare. If you're enrolled in a 5-star plan, you have a special right to switch to that plan at any time during the year."
+ - q: "Are $0 premium Medicare Advantage plans too good to be true?"
+ a: "Not necessarily. A $0 premium means the insurer is absorbing the cost using the federal payment they receive per enrollee. These plans are real and often comprehensive, especially in competitive markets. The catch is that you still pay your Part B premium (around $174.70 per month in 2024), and your costs inside the plan through copays and coinsurance can add up quickly if you use a lot of services. Always look at total estimated annual cost, not just the monthly premium."
+ - q: "What happens if I move to a different state?"
+ a: "Your current Medicare Advantage plan likely won't cover you in your new location, except for emergencies. Moving triggers a Special Enrollment Period that lets you choose a new plan in your new area. You'll want to start researching plans in your destination state before you move, using Medicare.gov's plan finder tool for your new ZIP code."
+ - q: "Does Medicare Advantage cover me when I travel?"
+ a: "Most HMO plans cover emergency and urgent care anywhere in the country. Routine care outside your service area is generally not covered. PPO plans offer more flexibility for out-of-network care, though at higher cost-sharing. If you travel frequently or spend extended time in another state, a PPO or a plan with a national network may serve you better."
+ - q: "How do star ratings actually affect my coverage?"
+ a: "Star ratings don't directly change what your plan covers, but they're a reliable proxy for quality. Higher-rated plans tend to have better care coordination, fewer complaints, and more responsive customer service. Practically speaking, being in a 4- or 5-star plan also gives you flexibility to switch at certain times outside the normal enrollment windows. CMS publishes updated ratings each fall, and you can check your plan's current rating on Medicare.gov."
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
@@ -29,12 +29,12 @@ You spent decades paying into Medicare, and now that you're finally eligible, yo
 
 
 <div class="value-module">
-  <div class="vm-head">Medicare Advantage Plan-Type Decision Matrix</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this matrix to match your healthcare patterns with the right plan structure before comparing specific insurers in your state.</p>
-    <table><caption>Which Medicare Advantage Plan Type Fits Your Situation</caption><thead><tr><th>Your Situation</th><th>HMO</th><th>PPO</th><th>HMO-POS</th><th>PFFS</th></tr></thead><tbody><tr><td>All doctors are in one health system</td><td>Strong fit</td><td>Overpaying for flexibility</td><td>Acceptable</td><td>Rarely needed</td></tr><tr><td>See specialists without referrals</td><td>Poor fit</td><td>Strong fit</td><td>Limited fit</td><td>Strong fit</td></tr><tr><td>Travel or live in multiple states seasonally</td><td>Poor fit (emergency only)</td><td>Good fit</td><td>Moderate fit</td><td>Strong fit</td></tr><tr><td>Want lowest possible premium</td><td>Best odds ($0 premiums common)</td><td>Moderate ($20-80 typical)</td><td>Moderate</td><td>Variable</td></tr><tr><td>Need specific specialist outside networks</td><td>Poor fit</td><td>Workable (higher cost-share)</td><td>Workable with referral</td><td>Check if provider accepts</td></tr><tr><td>Prefer care coordination by one doctor</td><td>Strong fit</td><td>Optional</td><td>Strong fit</td><td>Self-directed</td></tr><tr><td>Rural area with limited provider networks</td><td>Check network carefully</td><td>Better flexibility</td><td>Check network</td><td>Often best rural option</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Medicare Advantage Plan-Type Decision Matrix</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this matrix to match your healthcare patterns with the right plan structure before comparing specific insurers in your state.</p>
+ <table><caption>Which Medicare Advantage Plan Type Fits Your Situation</caption><thead><tr><th>Your Situation</th><th>HMO</th><th>PPO</th><th>HMO-POS</th><th>PFFS</th></tr></thead><tbody><tr><td>All doctors are in one health system</td><td>Strong fit</td><td>Overpaying for flexibility</td><td>Acceptable</td><td>Rarely needed</td></tr><tr><td>See specialists without referrals</td><td>Poor fit</td><td>Strong fit</td><td>Limited fit</td><td>Strong fit</td></tr><tr><td>Travel or live in multiple states seasonally</td><td>Poor fit (emergency only)</td><td>Good fit</td><td>Moderate fit</td><td>Strong fit</td></tr><tr><td>Want lowest possible premium</td><td>Best odds ($0 premiums common)</td><td>Moderate ($20-80 typical)</td><td>Moderate</td><td>Variable</td></tr><tr><td>Need specific specialist outside networks</td><td>Poor fit</td><td>Workable (higher cost-share)</td><td>Workable with referral</td><td>Check if provider accepts</td></tr><tr><td>Prefer care coordination by one doctor</td><td>Strong fit</td><td>Optional</td><td>Strong fit</td><td>Self-directed</td></tr><tr><td>Rural area with limited provider networks</td><td>Check network carefully</td><td>Better flexibility</td><td>Check network</td><td>Often best rural option</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Medicare Advantage Actually Is (And Why It's Different From Original Medicare)

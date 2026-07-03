@@ -9,16 +9,16 @@ tags: ["Medicare", "Advantage", "pocket", "maximum"]
 slug: "medicare-advantage-out-of-pocket-maximum"
 affiliate_disclosure: true
 faqs:
-  - q: "Does my Medicare Advantage MOOP reset every year?"
-    a: "Yes, it resets on January 1 of each calendar year. If you hit your MOOP in October, you get full coverage through December 31. Come January, your cost-sharing clock starts over from zero."
-  - q: "Can my plan change my MOOP from one year to the next?"
-    a: "Absolutely. Plans can and do adjust their MOOPs annually, along with premiums, copays, and covered services. That's why it's so important to review your plan every fall during the Annual Enrollment Period, even if you're happy with your current coverage. You'll receive an Annual Notice of Change from your plan each September that spells out what's changing."
-  - q: "If I switch Medicare Advantage plans mid-year, does my MOOP progress transfer?"
-    a: "No, it doesn't. If you switch plans, your out-of-pocket accumulation starts over with the new plan. This is a significant financial consideration if you're already deep into your existing plan's MOOP for the year. Switching mid-year can actually cost you more, not less."
-  - q: "Do extra benefits like dental or vision count toward the MOOP?"
-    a: "Generally, no. Extra benefits that Medicare Advantage plans offer beyond Original Medicare coverage, things like dental cleanings, vision exams, or gym memberships, often have their own separate cost structures and don't count toward your medical MOOP. Check your plan's Summary of Benefits for the exact details on each extra benefit. For a closer look at how dental benefits specifically work, Medicare Advantage dental coverage explains what's typically included and what isn't."
-  - q: "What happens if I accidentally pay more than my MOOP?"
-    a: "If your claims are processed correctly, you shouldn't overpay. Providers are supposed to stop billing you once you've hit your MOOP. But errors happen. If you notice you've been billed for covered services after reaching your maximum, call your plan immediately. Keep an Explanation of Benefits (EOB) statement for every claim so you can track your accumulation throughout the year. If you can't resolve the issue with the plan, you have the right to file a complaint with Medicare at 1-800-MEDICARE."
+ - q: "Does my Medicare Advantage MOOP reset every year?"
+ a: "Yes, it resets on January 1 of each calendar year. If you hit your MOOP in October, you get full coverage through December 31. Come January, your cost-sharing clock starts over from zero."
+ - q: "Can my plan change my MOOP from one year to the next?"
+ a: "Absolutely. Plans can and do adjust their MOOPs annually, along with premiums, copays, and covered services. That's why it's so important to review your plan every fall during the Annual Enrollment Period, even if you're happy with your current coverage. You'll receive an Annual Notice of Change from your plan each September that spells out what's changing."
+ - q: "If I switch Medicare Advantage plans mid-year, does my MOOP progress transfer?"
+ a: "No, it doesn't. If you switch plans, your out-of-pocket accumulation starts over with the new plan. This is a significant financial consideration if you're already deep into your existing plan's MOOP for the year. Switching mid-year can actually cost you more, not less."
+ - q: "Do extra benefits like dental or vision count toward the MOOP?"
+ a: "Generally, no. Extra benefits that Medicare Advantage plans offer beyond Original Medicare coverage, things like dental cleanings, vision exams, or gym memberships, often have their own separate cost structures and don't count toward your medical MOOP. Check your plan's Summary of Benefits for the exact details on each extra benefit. For a closer look at how dental benefits specifically work, Medicare Advantage dental coverage explains what's typically included and what isn't."
+ - q: "What happens if I accidentally pay more than my MOOP?"
+ a: "If your claims are processed correctly, you shouldn't overpay. Providers are supposed to stop billing you once you've hit your MOOP. But errors happen. If you notice you've been billed for covered services after reaching your maximum, call your plan immediately. Keep an Explanation of Benefits (EOB) statement for every claim so you can track your accumulation throughout the year. If you can't resolve the issue with the plan, you have the right to file a complaint with Medicare at 1-800-MEDICARE."
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
@@ -29,12 +29,12 @@ You get a cancer diagnosis in January. Suddenly it's chemotherapy, specialist vi
 
 
 <div class="value-module">
-  <div class="vm-head">MOOP Comparison: Plan Tiers by Cost</div>
-  <div class="vm-body">
-    <p class="vm-intro">Medicare Advantage plans cluster into predictable tiers, here's how MOOP levels typically correlate with premiums and cost-sharing structures.</p>
-    <table><caption>Typical Medicare Advantage Plan Tiers (2025)</caption><thead><tr><th>Plan Tier</th><th>Typical MOOP Range</th><th>Monthly Premium Range</th><th>PCP Copay</th><th>Specialist Copay</th><th>Best For</th></tr></thead><tbody><tr><td>Low-Premium / High-MOOP</td><td>$7,500–$9,350</td><td>$0–$25</td><td>$0–$10</td><td>$40–$50</td><td>Healthy enrollees wanting minimal monthly costs</td></tr><tr><td>Mid-Range</td><td>$5,000–$7,499</td><td>$30–$75</td><td>$5–$15</td><td>$30–$45</td><td>Moderate healthcare users seeking balance</td></tr><tr><td>Lower-MOOP / Higher-Premium</td><td>$3,000–$4,999</td><td>$80–$150</td><td>$0–$10</td><td>$20–$35</td><td>Those with chronic conditions or expected high utilization</td></tr><tr><td>Integrated D-SNP Plans</td><td>$0–$3,400</td><td>$0 (Medicaid-eligible)</td><td>$0</td><td>$0–$10</td><td>Dual-eligible enrollees (Medicare + Medicaid)</td></tr></tbody><tfoot><tr><td colspan="6">Note: Ranges are illustrative based on typical plan structures. Actual plans vary by region and carrier. The 2025 federal maximum is $9,350 in-network.</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">MOOP Comparison: Plan Tiers by Cost</div>
+ <div class="vm-body">
+ <p class="vm-intro">Medicare Advantage plans cluster into predictable tiers, here's how MOOP levels typically correlate with premiums and cost-sharing structures.</p>
+ <table><caption>Typical Medicare Advantage Plan Tiers (2025)</caption><thead><tr><th>Plan Tier</th><th>Typical MOOP Range</th><th>Monthly Premium Range</th><th>PCP Copay</th><th>Specialist Copay</th><th>Best For</th></tr></thead><tbody><tr><td>Low-Premium / High-MOOP</td><td>$7,500–$9,350</td><td>$0–$25</td><td>$0–$10</td><td>$40–$50</td><td>Healthy enrollees wanting minimal monthly costs</td></tr><tr><td>Mid-Range</td><td>$5,000–$7,499</td><td>$30–$75</td><td>$5–$15</td><td>$30–$45</td><td>Moderate healthcare users seeking balance</td></tr><tr><td>Lower-MOOP / Higher-Premium</td><td>$3,000–$4,999</td><td>$80–$150</td><td>$0–$10</td><td>$20–$35</td><td>Those with chronic conditions or expected high utilization</td></tr><tr><td>Integrated D-SNP Plans</td><td>$0–$3,400</td><td>$0 (Medicaid-eligible)</td><td>$0</td><td>$0–$10</td><td>Dual-eligible enrollees (Medicare + Medicaid)</td></tr></tbody><tfoot><tr><td colspan="6">Note: Ranges are illustrative based on typical plan structures. Actual plans vary by region and carrier. The 2025 federal maximum is $9,350 in-network.</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What the Medicare Advantage Out-of-Pocket Maximum Actually Is

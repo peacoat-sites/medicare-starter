@@ -153,7 +153,7 @@ People mess this up all the time, even when they think they know what they're do
 
 **Don't overlook dental, vision, and hearing.** Original Medicare covers almost none of these. If your employer plan does, think hard before dropping it. You might end up paying $150–300 per year out of pocket for basics that used to be covered.
 
-**Check your options every year.** Employer plans change. October 15 – December 7 is Medicare's Annual Enrollment Period. Spend an hour reviewing whether your current setup is still the best choice.
+**Check your options every year.** Employer plans change. October 15, December 7 is Medicare's Annual Enrollment Period. Spend an hour reviewing whether your current setup is still the best choice.
 
 [RELATED: Best Medicare Supplement Plans Compared]
 
@@ -175,7 +175,7 @@ If your employer's drug plan is certified as creditable coverage, meaning it's a
 
 **Q: What happens to my Medicare coverage when I retire and lose employer insurance?**
 
-Losing employer coverage triggers an 8-month Special Enrollment Period for Part B (and 63 days for Part D). You can enroll without penalties during this window. Act quickly, because once it closes, you have to wait for General Enrollment (January 1 – March 31) and may face penalties. This is also when you should explore Medigap plans, which have special rules during your first Medicare enrollment period.
+Losing employer coverage triggers an 8-month Special Enrollment Period for Part B (and 63 days for Part D). You can enroll without penalties during this window. Act quickly, because once it closes, you have to wait for General Enrollment (January 1, March 31) and may face penalties. This is also when you should explore Medigap plans, which have special rules during your first Medicare enrollment period.
 
 **Q: Can I drop my employer plan and switch to Medicare while I'm still working?**
 

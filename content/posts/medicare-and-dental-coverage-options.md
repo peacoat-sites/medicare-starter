@@ -9,16 +9,16 @@ tags: ["Medicare", "dental", "coverage", "options"]
 slug: "medicare-and-dental-coverage-options"
 affiliate_disclosure: true
 faqs:
-  - q: "Does Medicare ever cover dental implants?"
-    a: "Original Medicare does not cover implants under any normal circumstances. Some Medicare Advantage plans have begun offering implant coverage, but it's not standard, and the plans that include it tend to be premium options with specific network requirements. Check any plan's Summary of Benefits document and look specifically for 'implants' in the dental section before enrolling."
-  - q: "Can I add dental coverage to my existing Medigap (Medicare Supplement) plan?"
-    a: "Medigap plans don't include dental coverage. They're designed to cover Medicare cost-sharing (deductibles, copays, coinsurance) and nothing more. If you're on Original Medicare plus Medigap, your only paths to dental coverage are a standalone dental insurance policy or a dental discount plan."
-  - q: "Are dental discount plans worth it if I already have Medicare Advantage with dental?"
-    a: "It depends on your expected dental costs. If your Advantage plan has a $1,000 annual dental cap and you're looking at $3,000 in needed work, a discount plan layered on top can reduce your out-of-pocket on the remaining balance. Some dentists will apply your Advantage benefit first and your discount plan rate to the remainder. Call your dentist's billing office first to confirm they'll coordinate the two."
-  - q: "What's the best time of year to change my dental coverage?"
-    a: "For Medicare Advantage plans (which bundle dental), the Annual Enrollment Period runs October 15 through December 7 each year, with new coverage starting January 1. For standalone dental insurance, you can generally enroll year-round since it's not tied to Medicare's enrollment windows. The one exception: if you're newly eligible for Medicare, your Initial Enrollment Period gives you more flexibility on the Advantage side."
-  - q: "Do dental schools really provide safe, quality care?"
-    a: "Yes, consistently. Dental school clinics are staffed by supervised students in their clinical years, but every procedure is reviewed and overseen by a licensed dentist or specialist. Wait times are longer, appointments often take twice as long as a private practice visit, and scheduling can be less flexible. But the quality of the work itself is well-documented and monitored. Many people who start using dental schools out of financial necessity keep going because the care is thorough."
+ - q: "Does Medicare ever cover dental implants?"
+ a: "Original Medicare does not cover implants under any normal circumstances. Some Medicare Advantage plans have begun offering implant coverage, but it's not standard, and the plans that include it tend to be premium options with specific network requirements. Check any plan's Summary of Benefits document and look specifically for 'implants' in the dental section before enrolling."
+ - q: "Can I add dental coverage to my existing Medigap (Medicare Supplement) plan?"
+ a: "Medigap plans don't include dental coverage. They're designed to cover Medicare cost-sharing (deductibles, copays, coinsurance) and nothing more. If you're on Original Medicare plus Medigap, your only paths to dental coverage are a standalone dental insurance policy or a dental discount plan."
+ - q: "Are dental discount plans worth it if I already have Medicare Advantage with dental?"
+ a: "It depends on your expected dental costs. If your Advantage plan has a $1,000 annual dental cap and you're looking at $3,000 in needed work, a discount plan layered on top can reduce your out-of-pocket on the remaining balance. Some dentists will apply your Advantage benefit first and your discount plan rate to the remainder. Call your dentist's billing office first to confirm they'll coordinate the two."
+ - q: "What's the best time of year to change my dental coverage?"
+ a: "For Medicare Advantage plans (which bundle dental), the Annual Enrollment Period runs October 15 through December 7 each year, with new coverage starting January 1. For standalone dental insurance, you can generally enroll year-round since it's not tied to Medicare's enrollment windows. The one exception: if you're newly eligible for Medicare, your Initial Enrollment Period gives you more flexibility on the Advantage side."
+ - q: "Do dental schools really provide safe, quality care?"
+ a: "Yes, consistently. Dental school clinics are staffed by supervised students in their clinical years, but every procedure is reviewed and overseen by a licensed dentist or specialist. Wait times are longer, appointments often take twice as long as a private practice visit, and scheduling can be less flexible. But the quality of the work itself is well-documented and monitored. Many people who start using dental schools out of financial necessity keep going because the care is thorough."
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
@@ -31,12 +31,12 @@ The good news is that options exist. The bad news is that most of the advice out
 
 
 <div class="value-module">
-  <div class="vm-head">Dental Coverage Comparison by Option Type</div>
-  <div class="vm-body">
-    <p class="vm-intro">Each coverage path involves different cost structures, provider restrictions, and benefit limits-here's how they actually compare for common dental needs.</p>
-    <table><thead><tr><th>Coverage Option</th><th>Typical Monthly Cost</th><th>Annual Maximum Benefit</th><th>Waiting Period for Major Work</th><th>Provider Network</th><th>Best For</th></tr></thead><tbody><tr><td>Medicare Advantage with dental</td><td>$0–$50 (bundled with medical)</td><td>$1,000–$2,500</td><td>Usually none</td><td>Plan network only (HMO/PPO)</td><td>Seniors wanting one-card simplicity who can use network dentists</td></tr><tr><td>Standalone dental insurance (DPPO)</td><td>$25–$60</td><td>$1,000–$1,500</td><td>6–12 months for crowns, bridges, dentures</td><td>In-network savings; out-of-network allowed</td><td>Those on Original Medicare who want predictable coverage</td></tr><tr><td>Dental discount plan</td><td>$8–$20</td><td>No maximum (discount only)</td><td>None</td><td>Participating dentists only</td><td>Seniors needing immediate major work who'd exceed insurance caps</td></tr><tr><td>Dental school clinics</td><td>$0 (pay per service at 50–70% discount)</td><td>No maximum</td><td>None (availability varies)</td><td>School clinic only</td><td>Budget-conscious seniors with flexibility and time</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Dental Coverage Comparison by Option Type</div>
+ <div class="vm-body">
+ <p class="vm-intro">Each coverage path involves different cost structures, provider restrictions, and benefit limits-here's how they actually compare for common dental needs.</p>
+ <table><thead><tr><th>Coverage Option</th><th>Typical Monthly Cost</th><th>Annual Maximum Benefit</th><th>Waiting Period for Major Work</th><th>Provider Network</th><th>Best For</th></tr></thead><tbody><tr><td>Medicare Advantage with dental</td><td>$0–$50 (bundled with medical)</td><td>$1,000–$2,500</td><td>Usually none</td><td>Plan network only (HMO/PPO)</td><td>Seniors wanting one-card simplicity who can use network dentists</td></tr><tr><td>Standalone dental insurance (DPPO)</td><td>$25–$60</td><td>$1,000–$1,500</td><td>6–12 months for crowns, bridges, dentures</td><td>In-network savings; out-of-network allowed</td><td>Those on Original Medicare who want predictable coverage</td></tr><tr><td>Dental discount plan</td><td>$8–$20</td><td>No maximum (discount only)</td><td>None</td><td>Participating dentists only</td><td>Seniors needing immediate major work who'd exceed insurance caps</td></tr><tr><td>Dental school clinics</td><td>$0 (pay per service at 50–70% discount)</td><td>No maximum</td><td>None (availability varies)</td><td>School clinic only</td><td>Budget-conscious seniors with flexibility and time</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Original Medicare Actually Covers (It's Almost Nothing)

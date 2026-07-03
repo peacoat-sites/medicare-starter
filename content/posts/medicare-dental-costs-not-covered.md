@@ -9,16 +9,16 @@ tags: ["Medicare", "dental", "costs", "covered"]
 slug: "medicare-dental-costs-not-covered"
 affiliate_disclosure: true
 faqs:
-  - q: "Does Medicare cover tooth extractions?"
-    a: "Not in most circumstances. Medicare Part A may cover an extraction if it's medically necessary as part of a covered inpatient hospital procedure, but routine extractions done at a dentist's office are explicitly excluded from Original Medicare coverage."
-  - q: "Will Medicare pay for dentures in 2024?"
-    a: "Original Medicare Part A and Part B do not cover dentures, including full dentures, partial dentures, or the underlying fitting services. Some Medicare Advantage plans include partial denture coverage, but you'd need to check your specific plan's evidence of coverage to know what's included and up to what annual dollar limit."
-  - q: "Can I get dental coverage added to my existing Medicare?"
-    a: "You can't add dental to Original Medicare directly. Your options are switching to a Medicare Advantage plan that includes dental benefits, purchasing a standalone dental insurance plan, or enrolling in a dental discount program. Open Enrollment for Medicare Advantage runs October 15 through December 7 each year."
-  - q: "Are dental implants ever covered by Medicare?"
-    a: "In general, no. Dental implants are considered a dental service, not a medical one, and are excluded from Original Medicare. Some Medicare Advantage plans claim to cover implants, but those plans are less common, and when they do cover implants, annual benefit caps often don't come close to covering the full cost. Read any plan's terms on implants very carefully before enrolling."
-  - q: "What if I can't afford dental care at all on Medicare?"
-    a: "Start with your local SHIP counselor (free at shiphelp.org), who can tell you about Medicaid dental benefits in your state and local low-income programs. Also look up federally qualified health centers in your area, which offer sliding-scale fees, and contact dental schools nearby. These aren't ideal options for everyone, but they exist, and they're real."
+ - q: "Does Medicare cover tooth extractions?"
+ a: "Not in most circumstances. Medicare Part A may cover an extraction if it's medically necessary as part of a covered inpatient hospital procedure, but routine extractions done at a dentist's office are explicitly excluded from Original Medicare coverage."
+ - q: "Will Medicare pay for dentures in 2024?"
+ a: "Original Medicare Part A and Part B do not cover dentures, including full dentures, partial dentures, or the underlying fitting services. Some Medicare Advantage plans include partial denture coverage, but you'd need to check your specific plan's evidence of coverage to know what's included and up to what annual dollar limit."
+ - q: "Can I get dental coverage added to my existing Medicare?"
+ a: "You can't add dental to Original Medicare directly. Your options are switching to a Medicare Advantage plan that includes dental benefits, purchasing a standalone dental insurance plan, or enrolling in a dental discount program. Open Enrollment for Medicare Advantage runs October 15 through December 7 each year."
+ - q: "Are dental implants ever covered by Medicare?"
+ a: "In general, no. Dental implants are considered a dental service, not a medical one, and are excluded from Original Medicare. Some Medicare Advantage plans claim to cover implants, but those plans are less common, and when they do cover implants, annual benefit caps often don't come close to covering the full cost. Read any plan's terms on implants very carefully before enrolling."
+ - q: "What if I can't afford dental care at all on Medicare?"
+ a: "Start with your local SHIP counselor (free at shiphelp.org), who can tell you about Medicaid dental benefits in your state and local low-income programs. Also look up federally qualified health centers in your area, which offer sliding-scale fees, and contact dental schools nearby. These aren't ideal options for everyone, but they exist, and they're real."
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
@@ -33,12 +33,12 @@ I'll be direct. Even after years working in this space, I find the dental gap ge
 
 
 <div class="value-module">
-  <div class="vm-head">Dental Cost Ranges Without Medicare Coverage</div>
-  <div class="vm-body">
-    <p class="vm-intro">Here are typical out-of-pocket costs for common dental procedures that Original Medicare does not cover, helping you estimate potential expenses.</p>
-    <table><caption>Illustrative Dental Procedure Costs (2024 U.S. Averages)</caption><thead><tr><th>Procedure</th><th>Typical Cost Range</th><th>Frequency Needed</th><th>Budget Planning Note</th></tr></thead><tbody><tr><td>Routine cleaning (prophylaxis)</td><td>$75–$200</td><td>Every 6 months</td><td>$150–$400/year ongoing</td></tr><tr><td>Full exam with X-rays</td><td>$150–$350</td><td>Annually</td><td>Often bundled with cleaning</td></tr><tr><td>Single filling (composite)</td><td>$150–$400</td><td>As needed</td><td>Cost varies by tooth size/location</td></tr><tr><td>Root canal (molar)</td><td>$1,000–$1,500</td><td>One-time per tooth</td><td>Add $800–$1,500 for required crown</td></tr><tr><td>Crown (porcelain)</td><td>$800–$1,500</td><td>One-time per tooth</td><td>May need replacement after 10–15 years</td></tr><tr><td>Simple extraction</td><td>$150–$300</td><td>One-time per tooth</td><td>Surgical extractions cost more</td></tr><tr><td>Full upper or lower dentures</td><td>$1,000–$3,000</td><td>Replace every 5–10 years</td><td>Add $300–$500 for adjustments/relines</td></tr><tr><td>Single dental implant</td><td>$3,000–$6,000</td><td>One-time (typically permanent)</td><td>Includes post, abutment, and crown</td></tr><tr><td>Periodontal deep cleaning</td><td>$500–$1,200</td><td>As prescribed</td><td>Often billed per quadrant of mouth</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Dental Cost Ranges Without Medicare Coverage</div>
+ <div class="vm-body">
+ <p class="vm-intro">Here are typical out-of-pocket costs for common dental procedures that Original Medicare does not cover, helping you estimate potential expenses.</p>
+ <table><caption>Illustrative Dental Procedure Costs (2024 U.S. Averages)</caption><thead><tr><th>Procedure</th><th>Typical Cost Range</th><th>Frequency Needed</th><th>Budget Planning Note</th></tr></thead><tbody><tr><td>Routine cleaning (prophylaxis)</td><td>$75–$200</td><td>Every 6 months</td><td>$150–$400/year ongoing</td></tr><tr><td>Full exam with X-rays</td><td>$150–$350</td><td>Annually</td><td>Often bundled with cleaning</td></tr><tr><td>Single filling (composite)</td><td>$150–$400</td><td>As needed</td><td>Cost varies by tooth size/location</td></tr><tr><td>Root canal (molar)</td><td>$1,000–$1,500</td><td>One-time per tooth</td><td>Add $800–$1,500 for required crown</td></tr><tr><td>Crown (porcelain)</td><td>$800–$1,500</td><td>One-time per tooth</td><td>May need replacement after 10–15 years</td></tr><tr><td>Simple extraction</td><td>$150–$300</td><td>One-time per tooth</td><td>Surgical extractions cost more</td></tr><tr><td>Full upper or lower dentures</td><td>$1,000–$3,000</td><td>Replace every 5–10 years</td><td>Add $300–$500 for adjustments/relines</td></tr><tr><td>Single dental implant</td><td>$3,000–$6,000</td><td>One-time (typically permanent)</td><td>Includes post, abutment, and crown</td></tr><tr><td>Periodontal deep cleaning</td><td>$500–$1,200</td><td>As prescribed</td><td>Often billed per quadrant of mouth</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Original Medicare Actually Covers (and What It Doesn't)

@@ -13,16 +13,16 @@ author_bio: "Frank Thompson is a retirement planning researcher who focuses on t
 slug: "medicare-for-people-still-working-at-65"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I stay on my spouse's employer plan instead of enrolling in Medicare?"
-    a: "Yes, as long as your spouse is actively employed and the coverage is through a current employer with 20 or more employees. Retiree coverage from a former employer doesn't count, even if it's technically through a 'group plan.' The key word is active employment."
-  - q: "What if I work part-time at 65?"
-    a: "Part-time status doesn't automatically disqualify you from the employer coverage protections, but it depends on whether you're actually enrolled in the employer's group health plan. If your part-time hours make you ineligible for benefits, you'd be in the same position as someone without employer coverage, and you'd need to enroll in Medicare at 65."
-  - q: "Will Medicare notify me automatically when I turn 65?"
-    a: "If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Part A and Part B automatically and receive your card in the mail. If you're not yet drawing Social Security, you have to actively sign up. Medicare does not come to you. Go to SSA.gov to enroll or create an account to track your status."
-  - q: "Is there any penalty for delaying Part A?"
-    a: "Generally no, as long as you or your spouse worked enough quarters to qualify for premium-free Part A. There is a premium-based Part A available if you don't qualify, and that one does carry a late enrollment penalty. Most people reading this won't hit that situation, but if you're not sure how many quarters you've earned, check your Social Security statement at SSA.gov."
-  - q: "My employer is pressuring me to drop their coverage and go on Medicare. Can they do that?"
-    a: "If your employer has 20 or more employees, it's actually illegal for them to offer you incentives to drop the group plan and take Medicare instead. The law prohibits large employers from doing anything that discourages active employees from enrolling in the group plan. If you're feeling that pressure, document it and consider reaching out to your State Health Insurance Assistance Program (SHIP) for free counseling."
+ - q: "Can I stay on my spouse's employer plan instead of enrolling in Medicare?"
+ a: "Yes, as long as your spouse is actively employed and the coverage is through a current employer with 20 or more employees. Retiree coverage from a former employer doesn't count, even if it's technically through a 'group plan.' The key word is active employment."
+ - q: "What if I work part-time at 65?"
+ a: "Part-time status doesn't automatically disqualify you from the employer coverage protections, but it depends on whether you're actually enrolled in the employer's group health plan. If your part-time hours make you ineligible for benefits, you'd be in the same position as someone without employer coverage, and you'd need to enroll in Medicare at 65."
+ - q: "Will Medicare notify me automatically when I turn 65?"
+ a: "If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Part A and Part B automatically and receive your card in the mail. If you're not yet drawing Social Security, you have to actively sign up. Medicare does not come to you. Go to SSA.gov to enroll or create an account to track your status."
+ - q: "Is there any penalty for delaying Part A?"
+ a: "Generally no, as long as you or your spouse worked enough quarters to qualify for premium-free Part A. There is a premium-based Part A available if you don't qualify, and that one does carry a late enrollment penalty. Most people reading this won't hit that situation, but if you're not sure how many quarters you've earned, check your Social Security statement at SSA.gov."
+ - q: "My employer is pressuring me to drop their coverage and go on Medicare. Can they do that?"
+ a: "If your employer has 20 or more employees, it's actually illegal for them to offer you incentives to drop the group plan and take Medicare instead. The law prohibits large employers from doing anything that discourages active employees from enrolling in the group plan. If you're feeling that pressure, document it and consider reaching out to your State Health Insurance Assistance Program (SHIP) for free counseling."
 ---
 Sixty-five shows up whether you're ready for it or not. And if you're still working, still covered by your employer's health plan, and suddenly getting Medicare signup reminders in the mail, you've probably got that nagging feeling you're supposed to do *something* but have no idea what. I've watched that confusion turn into genuinely expensive mistakes, and I'd rather you not make them.
 
@@ -96,7 +96,7 @@ The real takeaway: "I'm still working" doesn't mean you can ignore Medicare at 6
 - **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
 - **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
 
-*Photo: [Jsme  MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
+*Photo: [Jsme MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
 
 ---
 

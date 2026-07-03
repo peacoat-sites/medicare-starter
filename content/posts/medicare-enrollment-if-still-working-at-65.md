@@ -13,16 +13,16 @@ author_bio: "Susan Park has spent years helping Medicare-eligible adults compare
 slug: "medicare-enrollment-if-still-working-at-65"
 affiliate_disclosure: true
 faqs:
-  - q: "Do I have to enroll in Medicare at 65 if I'm still working?"
-    a: "Not always. If your employer has 20 or more employees and you have active coverage through that employer, you can generally delay Part B and Part D enrollment without penalty. Most people in this situation do enroll in Part A at 65 since it's typically free, but you have real flexibility on the rest."
-  - q: "Will I get a penalty for signing up late if I'm covered by my employer?"
-    a: "No, as long as you qualify for the Special Enrollment Period. You have 8 months after your employer coverage ends to enroll in Part B without facing a late penalty. Part D has a separate SEP tied to losing creditable drug coverage."
-  - q: "Can I use Medicare and my employer plan at the same time?"
-    a: "Yes. When your employer has 20 or more employees, Medicare acts as the secondary payer and your employer plan pays first. Some people do choose to enroll in both for the additional coverage layer, but it's not required."
-  - q: "What happens if I miss my Special Enrollment Period?"
-    a: "If you miss the 8-month window and don't have another qualifying exception, you'll generally have to wait until the General Enrollment Period (January 1 through March 31 each year), with coverage starting July 1. You'll also pay the 10% per-year late enrollment penalty on your Part B premium permanently. This is a situation worth going out of your way to avoid."
-  - q: "Should I sign up for Medicare Part A even if I have an HSA?"
-    a: "This one depends. If you want to keep contributing to your HSA, you should not enroll in Part A (or any Medicare) yet, because Medicare eligibility ends your HSA contribution rights. Stop contributing at least six months before you plan to enroll to avoid the retroactive coverage issue. If you've already stopped contributing, enrolling in Part A at 65 is usually the right call since it's free for most people."
+ - q: "Do I have to enroll in Medicare at 65 if I'm still working?"
+ a: "Not always. If your employer has 20 or more employees and you have active coverage through that employer, you can generally delay Part B and Part D enrollment without penalty. Most people in this situation do enroll in Part A at 65 since it's typically free, but you have real flexibility on the rest."
+ - q: "Will I get a penalty for signing up late if I'm covered by my employer?"
+ a: "No, as long as you qualify for the Special Enrollment Period. You have 8 months after your employer coverage ends to enroll in Part B without facing a late penalty. Part D has a separate SEP tied to losing creditable drug coverage."
+ - q: "Can I use Medicare and my employer plan at the same time?"
+ a: "Yes. When your employer has 20 or more employees, Medicare acts as the secondary payer and your employer plan pays first. Some people do choose to enroll in both for the additional coverage layer, but it's not required."
+ - q: "What happens if I miss my Special Enrollment Period?"
+ a: "If you miss the 8-month window and don't have another qualifying exception, you'll generally have to wait until the General Enrollment Period (January 1 through March 31 each year), with coverage starting July 1. You'll also pay the 10% per-year late enrollment penalty on your Part B premium permanently. This is a situation worth going out of your way to avoid."
+ - q: "Should I sign up for Medicare Part A even if I have an HSA?"
+ a: "This one depends. If you want to keep contributing to your HSA, you should not enroll in Part A (or any Medicare) yet, because Medicare eligibility ends your HSA contribution rights. Stop contributing at least six months before you plan to enroll to avoid the retroactive coverage issue. If you've already stopped contributing, enrolling in Part A at 65 is usually the right call since it's free for most people."
 ---
 
 You're turning 65, still working, and your inbox is suddenly full of Medicare mailers that all seem to assume you're about to retire. You might be wondering whether any of this actually applies to you right now, or whether you can just set it aside until you're ready to stop working. That's exactly the question I want to answer here, because getting this wrong can cost you real money and create coverage headaches that follow you for years.

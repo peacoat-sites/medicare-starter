@@ -11,10 +11,7 @@ author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-access-model-launches-wearables-and-telehealth-for-chronic-ca"
-affiliate_disclosure: true
----
-
-Picture this: your doctor's office calls to say they've joined a new Medicare program, and they want to send you a blood pressure cuff that connects to your phone and checks in with a care team between appointments. Maybe that sounds exciting, or maybe it sounds like one more complicated thing to figure out. Either way, you need to know what you're agreeing to, because as of July 5, 2026, this is no longer hypothetical. It's real, it's here, and it's going to start showing up in your care.
+affiliate_disclosure: true, Picture this: your doctor's office calls to say they've joined a new Medicare program, and they want to send you a blood pressure cuff that connects to your phone and checks in with a care team between appointments. Maybe that sounds exciting, or maybe it sounds like one more complicated thing to figure out. Either way, you need to know what you're agreeing to, because as of July 5, 2026, this is no longer hypothetical. It's real, it's here, and it's going to start showing up in your care.
 
 CMS (the Centers for Medicare and Medicaid Services) officially launched the ACCESS Model on July 5, 2026. ACCESS stands for Advancing Chronic Care with Effective, Scalable Solutions. It will run for ten full years, through June 30, 2036, and it's the first time traditional Medicare, meaning Original Medicare, not an Advantage plan, has built a large-scale payment system around technology tools like wearables, telehealth visits, and health apps specifically for chronic condition management. If you have high blood pressure, diabetes, chronic kidney disease, depression, or chronic musculoskeletal pain, this program was built with you in mind.
 
@@ -64,11 +61,11 @@ The ACCESS Model is a meaningful shift in how Original Medicare pays for chronic
 
 ## Sources
 
-- [ACCESS Model – CMS Innovation Center](https://www.cms.gov/priorities/innovation/innovation-models/access) (Updated June 2026)
-- [ACCESS Model Accepted Applicants – CMS](https://www.cms.gov/priorities/innovation/access-model-accepted-applicants) (May 27, 2026)
-- [Improving ACCESS to Technology-Supported Care with Outcome-Aligned Payments – CMS Blog](https://www.cms.gov/newsroom/blog/improving-access-technology-supported-care-outcome-aligned-payments) (March 2026)
-- [Unpacking ACCESS: CMS' New Voluntary Model – ATI Advisory](https://atiadvisory.com/resources/unpacking-access-cms-new-voluntary-model/) (December 2025)
-- [CMS Launches ACCESS Model to Improve Chronic Care – AHCA/NCAL](https://www.ahcancal.org/News-and-Communications/Blog/Pages/CMS-Launches-ACCESS-Model-to-Improve-Chronic-Care-in-Medicare-FFS-Through-Technology.aspx) (Early 2026)
+- [ACCESS Model, CMS Innovation Center](https://www.cms.gov/priorities/innovation/innovation-models/access) (Updated June 2026)
+- [ACCESS Model Accepted Applicants, CMS](https://www.cms.gov/priorities/innovation/access-model-accepted-applicants) (May 27, 2026)
+- [Improving ACCESS to Technology-Supported Care with Outcome-Aligned Payments, CMS Blog](https://www.cms.gov/newsroom/blog/improving-access-technology-supported-care-outcome-aligned-payments) (March 2026)
+- [Unpacking ACCESS: CMS' New Voluntary Model, ATI Advisory](https://atiadvisory.com/resources/unpacking-access-cms-new-voluntary-model/) (December 2025)
+- [CMS Launches ACCESS Model to Improve Chronic Care, AHCA/NCAL](https://www.ahcancal.org/News-and-Communications/Blog/Pages/CMS-Launches-ACCESS-Model-to-Improve-Chronic-Care-in-Medicare-FFS-Through-Technology.aspx) (Early 2026)
 
 ## Helpful Resources
 
@@ -91,6 +88,6 @@ The ACCESS Model is a meaningful shift in how Original Medicare pays for chronic
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
