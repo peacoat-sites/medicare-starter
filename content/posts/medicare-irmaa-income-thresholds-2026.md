@@ -13,16 +13,16 @@ author_bio: "Robert Williams is trained through the SHIP counselor framework and
 slug: "medicare-irmaa-income-thresholds"
 affiliate_disclosure: true
 faqs:
-  - q: "What income is used to calculate my 2026 IRMAA?"
-    a: "Your 2026 IRMAA is based on your 2024 Modified Adjusted Gross Income (MAGI), which is your Adjusted Gross Income plus any tax-exempt interest. Social Security gets this directly from the IRS, so you don't submit anything yourself."
-  - q: "Can I avoid IRMAA by switching to a Medicare Advantage plan?"
-    a: "No. You still pay the standard Part B premium (plus any IRMAA surcharge) regardless of whether you have Original Medicare or a Medicare Advantage plan. IRMAA applies to Part B and Part D regardless of how you receive your coverage."
-  - q: "What if my income was high in 2024 but I've retired and my income is much lower now?"
-    a: "You can file an appeal using SSA Form SSA-44, citing a qualifying life-changing event such as retirement or reduced work hours. If approved, Social Security will use more recent income data to calculate your premium instead of the two-year lookback."
-  - q: "Does IRMAA affect both spouses if we're married?"
-    a: "Yes. IRMAA is assessed on each Medicare beneficiary individually based on your household's filing status. If you file jointly and your combined MAGI crosses a threshold, both spouses pay the surcharge on their own premiums separately."
-  - q: "How will I know if I owe an IRMAA surcharge?"
-    a: "Social Security mails a notice, typically in November or December before the coverage year starts. It will tell you your income tier and your resulting premium. If you disagree with it, you have 60 days from the date of the notice to request a reconsideration."
+ - q: "What income is used to calculate my 2026 IRMAA?"
+ a: "Your 2026 IRMAA is based on your 2024 Modified Adjusted Gross Income (MAGI), which is your Adjusted Gross Income plus any tax-exempt interest. Social Security gets this directly from the IRS, so you don't submit anything yourself."
+ - q: "Can I avoid IRMAA by switching to a Medicare Advantage plan?"
+ a: "No. You still pay the standard Part B premium (plus any IRMAA surcharge) regardless of whether you have Original Medicare or a Medicare Advantage plan. IRMAA applies to Part B and Part D regardless of how you receive your coverage."
+ - q: "What if my income was high in 2024 but I've retired and my income is much lower now?"
+ a: "You can file an appeal using SSA Form SSA-44, citing a qualifying life-changing event such as retirement or reduced work hours. If approved, Social Security will use more recent income data to calculate your premium instead of the two-year lookback."
+ - q: "Does IRMAA affect both spouses if we're married?"
+ a: "Yes. IRMAA is assessed on each Medicare beneficiary individually based on your household's filing status. If you file jointly and your combined MAGI crosses a threshold, both spouses pay the surcharge on their own premiums separately."
+ - q: "How will I know if I owe an IRMAA surcharge?"
+ a: "Social Security mails a notice, typically in November or December before the coverage year starts. It will tell you your income tier and your resulting premium. If you disagree with it, you have 60 days from the date of the notice to request a reconsideration."
 ---
 Most people discover IRMAA the worst possible way: they get their Medicare premium letter in the fall, see a number that's $100 or $200 higher than they expected, and spend the next week convinced Social Security made a clerical error. They didn't. That's IRMAA doing exactly what it was designed to do, and the surprise is almost always avoidable.
 

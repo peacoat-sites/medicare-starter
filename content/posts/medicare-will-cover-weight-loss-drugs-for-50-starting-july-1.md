@@ -11,9 +11,7 @@ author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-will-cover-weight-loss-drugs-for-50-starting-july-1"
-affiliate_disclosure: true
----
-If you've been watching Wegovy or Zepbound prices climb and hoping Medicare would jump in, this is it. Starting July 1, 2026, Medicare's rolling out something it's never done before: coverage for GLP-1 weight-loss drugs at a flat $50 monthly copay for eligible people. That beats the $149 to $699 per month most people pay out of pocket by a mile, and the specifics matter enough to understand now before you call your doctor.
+affiliate_disclosure: true, If you've been watching Wegovy or Zepbound prices climb and hoping Medicare would jump in, this is it. Starting July 1, 2026, Medicare's rolling out something it's never done before: coverage for GLP-1 weight-loss drugs at a flat $50 monthly copay for eligible people. That beats the $149 to $699 per month most people pay out of pocket by a mile, and the specifics matter enough to understand now before you call your doctor.
 
 ## What the GLP-1 Bridge Program Actually Is
 
@@ -55,11 +53,11 @@ The Bridge Program is genuinely historic for Medicare. For millions of Part D en
 
 ## Sources
 
-- [GLP-1 Weight-Loss Drug Demonstration Begins July 2026 – Medicare Rights Center](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
-- [Medicare to Launch Weight Loss Drug Option in July with $50 Copay – NPR](https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay) (May 6, 2026)
-- [Medicare and Weight-Loss Drugs: Coverage Expansion in 2026 – GoodRx](https://www.goodrx.com/insurance/medicare/medicare-weight-loss-drugs) (June 2026)
-- [Updated: Medicare Part D Coverage for GLP-1 Drugs in 2026 – United Medicare Advisors](https://unitedmedicareadvisors.com/blog/medicare/part-d-glp-1-drugs/) (June 2026)
-- [Does Medicare Cover GLP-1 Weight Loss Drugs? – Humana](https://www.humana.com/medicare/medicare-resources/does-medicare-cover-weight-loss-drugs) (June 8, 2026)
+- [GLP-1 Weight-Loss Drug Demonstration Begins July 2026, Medicare Rights Center](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
+- [Medicare to Launch Weight Loss Drug Option in July with $50 Copay, NPR](https://www.npr.org/2026/05/06/nx-s1-5812662/medicare-bridge-glp1-drugs-copay) (May 6, 2026)
+- [Medicare and Weight-Loss Drugs: Coverage Expansion in 2026, GoodRx](https://www.goodrx.com/insurance/medicare/medicare-weight-loss-drugs) (June 2026)
+- [Updated: Medicare Part D Coverage for GLP-1 Drugs in 2026, United Medicare Advisors](https://unitedmedicareadvisors.com/blog/medicare/part-d-glp-1-drugs/) (June 2026)
+- [Does Medicare Cover GLP-1 Weight Loss Drugs?, Humana](https://www.humana.com/medicare/medicare-resources/does-medicare-cover-weight-loss-drugs) (June 8, 2026)
 
 ## Helpful Resources
 

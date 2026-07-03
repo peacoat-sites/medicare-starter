@@ -13,16 +13,16 @@ author_bio: "Frank Thompson is a retirement planning researcher who focuses on t
 slug: "medicare-part-d-donut-hole-2026"
 affiliate_disclosure: true
 faqs:
-  - q: "Does the donut hole still apply to Medicare Part D in 2026?"
-    a: "Yes, the coverage gap still exists as a formal phase in the Part D benefit structure. What's changed is the cost exposure during that phase: in 2026, you pay 25% coinsurance on both brand-name and generic drugs in the gap, which is the same rate as the initial coverage phase for many plans. The bigger protection is the $2,000 annual out-of-pocket cap, which limits your total exposure for the year."
-  - q: "What counts toward the $2,000 out-of-pocket cap in 2026?"
-    a: "Your deductible payments, copays and coinsurance during the initial coverage phase, and manufacturer discounts on brand-name drugs in the coverage gap all count toward the $2,000 threshold. Your monthly Part D premium does not count."
-  - q: "Can I still be surprised by a big drug bill mid-year in 2026?"
-    a: "It's less likely than it used to be, but not impossible. Your costs are capped at $2,000 for the year, but how your plan structures cost-sharing in the early phases varies by plan. People on expensive specialty drugs may still face significant costs before hitting the cap, particularly if their plan's initial coverage phase has high coinsurance for specialty tiers."
-  - q: "What is the Medicare Prescription Payment Plan and should I enroll?"
-    a: "The Medicare Prescription Payment Plan (M3P) lets you spread your out-of-pocket Part D costs in equal monthly payments across the calendar year instead of paying large sums when you fill prescriptions. It doesn't reduce what you owe, just when you pay it. It's worth considering if you have high drug costs concentrated in the early months of the year."
-  - q: "How do I compare Part D plans to find the best one for my drugs?"
-    a: "Go to Medicare.gov and use the Plan Finder tool. You'll enter your specific medications and dosages, and it will calculate your estimated annual cost under each available plan in your area, including deductibles, copays across all phases, and premiums. Run this comparison every Open Enrollment period, because plan formularies and costs change year to year and the plan that was best for you last year may not be best now."
+ - q: "Does the donut hole still apply to Medicare Part D in 2026?"
+ a: "Yes, the coverage gap still exists as a formal phase in the Part D benefit structure. What's changed is the cost exposure during that phase: in 2026, you pay 25% coinsurance on both brand-name and generic drugs in the gap, which is the same rate as the initial coverage phase for many plans. The bigger protection is the $2,000 annual out-of-pocket cap, which limits your total exposure for the year."
+ - q: "What counts toward the $2,000 out-of-pocket cap in 2026?"
+ a: "Your deductible payments, copays and coinsurance during the initial coverage phase, and manufacturer discounts on brand-name drugs in the coverage gap all count toward the $2,000 threshold. Your monthly Part D premium does not count."
+ - q: "Can I still be surprised by a big drug bill mid-year in 2026?"
+ a: "It's less likely than it used to be, but not impossible. Your costs are capped at $2,000 for the year, but how your plan structures cost-sharing in the early phases varies by plan. People on expensive specialty drugs may still face significant costs before hitting the cap, particularly if their plan's initial coverage phase has high coinsurance for specialty tiers."
+ - q: "What is the Medicare Prescription Payment Plan and should I enroll?"
+ a: "The Medicare Prescription Payment Plan (M3P) lets you spread your out-of-pocket Part D costs in equal monthly payments across the calendar year instead of paying large sums when you fill prescriptions. It doesn't reduce what you owe, just when you pay it. It's worth considering if you have high drug costs concentrated in the early months of the year."
+ - q: "How do I compare Part D plans to find the best one for my drugs?"
+ a: "Go to Medicare.gov and use the Plan Finder tool. You'll enter your specific medications and dosages, and it will calculate your estimated annual cost under each available plan in your area, including deductibles, copays across all phases, and premiums. Run this comparison every Open Enrollment period, because plan formularies and costs change year to year and the plan that was best for you last year may not be best now."
 ---
 
 Something changed with Medicare Part D in 2026 that a lot of people still don't fully understand, and I want to make sure you're not one of them come January.

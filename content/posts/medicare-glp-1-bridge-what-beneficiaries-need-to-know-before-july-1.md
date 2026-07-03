@@ -11,9 +11,7 @@ author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-glp-1-bridge-what-beneficiaries-need-to-know-before-july-1"
-affiliate_disclosure: true
----
-Most coverage of the Medicare GLP-1 Bridge leads with the headline: starting July 1, 2026, Medicare will cover weight-loss drugs for the first time ever. What gets lost is the fine print that actually determines whether this helps you, and how much you'll pay. A few specific details could catch people off guard who think they've got it figured out.
+affiliate_disclosure: true, Most coverage of the Medicare GLP-1 Bridge leads with the headline: starting July 1, 2026, Medicare will cover weight-loss drugs for the first time ever. What gets lost is the fine print that actually determines whether this helps you, and how much you'll pay. A few specific details could catch people off guard who think they've got it figured out.
 
 Here's what matters before the program launches.
 

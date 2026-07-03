@@ -13,16 +13,16 @@ author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and hel
 slug: "medicare-savings-programs"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I get a Medicare Savings Program if I have a Medicare Advantage plan instead of Original Medicare?"
-    a: "Yes. MSPs apply regardless of whether you're enrolled in Original Medicare or a Medicare Advantage (Part C) plan. Your Part B premium is still owed even in Medicare Advantage, and MSP can cover that. For cost-sharing coverage under QMB, the rules get slightly more complicated with Advantage plans, but you still have protection from being billed in excess of what QMB allows."
-  - q: "Will applying for an MSP affect my other benefits, like Social Security or a pension?"
-    a: "No. MSPs do not reduce your Social Security benefit, affect your pension, or count against other benefit programs. If anything, enrolling in an MSP typically increases what you see in your Social Security check each month, because the Part B premium stops being deducted."
-  - q: "I was denied before. Is it worth applying again?"
-    a: "Almost always yes, for two reasons. Your income or assets may have changed. And the rules themselves change, sometimes significantly, year to year. A denial from several years ago doesn't predict what happens with an application today. Apply again, and consider asking a SHIP counselor to review your application before you submit it."
-  - q: "Does my state matter a lot in terms of what I can get?"
-    a: "More than most people realize. Some states cover additional benefits, have higher income limits, or have eliminated the asset test entirely. The federal rules are a floor, not a ceiling. A SHIP counselor in your state will know exactly what your state offers beyond the federal minimum."
-  - q: "If I qualify for QMB, can providers still send me to collections for Medicare cost-sharing?"
-    a: "They shouldn't, and you have recourse if they do. QMB prohibits providers from billing you for Medicare cost-sharing. If you receive a bill or a collections notice for charges QMB should have covered, contact your State Medicaid office and file a complaint. You can also call 1-800-MEDICARE. Don't just pay it because the bill showed up."
+ - q: "Can I get a Medicare Savings Program if I have a Medicare Advantage plan instead of Original Medicare?"
+ a: "Yes. MSPs apply regardless of whether you're enrolled in Original Medicare or a Medicare Advantage (Part C) plan. Your Part B premium is still owed even in Medicare Advantage, and MSP can cover that. For cost-sharing coverage under QMB, the rules get slightly more complicated with Advantage plans, but you still have protection from being billed in excess of what QMB allows."
+ - q: "Will applying for an MSP affect my other benefits, like Social Security or a pension?"
+ a: "No. MSPs do not reduce your Social Security benefit, affect your pension, or count against other benefit programs. If anything, enrolling in an MSP typically increases what you see in your Social Security check each month, because the Part B premium stops being deducted."
+ - q: "I was denied before. Is it worth applying again?"
+ a: "Almost always yes, for two reasons. Your income or assets may have changed. And the rules themselves change, sometimes significantly, year to year. A denial from several years ago doesn't predict what happens with an application today. Apply again, and consider asking a SHIP counselor to review your application before you submit it."
+ - q: "Does my state matter a lot in terms of what I can get?"
+ a: "More than most people realize. Some states cover additional benefits, have higher income limits, or have eliminated the asset test entirely. The federal rules are a floor, not a ceiling. A SHIP counselor in your state will know exactly what your state offers beyond the federal minimum."
+ - q: "If I qualify for QMB, can providers still send me to collections for Medicare cost-sharing?"
+ a: "They shouldn't, and you have recourse if they do. QMB prohibits providers from billing you for Medicare cost-sharing. If you receive a bill or a collections notice for charges QMB should have covered, contact your State Medicaid office and file a complaint. You can also call 1-800-MEDICARE. Don't just pay it because the bill showed up."
 ---
 
 A woman called me a few years ago, nearly in tears. She'd been paying her Medicare Part B premium every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.

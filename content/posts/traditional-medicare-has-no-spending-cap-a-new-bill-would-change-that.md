@@ -11,10 +11,7 @@ author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that"
-affiliate_disclosure: true
----
-
-Most coverage of the Medicare Cost Cap Act leads with the politics. Here's what matters more: if you're in traditional Medicare right now, there is no limit on what you can spend. None. A bad year, a hospitalization, a cancer diagnosis, and the bills just keep coming. That's the problem this bill is trying to fix.
+affiliate_disclosure: true, Most coverage of the Medicare Cost Cap Act leads with the politics. Here's what matters more: if you're in traditional Medicare right now, there is no limit on what you can spend. None. A bad year, a hospitalization, a cancer diagnosis, and the bills just keep coming. That's the problem this bill is trying to fix.
 
 On June 25, 2026, Sen. Lisa Blunt Rochester (D-DE), Finance Committee Ranking Member Ron Wyden (D-OR), and Senate Majority Leader Chuck Schumer (D-NY) introduced the Medicare Cost Cap Act, backed by 14 Democratic co-sponsors. The proposal would create a $5,000 annual out-of-pocket ceiling for traditional Medicare, Parts A and B, the program that covers roughly 35 million Americans who haven't switched to Medicare Advantage plans. Once you hit that threshold, Medicare pays 100% of covered costs for the rest of the year.
 
@@ -62,10 +59,10 @@ The Medicare Cost Cap Act is unlikely to become law this year. But it names a re
 
 ## Sources
 
-- [Senate Finance Committee – Medicare Cost Cap Act Press Release](https://www.finance.senate.gov/ranking-members-news/blunt-rochester-wyden-schumer-lead-legislation-to-cap-medicare-costs-for-seniors) (June 25, 2026)
-- [KFF Health News / CBS News – Democrats To Propose Bill Capping Out-of-Pocket Medicare Costs](https://www.cbsnews.com/news/democrats-medicare-costs-out-of-pocket/) (June 25, 2026)
-- [MedCity News – New Bill Led by Democrats Aims to Cap Medicare Out-of-Pocket Costs](https://medcitynews.com/2026/06/new-bill-led-by-democrats-aims-to-cap-medicare-out-of-pocket-costs/) (June 27, 2026)
-- [The Current GA – New Legislation Targets Out-of-Pocket Costs for Traditional Medicare Enrollees](https://thecurrentga.org/2026/06/25/new-legislation-targets-out-of-pocket-costs-for-traditional-medicare-enrollees/) (June 25, 2026)
+- [Senate Finance Committee, Medicare Cost Cap Act Press Release](https://www.finance.senate.gov/ranking-members-news/blunt-rochester-wyden-schumer-lead-legislation-to-cap-medicare-costs-for-seniors) (June 25, 2026)
+- [KFF Health News / CBS News, Democrats To Propose Bill Capping Out-of-Pocket Medicare Costs](https://www.cbsnews.com/news/democrats-medicare-costs-out-of-pocket/) (June 25, 2026)
+- [MedCity News, New Bill Led by Democrats Aims to Cap Medicare Out-of-Pocket Costs](https://medcitynews.com/2026/06/new-bill-led-by-democrats-aims-to-cap-medicare-out-of-pocket-costs/) (June 27, 2026)
+- [The Current GA, New Legislation Targets Out-of-Pocket Costs for Traditional Medicare Enrollees](https://thecurrentga.org/2026/06/25/new-legislation-targets-out-of-pocket-costs-for-traditional-medicare-enrollees/) (June 25, 2026)
 
 ## Helpful Resources
 
@@ -88,6 +85,6 @@ The Medicare Cost Cap Act is unlikely to become law this year. But it names a re
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

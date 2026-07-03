@@ -13,16 +13,16 @@ author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and hel
 slug: "medicare-initial-enrollment-period"
 affiliate_disclosure: true
 faqs:
-  - q: "What happens if I miss my Initial Enrollment Period?"
-    a: "If you miss your IEP without qualifying coverage in place (like active employer coverage), you'll have to wait for the General Enrollment Period, which runs January 1 through March 31 each year, with coverage starting July 1. You'll also likely face late enrollment penalties on Part B and Part D that follow you permanently."
-  - q: "Can I enroll in Medicare if I'm still working at 65?"
-    a: "Yes, and many people do. Whether you should enroll depends heavily on how many people your employer has on payroll. If it's 20 or more, your employer plan stays primary and you can delay Part B without penalty. Under 20 employees, Medicare becomes primary even if you stay on the employer plan, and not enrolling in Part B on time could mean penalties."
-  - q: "Does my spouse's Medicare affect my own enrollment?"
-    a: "Not directly. Medicare is individual, not family-based. Your spouse being on Medicare doesn't start or stop your enrollment window. What matters is your own age and your own work history (for Part A eligibility)."
-  - q: "Is there any way to get more time if I miss my IEP?"
-    a: "There are Special Enrollment Periods (SEPs) that apply in specific situations, most commonly if you had qualifying employer coverage and then lost it. That SEP gives you eight months to enroll in Part B without penalty. But if you don't have a qualifying reason for an SEP, there's no extension."
-  - q: "Do I need Part D if I don't take any prescriptions?"
-    a: "This is one most people get wrong. If you're healthy today and skip Part D, you'll pay a late enrollment penalty for every month you went without creditable coverage once you do need it. Unless you have other creditable drug coverage (through an employer or VA, for example), enrolling in a low-cost Part D plan now is usually the smarter call. The cheapest plans in many areas run under $15 per month."
+ - q: "What happens if I miss my Initial Enrollment Period?"
+ a: "If you miss your IEP without qualifying coverage in place (like active employer coverage), you'll have to wait for the General Enrollment Period, which runs January 1 through March 31 each year, with coverage starting July 1. You'll also likely face late enrollment penalties on Part B and Part D that follow you permanently."
+ - q: "Can I enroll in Medicare if I'm still working at 65?"
+ a: "Yes, and many people do. Whether you should enroll depends heavily on how many people your employer has on payroll. If it's 20 or more, your employer plan stays primary and you can delay Part B without penalty. Under 20 employees, Medicare becomes primary even if you stay on the employer plan, and not enrolling in Part B on time could mean penalties."
+ - q: "Does my spouse's Medicare affect my own enrollment?"
+ a: "Not directly. Medicare is individual, not family-based. Your spouse being on Medicare doesn't start or stop your enrollment window. What matters is your own age and your own work history (for Part A eligibility)."
+ - q: "Is there any way to get more time if I miss my IEP?"
+ a: "There are Special Enrollment Periods (SEPs) that apply in specific situations, most commonly if you had qualifying employer coverage and then lost it. That SEP gives you eight months to enroll in Part B without penalty. But if you don't have a qualifying reason for an SEP, there's no extension."
+ - q: "Do I need Part D if I don't take any prescriptions?"
+ a: "This is one most people get wrong. If you're healthy today and skip Part D, you'll pay a late enrollment penalty for every month you went without creditable coverage once you do need it. Unless you have other creditable drug coverage (through an employer or VA, for example), enrolling in a low-cost Part D plan now is usually the smarter call. The cheapest plans in many areas run under $15 per month."
 ---
 
 You're probably reading this because a birthday is coming up, or someone in your life recently turned 65, and now you're staring at a pile of Medicare mailers wondering what's real and what's marketing noise. Maybe you've been on your spouse's insurance for years and never had to think about this. Maybe you're still working and not sure if Medicare even applies to you right now. Wherever you are, you're not late, and you're not behind. But this is one situation where timing genuinely matters, so let's walk through it carefully.
