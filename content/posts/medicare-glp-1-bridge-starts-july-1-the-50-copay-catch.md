@@ -11,7 +11,9 @@ author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-glp-1-bridge-starts-july-1-the-50-copay-catch"
-affiliate_disclosure: true, Something surprising is happening in Medicare on July 1, 2026, and most seniors eligible to benefit from it don't fully understand what they're actually signing up for. The Medicare GLP-1 Bridge launches this week, offering Wegovy, Zepbound (KwikPen), and a third drug called Foundayo at a flat $50 a month to qualifying Part D enrollees. For context, these drugs list at $1,000 or more per month without assistance, so $50 sounds almost too good to be true. In some ways, it is. The catch buried inside this program is one that could genuinely hurt people financially, and I want to make sure you understand it before July 1 arrives.
+affiliate_disclosure: true
+---
+Something surprising is happening in Medicare on July 1, 2026, and most seniors eligible to benefit from it don't fully understand what they're actually signing up for. The Medicare GLP-1 Bridge launches this week, offering Wegovy, Zepbound (KwikPen), and a third drug called Foundayo at a flat $50 a month to qualifying Part D enrollees. For context, these drugs list at $1,000 or more per month without assistance, so $50 sounds almost too good to be true. In some ways, it is. The catch buried inside this program is one that could genuinely hurt people financially, and I want to make sure you understand it before July 1 arrives.
 
 ## What the GLP-1 Bridge Actually Is
 

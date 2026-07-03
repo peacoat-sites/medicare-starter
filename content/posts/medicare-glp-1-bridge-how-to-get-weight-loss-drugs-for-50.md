@@ -11,7 +11,9 @@ author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-glp-1-bridge-how-to-get-weight-loss-drugs-for-50"
-affiliate_disclosure: true, Most people assume Medicare simply doesn't cover weight-loss drugs, full stop. That's been true for decades, thanks to a longstanding federal exclusion that kept obesity medications completely off the table. But starting July 1, 2026, that changes. CMS is launching the Medicare GLP-1 Bridge, and if you or someone you love has a Part D plan and a BMI over 27, this is genuinely worth understanding before the month is out.
+affiliate_disclosure: true
+---
+Most people assume Medicare simply doesn't cover weight-loss drugs, full stop. That's been true for decades, thanks to a longstanding federal exclusion that kept obesity medications completely off the table. But starting July 1, 2026, that changes. CMS is launching the Medicare GLP-1 Bridge, and if you or someone you love has a Part D plan and a BMI over 27, this is genuinely worth understanding before the month is out.
 
 I'll be honest: when I first started digging into the details, I expected a narrow, underwhelming pilot. What I found was more interesting, and also more complicated, than the headlines suggest.
 

@@ -11,7 +11,9 @@ author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-will-cover-weight-loss-drugs-for-50-starting-july-1"
-affiliate_disclosure: true, If you've been watching Wegovy or Zepbound prices climb and hoping Medicare would jump in, this is it. Starting July 1, 2026, Medicare's rolling out something it's never done before: coverage for GLP-1 weight-loss drugs at a flat $50 monthly copay for eligible people. That beats the $149 to $699 per month most people pay out of pocket by a mile, and the specifics matter enough to understand now before you call your doctor.
+affiliate_disclosure: true
+---
+If you've been watching Wegovy or Zepbound prices climb and hoping Medicare would jump in, this is it. Starting July 1, 2026, Medicare's rolling out something it's never done before: coverage for GLP-1 weight-loss drugs at a flat $50 monthly copay for eligible people. That beats the $149 to $699 per month most people pay out of pocket by a mile, and the specifics matter enough to understand now before you call your doctor.
 
 ## What the GLP-1 Bridge Program Actually Is
 

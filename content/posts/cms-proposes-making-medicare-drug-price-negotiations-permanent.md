@@ -11,7 +11,9 @@ author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "cms-proposes-making-medicare-drug-price-negotiations-permanent"
-affiliate_disclosure: true, For two years, the Medicare drug price negotiation program has run on administrative guidance, which is essentially rules that the next administration could rewrite or ignore. On June 12, 2026, CMS changed that. The agency published proposed rule CMS-4215-P, which would lock the negotiation program into permanent federal regulation for the first time. If you're on Medicare Part D, or about to be, this matters more than most policy news you'll scroll past this week.
+affiliate_disclosure: true
+---
+For two years, the Medicare drug price negotiation program has run on administrative guidance, which is essentially rules that the next administration could rewrite or ignore. On June 12, 2026, CMS changed that. The agency published proposed rule CMS-4215-P, which would lock the negotiation program into permanent federal regulation for the first time. If you're on Medicare Part D, or about to be, this matters more than most policy news you'll scroll past this week.
 
 ## What the Proposed Rule Actually Does
 

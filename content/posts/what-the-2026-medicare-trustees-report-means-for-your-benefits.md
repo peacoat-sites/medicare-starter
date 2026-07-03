@@ -11,7 +11,9 @@ author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "what-the-2026-medicare-trustees-report-means-for-your-benefits"
-affiliate_disclosure: true, Picture this: you get your Medicare Summary Notice in the mail, see that your Part B premium topped $200 a month for the first time ever, and think, "How did we get here?" You're not imagining things, and you're not alone in feeling the squeeze. On June 9, 2026, the Medicare Trustees released their annual financial report, and the numbers inside explain exactly what's happening, why your costs keep climbing, and what could be coming for your hospital coverage down the road. I've spent two decades watching these reports come and go, and this one deserves your attention more than most.
+affiliate_disclosure: true
+---
+Picture this: you get your Medicare Summary Notice in the mail, see that your Part B premium topped $200 a month for the first time ever, and think, "How did we get here?" You're not imagining things, and you're not alone in feeling the squeeze. On June 9, 2026, the Medicare Trustees released their annual financial report, and the numbers inside explain exactly what's happening, why your costs keep climbing, and what could be coming for your hospital coverage down the road. I've spent two decades watching these reports come and go, and this one deserves your attention more than most.
 
 ## The Part A Trust Fund Is Closer to the Edge
 
