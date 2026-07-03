@@ -13,16 +13,16 @@ author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and hel
 slug: "when-to-enroll-in-medicare"
 affiliate_disclosure: true
 faqs:
-  - q: "What happens if I miss my Initial Enrollment Period?"
-    a: "You can enroll during the General Enrollment Period from January 1 through March 31 each year, with coverage starting July 1. If you missed enrollment because you had qualifying employer coverage, you likely qualify for a Special Enrollment Period instead and can avoid the late penalty."
-  - q: "Can I delay Medicare if I'm still working at 65?"
-    a: "Yes, if you have coverage through an active employer with 20 or more employees (your own or your spouse's). When that coverage ends, you have an 8-month Special Enrollment Period to sign up for Part B without penalty. Retiree coverage and COBRA do not count as qualifying coverage for this purpose."
-  - q: "Does my spouse's employer coverage protect me from Medicare late penalties?"
-    a: "Yes, as long as that employer has 20 or more employees and the coverage is active employment-based coverage (not retiree coverage). When your spouse's employment ends or the coverage ends, your 8-month Special Enrollment Period begins."
-  - q: "I'm turning 65 but I don't want Medicare yet. Do I have to sign up?"
-    a: "You're not legally required to enroll, but if you have no qualifying coverage and skip it, you'll face permanent premium penalties when you do sign up. If you're still working with good employer coverage, delaying makes sense. If you're not, enrolling on time is almost always the right call."
-  - q: "How do I actually sign up for Medicare?"
-    a: "You can enroll online at SSA.gov, call Social Security at 1-800-772-1213, or visit your local Social Security office. If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Parts A and B automatically. Check your mail around your 65th birthday regardless."
+ - q: "What happens if I miss my Initial Enrollment Period?"
+ a: "You can enroll during the General Enrollment Period from January 1 through March 31 each year, with coverage starting July 1. If you missed enrollment because you had qualifying employer coverage, you likely qualify for a Special Enrollment Period instead and can avoid the late penalty."
+ - q: "Can I delay Medicare if I'm still working at 65?"
+ a: "Yes, if you have coverage through an active employer with 20 or more employees (your own or your spouse's). When that coverage ends, you have an 8-month Special Enrollment Period to sign up for Part B without penalty. Retiree coverage and COBRA do not count as qualifying coverage for this purpose."
+ - q: "Does my spouse's employer coverage protect me from Medicare late penalties?"
+ a: "Yes, as long as that employer has 20 or more employees and the coverage is active employment-based coverage (not retiree coverage). When your spouse's employment ends or the coverage ends, your 8-month Special Enrollment Period begins."
+ - q: "I'm turning 65 but I don't want Medicare yet. Do I have to sign up?"
+ a: "You're not legally required to enroll, but if you have no qualifying coverage and skip it, you'll face permanent premium penalties when you do sign up. If you're still working with good employer coverage, delaying makes sense. If you're not, enrolling on time is almost always the right call."
+ - q: "How do I actually sign up for Medicare?"
+ a: "You can enroll online at SSA.gov, call Social Security at 1-800-772-1213, or visit your local Social Security office. If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Parts A and B automatically. Check your mail around your 65th birthday regardless."
 ---
 
 Most people get their Medicare timing wrong before they even know the rules exist. They assume it works like regular insurance, that you sign up when you need it, or when it feels right, or when someone at the doctor's office mentions it. That assumption costs some of them hundreds of dollars a month in permanent premium penalties. For the rest of their lives.
