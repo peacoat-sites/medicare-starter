@@ -14,15 +14,15 @@ slug: "average-medicare-costs-per-month"
 affiliate_disclosure: true
 faqs:
  - q: "Is Medicare free when you turn 65?"
- a: "Not exactly. Part A is premium-free for most people with sufficient work history, but Part B has a standard premium of around $185 per month currently, and most people pay it. There's also cost-sharing for services even once you're enrolled."
+   a: "Not exactly. Part A is premium-free for most people with sufficient work history, but Part B has a standard premium of around $185 per month currently, and most people pay it. There's also cost-sharing for services even once you're enrolled."
  - q: "What is the income limit before Medicare premiums go up?"
- a: "The IRMAA surcharge for Part B kicks in once your income (as an individual) exceeds roughly $106,000, based on your tax return from two years prior. Above that threshold, your Part B premium increases in steps, up to over $590 per month at the highest income tier."
+   a: "The IRMAA surcharge for Part B kicks in once your income (as an individual) exceeds roughly $106,000, based on your tax return from two years prior. Above that threshold, your Part B premium increases in steps, up to over $590 per month at the highest income tier."
  - q: "Can I get help paying my Medicare premiums?"
- a: "Yes. Medicare Savings Programs (MSPs) are state-run programs that help people with limited income and assets pay Part A and/or Part B premiums, deductibles, and coinsurance. Call your state Medicaid office or 1-800-MEDICARE to find out if you qualify."
+   a: "Yes. Medicare Savings Programs (MSPs) are state-run programs that help people with limited income and assets pay Part A and/or Part B premiums, deductibles, and coinsurance. Call your state Medicaid office or 1-800-MEDICARE to find out if you qualify."
  - q: "Do I need Medigap if I have Medicare Advantage?"
- a: "No. Medigap policies only work with Original Medicare (Parts A and B). If you're enrolled in a Medicare Advantage plan, you can't use a Medigap policy, and insurance companies can't legally sell you one that applies to Advantage coverage."
+   a: "No. Medigap policies only work with Original Medicare (Parts A and B). If you're enrolled in a Medicare Advantage plan, you can't use a Medigap policy, and insurance companies can't legally sell you one that applies to Advantage coverage."
  - q: "When does my Medicare enrollment period open?"
- a: "Your Initial Enrollment Period is a 7-month window: it starts 3 months before the month you turn 65, includes your birthday month, and ends 3 months after. Enrolling late without a valid Special Enrollment Period can trigger permanent premium penalties for Part B and Part D."
+   a: "Your Initial Enrollment Period is a 7-month window: it starts 3 months before the month you turn 65, includes your birthday month, and ends 3 months after. Enrolling late without a valid Special Enrollment Period can trigger permanent premium penalties for Part B and Part D."
 ---
 
 Most people walk into Medicare assuming it's free. I've watched that assumption cost retirees hundreds of dollars a month in surprise premiums, cost-sharing, and uncovered services they didn't see coming. Let me save you that particular frustration.

@@ -14,15 +14,15 @@ slug: "when-is-medicare-annual-open-enrollment-period-2026"
 affiliate_disclosure: true
 faqs:
  - q: "When exactly does Medicare open enrollment start and end in 2026?"
- a: "Medicare's Annual Enrollment Period runs from October 15 through December 7, 2026. Changes made during this window take effect January 1, 2027."
+   a: "Medicare's Annual Enrollment Period runs from October 15 through December 7, 2026. Changes made during this window take effect January 1, 2027."
  - q: "Can I change my Medicare plan after December 7th?"
- a: "Generally no, not through the AEP. There is a separate Medicare Advantage Open Enrollment Period from January 1 through March 31 each year, but it only lets you switch to a different MA plan or return to Original Medicare. It doesn't let you join Part D for the first time."
+   a: "Generally no, not through the AEP. There is a separate Medicare Advantage Open Enrollment Period from January 1 through March 31 each year, but it only lets you switch to a different MA plan or return to Original Medicare. It doesn't let you join Part D for the first time."
  - q: "What if I missed open enrollment last year?"
- a: "Unless you qualify for a Special Enrollment Period (SEP) due to a qualifying life event (like losing other coverage, moving out of your plan's service area, or qualifying for extra help), you'll typically need to wait for the next AEP in October. Some exceptions exist for people in certain low-income programs, so call 1-800-MEDICARE to ask about your specific situation."
+   a: "Unless you qualify for a Special Enrollment Period (SEP) due to a qualifying life event (like losing other coverage, moving out of your plan's service area, or qualifying for extra help), you'll typically need to wait for the next AEP in October. Some exceptions exist for people in certain low-income programs, so call 1-800-MEDICARE to ask about your specific situation."
  - q: "Do I have to do anything during AEP if I'm happy with my current plan?"
- a: "Technically no. If you do nothing, you stay enrolled in your current plan. But plans change their premiums, drug formularies, and provider networks every year, so 'happy with it now' doesn't always mean 'it'll be the same next year.' It takes about 20 minutes to verify your current plan is still the best fit. Worth doing."
+   a: "Technically no. If you do nothing, you stay enrolled in your current plan. But plans change their premiums, drug formularies, and provider networks every year, so 'happy with it now' doesn't always mean 'it'll be the same next year.' It takes about 20 minutes to verify your current plan is still the best fit. Worth doing."
  - q: "Where's the best place to compare Medicare plans for 2027 coverage?"
- a: "Start with the Medicare Plan Finder at Medicare.gov. It pulls official plan data and lets you enter your specific drugs and pharmacy to compare real annual costs. For a second opinion or help interpreting the results, a free State Health Insurance Assistance Program (SHIP) counselor can walk through plans with you at no cost. Find your local SHIP at shiphelp.org."
+   a: "Start with the Medicare Plan Finder at Medicare.gov. It pulls official plan data and lets you enter your specific drugs and pharmacy to compare real annual costs. For a second opinion or help interpreting the results, a free State Health Insurance Assistance Program (SHIP) counselor can walk through plans with you at no cost. Find your local SHIP at shiphelp.org."
 ---
 
 October 15th. Write it down. That's when it starts.

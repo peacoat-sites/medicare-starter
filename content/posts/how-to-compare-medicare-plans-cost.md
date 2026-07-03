@@ -14,15 +14,15 @@ slug: "how-to-compare-medicare-plans-cost"
 affiliate_disclosure: true
 faqs:
  - q: "What's the single most important cost number to compare between Medicare plans?"
- a: "Your estimated total annual cost, not your monthly premium. Medicare's Plan Finder calculates this for you using your specific drugs and usage patterns. Add the out-of-pocket maximum to your annual premiums to see your worst-case scenario, and compare that figure across plans."
+   a: "Your estimated total annual cost, not your monthly premium. Medicare's Plan Finder calculates this for you using your specific drugs and usage patterns. Add the out-of-pocket maximum to your annual premiums to see your worst-case scenario, and compare that figure across plans."
  - q: "Is a $0 premium Medicare Advantage plan ever actually free?"
- a: "No. You still pay your Part B premium (in 2026, that's $185.00 per month for most people), plus copays, coinsurance, and potentially deductibles when you use care. The $0 refers only to the plan's additional monthly premium on top of Part B."
+   a: "No. You still pay your Part B premium (in 2026, that's $185.00 per month for most people), plus copays, coinsurance, and potentially deductibles when you use care. The $0 refers only to the plan's additional monthly premium on top of Part B."
  - q: "Can I switch Medicare plans if my costs turn out to be higher than expected?"
- a: "Yes, during certain windows. The Annual Enrollment Period (AEP) runs October 15 through December 7 each year and lets you switch plans effective January 1. There's also a Medicare Advantage Open Enrollment Period from January 1 through March 31 that allows one switch. Outside those windows, your options are more limited unless you qualify for a Special Enrollment Period."
+   a: "Yes, during certain windows. The Annual Enrollment Period (AEP) runs October 15 through December 7 each year and lets you switch plans effective January 1. There's also a Medicare Advantage Open Enrollment Period from January 1 through March 31 that allows one switch. Outside those windows, your options are more limited unless you qualify for a Special Enrollment Period."
  - q: "Do Medicare Advantage plans really cover dental and vision?"
- a: "Many do offer some dental and vision benefits, but the coverage varies enormously. Some plans offer meaningful benefits; others offer limited preventive care only with significant restrictions on major procedures. Always read the actual plan documents, not just the marketing summary, before counting on those benefits in your cost comparison."
+   a: "Many do offer some dental and vision benefits, but the coverage varies enormously. Some plans offer meaningful benefits; others offer limited preventive care only with significant restrictions on major procedures. Always read the actual plan documents, not just the marketing summary, before counting on those benefits in your cost comparison."
  - q: "Should I use an insurance broker to compare plans, or do it myself?"
- a: "An independent broker who works with multiple carriers can be genuinely helpful, and their services are typically free to you (they're paid by commissions from the plans). The key word is 'independent.' A captive agent who sells only one company's plans can't give you a full comparison. For a truly unbiased perspective, pair a broker with a SHIP counselor consultation."
+   a: "An independent broker who works with multiple carriers can be genuinely helpful, and their services are typically free to you (they're paid by commissions from the plans). The key word is 'independent.' A captive agent who sells only one company's plans can't give you a full comparison. For a truly unbiased perspective, pair a broker with a SHIP counselor consultation."
 ---
 
 Most people spend more time picking a Netflix plan than comparing their Medicare options. I'll be honest: I spent years watching that pattern play out, and it still frustrates me. Because the stakes here aren't $15 a month. They're your savings, your health, and whether you can afford to see the doctors you trust.

@@ -14,15 +14,15 @@ slug: "medicare-vs-medicaid-difference"
 affiliate_disclosure: true
 faqs:
  - q: "Is Medicare free?"
- a: "Not entirely. Part A (hospital) is free for most people who worked long enough and paid Medicare taxes. Part B has a monthly premium (around $185 in 2026 for most). Parts C and D are through private insurers and vary in cost. You'll also pay deductibles and copays when you use services."
+   a: "Not entirely. Part A (hospital) is free for most people who worked long enough and paid Medicare taxes. Part B has a monthly premium (around $185 in 2026 for most). Parts C and D are through private insurers and vary in cost. You'll also pay deductibles and copays when you use services."
  - q: "Can you have Medicare and Medicaid at the same time?"
- a: "Yes. People who qualify for both are called 'dual-eligible' beneficiaries. Medicare pays first; Medicaid fills in gaps and may cover your Medicare premiums through Medicare Savings Programs. About 12 million Americans have both."
+   a: "Yes. People who qualify for both are called 'dual-eligible' beneficiaries. Medicare pays first; Medicaid fills in gaps and may cover your Medicare premiums through Medicare Savings Programs. About 12 million Americans have both."
  - q: "Does Medicare cover nursing home care?"
- a: "Only in limited, specific circumstances: following a qualifying hospital stay, for skilled nursing care, for up to 100 days. After day 100, Medicare pays nothing. Long-term custodial nursing home care is covered by Medicaid (if you financially qualify), not Medicare."
+   a: "Only in limited, specific circumstances: following a qualifying hospital stay, for skilled nursing care, for up to 100 days. After day 100, Medicare pays nothing. Long-term custodial nursing home care is covered by Medicaid (if you financially qualify), not Medicare."
  - q: "How do I know if I qualify for Medicaid?"
- a: "Medicaid eligibility is based on income and (for some categories) assets, and rules vary by state. The fastest way to check is through your state's Medicaid agency website, or at Healthcare.gov. A free SHIP counselor can also help you sort through eligibility and applications."
+   a: "Medicaid eligibility is based on income and (for some categories) assets, and rules vary by state. The fastest way to check is through your state's Medicaid agency website, or at Healthcare.gov. A free SHIP counselor can also help you sort through eligibility and applications."
  - q: "Will applying for Medicaid affect my Medicare benefits?"
- a: "No. Enrolling in Medicaid does not reduce or eliminate your Medicare coverage. If anything, having both gives you more complete coverage, since Medicaid can help cover what Medicare doesn't."
+   a: "No. Enrolling in Medicaid does not reduce or eliminate your Medicare coverage. If anything, having both gives you more complete coverage, since Medicaid can help cover what Medicare doesn't."
 ---
 
 Most people assume Medicare is for the poor and Medicaid is for the elderly. It's the single most common mix-up I've seen in 20 years of counseling seniors, and it costs people real money when they get it wrong.

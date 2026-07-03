@@ -14,15 +14,15 @@ slug: "medicare-part-b-late-enrollment-penalty"
 affiliate_disclosure: true
 faqs:
  - q: "Does the Part B late enrollment penalty ever go away?"
- a: "No. Once assessed, the penalty stays with you permanently, for as long as you have Part B coverage. There's no provision for it to expire or phase out over time."
+   a: "No. Once assessed, the penalty stays with you permanently, for as long as you have Part B coverage. There's no provision for it to expire or phase out over time."
  - q: "What if I didn't sign up because I had COBRA coverage?"
- a: "COBRA does not qualify as the kind of coverage that exempts you from the Part B late enrollment penalty. If you missed your Initial Enrollment Period while on COBRA, the penalty clock was running. Contact Social Security and a SHIP counselor as soon as possible to assess your options."
+   a: "COBRA does not qualify as the kind of coverage that exempts you from the Part B late enrollment penalty. If you missed your Initial Enrollment Period while on COBRA, the penalty clock was running. Contact Social Security and a SHIP counselor as soon as possible to assess your options."
  - q: "Can my spouse's retiree insurance protect me from the penalty?"
- a: "No. Retiree health coverage, whether it's yours or your spouse's, does not count as qualifying employer coverage for penalty exemption purposes. Only active employer group health plan coverage tied to current employment qualifies."
+   a: "No. Retiree health coverage, whether it's yours or your spouse's, does not count as qualifying employer coverage for penalty exemption purposes. Only active employer group health plan coverage tied to current employment qualifies."
  - q: "How do I officially enroll in Part B if I missed my Initial Enrollment Period?"
- a: "You can enroll during the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. Or, if you're leaving qualifying job-based coverage, you have a Special Enrollment Period of 8 months to sign up without adding further delay to your penalty. Visit Medicare.gov or call 1-800-MEDICARE to start the process."
+   a: "You can enroll during the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. Or, if you're leaving qualifying job-based coverage, you have a Special Enrollment Period of 8 months to sign up without adding further delay to your penalty. Visit Medicare.gov or call 1-800-MEDICARE to start the process."
  - q: "Is there any income-related help available if the penalty makes Part B unaffordable?"
- a: "Yes. Medicare Savings Programs (MSPs), administered through your state Medicaid office, may help pay your Part B premium, including the penalty amount, if your income and assets fall within certain limits. It's worth checking regardless of whether you think you qualify. Many people are surprised to find they're eligible."
+   a: "Yes. Medicare Savings Programs (MSPs), administered through your state Medicaid office, may help pay your Part B premium, including the penalty amount, if your income and assets fall within certain limits. It's worth checking regardless of whether you think you qualify. Many people are surprised to find they're eligible."
 ---
 
 Most people assume the Medicare late enrollment penalty is a temporary slap on the wrist. Pay a little extra for a year, get back on track, and move on. I'll be honest: that's one of the most expensive misunderstandings I've seen in 20 years of helping people sort out their Medicare situations. The penalty isn't temporary. It follows you for life.

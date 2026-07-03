@@ -14,15 +14,15 @@ slug: "how-to-choose-a-medicare-part-d-prescription-drug-plan"
 affiliate_disclosure: true
 faqs:
  - q: "Can I have more than one Part D plan at the same time?"
- a: "No. You can only be enrolled in one Part D plan at a time. If you join a new plan during Open Enrollment, the new plan automatically replaces your old one on January 1st."
+   a: "No. You can only be enrolled in one Part D plan at a time. If you join a new plan during Open Enrollment, the new plan automatically replaces your old one on January 1st."
  - q: "What happens if I don't sign up for Part D when I'm first eligible?"
- a: "You'll face a late enrollment penalty. It's calculated as 1% of the national base beneficiary premium multiplied by every month you went without creditable drug coverage, and it gets added permanently to your premium for as long as you have Part D. The national base premium changes annually; in 2026 it's around $36. It adds up. The only exception is if you had other creditable coverage, like through an employer or union plan."
+   a: "You'll face a late enrollment penalty. It's calculated as 1% of the national base beneficiary premium multiplied by every month you went without creditable drug coverage, and it gets added permanently to your premium for as long as you have Part D. The national base premium changes annually; in 2026 it's around $36. It adds up. The only exception is if you had other creditable coverage, like through an employer or union plan."
  - q: "Do I need Part D if I'm on Medicare Advantage?"
- a: "Maybe not separately. Most Medicare Advantage plans (Part C) include built-in drug coverage that functions like Part D. Before enrolling in a standalone Part D plan, confirm whether your Medicare Advantage plan already includes drug coverage. If it does, enrolling separately in Part D could actually trigger a disenrollment from your Advantage plan."
+   a: "Maybe not separately. Most Medicare Advantage plans (Part C) include built-in drug coverage that functions like Part D. Before enrolling in a standalone Part D plan, confirm whether your Medicare Advantage plan already includes drug coverage. If it does, enrolling separately in Part D could actually trigger a disenrollment from your Advantage plan."
  - q: "My drug isn't on the plan's formulary. What should I do?"
- a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
+   a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
  - q: "Is a $0 premium Part D plan always a bad deal?"
- a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
+   a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
 ---
 
 Most people spend more time picking a Netflix subscription than they do choosing their Medicare Part D drug plan. I've watched that mistake cost people hundreds of dollars a year, sometimes over a thousand, and it's entirely avoidable.

@@ -14,15 +14,15 @@ slug: "how-to-sign-up-for-medicare"
 affiliate_disclosure: true
 faqs:
  - q: "What if I missed my Initial Enrollment Period?"
- a: "If you missed your IEP and don't qualify for a Special Enrollment Period, you'll need to wait for the General Enrollment Period, which runs January 1 through March 31 each year, with coverage starting July 1. You may also owe a late enrollment penalty for Part B and Part D, depending on how long you waited."
+   a: "If you missed your IEP and don't qualify for a Special Enrollment Period, you'll need to wait for the General Enrollment Period, which runs January 1 through March 31 each year, with coverage starting July 1. You may also owe a late enrollment penalty for Part B and Part D, depending on how long you waited."
  - q: "Can I sign up for Medicare if I'm still working at 65?"
- a: "Yes, but you'll want to think carefully about whether to take Part B. If you have creditable employer coverage, you can delay Part B penalty-free. If your employer has fewer than 20 employees, Medicare is supposed to pay first, so enrolling in Part B matters more in that situation."
+   a: "Yes, but you'll want to think carefully about whether to take Part B. If you have creditable employer coverage, you can delay Part B penalty-free. If your employer has fewer than 20 employees, Medicare is supposed to pay first, so enrolling in Part B matters more in that situation."
  - q: "How do I know if my employer coverage is 'creditable'?"
- a: "Your employer or plan administrator is required to notify you each year whether your coverage is creditable. Look for a written notice, usually sent around October. If you're not sure, ask your HR department directly."
+   a: "Your employer or plan administrator is required to notify you each year whether your coverage is creditable. Look for a written notice, usually sent around October. If you're not sure, ask your HR department directly."
  - q: "Do I have to sign up for Part D separately?"
- a: "Yes, if you're on Original Medicare, Part D is a separate plan you purchase from a private insurer. It doesn't come automatically. You can compare plans at Medicare.gov's Plan Finder tool, which lets you enter your specific medications to see which plan covers them at the lowest total cost."
+   a: "Yes, if you're on Original Medicare, Part D is a separate plan you purchase from a private insurer. It doesn't come automatically. You can compare plans at Medicare.gov's Plan Finder tool, which lets you enter your specific medications to see which plan covers them at the lowest total cost."
  - q: "What's the difference between Medigap and Medicare Advantage?"
- a: "These two options are actually mutually exclusive. Medigap (Medicare Supplement) policies work alongside Original Medicare to cover gaps like deductibles, copays, and coinsurance. Medicare Advantage replaces Original Medicare with a private plan. You can't have both at the same time."
+   a: "These two options are actually mutually exclusive. Medigap (Medicare Supplement) policies work alongside Original Medicare to cover gaps like deductibles, copays, and coinsurance. Medicare Advantage replaces Original Medicare with a private plan. You can't have both at the same time."
 ---
 
 You're probably here because something changed. Maybe you just got a letter from Social Security, or a birthday with a "6" and a "5" in it is coming up faster than expected, and someone told you to "just go sign up for Medicare." As if it were obvious. As if there weren't about a dozen ways to do it wrong.

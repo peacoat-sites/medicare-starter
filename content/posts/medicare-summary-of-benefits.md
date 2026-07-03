@@ -14,15 +14,15 @@ slug: "medicare-summary-of-benefits"
 affiliate_disclosure: true
 faqs:
  - q: "What's the difference between a Summary of Benefits and an Evidence of Coverage?"
- a: "The Summary of Benefits is a short, standardized overview of your plan's costs and covered services, typically 10-20 pages. The Evidence of Coverage is the full legal contract, often 100-plus pages, with detailed rules on prior authorization, appeals, and exceptions. For quick cost comparisons, use the Summary. For specific coverage disputes, you'll need the Evidence of Coverage."
+   a: "The Summary of Benefits is a short, standardized overview of your plan's costs and covered services, typically 10-20 pages. The Evidence of Coverage is the full legal contract, often 100-plus pages, with detailed rules on prior authorization, appeals, and exceptions. For quick cost comparisons, use the Summary. For specific coverage disputes, you'll need the Evidence of Coverage."
  - q: "Can my plan change what's in the Summary of Benefits mid-year?"
- a: "Generally, no. Plans are required to honor the cost-sharing and coverage terms in your annual Summary of Benefits for that plan year. Significant changes can only take effect at the start of a new plan year. If your plan sends a mid-year notice of changes, that's a signal worth scrutinizing carefully."
+   a: "Generally, no. Plans are required to honor the cost-sharing and coverage terms in your annual Summary of Benefits for that plan year. Significant changes can only take effect at the start of a new plan year. If your plan sends a mid-year notice of changes, that's a signal worth scrutinizing carefully."
  - q: "Where can I find my Medicare Advantage plan's Summary of Benefits?"
- a: "Check your plan's website under 'Plan Documents' or 'Plan Information.' You can also find it through the Medicare Plan Finder at Medicare.gov. If you enrolled through a broker, they should be able to send it to you directly."
+   a: "Check your plan's website under 'Plan Documents' or 'Plan Information.' You can also find it through the Medicare Plan Finder at Medicare.gov. If you enrolled through a broker, they should be able to send it to you directly."
  - q: "Does Original Medicare (Parts A and B) have a Summary of Benefits?"
- a: "Not in the same format. Original Medicare doesn't issue a plan-style Summary because it's a federal program, not a private plan. The Medicare & You handbook, mailed each fall, functions as the closest equivalent. It covers costs, covered services, and rights for both Part A and Part B."
+   a: "Not in the same format. Original Medicare doesn't issue a plan-style Summary because it's a federal program, not a private plan. The Medicare & You handbook, mailed each fall, functions as the closest equivalent. It covers costs, covered services, and rights for both Part A and Part B."
  - q: "How often should I actually re-read my Summary of Benefits?"
- a: "Every fall before Open Enrollment ends on December 7. Plans change their premiums, copays, formularies, and extra benefits each year. Even if you're happy with your current plan, a 15-minute review confirming your key cost-sharing figures is worth doing. Catching one change in drug tier pricing can easily save you several hundred dollars annually."
+   a: "Every fall before Open Enrollment ends on December 7. Plans change their premiums, copays, formularies, and extra benefits each year. Even if you're happy with your current plan, a 15-minute review confirming your key cost-sharing figures is worth doing. Catching one change in drug tier pricing can easily save you several hundred dollars annually."
 ---
 
 Most people read their Medicare Summary of Benefits exactly once, right after they enroll, and never look at it again. That's a mistake that can cost real money.
