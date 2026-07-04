@@ -99,7 +99,5 @@
 {{- end }}
 
 {{/* title-font */}}
-{{- if eq .Section "posts" }}
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap">
-<style>.post-title{font-family:'Merriweather', Georgia, serif;letter-spacing:-.015em}</style>
-{{- end }}
+<style>:root{--serif:'Merriweather', Georgia, serif}.post-title{letter-spacing:-.015em}</style>
