@@ -1,5 +1,6 @@
 ---
 title: "Medicare IRMAA Calculator: Estimate Your 2024 Surcharge"
+hide_title: true
 slug: "irmaa-medicare-calculator"
 date: 2026-06-10
 author: "Frank Alvarez"
