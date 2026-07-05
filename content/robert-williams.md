@@ -2,6 +2,7 @@
 title: "Robert Williams"
 date: 2026-01-01T00:00:00Z
 layout: "author-page"
+hide_title: true
 author_name: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
