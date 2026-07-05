@@ -1,5 +1,6 @@
 ---
 title: "Original Medicare vs. Medicare Advantage: Which Plan Is Right for You?"
+hide_title: true
 date: 2026-06-10
 description: "Use our free interactive selector to understand whether Original Medicare with a Medigap supplement or Medicare Advantage better fits your health, travel, and budget needs."
 categories: ["Medicare Enrollment"]
