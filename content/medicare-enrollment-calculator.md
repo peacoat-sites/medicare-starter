@@ -1,5 +1,6 @@
 ---
 title: "Medicare Enrollment Date Calculator: Find Your Enrollment Window"
+hide_title: true
 slug: "medicare-enrollment-dates"
 date: 2026-06-10
 author: "Frank Alvarez"
