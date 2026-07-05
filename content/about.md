@@ -1,5 +1,6 @@
 ---
 title: "About Medicare Starter"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Medicare Starter,  meet Frank Alvarez and learn how we help people navigate Medicare enrollment and coverage."
