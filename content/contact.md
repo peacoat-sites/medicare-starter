@@ -19,4 +19,4 @@ Have a question, spotted an error, or want to suggest a topic? We read every mes
 
 We're a content publication, not a professional service. We can't provide personalized Medicare enrollment or insurance advice specific to your situation. For that, please consult a qualified professional.
 
-*[Carol Bennett](/{editor_slug}/) personally reviews all messages sent through this form.*
+*[Carol Bennett](/carol-bennett/) personally reviews all messages sent through this form.*
