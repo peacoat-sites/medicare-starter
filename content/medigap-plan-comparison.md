@@ -1,5 +1,6 @@
 ---
 title: "Medigap Plan Comparison Chart: Plans A Through N Explained"
+hide_title: true
 slug: "medigap-plan-comparison"
 date: 2026-06-10
 author: "Frank Alvarez"
