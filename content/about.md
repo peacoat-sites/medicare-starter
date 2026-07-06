@@ -7,6 +7,7 @@ description: "About Medicare Starter,  meet Frank Alvarez and learn how we help 
 layout: "about-page"
 author_slug: "dorothy-chen"
 author_name: "Medicare Starter"
+person_name: "Frank Alvarez"
 ---
 
 ## About Medicare Starter
