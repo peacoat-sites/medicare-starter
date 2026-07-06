@@ -6,7 +6,6 @@ date: 2026-06-10
 author: "Frank Alvarez"
 categories: ["Medicare Supplement"]
 description: "Compare all Medigap (Medicare Supplement) plans A through N side by side. See what each plan covers, which plans include Part A and B deductibles, and how to choose the right one."
-image: ""
 image: "https://images.pexels.com/photos/7947715/pexels-photo-7947715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
