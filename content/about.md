@@ -4,7 +4,9 @@ hide_title: true
 date: 2026-01-01
 draft: false
 description: "About Medicare Starter,  meet Frank Alvarez and learn how we help people navigate Medicare enrollment and coverage."
----
+layout: "about-page"
+author_slug: "medicare-starter"
+author_name: "Medicare Starter"---
 
 ## About Medicare Starter
 
