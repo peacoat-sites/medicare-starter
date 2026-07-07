@@ -2,26 +2,44 @@
   {
     "label": "IRMAA Medicare Calc",
     "url": "/irmaa-medicare-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "irmaa",
+      "medicare"
+    ]
   },
   {
     "label": "Cost Estimator",
     "url": "/medicare-cost-estimator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "cost"
+    ]
   },
   {
     "label": "Costs Year",
     "url": "/medicare-costs-by-year/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "costs",
+      "year"
+    ]
   },
   {
     "label": "Enrollment Dates",
     "url": "/medicare-enrollment-dates/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "enrollment",
+      "dates"
+    ]
   },
   {
     "label": "Plan Quiz",
     "url": "/medicare-plan-quiz/",
-    "icon": "\ud83e\udded"
+    "icon": "\ud83e\udded",
+    "match": [
+      "plan"
+    ]
   }
 ]
