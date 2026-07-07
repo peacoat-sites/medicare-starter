@@ -1,0 +1,22 @@
+[
+ {
+  "name": "Medicare.gov",
+  "url": "https://www.medicare.gov/",
+  "note": "Official U.S. Medicare program"
+ },
+ {
+  "name": "Centers for Medicare & Medicaid Services (CMS)",
+  "url": "https://www.cms.gov/",
+  "note": "Federal Medicare policy"
+ },
+ {
+  "name": "Social Security Administration",
+  "url": "https://www.ssa.gov/",
+  "note": "Enrollment and eligibility"
+ },
+ {
+  "name": "Medicare Rights Center",
+  "url": "https://www.medicarerights.org/",
+  "note": "Independent beneficiary help"
+ }
+]
