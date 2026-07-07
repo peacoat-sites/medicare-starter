@@ -25,8 +25,6 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 
 ---
-# Medicare Extra Help by State
-
 About 14 million people qualify for Extra Help with Medicare drug costs. Roughly a third of them never apply.
 
 That number stuck with me the first time I read it, and I think about it every time someone tells me, "I didn't know I could get help with that." They're not careless people. They're people who got a packet in the mail, assumed it was junk, and moved on. Or they heard "Medicare" and figured everything worked the same way for everyone. Or nobody told them.

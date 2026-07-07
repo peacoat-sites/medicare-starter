@@ -13,8 +13,6 @@ author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 
 ---
-# Medicare and Employer Insurance: How to Coordinate Your Coverage and Avoid Costly Mistakes
-
 Turning 65 brings decisions, and none are messier than figuring out how Medicare works with your current employer health plan. Whether you're still working, your spouse is, or you're just weeks away from retirement, this is one of the most confusing corners of health insurance. Most people get it wrong.
 
 The stakes are real. Handle it right, and you'll have solid coverage with minimal out-of-pocket costs. Mess it up, and you're looking at unexpected gaps in coverage, denied claims, or permanent late enrollment penalties that stick with you for life. That part isn't exaggeration.

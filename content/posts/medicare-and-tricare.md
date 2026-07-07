@@ -13,8 +13,6 @@ author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 
 ---
-# Medicare and TRICARE: The Complete Guide for Military Retirees and Veterans
-
 You've earned it. After years of military service, you have access to one of the most comprehensive health coverage combinations in America: Medicare paired with TRICARE. The problem? Figuring out how they actually work together feels like navigating a bureaucratic minefield. Which one pays first? Do you even need both? What happens when you hit 65? These questions cost military retirees real money every year, unexpected bills, coverage gaps, missed savings, and they're completely avoidable once you know the rules.
 
 Here's the good news: Medicare and TRICARE are designed to complement each other perfectly. You just need to understand what they do. Whether you're approaching 65, managing benefits for a surviving spouse, or already in the system and wondering if you're optimizing correctly, this guide walks you through everything.

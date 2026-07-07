@@ -25,8 +25,6 @@ faqs:
     a: "Once you hit the $2,310 annual cap, Medicare stops paying. You can continue therapy if you pay out of pocket, which typically runs $100 to $150 per visit. Some therapists will negotiate a self-pay rate. If you believe you need more therapy and the cap has prevented medically necessary care, you can request an exception from your plan (Advantage) or appeal to Medicare (Original). Success isn't guaranteed, but it's worth asking."
 ---
 
-# Medicare Physical Therapy Coverage
-
 A reader emailed me last month asking whether she could get physical therapy covered after hip surgery. She'd already gotten the green light from her surgeon, but when she called her Medicare plan to ask about it, the person on the phone said something vague about "medically necessary" and "needing approval first," and she hung up more confused than when she started. I get calls like this every week. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.
 
 Here's what most people don't realize: Medicare does cover physical therapy, occupational therapy, and speech therapy. The benefit is real and meaningful. But the rules are specific enough that getting it wrong costs money and delays treatment, and getting it right takes maybe twenty minutes of homework on your part.
