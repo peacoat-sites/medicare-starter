@@ -3,11 +3,11 @@ title: "About Medicare Starter"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "About Medicare Starter,  meet Frank Alvarez and learn how we help people navigate Medicare enrollment and coverage."
+description: "About Medicare Starter,  meet Dorothy Chen and learn how we help people navigate Medicare enrollment and coverage."
 layout: "about-page"
 author_slug: "dorothy-chen"
 author_name: "Medicare Starter"
-person_name: "Frank Alvarez"
+person_name: "Dorothy Chen"
 ---
 
 ## About Medicare Starter
@@ -16,11 +16,9 @@ Medicare Starter is an independent resource dedicated to helping people understa
 
 ## Meet the Editor
 
-**Frank Alvarez** is the editor behind Medicare Starter.
+**Dorothy Chen** is the editor behind Medicare Starter.
 
-Frank spent 20 years as an employee benefits coordinator, managing healthcare enrollment and Medicare transitions for thousands of employees and retirees at large organizations. He processed the paperwork, fielded the questions, and watched people make expensive mistakes,  missing enrollment windows, choosing the wrong plan, or signing up for coverage they didn’t understand until they needed to use it.
-
-After retiring from benefits administration, Frank started writing Medicare guides to give everyday people access to the same clear information he spent two decades explaining to employees one-on-one.
+Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65.
 
 ## What We Cover
 
@@ -34,7 +32,7 @@ Every article is researched from official Medicare.gov guidance, CMS publication
 
 ## Important Disclaimer
 
-Medicare Starter provides general informational content about Medicare. Frank Alvarez is a retired benefits professional and researcher,  not a licensed insurance agent or financial advisor. Medicare rules and available plans vary by location and change annually. Contact Medicare at 1-800-MEDICARE or a licensed benefits counselor for advice specific to your situation.
+Medicare Starter provides general informational content about Medicare. Dorothy Chen is a retired benefits professional and researcher,  not a licensed insurance agent or financial advisor. Medicare rules and available plans vary by location and change annually. Contact Medicare at 1-800-MEDICARE or a licensed benefits counselor for advice specific to your situation.
 
 ## Affiliate Disclosure
 
