@@ -3,7 +3,7 @@ title: "Medicare For People Still Working At 65"
 date: 2026-06-17T17:19:21.493080+00:00
 draft: false
 description: "Still working at 65? Learn how Medicare coordinates with employer insurance, when to enroll, and how to avoid costly penalties while keeping your coverage."
-image: "https://images.pexels.com/photos/18459194/pexels-photo-18459194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18459194.jpg"
 categories: ["Special Situations"]
 tags: ["medicare", "people", "still", "working"]
 author: "Frank Thompson"

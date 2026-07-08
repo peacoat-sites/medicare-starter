@@ -3,7 +3,7 @@ title: "Medicare Deductible 2026"
 date: 2026-07-02T16:12:09.997956+00:00
 draft: false
 description: "Learn about the Medicare deductible amounts for 2026, including Part A and Part B costs, and how they affect your out-of-pocket healthcare expenses."
-image: "https://images.pexels.com/photos/5234501/pexels-photo-5234501.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5234501.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "deductible", "2026"]
 author: "Dorothy Chen"

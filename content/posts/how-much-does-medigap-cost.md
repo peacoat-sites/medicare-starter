@@ -3,7 +3,7 @@ title: "How Much Does Medigap Cost"
 date: 2026-05-22T02:27:34.584511+00:00
 draft: false
 description: "Compare Medigap costs by plan type, age, and location. Monthly premiums range from $50 to $300+. Learn what affects your rate and how to find affordable coverag"
-image: https://images.pexels.com/photos/4255039/pexels-photo-4255039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/4255039.jpg"
 categories: ["Medigap Plans"]
 tags: ["much", "does", "Medigap", "cost"]
 slug: "how-much-does-medigap-cost"

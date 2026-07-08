@@ -3,7 +3,7 @@ title: "Medicare Summary Of Benefits"
 date: 2026-07-02T16:13:57.805747+00:00
 draft: false
 description: "Understand your Medicare Summary of Benefits including coverage details, costs, and what services are included in your plan for the coming year."
-image: "https://images.pexels.com/photos/7731331/pexels-photo-7731331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731331.jpg"
 categories: ["Medicare Basics"]
 tags: ["medicare", "summary", "benefits"]
 author: "Frank Thompson"

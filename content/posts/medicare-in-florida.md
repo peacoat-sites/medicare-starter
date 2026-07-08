@@ -3,7 +3,7 @@ title: "Medicare In Florida"
 date: 2026-06-20T15:52:03.654708+00:00
 draft: false
 description: "Learn how Medicare works in Florida, including coverage options, enrollment periods, costs, and tips for finding the best plan for Florida residents."
-image: "https://images.pexels.com/photos/8949916/pexels-photo-8949916.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8949916.jpg"
 categories: ["State Medicare Resources"]
 tags: ["medicare", "florida"]
 author: "Frank Thompson"

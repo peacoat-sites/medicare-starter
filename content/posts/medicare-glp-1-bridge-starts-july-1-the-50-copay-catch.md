@@ -3,7 +3,7 @@ title: "Medicare GLP-1 Bridge Starts July 1: The $50 Copay Catch"
 date: 2026-06-30T16:29:08.927726+00:00
 draft: false
 description: "Medicare will cover GLP-1 drugs starting July 1, but a $50 copay catch may surprise beneficiaries. Learn what the new bridge program means for your wallet and c"
-image: "https://images.pexels.com/photos/32532049/pexels-photo-32532049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32532049.jpg"
 categories: ["trending"]
 tags: ["medicare", "glp-1", "bridge", "starts", "july"]
 author: "Frank Thompson"

@@ -3,7 +3,7 @@ title: "Medicare Savings Programs"
 date: 2026-06-21T16:08:24.865356+00:00
 draft: false
 description: "Medicare Savings Programs help pay Part A and B premiums, deductibles, and copays. Learn who qualifies and how to apply for extra help today."
-image: "https://images.pexels.com/photos/6964111/pexels-photo-6964111.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6964111.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "savings", "programs"]
 author: "Nancy Davis"

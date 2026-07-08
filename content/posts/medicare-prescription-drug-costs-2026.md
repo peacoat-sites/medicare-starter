@@ -3,7 +3,7 @@ title: "Medicare Prescription Drug Costs"
 date: 2026-05-19T04:05:12.433552+00:00
 draft: false
 description: "Learn what Medicare prescription drug costs look like in 2026, including Part D premiums, deductibles, and the changes affecting your out-of-pocket spending."
-image: "https://images.pexels.com/photos/15525818/pexels-photo-15525818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15525818.jpg"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "prescription", "drug", "costs", "2026"]
 slug: "medicare-prescription-drug-costs"

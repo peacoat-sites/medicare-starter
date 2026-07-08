@@ -3,7 +3,7 @@ title: "What Is A Medigap Plan"
 date: 2026-06-01T15:36:53.352189+00:00
 draft: false
 description: "Learn what a Medigap plan is, how it works with Original Medicare, and how it helps cover out-of-pocket costs like copays, coinsurance, and deductibles."
-image: "https://images.pexels.com/photos/8413294/pexels-photo-8413294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8413294.jpg"
 categories: ["Medigap"]
 tags: ["what", "medigap", "plan"]
 slug: "what-is-a-medigap-plan"

@@ -3,7 +3,7 @@ title: "Medicare Initial Enrollment Period"
 date: 2026-06-19T16:38:21.535131+00:00
 draft: false
 description: "Learn when and how to sign up for Medicare during your Initial Enrollment Period to avoid late penalties and gaps in coverage."
-image: "https://images.pexels.com/photos/8441787/pexels-photo-8441787.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441787.jpg"
 categories: ["Enrollment Periods"]
 tags: ["medicare", "initial", "enrollment", "period"]
 author: "Nancy Davis"

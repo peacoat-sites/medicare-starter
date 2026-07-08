@@ -3,7 +3,7 @@ title: "Your Medicare Advantage Doctor May Have Just Gone Out of Network"
 date: 2026-07-06T17:13:53.250644+00:00
 draft: false
 description: "Find out why your Medicare Advantage doctor may now be out of network, what it means for your coverage, and the steps you can take to protect your healthcare ac"
-image: "https://images.pexels.com/photos/9893512/pexels-photo-9893512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9893512.jpg"
 categories: ["trending"]
 tags: ["your", "medicare", "advantage", "doctor", "have"]
 author: "Robert Williams"

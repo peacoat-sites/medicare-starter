@@ -3,7 +3,7 @@ title: "Medicare Initial Enrollment Period When To Sign Up At 65"
 date: 2026-06-02T12:54:11.371168+00:00
 draft: false
 description: "Sign up for Medicare during your Initial Enrollment Period at 65 to avoid penalties. Learn key dates, deadlines, and how to enroll with confidence."
-image: "https://images.pexels.com/photos/3783200/pexels-photo-3783200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3783200.jpg"
 categories: ["Enrollment Periods"]
 tags: ["medicare", "initial", "enrollment", "period", "when"]
 slug: "medicare-initial-enrollment-period-when-to-sign-up-at-65"

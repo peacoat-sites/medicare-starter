@@ -3,7 +3,7 @@ title: "Medicare Supplement Plan N Explained"
 date: 2026-05-23T17:50:59.830498+00:00
 draft: false
 description: "Compare Medicare Supplement Plan N costs and coverage. Learn what it covers, its copays, and whether this affordable Medigap plan is right for your needs."
-image: https://images.pexels.com/photos/5466281/pexels-photo-5466281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/5466281.jpg"
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "Plan", "explained"]
 slug: "medicare-supplement-plan-n-explained"

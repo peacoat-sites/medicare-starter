@@ -3,7 +3,7 @@ title: "Medicare Part D Late Enrollment Penalty"
 date: 2026-05-24T23:28:56.541623+00:00
 draft: false
 description: "Learn how the Medicare Part D late enrollment penalty works, why it applies, how much it costs, and how to avoid paying more for prescription drug coverage."
-image: "https://images.pexels.com/photos/8962475/pexels-photo-8962475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8962475.jpg"
 categories: ["Part D Drug Coverage"]
 tags: ["Medicare", "Part", "late", "enrollment", "penalty"]
 slug: "medicare-part-d-late-enrollment-penalty"

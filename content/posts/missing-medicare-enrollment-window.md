@@ -3,7 +3,7 @@ title: "Missing Medicare Enrollment Window"
 date: 2026-06-06T15:26:01.829498+00:00
 draft: false
 description: "Missing your Medicare enrollment window can lead to permanent late penalties and coverage gaps. Learn how to avoid costly mistakes and what to do if you miss yo"
-image: "https://images.pexels.com/photos/3760810/pexels-photo-3760810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3760810.jpg"
 categories: ["Enrollment Periods"]
 tags: ["missing", "Medicare", "enrollment", "window"]
 slug: "missing-medicare-enrollment-window"

@@ -3,7 +3,7 @@ title: "Medicare Part D Donut Hole 2026"
 date: 2026-07-06T17:11:48.895523+00:00
 draft: false
 description: "Learn how the Medicare Part D donut hole works in 2026, including coverage gap thresholds, out-of-pocket costs, and how to save on prescription drugs."
-image: "https://images.pexels.com/photos/8376161/pexels-photo-8376161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8376161.jpg"
 categories: ["Part D Drug Coverage"]
 tags: ["medicare", "part", "donut", "hole", "2026"]
 author: "Susan Park"

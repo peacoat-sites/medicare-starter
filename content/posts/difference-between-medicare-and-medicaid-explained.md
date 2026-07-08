@@ -3,7 +3,7 @@ title: "Difference Between Medicare And Medicaid Explained"
 date: 2026-06-05T12:23:45.172262+00:00
 draft: false
 description: "Learn the key differences between Medicare and Medicaid, including who qualifies, what each program covers, and how costs compare in this simple, clear guide."
-image: "https://images.pexels.com/photos/7545329/pexels-photo-7545329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7545329.jpg"
 categories: ["Medicare Basics"]
 tags: ["difference", "between", "medicare", "medicaid", "explained"]
 slug: "difference-between-medicare-and-medicaid-explained"

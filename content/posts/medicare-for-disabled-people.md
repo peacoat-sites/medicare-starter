@@ -3,7 +3,7 @@ title: "Medicare For Disabled People"
 date: 2026-07-05T15:22:41.991382+00:00
 draft: false
 description: "Learn how Medicare works for disabled people, including eligibility, coverage options, and how to enroll before turning 65 due to a qualifying disability."
-image: "https://images.pexels.com/photos/11030158/pexels-photo-11030158.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11030158.jpg"
 categories: ["Medicare Basics"]
 tags: ["medicare", "disabled", "people"]
 author: "Frank Thompson"

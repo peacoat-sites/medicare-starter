@@ -3,7 +3,7 @@ title: "How To Sign Up For Medicare"
 date: 2026-06-21T16:06:13.693461+00:00
 draft: false
 description: "Learn how to sign up for Medicare step by step, including when to enroll, which parts to choose, and how to avoid late enrollment penalties."
-image: "https://images.pexels.com/photos/8441870/pexels-photo-8441870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441870.jpg"
 categories: ["Enrollment Periods"]
 tags: ["sign", "medicare"]
 author: "Robert Williams"

@@ -3,7 +3,7 @@ title: "Medicare Plan Finder By Zip Code"
 date: 2026-06-29T17:11:39.608367+00:00
 draft: false
 description: "Find Medicare plans in your area by entering your zip code. Compare coverage options, costs, and benefits to choose the best plan for your needs."
-image: "https://images.pexels.com/photos/5647209/pexels-photo-5647209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5647209.jpg"
 categories: ["State Medicare Resources"]
 tags: ["medicare", "plan", "finder", "code"]
 author: "Nancy Davis"

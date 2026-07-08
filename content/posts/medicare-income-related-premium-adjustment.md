@@ -3,7 +3,7 @@ title: "Medicare Income Related Premium Adjustment"
 date: 2026-06-12T16:54:44.122457+00:00
 draft: false
 description: "Learn how Medicare's income-related premium adjustment affects your costs, who pays more, income thresholds, and how to appeal an IRMAA determination."
-image: "https://images.pexels.com/photos/6863512/pexels-photo-6863512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6863512.jpg"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "income", "related", "premium", "adjustment"]
 slug: "medicare-income-related-premium-adjustment"

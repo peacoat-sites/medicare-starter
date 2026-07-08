@@ -3,7 +3,7 @@ title: "What the 2026 Medicare Trustees Report Means for Beneficiaries"
 date: 2026-06-19T16:40:20.066352+00:00
 draft: false
 description: "Learn what the 2026 Medicare Trustees Report reveals about program funding, benefit changes, and what it means for current and future Medicare beneficiaries."
-image: "https://images.pexels.com/photos/6667802/pexels-photo-6667802.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6667802.jpg"
 categories: ["trending"]
 tags: ["what", "2026", "medicare", "trustees", "report"]
 author: "Dorothy Chen"

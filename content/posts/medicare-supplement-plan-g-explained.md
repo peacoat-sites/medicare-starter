@@ -3,7 +3,7 @@ title: "Medicare Supplement Plan G Explained"
 date: 2026-05-25T14:16:54.004273+00:00
 draft: false
 description: "Discover how Medicare Supplement Plan G works, what it covers, costs, and why it's one of the most popular Medigap options for reducing out-of-pocket expenses."
-image: https://images.pexels.com/photos/5466280/pexels-photo-5466280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/5466280.jpg"
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "Plan", "explained"]
 slug: "medicare-supplement-plan-g-explained"

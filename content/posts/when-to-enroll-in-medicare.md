@@ -3,7 +3,7 @@ title: "When To Enroll In Medicare"
 date: 2026-06-26T16:27:50.700405+00:00
 draft: false
 description: "Learn when to enroll in Medicare, including key deadlines, enrollment windows, and how to avoid costly late penalties for Part A, B, and D."
-image: "https://images.pexels.com/photos/8530728/pexels-photo-8530728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8530728.jpg"
 categories: ["Enrollment Periods"]
 tags: ["when", "enroll", "medicare"]
 author: "Nancy Davis"

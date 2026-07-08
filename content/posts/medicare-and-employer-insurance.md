@@ -3,7 +3,7 @@ title: "Medicare And Employer Insurance"
 date: 2026-05-23T22:32:08.814511+00:00
 draft: false
 description: "Compare Medicare and employer insurance coverage options. Learn how to coordinate benefits, avoid penalties, and choose the best plan for your health needs and "
-image: https://images.pexels.com/photos/4887926/pexels-photo-4887926.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/4887926.jpg"
 categories: ["Special Situations"]
 tags: ["Medicare", "and", "employer", "insurance"]
 slug: "medicare-and-employer-insurance"

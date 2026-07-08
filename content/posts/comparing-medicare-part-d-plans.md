@@ -3,7 +3,7 @@ title: "Comparing Medicare Part D Plans"
 date: 2026-05-28T13:53:47.526954+00:00
 draft: false
 description: "Compare Medicare Part D plans side by side to find the best prescription drug coverage for your needs. Learn costs, formularies, and how to choose the right pla"
-image: "https://images.pexels.com/photos/15525816/pexels-photo-15525816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15525816.jpg"
 categories: ["Part D Drug Coverage"]
 tags: ["comparing", "Medicare", "Part", "plans"]
 slug: "comparing-medicare-part-d-plans"

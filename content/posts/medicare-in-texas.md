@@ -3,7 +3,7 @@ title: "Medicare In Texas"
 date: 2026-06-13T15:48:00.757469+00:00
 draft: false
 description: "Explore Medicare in Texas, including eligibility, plan options, enrollment periods, and how to find the best coverage for your healthcare needs in the Lone Star"
-image: "https://images.pexels.com/photos/15033397/pexels-photo-15033397.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15033397.jpg"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "Texas"]
 slug: "medicare-in-texas"

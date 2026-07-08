@@ -3,7 +3,7 @@ title: "Medicare As Secondary Insurance"
 date: 2026-06-24T16:33:40.208064+00:00
 draft: false
 description: "Learn how Medicare works as secondary insurance, what it covers after your primary plan pays, and how coordination of benefits can reduce your out-of-pocket cos"
-image: "https://images.pexels.com/photos/32642485/pexels-photo-32642485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/32642485.jpg"
 categories: ["Special Situations"]
 tags: ["medicare", "secondary", "insurance"]
 author: "Dorothy Chen"

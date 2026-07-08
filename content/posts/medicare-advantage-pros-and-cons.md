@@ -3,7 +3,7 @@ title: "Medicare Advantage Pros And Cons"
 date: 2026-05-23T17:25:16.269803+00:00
 draft: false
 description: "Medicare Advantage offers an alternative to Original Medicare with potential cost savings and extra benefits, but may include network restrictions and higher ou"
-image: "https://images.pexels.com/photos/7821684/pexels-photo-7821684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821684.jpg"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "pros", "cons"]
 slug: "medicare-advantage-pros-and-cons"

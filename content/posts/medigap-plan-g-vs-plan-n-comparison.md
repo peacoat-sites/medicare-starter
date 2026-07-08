@@ -3,7 +3,7 @@ title: "Medigap Plan G Vs Plan N Comparison"
 date: 2026-06-08T17:28:31.494340+00:00
 draft: false
 description: "Compare Medigap Plan G vs Plan N costs, coverage, and out-of-pocket expenses to find the best Medicare supplement insurance for your healthcare needs and budget"
-image: "https://images.pexels.com/photos/7947744/pexels-photo-7947744.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7947744.jpg"
 categories: ["Medigap Plans"]
 tags: ["medigap", "plan", "plan", "comparison"]
 slug: "medigap-plan-g-vs-plan-n-comparison"

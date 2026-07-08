@@ -3,7 +3,7 @@ title: "When Is Medicare Annual Open Enrollment Period 2026"
 date: 2026-06-30T16:31:31.337309+00:00
 draft: false
 description: "Medicare Annual Open Enrollment for 2026 runs October 15 to December 7, 2025. Learn what changes you can make and how to compare your plan options."
-image: "https://images.pexels.com/photos/8293764/pexels-photo-8293764.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8293764.jpg"
 categories: ["Enrollment Periods"]
 tags: ["when", "medicare", "annual", "open", "enrollment"]
 author: "Susan Park"

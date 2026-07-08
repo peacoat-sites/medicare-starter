@@ -3,7 +3,7 @@ title: "How To Lower Medicare Costs"
 date: 2026-07-01T16:36:25.130131+00:00
 draft: false
 description: "Discover practical ways to lower your Medicare costs, from choosing the right plan to using preventive benefits and comparing drug coverage options."
-image: "https://images.pexels.com/photos/7545281/pexels-photo-7545281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7545281.jpg"
 categories: ["Medicare Costs"]
 tags: ["lower", "medicare", "costs"]
 author: "Robert Williams"

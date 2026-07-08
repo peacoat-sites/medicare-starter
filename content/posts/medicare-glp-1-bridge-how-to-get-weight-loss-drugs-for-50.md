@@ -3,7 +3,7 @@ title: "Medicare GLP-1 Bridge: How to Get Weight-Loss Drugs for $50"
 date: 2026-06-18T17:23:13.773671+00:00
 draft: false
 description: "Medicare doesn't cover GLP-1s for weight loss, but a bridge program may help you get Ozempic or Wegovy for around $50 per month. Here's how it works."
-image: "https://images.pexels.com/photos/11162129/pexels-photo-11162129.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11162129.jpg"
 categories: ["trending"]
 tags: ["medicare", "glp-1", "bridge:", "weight-loss", "drugs"]
 author: "Susan Park"

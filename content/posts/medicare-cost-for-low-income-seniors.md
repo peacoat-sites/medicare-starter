@@ -3,7 +3,7 @@ title: "Medicare Cost For Low Income Seniors"
 date: 2026-06-11T17:41:39.390688+00:00
 draft: false
 description: "Discover how low income seniors can reduce Medicare costs through savings programs, Medicaid, and extra help benefits that cover premiums, deductibles, and copa"
-image: "https://images.pexels.com/photos/14599250/pexels-photo-14599250.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/14599250.jpg"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "cost", "income", "seniors"]
 slug: "medicare-cost-for-low-income-seniors"

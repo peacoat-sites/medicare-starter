@@ -3,7 +3,7 @@ title: "Medicare's Obesity Drug Breakthrough Launches July 1: What Seniors Need 
 date: 2026-07-03T15:58:21.513060+00:00
 draft: false
 description: "Medicare's obesity drug coverage begins July 1. Learn how GLP-1 medications like semaglutide can help seniors manage weight and improve health outcomes with new"
-image: "https://images.pexels.com/photos/6941102/pexels-photo-6941102.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6941102.jpg"
 categories: ["trending"]
 tags: ["medicare's", "obesity", "drug", "breakthrough", "launches"]
 author: "Susan Park"

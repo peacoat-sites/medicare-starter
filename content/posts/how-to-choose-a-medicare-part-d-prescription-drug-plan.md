@@ -3,7 +3,7 @@ title: "How To Choose A Medicare Part D Prescription Drug Plan"
 date: 2026-06-27T15:25:30.615426+00:00
 draft: false
 description: "Learn how to compare Medicare Part D plans by reviewing drug formularies, premiums, copays, and pharmacy networks to find the best coverage for your needs."
-image: "https://images.pexels.com/photos/7277984/pexels-photo-7277984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7277984.jpg"
 categories: ["Part D Drug Coverage"]
 tags: ["choose", "medicare", "part", "prescription", "drug"]
 author: "Frank Thompson"

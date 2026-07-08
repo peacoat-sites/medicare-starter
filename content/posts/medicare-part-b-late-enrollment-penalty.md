@@ -3,7 +3,7 @@ title: "Medicare Part B Late Enrollment Penalty"
 date: 2026-06-26T16:25:47.247954+00:00
 draft: false
 description: "Learn how the Medicare Part B late enrollment penalty works, how much it costs, and how to avoid permanent premium increases when signing up."
-image: "https://images.pexels.com/photos/7731373/pexels-photo-7731373.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731373.jpg"
 categories: ["Enrollment Periods"]
 tags: ["medicare", "part", "late", "enrollment", "penalty"]
 author: "Robert Williams"

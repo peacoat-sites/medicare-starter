@@ -3,7 +3,7 @@ title: "Medicare Low Income Subsidy"
 date: 2026-06-15T18:48:30.186006+00:00
 draft: false
 description: "Learn how Medicare Low Income Subsidy helps cover prescription drug costs for eligible beneficiaries, reducing premiums, deductibles, and copays."
-image: "https://images.pexels.com/photos/8949852/pexels-photo-8949852.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8949852.jpg"
 categories: ["Part D Drug Coverage"]
 tags: ["medicare", "income", "subsidy"]
 author: "Susan Park"

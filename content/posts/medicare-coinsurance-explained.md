@@ -3,7 +3,7 @@ title: "Medicare Coinsurance Explained"
 date: 2026-07-04T15:17:39.085540+00:00
 draft: false
 description: "Learn how Medicare coinsurance works, what percentage you pay after meeting your deductible, and how to reduce your out-of-pocket healthcare costs."
-image: "https://images.pexels.com/photos/7735621/pexels-photo-7735621.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7735621.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "coinsurance", "explained"]
 author: "Nancy Davis"

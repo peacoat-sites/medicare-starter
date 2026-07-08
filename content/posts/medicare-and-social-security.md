@@ -3,7 +3,7 @@ title: "Medicare And Social Security"
 date: 2026-07-05T15:25:04.718390+00:00
 draft: false
 description: "Learn how Medicare and Social Security work together, eligibility requirements, enrollment tips, and how to maximize your retirement benefits."
-image: "https://images.pexels.com/photos/17244243/pexels-photo-17244243.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/17244243.jpg"
 categories: ["Medicare Basics"]
 tags: ["medicare", "social", "security"]
 author: "Susan Park"

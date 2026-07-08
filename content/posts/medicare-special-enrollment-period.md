@@ -3,7 +3,7 @@ title: "Medicare Special Enrollment Period"
 date: 2026-05-29T14:21:11.851480+00:00
 draft: false
 description: "Learn about Medicare Special Enrollment Periods, when you qualify, key deadlines, and how to avoid coverage gaps or late penalties when signing up outside open "
-image: "https://images.pexels.com/photos/8441782/pexels-photo-8441782.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441782.jpg"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "Special", "Enrollment", "Period"]
 slug: "medicare-special-enrollment-period"

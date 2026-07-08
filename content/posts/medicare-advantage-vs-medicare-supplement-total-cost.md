@@ -3,7 +3,7 @@ title: "Medicare Advantage Vs Medicare Supplement Total Cost"
 date: 2026-06-22T18:17:09.707571+00:00
 draft: false
 description: "Compare Medicare Advantage vs Medicare Supplement total costs including premiums, copays, and out-of-pocket maximums to find your best coverage value."
-image: "https://images.pexels.com/photos/8441861/pexels-photo-8441861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8441861.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "advantage", "medicare", "supplement", "total"]
 author: "Dorothy Chen"

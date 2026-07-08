@@ -3,7 +3,7 @@ title: "Medicare In New York"
 date: 2026-06-12T16:57:26.325736+00:00
 draft: false
 description: "Explore Medicare options in New York, including eligibility, enrollment periods, plan types, and state-specific programs to help you maximize your healthcare be"
-image: "https://images.pexels.com/photos/35167760/pexels-photo-35167760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/35167760.jpg"
 categories: ["State Medicare Resources"]
 tags: ["Medicare", "York"]
 slug: "medicare-in-new-york"

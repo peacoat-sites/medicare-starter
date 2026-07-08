@@ -3,7 +3,7 @@ title: "Missing Medicare Open Enrollment"
 date: 2026-06-14T15:55:38.257104+00:00
 draft: false
 description: "Missed Medicare open enrollment? Learn your options, special enrollment periods, and steps to take now to avoid penalties and get the coverage you need."
-image: "https://images.pexels.com/photos/6170644/pexels-photo-6170644.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6170644.jpg"
 categories: ["Enrollment Periods"]
 tags: ["missing", "Medicare", "open", "enrollment"]
 slug: "missing-medicare-open-enrollment"

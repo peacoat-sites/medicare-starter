@@ -3,7 +3,7 @@ title: "Traditional Medicare Has No Spending Cap. A New Bill Would Change That."
 date: 2026-06-28T15:27:19.766451+00:00
 draft: false
 description: "Learn how a new bill proposes to add an out-of-pocket spending cap to traditional Medicare, potentially saving seniors thousands in annual healthcare costs."
-image: "https://images.pexels.com/photos/8376153/pexels-photo-8376153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8376153.jpg"
 categories: ["trending"]
 tags: ["traditional", "medicare", "spending", "cap.", "bill"]
 author: "Robert Williams"

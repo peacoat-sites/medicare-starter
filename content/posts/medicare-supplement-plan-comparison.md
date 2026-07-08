@@ -3,7 +3,7 @@ title: "Medicare Supplement Plan Comparison"
 date: 2026-05-21T14:34:33.274589+00:00
 draft: false
 description: "Compare Medicare supplement plans side by side to find the best coverage and lowest premiums. Learn which Medigap plan fits your healthcare needs and budget."
-image: https://images.pexels.com/photos/5466271/pexels-photo-5466271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/5466271.jpg"
 categories: ["Medigap Plans"]
 tags: ["Medicare", "supplement", "plan", "comparison"]
 slug: "medicare-supplement-plan-comparison"

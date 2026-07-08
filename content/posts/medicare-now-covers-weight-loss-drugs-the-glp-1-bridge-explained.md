@@ -3,7 +3,7 @@ title: "Medicare Now Covers Weight-Loss Drugs: The GLP-1 Bridge Explained"
 date: 2026-06-27T15:23:19.382650+00:00
 draft: false
 description: "Medicare now covers GLP-1 weight-loss drugs like Ozempic and Wegovy. Learn what the new coverage means, who qualifies, and how to access these medications today"
-image: "https://images.pexels.com/photos/4210550/pexels-photo-4210550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4210550.jpg"
 categories: ["trending"]
 tags: ["medicare", "covers", "weight-loss", "drugs:", "glp-1"]
 author: "Dorothy Chen"

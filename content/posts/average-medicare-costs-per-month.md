@@ -3,7 +3,7 @@ title: "Average Medicare Costs Per Month"
 date: 2026-06-23T16:37:00.418890+00:00
 draft: false
 description: "Discover average Medicare costs per month including premiums, deductibles, and out-of-pocket expenses to help you budget for healthcare coverage."
-image: "https://images.pexels.com/photos/8439677/pexels-photo-8439677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8439677.jpg"
 categories: ["Medicare Costs"]
 tags: ["average", "medicare", "costs", "month"]
 author: "Robert Williams"

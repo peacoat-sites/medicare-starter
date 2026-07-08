@@ -3,7 +3,7 @@ title: "Medicare Vs Medicaid Difference"
 date: 2026-06-24T16:31:20.847069+00:00
 draft: false
 description: "Learn the key differences between Medicare and Medicaid including eligibility, coverage, costs, and who qualifies for each federal health program."
-image: "https://images.pexels.com/photos/8383896/pexels-photo-8383896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8383896.jpg"
 categories: ["Medicare Basics"]
 tags: ["medicare", "medicaid", "difference"]
 author: "Nancy Davis"

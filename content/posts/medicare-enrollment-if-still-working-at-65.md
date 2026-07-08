@@ -3,7 +3,7 @@ title: "Medicare Enrollment If Still Working At 65"
 date: 2026-06-23T16:34:33.376541+00:00
 draft: false
 description: "Still working at 65? Learn when to enroll in Medicare, how employer coverage interacts, and how to avoid costly late penalties."
-image: "https://images.pexels.com/photos/6172477/pexels-photo-6172477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6172477.jpg"
 categories: ["Enrollment Periods"]
 tags: ["medicare", "enrollment", "still", "working"]
 author: "Susan Park"

@@ -3,7 +3,7 @@ title: "Can I Switch From Medicare Advantage Back To Original Medicare"
 date: 2026-07-07T16:41:50.417053+00:00
 draft: false
 description: "Yes, you can switch from Medicare Advantage back to Original Medicare. Learn when you can make the switch and what steps to take."
-image: "https://images.pexels.com/photos/7163956/pexels-photo-7163956.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7163956.jpg"
 categories: ["Medicare Advantage"]
 tags: ["switch", "from", "medicare", "advantage", "back"]
 author: "Dorothy Chen"

@@ -3,7 +3,7 @@ title: "CMS Proposes Making Medicare Drug Price Negotiations Permanent"
 date: 2026-06-22T18:19:38.238561+00:00
 draft: false
 description: "CMS proposes expanding Medicare drug price negotiations permanently, potentially lowering costs for millions. Learn what this means for patients, insurers, and "
-image: "https://images.pexels.com/photos/4386176/pexels-photo-4386176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4386176.jpg"
 categories: ["trending"]
 tags: ["proposes", "making", "medicare", "drug", "price"]
 author: "Frank Thompson"

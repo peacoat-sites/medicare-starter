@@ -3,7 +3,7 @@ title: "Medicare GLP-1 Bridge Is Live: What Beneficiaries Must Know Now"
 date: 2026-07-04T15:19:57.586346+00:00
 draft: false
 description: "Medicare now covers GLP-1 drugs like Ozempic for eligible beneficiaries. Learn what the new bridge program means for your costs, coverage, and next steps."
-image: "https://images.pexels.com/photos/4661296/pexels-photo-4661296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4661296.jpg"
 categories: ["trending"]
 tags: ["medicare", "glp-1", "bridge", "live:", "what"]
 author: "Dorothy Chen"

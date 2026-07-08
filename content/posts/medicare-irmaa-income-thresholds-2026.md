@@ -3,7 +3,7 @@ title: "Medicare Irmaa Income Thresholds"
 date: 2026-06-16T18:39:02.212035+00:00
 draft: false
 description: "Learn the 2026 Medicare IRMAA income thresholds and find out how your modified adjusted gross income affects your Part B and Part D premiums."
-image: "https://images.pexels.com/photos/6928879/pexels-photo-6928879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6928879.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "irmaa", "income", "thresholds", "2026"]
 author: "Robert Williams"

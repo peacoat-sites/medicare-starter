@@ -3,7 +3,7 @@ title: "Medicare For Self Employed People"
 date: 2026-07-07T16:39:29.917711+00:00
 draft: false
 description: "Learn how self-employed workers can get Medicare coverage, understand enrollment rules, costs, and supplement plans to protect your health and finances."
-image: "https://images.pexels.com/photos/5749140/pexels-photo-5749140.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5749140.jpg"
 categories: ["Special Situations"]
 tags: ["medicare", "self", "employed", "people"]
 author: "Nancy Davis"

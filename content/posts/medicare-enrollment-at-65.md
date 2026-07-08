@@ -3,7 +3,7 @@ title: "Medicare Enrollment At 65"
 date: 2026-06-09T16:41:02.520681+00:00
 draft: false
 description: "Learn when and how to enroll in Medicare at 65, key deadlines to avoid penalties, and which parts A, B, C, and D you may need for full coverage."
-image: "https://images.pexels.com/photos/7867665/pexels-photo-7867665.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7867665.jpg"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "enrollment"]
 slug: "medicare-enrollment-at-65"

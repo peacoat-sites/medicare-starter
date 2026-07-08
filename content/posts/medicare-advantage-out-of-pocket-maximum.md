@@ -3,7 +3,7 @@ title: "Medicare Advantage Out Of Pocket Maximum"
 date: 2026-05-27T10:50:18.293428+00:00
 draft: false
 description: "Medicare Advantage out of pocket maximum limits your annual healthcare costs. Learn how deductibles, copays, and coinsurance apply to your coverage."
-image: "https://images.pexels.com/photos/5849566/pexels-photo-5849566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5849566.jpg"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "pocket", "maximum"]
 slug: "medicare-advantage-out-of-pocket-maximum"

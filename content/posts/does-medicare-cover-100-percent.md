@@ -3,7 +3,7 @@ title: "Does Medicare Cover 100 Percent"
 date: 2026-06-07T15:42:37.721357+00:00
 draft: false
 description: "Wondering if Medicare covers 100 percent of your costs? Learn what Medicare pays, what you owe, and how to fill coverage gaps with supplemental insurance."
-image: "https://images.pexels.com/photos/7688191/pexels-photo-7688191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7688191.jpg"
 categories: ["Medicare Costs"]
 tags: ["does", "Medicare", "cover", "percent"]
 slug: "does-medicare-cover-100-percent"

@@ -3,7 +3,7 @@ title: "How To Compare Medicare Plans Cost"
 date: 2026-06-28T15:25:06.511990+00:00
 draft: false
 description: "Learn how to compare Medicare plan costs including premiums, deductibles, and out-of-pocket maximums to find the best coverage for your budget."
-image: "https://images.pexels.com/photos/7731335/pexels-photo-7731335.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731335.jpg"
 categories: ["Medicare Costs"]
 tags: ["compare", "medicare", "plans", "cost"]
 author: "Susan Park"

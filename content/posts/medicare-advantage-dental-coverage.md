@@ -3,7 +3,7 @@ title: "Medicare Advantage Dental Coverage"
 date: 2026-05-27T03:33:07.451043+00:00
 draft: false
 description: "Medicare Advantage dental coverage: Compare plans, learn what's included, costs, limitations, and how to find the best dental benefits for your needs."
-image: "https://images.pexels.com/photos/6627353/pexels-photo-6627353.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6627353.jpg"
 categories: ["Medicare Advantage"]
 tags: ["Medicare", "Advantage", "dental", "coverage"]
 slug: "medicare-advantage-dental-coverage"

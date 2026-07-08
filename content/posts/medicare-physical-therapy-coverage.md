@@ -3,7 +3,7 @@ title: "Medicare Physical Therapy Coverage"
 date: 2026-07-03T15:59:48.631341+00:00
 draft: false
 description: "Learn about Medicare physical therapy coverage limits, eligibility requirements, and how to access PT services. Understand copays, deductibles, and approval pro"
-image: "https://images.pexels.com/photos/24193871/pexels-photo-24193871.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/24193871.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "physical", "therapy", "coverage"]
 author: "Robert Williams"

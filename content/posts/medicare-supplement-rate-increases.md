@@ -3,7 +3,7 @@ title: "Medicare Supplement Rate Increases"
 date: 2026-06-20T15:54:33.653508+00:00
 draft: false
 description: "Learn why Medicare supplement rates increase, how often they change, and what steps you can take to find lower premiums and keep your coverage affordable."
-image: "https://images.pexels.com/photos/7734574/pexels-photo-7734574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7734574.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "supplement", "rate", "increases"]
 author: "Susan Park"

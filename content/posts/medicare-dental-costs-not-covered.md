@@ -3,7 +3,7 @@ title: "Medicare Dental Costs Not Covered"
 date: 2026-06-07T15:40:37.138172+00:00
 draft: false
 description: "Discover what Medicare dental costs aren't covered, why gaps exist, and how to find affordable alternatives like Medicare Advantage or standalone dental insuran"
-image: "https://images.pexels.com/photos/3881417/pexels-photo-3881417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3881417.jpg"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "dental", "costs", "covered"]
 slug: "medicare-dental-costs-not-covered"

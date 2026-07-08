@@ -3,7 +3,7 @@ title: "Medicare And Cobra"
 date: 2026-06-17T17:17:22.563596+00:00
 draft: false
 description: "Learn how Medicare and COBRA work together, which to choose first, and how coordinating both coverages can affect your healthcare costs and benefits."
-image: "https://images.pexels.com/photos/7163938/pexels-photo-7163938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7163938.jpg"
 categories: ["Special Situations"]
 tags: ["medicare", "cobra"]
 author: "Dorothy Chen"

@@ -3,7 +3,7 @@ title: "Medicare Part B Premium"
 date: 2026-06-10T17:32:54.824048+00:00
 draft: false
 description: "Discover the Medicare Part B premium for 2026, including monthly costs, income-based adjustments, and what changes to expect for your healthcare coverage."
-image: "https://images.pexels.com/photos/10149288/pexels-photo-10149288.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10149288.jpg"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "Part", "premium", "2026"]
 slug: "medicare-part-b-premium"

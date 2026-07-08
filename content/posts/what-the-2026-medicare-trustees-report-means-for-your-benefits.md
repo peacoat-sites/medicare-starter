@@ -3,7 +3,7 @@ title: "What the 2026 Medicare Trustees Report Means for Your Benefits"
 date: 2026-06-25T16:35:47.138528+00:00
 draft: false
 description: "Learn what the 2026 Medicare Trustees Report reveals about the future of your benefits, funding outlook, and what changes could mean for your healthcare coverag"
-image: "https://images.pexels.com/photos/7433859/pexels-photo-7433859.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7433859.jpg"
 categories: ["trending"]
 tags: ["what", "2026", "medicare", "trustees", "report"]
 author: "Susan Park"

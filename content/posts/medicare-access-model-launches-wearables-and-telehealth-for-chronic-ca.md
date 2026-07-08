@@ -3,7 +3,7 @@ title: "Medicare ACCESS Model Launches: Wearables and Telehealth for Chronic Car
 date: 2026-07-01T16:38:25.074911+00:00
 draft: false
 description: "Medicare launches the ACCESS Model, using wearables and telehealth to improve chronic care management. Learn how this initiative transforms patient outcomes and"
-image: "https://images.pexels.com/photos/5942025/pexels-photo-5942025.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5942025.jpg"
 categories: ["trending"]
 tags: ["medicare", "access", "model", "launches:", "wearables"]
 author: "Nancy Davis"

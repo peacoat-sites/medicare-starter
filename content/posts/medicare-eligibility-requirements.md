@@ -3,7 +3,7 @@ title: "Medicare Eligibility Requirements"
 date: 2026-05-21T22:02:48.542871+00:00
 draft: false
 description: "Learn who qualifies for Medicare, including age requirements, disability criteria, and citizenship rules. Find out if you're eligible and how to enroll today."
-image: https://images.pexels.com/photos/5098043/pexels-photo-5098043.jpeg?auto=compress&cs=tinysrgb&h=650&w=940
+image: "/img/heroes/5098043.jpg"
 categories: ["Medicare Basics"]
 tags: ["Medicare", "eligibility", "requirements"]
 slug: "medicare-eligibility-requirements"

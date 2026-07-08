@@ -3,7 +3,7 @@ title: "Medicare And Dental Coverage Options"
 date: 2026-06-03T14:10:45.471606+00:00
 draft: false
 description: "Learn about Medicare dental coverage gaps, standalone dental plans, Medicare Advantage options, and how to find affordable dental care as a Medicare beneficiary"
-image: "https://images.pexels.com/photos/3945607/pexels-photo-3945607.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3945607.jpg"
 categories: ["Medicare Costs"]
 tags: ["Medicare", "dental", "coverage", "options"]
 slug: "medicare-and-dental-coverage-options"
