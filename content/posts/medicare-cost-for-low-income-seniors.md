@@ -1,5 +1,5 @@
 ---
-title: "Medicare Cost For Low Income Seniors"
+title: "Low Income Medicare Benefits: What You Actually Qualify For"
 date: 2026-06-11T17:41:39.390688+00:00
 draft: false
 description: "Discover how low income seniors can reduce Medicare costs through savings programs, Medicaid, and extra help benefits that cover premiums, deductibles, and copa"
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume Medicare is either free or close to it once you hit 65. I've spent two decades watching that assumption cost seniors real money, sometimes thousands of dollars a year that they never had to spend.
 

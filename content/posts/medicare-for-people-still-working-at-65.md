@@ -1,5 +1,5 @@
 ---
-title: "Medicare For People Still Working At 65"
+title: "Working Past 65? Here's Your Medicare Guide"
 date: 2026-06-17T17:19:21.493080+00:00
 draft: false
 description: "Still working at 65? Learn how Medicare coordinates with employer insurance, when to enroll, and how to avoid costly penalties while keeping your coverage."
@@ -23,7 +23,7 @@ faqs:
    a: "Generally no, as long as you or your spouse worked enough quarters to qualify for premium-free Part A. There is a premium-based Part A available if you don't qualify, and that one does carry a late enrollment penalty. Most people reading this won't hit that situation, but if you're not sure how many quarters you've earned, check your Social Security statement at SSA.gov."
  - q: "My employer is pressuring me to drop their coverage and go on Medicare. Can they do that?"
    a: "If your employer has 20 or more employees, it's actually illegal for them to offer you incentives to drop the group plan and take Medicare instead. The law prohibits large employers from doing anything that discourages active employees from enrolling in the group plan. If you're feeling that pressure, document it and consider reaching out to your State Health Insurance Assistance Program (SHIP) for free counseling."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Sixty-five shows up whether you're ready for it or not. And if you're still working, still covered by your employer's health plan, and suddenly getting Medicare signup reminders in the mail, you've probably got that nagging feeling you're supposed to do *something* but have no idea what. I've watched that confusion turn into genuinely expensive mistakes, and I'd rather you not make them.
 

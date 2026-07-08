@@ -1,5 +1,5 @@
 ---
-title: "Difference Between Medicare And Medicaid Explained"
+title: "Medicare vs Medicaid: Which One Covers You"
 date: 2026-06-05T12:23:45.172262+00:00
 draft: false
 description: "Learn the key differences between Medicare and Medicaid, including who qualifies, what each program covers, and how costs compare in this simple, clear guide."

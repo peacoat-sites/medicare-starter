@@ -1,5 +1,5 @@
 ---
-title: "Medicare Extra Help Program"
+title: "Who Qualifies For Medicare Extra Help?"
 date: 2026-05-24T23:38:53.590249+00:00
 draft: false
 description: "Learn how the Medicare Extra Help program reduces prescription drug costs for eligible beneficiaries. Find out if you qualify and how to apply for this valuable"
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: you're sitting at the kitchen table with a stack of Medicare paperwork, and you notice your prescription drug plan is about to cost you several hundred dollars a month. You're on a fixed income. You've paid into this system your whole working life. And nobody told you there's a program that could reduce those drug costs to almost nothing. I've seen this exact situation play out dozens of times, and every single time, the person in that chair is stunned that they qualified and never knew to ask.
 

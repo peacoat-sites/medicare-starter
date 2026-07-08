@@ -1,5 +1,5 @@
 ---
-title: "Medigap Open Enrollment Period"
+title: "When You Can Switch Your Medigap Plan"
 date: 2026-05-24T07:39:21.145354+00:00
 draft: false
 description: "Medigap open enrollment period explained: Learn your enrollment windows, deadlines, coverage options, and how to switch plans without penalties or waiting perio"
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your 65th birthday's coming. You've enrolled in Medicare Part B (doctor visits, outpatient care), and your neighbor just told you she got denied for a Medigap policy because of her diabetes. *Could that happen to you?* 
 

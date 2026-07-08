@@ -1,5 +1,5 @@
 ---
-title: "What Does Medicare Part A And B Cover For Seniors"
+title: "Medicare Part A And B: What's Actually Covered"
 date: 2026-06-06T15:23:42.324645+00:00
 draft: false
 description: "Medicare Part A covers hospital stays, skilled nursing, and hospice care, while Part B covers doctor visits, outpatient services, and preventive care for senior"
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every year, I watch the same thing happen to people turning 65. They get their Medicare card in the mail, feel a wave of relief, and assume they're basically covered. Then they get a bill for $1,600 after a hospital stay and call me completely blindsided.
 

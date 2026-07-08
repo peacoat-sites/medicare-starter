@@ -1,5 +1,5 @@
 ---
-title: "Medicare Advantage Dental Coverage"
+title: "Do Medicare Advantage Plans Cover Dental Care?"
 date: 2026-05-27T03:33:07.451043+00:00
 draft: false
 description: "Medicare Advantage dental coverage: Compare plans, learn what's included, costs, limitations, and how to find the best dental benefits for your needs."
@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your dentist says you need a crown and a root canal. You hand over your Medicare Advantage card, feeling relieved. The front desk clerk shakes her head. "That's covered up to $1,000 a year total, and you've already spent $600 on cleanings."
 

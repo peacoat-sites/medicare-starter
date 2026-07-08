@@ -1,5 +1,5 @@
 ---
-title: "How Does Medicare Work"
+title: "Your Complete Guide to Medicare Coverage and Costs"
 date: 2026-05-23T04:40:00.585780+00:00
 draft: false
 description: "Learn how Medicare works, including eligibility, coverage options, and costs. Discover Parts A, B, C, and D to choose the right plan for your healthcare needs."
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're turning 65 in three months, your employer just sent a letter about ending your group health coverage, and someone at your church mentioned you might owe a penalty if you don't enroll in Medicare at exactly the right time. That last part is absolutely true, and it's the kind of detail that trips up thousands of people every year. Medicare is one of the most valuable benefits you'll ever receive, but it comes with rules, moving parts, and deadlines that aren't always obvious. Let me walk you through exactly how it works.
 

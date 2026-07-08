@@ -1,5 +1,5 @@
 ---
-title: "When Is Medicare Annual Open Enrollment Period 2026"
+title: "Mark Your Calendar: Medicare Open Enrollment Dates 2026"
 date: 2026-06-30T16:31:31.337309+00:00
 draft: false
 description: "Medicare Annual Open Enrollment for 2026 runs October 15 to December 7, 2025. Learn what changes you can make and how to compare your plan options."
@@ -23,7 +23,7 @@ faqs:
    a: "Technically no. If you do nothing, you stay enrolled in your current plan. But plans change their premiums, drug formularies, and provider networks every year, so 'happy with it now' doesn't always mean 'it'll be the same next year.' It takes about 20 minutes to verify your current plan is still the best fit. Worth doing."
  - q: "Where's the best place to compare Medicare plans for 2027 coverage?"
    a: "Start with the Medicare Plan Finder at Medicare.gov. It pulls official plan data and lets you enter your specific drugs and pharmacy to compare real annual costs. For a second opinion or help interpreting the results, a free State Health Insurance Assistance Program (SHIP) counselor can walk through plans with you at no cost. Find your local SHIP at shiphelp.org."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 October 15th. Write it down. That's when it starts.

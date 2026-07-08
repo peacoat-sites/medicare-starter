@@ -1,5 +1,5 @@
 ---
-title: "How To Lower Medicare Costs"
+title: "5 Legal Ways To Cut Your Medicare Expenses"
 date: 2026-07-01T16:36:25.130131+00:00
 draft: false
 description: "Discover practical ways to lower your Medicare costs, from choosing the right plan to using preventive benefits and comparing drug coverage options."
@@ -23,7 +23,7 @@ faqs:
    a: "For many people, yes, particularly if you have ongoing health needs or simply want cost predictability. Medigap Plan G is currently the most comprehensive option for new Medicare enrollees (Plan C and Plan F are no longer available to people who became eligible for Medicare after January 1, 2020). Whether it's worth the premium depends on how often you use medical services; run the numbers for your specific situation before committing."
  - q: "What if I can't afford my Medicare premiums right now?"
    a: "Don't just stop paying. Contact Medicare or Social Security immediately, and check your eligibility for Medicare Savings Programs through your state Medicaid office. If you're in a Medicare Advantage plan, you may also be able to move to a lower-cost plan during an enrollment period. A free SHIP counselor can help you sort through your options without any sales pressure."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people don't realize they're overpaying for Medicare until the bill lands and they're already locked in for the year.

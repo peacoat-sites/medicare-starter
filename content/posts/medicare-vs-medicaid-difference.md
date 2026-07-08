@@ -1,5 +1,5 @@
 ---
-title: "Medicare Vs Medicaid Difference"
+title: "Medicare vs Medicaid: Which One Covers You"
 date: 2026-06-24T16:31:20.847069+00:00
 draft: false
 description: "Learn the key differences between Medicare and Medicaid including eligibility, coverage, costs, and who qualifies for each federal health program."
@@ -23,7 +23,7 @@ faqs:
    a: "Medicaid eligibility is based on income and (for some categories) assets, and rules vary by state. The fastest way to check is through your state's Medicaid agency website, or at Healthcare.gov. A free SHIP counselor can also help you sort through eligibility and applications."
  - q: "Will applying for Medicaid affect my Medicare benefits?"
    a: "No. Enrolling in Medicaid does not reduce or eliminate your Medicare coverage. If anything, having both gives you more complete coverage, since Medicaid can help cover what Medicare doesn't."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume Medicare is for the poor and Medicaid is for the elderly. It's the single most common mix-up I've seen in 20 years of counseling seniors, and it costs people real money when they get it wrong.

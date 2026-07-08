@@ -1,5 +1,5 @@
 ---
-title: "Medicare Late Enrollment Penalty"
+title: "Avoid Medicare's Late Enrollment Penalty"
 date: 2026-05-22T11:13:03.192523+00:00
 draft: false
 description: "Learn how the Medicare late enrollment penalty works, why it happens, and how to avoid costly surcharges added to your monthly premiums for Part A, B, and D."
@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people think the Medicare late enrollment penalty is a one-time fee you pay and forget about. It's not. It follows you. Every single month, for the rest of your life, your premium gets higher than it would've been if you'd enrolled on time. I've sat across from seniors who didn't find this out until they were already paying it, and the moment they realized it was permanent, not temporary? I still remember those faces. If you're here because you missed your enrollment window or you're not sure when it actually closes, this is the place to start.
 

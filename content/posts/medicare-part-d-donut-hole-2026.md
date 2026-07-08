@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part D Donut Hole 2026"
+title: "What The 2026 Donut Hole Means For Your Prescriptions"
 date: 2026-07-06T17:11:48.895523+00:00
 draft: false
 description: "Learn how the Medicare Part D donut hole works in 2026, including coverage gap thresholds, out-of-pocket costs, and how to save on prescription drugs."

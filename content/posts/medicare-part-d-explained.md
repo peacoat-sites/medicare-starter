@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part D Explained"
+title: "Medicare Part D Coverage: What You Need to Know"
 date: 2026-05-29T17:50:31.443615+00:00
 draft: false
 description: "Learn how Medicare Part D works, what prescription drugs it covers, costs involved, and how to choose the right plan to save money on your medications."
@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're standing at the pharmacy counter with your new Medicare card, and the pharmacist tells you your prescription costs $340 out of pocket. You assumed Medicare covered your medications. It doesn't. Not automatically. That gap blindsides thousands of people every year, and it's exactly why Medicare Part D exists, and why understanding it before you actually need it can save you real money and real stress.
 

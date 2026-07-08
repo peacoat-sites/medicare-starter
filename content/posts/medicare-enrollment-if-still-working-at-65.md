@@ -1,5 +1,5 @@
 ---
-title: "Medicare Enrollment If Still Working At 65"
+title: "Can You Skip Medicare at 65 If You're Still Working?"
 date: 2026-06-23T16:34:33.376541+00:00
 draft: false
 description: "Still working at 65? Learn when to enroll in Medicare, how employer coverage interacts, and how to avoid costly late penalties."
@@ -23,7 +23,7 @@ faqs:
    a: "If you miss the 8-month window and don't have another qualifying exception, you'll generally have to wait until the General Enrollment Period (January 1 through March 31 each year), with coverage starting July 1. You'll also pay the 10% per-year late enrollment penalty on your Part B premium permanently. This is a situation worth going out of your way to avoid."
  - q: "Should I sign up for Medicare Part A even if I have an HSA?"
    a: "This one depends. If you want to keep contributing to your HSA, you should not enroll in Part A (or any Medicare) yet, because Medicare eligibility ends your HSA contribution rights. Stop contributing at least six months before you plan to enroll to avoid the retroactive coverage issue. If you've already stopped contributing, enrolling in Part A at 65 is usually the right call since it's free for most people."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You're turning 65, still working, and your inbox is suddenly full of Medicare mailers that all seem to assume you're about to retire. You might be wondering whether any of this actually applies to you right now, or whether you can just set it aside until you're ready to stop working. That's exactly the question I want to answer here, because getting this wrong can cost you real money and create coverage headaches that follow you for years.

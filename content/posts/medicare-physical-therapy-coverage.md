@@ -1,5 +1,5 @@
 ---
-title: "Medicare Physical Therapy Coverage"
+title: "Does Medicare Cover Physical Therapy?"
 date: 2026-07-03T15:59:48.631341+00:00
 draft: false
 description: "Learn about Medicare physical therapy coverage limits, eligibility requirements, and how to access PT services. Understand copays, deductibles, and approval pro"
@@ -23,7 +23,7 @@ faqs:
     a: "Yes, if you're homebound (meaning leaving home is difficult or impossible). Your doctor has to order it, and it's usually covered under Part B as an outpatient service. Some Advantage plans require pre-auth for home visits. This is a good question to confirm with your plan before scheduling."
   - q: "What happens if I've used all my visits and still need therapy?"
     a: "Once you hit the $2,310 annual cap, Medicare stops paying. You can continue therapy if you pay out of pocket, which typically runs $100 to $150 per visit. Some therapists will negotiate a self-pay rate. If you believe you need more therapy and the cap has prevented medically necessary care, you can request an exception from your plan (Advantage) or appeal to Medicare (Original). Success isn't guaranteed, but it's worth asking."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A reader emailed me last month asking whether she could get physical therapy covered after hip surgery. She'd already gotten the green light from her surgeon, but when she called her Medicare plan to ask about it, the person on the phone said something vague about "medically necessary" and "needing approval first," and she hung up more confused than when she started. I get calls like this every week. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.

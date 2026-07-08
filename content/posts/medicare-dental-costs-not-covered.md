@@ -1,5 +1,5 @@
 ---
-title: "Medicare Dental Costs Not Covered"
+title: "Why Medicare Won't Cover Your Dental Bills"
 date: 2026-06-07T15:40:37.138172+00:00
 draft: false
 description: "Discover what Medicare dental costs aren't covered, why gaps exist, and how to find affordable alternatives like Medicare Advantage or standalone dental insuran"

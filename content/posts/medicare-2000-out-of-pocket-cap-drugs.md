@@ -1,5 +1,5 @@
 ---
-title: "Medicare $2000 Out Of Pocket Cap Drugs"
+title: "How The $2,000 Drug Cap Works For Medicare"
 date: 2026-05-21T07:48:15.069702+00:00
 draft: false
 description: "Medicare's new $2,000 annual out-of-pocket drug cap is here. Learn how this landmark change reduces costs for beneficiaries and which medications qualify under "
@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 If you're taking a specialty drug for rheumatoid arthritis, multiple sclerosis, or cancer, you know exactly how fast the bills pile up. Before 2025, some Medicare Part D enrollees were paying $10,000, $15,000, sometimes more out of pocket on prescriptions in a single year, with nothing to stop it. That's over. Starting January 1, 2025, Medicare Part D caps what you'll ever pay out of pocket for covered drugs in a calendar year at $2,000. Full stop. If you've been white-knuckling through expensive drug costs or quietly skipping doses because you couldn't afford the refill, this is the change you've been waiting for.
 

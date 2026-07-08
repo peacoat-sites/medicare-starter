@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part B Late Enrollment Penalty"
+title: "How to Avoid Medicare Part B Late Enrollment Penalties"
 date: 2026-06-26T16:25:47.247954+00:00
 draft: false
 description: "Learn how the Medicare Part B late enrollment penalty works, how much it costs, and how to avoid permanent premium increases when signing up."
@@ -23,7 +23,7 @@ faqs:
    a: "You can enroll during the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. Or, if you're leaving qualifying job-based coverage, you have a Special Enrollment Period of 8 months to sign up without adding further delay to your penalty. Visit Medicare.gov or call 1-800-MEDICARE to start the process."
  - q: "Is there any income-related help available if the penalty makes Part B unaffordable?"
    a: "Yes. Medicare Savings Programs (MSPs), administered through your state Medicaid office, may help pay your Part B premium, including the penalty amount, if your income and assets fall within certain limits. It's worth checking regardless of whether you think you qualify. Many people are surprised to find they're eligible."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume the Medicare late enrollment penalty is a temporary slap on the wrist. Pay a little extra for a year, get back on track, and move on. I'll be honest: that's one of the most expensive misunderstandings I've seen in 20 years of helping people sort out their Medicare situations. The penalty isn't temporary. It follows you for life.

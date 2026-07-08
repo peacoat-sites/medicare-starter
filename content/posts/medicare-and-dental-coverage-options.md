@@ -1,5 +1,5 @@
 ---
-title: "Medicare And Dental Coverage Options"
+title: "Does Medicare Cover Dental? Your Options Explained"
 date: 2026-06-03T14:10:45.471606+00:00
 draft: false
 description: "Learn about Medicare dental coverage gaps, standalone dental plans, Medicare Advantage options, and how to find affordable dental care as a Medicare beneficiary"

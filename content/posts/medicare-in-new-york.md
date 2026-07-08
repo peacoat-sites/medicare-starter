@@ -1,5 +1,5 @@
 ---
-title: "Medicare In New York"
+title: "Navigate New York Medicare: Your Complete Coverage Guide"
 date: 2026-06-12T16:57:26.325736+00:00
 draft: false
 description: "Explore Medicare options in New York, including eligibility, enrollment periods, plan types, and state-specific programs to help you maximize your healthcare be"
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 New York has some of the most generous Medicare rules in the country, and most people living here never take advantage of them. I've sat across the table from hundreds of seniors in this state who were overpaying by hundreds of dollars a month, sometimes more, simply because nobody told them what New York does differently. That changes today.
 

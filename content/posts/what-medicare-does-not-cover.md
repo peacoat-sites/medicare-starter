@@ -1,5 +1,5 @@
 ---
-title: "What Medicare Does Not Cover"
+title: "The Coverage Gaps Medicare Won't Fill For You"
 date: 2026-05-19T20:55:45.531369+00:00
 draft: false
 description: "Medicare has coverage gaps that can cost you. Learn what services Medicare does not cover, including dental, vision, hearing, and long-term care, so you can pla"
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just turned 65, signed up for Medicare, and felt pretty confident about your coverage. Then your dentist mentions you need a crown. Your eye doctor recommends new glasses. Your doctor suggests three months of physical therapy at a skilled nursing facility. You pull out your Medicare card, expecting it to handle most of this. It won't.
 

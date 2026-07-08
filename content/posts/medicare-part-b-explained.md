@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part B Explained"
+title: "What Part B Really Covers Under Medicare"
 date: 2026-05-24T20:16:13.665636+00:00
 draft: false
 description: "Learn what Medicare Part B covers, including doctor visits, outpatient care, and preventive services, plus costs, eligibility, and how to enroll in this medical"
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You turned 65, felt fine, and figured you could skip Part B to save money. Your neighbor did the same thing and seemed okay. Then you took a fall, needed an MRI, and found out you owed 100% of the bill. I've watched this scenario unfold too many times. Part B is invisible until you actually need it, and that's when late enrollment penalties kick in, penalties that stick with you for years.
 

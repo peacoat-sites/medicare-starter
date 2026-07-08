@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part C Explained"
+title: "How Medicare Advantage Plans Actually Work"
 date: 2026-05-29T14:10:50.730199+00:00
 draft: false
 description: "Learn how Medicare Part C works, what it covers, and how it differs from Original Medicare. Find out if an Advantage plan is the right choice for you."
@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just turned 65. Your kitchen table is buried under Medicare mailers. Every single one mentions "Medicare Advantage." Your neighbor loves hers. Your brother-in-law won't touch one. And you're wondering if Medicare Part C is some secret fourth option or just corporate jargon for something you already understand.
 

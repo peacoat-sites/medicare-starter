@@ -1,5 +1,5 @@
 ---
-title: "Medicare Enrollment At 65"
+title: "When to Sign Up for Medicare at 65"
 date: 2026-06-09T16:41:02.520681+00:00
 draft: false
 description: "Learn when and how to enroll in Medicare at 65, key deadlines to avoid penalties, and which parts A, B, C, and D you may need for full coverage."
@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people miss their Medicare enrollment window not because they're careless, but because the rules are genuinely confusing and the official guidance buries the deadline math in bureaucratic language. Let me fix that.
 

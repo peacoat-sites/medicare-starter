@@ -1,5 +1,5 @@
 ---
-title: "Medicare Hearing Aid Coverage Cost"
+title: "What Medicare Really Covers for Hearing Aids"
 date: 2026-06-05T12:21:46.593529+00:00
 draft: false
 description: "Learn what Medicare covers for hearing aids, how much you can expect to pay out of pocket, and ways to reduce your hearing care costs."
@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume Medicare covers hearing aids the way it covers a hip replacement or a round of chemotherapy. It doesn't. Not even close.
 

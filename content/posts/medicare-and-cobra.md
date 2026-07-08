@@ -1,5 +1,5 @@
 ---
-title: "Medicare And Cobra"
+title: "COBRA and Medicare: Which Covers You First?"
 date: 2026-06-17T17:17:22.563596+00:00
 draft: false
 description: "Learn how Medicare and COBRA work together, which to choose first, and how coordinating both coverages can affect your healthcare costs and benefits."
@@ -23,7 +23,7 @@ faqs:
    a: "If you haven't enrolled in Part A and you're taking COBRA, COBRA acts as your primary insurance. Once you enroll in Part A (and Part B), Medicare becomes primary and COBRA becomes secondary. The shift happens automatically based on enrollment dates. Keep your COBRA administrator informed of your Medicare enrollment dates so claims get coordinated correctly."
  - q: "My employer never told me about the COBRA and Medicare interaction. Is that normal?"
    a: "Honestly, yes. Employers are required to give you a COBRA election notice, but they're not required to explain how COBRA interacts with Medicare. That gap in communication is a big reason this mistake happens so often. HR departments aren't Medicare counselors, and they can't give you individualized advice anyway. This is exactly why programs like SHIP exist. Call them before you sign anything."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people get this backwards. They assume COBRA is the safe choice, the familiar bridge that keeps them covered while they figure out Medicare, and so they sign up for COBRA first and assume they can sort out Medicare later. That assumption costs some people thousands of dollars. I've sat across from enough seniors to know that this particular misunderstanding is one of the most expensive Medicare mistakes there is, and it's completely avoidable once you understand how the two programs actually interact.
 

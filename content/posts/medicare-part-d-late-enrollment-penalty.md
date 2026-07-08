@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part D Late Enrollment Penalty"
+title: "Avoid Medicare Part D Late Enrollment Penalties"
 date: 2026-05-24T23:28:56.541623+00:00
 draft: false
 description: "Learn how the Medicare Part D late enrollment penalty works, why it applies, how much it costs, and how to avoid paying more for prescription drug coverage."
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people don't discover the Medicare Part D late enrollment penalty by reading about it ahead of time. They find out when their first monthly premium arrives and it's higher than they expected. Sometimes significantly higher. That surprise bill is the result of a straightforward but unforgiving rule: if you go without creditable prescription drug coverage for 63 or more consecutive days after your Initial Enrollment Period ends, Medicare adds a permanent penalty to your Part D premium for as long as you have drug coverage. Permanent. Not a one-time fee. Not a short-term surcharge. A monthly addition to your bill that follows you for the rest of your life.
 

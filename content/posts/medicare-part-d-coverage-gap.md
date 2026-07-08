@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part D Coverage Gap"
+title: "How To Navigate The Medicare Part D Coverage Gap"
 date: 2026-05-29T13:50:32.184846+00:00
 draft: false
 description: "Learn how the Medicare Part D coverage gap works, what costs you may face, and how to save money on prescription drugs while in the donut hole."
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You fill your prescription at the pharmacy, hand over your Medicare Part D card, and then the cashier tells you your cost just jumped significantly. Nothing about your health changed. Nothing about your plan changed. You've simply crossed an invisible spending threshold, and now you're in what Medicare calls the coverage gap. For millions of people, this moment is genuinely shocking, and I want to make sure you understand exactly what happened, why it happened, and what you can do about it.
 

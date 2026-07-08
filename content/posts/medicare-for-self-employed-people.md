@@ -1,5 +1,5 @@
 ---
-title: "Medicare For Self Employed People"
+title: "Self-Employed Medicare Options: A Complete Guide"
 date: 2026-07-07T16:39:29.917711+00:00
 draft: false
 description: "Learn how self-employed workers can get Medicare coverage, understand enrollment rules, costs, and supplement plans to protect your health and finances."

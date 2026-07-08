@@ -1,5 +1,5 @@
 ---
-title: "Medicare Low Income Subsidy"
+title: "Who Qualifies For Medicare Low Income Assistance"
 date: 2026-06-15T18:48:30.186006+00:00
 draft: false
 description: "Learn how Medicare Low Income Subsidy helps cover prescription drug costs for eligible beneficiaries, reducing premiums, deductibles, and copays."
@@ -23,7 +23,7 @@ faqs:
    a: "Look at your Medicare card or any recent letter from Medicare or Social Security. If you have full Medicaid, SSI, or a Medicare Savings Program, you have automatic Extra Help. You can also call 1-800-MEDICARE (1-800-633-4227) and ask directly. It takes about five minutes."
  - q: "Does Extra Help coverage renew automatically?"
    a: "If you have automatic Extra Help (through Medicaid, SSI, or an MSP), it renews as long as you stay enrolled in those programs. If you applied directly through Social Security, you'll typically receive a review letter periodically, usually once a year, to confirm your situation hasn't changed significantly. Respond to those letters promptly. Missing one can interrupt your benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people who qualify for the Medicare Low Income Subsidy never apply. That's not exaggeration. The Social Security Administration says roughly a third of eligible people aren't enrolled, which means they're throwing away real money every single month. I've watched seniors pay $50, $80, sometimes $140 a month for prescriptions they should be getting for almost nothing, all because nobody told them this program existed.
 

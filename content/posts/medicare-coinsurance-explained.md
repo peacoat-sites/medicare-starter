@@ -1,5 +1,5 @@
 ---
-title: "Medicare Coinsurance Explained"
+title: "What You Actually Pay After Medicare Approves Care"
 date: 2026-07-04T15:17:39.085540+00:00
 draft: false
 description: "Learn how Medicare coinsurance works, what percentage you pay after meeting your deductible, and how to reduce your out-of-pocket healthcare costs."

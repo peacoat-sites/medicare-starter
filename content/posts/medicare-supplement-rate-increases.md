@@ -1,5 +1,5 @@
 ---
-title: "Medicare Supplement Rate Increases"
+title: "Why Your Medicare Supplement Costs Keep Rising"
 date: 2026-06-20T15:54:33.653508+00:00
 draft: false
 description: "Learn why Medicare supplement rates increase, how often they change, and what steps you can take to find lower premiums and keep your coverage affordable."
@@ -23,7 +23,7 @@ faqs:
    a: "Not directly. Medicare.gov shows current available plans and premiums in your area, but historical rate increase data lives in state insurance department filings. An independent insurance broker familiar with your state market can often give you a practical summary of which carriers have the most and least volatile rate histories."
  - q: "If I switch Medigap plans, do I lose any benefits I currently have?"
    a: "All standardized Medigap plan letters (G, N, F, etc.) have identical core benefits regardless of insurer. You won't lose coverage by switching from one company's Plan G to another's Plan G. The one exception: if you have a pre-2010 plan with benefits that are no longer available to new enrollees, like Plan F's full Part B deductible coverage, switching would mean giving that benefit up permanently."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Your Medicare Supplement premium went up again. Maybe a little, maybe a lot. Either way, nobody warned you it would keep happening, and most of what you read online treats rate increases as a minor footnote instead of one of the biggest financial risks in Medicare planning. Let's fix that.

@@ -1,5 +1,5 @@
 ---
-title: "Medicare Open Enrollment Period"
+title: "When Your Medicare Coverage Changes Every Year"
 date: 2026-05-19T05:52:24.485436+00:00
 draft: false
 description: "Learn when Medicare Open Enrollment runs, what changes you can make to your plan, and how to compare options to ensure you have the best coverage for your needs"
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every October, I get a call that sounds something like this: "Dana, I just got a letter saying my drug plan is changing next year and my insulin is going to cost twice as much. Can I do anything about it?" The answer is almost always yes, but only if we act before December 7th. That window, October 15 through December 7, is [Medicare's Open Enrollment Period](/when-is-medicare-annual-open-enrollment-period-2026/), and it's genuinely one of the most powerful tools you have as a Medicare beneficiary. Miss it, and you're stuck with a plan that doesn't serve you for a full year. Catch it at the right time, and you might save hundreds, sometimes thousands, of dollars.
 

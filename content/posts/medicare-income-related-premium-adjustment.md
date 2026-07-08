@@ -1,5 +1,5 @@
 ---
-title: "Medicare Income Related Premium Adjustment"
+title: "How Your Medicare Income Affects Your Premiums"
 date: 2026-06-12T16:54:44.122457+00:00
 draft: false
 description: "Learn how Medicare's income-related premium adjustment affects your costs, who pays more, income thresholds, and how to appeal an IRMAA determination."
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people discover IRMAA the worst possible way: they open their Medicare bill and it's $100 or $200 higher than expected, with zero warning and instructions that don't make sense. I've watched this happen in my office so many times the reaction's become predictable. Confusion. Then anger. Then something close to defeat. You've done everything right. You saved. And now Medicare's charging you more because of it.
 

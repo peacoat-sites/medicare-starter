@@ -1,5 +1,5 @@
 ---
-title: "State Medicare Savings Programs"
+title: "How to Access State Medicare Savings Programs"
 date: 2026-06-10T17:30:39.187349+00:00
 draft: false
 description: "Discover how state Medicare Savings Programs can help cover premiums, deductibles, and copays for eligible low-income beneficiaries and reduce your healthcare c"
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Fewer than half the people who qualify for Medicare Savings Programs are actually enrolled. It's been stuck that way for years, and it genuinely bothers me. These programs can save someone $2,000 a year or more, sometimes way more, yet most people who'd qualify have never heard of them.
 

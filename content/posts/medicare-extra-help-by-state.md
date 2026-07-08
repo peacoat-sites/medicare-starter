@@ -1,5 +1,5 @@
 ---
-title: "Medicare Extra Help By State"
+title: "Your State's Medicare Extra Help: Who Qualifies"
 date: 2026-06-03T14:12:45.623474+00:00
 draft: false
 description: "Learn how Medicare Extra Help benefits vary by state. Find eligibility requirements, income limits, and how to apply for prescription drug cost assistance near "
@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 About 14 million people qualify for Extra Help with Medicare drug costs. Roughly a third of them never apply.
 

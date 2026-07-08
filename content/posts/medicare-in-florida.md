@@ -1,5 +1,5 @@
 ---
-title: "Medicare In Florida"
+title: "Florida Medicare Plans: Your Complete Coverage Guide"
 date: 2026-06-20T15:52:03.654708+00:00
 draft: false
 description: "Learn how Medicare works in Florida, including coverage options, enrollment periods, costs, and tips for finding the best plan for Florida residents."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, you can switch back to Original Medicare during the Annual Open Enrollment Period (October 15 to December 7) or during the Medicare Advantage Open Enrollment Period (January 1 to March 31). The complication is that if you want to add a Medigap supplement after leaving MA, insurers in Florida can generally require medical underwriting outside your initial enrollment period, meaning they can deny you or charge more based on health conditions. This is one of the biggest reasons to think carefully about the MA-vs.-Medigap decision from the start."
  - q: "How do I find out if I qualify for Extra Help with drug costs in Florida?"
    a: "Apply directly through the Social Security Administration, either online at ssa.gov, by calling 1-800-772-1213, or at your local SSA office. You can also apply for Medicare Savings Programs through Florida's Department of Children and Families. Your local SHINE counselor can help you figure out which programs you might qualify for and walk you through the paperwork."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Florida has more Medicare beneficiaries per capita than almost any other state in the country. That single fact shapes everything about how Medicare actually works here, and not always in the ways you'd expect.

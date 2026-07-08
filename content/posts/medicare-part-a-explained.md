@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part A Explained"
+title: "What Hospital Coverage Really Includes Under Medicare Part A"
 date: 2026-05-26T13:40:38.207760+00:00
 draft: false
 description: "Learn what Medicare Part A covers, including hospital stays, skilled nursing care, and hospice. Find out costs, eligibility, and how to enroll in this guide."
@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're 64, six months from retirement, and someone asks: "Do you have hospital coverage?" You pause. Medicare's coming, sure, but the details feel foggy. Part A rings a bell, but what does it actually cover? Will you pay for it? What happens if you miss a deadline? That fog is more common than you'd think, and it costs people real money. Let me walk you through Medicare Part A so you can step into retirement actually knowing what you have.
 

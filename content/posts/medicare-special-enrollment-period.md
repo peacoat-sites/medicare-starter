@@ -1,5 +1,5 @@
 ---
-title: "Medicare Special Enrollment Period"
+title: "When You Can Switch Medicare Plans Outside Open Enrollment"
 date: 2026-05-29T14:21:11.851480+00:00
 draft: false
 description: "Learn about Medicare Special Enrollment Periods, when you qualify, key deadlines, and how to avoid coverage gaps or late penalties when signing up outside open "
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You missed your Medicare signup window and now you're panicking. Or maybe you just retired at 67, lost your employer health coverage last Friday, and someone told you that you "might" be able to still enroll. That "might" is doing a lot of work in that sentence, and it's exactly what this article is here to clear up.
 

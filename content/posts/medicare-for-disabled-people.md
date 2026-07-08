@@ -1,5 +1,5 @@
 ---
-title: "Medicare For Disabled People"
+title: "How Disabled Adults Can Qualify for Medicare"
 date: 2026-07-05T15:22:41.991382+00:00
 draft: false
 description: "Learn how Medicare works for disabled people, including eligibility, coverage options, and how to enroll before turning 65 due to a qualifying disability."

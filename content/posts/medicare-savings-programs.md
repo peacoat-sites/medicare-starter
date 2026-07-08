@@ -1,5 +1,5 @@
 ---
-title: "Medicare Savings Programs"
+title: "How to Qualify for Medicare Savings Programs"
 date: 2026-06-21T16:08:24.865356+00:00
 draft: false
 description: "Medicare Savings Programs help pay Part A and B premiums, deductibles, and copays. Learn who qualifies and how to apply for extra help today."
@@ -23,7 +23,7 @@ faqs:
    a: "More than most people realize. Some states cover additional benefits, have higher income limits, or have eliminated the asset test entirely. The federal rules are a floor, not a ceiling. A SHIP counselor in your state will know exactly what your state offers beyond the federal minimum."
  - q: "If I qualify for QMB, can providers still send me to collections for Medicare cost-sharing?"
    a: "They shouldn't, and you have recourse if they do. QMB prohibits providers from billing you for Medicare cost-sharing. If you receive a bill or a collections notice for charges QMB should have covered, contact your State Medicaid office and file a complaint. You can also call 1-800-MEDICARE. Don't just pay it because the bill showed up."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A woman called me a few years ago, nearly in tears. She'd been paying her Medicare [Part B premium](/medicare-part-b-premium-2026/) every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.

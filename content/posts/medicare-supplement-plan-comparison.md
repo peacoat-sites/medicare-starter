@@ -1,5 +1,5 @@
 ---
-title: "Medicare Supplement Plan Comparison"
+title: "Which Medicare Supplement Plan Fits Your Budget"
 date: 2026-05-21T14:34:33.274589+00:00
 draft: false
 description: "Compare Medicare supplement plans side by side to find the best coverage and lowest premiums. Learn which Medigap plan fits your healthcare needs and budget."
@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your kitchen table looks like a war zone. Stacks of mailers from insurance companies, each one swearing their Plan G is the gold standard, another insisting Plan N will save you a fortune, a third that doesn't even bother explaining what the letters mean. You're 64, retirement is three months away, and you have no idea what any of this means.
 

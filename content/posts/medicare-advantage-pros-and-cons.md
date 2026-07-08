@@ -1,5 +1,5 @@
 ---
-title: "Medicare Advantage Pros And Cons"
+title: "Medicare Advantage Plans: Trade-Offs Worth Knowing"
 date: 2026-05-23T17:25:16.269803+00:00
 draft: false
 description: "Medicare Advantage offers an alternative to Original Medicare with potential cost savings and extra benefits, but may include network restrictions and higher ou"
@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're turning 65 in three months. Your mailbox is stuffed with glossy Medicare Advantage brochures promising $0 premiums, dental coverage, and gym memberships. It sounds almost too good. And honestly, parts of it are.
 

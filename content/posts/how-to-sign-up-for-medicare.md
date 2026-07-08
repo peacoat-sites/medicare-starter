@@ -1,5 +1,5 @@
 ---
-title: "How To Sign Up For Medicare"
+title: "Your Complete Medicare Enrollment Checklist"
 date: 2026-06-21T16:06:13.693461+00:00
 draft: false
 description: "Learn how to sign up for Medicare step by step, including when to enroll, which parts to choose, and how to avoid late enrollment penalties."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, if you're on Original Medicare, Part D is a separate plan you purchase from a private insurer. It doesn't come automatically. You can compare plans at Medicare.gov's Plan Finder tool, which lets you enter your specific medications to see which plan covers them at the lowest total cost."
  - q: "What's the difference between Medigap and Medicare Advantage?"
    a: "These two options are actually mutually exclusive. Medigap (Medicare Supplement) policies work alongside Original Medicare to cover gaps like deductibles, copays, and coinsurance. Medicare Advantage replaces Original Medicare with a private plan. You can't have both at the same time."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You're probably here because something changed. Maybe you just got a letter from Social Security, or a birthday with a "6" and a "5" in it is coming up faster than expected, and someone told you to "just go sign up for Medicare." As if it were obvious. As if there weren't about a dozen ways to do it wrong.

@@ -1,5 +1,5 @@
 ---
-title: "Medicare And Social Security"
+title: "How Social Security Affects Your Medicare Benefits"
 date: 2026-07-05T15:25:04.718390+00:00
 draft: false
 description: "Learn how Medicare and Social Security work together, eligibility requirements, enrollment tips, and how to maximize your retirement benefits."
@@ -23,7 +23,7 @@ faqs:
     a: "Yes. If you haven't worked enough quarters yourself (40 quarters, or roughly 10 years of Medicare-taxed work), you can qualify for premium-free Part A based on your current or former spouse's work record, as long as you're at least 65 and they've met the 40-quarter requirement."
   - q: "If I delay Social Security until 70, do I also delay Medicare?"
     a: "No. These are separate decisions. You should still enroll in Medicare at 65 (or during your Special Enrollment Period if you have qualifying employer coverage). Delaying Social Security is often a smart financial move. Delaying Medicare without qualifying coverage is almost never a smart move, and comes with permanent penalties."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people I sit down with assume Medicare and Social Security are basically the same program. They're not, and mixing them up can cost you real money and, in some cases, permanently reduce your monthly income. I've seen it happen more times than I'd like to count.

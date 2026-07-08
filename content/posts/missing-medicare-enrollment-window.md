@@ -1,5 +1,5 @@
 ---
-title: "Missing Medicare Enrollment Window"
+title: "Missed Medicare Enrollment? Here's What To Do Now"
 date: 2026-06-06T15:26:01.829498+00:00
 draft: false
 description: "Missing your Medicare enrollment window can lead to permanent late penalties and coverage gaps. Learn how to avoid costly mistakes and what to do if you miss yo"
@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume Medicare enrollment is forgiving. Flexible. Sign up whenever, right? That assumption costs thousands of people real money every single year. Sometimes for the rest of their lives.
 

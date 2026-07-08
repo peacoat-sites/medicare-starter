@@ -1,5 +1,5 @@
 ---
-title: "Missing Medicare Open Enrollment"
+title: "What Happens If You Miss Medicare Open Enrollment"
 date: 2026-06-14T15:55:38.257104+00:00
 draft: false
 description: "Missed Medicare open enrollment? Learn your options, special enrollment periods, and steps to take now to avoid penalties and get the coverage you need."
@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every year, around December 8th, my phone starts ringing off the hook. People who realized, sometimes only hours too late, that they missed Medicare's Open Enrollment Period. The panic in their voices is real, and I understand it completely. If that's where you are right now, take a breath. You're not the first person to sit in this exact spot, and your situation is almost certainly not as catastrophic as it feels right now.
 
