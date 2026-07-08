@@ -145,5 +145,6 @@
       "cta": "Browse our beginner Medicare Advantage guides"
     }
   ],
-  "disclaimer": "This quiz is a self-reflection tool for general education only. It is not insurance advice, medical advice, or a plan recommendation, and it does not reflect any specific plan's benefits or eligibility. Before making any Medicare decision, talk with a licensed insurance advisor or a free State Health Insurance Assistance Program (SHIP) counselor, and consult your doctor about your health needs."
+  "disclaimer": "This quiz is a self-reflection tool for general education only. It is not insurance advice, medical advice, or a plan recommendation, and it does not reflect any specific plan's benefits or eligibility. Before making any Medicare decision, talk with a licensed insurance advisor or a free State Health Insurance Assistance Program (SHIP) counselor, and consult your doctor about your health needs.",
+  "url": "/is-medicare-advantage-right-for-you/"
 }
