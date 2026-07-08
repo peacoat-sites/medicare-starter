@@ -1,0 +1,34 @@
+{
+  "as_of": "2026",
+  "source": "Centers for Medicare & Medicaid Services (CMS) published rates and plan-design rules",
+  "plans": {
+    "Original Medicare (Part A + B)": {
+      "monthly_premium": "$0 Part A (if 40+ work quarters) + ~$206 Part B",
+      "annual_deductible": "$1,676 Part A per benefit period + ~$283 Part B",
+      "max_out_of_pocket": "None (no annual cap)",
+      "coverage_highlights": "Any doctor/hospital that accepts Medicare; no networks",
+      "best_for": "People who want provider freedom and travel often"
+    },
+    "Medicare Advantage (Part C)": {
+      "monthly_premium": "$0-$70 (many plans $0, plus you still pay Part B)",
+      "annual_deductible": "Varies by plan; often $0 medical",
+      "max_out_of_pocket": "$9,350 in-network cap (2026 federal max)",
+      "coverage_highlights": "Bundles A, B, usually D, plus dental/vision/hearing extras; network-based",
+      "best_for": "Lower monthly cost and extra benefits, if you stay in-network"
+    },
+    "Medigap (Supplement Plan G)": {
+      "monthly_premium": "$130-$170 typical (varies by state and age)",
+      "annual_deductible": "$283 Part B deductible only",
+      "max_out_of_pocket": "Effectively the Part B deductible for covered services",
+      "coverage_highlights": "Pays most out-of-pocket costs Original Medicare leaves; any Medicare provider",
+      "best_for": "Predictable costs and minimal surprise bills"
+    },
+    "Part D (Prescription Drug)": {
+      "monthly_premium": "$0-$60 (national base ~$36)",
+      "annual_deductible": "Up to $615 (2026 maximum)",
+      "max_out_of_pocket": "$2,100 true out-of-pocket cap on covered drugs (2026)",
+      "coverage_highlights": "Standalone drug coverage; formularies and tiers vary by plan",
+      "best_for": "Anyone on Original Medicare who takes prescriptions"
+    }
+  }
+}

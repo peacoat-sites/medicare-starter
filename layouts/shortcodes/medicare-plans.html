@@ -1,0 +1,24 @@
+<div class="moat-table" style="overflow-x:auto;margin:1.5rem 0">
+{{- $d := site.Data.medicare_plans -}}
+<table style="width:100%;border-collapse:collapse;font-size:.9em;min-width:640px">
+<thead><tr style="background:var(--surface,#f1f5f9)">
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Plan</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Monthly Premium</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Annual Deductible</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Max Out-of-Pocket</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Best For</th>
+</tr></thead>
+<tbody>
+{{- range $plan, $v := $d.plans }}
+<tr>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)"><strong>{{ $plan }}</strong><br><span style="font-size:.85em;color:var(--muted,#64748b)">{{ $v.coverage_highlights }}</span></td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.monthly_premium }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.annual_deductible }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.max_out_of_pocket }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.best_for }}</td>
+</tr>
+{{- end }}
+</tbody>
+</table>
+<p style="font-size:.8em;color:var(--muted,#64748b);margin:8px 0 0">Figures reflect {{ $d.as_of }} plan-design rules and typical ranges. Source: {{ $d.source }}. Your exact costs depend on plan, state, and income; confirm at Medicare.gov.</p>
+</div>
