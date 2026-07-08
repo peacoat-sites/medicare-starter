@@ -23,7 +23,7 @@ faqs:
     a: "Yes. Medicare Savings Programs, administered by your state, can pay coinsurance for people who meet income and asset limits. The QMB level provides the most comprehensive help. Contact your local SHIP office or visit Medicare.gov to screen for eligibility."
   - q: "Does Medicare coinsurance apply to preventive care visits?"
     a: "Not always. Many preventive services under Part B, including the annual wellness visit and certain cancer screenings, are covered at 100% with no coinsurance. However, if your doctor addresses a separate medical issue during what starts as a preventive visit, that portion of the visit may trigger coinsurance. It's worth asking your provider upfront how the visit will be billed."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people assume Medicare is basically free once you hit 65. I hear this all the time, and I'll be honest, I thought something close to it myself before I got deep into this work. The reality is that Medicare has real out-of-pocket costs, and coinsurance is one of the biggest sources of surprise bills I see seniors dealing with every year.
@@ -128,8 +128,8 @@ I'll be honest: these programs are underused. I've sat with seniors who qualifie
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

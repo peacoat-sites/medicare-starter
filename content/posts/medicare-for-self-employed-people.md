@@ -23,7 +23,7 @@ faqs:
     a: "Yes, same logic as Part B. The penalty is 1% of the 'national base beneficiary premium' (currently around $34.70/month in 2026) for every month you were without creditable drug coverage. It's smaller than the Part B penalty but still permanent. Enroll in Part D when you first become eligible."
   - q: "Can I deduct my Medicare premiums as a self-employed person?"
     a: "Generally yes. The self-employed health insurance deduction allows you to deduct Medicare Part B premiums, Part D premiums, and Medigap premiums from your federal income taxes, as long as you weren't eligible to be covered under an employer-sponsored plan. Confirm your specific situation with a tax professional, since the rules have nuances."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most self-employed people I've talked with over the years assume Medicare is simple: you turn 65, you sign up, done. The part they consistently miss is that without an employer handling enrollment, the entire thing lands on you, and the penalties for getting it wrong can follow you for life.
@@ -130,6 +130,6 @@ Also: the Part B premium is tax-deductible for self-employed individuals. So is 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

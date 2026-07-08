@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people spend more time choosing a Netflix subscription than comparing Medicare Part D plans. I'll be honest: I used to find that statistic hard to believe. Then I watched a close friend pay nearly $400 more per month than necessary for her prescriptions because she simply re-enrolled in the same plan she'd had for three years without checking whether it still made sense for her. That $400 difference wasn't because one plan was a scam and the other was a steal. It was because drug formularies change, premiums shift, and what worked perfectly last October may be quietly working against you by January. If you have Medicare and you take even one prescription medication, what I found when I dug into how Part D comparisons actually work might genuinely change what you do this fall.
 
@@ -32,7 +32,7 @@ Most people spend more time choosing a Netflix subscription than comparing Medic
  <div class="vm-head">Annual Cost Comparison Worksheet</div>
  <div class="vm-body">
  <p class="vm-intro">Use this template to compare your true yearly costs across plans, premium alone typically accounts for less than 30% of total drug spending.</p>
- <table><caption>Part D Plan Cost Comparison (Fill in for each plan you're considering)</caption><thead><tr><th>Cost Component</th><th>Plan A</th><th>Plan B</th><th>Plan C</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Monthly Premium × 12</td><td>$____</td><td>$____</td><td>$____</td><td>Higher premium often means lower copays, don't optimize for this alone</td></tr><tr><td>Annual Deductible</td><td>$____</td><td>$____</td><td>$____</td><td>2025 standard max is $590; some plans offer $0</td></tr><tr><td>Drug 1: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Check if your drug is even on the formulary</td></tr><tr><td>Drug 2: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Tier placement varies widely between plans</td></tr><tr><td>Drug 3: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Brand vs. generic tier can mean $50+ difference per fill</td></tr><tr><td>Preferred Pharmacy Savings</td><td>−$____</td><td>−$____</td><td>−$____</td><td>Using preferred pharmacy can cut copays 20–50%</td></tr><tr><td>Mail-Order 90-Day Option</td><td>Yes / No</td><td>Yes / No</td><td>Yes / No</td><td>Often saves 10–25% vs. 3 monthly fills</td></tr><tr><td><strong>Estimated Annual Total</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td>Compare this number, not just premium</td></tr></tbody></table>
+ <table><caption>Part D Plan Cost Comparison (Fill in for each plan you're considering)</caption><thead><tr><th>Cost Component</th><th>Plan A</th><th>Plan B</th><th>Plan C</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Monthly Premium × 12</td><td>$____</td><td>$____</td><td>$____</td><td>Higher premium often means lower copays, don't optimize for this alone</td></tr><tr><td>Annual Deductible</td><td>$____</td><td>$____</td><td>$____</td><td>2025 standard max is $590; some plans offer $0</td></tr><tr><td>Drug 1: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Check if your drug is even on the formulary</td></tr><tr><td>Drug 2: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Tier placement varies widely between plans</td></tr><tr><td>Drug 3: _______ (tier + copay × fills/year)</td><td>$____</td><td>$____</td><td>$____</td><td>Brand vs. generic tier can mean $50+ difference per fill</td></tr><tr><td>Preferred Pharmacy Savings</td><td>-$____</td><td>-$____</td><td>-$____</td><td>Using preferred pharmacy can cut copays 20-50%</td></tr><tr><td>Mail-Order 90-Day Option</td><td>Yes / No</td><td>Yes / No</td><td>Yes / No</td><td>Often saves 10-25% vs. 3 monthly fills</td></tr><tr><td><strong>Estimated Annual Total</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td><strong>$____</strong></td><td>Compare this number, not just premium</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -160,7 +160,7 @@ You can appeal to the insurance company and ask for an exception, or your doctor
 
 **Q: Do I have to use a preferred pharmacy?**
 
-No, but you'll pay more if you don't. Using a preferred pharmacy can cut your copays by 20–50% compared to non-preferred pharmacies.
+No, but you'll pay more if you don't. Using a preferred pharmacy can cut your copays by 20-50% compared to non-preferred pharmacies.
 
 **Q: What happens if I miss the Open Enrollment deadline?**
 

@@ -11,7 +11,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Turning 65 brings decisions, and none are messier than figuring out how Medicare works with your current employer health plan. Whether you're still working, your spouse is, or you're just weeks away from retirement, this is one of the most confusing corners of health insurance. Most people get it wrong.
 
@@ -109,7 +109,7 @@ Once you have dual coverage, confirm both your employer's plan and Medicare have
 When you get care, hand over both cards. Your doctor's office will bill the primary payer first, then send remaining charges to the secondary. You'll get an Explanation of Benefits (EOB) from each.
 
 **Step 7: Plan your transition before leaving work**
-If you know you're retiring, start thinking about your Medicare options 3–6 months ahead. Will you go with Original Medicare plus a Medigap plan, or Medicare Advantage? Make sure there's no gap when your employer coverage ends.
+If you know you're retiring, start thinking about your Medicare options 3-6 months ahead. Will you go with Original Medicare plus a Medigap plan, or Medicare Advantage? Make sure there's no gap when your employer coverage ends.
 
 [RELATED: Medicare Advantage vs. Original Medicare: Which Is Right for You?]
 
@@ -149,7 +149,7 @@ People mess this up all the time, even when they think they know what they're do
 
 **Get a free consultation.** Your state's Health Insurance Assistance Program (SHIP) offers free counseling from licensed advisors who work for you, not insurance companies. They'll review your whole situation at no cost.
 
-**Don't overlook dental, vision, and hearing.** Original Medicare covers almost none of these. If your employer plan does, think hard before dropping it. You might end up paying $150–300 per year out of pocket for basics that used to be covered.
+**Don't overlook dental, vision, and hearing.** Original Medicare covers almost none of these. If your employer plan does, think hard before dropping it. You might end up paying $150-300 per year out of pocket for basics that used to be covered.
 
 **Check your options every year.** Employer plans change. October 15, December 7 is Medicare's Annual Enrollment Period. Spend an hour reviewing whether your current setup is still the best choice.
 

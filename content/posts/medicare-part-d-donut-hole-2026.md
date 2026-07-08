@@ -23,7 +23,7 @@ faqs:
     a: "If your drug isn't covered by your plan's formulary, you typically pay full price and that spending doesn't count toward your out-of-pocket cap. You can request a formulary exception from your plan, or use the Medicare Plan Finder to look for plans that do cover your drug, especially during Open Enrollment."
   - q: "How do I apply for Extra Help with Part D costs?"
     a: "You apply through the Social Security Administration, either online at SSA.gov, by calling 1-800-772-1213, or at your local Social Security office. Medicare.gov also has a tool to check your eligibility. If you qualify, the program can dramatically reduce or eliminate your Part D premiums, deductibles, and co-pays."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people I've worked with over the years hear "donut hole" and picture some minor inconvenience, like a small co-pay bump they'll barely notice. Then they open a pharmacy bill in October and nearly fall out of their chair.
@@ -153,7 +153,7 @@ He told me at a senior center presentation in March 2026, "I figured it wasn't w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15) — The original bestselling guide to navigating Medicare and Social Security timing — over 100,000 copies sold.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
 

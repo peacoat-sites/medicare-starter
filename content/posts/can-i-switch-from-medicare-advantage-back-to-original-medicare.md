@@ -23,7 +23,7 @@ faqs:
     a: "Yes, but it requires a qualifying life event that triggers a Special Enrollment Period. Examples include moving to an area your plan doesn't serve, your plan leaving your area, or qualifying for Medicaid or Extra Help. If you think a life event might apply, call 1-800-MEDICARE or check with your local SHIP counselor to confirm eligibility."
   - q: "Does switching back to Original Medicare affect my Part A or Part B benefits?"
     a: "No. Your underlying Medicare Part A (hospital insurance) and Part B (medical insurance) coverage remains in place the whole time you're in a Medicare Advantage plan. You're not giving those up when you join MA, and you're not re-enrolling in them when you leave. You're simply changing how those benefits are delivered."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You're probably sitting with a stack of Explanation of Benefits forms, a provider directory that somehow keeps shrinking, and a growing suspicion that your Medicare Advantage plan isn't quite what it was sold to you as. Maybe your cardiologist just left the network. Maybe you're facing a big procedure and the prior authorization process has you ready to scream. Whatever got you here, you're not alone, and the question you're asking is one of the most important ones you can ask: can I actually go back to Original Medicare?
@@ -125,6 +125,6 @@ As of July 2026, CMS continues to allow most of this process to be completed onl
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

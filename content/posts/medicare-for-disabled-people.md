@@ -23,7 +23,7 @@ faqs:
     a: "Technically yes, but it's complicated. Federal law doesn't require insurers to sell Medigap policies to people under 65, though some states do require it. If your state doesn't mandate it, insurers can charge higher premiums or deny you. Check your state insurance commissioner's website for the rules where you live, because this varies significantly."
   - q: "How do I apply for the Extra Help program to lower my drug costs?"
     a: "You can apply online at ssa.gov, call the SSA at 1-800-772-1213, or visit your local Social Security office. If you're already enrolled in Medicaid or a Medicare Savings Program, you may be automatically enrolled in Extra Help without needing a separate application. It's worth checking either way."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people who call me about Medicare for disabled people think they missed something. Like there was a memo that went out explaining how all of this works and somehow it didn't reach them. There wasn't. The rules around qualifying for Medicare before age 65 are genuinely confusing, and I've watched smart, capable people sit across from me completely blindsided by what they didn't know.
@@ -127,6 +127,6 @@ I don't have precise nationwide data on how often people actually use this pathw
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

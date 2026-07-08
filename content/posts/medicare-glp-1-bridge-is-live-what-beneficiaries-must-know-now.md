@@ -12,7 +12,7 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-glp-1-bridge-is-live-what-beneficiaries-must-know-now"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most of the early coverage on the Medicare GLP-1 Bridge zeroed in on one number: $50 a month. That's real, and for many Medicare beneficiaries who've been paying hundreds out of pocket for Wegovy or Zepbound, it's genuinely significant. But the program that launched July 1, 2026 is more complicated than that headline suggests, and the complications matter right now, before beneficiaries and their doctors get tripped up by them.
@@ -76,7 +76,7 @@ This program is a genuine opportunity for the right patients, and the 18-month w
 ## Sources
 
 - [Medicare GLP-1 Bridge | CMS](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge) (July 1, 2026)
-- [Information for Providers – Medicare GLP-1 Bridge | CMS](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers) (July 2026)
+- [Information for Providers, Medicare GLP-1 Bridge | CMS](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers) (July 2026)
 - [GLP-1 Weight-Loss Drug Demonstration Begins July 2026 | Medicare Rights Center](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
 - [Medicare GLP-1 Bridge Eligibility: BMI Tiers, Costs & Enrollment | Klinic](https://klinic.com/blog/medicare-glp-1-bridge-program-eligibility) (July 1, 2026)
 - [Medicare's GLP-1 Weight Loss Program Launches July 1 ,  Complete Eligibility Guide | Medical Daily](https://www.medicaldaily.com/medicare-glp1-bridge-program-july-1-2026-complete-eligibility-guide-475833) (June 29, 2026)
@@ -103,6 +103,6 @@ This program is a genuine opportunity for the right patients, and the 18-month w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 

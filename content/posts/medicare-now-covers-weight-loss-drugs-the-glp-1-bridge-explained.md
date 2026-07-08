@@ -12,7 +12,7 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-now-covers-weight-loss-drugs-the-glp-1-bridge-explained"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Something significant is about to happen for millions of Medicare beneficiaries, and if you've been watching the news about weight-loss medications and wondering whether any of this applies to you, the answer might finally be yes. Starting July 1, 2026, Medicare is launching the GLP-1 Bridge Program, the first time in the program's history that it will cover prescription weight-loss drugs. That's not a small thing. Federal law has blocked Medicare Part D from paying for weight-loss medications since Part D launched back in 2006, a full twenty years. What changes in just a matter of days is the result of CMS (the Centers for Medicare and Medicaid Services) using its authority to run a demonstration project as a creative workaround while Congress hasn't yet acted to change the underlying law permanently.
 
@@ -74,7 +74,7 @@ This is genuinely new ground for Medicare, and for many people living with obesi
 - [CMS Press Release, Coming Soon: $50 Monthly Access to GLP-1 Medications](https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries) (May 6, 2026)
 - [Medicare Rights Center, GLP-1 Weight-Loss Drug Demonstration Begins July 2026](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
 - [Sheppard, Medicare's $50 Per Month GLP-1 Bridge: What You Need to Know](https://www.sheppard.com/insights/blogs/medicares-50-per-month-glp1-bridge-what-you-need-to-know) (May 15, 2026)
-- [NCOA, Medicare GLP-1 Bridge Program: Eligibility, Costs, and Coverage](https://www.ncoa.org/article/expanding-access-to-weight-loss-medications-the-medicare-glp-1-bridge-program/) (May–June 2026)
+- [NCOA, Medicare GLP-1 Bridge Program: Eligibility, Costs, and Coverage](https://www.ncoa.org/article/expanding-access-to-weight-loss-medications-the-medicare-glp-1-bridge-program/) (May-June 2026)
 - [AMA, CMS Releases Physician Guidance on Medicare GLP-1 Bridge Program](https://www.ama-assn.org/health-care-advocacy/advocacy-update/june-26-2026-national-advocacy-update) (June 26, 2026)
 
 ## Helpful Resources
