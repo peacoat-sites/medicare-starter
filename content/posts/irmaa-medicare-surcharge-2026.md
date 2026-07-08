@@ -1,5 +1,5 @@
 ---
-title: "Irmaa Medicare Surcharge"
+title: "How Income Affects Your Medicare Costs"
 date: 2026-06-08T17:30:42.502025+00:00
 draft: false
 description: "Learn about 2026 IRMAA Medicare surcharges, including income thresholds, premium amounts, and how to appeal if your income has changed since your base year."

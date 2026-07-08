@@ -1,5 +1,5 @@
 ---
-title: "What Is A Medigap Plan"
+title: "Medigap Plans: Your Guide to Medicare Supplement Coverage"
 date: 2026-06-01T15:36:53.352189+00:00
 draft: false
 description: "Learn what a Medigap plan is, how it works with Original Medicare, and how it helps cover out-of-pocket costs like copays, coinsurance, and deductibles."
@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your neighbor paid almost nothing out of pocket after her knee replacement. Your cousin paid thousands for the exact same surgery. Both have Medicare. Same program, wildly different bills.
 

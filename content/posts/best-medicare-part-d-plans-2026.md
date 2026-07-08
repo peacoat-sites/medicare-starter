@@ -1,5 +1,5 @@
 ---
-title: "Best Medicare Part D Plans"
+title: "How to Choose the Right Medicare Part D Plan"
 date: 2026-05-25T16:06:12.216608+00:00
 draft: false
 description: "Compare the best Medicare Part D plans for 2026 by premiums, drug coverage, and star ratings to find the most affordable prescription drug plan for your needs."
@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Picture this: it's November, you're sitting at the kitchen table with a stack of Medicare mail, and your current Part D plan just sent a notice that your blood pressure medication is jumping from a $10 copay to $47 starting January 1st. You didn't change anything. The plan did. And now you have about six weeks to figure out what to do about it. I've seen this exact situation play out hundreds of times, and every single time the person at that kitchen table says the same thing: "I didn't know I could switch."
 

@@ -1,5 +1,5 @@
 ---
-title: "Medicare Irmaa Income Thresholds"
+title: "How Income Limits Affect Your Medicare Premiums"
 date: 2026-06-16T18:39:02.212035+00:00
 draft: false
 description: "Learn the 2026 Medicare IRMAA income thresholds and find out how your modified adjusted gross income affects your Part B and Part D premiums."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes. IRMAA is assessed on each Medicare beneficiary individually based on your household's filing status. If you file jointly and your combined MAGI crosses a threshold, both spouses pay the surcharge on their own premiums separately."
  - q: "How will I know if I owe an IRMAA surcharge?"
    a: "Social Security mails a notice, typically in November or December before the coverage year starts. It will tell you your income tier and your resulting premium. If you disagree with it, you have 60 days from the date of the notice to request a reconsideration."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people discover IRMAA the worst possible way: they get their Medicare premium letter in the fall, see a number that's $100 or $200 higher than they expected, and spend the next week convinced Social Security made a clerical error. They didn't. That's IRMAA doing exactly what it was designed to do, and the surprise is almost always avoidable.
 

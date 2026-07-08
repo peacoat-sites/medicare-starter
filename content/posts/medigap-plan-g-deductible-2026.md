@@ -1,5 +1,5 @@
 ---
-title: "Medigap Plan G Deductible"
+title: "Understanding Medigap Plan G's Annual Deductible"
 date: 2026-05-21T10:41:10.593334+00:00
 draft: false
 description: "Medicare Supplement Plan G deductible for 2026. Learn about current costs, coverage details, and how Plan G compares to other Medigap options."
@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-08
 ---
 You just turned 65. Your doctor's visit cost $300. Medicare's share? Nothing yet. Your share? $257, plus 20% of what's left after that. That surprise is exactly why millions of people pick Medigap Plan G every year, but there's one thing they all need to know: Plan G has a deductible that changed in 2026, and understanding it could save you real money.
 

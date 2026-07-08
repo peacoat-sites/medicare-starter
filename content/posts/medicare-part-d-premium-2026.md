@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part D Premium"
+title: "How Much Will Your Medicare Part D Premium Cost?"
 date: 2026-05-26T18:53:07.565596+00:00
 draft: false
 description: "Compare 2026 Medicare Part D premium costs, coverage changes, and ways to lower your monthly drug plan expenses with updated pricing and enrollment details."
@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You opened your Medicare plan confirmation letter expecting the usual small tweak to your prescription drug costs. Instead, the 2026 premium figure staring back at you is noticeably higher than what you paid last year. You're not imagining it, and you're not alone. Part D premiums are climbing again in 2026, and the reasons why, and what you can do about it, are worth understanding before you accept whatever plan you're currently enrolled in as your only option.
 

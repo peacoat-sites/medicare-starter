@@ -1,5 +1,5 @@
 ---
-title: "Medicare Part B Premium"
+title: "How Much You'll Pay for Medicare Part B"
 date: 2026-06-10T17:32:54.824048+00:00
 draft: false
 description: "Discover the Medicare Part B premium for 2026, including monthly costs, income-based adjustments, and what changes to expect for your healthcare coverage."
@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 The 2026 Medicare Part B premium hasn't been officially announced yet, but I'm betting it's higher than what you're paying right now. It almost always is. The Centers for Medicare & Medicaid Services (CMS) typically releases the official figures in November for the following year, so if you're reading this close to that window, check [Medicare.gov](https://www.medicare.gov/) directly for the confirmed number.
 
