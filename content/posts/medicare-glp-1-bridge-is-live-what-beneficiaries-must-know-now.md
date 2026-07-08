@@ -12,6 +12,7 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-glp-1-bridge-is-live-what-beneficiaries-must-know-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Most of the early coverage on the Medicare GLP-1 Bridge zeroed in on one number: $50 a month. That's real, and for many Medicare beneficiaries who've been paying hundreds out of pocket for Wegovy or Zepbound, it's genuinely significant. But the program that launched July 1, 2026 is more complicated than that headline suggests, and the complications matter right now, before beneficiaries and their doctors get tripped up by them.
@@ -25,6 +26,12 @@ The Medicare GLP-1 Bridge is a CMS (Centers for Medicare & Medicaid Services) de
 Eighteen months sounds like a decent runway. The problem is what comes after. CMS had originally planned a follow-on program called the BALANCE Model, which would have embedded GLP-1 obesity coverage permanently into Part D drug plans starting in 2027. That model has been delayed indefinitely. There's currently no guaranteed coverage pathway once the Bridge ends December 31, 2027. If you start therapy now and respond well, you'll be facing a coverage cliff in a year and a half with no clear landing spot. That's not a reason to skip the program, but it's absolutely something to factor into your planning, especially if you're discussing long-term treatment with your doctor.
 
 ## The BMI Rules Are More Forgiving Than You Think
+
+| BMI Threshold | Additional Conditions Required | Coverage Status |
+| --- | --- | --- |
+| 35 or above | None | Eligible |
+| 30 or above | Heart failure, uncontrolled hypertension, or chronic kidney disease | Eligible |
+| 27 or above | Pre-diabetes, prior heart attack or stroke, or peripheral artery disease | Eligible |
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

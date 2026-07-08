@@ -23,6 +23,7 @@ faqs:
    a: "There are Special Enrollment Periods (SEPs) that apply in specific situations, most commonly if you had qualifying employer coverage and then lost it. That SEP gives you eight months to enroll in Part B without penalty. But if you don't have a qualifying reason for an SEP, there's no extension."
  - q: "Do I need Part D if I don't take any prescriptions?"
    a: "This is one most people get wrong. If you're healthy today and skip Part D, you'll pay a late enrollment penalty for every month you went without creditable coverage once you do need it. Unless you have other creditable drug coverage (through an employer or VA, for example), enrolling in a low-cost Part D plan now is usually the smarter call. The cheapest plans in many areas run under $15 per month."
+lastmod: 2026-07-07
 ---
 
 You're probably reading this because a birthday is coming up, or someone in your life recently turned 65, and now you're staring at a pile of Medicare mailers wondering what's real and what's marketing noise. Maybe you've been on your spouse's insurance for years and never had to think about this. Maybe you're still working and not sure if Medicare even applies to you right now. Wherever you are, you're not late, and you're not behind. But this is one situation where timing genuinely matters, so let's walk through it carefully.
@@ -52,6 +53,12 @@ The late enrollment penalty for Part B is real and permanent. For every 12-month
 Part D (prescription drug coverage) has its own penalty structure too. A flat 1% per month for every month you go without creditable drug coverage after your IEP ends. It sounds small until you're 75 and the math adds up.
 
 ## The Decisions You Make During IEP Set Up Everything Else
+
+| Coverage Type | Premium | Enrollment Timing | Network Restrictions |
+| --- | --- | --- | --- |
+| Original Medicare (Parts A & B) | Part A: Usually free; Part B: ~$185/month (2026) | During IEP (7-month window) | None; accepted nationwide |
+| Medicare Advantage (Part C) | Often $0 | During IEP or Annual Enrollment | Yes; referrals may be required, in-network doctors change annually |
+| Medigap (Supplement) | Varies by plan | Best during 6-month Medigap Open Enrollment Period after turning 65 and enrolling in Part B | None; works with Original Medicare nationwide |
 
 This is the part most articles gloss over, and it's the one that matters most.
 

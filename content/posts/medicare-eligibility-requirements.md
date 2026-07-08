@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 You worked for 35 years, paid into the system every single paycheck, and now you're 64 and wondering: "Wait, am I actually going to qualify for Medicare?" Most people assume it's automatic. It's not quite that simple. There are specific rules around age, work history, disability status, and citizenship that determine whether you qualify, what you'll pay, and when you can enroll. Getting these details wrong can cost you real money in late penalties that follow you for life. Let's walk through exactly what you need to know.
 
@@ -56,6 +56,15 @@ These exceptions exist because the medical costs are staggering. Congress create
 ---
 
 ## Understanding the Work History Requirement and Premium-Free Part A
+
+| Eligibility Path | Work History Required | Monthly Premium | Notes |
+| --- | --- | --- | --- |
+| Age 65+ (U.S. citizen or permanent resident, 5+ years in U.S.) | 40 quarters (10 years) | Part A: $0 (premium-free); Part B: Standard rate (varies yearly) | Automatic enrollment if receiving Social Security; otherwise must enroll during 7-month IEP |
+| Age 65+ with 30-39 quarters work history | 30-39 quarters | Part A: Reduced premium; Part B: Standard rate | Premium amount set by CMS, adjusted annually |
+| Age 65+ with fewer than 30 quarters | Fewer than 30 quarters | Part A: Highest available premium; Part B: Standard rate | May qualify through spouse or ex-spouse (10+ year marriage) |
+| SSDI recipient (any age) | Varies | Eligible after 24 months of SSDI benefits | Clock starts month SSDI benefits begin |
+| End-Stage Renal Disease (ESRD) (any age) | None | Eligible immediately upon dialysis or transplant | Typically begins 4th month of dialysis |
+| ALS diagnosis with SSDI approval (any age) | None | Eligible immediately | Coverage begins same month as disability benefits start |
 
 Here's where it gets specific and actually matters for your wallet.
 

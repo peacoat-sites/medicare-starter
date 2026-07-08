@@ -23,6 +23,7 @@ faqs:
    a: "If you miss the 8-month window and don't have another qualifying exception, you'll generally have to wait until the General Enrollment Period (January 1 through March 31 each year), with coverage starting July 1. You'll also pay the 10% per-year late enrollment penalty on your Part B premium permanently. This is a situation worth going out of your way to avoid."
  - q: "Should I sign up for Medicare Part A even if I have an HSA?"
    a: "This one depends. If you want to keep contributing to your HSA, you should not enroll in Part A (or any Medicare) yet, because Medicare eligibility ends your HSA contribution rights. Stop contributing at least six months before you plan to enroll to avoid the retroactive coverage issue. If you've already stopped contributing, enrolling in Part A at 65 is usually the right call since it's free for most people."
+lastmod: 2026-07-07
 ---
 
 You're turning 65, still working, and your inbox is suddenly full of Medicare mailers that all seem to assume you're about to retire. You might be wondering whether any of this actually applies to you right now, or whether you can just set it aside until you're ready to stop working. That's exactly the question I want to answer here, because getting this wrong can cost you real money and create coverage headaches that follow you for years.
@@ -30,6 +31,11 @@ You're turning 65, still working, and your inbox is suddenly full of Medicare ma
 Here's what I tell people in this situation first: the rules depend almost entirely on the size of your employer.
 
 ## The Number That Changes Everything: 20 Employees
+
+| Employer Size | Medicare Primary/Secondary | Part A Enrollment | Part B Enrollment | Part D Enrollment |
+| --- | --- | --- | --- | --- |
+| 20+ employees | Employer plan is primary | Enroll at 65 (generally recommended) | Can delay without penalty if creditable coverage exists | Can delay without penalty if creditable coverage exists |
+| Fewer than 20 employees | Medicare is primary | Enroll at 65 | Enroll at 65 to avoid penalty | Enroll at 65 to avoid penalty |
 
 Your employer's size is the single most important fact you need to know before you make any Medicare decision at 65. If the company you work for has 20 or more employees, your employer-sponsored health plan is considered the "primary" payer, meaning it pays first on your claims, and Medicare would only pay second. In that situation, you generally have real options, and delaying Medicare enrollment is often perfectly fine.
 
@@ -51,7 +57,7 @@ Part B is a different story. Part B covers outpatient care and doctor visits, an
 
 Part D, which covers prescription drugs, is where people get confused. The penalty rule for Part D is separate from Part B. If you have creditable drug coverage through your employer (your HR department can tell you if this applies), you can delay Part D enrollment without penalty too. If you're not sure whether your coverage is "creditable," ask your employer plan administrator directly. They're required to notify you each year whether it qualifies.
 
-What I'd push back on here: a lot of people assume they can figure this out later. They can't, not without risk. You have a Special Enrollment Period (SEP) that lasts for 8 months after your employment ends or your employer coverage ends, whichever comes first. Miss that window, and you'll pay a Part B late enrollment penalty of 10% for every 12-month period you were eligible but didn't enroll. That penalty is permanent. It follows you for the rest of your life.
+What I'd push back on here: a lot of people assume they can figure this out later. They can't, not without risk. You have a [Special Enrollment Period](/medicare-special-enrollment-period/) (SEP) that lasts for 8 months after your employment ends or your employer coverage ends, whichever comes first. Miss that window, and you'll pay a Part B late enrollment penalty of 10% for every 12-month period you were eligible but didn't enroll. That penalty is permanent. It follows you for the rest of your life.
 
 ## If You Have an HSA, Pay Attention to This
 
@@ -63,7 +69,7 @@ What I tell people in this specific situation: if you're still working at 65, st
 
 ## The Enrollment Windows You Actually Need to Know
 
-Your Initial Enrollment Period (IEP) for Medicare is a 7-month window: the three months before your 65th birthday month, your birthday month itself, and three months after. Most mailers and articles focus heavily on this window, which is fine if you're actually retiring at 65.
+Your [Initial Enrollment Period](/medicare-initial-enrollment-period/) (IEP) for Medicare is a 7-month window: the three months before your 65th birthday month, your birthday month itself, and three months after. Most mailers and articles focus heavily on this window, which is fine if you're actually retiring at 65.
 
 If you're not retiring, the IEP still opens, but you may have good reason not to act on it. You'll use your Special Enrollment Period instead, which is triggered by your loss of employer coverage when you eventually do retire or leave your job. That 8-month SEP is what protects you from penalties.
 

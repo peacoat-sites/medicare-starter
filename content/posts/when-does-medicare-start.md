@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 You turned 64 a few months ago, and suddenly your mailbox is drowning in Medicare mailers. Your neighbor swears you need to sign up at 65. Your HR department says something completely different. And your brother-in-law is certain you can wait until you retire, whenever that happens. Everyone has an opinion. Almost nobody agrees.
 
@@ -35,11 +35,18 @@ Most people become eligible for Medicare the day they turn 65. That's the anchor
 
 But "eligible" and "enrolled" aren't the same thing. You can be eligible at 65 and still have choices to make about whether to sign up right then or wait. Those choices carry consequences.
 
-If you've worked and paid Medicare taxes for at least 10 years (40 quarters), you qualify for premium-free Medicare Part A, which covers hospital stays, skilled nursing facility care, and some home health services. Medicare Part B covers outpatient care, doctor visits, and preventive services. It comes with a monthly premium. In 2024, the standard Part B premium is $174.70 per month, though higher-income beneficiaries pay more through IRMAA (Income-Related Monthly Adjustment Amount).
+If you've worked and paid Medicare taxes for at least 10 years (40 quarters), you qualify for premium-free [Medicare Part A](/medicare-part-a-explained/), which covers hospital stays, skilled nursing facility care, and some home health services. Medicare Part B covers outpatient care, doctor visits, and preventive services. It comes with a monthly premium. In 2024, the standard Part B premium is $174.70 per month, though higher-income beneficiaries pay more through IRMAA (Income-Related Monthly Adjustment Amount).
 
 You're also eligible before 65 if you've received Social Security Disability Insurance (SSDI) for 24 months. People with ALS or End-Stage Renal Disease qualify on faster timelines.
 
 ## Your Initial Enrollment Period: A Seven-Month Window
+
+| Situation | Coverage Timing | Enrollment Window | Key Consideration |
+| --- | --- | --- | --- |
+| Employer has 20+ employees | Medicare secondary to employer plan | 8 months after leaving job (SEP) | No late penalty if enrolled within SEP |
+| Employer has <20 employees | Medicare primary | Initial Enrollment Period (7 months) | Late penalty applies if delayed |
+| SSDI for 24 months | Eligible before 65 | Automatic upon SSDI qualification | Separate eligibility path |
+| ALS or ESRD | Eligible immediately | Upon diagnosis | Immediate coverage available |
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -71,7 +78,7 @@ I've seen clients accidentally enroll in COBRA after leaving a job, assume they 
 
 ## The Late Enrollment Penalty: Why Timing Really Matters
 
-Medicare's late enrollment penalties are real, permanent, and entirely avoidable. There are separate penalties for Part B and Part D (prescription drug coverage).
+Medicare's late enrollment penalties are real, permanent, and entirely avoidable. There are separate penalties for Part B and [Part D (prescription drug coverage)](/medicare-part-d-explained/).
 
 **Part B late penalty:** For every 12-month period you were eligible for Part B but didn't enroll (and didn't have qualifying employer coverage), your monthly premium goes up by 10%. That penalty stays with you for as long as you have Part B. Wait three years without a valid reason, and you're looking at a 30% premium increase forever.
 

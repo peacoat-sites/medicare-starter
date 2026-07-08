@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 You opened your Medicare plan confirmation letter expecting the usual small tweak to your prescription drug costs. Instead, the 2026 premium figure staring back at you is noticeably higher than what you paid last year. You're not imagining it, and you're not alone. Part D premiums are climbing again in 2026, and the reasons why, and what you can do about it, are worth understanding before you accept whatever plan you're currently enrolled in as your only option.
 
@@ -31,7 +31,7 @@ You opened your Medicare plan confirmation letter expecting the usual small twea
 
 Medicare Part D is the standalone prescription drug coverage program added to Medicare in 2006. You can get it either as a separate plan (a PDP, or Prescription Drug Plan) or bundled into a Medicare Advantage plan (sometimes called MAPD). Either way, you pay a monthly premium for the coverage.
 
-The national base beneficiary premium for 2026 is set at $36.78, up from $34.70 in 2025. That base figure isn't what most people actually pay. It's a benchmark the government uses to calculate late enrollment penalties and income-related surcharges. Your real premium depends on which specific plan you choose and where you live.
+The national base beneficiary premium for 2026 is set at $36.78, up from $34.70 in 2025. That base figure isn't what most people actually pay. It's a benchmark the government uses to calculate [late enrollment penalties](/medicare-part-d-late-enrollment-penalty/) and income-related surcharges. Your real premium depends on which specific plan you choose and where you live.
 
 A few things are piling up at once. The Inflation Reduction Act of 2022 restructured Part D's benefit design significantly, including capping out-of-pocket drug costs at $2,000 annually starting in 2025. That protection is genuinely valuable, but insurance plans are now pricing in the added liability. Specialty drug costs, especially for GLP-1 medications like semaglutide, are straining plan formularies hard. Plans absorb more risk now, and premiums reflect that reality.
 
@@ -56,9 +56,18 @@ These surcharges are billed separately by Social Security, not by your plan. You
 
 ## How to Compare Plans the Right Way
 
+| 2024 Individual Income | 2024 Joint Income | 2026 IRMAA Surcharge (monthly) |
+|---|---|---|
+| Up to $106,000 | Up to $212,000 | $0 |
+| $106,001 to $133,000 | $212,001 to $266,000 | $13.70 |
+| $133,001 to $167,000 | $266,001 to $334,000 | $35.30 |
+| $167,001 to $200,000 | $334,001 to $400,000 | $57.00 |
+| $200,001 to $500,000 | $400,001 to $750,000 | $78.60 |
+| Above $500,000 | Above $750,000 | $85.80 |
+
 The single biggest mistake people make during Medicare's Open Enrollment Period (October 15 through December 7 each year) is focusing on the monthly premium alone. A $12-per-month plan sounds appealing until you realize it covers none of your four regular prescriptions at the preferred tier.
 
-Compare plans by total annual drug cost. Premium plus deductible plus your expected copays for your specific medications. That's what matters. Medicare.gov's Plan Finder tool does exactly this calculation for you. You enter your drugs and doses, and it ranks every available plan in your area by estimated total annual cost. It's free, takes about 15 minutes, and in my experience, the cheapest plan by total cost is almost never the one with the lowest premium.
+Compare plans by total annual drug cost. Premium plus deductible plus your expected copays for your specific medications. That's what matters. [Medicare.gov's Plan Finder tool](/comparing-medicare-part-d-plans/) does exactly this calculation for you. You enter your drugs and doses, and it ranks every available plan in your area by estimated total annual cost. It's free, takes about 15 minutes, and in my experience, the cheapest plan by total cost is almost never the one with the lowest premium.
 
 Here's how to do it:
 
@@ -73,7 +82,7 @@ If you'd rather have guided help, your State Health Insurance Assistance Program
 
 ## The $2,000 Cap and What It Changes for 2026
 
-The $2,000 annual out-of-pocket cap on Part D drug costs, introduced in 2025 as part of the Inflation Reduction Act, continues in 2026. This is genuinely the most significant improvement to Part D in years. Before this cap existed, people with expensive specialty medications faced catastrophic costs that could exceed $3,000 to $10,000 or more annually.
+The [$2,000 annual out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drug costs, introduced in 2025 as part of the Inflation Reduction Act, continues in 2026. This is genuinely the most significant improvement to Part D in years. Before this cap existed, people with expensive specialty medications faced catastrophic costs that could exceed $3,000 to $10,000 or more annually.
 
 What changes with the cap:
 

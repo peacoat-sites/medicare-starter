@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 Your neighbor just had a three-day hospital stay and paid almost nothing out of pocket. No surprise bills. No stressful phone calls with the insurance company afterward. She shrugs and says, "I have Plan G."
 
@@ -79,6 +79,14 @@ Here's the difference:
 That $240 annual Part B deductible is the only difference. In most markets, Plan G premiums run noticeably lower than Plan F premiums because fewer claims are processed. The math almost always favors Plan G when you add up the annual premium difference plus the Part B deductible and compare it to Plan F costs. Always run the numbers for your specific zip code, though, because premiums vary by location, age, and insurance company.
 
 ## How Much Does Plan G Cost?
+
+| Factor | Impact on Premium |
+|---|---|
+| Age | Increases with attained-age pricing; locked with issue-age pricing; same for all with community rating |
+| Location | Varies significantly by state, region, and local healthcare costs |
+| Insurance Company | Same Plan G can vary by hundreds of dollars annually between carriers |
+| Tobacco Use | Most states allow higher charges for smokers |
+| Gender | Women typically pay slightly lower premiums than men in most states |
 
 There's no single answer. Premiums depend on several factors.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Not directly. Medicare.gov shows current available plans and premiums in your area, but historical rate increase data lives in state insurance department filings. An independent insurance broker familiar with your state market can often give you a practical summary of which carriers have the most and least volatile rate histories."
  - q: "If I switch Medigap plans, do I lose any benefits I currently have?"
    a: "All standardized Medigap plan letters (G, N, F, etc.) have identical core benefits regardless of insurer. You won't lose coverage by switching from one company's Plan G to another's Plan G. The one exception: if you have a pre-2010 plan with benefits that are no longer available to new enrollees, like Plan F's full Part B deductible coverage, switching would mean giving that benefit up permanently."
+lastmod: 2026-07-07
 ---
 
 Your Medicare Supplement premium went up again. Maybe a little, maybe a lot. Either way, nobody warned you it would keep happening, and most of what you read online treats rate increases as a minor footnote instead of one of the biggest financial risks in Medicare planning. Let's fix that.
@@ -41,6 +42,12 @@ I've seen this pattern repeat with enough regularity that I'd call it predictabl
 
 ## How Rating Methods Change Everything
 
+| Rating Method | Age Factor | Rate Increase Pattern | Best For |
+| --- | --- | --- | --- |
+| Community-rated | No | Medical trend only (~5-8% annually) | Long-term budget stability |
+| Issue-age-rated | No | Applied to stable base | Moderate cost predictability |
+| Attained-age-rated | Yes, on every birthday | Medical trend + age factor (40-50% higher by age 80) | Younger enrollees only |
+
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -51,7 +58,7 @@ Three ways insurers price Medigap plans exist, and this is where most coverage c
 
 **Issue-age-rated** plans lock in a rate based on how old you were when you first enrolled. No additional age factor piles on top each year. You still see increases, but they're applied to a stable base.
 
-**Attained-age-rated** plans are the most common, and the riskiest for long-term budgeting. Your premium climbs with every birthday on top of whatever medical trend increase the insurer applies. When you're 70 it's manageable. By 78 or 80, you can be paying 40-50% more than you would on a community-rated plan that started at the same price.
+**Attained-age-rated** plans are the most common, and the riskiest for long-term budgeting. Your premium climbs with every birthday on top of whatever [medical trend increase](/average-medicare-costs-per-month/) the insurer applies. When you're 70 it's manageable. By 78 or 80, you can be paying 40-50% more than you would on a community-rated plan that started at the same price.
 
 Here's my contrarian take on this: most people pick plans primarily based on the current monthly premium, and that instinct is backwards. The rating method is a better predictor of your five-year cost than today's rate. A community-rated plan priced $30 higher per month at enrollment can easily save you thousands over a decade. Run the math before you assume the cheaper option is cheaper.
 

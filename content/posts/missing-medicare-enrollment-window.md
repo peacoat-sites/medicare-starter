@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 Most people assume Medicare enrollment is forgiving. Flexible. Sign up whenever, right? That assumption costs thousands of people real money every single year. Sometimes for the rest of their lives.
 
@@ -35,7 +35,7 @@ I spent years counseling seniors who had no idea a missed window could follow th
 
 Medicare runs on enrollment periods. Miss the right one, and you're not just waiting a little longer to sign up. You could be paying a higher premium every month for as long as you have Medicare coverage.
 
-The main one is the **Initial Enrollment Period (IEP)**: a 7-month window that starts 3 months before you turn 65, includes your birthday month, and runs 3 months after. Birthday in June? Your IEP runs March 1 through September 30. That's it. After that window closes, you're in different territory.
+The main one is the **[Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/)**: a 7-month window that starts 3 months before you turn 65, includes your birthday month, and runs 3 months after. Birthday in June? Your IEP runs March 1 through September 30. That's it. After that window closes, you're in different territory.
 
 What surprised me, even after years in this work, is how many people don't realize that "I didn't know" is not a valid excuse. Medicare doesn't have a "I was busy" waiver. The Social Security Administration (SSA), which handles most Part A and Part B enrollments, will not give you a pass because nobody told you. Period.
 
@@ -61,9 +61,18 @@ I sat across from someone once who delayed Part B for three years because they t
 
 ## When Delaying Is Actually Fine (The Special Enrollment Period)
 
+| Enrollment Period | Timeline | Coverage Start | Key Rules |
+| --- | --- | --- | --- |
+| Initial Enrollment Period (IEP) | 3 months before age 65 + birthday month + 3 months after | Varies by enrollment month | Primary window; missing triggers permanent penalties |
+| General Enrollment Period (GEP) | January 1 - March 31 each year | July 1 of same year | Backup option; 3-month gap before coverage begins |
+| Special Enrollment Period (SEP) | 8 months after qualifying event ends | Varies by situation | Available if actively employed with group health plan; no penalty |
+| Part A Late Penalty | N/A | N/A | 10% surcharge for twice the years delayed (if premium-required) |
+| Part B Late Penalty | N/A | N/A | 10% surcharge per 12-month period of delay |
+| Part D Late Penalty | N/A | N/A | 1% of national base premium ($34.70 in 2024) per month delayed |
+
 This is where precision matters. Getting this wrong is expensive.
 
-If you're still working at 65 and covered by an employer group health plan through your *own* (or your spouse's) *current* employment, you can delay Medicare Part B and Part D without penalty. When employment ends or coverage ends, you get a **Special Enrollment Period (SEP)** of 8 months to sign up for Part B.
+If you're still working at 65 and covered by an employer group health plan through your *own* (or your spouse's) *current* employment, you can delay Medicare Part B and Part D without penalty. When employment ends or coverage ends, you get a **[Special Enrollment Period (SEP)](/medicare-special-enrollment-period/)** of 8 months to sign up for Part B.
 
 The phrase "current employment" does a lot of work there. Retiree health coverage doesn't count. COBRA doesn't count. Coverage through a former employer doesn't count. It has to be active employment with an active group health plan.
 

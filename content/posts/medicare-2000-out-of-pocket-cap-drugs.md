@@ -23,11 +23,17 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 If you're taking a specialty drug for rheumatoid arthritis, multiple sclerosis, or cancer, you know exactly how fast the bills pile up. Before 2025, some Medicare Part D enrollees were paying $10,000, $15,000, sometimes more out of pocket on prescriptions in a single year, with nothing to stop it. That's over. Starting January 1, 2025, Medicare Part D caps what you'll ever pay out of pocket for covered drugs in a calendar year at $2,000. Full stop. If you've been white-knuckling through expensive drug costs or quietly skipping doses because you couldn't afford the refill, this is the change you've been waiting for.
 
 ## What the $2,000 Cap Actually Means (And What It Doesn't)
+
+| Phase | Deductible | Cost-Sharing | TrOOP Cap | Notes |
+| --- | --- | --- | --- | --- |
+| Deductible | Up to $590 (standard plans) | You pay 100% | Counts toward $2,000 | Many plans set lower deductibles |
+| Initial Coverage | After deductible | Copays/coinsurance | Counts toward $2,000 | Plan's formulary drugs only |
+| Catastrophic Coverage | N/A | You pay $0 | N/A | Kicks in after $2,000 TrOOP reached |
 
 Let me be direct. Once your total out-of-pocket spending on covered Part D drugs hits $2,000 in a calendar year, you pay nothing for the rest of that year. Zero. No copays, no coinsurance, nothing. Your coverage keeps going.
 
@@ -39,7 +45,7 @@ The cap also only applies to Part D prescription coverage. Medicare Part A (hosp
 
 ## How We Got Here: The Inflation Reduction Act
 
-This $2,000 cap didn't appear out of nowhere. It came from the Inflation Reduction Act, signed into law in August 2022, which overhauled Medicare drug coverage for the first time in roughly two decades. The law rolled out its changes in phases: a cap on insulin in 2023, changes to manufacturer discount programs in 2024, and the full $2,000 out-of-pocket cap in 2025.
+This $2,000 cap didn't appear out of nowhere. It came from the [Inflation Reduction Act](/medicare-part-d-coverage-gap/), signed into law in August 2022, which overhauled Medicare drug coverage for the first time in roughly two decades. The law rolled out its changes in phases: a cap on insulin in 2023, changes to manufacturer discount programs in 2024, and the full $2,000 out-of-pocket cap in 2025.
 
 Before this year, Part D included a coverage gap (people called it the "donut hole") and a catastrophic phase where seniors paid a percentage of drug costs with no upper limit. I've sat across from clients who hit the catastrophic phase thinking they'd finally caught a break, only to realize they were still on the hook for 5% of a $60,000 drug. Five percent doesn't sound like much until you do the math. The Inflation Reduction Act eliminated both the coverage gap and the unlimited catastrophic exposure entirely.
 

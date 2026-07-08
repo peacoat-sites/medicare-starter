@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 Fewer than half the people who qualify for Medicare Savings Programs are actually enrolled. It's been stuck that way for years, and it genuinely bothers me. These programs can save someone $2,000 a year or more, sometimes way more, yet most people who'd qualify have never heard of them.
 
@@ -32,6 +32,13 @@ If you're on Medicare and your income isn't high, keep reading. This might actua
 You might be wondering if this applies to you. Most people I talk to assume they make "too much" to get help with Medicare costs, or they've heard "Medicaid" and immediately thought it wasn't for them. I get that reaction. The way these programs are named and described in government materials is genuinely confusing. Let me start over and explain what we're actually talking about.
 
 ## What Medicare Savings Programs Actually Are
+
+| Program | Coverage | Key Feature |
+| --- | --- | --- |
+| QMB (Qualified Medicare Beneficiary) | Part A & B premiums, deductibles, coinsurance | Most comprehensive; providers cannot bill for cost-sharing |
+| SLMB (Specified Low-Income Medicare Beneficiary) | Part B premium only | Covers $174.70/month premium |
+| QI (Qualifying Individual) | Part B premium | Slightly higher income limit; requires annual reapplication |
+| QDWI (Qualified Disabled and Working Individuals) | Part A premium only | Limited to working individuals under 65 with disabilities |
 
 Medicare Savings Programs, or MSPs, are state-run programs funded jointly by states and the federal government. There are four of them, each designed to help people with limited income and resources pay for some or all of Medicare's costs. These aren't charity programs or handouts. They're benefits you've paid into the system to access.
 
@@ -51,7 +58,7 @@ Each program has income and resource limits that change annually. The [Centers f
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's something that trips people up. If you qualify for a Medicare Savings Program, you automatically qualify for Extra Help, which is the federal subsidy program for Medicare Part D prescription drug costs. Extra Help (officially called the Low Income Subsidy, or LIS) can reduce your Part D premiums, lower your deductible, and cap your drug copays at minimal levels. In 2024, the full Extra Help benefit caps most drug copays at $4.50 for generics and $11.20 for brand-name drugs.
+Here's something that trips people up. If you qualify for a Medicare Savings Program, you automatically qualify for [Extra Help](/medicare-extra-help-by-state/), which is the federal subsidy program for Medicare Part D prescription drug costs. Extra Help (officially called the Low Income Subsidy, or LIS) can reduce your Part D premiums, lower your deductible, and cap your drug copays at minimal levels. In 2024, the full Extra Help benefit caps most drug copays at $4.50 for generics and $11.20 for brand-name drugs.
 
 You don't have to apply for Extra Help separately if you're already enrolled in an MSP. Social Security is supposed to be notified automatically. That said, I always tell people to confirm this with their Part D plan directly, because the data handoff between agencies doesn't always work perfectly the first time.
 

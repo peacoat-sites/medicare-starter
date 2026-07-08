@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 You're staring at a pile of Medicare mail. One promises "$0 premiums and free dental!" The other looks like boring government stuff. You have no idea which one is actually Medicare.
 
@@ -40,6 +40,17 @@ Let's establish the basics first.
 Neither is universally better. That's the honest answer, and anyone claiming otherwise is usually selling something.
 
 ## How Coverage and Costs Actually Compare
+
+| Feature | Original Medicare | Medicare Advantage |
+|---|---|---|
+| Monthly premium | Part B premium only | Part B premium + plan premium (often $0) |
+| Out-of-pocket maximum | None | Required by law (varies by plan) |
+| Doctor network | Any doctor accepting Medicare, nationwide | Usually restricted network (HMO or PPO) |
+| Referrals needed | No | Often yes (HMO plans) |
+| Dental, vision, hearing | Not covered | Often included |
+| Prescription drugs | Separate Part D plan needed | Usually bundled in |
+| Travel coverage | Nationwide | Limited to network area (usually) |
+| Prior authorization | Rarely required | Common |
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

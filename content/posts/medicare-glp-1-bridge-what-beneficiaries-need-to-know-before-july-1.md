@@ -12,6 +12,7 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-glp-1-bridge-what-beneficiaries-need-to-know-before-july-1"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of the Medicare GLP-1 Bridge leads with the headline: starting July 1, 2026, Medicare will cover weight-loss drugs for the first time ever. What gets lost is the fine print that actually determines whether this helps you, and how much you'll pay. A few specific details could catch people off guard who think they've got it figured out.
 
@@ -43,6 +44,14 @@ If you hit the cap on other medications, you're still paying $50 a month for GLP
 
 ## Which Drugs Are Covered
 
+| Item | Bridge Coverage | Standard Part D | Notes |
+| --- | --- | --- | --- |
+| Copay amount | $50/month flat | Tiered by plan | No prior authorization required on Bridge |
+| Counts toward annual cap | No | Yes | Bridge copays stay outside the $2,100 cap |
+| Covered obesity GLP-1s | Wegovy, Zepbound (KwikPen), Foundayo | Varies by plan | Only these three qualify under Bridge |
+| Diabetes GLP-1s (Ozempic, Mounjaro) | No-stay under Part D | Yes | Prescribing indication determines coverage route |
+| Program duration | July 1, 2026-Dec 31, 2027 | Ongoing | Bridge is temporary demonstration only |
+
 Three medications only. Wegovy (semaglutide, injectable and oral), Zepbound in KwikPen form (tirzepatide, injectable), and Foundayo, which is Eli Lilly's newer GLP-1 pill. Standard diabetes GLP-1s like Ozempic, Mounjaro, and Rybelsus stay under normal Part D rules and aren't part of the Bridge, as the [Medicare Rights Center noted in their June 4 explainer](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026).
 
 If your doctor's been prescribing you Ozempic off-label for weight loss, that won't automatically switch to Bridge coverage. Your doctor would need to write a prescription for one of the three covered medications specifically for obesity.
@@ -59,7 +68,7 @@ Check what you're currently taking. If you're already on a GLP-1 for diabetes, n
 
 Call your Part D or Medicare Advantage plan with specific questions about how the Bridge works with your coverage. The [CMS beneficiary information page](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-medicare-beneficiaries) is the most straightforward source directly from the agency.
 
-One more: if your income is limited, check the Extra Help program (also called the Low Income Subsidy), which reduces Part D costs across the board. The National Council on Aging has solid guidance at NCOA.org.
+One more: if your income is limited, check the [Extra Help program](/what-the-2026-medicare-trustees-report-means-for-beneficiaries/) (also called the Low Income Subsidy), which reduces Part D costs across the board. The National Council on Aging has solid guidance at NCOA.org.
 
 The GLP-1 Bridge is genuinely historic. Medicare has never covered drugs prescribed solely for obesity until now, and $50 a month for Wegovy or Zepbound is a real reduction from what many people have been paying out of pocket. But it's temporary and limited, with a cost structure that works differently from the rest of Part D. Getting those distinctions straight now puts you in a much better position to use it when it starts. A conversation with your doctor and a benefits counselor before launch is the right call.
 

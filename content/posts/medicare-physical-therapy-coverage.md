@@ -23,6 +23,7 @@ faqs:
     a: "Yes, if you're homebound (meaning leaving home is difficult or impossible). Your doctor has to order it, and it's usually covered under Part B as an outpatient service. Some Advantage plans require pre-auth for home visits. This is a good question to confirm with your plan before scheduling."
   - q: "What happens if I've used all my visits and still need therapy?"
     a: "Once you hit the $2,310 annual cap, Medicare stops paying. You can continue therapy if you pay out of pocket, which typically runs $100 to $150 per visit. Some therapists will negotiate a self-pay rate. If you believe you need more therapy and the cap has prevented medically necessary care, you can request an exception from your plan (Advantage) or appeal to Medicare (Original). Success isn't guaranteed, but it's worth asking."
+lastmod: 2026-07-07
 ---
 
 A reader emailed me last month asking whether she could get physical therapy covered after hip surgery. She'd already gotten the green light from her surgeon, but when she called her Medicare plan to ask about it, the person on the phone said something vague about "medically necessary" and "needing approval first," and she hung up more confused than when she started. I get calls like this every week. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.
@@ -39,13 +40,18 @@ Here's the part that trips people up: as of 2026, there's an annual cap on outpa
 
 ## Your Plan Type Affects What You Actually Get
 
+| Plan Type | Deductible | Medicare Pays | You Pay | Pre-Auth Required |
+| --- | --- | --- | --- | --- |
+| Original Medicare + Medigap | $240 (Part B) | 80% | 20% (typically covered by Medigap) | Usually no |
+| Medicare Advantage | Varies by plan | Varies by plan | Varies by plan | Often yes |
+
 > **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
-If you have Original Medicare and a Medigap (supplement) plan, you'll have more straightforward coverage. Original Medicare pays 80 percent of the cost after you've met your Part B deductible (which for 2026 is $240). Your Medigap plan typically covers that 20 percent coinsurance, depending on which plan you have. Plan G and Plan N are popular because they cover most out-of-pocket costs, though they cost more upfront.
+If you have [Original Medicare and a Medigap](/medicare-advantage-vs-medicare-supplement-total-cost/) (supplement) plan, you'll have more straightforward coverage. Original Medicare pays 80 percent of the cost after you've met your Part B deductible (which for 2026 is $240). Your Medigap plan typically covers that 20 percent coinsurance, depending on which plan you have. Plan G and Plan N are popular because they cover most out-of-pocket costs, though they cost more upfront.
 
-Medicare Advantage plans (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. I tested this last year when a friend switched to an Advantage plan and found out her plan required physical therapy to be ordered through a primary care physician first, which added a two-week delay to her treatment. That's not a Medicare rule; that's her plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.
+[Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/) (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. I tested this last year when a friend switched to an Advantage plan and found out her plan required physical therapy to be ordered through a primary care physician first, which added a two-week delay to her treatment. That's not a Medicare rule; that's her plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.
 
 ## Getting Pre-Authorization and Finding a Provider
 

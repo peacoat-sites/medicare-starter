@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 You've just turned 65. Your mailbox is full of insurance brochures. Three different agents have each sworn their company is "the best." One's quoting $112 a month. Another wants $187. A third is asking for $203. And here's the kicker: all three are offering identical coverage.
 
@@ -46,6 +46,14 @@ But if the benefits are identical, why does the company matter? Several reasons.
 If Medicare itself still feels fuzzy, our guide on [how Medicare works](/how-does-medicare-work/) is the right foundation before comparing carriers.
 
 ## How to Judge a Medicare Supplement Company
+
+| Factor | What to Look For | Why It Matters |
+| --- | --- | --- |
+| AM Best Rating | A (Excellent) or better; A- acceptable | Ensures financial strength to pay claims long-term |
+| NAIC Complaint Ratio | 1.0 or below (industry median) | Indicates customer service reliability |
+| Rate Increase History | Ask carrier directly for 5-year average | Reveals premium stability and predictability |
+| Plan Availability | Confirm coverage in your state | Not all companies sell everywhere |
+| Regional Pricing | Get quotes in your ZIP code | Same plan varies 50%+ between carriers |
 
 Before I list names, here's the evaluation framework I've used with clients for years. Reputation alone isn't enough. Four specific factors matter.
 

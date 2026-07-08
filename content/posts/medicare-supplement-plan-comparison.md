@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 Your kitchen table looks like a war zone. Stacks of mailers from insurance companies, each one swearing their Plan G is the gold standard, another insisting Plan N will save you a fortune, a third that doesn't even bother explaining what the letters mean. You're 64, retirement is three months away, and you have no idea what any of this means.
 
@@ -35,7 +35,7 @@ Original Medicare (Part A for hospital stuff, Part B for doctors and outpatient 
 
 Medicare Supplement insurance, also called Medigap, is where a private insurer steps in to cover some or all of those leftover costs. You pay a monthly premium. In return, they fill in the "gaps" Original Medicare leaves behind. That's literally where the name comes from.
 
-Here's where people get confused: Medigap is not Medicare Advantage. Medicare Advantage replaces Original Medicare entirely with a private plan, usually an HMO or PPO with network restrictions. Medigap works alongside Original Medicare. You keep your Medicare card. You use it everywhere. Then your Medigap policy covers what's left. Totally different things.
+Here's where people get confused: [Medigap is not Medicare Advantage](/medigap-vs-medicare-advantage/). Medicare Advantage replaces Original Medicare entirely with a private plan, usually an HMO or PPO with network restrictions. Medigap works alongside Original Medicare. You keep your Medicare card. You use it everywhere. Then your Medigap policy covers what's left. Totally different things.
 
 I've watched clients spend months comparing Advantage plans and Medigap plans at the same time, thinking they were the same product. Get that distinction clear first.
 
@@ -50,6 +50,14 @@ The standardized plans you'll see most are A, B, D, G, K, L, M, and N. Plans C a
 Three states run their own systems instead: Massachusetts, Minnesota, and Wisconsin. If you're in one of those, your state insurance department is your best resource.
 
 ## The Plans Worth Comparing Most Closely: G, N, and K/L
+
+| Plan | Part A Deductible | Part B Coinsurance | Part B Excess Charges | ER Copayment | Monthly Premium |
+| --- | --- | --- | --- | --- | --- |
+| Plan G | Covered | Covered | Covered | Not applicable | Higher |
+| Plan N | Not covered | Covered | Not covered | Up to $50 | Lower |
+| Plan K | 50% of costs | 50% of costs | Not covered | Not applicable | Lowest |
+| Plan L | 75% of costs | 75% of costs | Not covered | Not applicable | Low |
+| High-Deductible Plan G | Covered (after ~$2,800 deductible) | Covered | Covered | Not applicable | Much lower |
 
 Most people shopping for Medigap narrow it down to two or three plans quickly. Here's what actually matters.
 

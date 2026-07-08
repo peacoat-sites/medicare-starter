@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 Every year, around December 8th, my phone starts ringing off the hook. People who realized, sometimes only hours too late, that they missed Medicare's Open Enrollment Period. The panic in their voices is real, and I understand it completely. If that's where you are right now, take a breath. You're not the first person to sit in this exact spot, and your situation is almost certainly not as catastrophic as it feels right now.
 
@@ -31,11 +31,18 @@ I'm going to walk you through what actually happens when you miss open enrollmen
 
 ## First, Which Enrollment Period Did You Actually Miss?
 
+| Enrollment Period | Dates | Who Can Use | What You Can Change |
+| --- | --- | --- | --- |
+| Medicare Open Enrollment Period | October 15 - December 7 | Existing Medicare beneficiaries | Switch between Original Medicare and Medicare Advantage; change Part D drug plan; drop Medicare Advantage |
+| Medicare Advantage Open Enrollment Period | January 1 - March 31 | Medicare Advantage enrollees | Switch between Medicare Advantage plans; drop Medicare Advantage for Original Medicare |
+| General Enrollment Period | January 1 - March 31 | Those who didn't sign up for Part B when first eligible | Enroll in Part B (coverage starts July 1) |
+| Initial Enrollment Period | 3 months before to 3 months after 65th birthday | Newly eligible for Medicare at 65 | Enroll in Parts A, B, and/or D |
+
 This is the question I always start with, because "open enrollment" means different things to different people, and Medicare has several enrollment windows that are easy to confuse.
 
 The one most people mean when they call me in a panic is the **Medicare Open Enrollment Period**, which runs October 15 through December 7 each year. This is when existing Medicare beneficiaries can switch between Original Medicare (Parts A and B) and Medicare Advantage (Part C), change their Part D prescription drug plan, or drop a Medicare Advantage plan and go back to Original Medicare. Missing this window doesn't lock you out of Medicare entirely. It means you're stuck with your current plan for another year, which is frustrating, but manageable.
 
-What you might have missed instead is the **Initial Enrollment Period**, which is the seven-month window surrounding your 65th birthday (three months before, the month of, and three months after). That's a different situation with different consequences, and I'll cover it separately below.
+What you might have missed instead is the **[Initial Enrollment Period](/medicare-initial-enrollment-period/)**, which is the seven-month window surrounding your 65th birthday (three months before, the month of, and three months after). That's a different situation with different consequences, and I'll cover it separately below.
 
 Or maybe you're thinking of the **General Enrollment Period**, which runs January 1 through March 31 each year. This one's specifically for people who didn't sign up for Part B (Medicare's outpatient coverage) when they were first eligible.
 
@@ -51,7 +58,7 @@ You had a Medicare Advantage plan or a Part D drug plan and wanted to change it,
 
 So if you're a Medicare Advantage enrollee reading this in January or February, you're not actually stuck. You still have a window.
 
-If you're on Original Medicare and wanted to add or change a standalone Part D drug plan, that's where January through March doesn't help you as much. You'd generally need to wait until the next fall open enrollment unless you qualify for a Special Enrollment Period.
+If you're on Original Medicare and wanted to add or change a standalone Part D drug plan, that's where January through March doesn't help you as much. You'd generally need to wait until the next fall open enrollment unless you qualify for a [Special Enrollment Period](/medicare-special-enrollment-period/).
 
 ## Special Enrollment Periods: The Escape Hatch Most People Don't Know About
 
@@ -74,7 +81,7 @@ I've had people call me convinced they were completely locked out, and within te
 
 This is the one I take more seriously, because the consequences are different and the stakes are higher.
 
-If you turned 65, didn't sign up for Part B during your Initial Enrollment Period, and didn't have creditable coverage through an employer or union, you're looking at two things: a coverage gap and a permanent late enrollment penalty.
+If you turned 65, didn't sign up for Part B during your Initial Enrollment Period, and didn't have creditable coverage through an employer or union, you're looking at two things: a coverage gap and a permanent [late enrollment penalty](/medicare-late-enrollment-penalty/).
 
 The coverage gap is real. You'd have to wait for the General Enrollment Period (January 1 through March 31) to sign up for Part B, with coverage starting July 1 of that year. Months without outpatient coverage. It's uncomfortable.
 

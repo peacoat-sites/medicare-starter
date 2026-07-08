@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 Most people assume Medicare is just... Medicare. Federal program, same rules everywhere, one-size-fits-all. I believed that too, until I started really digging into how the program actually plays out state by state. Texas, it turns out, is one of the most interesting cases in the country, and not always in a good way.
 
@@ -35,7 +35,7 @@ I've talked with hundreds of Texas seniors over the years, and the same misunder
 
 Original Medicare, meaning Parts A and B, is federal. The coverage rules don't change whether you're in El Paso or Beaumont. Part A is your hospital insurance. Part B covers doctor visits, outpatient services, preventive care, and durable medical equipment. In 2024, the standard Part B premium is $174.70 per month, though that can be higher depending on your income.
 
-What changes in Texas is everything that sits around Original Medicare: the supplemental plans, the Medicare Advantage options, the drug plans, and the state-specific assistance programs. That's where Texas diverges, and that's where most of the confusion lives.
+What changes in Texas is everything that sits around Original Medicare: the supplemental plans, the Medicare Advantage options, the drug plans, and the [state-specific assistance programs](/state-medicare-savings-programs/). That's where Texas diverges, and that's where most of the confusion lives.
 
 Original Medicare has no out-of-pocket maximum. None. If you get seriously ill, your costs under just Part A and B could spiral. That's why almost everyone needs something on top of it.
 
@@ -43,7 +43,7 @@ Original Medicare has no out-of-pocket maximum. None. If you get seriously ill, 
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Texas is a massive market, and insurance companies know it. In the Houston metro area alone, beneficiaries typically have access to 60 or more Medicare Advantage plans. Dallas-Fort Worth, San Antonio, and Austin aren't far behind. Even in less densely populated areas of West Texas or the Panhandle, you'll usually find several competitive options.
+Texas is a massive market, and insurance companies know it. In the Houston metro area alone, beneficiaries typically have access to 60 or more [Medicare Advantage plans](/best-medicare-plans-in-california-2026/). Dallas-Fort Worth, San Antonio, and Austin aren't far behind. Even in less densely populated areas of West Texas or the Panhandle, you'll usually find several competitive options.
 
 Medicare Advantage (also called Part C) is the all-in-one alternative to Original Medicare. You get your Part A and B coverage through a private insurer instead of directly through the federal government, and most plans bundle Part D (prescription drug coverage) along with extras like dental, vision, and hearing. Many Texas MA plans carry $0 monthly premiums.
 
@@ -62,6 +62,14 @@ Prices vary wildly. A Plan G policy for a 65-year-old woman in Austin might run 
 Texas has what's called a "Birthday Rule" that deserves mention. As of 2024, Texas passed legislation (effective June 2023) establishing a Birthday Rule similar to California's: during a 60-day window starting on your birthday each year, you can switch from one Medigap plan to a plan with equal or lesser benefits without medical underwriting. That means you can potentially switch to a cheaper Plan G from another company without answering health questions. This is a genuinely useful protection that doesn't exist in most states.
 
 ## Part D Prescription Drug Coverage in Texas
+
+| Plan Type | Coverage Type | Out-of-Pocket Maximum | Key Feature |
+| --- | --- | --- | --- |
+| Original Medicare (A & B) | Federal, standardized | None | Part B premium $174.70/month (2024); no OOP cap |
+| Medicare Advantage (Part C) | Private insurance alternative | Varies by plan | Often $0 premium; includes Part D, dental, vision, hearing |
+| Medigap Plan G | Supplemental coverage | N/A | Most comprehensive for new beneficiaries; $120-$190/month (Austin example) |
+| Medigap Plan N | Supplemental coverage | N/A | Lower-cost alternative with some copays |
+| Part D (Standalone) | Prescription drug | $8,000 (2024) | 20-30 plans available; premiums $7-$100+/month |
 
 Part D plans are where I see the most "set it and forget it" behavior, and it costs people real money. Texas beneficiaries have access to somewhere between 20 and 30 standalone Part D plans in most regions. Premiums range from around $7 to well over $100 a month, and the formularies (the list of covered drugs) are completely different across plans.
 

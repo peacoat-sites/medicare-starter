@@ -23,6 +23,7 @@ faqs:
    a: "Many do offer some dental and vision benefits, but the coverage varies enormously. Some plans offer meaningful benefits; others offer limited preventive care only with significant restrictions on major procedures. Always read the actual plan documents, not just the marketing summary, before counting on those benefits in your cost comparison."
  - q: "Should I use an insurance broker to compare plans, or do it myself?"
    a: "An independent broker who works with multiple carriers can be genuinely helpful, and their services are typically free to you (they're paid by commissions from the plans). The key word is 'independent.' A captive agent who sells only one company's plans can't give you a full comparison. For a truly unbiased perspective, pair a broker with a SHIP counselor consultation."
+lastmod: 2026-07-07
 ---
 
 Most people spend more time picking a Netflix plan than comparing their Medicare options. I'll be honest: I spent years watching that pattern play out, and it still frustrates me. Because the stakes here aren't $15 a month. They're your savings, your health, and whether you can afford to see the doctors you trust.
@@ -33,9 +34,9 @@ So let me walk you through how I actually compare Medicare plan costs, including
 
 ## The Numbers That Actually Matter (And the Ones That Don't)
 
-Before you can compare anything, you need to understand what you're comparing. Medicare has four basic parts: Part A (hospital insurance), Part B (medical insurance), Part C (Medicare Advantage, which bundles A, B, and often D together), and Part D (prescription drug coverage). Most people I counsel are choosing between Original Medicare (Parts A and B, often paired with a Medigap supplement and a Part D plan) and Medicare Advantage (Part C).
+Before you can compare anything, you need to understand what you're comparing. Medicare has four basic parts: Part A (hospital insurance), Part B (medical insurance), Part C (Medicare Advantage, which bundles A, B, and often D together), and Part D (prescription drug coverage). Most people I counsel are choosing between Original Medicare (Parts A and B, often paired with a Medigap supplement and a [Part D plan](/average-medicare-costs-per-month/)) and Medicare Advantage (Part C).
 
-Here's what surprised me the first time I mapped out the real cost structure: Original Medicare, on its own, has no out-of-pocket maximum. None. A catastrophic illness could cost you $50,000 or more in a bad year. Medicare Advantage plans, by contrast, are required to cap your annual out-of-pocket spending. In 2026, that cap can be as high as $9,350 for in-network services, but many plans set it lower.
+Here's what surprised me the first time I mapped out the real cost structure: Original Medicare, on its own, has no [out-of-pocket maximum](/does-medicare-cover-100-percent/). None. A catastrophic illness could cost you $50,000 or more in a bad year. Medicare Advantage plans, by contrast, are required to cap your annual out-of-pocket spending. In 2026, that cap can be as high as $9,350 for in-network services, but many plans set it lower.
 
 The numbers you absolutely must compare across any plans you're considering:
 
@@ -56,6 +57,15 @@ That reframe alone changes everything.
 Check our [Medicare plan comparison guide](/medicare-plan-comparison) to see how different plan types stack up across all these cost dimensions.
 
 ## How to Actually Run the Numbers
+
+| Cost Component | Original Medicare + Plan G + Part D | Medicare Advantage ($0 Premium) |
+| --- | --- | --- |
+| Monthly Premium | $235 ($198 Medigap + $37 Part D) | $0 |
+| Annual Premium Cost | $2,820 | $0 |
+| Typical Year Out-of-Pocket (Carol's example) | ~$0 (Plan G covers most costs after deductibles) | ~$2,820 |
+| Out-of-Pocket Maximum | N/A (Plan G covers costs) | $7,900 |
+| Worst-Case Annual Cost | ~$2,844 | ~$8,700 |
+| Typical Year Out-of-Pocket (Robert's example) | ~$2,820 (premiums only) | ~$340 (copays + drugs) |
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

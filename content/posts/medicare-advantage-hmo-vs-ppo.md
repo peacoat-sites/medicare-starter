@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 It's October, and you're sitting at your kitchen table staring at a pile of Medicare plan brochures. Two of them look almost identical: same monthly premium, same star rating. One says "HMO" and the other says "PPO." You pick the wrong one, and by January you're getting unexpected bills or you can't see the specialist you've been going to for years. This happens thousands of times during the Medicare Open Enrollment Period (October 15 through December 7), and it's almost always avoidable if you know what to look for upfront.
 
@@ -82,7 +82,7 @@ Sometimes a table cuts through more confusion than three paragraphs:
 | Best for | People with stable local care needs | People who travel, have out-of-network providers, or want flexibility |
 | Care coordination | Stronger (centralized through PCP) | More self-directed |
 
-Always look up the annual out-of-pocket maximum for any plan you're considering. Medicare Advantage plans must cap your out-of-pocket costs, but the cap differs between plans and between in-network and out-of-network services on PPOs. AARP's Medicare resource center has solid guidance on understanding these limits and why they matter for budgeting your healthcare year.
+Always look up the annual out-of-pocket maximum for any plan you're considering. Medicare Advantage plans must cap your out-of-pocket costs, but the cap differs between plans and between in-network and out-of-network services on PPOs. [AARP's Medicare resource center](/medicare-advantage-out-of-pocket-maximum/) has solid guidance on understanding these limits and why they matter for budgeting your healthcare year.
 
 ## How to Choose: A Practical Step-by-Step Approach
 

@@ -12,6 +12,7 @@ author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicares-obesity-drug-breakthrough-launches-july-1-what-seniors-need-"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Starting this week, something genuinely historic happens in Medicare. For the first time ever, the government is covering weight-loss medications, and you might qualify for Wegovy, Zepbound, or Foundayo at just $50 a month. But here's what I'm seeing: about 82% of eligible seniors have no idea this is even available. The rollout began quietly on July 1, 2026, partly by design. Medicare wanted to avoid overwhelming doctors' offices and pharmacies all at once, but that means the people who'd benefit most might miss the window entirely.
@@ -19,6 +20,16 @@ Starting this week, something genuinely historic happens in Medicare. For the fi
 If you've struggled with weight and also have heart disease, high blood pressure, diabetes, or chronic kidney disease, this could genuinely change things for you. The program runs through December 2027, and it's structured as a temporary 18-month demonstration to see how well it works. The thing is, there are some real eligibility rules and some surprises buried in the details that could affect whether you can actually access these medications. Let me walk you through what's real, what's not quite as simple as it sounds, and what you need to do next.
 
 ## Who Actually Qualifies
+
+| Criterion | Requirement |
+| --- | --- |
+| BMI | 27 or higher (with qualifying condition) OR 30 or higher (alone) |
+| Qualifying Conditions | Type 2 diabetes, pre-diabetes, established cardiovascular disease, high blood pressure, or chronic kidney disease (stages 3-4) |
+| Part D Enrollment | Required |
+| Monthly Copay | $50 |
+| Program Duration | July 1, 2026 - December 31, 2027 |
+| Eligible Medications | Wegovy, Zepbound, Foundayo |
+| Ineligible Population | Extra Help (Low-Income Subsidy) recipients |
 
 This isn't just for anyone who wants to lose weight. Medicare's GLP-1 Bridge program has specific requirements, and you need to meet them to get that $50 monthly copay. You have to be enrolled in a Medicare Part D prescription drug plan, which is pretty standard for most people on Medicare. But then it gets narrower.
 
@@ -44,7 +55,7 @@ You're not going to find a banner on your insurance card or a letter in the mail
 
 If your doctor agrees it's worth trying, the next step is confirming with your pharmacy and your Part D plan that you're actually eligible and enrolled correctly. Different Part D plans might have slightly different formularies or requirements, so a five-minute call to your plan's pharmacy support line can save a lot of frustration. You want to make sure the medication is on your plan's covered list and that the $50 copay is actually going to apply to you.
 
-There's one more thing worth knowing: you can find official information at Medicare.gov, and there's also a helpful resource through the Medicare Rights Center (a nonprofit organization that's been advising seniors for decades). They have details on their website about the demonstration, and they can answer specific questions about your situation. If you're ever unsure, a benefits counselor through your State Health Insurance Assistance Program, known as SHIP, can walk through your eligibility for free.
+There's one more thing worth knowing: you can find official information at [Medicare.gov](/medicare-glp-1-bridge-how-to-get-weight-loss-drugs-for-50/), and there's also a helpful resource through the Medicare Rights Center (a nonprofit organization that's been advising seniors for decades). They have details on their website about the demonstration, and they can answer specific questions about your situation. If you're ever unsure, a benefits counselor through your State Health Insurance Assistance Program, known as SHIP, can walk through your eligibility for free.
 
 ## What This Means for Your Health Decisions
 

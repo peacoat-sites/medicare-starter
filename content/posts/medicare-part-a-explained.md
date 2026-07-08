@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 You're 64, six months from retirement, and someone asks: "Do you have hospital coverage?" You pause. Medicare's coming, sure, but the details feel foggy. Part A rings a bell, but what does it actually cover? Will you pay for it? What happens if you miss a deadline? That fog is more common than you'd think, and it costs people real money. Let me walk you through Medicare Part A so you can step into retirement actually knowing what you have.
 
@@ -44,6 +44,14 @@ Part A pays for inpatient hospital care (after a doctor formally admits you), sk
 One thing trips people up: observation status. If you're in the hospital but not formally admitted as an inpatient, Medicare treats you as an outpatient, even for overnight stays. This matters because observation time doesn't count toward the three-day SNF requirement, and your cost-sharing falls under Part B, not Part A. Always ask your care team whether you're actually admitted.
 
 ## How Much Does Part A Cost?
+
+| Coverage Type | Days 1-20 | Days 21-100 | Beyond Day 100 |
+| --- | --- | --- | --- |
+| Inpatient Hospital (after deductible) | Fully covered | Coinsurance per day | You pay all costs |
+| Skilled Nursing Facility | Fully covered | Coinsurance per day | You pay all costs |
+| Lifetime Reserve Days | Available (60 total, lifetime) | Coinsurance per day | Exhausted |
+
+*Note: A benefit period for inpatient hospital care ends after 60 consecutive days outside the hospital without SNF care. SNF stays have separate day limits. Costs and coinsurance amounts update yearly; see Medicare.gov for current figures.*
 
 Here's the good news: most people pay $0 for Part A premiums. You paid Medicare taxes during your working years, so you've already earned this coverage.
 
@@ -77,9 +85,9 @@ Part A doesn't operate alone. How it fits with the rest of your Medicare matters
 
 **Part B** is medical insurance for doctor visits, outpatient procedures, lab work, and preventive care. Parts A and B together are Original Medicare, and most people sign up for both at the same time.
 
-**Medicare Advantage (Part C)** plans from private insurers approved by Medicare technically keep your Parts A and B, but the plan delivers your benefits. Your hospital stays follow the plan's rules, which might include different cost-sharing, prior auth requirements, and network restrictions.
+**[Medicare Advantage (Part C)](/medicare-part-c-explained/)** plans from private insurers approved by Medicare technically keep your Parts A and B, but the plan delivers your benefits. Your hospital stays follow the plan's rules, which might include different cost-sharing, prior auth requirements, and network restrictions.
 
-**Medicare Supplement (Medigap) plans** fill Original Medicare's cost-sharing gaps. Since Part A's deductible applies per benefit period and daily coinsurance for long stays adds up fast, many people find Medigap worth the monthly premium. Each standardized plan letter (like Plan G) is identical no matter which insurer sells it.
+**[Medicare Supplement (Medigap) plans](/what-does-medicare-part-a-and-b-cover-for-seniors/)** fill Original Medicare's cost-sharing gaps. Since Part A's deductible applies per benefit period and daily coinsurance for long stays adds up fast, many people find Medigap worth the monthly premium. Each standardized plan letter (like Plan G) is identical no matter which insurer sells it.
 
 **Part D** covers prescription drugs. Original Medicare covers drugs administered in hospitals, but not pills from a pharmacy. You'll need Part D or a Medicare Advantage plan with drug coverage.
 

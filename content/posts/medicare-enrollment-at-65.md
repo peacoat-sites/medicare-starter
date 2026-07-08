@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 Most people miss their Medicare enrollment window not because they're careless, but because the rules are genuinely confusing and the official guidance buries the deadline math in bureaucratic language. Let me fix that.
 
@@ -32,6 +32,14 @@ You turn 65. You have exactly seven months to sign up for Medicare without penal
 That's not a scare tactic. That's the actual rule, and it catches people every year.
 
 ## The Parts, Briefly
+
+| Coverage Type | Premium (2024) | What It Covers |
+| --- | --- | --- |
+| Part A | Up to $505/month (if not premium-free) | Hospital stays, skilled nursing facility care, some home health services |
+| Part B | $174.70/month (standard; higher for IRMAA) | Doctor visits, lab work, preventive services, durable medical equipment |
+| Part D | Varies by plan | Prescription drugs |
+| Part C (Advantage) | Often $0 upfront | Parts A, B, and usually D bundled by private insurer; may include dental, vision |
+| Medigap (Plan G example) | $150-$200/month | Supplements Original Medicare coverage; varies by plan and state |
 
 Medicare has four main pieces, and conflating them is where most confusion starts.
 
@@ -57,7 +65,7 @@ Now, the big exception: if you're still working at 65 and covered by an employer
 
 I've talked to people who assumed their retiree coverage bought them extra time. It doesn't. The window still starts at 65.
 
-When you eventually leave that qualifying employer coverage, you get a Special Enrollment Period (SEP) of eight months to sign up for Part B without penalty. Don't wait for the COBRA period to expire to start that clock, though. The eight months runs from when the employment or coverage ends, whichever comes first.
+When you eventually leave that qualifying employer coverage, you get a [Special Enrollment Period](/medicare-special-enrollment-period/) (SEP) of eight months to sign up for Part B without penalty. Don't wait for the COBRA period to expire to start that clock, though. The eight months runs from when the employment or coverage ends, whichever comes first.
 
 ## The IRMAA Trap Most People Don't See Coming
 
@@ -71,7 +79,7 @@ The fix: you can appeal IRMAA if you've had a "life-changing event" like retirem
 
 Choosing how to structure your coverage is separate from enrollment, but it's tangled up in timing because of one rule that doesn't get nearly enough attention.
 
-When you first enroll in Part B, you have a six-month Medigap Open Enrollment Period. During those six months, any Medicare Supplement (Medigap) insurer licensed in your state must sell you a policy at standard rates, regardless of your health history. Pre-existing conditions can't affect your acceptance or your price.
+When you first enroll in Part B, you have a [six-month Medigap Open Enrollment Period](/medicare-open-enrollment-period/). During those six months, any Medicare Supplement (Medigap) insurer licensed in your state must sell you a policy at standard rates, regardless of your health history. Pre-existing conditions can't affect your acceptance or your price.
 
 After that window closes, insurers in most states can reject you, or charge you dramatically more, based on your health. There's no annual re-enrollment period for Medigap the way there is for Advantage or Part D. Once you're locked out, you're often locked out.
 

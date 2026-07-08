@@ -23,9 +23,10 @@ faqs:
    a: "More than most people realize. Some states cover additional benefits, have higher income limits, or have eliminated the asset test entirely. The federal rules are a floor, not a ceiling. A SHIP counselor in your state will know exactly what your state offers beyond the federal minimum."
  - q: "If I qualify for QMB, can providers still send me to collections for Medicare cost-sharing?"
    a: "They shouldn't, and you have recourse if they do. QMB prohibits providers from billing you for Medicare cost-sharing. If you receive a bill or a collections notice for charges QMB should have covered, contact your State Medicaid office and file a complaint. You can also call 1-800-MEDICARE. Don't just pay it because the bill showed up."
+lastmod: 2026-07-07
 ---
 
-A woman called me a few years ago, nearly in tears. She'd been paying her Medicare Part B premium every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.
+A woman called me a few years ago, nearly in tears. She'd been paying her Medicare [Part B premium](/medicare-part-b-premium-2026/) every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.
 
 That's the thing about Medicare Savings Programs (MSPs). They're not hidden exactly, but nobody sends you a letter that says "Hey, you qualify for this, here's how to sign up." You have to find them yourself, or know someone who'll tell you. Consider me that someone.
 
@@ -43,6 +44,13 @@ The fourth, **Qualified Disabled and Working Individuals (QDWI)**, is narrow. It
 
 ## The Income and Asset Limits (And Why They're Not as Strict as You Think)
 
+| Program | Primary Benefit | Income Level | Best For |
+| --- | --- | --- | --- |
+| Qualified Medicare Beneficiary (QMB) | Covers Part A premium, Part B premium, deductibles, copays, coinsurance | ~$1,275/month individual, ~$1,720/month couple | Comprehensive cost-sharing coverage |
+| Specified Low-Income Medicare Beneficiary (SLMB) | Covers Part B premium (~$185/month) | Slightly higher than QMB | Premium assistance only |
+| Qualifying Individual (QI) | Covers Part B premium | Slightly higher than SLMB | Premium assistance; funding subject to appropriations |
+| Qualified Disabled and Working Individuals (QDWI) | Covers Part A premium | Varies; under 65, disabled | Disabled individuals who lost Medicare due to work |
+
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -59,7 +67,7 @@ Some states have eliminated asset tests for MSPs entirely. Connecticut, for exam
 
 This is where people get tripped up. MSPs aren't administered by Medicare. They're administered by your state Medicaid agency. Which means you apply there, not through Social Security, not through Medicare.gov. Go to your state's Medicaid office or department of health services.
 
-That said, Social Security offices can take MSP applications too, because QMB enrollment also automatically enrolls you in Medicare's Extra Help program (which helps pay for Part D prescription drug costs). So there's overlap in some administrative pathways, but the cleanest route is usually your state Medicaid office.
+That said, Social Security offices can take MSP applications too, because QMB enrollment also automatically enrolls you in Medicare's Extra Help program (which helps pay for [Part D prescription drug costs](/how-much-does-medicare-part-b-cost-in-2026/)). So there's overlap in some administrative pathways, but the cleanest route is usually your state Medicaid office.
 
 What you'll need when you apply: proof of identity, proof of Medicare enrollment, proof of income (Social Security statements, pension letters, any income sources), and documentation of your assets if your state requires it. The application itself isn't terribly complicated. I'd describe it as "thorough but doable."
 

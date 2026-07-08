@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 Your neighbor paid almost nothing out of pocket after her knee replacement. Your cousin paid thousands for the exact same surgery. Both have Medicare. Same program, wildly different bills.
 
@@ -58,7 +58,7 @@ Here's what the most popular plans actually cover:
 | Skilled nursing facility coinsurance | No | Yes | 50% | Yes |
 | Part A deductible | No | Yes | 50% | Yes |
 | Part B deductible | No | No | No | No |
-| Part B excess charges | No | Yes | No | No |
+| [Part B excess charges](/how-much-does-medicare-part-b-cost-in-2026/) | No | Yes | No | No |
 | Foreign travel emergency | No | Yes (80%) | No | Yes (80%) |
 | Out-of-pocket limit (2024) | None | None | ~$7,060 | None |
 

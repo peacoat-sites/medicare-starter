@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 Your 65th birthday's coming. You've enrolled in Medicare Part B (doctor visits, outpatient care), and your neighbor just told you she got denied for a Medigap policy because of her diabetes. *Could that happen to you?* 
 
@@ -71,7 +71,7 @@ I've talked to countless people who put it off. They felt fine. Didn't think the
 
 Original Medicare has real gaps. Part A has a deductible per benefit period (not per year) with no out-of-pocket cap. Part B covers 80% of approved charges; you pay the other 20%, forever, no annual limit. A serious diagnosis or surgery can generate $50,000 in that 20%.
 
-Here's what matters: Medigap plans are standardized by the federal government. Plan G from Company A covers exactly what Plan G from Company B covers. Price is the only difference. During your OEP, you can pick the cheapest plan from a rock-solid insurer because no one can reject you. After your OEP, your health history decides what you get.
+Here's what matters: [Medigap plans are standardized](/best-medigap-plans-2026/) by the federal government. Plan G from Company A covers exactly what Plan G from Company B covers. Price is the only difference. During your OEP, you can pick the cheapest plan from a rock-solid insurer because no one can reject you. After your OEP, your health history decides what you get.
 
 For a full breakdown of how different Medigap plans compare, [Medicare supplement plan comparison](/medicare-supplement-plan-comparison/) covers it clearly.
 
@@ -91,7 +91,13 @@ Plan G and Plan N dominate right now for new enrollees, since Plan F (which cove
 Identical benefits for a given plan letter means price shopping actually works. AARP's [aarp.org](https://www.aarp.org/health/medicare-insurance/) has comparison tools for your area.
 
 **Step 4: Check how each insurer prices their plans.**
-This matters way more than people know. Medigap insurers use three approaches:
+
+| Pricing Method | How It Works | Long-Term Cost |
+|---|---|---|
+| Community-rated | Same price for everyone regardless of age | Often lower over time for older enrollees |
+| Issue-age-rated | Price based on your age when you buy | Stays fairly stable |
+| Attained-age-rated | Price increases as you age | Can spike in your 70s and 80s |
+This matters way more than people know. [Medigap insurers use three approaches](/how-much-does-medigap-cost/):
 
 | Pricing Method | How It Works | Long-Term Cost |
 |---|---|---|

@@ -23,13 +23,29 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 You just turned 65, signed up for Medicare, and felt pretty confident about your coverage. Then your dentist mentions you need a crown. Your eye doctor recommends new glasses. Your doctor suggests three months of physical therapy at a skilled nursing facility. You pull out your Medicare card, expecting it to handle most of this. It won't.
 
 This is the moment millions of seniors discover that Medicare, despite being genuinely generous in many ways, has some surprisingly large gaps. Knowing what those gaps are before you need care is the difference between a manageable bill and a financial shock that derails your retirement.
 
 ## The Big Four: Dental, Vision, Hearing, and Long-Term Care
+
+| Service | Original Medicare Coverage | Notes |
+| --- | --- | --- |
+| Dental (cleanings, fillings, crowns, implants) | Not covered | Exception: dental work tied to covered medical procedure |
+| Vision exams and glasses/contacts | Not covered | Exception: treatment for medical conditions (cataracts, glaucoma); one pair of glasses covered post-cataract surgery |
+| Hearing aids and fitting exams | Not covered | Cost: $1,000-$6,000+ per pair |
+| Custodial care (nursing homes, assisted living) | Not covered | Medicaid covers for qualified individuals; Medicare covers only short-term skilled nursing |
+| Skilled nursing facility (SNF) days 1-20 | Fully covered | Requires 3-day hospital stay, admission within 30 days, need for skilled care |
+| Skilled nursing facility (SNF) days 21-100 | Covered with daily copay | Copay amount adjusts annually |
+| Skilled nursing facility (SNF) day 101+ | Not covered | Full cost is patient's responsibility |
+| Over-the-counter medications and supplements | Not covered | Even if doctor-recommended |
+| Prescription drugs (at home) | Not covered by Parts A/B | Covered by Medicare Part D |
+| Routine foot care | Not covered | Exceptions: diabetes, circulatory conditions |
+| Acupuncture (chronic low back pain) | Covered up to 12 sessions/year | Other conditions not covered |
+| Chiropractic spinal manipulation | Covered by Part B | X-rays, massage not covered |
+| Health care outside United States | Not covered | Narrow exceptions for emergencies near Canada/Mexico border or U.S. territorial waters |
 
 These are the coverage gaps that catch people most off guard, because they involve health needs almost every senior will face.
 
@@ -55,7 +71,7 @@ And here's what surprises people most: the moment you stop needing "skilled" car
 
 ## Prescription Drugs, Over-the-Counter Items, and Routine Care
 
-Original Medicare doesn't cover most prescription drugs taken at home. That's what Medicare Part D is for. Skip enrolling in Part D when you're first eligible and don't have other creditable drug coverage (like an employer plan), and you'll face a late enrollment penalty that follows you for life on Medicare. I've watched this mistake cost people thousands.
+Original Medicare doesn't cover most prescription drugs taken at home. That's what [Medicare Part D](/medicare-part-d-explained/) is for. Skip enrolling in Part D when you're first eligible and don't have other creditable drug coverage (like an employer plan), and you'll face a late enrollment penalty that follows you for life on Medicare. I've watched this mistake cost people thousands.
 
 Over-the-counter medications, vitamins, and supplements aren't covered at all, even if your doctor recommends them.
 

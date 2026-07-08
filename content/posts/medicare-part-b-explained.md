@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 You turned 65, felt fine, and figured you could skip Part B to save money. Your neighbor did the same thing and seemed okay. Then you took a fall, needed an MRI, and found out you owed 100% of the bill. I've watched this scenario unfold too many times. Part B is invisible until you actually need it, and that's when late enrollment penalties kick in, penalties that stick with you for years.
 
@@ -37,7 +37,7 @@ Medically necessary services are what your doctor orders to diagnose or treat a 
 
 Preventive services catch problems early or keep you healthy in the first place. Part B covers a solid list of these free when you see a participating provider. Your annual "Welcome to Medicare" visit costs nothing. Same with mammograms, colonoscopies, flu shots, cardiovascular screenings, depression screenings, and diabetes prevention programs.
 
-Here's what matters: Part B doesn't cover prescription drugs you take at home. That's Part D. It does cover some drugs given in a clinical setting, like chemotherapy infusions or injections you get in a doctor's office. Your everyday pills are a completely separate thing.
+Here's what matters: Part B doesn't cover prescription drugs you take at home. That's [Part D](/medicare-part-d-explained/). It does cover some drugs given in a clinical setting, like chemotherapy infusions or injections you get in a doctor's office. Your everyday pills are a completely separate thing.
 
 Part B also covers certain outpatient mental health services: psychiatrists, psychologists, licensed clinical social workers. Mental health care has historically gotten the short end of the stick under insurance, so it's worth knowing Medicare actually covers it seriously.
 
@@ -49,7 +49,7 @@ Everyone on Part B pays a monthly premium. The Centers for Medicare and Medicaid
 
 If your income crosses a certain threshold, you'll pay extra through IRMAA, Income-Related Monthly Adjustment Amount. IRMAA uses your income from two years ago, not your current income. So if you made a lot of money one year and then retired, you could pay a higher premium for a couple years even though your income dropped. It feels backwards, but that's how it works. The good news: you can appeal an IRMAA decision if your income changed because of retirement, marriage, or a spouse's death.
 
-On top of the premium, there's an annual deductible. Once you hit it, Medicare pays 80% of approved costs. You pay the other 20%, and there's no out-of-pocket maximum in Original Medicare. That 20% gets expensive fast if you have something serious. Most people buy a Medigap plan to cover those gaps.
+On top of the premium, there's an annual deductible. Once you hit it, Medicare pays 80% of approved costs. You pay the other 20%, and there's no out-of-pocket maximum in Original Medicare. That 20% gets expensive fast if you have something serious. Most people buy a [Medigap plan](/medicare-summary-of-benefits/) to cover those gaps.
 
 Here's what you're actually paying:
 
@@ -72,9 +72,23 @@ If you're not sure whether you qualify for the SEP, don't guess. Call 1-800-MEDI
 
 ## Part B vs. Part A: How They Work Together
 
+| Coverage Type | Part A | Part B |
+| --- | --- | --- |
+| Inpatient hospital stays | ✓ | |
+| Skilled nursing facility | ✓ | |
+| Hospice | ✓ | |
+| Home health | ✓ | |
+| Doctor office visits | | ✓ |
+| Outpatient care | | ✓ |
+| Preventive services | | ✓ |
+| Emergency room visits | | ✓ |
+| Mental health services | | ✓ |
+| Durable medical equipment | | ✓ |
+| Lab tests and imaging | | ✓ |
+
 Medicare isn't one simple thing. Part A and Part B are separate, and the difference matters.
 
-Part A covers inpatient care: hospital stays, skilled nursing facility stays after a hospital stay, hospice, some home health. Most people get Part A free if they or their spouse worked and paid Medicare taxes for at least ten years (40 quarters). Part B handles the outpatient and medical services.
+[Part A covers](/medicare-part-a-explained/) inpatient care: hospital stays, skilled nursing facility stays after a hospital stay, hospice, some home health. Most people get Part A free if they or their spouse worked and paid Medicare taxes for at least ten years (40 quarters). Part B handles the outpatient and medical services.
 
 Say you're admitted to the hospital for two nights. Part A covers the hospital. The doctors visiting your room are billing under Part B. Both parts are working during one stay.
 

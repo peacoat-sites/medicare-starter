@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 Your favorite cardiologist just left the network. Or maybe you split the year between Arizona winters and Maine summers, and your HMO doesn't cover you outside the home service area. This happens more often than you'd think, and it leads a lot of seniors to the same question: "Can I switch back to Original Medicare?"
 
@@ -43,6 +43,12 @@ I've seen clients switch back to Original Medicare for straightforward reasons:
 The goal is simple: match your coverage to your actual life, not the one you had when you enrolled.
 
 ## When You Can Actually Make the Switch
+
+| Enrollment Period | Dates | Action | Coverage Start |
+| --- | --- | --- | --- |
+| Annual Enrollment Period (AEP) | October 15 - December 7 | Drop Medicare Advantage, return to Original Medicare | January 1 |
+| Medicare Advantage Open Enrollment Period (OEP) | January 1 - March 31 | Switch between Advantage plans or drop to Original Medicare | First day of month after change |
+| Special Enrollment Periods (SEPs) | Varies by qualifying event | Switch due to life events (move, plan exit, Extra Help eligibility) | Varies by event |
 
 This is where people get tripped up. You can't switch back to Original Medicare whenever you want. Specific windows exist, and missing them means waiting a year.
 
@@ -78,7 +84,7 @@ Once you've decided to move forward, the process is straightforward.
 
 **Step 2: Check your Medigap options first.** Before you disenroll from Advantage, find out whether you can get a Medigap policy. Call several insurers or work with an independent broker representing multiple companies. Get quotes and check for underwriting. Our overview of the [best Medicare Supplement companies](/best-medicare-supplement-companies/) can help identify reputable options.
 
-**Step 3: Decide on drug coverage.** Original Medicare doesn't include prescription drugs. You'll need a standalone Part D plan. Compare plans at Medicare.gov using their Plan Finder tool. Skip this and you'll face a Part D late enrollment penalty lasting as long as you have Part D coverage if you go more than 63 days without creditable drug coverage.
+**Step 3: Decide on drug coverage.** Original Medicare doesn't include prescription drugs. You'll need a [standalone Part D plan](/best-medicare-advantage-plans-2026/). Compare plans at Medicare.gov using their Plan Finder tool. Skip this and you'll face a Part D late enrollment penalty lasting as long as you have Part D coverage if you go more than 63 days without creditable drug coverage.
 
 **Step 4: Disenroll from your Medicare Advantage plan.** You can do this by:
 - Enrolling in a standalone Part D plan (this automatically triggers Advantage disenrollment)

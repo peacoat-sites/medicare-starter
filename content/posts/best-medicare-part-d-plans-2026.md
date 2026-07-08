@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 Picture this: it's November, you're sitting at the kitchen table with a stack of Medicare mail, and your current Part D plan just sent a notice that your blood pressure medication is jumping from a $10 copay to $47 starting January 1st. You didn't change anything. The plan did. And now you have about six weeks to figure out what to do about it. I've seen this exact situation play out hundreds of times, and every single time the person at that kitchen table says the same thing: "I didn't know I could switch."
 
@@ -39,11 +39,18 @@ The 2026 plan year also comes with an important milestone. Thanks to the Inflati
 
 ## The Big Changes Heading Into 2026
 
+| Phase | Purpose | Key Details |
+| --- | --- | --- |
+| Deductible Phase | Initial out-of-pocket costs before coverage begins | You pay the full cost of drugs until deductible is met |
+| Initial Coverage Phase | Standard coverage after deductible | You pay copays/coinsurance; plan pays its share |
+| Catastrophic Phase | High-cost protection | You pay minimal costs; plan covers the rest (with $2,000 annual cap) |
+| Coverage Gap | Eliminated as of 2026 | Replaced by simplified three-phase structure under Inflation Reduction Act |
+
 Every fall, Medicare releases updated plan data and the landscape shifts. Premiums change. Formularies get restructured. Some plans enter a market, others leave. Going into 2026, here's what you need to know.
 
-The national benchmark premium that determines whether you owe a Late Enrollment Penalty is recalculated each year. For 2026, that number is expected to shift modestly, though final figures are published by CMS (the Centers for Medicare and Medicaid Services) in the fall. What doesn't change is the penalty itself: if you delayed enrolling in Part D when you were first eligible and didn't have other creditable drug coverage, you pay a permanent penalty added to your premium for as long as you have Part D.
+The national benchmark premium that determines whether you owe a [Late Enrollment Penalty](/medicare-part-d-late-enrollment-penalty/) is recalculated each year. For 2026, that number is expected to shift modestly, though final figures are published by CMS (the Centers for Medicare and Medicaid Services) in the fall. What doesn't change is the penalty itself: if you delayed enrolling in Part D when you were first eligible and didn't have other creditable drug coverage, you pay a permanent penalty added to your premium for as long as you have Part D.
 
-Plans are also adjusting to the new cost-sharing structure created by the Inflation Reduction Act. The "coverage gap" (the old "donut hole") has been eliminated in its traditional form, replaced with a simpler three-phase structure: deductible phase, initial coverage phase, and catastrophic phase. With the $2,000 cap in place, most people with high drug costs will reach catastrophic coverage and pay nothing for the rest of the year. This is genuinely good news, but it also means plan premiums have risen in some markets to offset the insurers' increased costs.
+Plans are also adjusting to the new cost-sharing structure created by the Inflation Reduction Act. The "coverage gap" (the old "donut hole") has been eliminated in its traditional form, replaced with a simpler three-phase structure: deductible phase, initial coverage phase, and catastrophic phase. With [the $2,000 cap](/medicare-2000-out-of-pocket-cap-drugs/) in place, most people with high drug costs will reach catastrophic coverage and pay nothing for the rest of the year. This is genuinely good news, but it also means plan premiums have risen in some markets to offset the insurers' increased costs.
 
 One more thing to watch: Medicare is offering a new option called the Medicare Prescription Payment Plan (sometimes called the "smoothing" option), which lets you spread your drug costs across the year in monthly installments rather than paying large lump sums. This doesn't reduce what you owe, but it can prevent situations where you hit a large bill in January and struggle to cover it. You have to opt in each year through your plan.
 

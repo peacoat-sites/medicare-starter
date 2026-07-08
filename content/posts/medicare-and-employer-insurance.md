@@ -11,7 +11,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 Turning 65 brings decisions, and none are messier than figuring out how Medicare works with your current employer health plan. Whether you're still working, your spouse is, or you're just weeks away from retirement, this is one of the most confusing corners of health insurance. Most people get it wrong.
 
@@ -48,7 +48,7 @@ If you're actively employed at a company with 20 or more employees (or covered u
 
 That said, most people should still sign up for **Medicare Part A** at 65. It's free for almost everyone who's paid Medicare taxes for 10+ years, and it acts as a backup payer for hospital bills your employer plan misses.
 
-One big exception: if you contribute to a **Health Savings Account (HSA)**, enrolling in Medicare, even just Part A, makes you ineligible to contribute anymore. If you're trying to max out your HSA, you might want to hold off on all Medicare enrollment until you actually leave the job.
+One big exception: if you contribute to a **[Health Savings Account (HSA)](/medicare-and-health-savings-account-hsa/)**, enrolling in Medicare, even just Part A, makes you ineligible to contribute anymore. If you're trying to max out your HSA, you might want to hold off on all Medicare enrollment until you actually leave the job.
 
 ### Retiring Before or At 65
 
@@ -63,7 +63,7 @@ These stick around for life. You don't age out of them.
 
 ### COBRA and Retiree Coverage Are Traps
 
-Here's where a lot of people stumble: COBRA and retiree health plans do **not** count as employer coverage for purposes of the Special Enrollment Period. If you're on either one when you turn 65, you still need to enroll during your IEP or face penalties. The moment you become Medicare-eligible, these plans become secondary anyway, meaning they won't pay much of anything.
+Here's where a lot of people stumble: [COBRA and retiree health plans](/medicare-and-cobra/) do **not** count as employer coverage for purposes of the Special Enrollment Period. If you're on either one when you turn 65, you still need to enroll during your IEP or face penalties. The moment you become Medicare-eligible, these plans become secondary anyway, meaning they won't pay much of anything.
 
 [RELATED: Medicare Late Enrollment Penalties Guide]
 

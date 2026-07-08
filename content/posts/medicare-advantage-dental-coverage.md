@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 Your dentist says you need a crown and a root canal. You hand over your Medicare Advantage card, feeling relieved. The front desk clerk shakes her head. "That's covered up to $1,000 a year total, and you've already spent $600 on cleanings."
 
@@ -65,6 +65,16 @@ You'll also deal with deductibles, coinsurance (your percentage of each bill aft
 For the full breakdown of how Medicare Advantage plans are structured overall, [our explainer on how Medicare Advantage works](/how-does-medicare-advantage-work/) gives you the complete picture.
 
 ## How to Compare Dental Benefits When Shopping for a Plan
+
+| Feature | Basic Tier Plan | Mid-Tier Plan | Premium Tier Plan |
+|---|---|---|---|
+| Preventive cleanings | 2 per year | 2 per year | 2 per year |
+| Fillings covered | No | Yes | Yes |
+| Crowns covered | No | Yes (50%) | Yes (80%) |
+| Dentures covered | No | Yes | Yes |
+| Annual maximum | $500 | $1,500 | $3,000+ |
+| Network required | Yes | Yes | Yes/Some OON |
+| Waiting period | None | 6 months (major) | None |
 
 Shopping for Medicare Advantage dental coverage takes some work. Here's how to do it right:
 

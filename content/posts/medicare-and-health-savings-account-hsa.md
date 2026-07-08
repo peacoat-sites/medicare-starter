@@ -23,6 +23,7 @@ faqs:
    a: "Yes. Part A enrollment alone disqualifies you from making new HSA contributions, even if you haven't enrolled in Part B. There's no 'partial' Medicare enrollment that preserves HSA eligibility."
  - q: "If I decline Medicare Part A to keep my HSA, am I giving up something valuable?"
    a: "Part A is premium-free for most people who've worked 40 or more quarters, so declining it has a real cost. You'd give up hospital coverage to preserve HSA contribution ability. For most people, that trade doesn't pencil out unless they have another specific reason to delay and are still building significant HSA assets. Run the numbers before deciding."
+lastmod: 2026-07-07
 ---
 Most people get the Medicare-HSA relationship completely backwards. They assume an HSA is just a savings account, so it shouldn't matter what insurance you have. Wrong. The IRS ties HSA eligibility directly to your health coverage type, not your age or income, and the moment Medicare enters the picture, everything changes.
 
@@ -47,6 +48,13 @@ Problem: if you use the last month rule and then enroll in Medicare, you must re
 The safe approach is to prorate your contributions based on actual eligible months. If you're Medicare-eligible starting in May, you're eligible for four months (January through April), so you can contribute 4/12 of the annual limit. Stop contributing before your Medicare start date.
 
 ## The Retroactive Enrollment Problem Nobody Mentions
+
+| Scenario | HSA Contribution Status | Key Risk |
+| --- | --- | --- |
+| Enrolled in Medicare Part A or Part B | Contributions stop immediately | Excess contributions trigger 6% annual excise tax |
+| Turn 65, enroll in Medicare starting November 1 | Contributions allowed Jan-Oct only | Last month rule trap if full annual amount contributed |
+| Apply for Social Security after age 65 | Medicare Part A retroactive by up to 6 months | Retroactive enrollment disqualifies prior contributions |
+| Still working at 65 with employer coverage | Contributions may continue | Requires active employment status; verify with HR |
 
 This one is genuinely sneaky. When you apply for Social Security benefits at or after age 65, Medicare Part A enrollment is automatic and, critically, retroactive by up to six months. That means if you've been contributing to your HSA after your 65th birthday while waiting to claim Social Security, you may already have excess contributions without realizing it.
 

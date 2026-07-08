@@ -23,6 +23,7 @@ faqs:
    a: "Most Medigap plans cover the Part A deductible. For the Part B deductible, only Plans C and F cover it, and both of those are unavailable to people who became eligible for Medicare after January 1, 2020. No Medigap plan covers Part D costs. Always confirm what a specific plan covers before enrolling."
  - q: "Is the Part D deductible always $590 in 2026?"
    a: "$590 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
+lastmod: 2026-07-07
 ---
 
 Most people assume the Medicare deductible is one single number you hit at the start of the year and then you're done. I believed that myself for the first few years I was counseling clients. The reality is messier, more expensive in some spots than you'd expect, and genuinely confusing in ways that catch even careful planners off guard.
@@ -32,6 +33,12 @@ So let me give you the real numbers for 2026, walk you through what each one act
 ---
 
 ## The Numbers First, Because That's Why You're Here
+
+| Medicare Part | Deductible Amount | Reset Frequency | Key Detail |
+| --- | --- | --- | --- |
+| Part A (Hospital) | $1,676 | Per benefit period | Resets after 60 consecutive days outside hospital/SNF |
+| Part B (Outpatient) | $257 | Calendar year | Resets January 1; no out-of-pocket cap on coinsurance |
+| Part D (Prescription Drug) | Up to $590 | Calendar year | Maximum allowable; individual plans may charge less or $0 |
 
 Current as of July 2026, here's where things stand:
 
@@ -72,7 +79,7 @@ Result: Medicare pays the rest of his covered hospital costs for that stay. If h
 
 The $257 Part B deductible for 2026 is genuinely more straightforward. It's a calendar-year deductible. It resets January 1. You pay $257 in covered Part B services before Medicare starts sharing costs, and then Medicare typically covers 80% of the approved amount for the rest of the year.
 
-The catch with Part B isn't the deductible itself. It's the 20% coinsurance that never has an out-of-pocket cap under Original Medicare. There's no maximum out-of-pocket limit built into traditional Medicare Parts A and B. If you have a serious illness that racks up $200,000 in outpatient costs, Medicare pays $160,000 and you owe $40,000, minus the deductible. That exposure is exactly why Medigap (Medicare Supplement Insurance) policies exist.
+The catch with Part B isn't the deductible itself. It's the 20% coinsurance that never has an out-of-pocket cap under Original Medicare. There's no maximum out-of-pocket limit built into traditional Medicare Parts A and B. If you have a serious illness that racks up $200,000 in outpatient costs, Medicare pays $160,000 and you owe $40,000, minus the deductible. That exposure is exactly why Medigap ([Medicare Supplement Insurance](/medicare-advantage-vs-medicare-supplement-total-cost/)) policies exist.
 
 I tested this out with a spending scenario when I was helping my neighbor's mother choose between a Medicare Advantage plan and Original Medicare plus a Medigap policy last year. We ran the numbers assuming a moderately bad health year: two specialist visits, one outpatient surgery, some physical therapy. The Part B deductible was almost a rounding error. The coinsurance was the real variable.
 

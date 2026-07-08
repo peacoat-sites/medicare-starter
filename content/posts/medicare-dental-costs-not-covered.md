@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 Most people learn this the hard way. They turn 65, sign up for Medicare, breathe a sigh of relief that health coverage is finally handled, and then they need a crown. Suddenly they're staring at a $1,200 dentist bill with zero help from the federal insurance they've been paying into since they started working.
 
@@ -59,7 +59,7 @@ What struck me when I started researching this was how unchanging the policy act
 
 This is where it gets interesting, and also more complicated.
 
-Medicare Advantage plans (Part C) are run by private insurers and approved by Medicare. Many include at least some dental coverage. It's actually one of the biggest reasons people pick Advantage over Original Medicare. Most Medicare Advantage enrollees now have access to some dental benefits, according to CMS.
+[Medicare Advantage plans (Part C)](/medicare-advantage-vs-medicare-supplement-total-cost/) are run by private insurers and approved by Medicare. Many include at least some dental coverage. It's actually one of the biggest reasons people pick Advantage over Original Medicare. Most Medicare Advantage enrollees now have access to some dental benefits, according to CMS.
 
 But slow down. The dental coverage in most Advantage plans is thin for anything beyond basics. Most will cover two cleanings per year, periodic exams, and X-rays. Some include basic work like fillings. Fewer plans offer comprehensive coverage, sometimes up to $1,000, $1,500, or occasionally $2,000 in annual benefits. A handful of higher-premium plans go beyond that.
 

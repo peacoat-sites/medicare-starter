@@ -23,6 +23,7 @@ faqs:
     a: "Technically yes, but it's complicated. Federal law doesn't require insurers to sell Medigap policies to people under 65, though some states do require it. If your state doesn't mandate it, insurers can charge higher premiums or deny you. Check your state insurance commissioner's website for the rules where you live, because this varies significantly."
   - q: "How do I apply for the Extra Help program to lower my drug costs?"
     a: "You can apply online at ssa.gov, call the SSA at 1-800-772-1213, or visit your local Social Security office. If you're already enrolled in Medicaid or a Medicare Savings Program, you may be automatically enrolled in Extra Help without needing a separate application. It's worth checking either way."
+lastmod: 2026-07-07
 ---
 
 Most people who call me about Medicare for disabled people think they missed something. Like there was a memo that went out explaining how all of this works and somehow it didn't reach them. There wasn't. The rules around qualifying for Medicare before age 65 are genuinely confusing, and I've watched smart, capable people sit across from me completely blindsided by what they didn't know.
@@ -54,6 +55,13 @@ If you're still connected to an employer (or a spouse's employer), COBRA (Consol
 One worked example that plays out more than people expect: A 51-year-old former electrician with a back injury that prevents him from working gets approved for SSDI in March 2026, with benefits starting in October 2025. His Medicare eligibility begins October 2027. During that two-year window, his income drops significantly and he qualifies for Medicaid. He uses Medicaid for most of his care, then transitions to Medicare in October 2027, with Medicaid remaining as a secondary payer to help cover costs. He never goes without coverage. The key was calling the Medicaid office early, not waiting until the Medicare card showed up.
 
 ## What Medicare Actually Covers for Disabled Enrollees
+
+| Medicare Part | What It Covers | Premium (2026) | Notes for Disabled Enrollees |
+| --- | --- | --- | --- |
+| Part A | Hospital stays, skilled nursing facility care, hospice, home health care | $0-$500+/month | No premium if you or spouse paid Medicare taxes for 10+ years (40 quarters); otherwise can buy in |
+| Part B | Doctor visits, physical therapy, lab work, durable medical equipment | $185/month | Income-adjusted for higher earners |
+| Part D | Prescription drug coverage | Varies by plan | Optional but late enrollment penalties apply if skipped |
+| Part C (Medicare Advantage) | Bundles A, B, and often D | Varies by plan | May include extra benefits (vision, dental); network restrictions possible |
 
 Once you're in, Medicare for disabled people works almost identically to Medicare for seniors. You get:
 

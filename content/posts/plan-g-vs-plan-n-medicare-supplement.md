@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 You've just retired, sitting across from an insurance agent, and they slide two brochures at you: Plan G and Plan N. Both promise to cover most of what Original Medicare leaves behind. Both look decent on paper. But the premiums differ, the out-of-pocket exposure differs, and the agent's watching the clock. You don't want to pick wrong and pay for it for years.
 
@@ -31,7 +31,7 @@ I've seen this exact scenario play out hundreds of times over two decades helpin
 
 ## What Medigap Is and Why It Matters
 
-Let's start with the basics. Medigap is another name for Medicare Supplement Insurance, private health insurance designed to work alongside Original Medicare (Parts A and B) and cover costs Medicare doesn't fully pay.
+Let's start with the basics. Medigap is another name for [Medicare Supplement Insurance](/best-medigap-plans-2026/), private health insurance designed to work alongside Original Medicare (Parts A and B) and cover costs Medicare doesn't fully pay.
 
 Here's what people often miss: Original Medicare isn't free once you start using it. Part A covers hospital stays, but you owe a deductible each benefit period ($1,632 in 2024). Part B covers outpatient care, but it only pays 80% of approved costs after your annual deductible. You're responsible for the other 20%, with no cap on that exposure. A serious illness could leave you with tens of thousands of dollars in coinsurance.
 
@@ -51,7 +51,7 @@ What Plan G covers:
 - **Part A deductible** (that $1,632 per benefit period)
 - **Part A hospice care coinsurance or copayments**
 - **Part B coinsurance or copayments** (the 20% you'd otherwise owe)
-- **Part B excess charges** (more below)
+- **[Part B excess charges](/medigap-plan-g-vs-plan-n-comparison/)** (more below)
 - **Skilled nursing facility care coinsurance**
 - **First three pints of blood**
 - **80% of foreign travel emergency costs** (up to plan limits)
@@ -76,6 +76,19 @@ The premium savings are real. Depending on your age, location, and insurer, Plan
 But do those savings beat the copays and excess charges? In my experience, healthy people who rarely see doctors often come out ahead with Plan N. People managing ongoing conditions, especially those seeing specialists frequently, often find Plan G the better deal because those $20 copays accumulate fast.
 
 ## Side-by-Side Comparison
+
+| Benefit | Plan G | Plan N |
+|---|---|---|
+| Part A deductible | Covered | Covered |
+| Part A coinsurance | Covered | Covered |
+| Skilled nursing facility coinsurance | Covered | Covered |
+| Part B deductible | **NOT covered** | **NOT covered** |
+| Part B coinsurance | Covered | Covered (with copays) |
+| Part B excess charges | **Covered** | **NOT covered** |
+| Office visit copays | None | Up to $20 |
+| ER visit copays | None | Up to $50 (waived if admitted) |
+| Foreign travel emergency | 80% | 80% |
+| Hospice coinsurance | Covered | Covered |
 
 Here's a straightforward look at how the two plans stack up:
 

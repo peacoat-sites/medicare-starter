@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 Every year, I watch the same thing happen to people turning 65. They get their Medicare card in the mail, feel a wave of relief, and assume they're basically covered. Then they get a bill for $1,600 after a hospital stay and call me completely blindsided.
 
@@ -52,6 +52,19 @@ Most people qualify for Part A without paying a premium, as long as they or thei
 
 ## Part B: The Part Most People Underestimate
 
+| Coverage Type | Part A | Part B |
+| --- | --- | --- |
+| Monthly Premium | Usually $0 (if 40 quarters work history); up to $505 if buying in | $174.70 standard in 2024 (higher for IRMAA) |
+| Annual Deductible | ~$1,632 per benefit period | ~$240 per year |
+| Inpatient Hospital (Days 1-60) | Deductible applies | Not covered |
+| Inpatient Hospital (Days 61-90) | ~$408/day coinsurance | Not covered |
+| Skilled Nursing Facility (Days 1-20) | 100% covered | Not covered |
+| Skilled Nursing Facility (Days 21-100) | ~$204/day coinsurance | Not covered |
+| Doctor Visits | Not covered | 20% coinsurance after deductible |
+| Lab Tests, Imaging, Surgery | Not covered (outpatient) | 20% coinsurance after deductible |
+| Prescription Drugs | Not covered | Not covered |
+| Dental, Vision, Hearing | Not covered | Not covered |
+
 Part B covers what the government calls "medically necessary" outpatient services and "preventive" services. The standard monthly premium in 2024 is $174.70, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). If your income from two years prior was above $103,000 as an individual, expect to pay more. Sometimes significantly more.
 
 What Part B actually covers is extensive. Doctors' visits, outpatient surgery, lab tests, X-rays, MRIs, CT scans, chemotherapy, dialysis, durable medical equipment like walkers, wheelchairs, and blood glucose monitors. Mental health services, physical therapy, occupational therapy, second opinions before surgery. It also covers an initial "Welcome to Medicare" preventive visit and an annual wellness visit, both fully covered with no cost to you if your doctor accepts Medicare assignment.
@@ -68,7 +81,7 @@ Here's what Part A and Part B don't cover, and this is where people run into rea
 
 **Prescription drugs.** Neither Part A nor Part B covers most outpatient prescription drugs. You need Part D (stand-alone drug coverage) or a Medicare Advantage plan that includes drug coverage to handle that. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) has comparison tools on Medicare.gov to help you find plans in your zip code based on your specific medications.
 
-**Dental, vision, and hearing.** Original Medicare does not cover routine dental cleanings, eyeglasses, contact lenses, or hearing aids. This is one of the biggest shocks people face. A few very limited exceptions exist (Medicare will pay for dental work that's part of a covered procedure, like jaw reconstruction after an accident), but for routine care? You're on your own with Original Medicare. This is one reason Medicare Advantage plans, which often bundle some dental, vision, and hearing benefits, have become so popular.
+**Dental, vision, and hearing.** Original Medicare does not cover routine dental cleanings, eyeglasses, contact lenses, or hearing aids. This is one of the biggest shocks people face. A few very limited exceptions exist (Medicare will pay for dental work that's part of a covered procedure, like jaw reconstruction after an accident), but for routine care? You're on your own with Original Medicare. This is one reason [Medicare Advantage plans](/medicare-part-c-explained/), which often bundle some dental, vision, and hearing benefits, have become so popular.
 
 **Long-term custodial care.** Medicare does not pay for ongoing nursing home or in-home custodial care, meaning help with bathing, dressing, eating. The SNF benefit is specifically for skilled care, meaning you need nursing or rehabilitation services, not just assistance with daily activities.
 

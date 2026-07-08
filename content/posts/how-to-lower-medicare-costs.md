@@ -23,6 +23,7 @@ faqs:
    a: "For many people, yes, particularly if you have ongoing health needs or simply want cost predictability. Medigap Plan G is currently the most comprehensive option for new Medicare enrollees (Plan C and Plan F are no longer available to people who became eligible for Medicare after January 1, 2020). Whether it's worth the premium depends on how often you use medical services; run the numbers for your specific situation before committing."
  - q: "What if I can't afford my Medicare premiums right now?"
    a: "Don't just stop paying. Contact Medicare or Social Security immediately, and check your eligibility for Medicare Savings Programs through your state Medicaid office. If you're in a Medicare Advantage plan, you may also be able to move to a lower-cost plan during an enrollment period. A free SHIP counselor can help you sort through your options without any sales pressure."
+lastmod: 2026-07-07
 ---
 
 Most people don't realize they're overpaying for Medicare until the bill lands and they're already locked in for the year.
@@ -53,7 +54,7 @@ Before we talk about plan optimization or drug cost tricks, I want to make sure 
 
 The big one is the Extra Help program (also called the Low Income Subsidy, or LIS). It helps pay for Part D prescription drug costs, including premiums, deductibles, and copays. Depending on your income and assets, it could save you $2,000 or more annually on drug costs alone. You apply through Social Security at ssa.gov or call 1-800-772-1213.
 
-There's also the Medicare Savings Program (MSP), actually a group of four related programs, that can pay your Part B premium, deductibles, and copays if you meet income limits. The income thresholds are higher than most people expect, so don't rule yourself out before you check. Your state Medicaid office handles enrollment.
+There's also the [Medicare Savings Program (MSP)](/medicare-savings-programs/), actually a group of four related programs, that can pay your Part B premium, deductibles, and copays if you meet income limits. The income thresholds are higher than most people expect, so don't rule yourself out before you check. Your state Medicaid office handles enrollment.
 
 Here's a real scenario from my counseling work: A retired warehouse supervisor in his early 70s came to me convinced he made too much to qualify for anything. Single, about $1,600 per month in Social Security, modest savings. He'd been paying his $185 Part B premium and a $47/month Part D premium out of pocket. After I walked him through the MSP income limits in his state, he qualified for the Qualified Medicare Beneficiary (QMB) program. The result: his Part B premium was eliminated, saving him $2,220 a year, and his cost-sharing dropped to nearly zero. He'd been leaving that money on the table for three years.
 
@@ -65,7 +66,7 @@ The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/
 
 This is where the real money is, and where I see the most mistakes.
 
-A lot of people pick a Medicare Advantage plan (Part C) because the $0 premium is appealing. I understand that. But a $0 premium plan isn't necessarily a $0 cost plan. Network restrictions, prior authorization requirements, and higher out-of-pocket limits can cost you far more than a modest premium would have, especially if you have a serious illness.
+A lot of people pick a [Medicare Advantage plan (Part C)](/medicare-advantage-vs-medicare-supplement-total-cost/) because the $0 premium is appealing. I understand that. But a $0 premium plan isn't necessarily a $0 cost plan. Network restrictions, prior authorization requirements, and higher out-of-pocket limits can cost you far more than a modest premium would have, especially if you have a serious illness.
 
 Conversely, some people buy the most expensive Medigap plan (Plan G is currently the most comprehensive for new enrollees) without doing the math on whether it makes sense for their health situation. If you're relatively healthy and rarely use medical services, a lower-premium supplement or even a Medicare Advantage plan with good cost-sharing might save you money.
 

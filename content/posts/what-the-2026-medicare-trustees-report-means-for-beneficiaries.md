@@ -12,6 +12,7 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "what-the-2026-medicare-trustees-report-means-for-beneficiaries"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: you're at your kitchen table, Medicare card in your wallet, and you hear a news snippet about the Medicare trust fund running out of money. Your stomach drops. Does that mean your hospital coverage disappears? Do you need to do something right now? I've seen this exact panic play out hundreds of times in my office, and I want to give you the same reassurance I'd give a family member sitting across from me: this is serious, but it's not what you think it is, and you deserve the full picture.
 
@@ -19,11 +20,17 @@ On June 9, 2026, the Medicare Trustees released their annual financial report, a
 
 ## What "Insolvency" Actually Means (and Doesn't Mean)
 
+| Medicare Part | Coverage | Funding Source | Can Go Insolvent? | 2025 Spending |
+| --- | --- | --- | --- | --- |
+| Part A (HI) | Hospital stays, inpatient care | Payroll taxes | Yes | $444 billion |
+| Part B | Doctor visits, outpatient care | Premiums + general federal revenue | No | $584 billion |
+| Part D | Prescription drugs | Premiums + general federal revenue | No | Not specified |
+
 Here's what most people don't realize: Medicare Part A can't just shut down. Under current law, if the Hospital Insurance (HI) trust fund runs dry in 2033, Medicare doesn't stop paying hospital claims. What happens instead is an automatic cut in how much Medicare pays hospitals for your care. According to the Committee for a Responsible Federal Budget's analysis of this report, that cut would be roughly 11% at the point of insolvency, growing to about 16% by 2040.
 
 That's the real risk, and it's worth understanding clearly. The concern isn't that your Medicare card stops working overnight. It's that hospitals get paid less, which over time can affect how many Medicare patients a facility is willing to treat, what services stay available, and how much cost gets shifted elsewhere. It's a slower-moving problem than the word "insolvency" suggests, but it's a real one.
 
-And here's something that often gets buried in the headlines: Medicare Parts B and D, which cover your doctor visits, outpatient care, and prescription drugs, cannot go insolvent. They're funded through a combination of your premiums and general federal revenues, meaning Congress funds them every year regardless. Part B spending alone reached $584 billion in 2025, actually dwarfing Part A's $444 billion. The trust fund problem is specifically a Part A issue.
+And here's something that often gets buried in the headlines: [Medicare Parts B and D](/cms-proposes-making-medicare-drug-price-negotiations-permanent/), which cover your doctor visits, outpatient care, and prescription drugs, cannot go insolvent. They're funded through a combination of your premiums and general federal revenues, meaning Congress funds them every year regardless. Part B spending alone reached $584 billion in 2025, actually dwarfing Part A's $444 billion. The trust fund problem is specifically a Part A issue.
 
 ## Why the Outlook Got Worse This Year
 

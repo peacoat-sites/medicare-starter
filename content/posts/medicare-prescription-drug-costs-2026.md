@@ -23,21 +23,27 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
-October 15 rolls around, and suddenly your mailbox fills with Part D plan notices. Premium up. Your cholesterol medication moved to a higher tier. Deductible changed again. Millions of people go through this every fall, and most of them ignore it. Don't. The 2026 changes to Medicare drug coverage actually work in your favor if you pay attention, and switching plans could save you hundreds of dollars.
+October 15 rolls around, and suddenly your mailbox fills with Part D plan notices. Premium up. Your cholesterol medication moved to a higher tier. Deductible changed again. Millions of people go through this every fall, and most of them ignore it. Don't. The 2026 changes to [Medicare drug coverage](/best-medicare-part-d-plans-2026/) actually work in your favor if you pay attention, and switching plans could save you hundreds of dollars.
 
 ## What's Actually Changing in 2026 (and Why It Matters)
 
-The Inflation Reduction Act, signed in 2022, keeps rolling out. The headline change for 2026: a hard $2,000 out-of-pocket cap on Part D drugs. Starting January 1, once you hit $2,000 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
+The Inflation Reduction Act, signed in 2022, keeps rolling out. The headline change for 2026: a hard [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drugs. Starting January 1, once you hit $2,000 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
 
 This matters because before, there was no ceiling. I've worked with clients who spent $10,000, $15,000, sometimes $20,000-plus annually on cost-sharing for cancer drugs or biologics. The cap flips that entirely.
 
 Also carrying forward: insulin stays at $35 per month per product. Recommended adult vaccines under Part D stay free, zero copay.
 
-One thing people miss: "out of pocket" has a narrow definition. It includes your deductible, copays, coinsurance, and amounts paid by Extra Help (the low-income subsidy). It does NOT include your premium. That distinction matters when you're shopping.
+One thing people miss: "out of pocket" has a narrow definition. It includes your deductible, copays, coinsurance, and amounts paid by [Extra Help](/medicare-extra-help-program/) (the low-income subsidy). It does NOT include your premium. That distinction matters when you're shopping.
 
 ## The New Part D Payment Structure: Three Phases, Not Four
+
+| Phase | What Happens | Your Cost in 2026 |
+| --- | --- | --- |
+| Phase 1: Deductible | You pay full price for drugs | Up to $590 maximum |
+| Phase 2: Initial Coverage | You pay copays or coinsurance | Until out-of-pocket reaches $2,000 |
+| Phase 3: Catastrophic Coverage | Plan pays 100% of remaining drugs | $0 for rest of calendar year |
 
 The old system had four phases. You probably remember the coverage gap, that infamous "donut hole" where you suddenly paid way more. It's gone as of 2025, replaced with a cleaner three-step structure that runs into 2026.
 

@@ -23,11 +23,12 @@ faqs:
    a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
  - q: "Is a $0 premium Part D plan always a bad deal?"
    a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
+lastmod: 2026-07-07
 ---
 
 Most people spend more time picking a Netflix subscription than they do choosing their Medicare Part D drug plan. I've watched that mistake cost people hundreds of dollars a year, sometimes over a thousand, and it's entirely avoidable.
 
-Here's the thing: Part D plans vary wildly, even within the same zip code. Two neighbors on identical medications can pay completely different amounts depending on which plan they chose, or whether they chose at all. If you're enrolled in Original Medicare (Parts A and B) and haven't picked a drug plan, you may already be racking up a late enrollment penalty that follows you permanently. That gets our attention fast.
+Here's the thing: Part D plans vary wildly, even within the same zip code. Two neighbors on identical medications can pay completely different amounts depending on which plan they chose, or whether they chose at all. If you're enrolled in Original Medicare (Parts A and B) and haven't picked a drug plan, you may already be racking up a [late enrollment penalty](/medicare-part-d-late-enrollment-penalty/) that follows you permanently. That gets our attention fast.
 
 So let's get into it. No fluff, no alphabet-soup jargon without explanation.
 
@@ -41,6 +42,14 @@ What Part D doesn't cover: most over-the-counter medications, vitamins, and cosm
 
 ## The Real Cost of a Part D Plan Has Four Parts
 
+| Component | Details |
+| --- | --- |
+| Monthly Premium | Amount you pay every month regardless of prescription fills |
+| Deductible | Amount you pay before coverage kicks in (up to $590 for standard Part D plans in 2026) |
+| Copays/Coinsurance | Per-prescription costs based on drug tier |
+| Pharmacy Network | In-network vs. out-of-network pharmacy costs |
+| Annual Out-of-Pocket Cap | $2,000 maximum (starting 2025 under Inflation Reduction Act) |
+
 > **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -49,7 +58,7 @@ Most people look at the monthly premium and stop there. Don't.
 
 The true out-of-pocket cost of a Part D plan comes from four pieces working together: the premium (what you pay every month regardless of whether you fill a prescription), the deductible (what you pay before coverage kicks in, currently up to $590 for standard Part D plans in 2026), your copays or coinsurance on each prescription, and the pharmacy network (because getting your drug at an out-of-network pharmacy can blow up your costs fast).
 
-There's one more thing to understand this year: the $2,000 out-of-pocket cap. Starting in 2025, the Inflation Reduction Act capped what Medicare Part D enrollees pay out-of-pocket annually at $2,000. That's a genuinely significant protection, especially for people on expensive specialty drugs. If you're paying more than $2,000 in drug costs in a calendar year, something is wrong. Check your plan.
+There's one more thing to understand this year: the [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/). Starting in 2025, the Inflation Reduction Act capped what Medicare Part D enrollees pay out-of-pocket annually at $2,000. That's a genuinely significant protection, especially for people on expensive specialty drugs. If you're paying more than $2,000 in drug costs in a calendar year, something is wrong. Check your plan.
 
 I've seen people fixate on a $12/month premium plan and end up paying $80 per refill because their drug sits at Tier 4. A plan with a $45 premium that covers the same drug at Tier 2 for a $15 copay is objectively the better deal. Do the math on your specific drugs, not on the sticker price.
 
@@ -71,7 +80,7 @@ Do this comparison every single year during Open Enrollment (October 15 through 
 
 Every plan organizes its drugs into tiers, typically five. Tier 1 is generic drugs at the lowest cost. Tier 2 is preferred brand-name drugs. Tier 3 is non-preferred brands. Tier 4 and 5 are specialty drugs, sometimes costing hundreds of dollars per fill even with insurance.
 
-Here's what most people don't realize: if your drug is on Tier 3 or 4, you can request what's called a formulary exception. Your doctor submits a request to the plan explaining why a lower-tier alternative won't work for you medically. Plans must respond within 72 hours (or 24 hours if it's urgent). These get approved more often than people think. I've seen patients get Tier 4 drugs covered at Tier 2 costs this way.
+Here's what most people don't realize: if your drug is on Tier 3 or 4, you can request what's called a [formulary exception](/comparing-medicare-part-d-plans/). Your doctor submits a request to the plan explaining why a lower-tier alternative won't work for you medically. Plans must respond within 72 hours (or 24 hours if it's urgent). These get approved more often than people think. I've seen patients get Tier 4 drugs covered at Tier 2 costs this way.
 
 Also worth knowing: some plans restrict certain drugs through prior authorization (PA), step therapy (trying a cheaper drug first), or quantity limits. If you're on a medication that's been working for you for years, check that the plan doesn't require you to "step through" alternatives before covering what you already take. That's a real disruption to your health, not just a paperwork issue.
 

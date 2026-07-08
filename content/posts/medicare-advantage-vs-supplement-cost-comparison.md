@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 You're sitting at your kitchen table with two folders. One has a $0-premium Medicare Advantage plan and a brochure promising dental and vision. The other is a Medigap application with a premium that made you wince. Your neighbor loves her Advantage plan. Your brother-in-law swears by supplements. You have no idea who's right.
 
@@ -47,13 +47,21 @@ Here's what catches most people: that $0-premium Medicare Advantage plan isn't a
 
 The monthly premium might be low or nonexistent (beyond your Part B premium, which you're paying anyway). But every time you use the plan, you pay. A specialist visit runs $40 to $75. Outpatient surgery means 20% coinsurance. Hospital stays have daily copays for the first several days. When you're healthy, these feel manageable. During a serious illness, hospitalization, or when you're bouncing between multiple specialists, they pile up fast.
 
-The number that actually matters is the **annual out-of-pocket maximum**, the ceiling on what you'll spend on covered services in a year. I've seen plans with maximums ranging from $4,000 to $9,000 or higher. Hit that ceiling in a bad health year, and you'll notice.
+The number that actually matters is the **[annual out-of-pocket maximum](/medicare-advantage-out-of-pocket-maximum/)**, the ceiling on what you'll spend on covered services in a year. I've seen plans with maximums ranging from $4,000 to $9,000 or higher. Hit that ceiling in a bad health year, and you'll notice.
 
 Medigap flips this around. You pay more every month, whether you use healthcare or not. The payoff? Once you've paid the premium, per-use costs mostly vanish, depending on which plan letter you choose. Medigap Plan G covers almost everything Medicare doesn't (after you hit the Part B deductible once yearly). Plan N covers quite a bit but leaves modest copays for office visits and ER trips.
 
 Healthy and rarely seeing doctors? A Medigap plan feels expensive for insurance you're not using. But that's how insurance works. The real question is whether the predictability and protection are worth the monthly cost to you.
 
 ## A Side-by-Side Look: Common Cost Scenarios
+
+| Situation | Medicare Advantage | Medigap + Part D |
+|---|---|---|
+| Healthy year, minimal care | Low total cost (low or $0 premium, few copays) | Higher total cost (monthly premium with little use) |
+| Moderate use (a few specialist visits, one procedure) | Moderate cost (copays add up but stay manageable) | Low-to-moderate cost (premium paid, minimal extra costs) |
+| Major illness, surgery, or hospitalization | Potentially high cost, up to the out-of-pocket max | Generally low extra cost beyond the monthly premium |
+| Ongoing chronic conditions, frequent specialist care | Costs vary, network restrictions may matter a lot | Predictable monthly cost, broad provider access |
+| Travel or use of out-of-network providers | May be limited or not covered outside network | Covered anywhere Medicare is accepted nationwide |
 
 The table below won't give you exact numbers (those vary wildly by location, age, plan, and health). It shows how costs *structure* differently across situations.
 

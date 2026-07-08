@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 You just turned 65. Your kitchen table is buried under Medicare mailers. Every single one mentions "Medicare Advantage." Your neighbor loves hers. Your brother-in-law won't touch one. And you're wondering if Medicare Part C is some secret fourth option or just corporate jargon for something you already understand.
 
@@ -33,13 +33,21 @@ Short answer: Medicare Part C and Medicare Advantage are the same thing. But wha
 
 Original Medicare breaks down into two parts. Part A covers hospital stays, skilled nursing care, and some home health services. Part B covers doctor visits, outpatient care, and preventive services. That's the foundation.
 
-Part C, also called Medicare Advantage, is a different way to get that same coverage. Instead of the federal government paying your bills directly, you sign up with a private insurance plan that Medicare approves and pays a fixed monthly amount to provide your Part A and Part B benefits.
+Part C, also called Medicare Advantage, is a different way to get that same coverage. Instead of the federal government paying your bills directly, you sign up with a private insurance plan that Medicare approves and pays a fixed monthly amount to provide your [Part A and Part B](/what-does-medicare-part-a-and-b-cover-for-seniors/) benefits.
 
 Here's what trips most people up: you must still be enrolled in both Part A and Part B to join a Medicare Advantage plan. You don't leave Medicare. You stay enrolled. You just get your benefits through a private insurer instead of the government directly.
 
 By law, Medicare Advantage plans must cover everything Original Medicare covers, with a few exceptions like hospice (which stays under Part A). Beyond that baseline, most plans throw in extras that Original Medicare doesn't offer: routine dental cleanings, vision exams, eyeglasses, hearing aids, gym memberships, sometimes even over-the-counter allowances. Those extras are why enrollment has exploded. As of 2024, more than half of all Medicare beneficiaries are in a Medicare Advantage plan, according to the Kaiser Family Foundation.
 
 ## The Different Types of Medicare Advantage Plans
+
+| Plan Type | Network Restriction | Referral Required | Out-of-Network Coverage | Best For |
+| --- | --- | --- | --- | --- |
+| HMO | In-network only (except emergencies) | Yes | No | Lower costs, predictable expenses |
+| PPO | Preferred network | No | Yes, at higher cost | Flexibility, specialist freedom |
+| PFFS | Plan-approved providers | No | Varies | Less common option |
+| SNP | Specialized network | Varies | Varies | Specific chronic conditions or dual eligibility |
+| HMO-POS | Primarily in-network | Yes | Limited, at higher cost | Hybrid approach with some flexibility |
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -61,11 +69,11 @@ Most people do fine starting with an HMO if their current doctors are in-network
 
 This is where the real story emerges. Medicare Advantage plans often advertise $0 premiums, and some genuinely have no additional monthly cost beyond your Part B premium ($174.70 per month in 2024 for most people). But premium is just the opening act.
 
-Every Medicare Advantage plan has an out-of-pocket maximum, a yearly cap on what you can spend on covered services. Original Medicare has no such cap, which is why many people in Original Medicare also buy a Medigap (Medicare Supplement) plan to cover those endless costs. In Medicare Advantage, the cap is required by law. In 2024, it can't exceed $8,850 for in-network services, though most plans set it lower.
+Every Medicare Advantage plan has an out-of-pocket maximum, a yearly cap on what you can spend on covered services. Original Medicare has no such cap, which is why many people in Original Medicare also buy a [Medigap (Medicare Supplement) plan](/what-medicare-does-not-cover/) to cover those endless costs. In Medicare Advantage, the cap is required by law. In 2024, it can't exceed $8,850 for in-network services, though most plans set it lower.
 
 Beyond the premium and cap come copays and coinsurance. Maybe $10 for a primary care visit, $40 for a specialist, a percentage of hospital costs. These shift wildly by plan and location.
 
-Then there's drug coverage. Most Medicare Advantage plans include Part D prescription coverage (called MAPD plans). Some don't, which means you'd need a separate Part D plan. Always check the plan's formulary for your specific medications before signing up. A plan with a shiny $0 premium might charge you significantly more for your prescriptions than a plan with a $50 monthly cost.
+Then there's drug coverage. Most Medicare Advantage plans include [Part D prescription coverage](/medicare-part-d-explained/) (called MAPD plans). Some don't, which means you'd need a separate Part D plan. Always check the plan's formulary for your specific medications before signing up. A plan with a shiny $0 premium might charge you significantly more for your prescriptions than a plan with a $50 monthly cost.
 
 For healthy people with moderate health care use, Medicare Advantage can be genuinely cost-effective. For people with complex conditions needing frequent specialist care or expensive treatments, the numbers deserve very careful study. I've seen people thrive in both situations. There's no universal correct answer.
 

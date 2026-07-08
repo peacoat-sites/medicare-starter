@@ -23,11 +23,12 @@ faqs:
     a: "If your drug isn't covered by your plan's formulary, you typically pay full price and that spending doesn't count toward your out-of-pocket cap. You can request a formulary exception from your plan, or use the Medicare Plan Finder to look for plans that do cover your drug, especially during Open Enrollment."
   - q: "How do I apply for Extra Help with Part D costs?"
     a: "You apply through the Social Security Administration, either online at SSA.gov, by calling 1-800-772-1213, or at your local Social Security office. Medicare.gov also has a tool to check your eligibility. If you qualify, the program can dramatically reduce or eliminate your Part D premiums, deductibles, and co-pays."
+lastmod: 2026-07-07
 ---
 
 Most people I've worked with over the years hear "donut hole" and picture some minor inconvenience, like a small co-pay bump they'll barely notice. Then they open a pharmacy bill in October and nearly fall out of their chair.
 
-I've seen it happen dozens of times. A retired teacher from suburban Ohio, managing her rheumatoid arthritis with a brand-name biologic, had her monthly drug costs jump from about $47 to over $400 literally overnight because she'd crossed into what Medicare calls the "coverage gap." She didn't see it coming. Her plan hadn't warned her. And by the time she called me, she'd already skipped two doses trying to make the bottle last.
+I've seen it happen dozens of times. A retired teacher from suburban Ohio, managing her rheumatoid arthritis with a brand-name biologic, had her monthly drug costs jump from about $47 to over $400 literally overnight because she'd crossed into what Medicare calls the "[coverage gap](/medicare-part-d-coverage-gap/)." She didn't see it coming. Her plan hadn't warned her. And by the time she called me, she'd already skipped two doses trying to make the bottle last.
 
 The donut hole is real, it still matters in 2026, and the rules around it have changed enough in the last couple of years that a lot of the old information floating around the internet is flat-out wrong. Let me tell you what's actually true right now.
 
@@ -46,6 +47,13 @@ I'll be honest: when I first read about the $2,000 cap before it took effect, I 
 ---
 
 ## The 2026 Phase Structure: Where the Donut Hole Fits Now
+
+| Phase | Maximum Deductible | Total Drug Spending Threshold | Your Out-of-Pocket Status |
+| --- | --- | --- | --- |
+| Deductible | $590 | $0 | You pay 100% |
+| Initial Coverage | N/A | Up to $2,000 | You pay co-pays/coinsurance |
+| Coverage Gap | N/A | $2,000+ | Increased cost-sharing (brief) |
+| Catastrophic | N/A | $2,000+ out-of-pocket reached | You pay $0 |
 
 > **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 Most people picking a Medicare plan in California treat it like choosing a cable package: flip through the options, pick something that sounds okay, and move on. That instinct costs them hundreds, sometimes thousands, of dollars a year. I've watched it happen more times than I can count.
 
@@ -52,7 +52,7 @@ Four things should drive your decision:
 
 **Your prescriptions.** Part D formularies (the list of covered drugs) vary plan to plan. A drug that costs $12 a month on one plan might cost $85 on another for the exact same pill. The Medicare Plan Finder at [Medicare.gov](https://www.medicare.gov/plan-compare/) lets you enter your specific medications and compare actual costs.
 
-**Your county.** California's 58 counties have dramatically different plan availability. LA County residents might have 40+ Advantage plans to choose from. Someone in Lassen County might have four.
+**Your county.** [California's 58 counties](/medicare-in-california/) have dramatically different plan availability. LA County residents might have 40+ Advantage plans to choose from. Someone in Lassen County might have four.
 
 **Your health trajectory.** If you're healthy now but have a family history of serious illness, the predictability of Original Medicare plus a Medigap policy might be worth paying for.
 

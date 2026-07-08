@@ -23,15 +23,15 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 You missed your Medicare signup window and now you're panicking. Or maybe you just retired at 67, lost your employer health coverage last Friday, and someone told you that you "might" be able to still enroll. That "might" is doing a lot of work in that sentence, and it's exactly what this article is here to clear up.
 
-Here's what most Medicare explainers skip over: the Special Enrollment Period (SEP) isn't one thing. It's a family of different enrollment windows, each triggered by a specific life event, each with its own deadline and rules. Get them confused, or miss one by a few weeks, and you're looking at a permanent late enrollment penalty baked into your premiums for life. That's not scare tactics. It's the math.
+Here's what most Medicare explainers skip over: the Special Enrollment Period (SEP) isn't one thing. It's a family of different enrollment windows, each triggered by a specific life event, each with its own deadline and rules. Get them confused, or miss one by a few weeks, and you're looking at a permanent [late enrollment penalty](/medicare-late-enrollment-penalty/) baked into your premiums for life. That's not scare tactics. It's the math.
 
 ## What a Special Enrollment Period Actually Is
 
-Medicare runs on rigid schedules. Your Initial Enrollment Period (IEP) opens three months before your 65th birthday month and closes three months after it, giving you seven months to sign up. Miss that, and you're stuck waiting for the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. That gap can mean months uninsured and a late penalty on top of it.
+Medicare runs on rigid schedules. Your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/) opens three months before your 65th birthday month and closes three months after it, giving you seven months to sign up. Miss that, and you're stuck waiting for the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. That gap can mean months uninsured and a late penalty on top of it.
 
 The SEP handles real life, which doesn't follow Medicare's calendar. It lets you sign up for Medicare Part A (hospital insurance) and Part B (medical insurance) outside those standard windows without triggering a late penalty, assuming you qualify.
 
@@ -54,6 +54,15 @@ Once that happens, you have eight months to enroll in Part B. Here's where peopl
 Safest move: enroll in Part B before or during the month your group coverage ends. You can submit enrollment up to three months before coverage ends, which gives you the smoothest transition.
 
 ## Other SEPs You Should Know About
+
+| SEP Type | Triggering Event | Enrollment Window | Coverage Starts |
+| --- | --- | --- | --- |
+| Employer Coverage | Employment or group plan ends | 8 months from end date | Month after enrollment processed |
+| Loss of Creditable Coverage | Medicaid, union, or other qualifying plan ends | SEP granted upon loss | Varies |
+| Move Out of Service Area | Relocate outside plan's service area | SEP granted upon move | Varies |
+| Plan Exits Medicare | Medicare Advantage or Part D plan stops operating in area | SEP granted upon notice | Varies |
+| Qualifying for Extra Help | Become eligible for Low Income Subsidy | Permanent, once per quarter | Varies |
+| Exceptional Circumstances | Natural disaster, plan error, or other uncontrollable event | Case by case | Case by case |
 
 Employer coverage SEP gets the spotlight, but there are others covering real situations.
 

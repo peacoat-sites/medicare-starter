@@ -12,6 +12,7 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-now-covers-weight-loss-drugs-the-glp-1-bridge-explained"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something significant is about to happen for millions of Medicare beneficiaries, and if you've been watching the news about weight-loss medications and wondering whether any of this applies to you, the answer might finally be yes. Starting July 1, 2026, Medicare is launching the GLP-1 Bridge Program, the first time in the program's history that it will cover prescription weight-loss drugs. That's not a small thing. Federal law has blocked Medicare Part D from paying for weight-loss medications since Part D launched back in 2006, a full twenty years. What changes in just a matter of days is the result of CMS (the Centers for Medicare and Medicaid Services) using its authority to run a demonstration project as a creative workaround while Congress hasn't yet acted to change the underlying law permanently.
 
@@ -23,9 +24,17 @@ The Bridge runs from July 1, 2026 through December 31, 2027. It operates complet
 
 The practical upshot: if you're approved, you pay a flat $50 per month. That's your total out-of-pocket cost, full stop. CMS confirmed in its May 6, 2026 press release that manufacturers Novo Nordisk and Eli Lilly are providing these medications to the government at a net price of $245 per 30-day supply, with the program covering the gap between that cost and your $50 copay.
 
-One more important note on timing: CMS announced in May 2026 that the follow-on program called the BALANCE Model, which would have folded GLP-1 coverage into regular Part D, is delayed indefinitely. That's why the Bridge has been extended as the only pathway through 2027. Nobody should count on anything beyond December 31, 2027 without an act of Congress.
+One more important note on timing: CMS announced in May 2026 that the follow-on program called the [BALANCE Model](/cms-proposes-making-medicare-drug-price-negotiations-permanent/), which would have folded GLP-1 coverage into regular Part D, is delayed indefinitely. That's why the Bridge has been extended as the only pathway through 2027. Nobody should count on anything beyond December 31, 2027 without an act of Congress.
 
 ## Which Drugs Are Covered (and Which Ones People Assume Are Covered But Aren't)
+
+| Medication | Form(s) | Coverage Status | Notes |
+| --- | --- | --- | --- |
+| Wegovy | Injectable and tablet | Covered | Both formulations included |
+| Zepbound | KwikPen only | Covered | Other formulations not covered |
+| Foundayo | Injectable | Covered | Added April 6, 2026 |
+| Ozempic | Injectable | Not covered | Approved for diabetes, not weight loss |
+| Mounjaro | Injectable | Not covered | Approved for diabetes, not weight loss |
 
 > **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

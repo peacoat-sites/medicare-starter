@@ -23,6 +23,7 @@ faqs:
    a: "You're not legally required to enroll, but if you have no qualifying coverage and skip it, you'll face permanent premium penalties when you do sign up. If you're still working with good employer coverage, delaying makes sense. If you're not, enrolling on time is almost always the right call."
  - q: "How do I actually sign up for Medicare?"
    a: "You can enroll online at SSA.gov, call Social Security at 1-800-772-1213, or visit your local Social Security office. If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Parts A and B automatically. Check your mail around your 65th birthday regardless."
+lastmod: 2026-07-07
 ---
 
 Most people get their Medicare timing wrong before they even know the rules exist. They assume it works like regular insurance, that you sign up when you need it, or when it feels right, or when someone at the doctor's office mentions it. That assumption costs some of them hundreds of dollars a month in permanent premium penalties. For the rest of their lives.
@@ -31,7 +32,13 @@ Let me fix that right now.
 
 ## The Basic Windows, Explained Without the Jargon
 
-Your **Initial Enrollment Period (IEP)** is a 7-month window: the 3 months before the month you turn 65, your birthday month itself, and the 3 months after. That's your first and cleanest opportunity. Sign up during those first 4 months and your coverage starts either the month before your birthday or on your birthday month itself, depending on exactly when you enroll. Wait until month 5, 6, or 7, and coverage gets pushed back. Not the end of the world, but worth knowing.
+| Enrollment Period | Duration | Coverage Start | Part A | Part B | Part D |
+| --- | --- | --- | --- | --- | --- |
+| Initial Enrollment Period (IEP) | 7 months (3 before + birth month + 3 after) | Birth month or month before, if enrolled in first 4 months | No penalty | No penalty | No penalty |
+| General Enrollment Period (GEP) | Jan 1 - Mar 31 annually | July 1 | No penalty | 10% per 12-month period | 1% per month |
+| Special Enrollment Period (SEP) | 8 months after employer coverage ends | Varies | No penalty | No penalty if employer coverage qualified | No penalty if creditable |
+
+Your **[Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/)** is a 7-month window: the 3 months before the month you turn 65, your birthday month itself, and the 3 months after. That's your first and cleanest opportunity. Sign up during those first 4 months and your coverage starts either the month before your birthday or on your birthday month itself, depending on exactly when you enroll. Wait until month 5, 6, or 7, and coverage gets pushed back. Not the end of the world, but worth knowing.
 
 Miss the IEP entirely? Then you're looking at the **General Enrollment Period (GEP)**: January 1 through March 31 each year, with coverage starting July 1. And if you went without coverage in the interim, you'll carry late enrollment penalties on top of that delay.
 
@@ -49,13 +56,13 @@ If you have health coverage through your job or your spouse's job at 65, you may
 
 The key word is "qualifying coverage." Coverage from an employer with 20 or more employees generally qualifies. COBRA doesn't. Retiree coverage doesn't. Coverage through the marketplace (ACA plans) doesn't. I've talked to people who delayed Part B thinking their COBRA would protect them, and they were wrong, painfully so.
 
-When that employer coverage ends, you get a **Special Enrollment Period (SEP)**: 8 months to sign up for Part B penalty-free. Eight months sounds generous. It is, until you're dealing with a health crisis simultaneously, which is when people tend to let deadlines slip. Set a calendar reminder the day your employer coverage ends and treat the 8-month clock as real.
+When that employer coverage ends, you get a **[Special Enrollment Period (SEP)](/medicare-special-enrollment-period/)**: 8 months to sign up for Part B penalty-free. Eight months sounds generous. It is, until you're dealing with a health crisis simultaneously, which is when people tend to let deadlines slip. Set a calendar reminder the day your employer coverage ends and treat the 8-month clock as real.
 
 One thing I'd push back on: a lot of seniors assume bigger employers always mean better coverage, and therefore they should always stay on employer insurance as long as possible. That's not automatically true. I've seen cases where Medicare plus a supplement was substantially cheaper and more comprehensive than an employer plan with high deductibles and a narrow network. Run the actual numbers before you assume staying on the group plan is the obvious choice.
 
 ## The Penalty That Never Goes Away
 
-Part B late enrollment penalty: 10% added to your monthly premium for every 12-month period you were eligible but didn't sign up. And unlike most financial penalties, this one doesn't expire. It rides with you for as long as you have Part B.
+[Part B late enrollment penalty](/medicare-part-b-late-enrollment-penalty/): 10% added to your monthly premium for every 12-month period you were eligible but didn't sign up. And unlike most financial penalties, this one doesn't expire. It rides with you for as long as you have Part B.
 
 Currently, the standard Part B premium is in the range of $185 a month for most people. A two-year delay without a qualifying excuse adds 20% to that permanently. That's real money compounding over a 20-year retirement.
 

@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 Here's something that catches people completely off guard every single year: a letter from Social Security in the fall, telling them their Medicare premiums are going up, sometimes by hundreds of dollars a month. No warning. No obvious reason. Just a higher number, effective January 1st.
 
@@ -46,7 +46,7 @@ So let's get into what IRMAA actually is, what the 2026 numbers look like, and, 
 
 IRMAA is a surcharge piled on top of your standard Medicare Part B and Part D premiums if your income crosses certain thresholds. It's structured as a tiered pricing system where higher earners pick up a bigger share of their own Medicare costs.
 
-The standard Medicare Part B premium for 2025 is $185.00 a month. Once IRMAA applies, you're paying more. Sometimes a lot more. The surcharge jumps between tiers can be steep.
+The [standard Medicare Part B premium](/medicare-part-b-premium-2026/) for 2025 is $185.00 a month. Once IRMAA applies, you're paying more. Sometimes a lot more. The surcharge jumps between tiers can be steep.
 
 Here's where it gets confusing: Social Security uses your tax return from two years prior to determine whether IRMAA applies. For 2026, that's your 2024 Modified Adjusted Gross Income (MAGI). MAGI for IRMAA purposes is your Adjusted Gross Income plus any tax-exempt interest you earned. Cross that threshold in 2024 and you'll get the letter in late fall 2025. The higher premium kicks in January 2026.
 

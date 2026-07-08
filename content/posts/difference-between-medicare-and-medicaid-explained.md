@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 Forty-three million Americans are enrolled in Medicare. Over ninety million are on Medicaid. And a remarkable number of people in both programs aren't entirely sure which one they're on, or what the difference actually is.
 
@@ -58,9 +58,9 @@ Medicare has four main parts, and honestly, the lettering system is one of the m
 
 **Part B** covers outpatient services: doctor visits, preventive screenings, lab work, durable medical equipment (things like walkers and wheelchairs), and some home health care. Part B does have a monthly premium. In 2024, the standard premium is $174.70 per month, though higher-income enrollees pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount).
 
-**Part D** is prescription drug coverage. It's sold through private insurance companies that Medicare has approved. Premiums, deductibles, and drug formularies (the lists of covered drugs) vary by plan.
+**Part D** is [prescription drug coverage](/medicare-part-d-explained/). It's sold through private insurance companies that Medicare has approved. Premiums, deductibles, and drug formularies (the lists of covered drugs) vary by plan.
 
-**Part C**, also called Medicare Advantage, is an alternative way to get your Medicare benefits through a private insurer instead of directly through the federal government. Many Advantage plans bundle Parts A, B, and D together and sometimes include extras like dental, vision, or hearing coverage.
+**Part C**, also called [Medicare Advantage](/medicare-part-c-explained/), is an alternative way to get your Medicare benefits through a private insurer instead of directly through the federal government. Many Advantage plans bundle Parts A, B, and D together and sometimes include extras like dental, vision, or hearing coverage.
 
 Here's what catches a lot of people off guard: Medicare does not cover everything. Routine dental care, routine vision exams, hearing aids, and long-term custodial care (the kind of help you might need in a nursing home if you can't bathe or dress yourself) are largely not covered. That gap is significant. It's why Medigap (Medicare Supplement Insurance) policies exist. Those are private plans sold to fill in Medicare's cost-sharing holes.
 

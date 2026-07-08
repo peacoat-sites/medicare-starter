@@ -23,11 +23,18 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 You're turning 65 in three months, your employer just sent a letter about ending your group health coverage, and someone at your church mentioned you might owe a penalty if you don't enroll in Medicare at exactly the right time. That last part is absolutely true, and it's the kind of detail that trips up thousands of people every year. Medicare is one of the most valuable benefits you'll ever receive, but it comes with rules, moving parts, and deadlines that aren't always obvious. Let me walk you through exactly how it works.
 
 ## The Basic Building Blocks: Parts A, B, C, and D
+
+| Medicare Part | Monthly Premium | Coverage Type | Best For |
+| --- | --- | --- | --- |
+| Part A | Usually $0 | Inpatient hospital, skilled nursing, hospice, home health | Hospital and facility care |
+| Part B | $174.70 (2024 standard) | Doctor visits, outpatient care, preventive services, durable medical equipment | Outpatient and doctor care |
+| Part C (Medicare Advantage) | Often $0 (plus Part B) | All Original Medicare benefits plus usually dental, vision, hearing | Those wanting broader coverage and fixed costs |
+| Part D | Varies by plan | Prescription drugs | Those on Original Medicare needing drug coverage |
 
 Medicare is federal health insurance, run primarily by [the Centers for Medicare & Medicaid Services](https://www.cms.gov/). Most people think of it as one program, but it's actually a collection of parts that work together. Understanding what each part covers is the foundation of everything else.
 
@@ -43,7 +50,7 @@ Medicare is federal health insurance, run primarily by [the Centers for Medicare
 
 This is the single biggest decision most new Medicare enrollees face, and it deserves real thinking before you commit.
 
-With **Original Medicare** (Parts A and B), you can see virtually any doctor or hospital in the country that accepts Medicare. No network. You generally pay 20% of the Medicare-approved cost after your deductible, and here's the kicker: that 20% has no annual cap. That's what surprises many people. That's why most people with Original Medicare add a **Medigap policy** (Medicare Supplement Insurance), which is private insurance designed to cover some or all of those out-of-pocket costs.
+With **Original Medicare** (Parts A and B), you can see virtually any doctor or hospital in the country that accepts Medicare. No network. You generally pay 20% of the Medicare-approved cost after your deductible, and here's the kicker: that 20% has no annual cap. That's what surprises many people. That's why most people with Original Medicare add a **Medigap policy** ([Medicare Supplement Insurance](/what-does-medicare-cover/)), which is private insurance designed to cover some or all of those out-of-pocket costs.
 
 With **Medicare Advantage**, a private insurer manages your care. Most are HMOs or PPOs, meaning you'll typically need to stay in a specific network of doctors. Premiums are often $0 beyond your Part B premium, and plans frequently include dental, vision, and hearing coverage that Original Medicare doesn't touch. The trade-off: prior authorization requirements, network restrictions, and out-of-pocket maximums that can still hit several thousand dollars per year.
 

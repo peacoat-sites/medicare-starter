@@ -23,6 +23,7 @@ faqs:
     a: "Yes. Medicare Savings Programs, administered by your state, can pay coinsurance for people who meet income and asset limits. The QMB level provides the most comprehensive help. Contact your local SHIP office or visit Medicare.gov to screen for eligibility."
   - q: "Does Medicare coinsurance apply to preventive care visits?"
     a: "Not always. Many preventive services under Part B, including the annual wellness visit and certain cancer screenings, are covered at 100% with no coinsurance. However, if your doctor addresses a separate medical issue during what starts as a preventive visit, that portion of the visit may trigger coinsurance. It's worth asking your provider upfront how the visit will be billed."
+lastmod: 2026-07-07
 ---
 
 Most people assume Medicare is basically free once you hit 65. I hear this all the time, and I'll be honest, I thought something close to it myself before I got deep into this work. The reality is that Medicare has real out-of-pocket costs, and coinsurance is one of the biggest sources of surprise bills I see seniors dealing with every year.
@@ -35,15 +36,25 @@ A lot of people use "coinsurance" and "copay" interchangeably. They're not the s
 
 A **copay** is a flat dollar amount. You see your primary care doctor, you pay $20. Done. Predictable.
 
-**Coinsurance** is a percentage. You pay a share of whatever the total bill turns out to be. Under Medicare Part B (which covers outpatient care, doctor visits, lab work, durable medical equipment), the standard coinsurance is 20% of the Medicare-approved amount after you meet your deductible. That sounds manageable until you realize there's no cap on it. No out-of-pocket maximum in original Medicare Part A and Part B alone. That's the part that genuinely surprises most people I talk with.
+**Coinsurance** is a percentage. You pay a share of whatever the total bill turns out to be. Under Medicare Part B (which covers outpatient care, doctor visits, lab work, durable medical equipment), the standard coinsurance is 20% of the Medicare-approved amount after you meet your deductible. That sounds manageable until you realize there's no cap on it. No [out-of-pocket maximum](/how-to-lower-medicare-costs/) in original Medicare Part A and Part B alone. That's the part that genuinely surprises most people I talk with.
 
 Here's a worked example to make that concrete:
 
-You're admitted for outpatient surgery. Medicare approves $8,000 for the procedure. You've already met your Part B deductible (currently $257 as of 2026). Your share: 20% of $8,000, which is $1,600. Just like that, out of pocket, no ceiling.
+You're admitted for outpatient surgery. Medicare approves $8,000 for the procedure. You've already met your [Part B deductible](/medicare-deductible-2026/) (currently $257 as of 2026). Your share: 20% of $8,000, which is $1,600. Just like that, out of pocket, no ceiling.
 
 **Scenario → Action taken → Result:** A reader named Carol from Phoenix emailed me last winter after a hospital outpatient procedure. She had original Medicare only, received an $1,800 coinsurance bill, and had no idea it was coming. Had she enrolled in a Medicare Supplement (also called Medigap) plan before the procedure, her coinsurance responsibility could have been reduced to zero or near zero depending on the plan letter she chose.
 
 ## How Coinsurance Works in Each Part of Medicare
+
+| Medicare Part | Coinsurance Rate | Deductible (2026) | Key Details |
+| --- | --- | --- | --- |
+| Part A (Days 1-60) | None | $1,676 per benefit period | Fully covered after deductible |
+| Part A (Days 61-90) | $419/day | - | Coinsurance applies |
+| Part A (Days 91+) | $838/day | - | Lifetime reserve days only |
+| SNF (Days 1-20) | None | Covered by Part A deductible | Fully covered |
+| SNF (Days 21-100) | $209.50/day | - | Coinsurance applies |
+| Part B | 20% | $257 | After deductible; applies to doctor visits, labs, imaging, DME, therapy |
+| Part D | Plan-dependent (typically 0-25%+) | Plan-dependent | Varies by tier; annual out-of-pocket cap is $2,000 |
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -67,7 +78,7 @@ I want to spend a little extra time here because this is where original Medicare
 
 Private health insurance sold through employers or the ACA marketplace is legally required to have an out-of-pocket maximum. Medicare Part A and Part B, by themselves, do not. So if you're hospitalized for a long time, or you need extensive outpatient treatment, the 20% coinsurance under Part B can compound indefinitely. There is theoretically no ceiling.
 
-This is why Medigap plans exist. A Medicare Supplement plan, sold by private insurers, wraps around original Medicare and covers some or all of the coinsurance you'd otherwise owe. Plan G, for example, covers the Part A and Part B coinsurance in full (minus the Part B deductible). Plan N covers Part A coinsurance in full and Part B coinsurance except for a $20 copay on some office visits and $50 on emergency room visits that don't result in admission.
+This is why Medigap plans exist. A [Medicare Supplement plan](/medicare-advantage-vs-medicare-supplement-total-cost/), sold by private insurers, wraps around original Medicare and covers some or all of the coinsurance you'd otherwise owe. Plan G, for example, covers the Part A and Part B coinsurance in full (minus the Part B deductible). Plan N covers Part A coinsurance in full and Part B coinsurance except for a $20 copay on some office visits and $50 on emergency room visits that don't result in admission.
 
 The research on whether Medigap is "worth it" is actually mixed, because it depends heavily on your health status and utilization. If you're generally healthy and rarely use medical services, you might pay more in premiums than you'd ever spend in coinsurance. But for people managing chronic conditions or those who simply can't absorb a surprise $3,000 bill, a Medigap plan can be the difference between financial stability and real hardship. AARP's Medicare resource center at [aarp.org](https://www.aarp.org/health/medicare-insurance/) has solid plan comparison guidance if you want to think through the numbers for your own situation.
 

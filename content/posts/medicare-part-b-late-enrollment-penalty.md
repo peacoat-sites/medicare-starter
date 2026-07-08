@@ -23,6 +23,7 @@ faqs:
    a: "You can enroll during the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. Or, if you're leaving qualifying job-based coverage, you have a Special Enrollment Period of 8 months to sign up without adding further delay to your penalty. Visit Medicare.gov or call 1-800-MEDICARE to start the process."
  - q: "Is there any income-related help available if the penalty makes Part B unaffordable?"
    a: "Yes. Medicare Savings Programs (MSPs), administered through your state Medicaid office, may help pay your Part B premium, including the penalty amount, if your income and assets fall within certain limits. It's worth checking regardless of whether you think you qualify. Many people are surprised to find they're eligible."
+lastmod: 2026-07-07
 ---
 
 Most people assume the Medicare late enrollment penalty is a temporary slap on the wrist. Pay a little extra for a year, get back on track, and move on. I'll be honest: that's one of the most expensive misunderstandings I've seen in 20 years of helping people sort out their Medicare situations. The penalty isn't temporary. It follows you for life.
@@ -33,7 +34,7 @@ Let me explain exactly what that means, why so many people get blindsided by it,
 
 Here's the basic mechanics. If you don't sign up for Medicare Part B (which covers doctor visits, outpatient care, and medical equipment) when you're first eligible, and you don't have qualifying coverage elsewhere, Social Security adds 10% to your Part B premium for every 12-month period you went without coverage.
 
-So if you were uninsured for two years past your Initial Enrollment Period (IEP), your premium goes up 20%. Three years? 30%. The penalty compounds based on how long you waited.
+So if you were uninsured for two years past your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/), your premium goes up 20%. Three years? 30%. The penalty compounds based on how long you waited.
 
 What surprised me when I first started working through this with clients is how fast the numbers add up over a retirement. The standard Part B premium changes each year, but let's say you're paying a penalty of 30% on top of whatever the base premium happens to be. You're going to pay that elevated amount every single month for the rest of your life. Over a 20-year retirement, a 30% penalty easily costs thousands of extra dollars out of pocket. Not because you got sick. Not because you used more benefits. Just because of timing.
 
@@ -41,15 +42,25 @@ And here's the part that really stings: you'll likely qualify for the exact same
 
 ## When Your Initial Enrollment Window Opens (and Closes)
 
+| Situation | Qualifying for Penalty Exemption? | Notes |
+| --- | --- | --- |
+| Employer group health plan (current job) | Yes | Must be active employment; retiree plans do not qualify |
+| Spouse's current employer group plan | Yes | Same rules as own employment |
+| Individual market health insurance | No | Self-purchased coverage does not count |
+| COBRA | No | Continuation coverage does not qualify |
+| Retiree health plan | No | Often mistaken for qualifying coverage |
+| VA health benefits | No | Excellent coverage but not Medicare |
+| Health Insurance Marketplace | No | ACA plans do not qualify |
+
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
 Your IEP is a 7-month window. It starts three months before the month you turn 65, includes your birthday month, and runs three months after. Miss that window without a qualifying reason, and the penalty clock starts ticking.
 
-That said, there's a critically important exception, and it's one that confuses people more than anything else I deal with. If you're still working at 65 and you're covered under an employer group health plan (through your own job or a spouse's current job), you can delay Part B without penalty. The keyword there is "current" employer. Retiree coverage, COBRA, the Health Insurance Marketplace, and VA health benefits do not count as qualifying coverage for this purpose. I've had readers contact me completely shocked after discovering their retiree plan didn't protect them from the penalty. It doesn't. Full stop.
+That said, there's a critically important exception, and it's one that confuses people more than anything else I deal with. If you're still working at 65 and you're covered under an [employer group health plan](/medicare-enrollment-if-still-working-at-65/) (through your own job or a spouse's current job), you can delay Part B without penalty. The keyword there is "current" employer. Retiree coverage, COBRA, the Health Insurance Marketplace, and VA health benefits do not count as qualifying coverage for this purpose. I've had readers contact me completely shocked after discovering their retiree plan didn't protect them from the penalty. It doesn't. Full stop.
 
-Once you leave that qualifying job-based coverage, you get a Special Enrollment Period (SEP) of 8 months to sign up for Part B penalty-free. Eight months sounds generous. It goes fast, especially if you're dealing with retirement transitions, moving, and everything else that comes with that season of life.
+Once you leave that qualifying job-based coverage, you get a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) of 8 months to sign up for Part B penalty-free. Eight months sounds generous. It goes fast, especially if you're dealing with retirement transitions, moving, and everything else that comes with that season of life.
 
 ## The Groups Most Likely to Get Hit
 

@@ -12,6 +12,7 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-access-model-launches-wearables-and-telehealth-for-chronic-ca"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Picture this: your doctor's office calls to say they've joined a new Medicare program, and they want to send you a blood pressure cuff that connects to your phone and checks in with a care team between appointments. Maybe that sounds exciting, or maybe it sounds like one more complicated thing to figure out. Either way, you need to know what you're agreeing to, because as of July 5, 2026, this is no longer hypothetical. It's real, it's here, and it's going to start showing up in your care.
 
@@ -41,7 +42,7 @@ If a new organization reaches out to you about joining their ACCESS program, tak
 
 This is where I want to be really clear, because I've seen people hesitate to try new programs out of fear they'll lose something they've spent years counting on. Enrollment in the ACCESS Model is completely voluntary. You are not required to join just because your doctor's practice participates.
 
-If you do choose to enroll, your standard Medicare rights stay intact. You can still see any Medicare provider you want. You don't get locked into a network the way you might with a Medicare Advantage plan. And one of the more meaningful benefits: participating organizations are allowed to waive your standard Medicare cost-sharing. That means copayments and coinsurance that you'd normally owe could be reduced or eliminated for services delivered through the program. For someone managing multiple chronic conditions and seeing providers frequently, that can add up to real savings.
+If you do choose to enroll, your standard Medicare rights stay intact. You can still see any Medicare provider you want. You don't get locked into a network the way you might with a [Medicare Advantage plan](/your-medicare-advantage-doctor-may-have-just-gone-out-of-network/). And one of the more meaningful benefits: participating organizations are allowed to waive your standard Medicare cost-sharing. That means copayments and coinsurance that you'd normally owe could be reduced or eliminated for services delivered through the program. For someone managing multiple chronic conditions and seeing providers frequently, that can add up to real savings.
 
 The [CMS Innovation Center's ACCESS Model page](https://www.cms.gov/priorities/innovation/innovation-models/access) is the most current and accurate source for what's covered and how the program operates. Bookmark it and check back, because details will continue to be refined as the program matures.
 

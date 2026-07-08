@@ -12,12 +12,22 @@ author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of the Medicare Cost Cap Act leads with the politics. Here's what matters more: if you're in traditional Medicare right now, there is no limit on what you can spend. None. A bad year, a hospitalization, a cancer diagnosis, and the bills just keep coming. That's the problem this bill is trying to fix.
 
-On June 25, 2026, Sen. Lisa Blunt Rochester (D-DE), Finance Committee Ranking Member Ron Wyden (D-OR), and Senate Majority Leader Chuck Schumer (D-NY) introduced the Medicare Cost Cap Act, backed by 14 Democratic co-sponsors. The proposal would create a $5,000 annual out-of-pocket ceiling for traditional Medicare, Parts A and B, the program that covers roughly 35 million Americans who haven't switched to Medicare Advantage plans. Once you hit that threshold, Medicare pays 100% of covered costs for the rest of the year.
+On June 25, 2026, Sen. Lisa Blunt Rochester (D-DE), Finance Committee Ranking Member Ron Wyden (D-OR), and Senate Majority Leader Chuck Schumer (D-NY) introduced the Medicare Cost Cap Act, backed by 14 Democratic co-sponsors. The proposal would create a $5,000 annual out-of-pocket ceiling for traditional Medicare, Parts A and B, the program that covers roughly 35 million Americans who haven't switched to [Medicare Advantage plans](/your-medicare-advantage-doctor-may-have-just-gone-out-of-network/). Once you hit that threshold, Medicare pays 100% of covered costs for the rest of the year.
 
 ## The Gap Nobody Talks About Enough
+
+| Coverage Type | Annual Out-of-Pocket Cap (2026) |
+| --- | --- |
+| Traditional Medicare (proposed) | $5,000 |
+| Medicare Advantage | $9,250 |
+| Employer-sponsored plans | Capped* |
+| ACA marketplace plans | Capped* |
+
+*Traditional Medicare is currently the only major U.S. health insurance with no annual spending limit.
 
 Here's the thing that surprises most people when they first learn it: every major form of health insurance in this country caps your annual exposure, except traditional Medicare.
 

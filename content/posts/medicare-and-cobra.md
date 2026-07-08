@@ -23,6 +23,7 @@ faqs:
    a: "If you haven't enrolled in Part A and you're taking COBRA, COBRA acts as your primary insurance. Once you enroll in Part A (and Part B), Medicare becomes primary and COBRA becomes secondary. The shift happens automatically based on enrollment dates. Keep your COBRA administrator informed of your Medicare enrollment dates so claims get coordinated correctly."
  - q: "My employer never told me about the COBRA and Medicare interaction. Is that normal?"
    a: "Honestly, yes. Employers are required to give you a COBRA election notice, but they're not required to explain how COBRA interacts with Medicare. That gap in communication is a big reason this mistake happens so often. HR departments aren't Medicare counselors, and they can't give you individualized advice anyway. This is exactly why programs like SHIP exist. Call them before you sign anything."
+lastmod: 2026-07-07
 ---
 Most people get this backwards. They assume COBRA is the safe choice, the familiar bridge that keeps them covered while they figure out Medicare, and so they sign up for COBRA first and assume they can sort out Medicare later. That assumption costs some people thousands of dollars. I've sat across from enough seniors to know that this particular misunderstanding is one of the most expensive Medicare mistakes there is, and it's completely avoidable once you understand how the two programs actually interact.
 
@@ -41,6 +42,14 @@ The late enrollment penalty for Part B (the part that covers doctor visits and o
 Part D (prescription drug coverage) has a similar penalty: roughly 1% of the national base beneficiary premium for each month you went without creditable drug coverage. It adds up faster than most people expect.
 
 ## When COBRA Actually Makes Sense Alongside Medicare
+
+| Scenario | Medicare | COBRA | Notes |
+| --- | --- | --- | --- |
+| Age 65+, leaving job | Enroll immediately in Part A & B | Optional secondary (up to 18 months) | COBRA does NOT extend Initial Enrollment Period |
+| Still working at 65 | Can delay Part B & D without penalty | Does not count as creditable coverage | Only active employer coverage qualifies |
+| Spouse under 65, you turning 65 | Not applicable (individual coverage only) | Can cover spouse up to 36 months | Allows time for spouse to reach Medicare eligibility |
+| Late enrollment penalty (Part B) | 10% increase per 12-month period of delay | N/A | Penalties permanent |
+| Late enrollment penalty (Part D) | ~1% per month without creditable coverage | N/A | Penalties permanent |
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

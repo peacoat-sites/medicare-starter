@@ -12,6 +12,7 @@ author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "your-medicare-advantage-doctor-may-have-just-gone-out-of-network"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Most people signing up for Medicare Advantage assumed the hardest part was picking a plan. What they didn't realize is that the plan they picked might not keep their doctors.
@@ -24,7 +25,7 @@ If you or someone you love is on a Medicare Advantage plan, this is the moment t
 
 I'll be honest, when I first started looking into this, I expected the story to be simple: greedy insurers cutting payments, frustrated hospitals walking. And that's part of it. But the fuller picture is more complicated.
 
-Medicare Advantage plans, often called MA plans, are private insurance alternatives to Original Medicare. The federal government pays these insurers a fixed amount per enrollee, and the insurers then contract with hospitals and doctors to provide care. The tension has been building for years over how much those insurers pay providers and, critically, how often they deny or delay prior authorizations, which are approvals required before a hospital can perform certain procedures or admit a patient.
+Medicare Advantage plans, often called MA plans, are private insurance alternatives to [Original Medicare](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/). The federal government pays these insurers a fixed amount per enrollee, and the insurers then contract with hospitals and doctors to provide care. The tension has been building for years over how much those insurers pay providers and, critically, how often they deny or delay prior authorizations, which are approvals required before a hospital can perform certain procedures or admit a patient.
 
 Health systems say they're spending enormous resources fighting claim denials and fighting to get patients the care they need. The insurers say they're managing costs to keep premiums low. Both things can be true at once, and the research here is genuinely mixed on who carries more of the blame. What isn't mixed is the outcome: hospitals are deciding the contracts aren't worth it, and patients are caught in the middle.
 
@@ -42,7 +43,7 @@ You could stay in your current plan and pay out-of-network rates, which in many 
 
 What surprised me in reporting this is how many people don't realize they may have the legal right to switch outside of the standard enrollment windows. When a plan is terminated or when a provider contract change leaves you without a primary care physician in network, you may qualify for a Special Enrollment Period, commonly called an SEP. This gives you a window to join a different MA plan or return to Original Medicare.
 
-The catch, and it's a significant one, is that returning to Original Medicare doesn't automatically mean you'll get a Medigap policy, which is the supplemental insurance that covers costs Original Medicare doesn't pay. In most states, Medigap insurers can turn you down or charge you more based on your health history if you're outside of a guaranteed issue window. Those windows are tied to specific triggering events and are time-sensitive, sometimes as short as 63 days. This is not an area where you want to wait and see.
+The catch, and it's a significant one, is that returning to Original Medicare doesn't automatically mean you'll get a [Medigap policy](/what-the-2026-medicare-trustees-report-means-for-your-benefits/), which is the supplemental insurance that covers costs Original Medicare doesn't pay. In most states, Medigap insurers can turn you down or charge you more based on your health history if you're outside of a guaranteed issue window. Those windows are tied to specific triggering events and are time-sensitive, sometimes as short as 63 days. This is not an area where you want to wait and see.
 
 ## How to Check If You're Affected
 

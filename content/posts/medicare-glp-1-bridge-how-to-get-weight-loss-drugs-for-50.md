@@ -12,6 +12,7 @@ author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-glp-1-bridge-how-to-get-weight-loss-drugs-for-50"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most people assume Medicare simply doesn't cover weight-loss drugs, full stop. That's been true for decades, thanks to a longstanding federal exclusion that kept obesity medications completely off the table. But starting July 1, 2026, that changes. CMS is launching the Medicare GLP-1 Bridge, and if you or someone you love has a Part D plan and a BMI over 27, this is genuinely worth understanding before the month is out.
 
@@ -37,6 +38,16 @@ What struck me here was that Ozempic and Mounjaro, which are the diabetic-indica
 
 ## Who Qualifies and How Prior Authorization Works
 
+| Aspect | Details |
+| --- | --- |
+| Program Start Date | July 1, 2026 |
+| Program End Date | December 31, 2027 |
+| Monthly Copay | $50 (flat, no deductible) |
+| Part D Annual Out-of-Pocket Cap (2026) | $2,100 |
+| Minimum BMI Requirement | 27 or higher |
+| Covered Medications | Wegovy (all formulations), Foundayo (all formulations), Zepbound KwikPen only |
+| Eligible Comorbidities | Cardiovascular disease, prediabetes, hypertension, obstructive sleep apnea (among others) |
+
 Eligibility has three main requirements. You need to be enrolled in either a standalone Part D plan or an MA-PD plan. You need a BMI of 27 or higher combined with at least one eligible comorbidity. The examples CMS has listed include cardiovascular disease, prediabetes, hypertension, and obstructive sleep apnea, among others. And you need a prior authorization, which your provider submits starting July 1.
 
 The prior authorization piece is where I'd encourage some patience, and some preparation. As the [Medicare Rights Center noted in their June 4th coverage](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026), the full details on prior authorization criteria were only being released in the weeks just before launch. Both patients and providers are learning the specifics in real time. If your doctor hasn't treated a Medicare GLP-1 Bridge patient yet, they may need a few days to work through the submission process. That's normal for a brand-new program.
@@ -49,7 +60,7 @@ The Bridge was originally conceived as a short-term bridge, hence the name, to a
 
 What does that mean for you practically? Coverage through the Bridge is not permanent. If you start a GLP-1 medication under this program and it works well, there's no guarantee of continued coverage at $50 past December 2027. The research on long-term outcomes for GLP-1 medications is genuinely promising, especially the cardiovascular data, but the policy picture beyond 2027 is uncertain. That's not a reason to avoid the program. It's a reason to go in with realistic expectations about what comes next.
 
-The indefinite delay of BALANCE also signals that CMS is still working through questions about cost, insurer participation, and long-term sustainability. The insurance industry's mixed signals about participating in a permanent GLP-1 benefit are real. This is an area where the policy is moving fast and the research is still catching up.
+The indefinite delay of BALANCE also signals that CMS is still working through questions about cost, insurer participation, and [long-term sustainability](/cms-proposes-making-medicare-drug-price-negotiations-permanent/). The insurance industry's mixed signals about participating in a permanent GLP-1 benefit are real. This is an area where the policy is moving fast and the research is still catching up.
 
 ## What to Do Before July 1
 

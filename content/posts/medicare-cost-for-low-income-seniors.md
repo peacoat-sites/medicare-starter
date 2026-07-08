@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 Most people assume Medicare is either free or close to it once you hit 65. I've spent two decades watching that assumption cost seniors real money, sometimes thousands of dollars a year that they never had to spend.
 
@@ -36,8 +36,8 @@ Let me give you the real picture.
 <div class="value-module">
  <div class="vm-head">Medicare Savings Programs Eligibility at a Glance</div>
  <div class="vm-body">
- <p class="vm-intro">These four Medicare Savings Programs (MSPs) cover different cost levels based on your income and assets-here's how they compare for 2024.</p>
- <table><caption>Medicare Savings Programs: Income Limits and Benefits (2024)</caption><thead><tr><th>Program</th><th>Monthly Income Limit (Individual)</th><th>Asset Limit (Individual)</th><th>What It Pays</th></tr></thead><tbody><tr><td>Qualified Medicare Beneficiary (QMB)</td><td>≤ $1,275</td><td>≤ $9,430</td><td>Part A premium, Part B premium, deductibles, coinsurance, copays</td></tr><tr><td>Specified Low-Income Medicare Beneficiary (SLMB)</td><td>$1,275, $1,528</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualifying Individual (QI)</td><td>$1,528, $1,715</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualified Disabled and Working Individuals (QDWI)</td><td>≤ $4,945</td><td>≤ $4,000</td><td>Part A premium only (for those who lost premium-free Part A)</td></tr></tbody><tfoot><tr><td colspan="4">Note: Limits shown are federal minimums; most states set higher thresholds. Couples' limits are roughly 35% higher. Assets exclude home, one car, burial funds, and personal belongings. Apply through your state Medicaid office or at ssa.gov.</td></tr></tfoot></table>
+ <p class="vm-intro">These four [Medicare Savings Programs (MSPs)](/medicare-savings-programs/) cover different cost levels based on your income and assets-here's how they compare for 2024.</p>
+ <table><caption>Medicare Savings Programs: Income Limits and Benefits (2024)</caption><thead><tr><th>Program</th><th>Monthly Income Limit (Individual)</th><th>Asset Limit (Individual)</th><th>What It Pays</th></tr></thead><tbody><tr><td>Qualified Medicare Beneficiary (QMB)</td><td>≤ $1,275</td><td>≤ $9,430</td><td>Part A premium, [Part B premium](/medicare-part-b-premium-2026/), deductibles, coinsurance, copays</td></tr><tr><td>Specified Low-Income Medicare Beneficiary (SLMB)</td><td>$1,275, $1,528</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualifying Individual (QI)</td><td>$1,528, $1,715</td><td>≤ $9,430</td><td>Part B premium only</td></tr><tr><td>Qualified Disabled and Working Individuals (QDWI)</td><td>≤ $4,945</td><td>≤ $4,000</td><td>Part A premium only (for those who lost premium-free Part A)</td></tr></tbody><tfoot><tr><td colspan="4">Note: Limits shown are federal minimums; most states set higher thresholds. Couples' limits are roughly 35% higher. Assets exclude home, one car, burial funds, and personal belongings. Apply through your state Medicaid office or at ssa.gov.</td></tr></tfoot></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -50,7 +50,7 @@ Part A covers hospital stays and is free if you or your spouse paid Medicare tax
 
 Part B handles doctor visits and outpatient services. $174.70 a month in 2024 for the vast majority of enrollees. It comes straight out of your Social Security check automatically. Then there's a $240 annual deductible before Part B coverage actually starts.
 
-The stuff nobody budgets for properly is Part D (prescription drugs). It's got its own premium, its own deductible that can hit $545 in 2024, plus copays on top of that. A Medicare Supplement plan (Medigap) to fill the gaps that Part A and B leave wide open runs $150 to $250 monthly depending on your age, where you live, and what your health history looks like.
+The stuff nobody budgets for properly is Part D (prescription drugs). It's got its own premium, its own deductible that can hit $545 in 2024, plus copays on top of that. A [Medicare Supplement plan (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/) to fill the gaps that Part A and B leave wide open runs $150 to $250 monthly depending on your age, where you live, and what your health history looks like.
 
 All together? A senior with zero financial assistance could be paying $500 to $600 a month just on Medicare before they pick up a single prescription or see a specialist. On Social Security income of $1,500 to $1,800 a month, that's devastating.
 

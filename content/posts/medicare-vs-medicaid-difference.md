@@ -23,6 +23,7 @@ faqs:
    a: "Medicaid eligibility is based on income and (for some categories) assets, and rules vary by state. The fastest way to check is through your state's Medicaid agency website, or at Healthcare.gov. A free SHIP counselor can also help you sort through eligibility and applications."
  - q: "Will applying for Medicaid affect my Medicare benefits?"
    a: "No. Enrolling in Medicaid does not reduce or eliminate your Medicare coverage. If anything, having both gives you more complete coverage, since Medicaid can help cover what Medicare doesn't."
+lastmod: 2026-07-07
 ---
 
 Most people assume Medicare is for the poor and Medicaid is for the elderly. It's the single most common mix-up I've seen in 20 years of counseling seniors, and it costs people real money when they get it wrong.
@@ -61,15 +62,21 @@ What surprised me when I first started learning this deeply is how comprehensive
 
 ## Where They Overlap: The Dual-Eligible Population
 
+| Program | Eligibility Basis | Monthly Premium (Part B) | Covers Long-Term Care | Covers Dental/Vision |
+| --- | --- | --- | --- | --- |
+| Medicare | Age 65+ or disability | ~$185 (2026) | No | No (Original Medicare) |
+| Medicaid | Income and assets | None | Yes | Yes |
+| Dual-Eligible (Both) | Age/disability + low income | Covered by Medicaid (QMB) | Yes (Medicaid) | Yes (Medicaid) |
+
 Here's where it gets genuinely interesting, and where I'd argue most Medicare guidance glosses over the details too quickly.
 
 About 12 million Americans qualify for both Medicare and Medicaid simultaneously. They're called "dual-eligible" or "dual-eligible beneficiaries." This population tends to be lower-income seniors or people with disabilities who have both the age or disability status that qualifies them for Medicare and the financial situation that qualifies them for Medicaid.
 
 When someone has both, the programs work together in a specific way: Medicare pays first (it's called the "primary payer"), and Medicaid steps in as the "secondary payer" to cover costs Medicare leaves behind, like copays, deductibles, and services Medicare doesn't cover at all.
 
-For someone in this category, Medicaid can also help pay Medicare premiums through programs called Medicare Savings Programs (MSPs). There are four MSP levels:
+For someone in this category, Medicaid can also help pay Medicare premiums through programs called [Medicare Savings Programs](/difference-between-medicare-and-medicaid-explained/) (MSPs). There are four MSP levels:
 
-- **QMB (Qualified Medicare Beneficiary):** Medicaid pays Part A and B premiums, deductibles, and cost-sharing.
+- **QMB (Qualified Medicare Beneficiary):** Medicaid pays [Part A and B premiums](/what-does-medicare-part-a-and-b-cover-for-seniors/), deductibles, and cost-sharing.
 - **SLMB (Specified Low-Income Medicare Beneficiary):** Medicaid pays the Part B premium only.
 - **QI (Qualifying Individual):** Similar to SLMB, with slightly higher income limits.
 - **QDWI (Qualified Disabled and Working Individuals):** Helps a small group pay Part A premiums.

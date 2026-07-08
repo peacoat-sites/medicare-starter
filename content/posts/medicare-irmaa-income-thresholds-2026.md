@@ -23,6 +23,7 @@ faqs:
    a: "Yes. IRMAA is assessed on each Medicare beneficiary individually based on your household's filing status. If you file jointly and your combined MAGI crosses a threshold, both spouses pay the surcharge on their own premiums separately."
  - q: "How will I know if I owe an IRMAA surcharge?"
    a: "Social Security mails a notice, typically in November or December before the coverage year starts. It will tell you your income tier and your resulting premium. If you disagree with it, you have 60 days from the date of the notice to request a reconsideration."
+lastmod: 2026-07-07
 ---
 Most people discover IRMAA the worst possible way: they get their Medicare premium letter in the fall, see a number that's $100 or $200 higher than they expected, and spend the next week convinced Social Security made a clerical error. They didn't. That's IRMAA doing exactly what it was designed to do, and the surprise is almost always avoidable.
 
@@ -37,6 +38,15 @@ What surprised me, even after seeing it hundreds of times, is how often this cat
 The Social Security Administration sends out the IRMAA determination letters, typically in November or December before the coverage year begins. If you're already on Medicare and your income crossed a threshold, you'll get a notice. If you're newly enrolling, it'll be factored into your first premium bill.
 
 ## The 2026 IRMAA Thresholds, Spelled Out
+
+| Income Tier | Individual MAGI | Married Filing Jointly MAGI | Part B Premium (2026) | Part D Surcharge Range |
+| --- | --- | --- | --- | --- |
+| Tier 1 | Up to $106,000 | Up to $212,000 | $185.00 | $0.00 |
+| Tier 2 | $106,001-$133,000 | $212,001-$266,000 | ~$259.00 | ~$13.70 |
+| Tier 3 | $133,001-$167,000 | $266,001-$334,000 | ~$370.00 | ~$34.70 |
+| Tier 4 | $167,001-$200,000 | $334,001-$400,000 | ~$480.90 | ~$55.70 |
+| Tier 5 | $200,001-$500,000 | $400,001-$750,000 | ~$591.90 | ~$76.80 |
+| Tier 6 | Above $500,000 | Above $750,000 | ~$628.90 | ~$85.80 |
 
 Here's what the brackets actually look like for 2026. I want to be upfront: these figures reflect the thresholds as adjusted for inflation and released by CMS. If your situation is at or near a boundary, please verify the exact current numbers at Medicare.gov, since small adjustments do happen.
 

@@ -23,13 +23,26 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 Most people choosing between Medigap Plan G and Plan N aren't struggling with the Medicare basics anymore. They've done the reading. What gets them stuck is a deceptively simple question: "Is the cheaper plan actually worth it, or will I regret saving that money?"
 
 That's exactly the right question to ask. I'm going to walk you through it the way I would if you were sitting across from me.
 
 ## What These Two Plans Actually Cover (And What Separates Them)
+
+| Coverage Item | Plan G | Plan N |
+| --- | --- | --- |
+| Part A Deductible ($1,676 in 2025) | Covered | Covered |
+| Part B Deductible ($257 in 2025) | Not Covered | Not Covered* |
+| Part B Excess Charges | Covered | Not Covered |
+| Office Visit Copayments | None | Up to $20 |
+| Emergency Room Copayments | None | Up to $50 (if not admitted) |
+| Skilled Nursing Facility Coinsurance | Covered | Covered |
+| Part A Hospital Coinsurance | Covered | Covered |
+| Foreign Travel Emergency (80%) | Covered | Covered |
+
+*Varies by insurer
 
 Both Plan G and Plan N are Medigap (Medicare Supplement Insurance) plans. Private insurance companies sell these to fill gaps that Original Medicare (Part A and Part B) leaves open, like hospital deductibles, coinsurance, and copayments that would otherwise hit your bank account.
 
@@ -39,7 +52,7 @@ Plan G is about as close to comprehensive coverage as you can get in today's Med
 - Part A coinsurance and hospital costs up to an additional 365 days after Medicare benefits run out
 - Part A hospice care coinsurance or copayments
 - Part B (outpatient insurance) coinsurance or copayments
-- Part B excess charges (I'll explain this in a moment)
+- [Part B excess charges](/medicare-supplement-plan-n-explained/) (I'll explain this in a moment)
 - Skilled nursing facility care coinsurance
 - The first three pints of blood
 - 80% of foreign travel emergency costs, up to plan limits

@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 The 2026 Medicare Part B premium hasn't been officially announced yet, but I'm betting it's higher than what you're paying right now. It almost always is. The Centers for Medicare & Medicaid Services (CMS) typically releases the official figures in November for the following year, so if you're reading this close to that window, check [Medicare.gov](https://www.medicare.gov/) directly for the confirmed number.
 
@@ -41,9 +41,18 @@ There's also a statutory protection called the "hold harmless" provision that mo
 
 ## The IRMAA Surcharge: The Part of the Bill Nobody Warns You About
 
+| Income Range (Single Filer) | IRMAA Surcharge | 2025 Total Monthly Premium |
+| --- | --- | --- |
+| $106,000 or less | $0 | $185.00 |
+| $106,001-$133,000 | ~$74 | ~$259.00 |
+| $133,001-$167,000 | ~$187 | ~$372.00 |
+| $167,001-$200,000 | ~$300 | ~$485.00 |
+| $200,001-$500,000 | ~$374 | ~$559.00 |
+| Above $500,000 | ~$443 | ~$628.00 |
+
 > **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-If your income is above a certain threshold, you don't just pay the standard premium. You pay it plus an Income-Related Monthly Adjustment Amount, which everyone calls IRMAA (pronounced "er-mah").
+If your income is above a certain threshold, you don't just pay the standard premium. You pay it plus an [Income-Related Monthly Adjustment Amount](/medicare-income-related-premium-adjustment/), which everyone calls IRMAA (pronounced "er-mah").
 
 I've seen people get blindsided by this completely. They budget for $185 a month, and then their first Medicare bill shows up at $295 or $406 or more. It's jarring.
 
@@ -74,7 +83,7 @@ The standard Part B premium can genuinely be a hardship for people living primar
 
 Real programs exist to help with this, and they're significantly underused.
 
-The Medicare Savings Programs (MSPs) are state-administered programs that pay your Part B premium for you if your income and assets fall below certain limits. The most common one, the Qualified Medicare Beneficiary (QMB) program, also covers your Part A and Part B deductibles and cost-sharing. The income limits vary by state, but in many states, a single person earning under roughly $1,255 a month (in 2025) may qualify. You apply through your state Medicaid office.
+The [Medicare Savings Programs](/medicare-savings-programs/) (MSPs) are state-administered programs that pay your Part B premium for you if your income and assets fall below certain limits. The most common one, the Qualified Medicare Beneficiary (QMB) program, also covers your Part A and Part B deductibles and cost-sharing. The income limits vary by state, but in many states, a single person earning under roughly $1,255 a month (in 2025) may qualify. You apply through your state Medicaid office.
 
 Extra Help (also called the Low Income Subsidy, or LIS) is a separate federal program that helps with Part D drug costs, not Part B premiums specifically, but it's worth knowing about because people who qualify for MSPs often qualify for Extra Help too.
 

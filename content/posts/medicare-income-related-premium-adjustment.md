@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 Most people discover IRMAA the worst possible way: they open their Medicare bill and it's $100 or $200 higher than expected, with zero warning and instructions that don't make sense. I've watched this happen in my office so many times the reaction's become predictable. Confusion. Then anger. Then something close to defeat. You've done everything right. You saved. And now Medicare's charging you more because of it.
 
@@ -40,6 +40,16 @@ Part D works the same way. You don't pay a flat IRMAA on top of whatever drug pl
 Congress created this in 2003, expanded it in 2010 and again in 2011. The logic: higher-income Medicare beneficiaries should pay more of the program's costs. Fair or not, it's law. And it runs automatically.
 
 ## The Two-Year Lookback: Why Your 2023 Income Affects Your 2025 Premium
+
+| Income Range (MAGI) | Individual Filers | Married Filing Jointly* | Monthly Part B Addition |
+| --- | --- | --- | --- |
+| $106,000-$133,000 | $106,000-$266,000 | $74.00 |
+| $133,001-$167,000 | $266,001-$334,000 | $185.00 |
+| $167,001-$200,000 | $334,001-$400,000 | $295.90 |
+| $200,001-$500,000 | $400,001-$1,000,000 | $406.90 |
+| Above $500,000 | Above $1,000,000 | $443.90 |
+
+*Married filing separately: much stricter; second bracket begins at $106,000 combined.
 
 This is what blindsides most people.
 

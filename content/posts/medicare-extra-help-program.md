@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 Picture this: you're sitting at the kitchen table with a stack of Medicare paperwork, and you notice your prescription drug plan is about to cost you several hundred dollars a month. You're on a fixed income. You've paid into this system your whole working life. And nobody told you there's a program that could reduce those drug costs to almost nothing. I've seen this exact situation play out dozens of times, and every single time, the person in that chair is stunned that they qualified and never knew to ask.
 
@@ -35,7 +35,7 @@ That program is called Extra Help. If you or someone you love is on Medicare, th
 
 Extra Help is a federal program run by the Social Security Administration that helps people with Medicare pay for prescription drug costs. The official name is the Low Income Subsidy (LIS), and you'll see both names depending on who you're talking to. They mean the same thing.
 
-Medicare Part D is the prescription drug benefit. It comes with monthly premiums, annual deductibles, and copays each time you fill a prescription. Without Extra Help, those costs pile up fast, especially if you take multiple medications or specialty drugs. Extra Help was created specifically to make sure lower-income Medicare beneficiaries aren't forced to choose between groceries and prescriptions.
+[Medicare Part D](/best-medicare-part-d-plans-2026/) is the prescription drug benefit. It comes with monthly premiums, annual deductibles, and copays each time you fill a prescription. Without Extra Help, those costs pile up fast, especially if you take multiple medications or specialty drugs. Extra Help was created specifically to make sure lower-income Medicare beneficiaries aren't forced to choose between groceries and prescriptions.
 
 Here's what most people don't realize: this program covers a lot. Qualifying beneficiaries can see their Part D costs reduced dramatically, including the monthly premium, the annual deductible, and the copays at the pharmacy. Depending on your income and assets, you may pay as little as a few dollars per prescription or nothing at all for certain generic drugs. The federal government caps these costs each year, and for 2024, copays for Extra Help recipients are capped at $4.50 for generic drugs and $11.20 for brand-name drugs (these figures update annually, so always verify current amounts at [Medicare.gov](https://www.medicare.gov/)).
 
@@ -88,11 +88,19 @@ The SSA sends you a letter with their decision. If you're approved, they'll noti
 
 ## What Extra Help Actually Covers, Broken Down
 
+| Cost Category | Without Extra Help | With Full Extra Help (2024) |
+|---|---|---|
+| Monthly Part D premium | You pay full premium | Covered up to benchmark amount |
+| Annual deductible | Up to $545 | $0 |
+| Copay for generic drugs | Varies by plan | $4.50 or less |
+| Copay for brand-name drugs | Varies by plan | $11.20 or less |
+| Coverage gap ("donut hole") costs | You pay a percentage | Eliminated entirely |
+
 The details matter here.
 
 | Cost Category | Without Extra Help | With Full Extra Help (2024) |
 |---|---|---|
-| Monthly Part D premium | You pay full premium | Covered up to benchmark amount |
+| Monthly [Part D premium](/medicare-part-d-premium-2026/) | You pay full premium | Covered up to benchmark amount |
 | Annual deductible | Up to $545 | $0 |
 | Copay for generic drugs | Varies by plan | $4.50 or less |
 | Copay for brand-name drugs | Varies by plan | $11.20 or less |

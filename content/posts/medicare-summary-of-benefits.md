@@ -23,6 +23,7 @@ faqs:
    a: "Not in the same format. Original Medicare doesn't issue a plan-style Summary because it's a federal program, not a private plan. The Medicare & You handbook, mailed each fall, functions as the closest equivalent. It covers costs, covered services, and rights for both Part A and Part B."
  - q: "How often should I actually re-read my Summary of Benefits?"
    a: "Every fall before Open Enrollment ends on December 7. Plans change their premiums, copays, formularies, and extra benefits each year. Even if you're happy with your current plan, a 15-minute review confirming your key cost-sharing figures is worth doing. Catching one change in drug tier pricing can easily save you several hundred dollars annually."
+lastmod: 2026-07-07
 ---
 
 Most people read their Medicare Summary of Benefits exactly once, right after they enroll, and never look at it again. That's a mistake that can cost real money.
@@ -35,7 +36,7 @@ Here's what most coverage of this topic gets wrong: they treat the Summary of Be
 
 The document is organized by benefit category, which sounds dry until you realize it's the fastest way to answer the questions you actually have.
 
-Every Summary of Benefits covers: your plan's monthly premium, the annual deductible (sometimes $0, sometimes several hundred dollars), copays and coinsurance for different service types, your out-of-pocket maximum for the year, and any extra benefits your plan offers beyond Original Medicare (dental, vision, hearing, fitness programs).
+Every Summary of Benefits covers: your plan's monthly premium, the annual deductible (sometimes $0, sometimes several hundred dollars), copays and coinsurance for different service types, your out-of-pocket maximum for the year, and any extra benefits your plan offers beyond [Original Medicare](/how-does-medicare-work/) (dental, vision, hearing, fitness programs).
 
 What it won't show you in full detail: exact prior authorization rules, formulary tiers for every drug, or the network provider list. Those live in the Evidence of Coverage and the formulary document. The Summary gives you the framework; the other documents fill in the specifics. Both matter. Most people only look at one.
 
@@ -53,9 +54,16 @@ Those three numbers tell you 80% of what you need to know about whether a plan f
 
 Then look at drug coverage. If you take maintenance medications, the drug tier structure in the Summary is worth careful attention. A Tier 1 generic might cost $0-$5 per fill. A Tier 3 preferred brand-name drug might cost $47 or more. A Tier 4 or 5 specialty drug can run $100-plus per month even with insurance. These numbers vary by plan and change every year, so check the current Summary and the formulary together. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) maintains guidance on how plans must present this information, which is why the format is consistent enough to actually compare.
 
-One specific thing most people miss: the in-network versus out-of-network split. Many MA plans are HMOs (Health Maintenance Organizations), which means out-of-network care is either not covered or costs significantly more. The Summary will show two columns for many services. Make sure you're reading the in-network column unless you specifically expect to use out-of-network providers.
+One specific thing most people miss: the in-network versus out-of-network split. Many MA plans are HMOs ([Health Maintenance Organizations](/medicare-part-c-explained/)), which means out-of-network care is either not covered or costs significantly more. The Summary will show two columns for many services. Make sure you're reading the in-network column unless you specifically expect to use out-of-network providers.
 
 ## Comparing Plans Side by Side
+
+| Scenario | Plan | Monthly Premium | Annual Deductible | Specialist Copay | Generic Drug Copay | Out-of-Pocket Max | Annual Cost (Typical Use) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Retired teacher, light use | Plan A | $0 | $500 (inpatient) | $40 | $0 | $6,700 | ~$80 more |
+| Retired teacher, light use | Plan B | $29 | $0 | $30 | $0 | $4,200 | Baseline |
+| Type 2 diabetes patient, 4 specialist visits/year | Original Plan | - | - | - | - | - | Baseline |
+| Type 2 diabetes patient, 4 specialist visits/year | Cheaper Premium Plan | $22 less/month | - | - | - | - | $412 more annually |
 
 This is where the standardized format earns its keep. Because every plan must use the same structure, you can literally lay two Summaries next to each other and compare line by line.
 

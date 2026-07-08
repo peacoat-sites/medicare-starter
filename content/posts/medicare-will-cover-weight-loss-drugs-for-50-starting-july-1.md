@@ -12,10 +12,17 @@ author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-will-cover-weight-loss-drugs-for-50-starting-july-1"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been watching Wegovy or Zepbound prices climb and hoping Medicare would jump in, this is it. Starting July 1, 2026, Medicare's rolling out something it's never done before: coverage for GLP-1 weight-loss drugs at a flat $50 monthly copay for eligible people. That beats the $149 to $699 per month most people pay out of pocket by a mile, and the specifics matter enough to understand now before you call your doctor.
 
 ## What the GLP-1 Bridge Program Actually Is
+
+| Medication | Form(s) Covered | Monthly Cost Without Program | Monthly Copay (Bridge Program) |
+| --- | --- | --- | --- |
+| Wegovy | Pill and injection | $149-$699 | $50 |
+| Zepbound | KwikPen only | $149-$699 | $50 |
+| Foundayo (orforglipron) | Oral tablet | $149-$699 | $50 |
 
 The Medicare GLP-1 Bridge Program runs from July 1, 2026 through December 31, 2027. It's a limited-time test, not a permanent benefit. CMS is collecting data to see what happens when Medicare covers obesity drugs.
 
@@ -25,7 +32,7 @@ If you've been using Zepbound in a different format, switch that expectation now
 
 ## Who Qualifies and What You'll Need from Your Doctor
 
-You need to be in a Part D plan (either standalone or through Medicare Advantage). Your BMI has to be 27 or higher. And you need at least one qualifying condition: heart disease, prediabetes, that kind of thing.
+You need to be in a [Part D plan](/cms-proposes-making-medicare-drug-price-negotiations-permanent/) (either standalone or through Medicare Advantage). Your BMI has to be 27 or higher. And you need at least one qualifying condition: heart disease, prediabetes, that kind of thing.
 
 This isn't open to everyone with obesity. CMS designed it to target people whose weight is driving actual health problems. Your doctor documents the diagnosis and BMI, but here's where it diverges from a normal prescription.
 
@@ -35,7 +42,7 @@ Prior authorization doesn't go through your usual Part D process. It flows throu
 
 Medicare was legally barred from covering weight-loss drugs since the 2003 Medicare Modernization Act. That changed when the clinical evidence shifted. Drugs like Wegovy and Zepbound aren't just prescribed for weight loss anymore. The SELECT trial showed cardiovascular benefits for people with obesity taking semaglutide, giving CMS the cover it needed.
 
-Here's the uncertain part: the road after 2027. CMS had planned a follow-on program called the BALANCE Model, which would've let Part D plans voluntarily include these drugs starting January 2027. NPR reported in May 2026 that it's been delayed indefinitely. So the Bridge Program is your only Medicare pathway for obesity GLP-1s through the end of 2027. Nobody's said what happens after. Keep that in mind if you're betting on long-term coverage.
+Here's the uncertain part: [the road after 2027](/what-the-2026-medicare-trustees-report-means-for-beneficiaries/). CMS had planned a follow-on program called the BALANCE Model, which would've let Part D plans voluntarily include these drugs starting January 2027. NPR reported in May 2026 that it's been delayed indefinitely. So the Bridge Program is your only Medicare pathway for obesity GLP-1s through the end of 2027. Nobody's said what happens after. Keep that in mind if you're betting on long-term coverage.
 
 ## What to Do Between Now and July 1
 

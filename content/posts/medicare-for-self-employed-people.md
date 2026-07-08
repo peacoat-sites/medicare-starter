@@ -23,6 +23,7 @@ faqs:
     a: "Yes, same logic as Part B. The penalty is 1% of the 'national base beneficiary premium' (currently around $34.70/month in 2026) for every month you were without creditable drug coverage. It's smaller than the Part B penalty but still permanent. Enroll in Part D when you first become eligible."
   - q: "Can I deduct my Medicare premiums as a self-employed person?"
     a: "Generally yes. The self-employed health insurance deduction allows you to deduct Medicare Part B premiums, Part D premiums, and Medigap premiums from your federal income taxes, as long as you weren't eligible to be covered under an employer-sponsored plan. Confirm your specific situation with a tax professional, since the rules have nuances."
+lastmod: 2026-07-07
 ---
 
 Most self-employed people I've talked with over the years assume Medicare is simple: you turn 65, you sign up, done. The part they consistently miss is that without an employer handling enrollment, the entire thing lands on you, and the penalties for getting it wrong can follow you for life.
@@ -42,6 +43,14 @@ I got this wrong myself years ago when explaining it to a client who was a self-
 The exception worth knowing: if you're actively working and covered under a group health plan through your spouse's employer, that qualifies. But your own individual or marketplace plan does not. Period.
 
 ## What You Actually Need to Sign Up For
+
+| Medicare Part | Coverage Type | Premium Cost (2026) | Key Consideration for Self-Employed |
+| --- | --- | --- | --- |
+| Part A | Hospital insurance | Free (if 40+ quarters paid) | Enroll at 65; no penalty for delay if actively working under group plan |
+| Part B | Medical insurance | $185.00/month standard | 10% permanent penalty per 12-month delay without creditable coverage |
+| Part D | Prescription drugs | Varies by plan | Penalty applies if delayed without creditable drug coverage |
+| Part C (Advantage) | Private bundled plan | Often $0 beyond Part B | Network restrictions; may have high specialist copays ($350+) |
+| Medigap (Plan G) | Supplement to Original Medicare | $100-$200/month typical range | Provides nationwide provider access; better for mobile/multi-state self-employed |
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,9 +23,9 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
-You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent late enrollment penalty for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. I've sat with people in exactly this position for two decades, and I can tell you: the right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.
+You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent [late enrollment penalty](/medicare-part-d-late-enrollment-penalty/) for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. I've sat with people in exactly this position for two decades, and I can tell you: the right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.
 
 ## What Medicare Part D Actually Is (And What It Isn't)
 
@@ -68,6 +68,14 @@ The most powerful free tool available to you is the Medicare Plan Finder at [Med
 **Step 7:** Check the plan's star rating. Medicare rates plans on a 5-star scale based on customer service, accuracy of drug pricing, and member complaints. A 4-star or 5-star plan has demonstrated reliable performance. A 2-star plan is one I'd want a very good financial reason to choose.
 
 ## Understanding the Part D Deductible and Cost-Sharing Tiers
+
+| Tier | Typical Drug Type | Your Cost After Deductible |
+| --- | --- | --- |
+| Tier 1 | Generic | $2-$5 copay |
+| Tier 2 | Preferred brand-name | $15-$50 copay |
+| Tier 3 | Non-preferred brand-name | $30-$100 copay |
+| Tier 4 | Specialty drugs | 25-33% coinsurance |
+| Tier 5 | High-cost specialty drugs | 33% coinsurance |
 
 Many people overlook the deductible. In 2024, the maximum deductible a Part D plan can charge is $545, though many plans charge less, and some charge none at all. If a plan has a full deductible, you pay 100% of your drug costs out of pocket until you've spent that amount, before any plan coverage kicks in. For someone who takes multiple brand-name medications, that deductible can hit fast.
 

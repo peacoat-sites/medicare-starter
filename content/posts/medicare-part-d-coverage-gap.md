@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 You fill your prescription at the pharmacy, hand over your Medicare Part D card, and then the cashier tells you your cost just jumped significantly. Nothing about your health changed. Nothing about your plan changed. You've simply crossed an invisible spending threshold, and now you're in what Medicare calls the coverage gap. For millions of people, this moment is genuinely shocking, and I want to make sure you understand exactly what happened, why it happened, and what you can do about it.
 
@@ -31,7 +31,7 @@ You fill your prescription at the pharmacy, hand over your Medicare Part D card,
 
 Medicare Part D is the prescription drug benefit, it either comes standalone or as part of a Medicare Advantage plan, and it was designed with a specific cost structure in mind. That structure has four distinct phases in any given calendar year: the deductible phase, the initial coverage phase, the coverage gap, and then catastrophic coverage.
 
-The coverage gap kicks in after you and your plan together have spent a certain combined amount on covered drugs. In 2024, that threshold is $5,030 in total drug costs. Once you hit that number, you move into the gap, where your cost-sharing jumps up. Before 2024, people in the gap paid a much larger percentage of their drug costs themselves. Here's the genuinely good news: thanks to the Inflation Reduction Act, starting in 2024, your out-of-pocket costs in the coverage gap are capped at 25% of what your covered drugs actually cost. That's a meaningful improvement over where things stood just a few years ago.
+The coverage gap kicks in after you and your plan together have spent a certain combined amount on covered drugs. In 2024, that threshold is $5,030 in total drug costs. Once you hit that number, you move into the gap, where your cost-sharing jumps up. Before 2024, people in the gap paid a much larger percentage of their drug costs themselves. Here's the genuinely good news: thanks to the [Inflation Reduction Act](/medicare-2000-out-of-pocket-cap-drugs/), starting in 2024, your out-of-pocket costs in the coverage gap are capped at 25% of what your covered drugs actually cost. That's a meaningful improvement over where things stood just a few years ago.
 
 The term "donut hole" came about because the original 2003 law that created Medicare Part D literally left a hole in coverage between the initial coverage phase and catastrophic coverage. You'd have decent coverage, then a gap with much higher costs, then protection again once your spending got high enough. The Inflation Reduction Act has been steadily closing that hole. 2025 brings the most dramatic change yet: a hard cap on out-of-pocket drug costs.
 
@@ -52,7 +52,7 @@ Knowing where you are in the Part D cycle at any given moment changes everything
 
 A couple of things matter here. The $5,030 figure counts both what you paid AND what your plan paid toward your drugs. But the $8,000 catastrophic threshold counts only what came out of your pocket, plus manufacturer discounts on brand-name drugs. Generic discounts from your plan don't count toward that number. This distinction confuses a lot of people and can make the catastrophic threshold feel much farther away than it actually is.
 
-Not every Part D plan charges the maximum deductible, either. Some plans waive it entirely for certain drug tiers. This is one reason why comparing plans during open enrollment (October 15 to December 7 each year) matters so much.
+Not every Part D plan charges the maximum deductible, either. Some plans waive it entirely for certain drug tiers. This is one reason why [comparing plans during open enrollment](/comparing-medicare-part-d-plans/) (October 15 to December 7 each year) matters so much.
 
 ## The Big 2025 Change You Need to Know About
 

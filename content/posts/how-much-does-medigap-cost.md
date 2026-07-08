@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 You've just turned 65, there's a stack of Medicare mail on your kitchen table, and one envelope promises to protect you from "unlimited out-of-pocket costs." You open it. The monthly premium makes your coffee go cold. Is that price reasonable? Too high? Is there something cheaper that does the same job?
 
@@ -45,11 +45,19 @@ So why does Medigap cost money on top of your Part B premium? Because you're buy
 
 ## The Real Range: What People Actually Pay for Medigap
 
+| Medigap Plan | Monthly Premium Range (65yo) | Coverage Level | Key Limitation |
+| --- | --- | --- | --- |
+| Plan G | $80-$300+ | Most comprehensive | Doesn't cover Part B deductible ($240/year in 2024) |
+| Plan N | $80-$300+ | Moderate | $20 office visit copays, $50 ER copay, no Part B excess coverage |
+| High-Deductible Plan G | Under $50-$300+ | Comprehensive after deductible | $2,800 annual deductible (2024) |
+| Plan K | Lower | Limited | Only partial cost-sharing coverage |
+| Plan L | Lower | Limited | Only partial cost-sharing coverage |
+
 > **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 There is no single "typical" Medigap premium. The range is genuinely wide.
 
-Monthly premiums for Plan G and Plan N, the most popular options, generally fall somewhere between $80 and $300 or more per month for a 65-year-old woman in good health. Men often pay slightly more because insurers can factor in gender in most states. A 75-year-old shopping for the same coverage can see premiums that are significantly higher, sometimes double what a 65-year-old pays, depending on how the insurance company prices its policies.
+Monthly premiums for [Plan G and Plan N](/medigap-plan-g-vs-plan-n-comparison/), the most popular options, generally fall somewhere between $80 and $300 or more per month for a 65-year-old woman in good health. Men often pay slightly more because insurers can factor in gender in most states. A 75-year-old shopping for the same coverage can see premiums that are significantly higher, sometimes double what a 65-year-old pays, depending on how the insurance company prices its policies.
 
 Plan G is currently the most comprehensive plan available to new Medicare enrollees. Plan F, which was slightly richer, closed to new enrollees in 2020. Plan G covers everything except the Part B deductible, which in 2024 is $240 per year. Plan N is a step down. It has lower premiums, but you'll pay up to $20 copays for office visits and up to $50 for emergency room visits, and it doesn't cover Part B excess charges.
 
@@ -77,7 +85,7 @@ If a company is offering you a very low price today, ask which rating method the
 
 **4. Whether you use tobacco.** Most insurers charge smokers a surcharge, sometimes 10% to 20% more.
 
-One thing that does NOT typically affect your Medigap price: your health history, at least during your Open Enrollment Period. During the six months that starts the month you're both 65 and enrolled in Part B, insurers must sell you any plan they offer at the standard rate, no matter your health conditions. Miss that window, and in most states, companies can medically underwrite you and either charge more or deny coverage altogether.
+One thing that does NOT typically affect your Medigap price: your health history, at least during your [Open Enrollment Period](/medigap-open-enrollment-period/). During the six months that starts the month you're both 65 and enrolled in Part B, insurers must sell you any plan they offer at the standard rate, no matter your health conditions. Miss that window, and in most states, companies can medically underwrite you and either charge more or deny coverage altogether.
 
 ---
 

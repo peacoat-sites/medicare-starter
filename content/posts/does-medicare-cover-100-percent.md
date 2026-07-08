@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 Medicare does not cover 100 percent of your healthcare costs. Full stop. That's the single most important thing you can know going in, and it's the thing the system never quite states plainly enough.
 
@@ -36,7 +36,7 @@ So let's be specific about what Medicare actually covers, where the gaps are, an
 <div class="value-module">
  <div class="vm-head">Original Medicare Out-of-Pocket Cost Breakdown</div>
  <div class="vm-body">
- <p class="vm-intro">This table shows the standard cost-sharing structure for Original Medicare (Parts A and B), illustrating why the 20% Part B coinsurance with no annual cap creates the largest financial exposure.</p>
+ <p class="vm-intro">This table shows the standard cost-sharing structure for Original Medicare (Parts A and B), illustrating why the 20% [Part B coinsurance](/medicare-coinsurance-explained/) with no annual cap creates the largest financial exposure.</p>
  <table><caption>Original Medicare Standard Cost-Sharing (2024 Figures Are Illustrative)</caption><thead><tr><th>Coverage Area</th><th>What You Pay</th><th>Key Risk Factor</th></tr></thead><tbody><tr><td>Part A: Hospital Days 1–60</td><td>One deductible per benefit period (approx. $1,600)</td><td>Multiple hospital admissions can trigger multiple deductibles in same year</td></tr><tr><td>Part A: Hospital Days 61–90</td><td>Daily coinsurance (approx. $400/day)</td><td>Extended stays accumulate quickly; 30-day stay in this window ≈ $12,000</td></tr><tr><td>Part A: Lifetime Reserve Days (91–150)</td><td>Higher daily coinsurance (approx. $800/day); 60 days total lifetime</td><td>Once exhausted, never renewed; you pay 100% beyond day 150</td></tr><tr><td>Part A: Skilled Nursing Days 21–100</td><td>Daily coinsurance (approx. $200/day)</td><td>80-day SNF stay after day 20 ≈ $16,000 out-of-pocket</td></tr><tr><td>Part B: Most Outpatient Services</td><td>20% of Medicare-approved amount after annual deductible (approx. $240)</td><td>No annual out-of-pocket maximum; $200,000 treatment = $40,000 owed</td></tr><tr><td>Part B: Preventive Services</td><td>$0 for most screenings (colonoscopy, mammogram, flu shot)</td><td>Diagnostic follow-ups after screening revert to 20% coinsurance</td></tr><tr><td>Prescription Drugs (Part D)</td><td>Varies by plan; deductibles, copays, and coverage gap apply</td><td>Specialty drugs can cost thousands before catastrophic coverage begins</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
@@ -74,7 +74,7 @@ The 20 percent Part B coinsurance gets most of the focus, but other gaps matter 
 
 This is where real choices happen, and they're not equally good for everyone. Here's my assessment.
 
-**Medicare Supplement Insurance (Medigap).** Private insurance plans that work alongside Original Medicare. Plan G (the most popular now that Plans C and F closed to new enrollees) covers the Part A deductible, Part B coinsurance, skilled nursing coinsurance, and foreign travel emergency care. With Plan G, you're essentially down to the $240 Part B deductible annually, then nothing else for Medicare-covered services.
+**[Medicare Supplement Insurance (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/).** Private insurance plans that work alongside Original Medicare. Plan G (the most popular now that Plans C and F closed to new enrollees) covers the Part A deductible, Part B coinsurance, skilled nursing coinsurance, and foreign travel emergency care. With Plan G, you're essentially down to the $240 Part B deductible annually, then nothing else for Medicare-covered services.
 
 Plan G is probably the closest thing to "100 percent coverage" that exists within Medicare for covered care. It won't touch dental, vision, hearing, or Part D drugs, and you'll need those separately. But for hospital and doctor bills, it creates real financial predictability.
 

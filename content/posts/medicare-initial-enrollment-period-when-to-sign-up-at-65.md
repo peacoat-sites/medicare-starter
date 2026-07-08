@@ -23,13 +23,19 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 Picture this: your 65th birthday is two months away, and a neighbor mentions offhandedly that you were supposed to sign up for Medicare *before* your birthday. Your stomach drops. You had no idea. You thought you'd handle it afterward, maybe wait until you actually needed it. Now you're not sure if you've missed something, if there are penalties, or whether your doctor visits next month will even be covered.
 
 I've seen this exact situation play out dozens of times. The good news? Two months out, you're almost certainly still fine. But the near-miss is real, and the penalties for actually missing the window aren't small. Let's walk through exactly what the Initial Enrollment Period is, how it works, and what you need to do right now if you're turning 65 soon.
 
 ## What the Initial Enrollment Period Actually Is
+
+| Enrollment Period | Timeline | Part A & B Start Date |
+| --- | --- | --- |
+| Before birthday month | 3 months before - last day before birthday month | 1st of birthday month |
+| Birthday month | During the birthday month | 1st of following month |
+| After birthday month | 1-3 months after birthday | 1-3 months after enrollment |
 
 The Initial Enrollment Period, or IEP, is your very first shot at signing up for Medicare. It's a seven-month window tied directly to your 65th birthday, and it's the foundation of everything else in Medicare enrollment. Get this right, and you start clean. Miss it without a qualifying reason, and you'll pay for it, literally, for years.
 
@@ -63,7 +69,7 @@ You don't have to enroll in Part B right away if you have qualifying coverage fr
 
 The key phrase is "current employment." Coverage from COBRA, retiree insurance, or the marketplace does not count. Only active employer-sponsored coverage, yours or a spouse's, qualifies.
 
-If you delay because of employer coverage, you'll get a Special Enrollment Period, or SEP, when that coverage ends. The SEP gives you eight months to enroll in Medicare Part B without penalty after your employer coverage ends or the employment ends, whichever comes first. You want to enroll before that eight months runs out.
+If you delay because of employer coverage, you'll get a [Special Enrollment Period](/medicare-special-enrollment-period/), or SEP, when that coverage ends. The SEP gives you eight months to enroll in Medicare Part B without penalty after your employer coverage ends or the employment ends, whichever comes first. You want to enroll before that eight months runs out.
 
 Part D (prescription drugs) has a similar rule: if you have creditable drug coverage from your employer plan, coverage that's at least as good as Medicare's standard, you can delay Part D enrollment without penalty. Your employer is required to tell you each year whether their coverage is creditable.
 
@@ -73,7 +79,7 @@ If you're in this situation, don't just assume you qualify. Verify in writing th
 
 Let me be direct about the stakes here.
 
-If you miss your IEP and don't qualify for a Special Enrollment Period, you'll face late enrollment penalties. For Part B, the penalty is 10% added to your premium for every 12-month period you were eligible but didn't enroll. That penalty isn't a one-time fee. It's added to your Part B premium permanently, for as long as you have Medicare.
+If you miss your IEP and don't qualify for a Special Enrollment Period, you'll face [late enrollment penalties](/medicare-late-enrollment-penalty/). For Part B, the penalty is 10% added to your premium for every 12-month period you were eligible but didn't enroll. That penalty isn't a one-time fee. It's added to your Part B premium permanently, for as long as you have Medicare.
 
 Get this: if you were uninsured or on non-qualifying coverage for three years before finally enrolling in Part B, your monthly premium gets a 30% surcharge. Forever. On a fixed income, that adds up to real money over a decade or two.
 

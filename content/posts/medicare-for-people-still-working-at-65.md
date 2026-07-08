@@ -23,12 +23,18 @@ faqs:
    a: "Generally no, as long as you or your spouse worked enough quarters to qualify for premium-free Part A. There is a premium-based Part A available if you don't qualify, and that one does carry a late enrollment penalty. Most people reading this won't hit that situation, but if you're not sure how many quarters you've earned, check your Social Security statement at SSA.gov."
  - q: "My employer is pressuring me to drop their coverage and go on Medicare. Can they do that?"
    a: "If your employer has 20 or more employees, it's actually illegal for them to offer you incentives to drop the group plan and take Medicare instead. The law prohibits large employers from doing anything that discourages active employees from enrolling in the group plan. If you're feeling that pressure, document it and consider reaching out to your State Health Insurance Assistance Program (SHIP) for free counseling."
+lastmod: 2026-07-07
 ---
 Sixty-five shows up whether you're ready for it or not. And if you're still working, still covered by your employer's health plan, and suddenly getting Medicare signup reminders in the mail, you've probably got that nagging feeling you're supposed to do *something* but have no idea what. I've watched that confusion turn into genuinely expensive mistakes, and I'd rather you not make them.
 
 Let me be direct: the rules around Medicare and active employment coverage are genuinely complicated, and most of the generic advice floating around online doesn't account for the details that actually matter to your specific situation. So let's slow down and work through this together.
 
 ## You Have More Time Than You Think (Probably)
+
+| Employer Size | Medicare Primary/Secondary | Part A at 65 | Part B at 65 | Special Enrollment Period |
+| --- | --- | --- | --- | --- |
+| 20+ employees | Employer plan is primary | Generally sign up (premium-free if 10+ years work history) | Can delay without penalty | 8 months after coverage ends |
+| Fewer than 20 employees | Medicare is primary | Must sign up | Must sign up | N/A - enroll at 65 |
 
 Most people panic about this one thing: the standard Medicare enrollment window is the 7-month Initial Enrollment Period (IEP) centered on your 65th birthday. Miss it, the story goes, and permanent late-enrollment penalties follow. True in some situations. But if you're still working and covered by a qualifying employer health plan, the rules are different. Much more forgiving, actually.
 
@@ -44,7 +50,7 @@ Companies with fewer than 20 employees flip this completely. Medicare becomes pr
 
 This catches a lot of high earners off guard. I wish someone had flagged it for me years ago.
 
-If you or your employer contributes to an HSA (Health Savings Account), enrolling in any part of Medicare, including Part A, makes you ineligible to contribute anymore. The moment Medicare kicks in, contributions must stop or you'll owe taxes and a penalty.
+If you or your employer contributes to an [HSA (Health Savings Account)](/medicare-and-health-savings-account-hsa/), enrolling in any part of Medicare, including Part A, makes you ineligible to contribute anymore. The moment Medicare kicks in, contributions must stop or you'll owe taxes and a penalty.
 
 What trips people up is the look-back rule. When you finally enroll in Part A after delaying, Medicare can make your coverage retroactive for up to 6 months. So if you enrolled in October and contributions were still going into your HSA in May, you owe taxes on those contributions even though you thought you were fine at the time.
 

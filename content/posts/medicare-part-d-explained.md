@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 You're standing at the pharmacy counter with your new Medicare card, and the pharmacist tells you your prescription costs $340 out of pocket. You assumed Medicare covered your medications. It doesn't. Not automatically. That gap blindsides thousands of people every year, and it's exactly why Medicare Part D exists, and why understanding it before you actually need it can save you real money and real stress.
 
@@ -33,9 +33,15 @@ Part D is Medicare's prescription drug coverage. It's optional, but skipping it 
 
 Here's how it works: Part D coverage comes through private insurance companies approved by Medicare, not directly from the federal government. You choose a plan from Humana, UnitedHealthcare, Aetna, or dozens of others depending on where you live. Each one has its own monthly premium, its own list of covered drugs (the formulary), and its own pharmacy network.
 
-Original Medicare (Parts A and B) covers plenty, but prescription pills were never part of the deal. Part D fills that gap. If you have a Medicare Advantage plan (Part C), drug coverage might already be bundled in, though not always. Check your plan details before assuming.
+Original Medicare (Parts A and B) covers plenty, but prescription pills were never part of the deal. Part D fills that gap. If you have a [Medicare Advantage plan (Part C)](/medicare-part-c-explained/), drug coverage might already be bundled in, though not always. Check your plan details before assuming.
 
 ## How Part D Coverage Actually Works: The Phases
+
+| Coverage Phase | Key Details | Your Cost |
+| --- | --- | --- |
+| Deductible Phase | You pay full negotiated cost until annual deductible is met | Up to $545 (2024) |
+| Initial Coverage Phase | You and plan split costs via copays or coinsurance based on drug tier | Copay/coinsurance per prescription |
+| Catastrophic Coverage | Plan pays most costs after you reach out-of-pocket spending cap | $0 for remainder of year (after $8,000 spent in 2024; $2,000 in 2025) |
 
 Part D isn't a simple flat copay system. It moves through distinct phases, and knowing where you are in the cycle directly affects how much you pay.
 

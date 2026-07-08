@@ -23,6 +23,7 @@ faqs:
    a: "Yes, you can switch back to Original Medicare during the Annual Open Enrollment Period (October 15 to December 7) or during the Medicare Advantage Open Enrollment Period (January 1 to March 31). The complication is that if you want to add a Medigap supplement after leaving MA, insurers in Florida can generally require medical underwriting outside your initial enrollment period, meaning they can deny you or charge more based on health conditions. This is one of the biggest reasons to think carefully about the MA-vs.-Medigap decision from the start."
  - q: "How do I find out if I qualify for Extra Help with drug costs in Florida?"
    a: "Apply directly through the Social Security Administration, either online at ssa.gov, by calling 1-800-772-1213, or at your local SSA office. You can also apply for Medicare Savings Programs through Florida's Department of Children and Families. Your local SHINE counselor can help you figure out which programs you might qualify for and walk you through the paperwork."
+lastmod: 2026-07-07
 ---
 
 Florida has more Medicare beneficiaries per capita than almost any other state in the country. That single fact shapes everything about how Medicare actually works here, and not always in the ways you'd expect.
@@ -53,7 +54,7 @@ Here's a scenario I've seen cause real headaches: a retiree splits time between,
 
 This isn't a rare edge case. Florida has enormous numbers of people who winter here and live elsewhere. If that's you, the choice between Medicare Advantage and Original Medicare with a Medigap supplement isn't just about costs. It's about geography. Original Medicare works everywhere in the country that accepts Medicare (which is most providers). A well-chosen Medigap plan travels with you. An HMO generally does not.
 
-Some MA plans in Florida offer PPO (Preferred Provider Organization) structures with broader networks, and a few national PPOs have decent out-of-area coverage. But I'd be doing you a disservice if I said this was a solved problem. If you spend meaningful time in another state, talk through this carefully with a licensed insurance counselor before you commit to any plan. Florida's SHINE program (Serving Health Insurance Needs of Elders) offers free, unbiased counseling from trained volunteers. It's genuinely good. You can find them through Florida's Department of Elder Affairs, and there's no sales pitch involved.
+Some MA plans in Florida offer PPO (Preferred Provider Organization) structures with broader networks, and a few national PPOs have decent out-of-area coverage. But I'd be doing you a disservice if I said this was a solved problem. If you spend meaningful time in another state, talk through this carefully with a licensed insurance counselor before you commit to any plan. [Florida's SHINE program](/state-medicare-savings-programs/) (Serving Health Insurance Needs of Elders) offers free, unbiased counseling from trained volunteers. It's genuinely good. You can find them through Florida's Department of Elder Affairs, and there's no sales pitch involved.
 
 ---
 

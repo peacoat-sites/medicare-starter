@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-
+lastmod: 2026-07-07
 ---
 About 14 million people qualify for Extra Help with Medicare drug costs. Roughly a third of them never apply.
 
@@ -52,6 +52,13 @@ But here's what changes by state: whether your state has expanded the program, w
 **Local SHIP counselors.** The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) provides free one-on-one counseling in every state, but the quality and availability vary. States with larger Medicare populations tend to have more counselors, more office locations, and sometimes bilingual staff. SHIP counselors are probably the single most underused resource in this whole system. They know the state-specific programs, they can sit with you through the application, and they don't work for any insurance company. They're not trying to sell you anything.
 
 ## Who Qualifies: The Numbers You Need to Know
+
+| Category | Single Person | Married Couple |
+| --- | --- | --- |
+| 2024 Income Limit | $22,590 | $30,660 |
+| Asset Limit | $17,220 | $34,360 |
+| Generic Drug Copay (Full Extra Help) | $4.50 | $4.50 |
+| Brand-Name Drug Copay (Full Extra Help) | $11.20 | $11.20 |
 
 The 2024 income limit for Extra Help is $22,590 for a single person and $30,660 for a married couple. Asset limits are $17,220 for an individual and $34,360 for a couple. These numbers adjust each year, so always verify at ssa.gov or Medicare.gov before you apply.
 

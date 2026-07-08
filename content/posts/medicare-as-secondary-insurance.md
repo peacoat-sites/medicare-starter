@@ -23,6 +23,7 @@ faqs:
    a: "Medicare may pursue the primary payer to recover what it paid. This is called a conditional payment. Medicare is allowed to pay conditionally (as a courtesy) when the primary payer hasn't paid yet, but it will seek reimbursement once the primary pays. This comes up most often in workers' comp and liability situations."
  - q: "If my employer plan is primary, do I still need Medicare Part D for prescriptions?"
    a: "It depends on whether your employer plan's drug coverage is 'creditable,' meaning it's at least as good as Medicare's standard Part D coverage. If it is, you can delay Part D enrollment without penalty. Your employer is required to notify you annually whether their drug coverage is creditable. Keep that letter. You'll need it when you eventually enroll in Part D."
+lastmod: 2026-07-07
 ---
 
 Most people think of Medicare as the thing that kicks in first and pays the most. That assumption is wrong often enough to cost real money, and it catches people completely off guard when a medical bill arrives looking much larger than expected.
@@ -34,6 +35,15 @@ Let's fix that.
 ---
 
 ## When Medicare Is Secondary: The Basic Rules
+
+| Situation | Medicare Status | Primary Payer | Notes |
+| --- | --- | --- | --- |
+| Age 65+, working, employer plan (20+ employees) | Secondary | Employer plan | Medicare pays second |
+| Age 65+, working, employer plan (fewer than 20 employees) | Primary | Medicare | Medicare pays first |
+| End-Stage Renal Disease (ESRD), first 30 months | Secondary | Group health plan | After 30 months, Medicare becomes primary |
+| ESRD, after 30 months | Primary | Medicare | Coordination period ends |
+| Covered by workers' comp, liability, or no-fault auto insurance | Secondary | Workers' comp/liability/auto insurance | Always pays before Medicare |
+| Under 65, disabled, employer plan (100+ employees) | Secondary | Employer plan | Medicare pays second |
 
 The formal term is "coordination of benefits," which is Medicare's way of deciding who pays first (the "primary" payer) and who pays second (the "secondary" payer). Medicare secondary payer rules, often abbreviated as MSP, have been federal law since 1980, when Congress decided other insurers should bear costs before Medicare when those other insurers legitimately cover the same care.
 
@@ -77,7 +87,7 @@ You're turning 65, you're still working, you have good employer coverage, and so
 
 Here's the honest answer. If your employer has 20 or more employees, your group plan is primary and Medicare would only be secondary. Depending on how good your employer coverage is, adding Medicare as secondary might add meaningful protection, or it might add almost nothing. The Part B premium is real money every month. Run the math against your actual expected healthcare usage.
 
-But, and this matters a lot: if you don't enroll in Part B when you're first eligible, you'll face a late enrollment penalty when you eventually do sign up. That penalty is 10% added to your Part B premium for every 12-month period you were eligible but didn't enroll, and it's permanent. So the decision isn't just "do I need it now?" It's "when will I retire, and what's the cost of waiting?" The special enrollment period that lets you sign up without penalty after leaving employer coverage has a deadline: 8 months from when your employment or employer coverage ends. Miss it and you're paying a penalty for the rest of your life.
+But, and this matters a lot: if you don't enroll in Part B when you're first eligible, you'll face a late enrollment penalty when you eventually do sign up. That penalty is 10% added to your Part B premium for every 12-month period you were eligible but didn't enroll, and it's permanent. So the decision isn't just "do I need it now?" It's "when will I retire, and what's the cost of waiting?" The [special enrollment period](/medicare-and-cobra/) that lets you sign up without penalty after leaving employer coverage has a deadline: 8 months from when your employment or employer coverage ends. Miss it and you're paying a penalty for the rest of your life.
 
 I'd generally say: if you're within a year or two of retirement, go ahead and enroll. If you're 63 and planning to work until 70, talk to a State Health Insurance Assistance Program (SHIP) counselor, a free service offered in every state, before you decide.
 

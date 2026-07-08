@@ -23,9 +23,9 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
-You checked the mail and found a thick envelope from your Medicare plan. Inside is a notice that your premiums are going up next year, or maybe your plan is dropping a drug you take every month, or your favorite doctor is no longer in the network. Your stomach drops a little. Now what? Here's the good news: once a year, Medicare gives you a dedicated window to do something about exactly this kind of situation. That window is called the Annual Enrollment Period, and for 2026 coverage, it runs from **October 15 to December 7, 2025**. If you miss it, you'll generally be locked into your current plan for another full year. So let's make sure that doesn't happen.
+You checked the mail and found a thick envelope from your Medicare plan. Inside is a notice that your premiums are going up next year, or maybe your plan is dropping a drug you take every month, or your favorite doctor is no longer in the network. Your stomach drops a little. Now what? Here's the good news: once a year, Medicare gives you a dedicated window to do something about exactly this kind of situation. That window is called the Annual Enrollment Period, and for 2026 coverage, it runs from **October 15 to December 7, 2025**. If you [miss it](/missing-medicare-open-enrollment/), you'll generally be locked into your current plan for another full year. So let's make sure that doesn't happen.
 
 ---
 
@@ -35,7 +35,7 @@ The Medicare Annual Enrollment Period, often called the AEP or sometimes "Open E
 
 Here's what you can do during AEP:
 
-- Switch from Original Medicare (Parts A and B) to a Medicare Advantage plan (Part C)
+- Switch from Original Medicare (Parts A and B) to a [Medicare Advantage plan](/medicare-open-enrollment-period/) (Part C)
 - Switch from a Medicare Advantage plan back to Original Medicare
 - Switch from one Medicare Advantage plan to a different one
 - Join a standalone Medicare Part D prescription drug plan for the first time (if you didn't when you first became eligible)
@@ -85,6 +85,16 @@ Once you've picked a plan, you can enroll online at Medicare.gov, call 1-800-MED
 ---
 
 ## Comparing Your Main Options: Medicare Advantage vs. Original Medicare with Part D
+
+| Aspect | Medicare Advantage (Part C) | Original Medicare with Part D |
+| --- | --- | --- |
+| Monthly Premium | Often $0-$50+ | $0 (Part A/B already covered) |
+| Provider Network | Restricted to plan network | Accept any Medicare provider |
+| Out-of-Pocket Cap | Yes, annual maximum | No annual cap |
+| Drug Coverage | Usually included (Part D) | Separate Part D plan required |
+| Prescription Drug Formulary | Plan-specific formulary | Plan-specific formulary |
+| When You Can Switch | During AEP (Oct 15-Dec 7) | During AEP (Oct 15-Dec 7) |
+| Dental/Vision/Hearing | Often included | Not covered |
 
 One of the bigger decisions some people face during AEP is whether to stay in Medicare Advantage or return to Original Medicare with a standalone Part D plan, or vice versa. Here's a simple side-by-side to help frame the decision.
 

@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 You're turning 65 in three months. Your mailbox is stuffed with glossy Medicare Advantage brochures promising $0 premiums, dental coverage, and gym memberships. It sounds almost too good. And honestly, parts of it are.
 
@@ -63,7 +63,7 @@ Medicare Advantage plans offer real benefits that Original Medicare doesn't touc
 
 Here's where I want you to actually stop and think, because these problems surprise people every single year.
 
-**Network restrictions bite hard.** Most plans are HMOs or PPOs. HMOs lock you into a specific network and usually require specialist referrals. PPOs give flexibility but cost more out of network. If your longtime cardiologist isn't in the plan, you either switch doctors or pay significantly more. That's brutal when you're managing serious illness.
+**Network restrictions bite hard.** Most plans are [HMOs or PPOs](/medicare-advantage-hmo-vs-ppo/). HMOs lock you into a specific network and usually require specialist referrals. PPOs give flexibility but cost more out of network. If your longtime cardiologist isn't in the plan, you either switch doctors or pay significantly more. That's brutal when you're managing serious illness.
 
 **Prior authorization delays treatment.** Insurers can require approval before procedures, tests, or medications. Denials happen. Appeals take time and energy you may not have when you're sick. This is one of the most common frustrations I hear from Medicare Advantage enrollees.
 

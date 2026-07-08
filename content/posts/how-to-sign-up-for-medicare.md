@@ -23,6 +23,7 @@ faqs:
    a: "Yes, if you're on Original Medicare, Part D is a separate plan you purchase from a private insurer. It doesn't come automatically. You can compare plans at Medicare.gov's Plan Finder tool, which lets you enter your specific medications to see which plan covers them at the lowest total cost."
  - q: "What's the difference between Medigap and Medicare Advantage?"
    a: "These two options are actually mutually exclusive. Medigap (Medicare Supplement) policies work alongside Original Medicare to cover gaps like deductibles, copays, and coinsurance. Medicare Advantage replaces Original Medicare with a private plan. You can't have both at the same time."
+lastmod: 2026-07-07
 ---
 
 You're probably here because something changed. Maybe you just got a letter from Social Security, or a birthday with a "6" and a "5" in it is coming up faster than expected, and someone told you to "just go sign up for Medicare." As if it were obvious. As if there weren't about a dozen ways to do it wrong.
@@ -33,7 +34,7 @@ So let's do that now.
 
 ## When You're Eligible (And Why the Timing Actually Matters)
 
-Most people become eligible for Medicare at age 65. That part is simple. What's less obvious is that the window to enroll isn't just your birthday month. You actually have a seven-month Initial Enrollment Period (IEP): the three months before your 65th birthday month, your birthday month itself, and the three months after.
+Most people become eligible for Medicare at age 65. That part is simple. What's less obvious is that the window to enroll isn't just your birthday month. You actually have a seven-month [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/): the three months before your 65th birthday month, your birthday month itself, and the three months after.
 
 Here's what I tell people: don't wait until month 6 or 7 of that window. If you enroll after your birthday month, your coverage start date gets pushed back. Enroll the month before your birthday? Coverage starts the first of your birthday month. Enroll two months after? Coverage may not start for two to three months after that. The Social Security Administration has a helpful breakdown at [Medicare.gov](https://www.medicare.gov/), where you can also find personalized enrollment timelines.
 
@@ -63,7 +64,7 @@ This is where I see the most confusion, and honestly, the most preventable finan
 
 If you or your spouse is still working at 65 and you have health insurance through that employer, you may not need to sign up for Part B right away. In fact, signing up for Part B when you have creditable employer coverage can mean paying premiums unnecessarily. The key word is "creditable," which means the coverage is at least as good as Medicare. Most employer group plans qualify.
 
-What you should do in this situation: sign up for Part A (it's free for most people, so there's little downside), and delay Part B until you retire or lose that employer coverage. When you do leave that job, you'll qualify for a Special Enrollment Period (SEP) that gives you eight months to enroll in Part B without penalty.
+What you should do in this situation: sign up for Part A (it's free for most people, so there's little downside), and delay Part B until you retire or lose that employer coverage. When you do leave that job, you'll qualify for a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) that gives you eight months to enroll in Part B without penalty.
 
 Here's the thing, though. This only works if you have coverage through your own active employer, or your spouse's active employer. Coverage through COBRA, retiree health plans, or the VA does not count as a reason to delay. Those don't qualify you for a Special Enrollment Period, and if you relied on them to skip Part B, you'll end up with a gap and a penalty.
 
@@ -72,6 +73,14 @@ The late enrollment penalty for Part B is permanent. For every 12 months you wer
 Part D, which is prescription drug coverage, has a similar penalty: 1% of the national base beneficiary premium for every month you went without creditable drug coverage. Small number per month, but it adds up over a decade of retirement.
 
 ## Part A, Part B, and the Rest of the Alphabet
+
+| Medicare Part | Coverage | Premium | Enrollment Requirement |
+| --- | --- | --- | --- |
+| Part A | Inpatient hospital, skilled nursing facility, home health, hospice | Usually free* | Automatic if collecting Social Security at 65; otherwise self-enroll |
+| Part B | Medical insurance (doctor visits, outpatient care) | Monthly premium | Must actively enroll; delays with employer coverage allowed via SEP |
+| Part D | Prescription drug coverage | Varies | Enroll during IEP or Annual Enrollment; 1% monthly penalty if delayed |
+
+*Free if you or spouse worked and paid Medicare taxes for at least 10 years (40 quarters).
 
 Let me quickly put the pieces in place, because the lettering genuinely confuses people who are new to this.
 

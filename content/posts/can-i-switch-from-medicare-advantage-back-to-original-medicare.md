@@ -23,6 +23,7 @@ faqs:
     a: "Yes, but it requires a qualifying life event that triggers a Special Enrollment Period. Examples include moving to an area your plan doesn't serve, your plan leaving your area, or qualifying for Medicaid or Extra Help. If you think a life event might apply, call 1-800-MEDICARE or check with your local SHIP counselor to confirm eligibility."
   - q: "Does switching back to Original Medicare affect my Part A or Part B benefits?"
     a: "No. Your underlying Medicare Part A (hospital insurance) and Part B (medical insurance) coverage remains in place the whole time you're in a Medicare Advantage plan. You're not giving those up when you join MA, and you're not re-enrolling in them when you leave. You're simply changing how those benefits are delivered."
+lastmod: 2026-07-07
 ---
 
 You're probably sitting with a stack of Explanation of Benefits forms, a provider directory that somehow keeps shrinking, and a growing suspicion that your Medicare Advantage plan isn't quite what it was sold to you as. Maybe your cardiologist just left the network. Maybe you're facing a big procedure and the prior authorization process has you ready to scream. Whatever got you here, you're not alone, and the question you're asking is one of the most important ones you can ask: can I actually go back to Original Medicare?
@@ -30,6 +31,12 @@ You're probably sitting with a stack of Explanation of Benefits forms, a provide
 The short answer is yes. But there are timing rules, coverage gaps to watch for, and a few things I've seen trip people up badly over the years. Let me walk you through it honestly.
 
 ## When You Can Make the Switch
+
+| Enrollment Period | Dates | Who Can Use | Effective Date |
+| --- | --- | --- | --- |
+| Annual Enrollment Period (AEP) | October 15 - December 7 | Anyone on Medicare | January 1 |
+| Medicare Advantage Open Enrollment Period | January 1 - March 31 | People already in a Medicare Advantage plan | First of following month |
+| Special Enrollment Periods (SEPs) | Varies by trigger | Those with qualifying life events | Varies by trigger |
 
 This is where most people get confused, and honestly, when I first started explaining this to clients, I oversimplified it myself. I used to say "you can switch during Open Enrollment every fall." That's true, but it's not the whole picture.
 
@@ -51,7 +58,7 @@ One thing I tell people clearly: if you miss these windows, you're generally stu
 
 Here's where I see people get genuinely hurt, and I wish more advisors led with this.
 
-When you first enrolled in Medicare Part B, you had what's called a "guaranteed issue" right to buy a Medicare Supplement policy (commonly called Medigap) without medical underwriting. That window is gone once you've been in Medicare Advantage. In most states, when you switch back to Original Medicare, insurance companies can review your health history and deny you Medigap coverage, or charge you significantly more, based on preexisting conditions.
+When you first enrolled in Medicare Part B, you had what's called a "guaranteed issue" right to buy a Medicare Supplement policy (commonly called Medigap) without medical underwriting. That window is gone once you've been in Medicare Advantage. In most states, when you [switch back to Original Medicare](/switching-from-medicare-advantage-to-original-medicare/), insurance companies can review your health history and deny you Medigap coverage, or charge you significantly more, based on preexisting conditions.
 
 A few states (California, Connecticut, Maine, Massachusetts, Missouri, New York, and a handful of others) have ongoing guaranteed issue protections, meaning insurers must sell you a Medigap policy regardless of your health. If you live in one of those states, this is a much smaller concern. But if you're in Texas, Florida, Ohio, or most other states, this is a real risk.
 

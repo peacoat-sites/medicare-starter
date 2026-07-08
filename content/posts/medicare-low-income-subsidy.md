@@ -23,6 +23,7 @@ faqs:
    a: "Look at your Medicare card or any recent letter from Medicare or Social Security. If you have full Medicaid, SSI, or a Medicare Savings Program, you have automatic Extra Help. You can also call 1-800-MEDICARE (1-800-633-4227) and ask directly. It takes about five minutes."
  - q: "Does Extra Help coverage renew automatically?"
    a: "If you have automatic Extra Help (through Medicaid, SSI, or an MSP), it renews as long as you stay enrolled in those programs. If you applied directly through Social Security, you'll typically receive a review letter periodically, usually once a year, to confirm your situation hasn't changed significantly. Respond to those letters promptly. Missing one can interrupt your benefits."
+lastmod: 2026-07-07
 ---
 Most people who qualify for the Medicare Low Income Subsidy never apply. That's not exaggeration. The Social Security Administration says roughly a third of eligible people aren't enrolled, which means they're throwing away real money every single month. I've watched seniors pay $50, $80, sometimes $140 a month for prescriptions they should be getting for almost nothing, all because nobody told them this program existed.
 
@@ -30,7 +31,12 @@ Let me fix that.
 
 ## What the Low Income Subsidy Actually Is
 
-The Low Income Subsidy (LIS) is a federal program that helps people with Medicare pay for Part D prescription drug coverage. Part D covers medications, and it comes with premiums, deductibles, and copays that'll hurt on a fixed income. The LIS, sometimes called "Extra Help" (that's what Social Security calls it when you apply), covers most or all of those costs.
+| Benefit Type | Premium | Deductible | Generic Copay | Brand-Name Copay |
+| --- | --- | --- | --- | --- |
+| Full Extra Help | $0 | $0 | $1.60 | ~$4.80 |
+| Standard Part D (2026) | Varies | Varies | Varies | Varies |
+
+The Low Income Subsidy (LIS) is a federal program that helps people with Medicare pay for Part D prescription drug coverage. [Part D covers medications](/best-medicare-part-d-plans-2026/), and it comes with premiums, deductibles, and copays that'll hurt on a fixed income. The LIS, sometimes called "Extra Help" (that's what Social Security calls it when you apply), covers most or all of those costs.
 
 Here's what most people miss: this isn't a small discount. Full Extra Help means $0 premiums for a benchmark Part D plan, a $0 deductible, and copays as low as $1.60 for generic drugs and around $4.80 for brand-name drugs in 2026. Those numbers adjust every year, but we're talking about near-complete elimination of your drug costs if you qualify for full benefits.
 
@@ -66,7 +72,7 @@ If you get full Extra Help, your premium is covered up to a "benchmark" amount M
 
 So when you're newly approved for Extra Help, or if Annual Enrollment Period is coming up (October 15 through December 7 each year), check whether your current plan is still benchmark-priced. Medicare changes which plans qualify every year. I've seen people stay on autopilot and suddenly owe $25 a month when they could be paying nothing. That's $300 a year gone for no reason.
 
-People with Extra Help also get a Special Enrollment Period (SEP) letting them switch Part D plans once per quarter, January through September. Most people don't know they have it.
+People with Extra Help also get a [Special Enrollment Period](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) (SEP) letting them switch Part D plans once per quarter, January through September. Most people don't know they have it.
 
 ## If You Have a Medicare Advantage Plan
 

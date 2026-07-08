@@ -12,6 +12,7 @@ author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "cms-proposes-making-medicare-drug-price-negotiations-permanent"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 For two years, the Medicare drug price negotiation program has run on administrative guidance, which is essentially rules that the next administration could rewrite or ignore. On June 12, 2026, CMS changed that. The agency published proposed rule CMS-4215-P, which would lock the negotiation program into permanent federal regulation for the first time. If you're on Medicare Part D, or about to be, this matters more than most policy news you'll scroll past this week.
 
@@ -27,6 +28,13 @@ CMS expects to finalize the rule this fall, according to the agency's press rele
 
 ## The Numbers Already on the Board
 
+| Program Cycle | Number of Drugs Negotiated | Key Detail | Effective Date |
+| --- | --- | --- | --- |
+| Cycle 1 (Original batch) | 10 | Initial IRA drugs | January 1, 2026 |
+| Cycle 2 | 15 | 44% average net savings; Ozempic/Wegovy 71% reduction | January 1, 2027 |
+| Cycle 3+ (2029 onward) | Up to 20 per year | Includes Part B drugs; permanent regulation | Proposed framework |
+| **Total negotiated (through Cycle 2)** | **25** | Covers Part D and Part B (2029+) | - |
+
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -35,7 +43,7 @@ Before getting too abstract about regulatory frameworks, it helps to look at wha
 
 CMS has negotiated prices for 25 high-expenditure drugs across the program's first two cycles. The first 10 of those, the original batch selected under the Inflation Reduction Act, hit their negotiated maximum fair prices on January 1, 2026. The second cycle delivered a 44% average net savings across 15 drugs. The headline figure from that second round is the 71% list-price reduction for Ozempic and Wegovy (semaglutide), effective January 1, 2027. Those are two of the most prescribed and most expensive drugs in the country right now, so that reduction is not a rounding error.
 
-For context on what this means in practice: if you're currently paying a percentage-based coinsurance for one of these negotiated drugs, your out-of-pocket costs track the list price. A 71% price reduction doesn't necessarily mean you pay 71% less at the counter, because your actual cost depends on your plan design, deductible, and what phase of the Part D benefit you're in. But lower list prices do reduce what both you and Medicare pay, and the $2,000 annual out-of-pocket cap that took effect in 2025 under the IRA (Inflation Reduction Act) provides a ceiling regardless.
+For context on what this means in practice: if you're currently paying a percentage-based coinsurance for one of these negotiated drugs, your out-of-pocket costs track the list price. A 71% price reduction doesn't necessarily mean you pay 71% less at the counter, because your actual cost depends on your plan design, deductible, and what phase of the Part D benefit you're in. But lower list prices do reduce what both you and Medicare pay, and the [$2,000 annual out-of-pocket cap](/what-the-2026-medicare-trustees-report-means-for-beneficiaries/) that took effect in 2025 under the IRA (Inflation Reduction Act) provides a ceiling regardless.
 
 ## Why "Permanent" Is the Operative Word
 

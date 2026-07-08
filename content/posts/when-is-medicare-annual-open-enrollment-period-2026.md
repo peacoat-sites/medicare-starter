@@ -23,17 +23,27 @@ faqs:
    a: "Technically no. If you do nothing, you stay enrolled in your current plan. But plans change their premiums, drug formularies, and provider networks every year, so 'happy with it now' doesn't always mean 'it'll be the same next year.' It takes about 20 minutes to verify your current plan is still the best fit. Worth doing."
  - q: "Where's the best place to compare Medicare plans for 2027 coverage?"
    a: "Start with the Medicare Plan Finder at Medicare.gov. It pulls official plan data and lets you enter your specific drugs and pharmacy to compare real annual costs. For a second opinion or help interpreting the results, a free State Health Insurance Assistance Program (SHIP) counselor can walk through plans with you at no cost. Find your local SHIP at shiphelp.org."
+lastmod: 2026-07-07
 ---
 
 October 15th. Write it down. That's when it starts.
 
 Medicare's Annual Enrollment Period (AEP) runs from **October 15 through December 7** every year, and 2026 is no different. Any changes you make take effect January 1, 2027. Miss December 7th and you're locked into whatever coverage you have now for another full year, with very limited exceptions.
 
-I've watched people miss this window by a week, sometimes by a single day, and spend the next twelve months paying for a plan that doesn't fit them anymore. One woman I spoke with, Barbara from Phoenix, had switched to a lower-cost Part D plan (that's Medicare's prescription drug coverage) the prior year without checking whether her cholesterol medication was still on the plan's formulary (the list of covered drugs). It wasn't. She spent most of the year paying full retail for a drug that should have cost her $12 a month. The fix was simple. She just didn't know she needed to make it.
+I've watched people [miss this window](/missing-medicare-open-enrollment/) by a week, sometimes by a single day, and spend the next twelve months paying for a plan that doesn't fit them anymore. One woman I spoke with, Barbara from Phoenix, had switched to a lower-cost Part D plan (that's Medicare's prescription drug coverage) the prior year without checking whether her cholesterol medication was still on the plan's formulary (the list of covered drugs). It wasn't. She spent most of the year paying full retail for a drug that should have cost her $12 a month. The fix was simple. She just didn't know she needed to make it.
 
 That's what open enrollment is for.
 
 ## What You Can Actually Change During AEP
+
+| Action | During AEP (Oct 15-Dec 7) | Outside AEP |
+| --- | --- | --- |
+| Switch Original Medicare to Medicare Advantage | ✓ Allowed | Limited exceptions only |
+| Switch Medicare Advantage to Original Medicare | ✓ Allowed | Limited exceptions only |
+| Switch between Medicare Advantage plans | ✓ Allowed | Limited exceptions only |
+| Join or switch Part D drug plans | ✓ Allowed | Limited exceptions only |
+| Drop Part D coverage | ✓ Allowed | Limited exceptions only |
+| Add, change, or drop Medigap plans | ✗ Not covered by AEP | Separate rules apply; health questions may be asked |
 
 This is where most articles get vague. Let's be specific.
 

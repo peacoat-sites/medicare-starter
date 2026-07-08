@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-
+lastmod: 2026-07-07
 ---
 Your Medicare card shows up in the mail on your 65th birthday, and you're holding it thinking: "Okay, but what exactly does this cover?" I hear this question constantly. People paid into Medicare their whole working lives and still don't know what they're actually entitled to. The honest answer is that Medicare covers quite a lot, but it also has gaps that catch people off guard. Here's what you need to know.
 
@@ -35,7 +35,7 @@ Medicare splits into parts, and knowing what each one does is everything.
 
 **Part B** is medical insurance. Doctor visits, outpatient care, preventive services, lab work, X-rays, wheelchairs, blood sugar monitors. Most medically necessary services fall here. Part B comes with a monthly premium that changes yearly. You'll also pay a deductible, and Medicare then covers 80% of approved costs. You're on the hook for the other 20%.
 
-Together, these two parts are what people call "Original Medicare." It's been the traditional fee-for-service setup since 1965.
+Together, these two parts are what people call "[Original Medicare](/how-does-medicare-work/)." It's been the traditional fee-for-service setup since 1965.
 
 ## What Part A Actually Pays For (and When It Stops)
 
@@ -45,7 +45,7 @@ When you're admitted as an inpatient, Part A covers your room, meals, nursing ca
 
 Skilled nursing facility coverage works the same way. You need a qualifying inpatient hospital stay of at least three days first. Days 1 through 20 at a skilled nursing facility are covered in full. Days 21 through 100 require daily coinsurance. After day 100, Medicare pays nothing.
 
-I've watched clients get blindsided by that 100-day limit. They assumed Medicare would cover a long nursing home stay forever. It won't. Long-term custodial care, meaning help with bathing and dressing when you don't need skilled medical services, isn't covered at all. That's where Medicaid or long-term care insurance takes over.
+I've watched clients get blindsided by that 100-day limit. They assumed Medicare would cover a long nursing home stay forever. It won't. Long-term custodial care, meaning help with bathing and dressing when you don't need skilled medical services, isn't covered at all. That's where Medicaid or [long-term care insurance](/what-medicare-does-not-cover/) takes over.
 
 Hospice care is actually generous. If a doctor certifies a terminal illness with a life expectancy of six months or less, Medicare covers nearly all hospice services: nursing visits, pain management, counseling, family support. It happens at home or in a hospice facility, and out-of-pocket costs are minimal.
 
@@ -74,6 +74,14 @@ Understand the Extra Help program (Low Income Subsidy, or LIS). If your income a
 If you take multiple prescriptions, comparing Part D plans before open enrollment closes each year is worth your time. The Medicare Plan Finder tool on [Medicare.gov](https://www.medicare.gov/) lets you plug in your exact medications and see what each plan costs annually.
 
 ## Medicare Advantage (Part C): An Alternative Approach
+
+| Feature | Original Medicare (Parts A & B) | Medicare Advantage (Part C) |
+|---|---|---|
+| Provider choice | Any provider accepting Medicare nationwide | Usually a network of providers |
+| Referrals needed | Generally not required | Often required (HMO plans) |
+| Part D coverage | Standalone plan required | Often included |
+| Out-of-pocket maximum | None | Yes, capped annually |
+| Coverage outside network | Yes | Limited or none |
 
 Medicare Advantage plans, or Part C, are a different way to get Medicare benefits. Instead of Parts A and B from the federal government, you get them bundled through a private insurer.
 

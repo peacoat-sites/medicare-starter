@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-
+lastmod: 2026-07-07
 ---
 If you're paying more than $35 a month for insulin, something's broken in your setup. Not an exaggeration. Since 2023, Medicare capped out-of-pocket insulin costs at $35 per month per covered insulin under Part D drug plans and Medicare Advantage plans with drug coverage. Most seniors don't know this. Most pharmacies won't tell you. And plenty of people are overpaying because nobody mentioned the rules changed.
 
@@ -43,13 +43,19 @@ One gap exists: if you're in Original Medicare without Part D coverage, the cap 
 
 ## The $35 Cap: What It Covers and What It Doesn't
 
+| Coverage Type | Who It Applies To | Monthly Cost Cap | Deductible Applies? |
+|---|---|---|---|
+| Part D (injected insulin at home) | Insulin pen, syringe, or vial users | $35 per insulin | No |
+| Part B (pump insulin) | Insulin pump users | 20% of Medicare-approved amount | Yes, Part B deductible |
+| Medicare Advantage (MA-PD) | Plan members with drug coverage | $35 per insulin | No |
+
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 The Inflation Reduction Act of 2022 made the $35 insulin cap permanent for Medicare beneficiaries starting January 1, 2023. It used to be voluntary. Now it's mandatory.
 
 Here's what this actually means. Your copay for each insulin you take each month cannot exceed $35. If you take two different insulins (a long-acting basal and a fast-acting mealtime insulin), the cap applies to each separately. Two insulins means two separate $35 maximums, so your total could hit $70, but no higher.
 
-The cap works everywhere in your coverage year: during the deductible phase, initial coverage phase, and the coverage gap (the "donut hole"). You've heard the stories about seniors hitting the donut hole and watching costs explode. For insulin, that stops happening now.
+The cap works everywhere in your coverage year: during the deductible phase, initial coverage phase, and the [coverage gap (the "donut hole")](/medicare-part-d-donut-hole-2026/). You've heard the stories about seniors hitting the donut hole and watching costs explode. For insulin, that stops happening now.
 
 What the cap doesn't cover: insulin supplies. Syringes, pen needles, lancets, glucose test strips. Those get covered under Part D as diabetic supplies with their own cost-sharing rules. They're not subject to the $35 cap. Continuous glucose monitors recently moved to Part B coverage, which is a separate thing worth knowing about if you use one.
 

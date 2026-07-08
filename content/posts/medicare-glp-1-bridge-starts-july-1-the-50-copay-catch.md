@@ -12,6 +12,7 @@ author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-glp-1-bridge-starts-july-1-the-50-copay-catch"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something surprising is happening in Medicare on July 1, 2026, and most seniors eligible to benefit from it don't fully understand what they're actually signing up for. The Medicare GLP-1 Bridge launches this week, offering Wegovy, Zepbound (KwikPen), and a third drug called Foundayo at a flat $50 a month to qualifying Part D enrollees. For context, these drugs list at $1,000 or more per month without assistance, so $50 sounds almost too good to be true. In some ways, it is. The catch buried inside this program is one that could genuinely hurt people financially, and I want to make sure you understand it before July 1 arrives.
 
@@ -23,13 +24,23 @@ Here's the thing that tripped me up when I first read the program details: this 
 
 ## The $50 Copay Trap Nobody Is Talking About Loudly Enough
 
+| Aspect | Bridge Program | Standard Part D |
+| --- | --- | --- |
+| Monthly Copay | $50 | Varies by plan |
+| Counts Toward Out-of-Pocket Cap | No | Yes |
+| Eligible for Prescription Payment Plan (M3P) | No | Yes |
+| Program Duration | July 1, 2026 - Dec 31, 2027 | Ongoing |
+| 18-Month Total Copay | $900 | N/A |
+| Eligible Drugs | Wegovy, Zepbound (KwikPen), Foundayo | Plan-dependent |
+| Eligible Population | ~3.8 million Part D enrollees (8%) | All Part D enrollees |
+
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
 
 I'll be honest, when I first saw the $50 monthly copay, I assumed it would work like any other Part D cost-sharing, meaning it would count toward your annual out-of-pocket cap and your Medicare Prescription Payment Plan if you use one. Both assumptions are wrong.
 
-Because the Bridge operates outside the Part D benefit structure, that $50 monthly payment does not count toward the 2026 Part D out-of-pocket cap of $2,100. If you're already managing other expensive medications through Part D and you're working toward that $2,100 ceiling, your Bridge copays won't help you get there any faster. You're paying $50 a month in a lane that doesn't connect to your other drug spending.
+Because the Bridge operates outside the Part D benefit structure, that $50 monthly payment does not count toward the 2026 [Part D out-of-pocket cap](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) of $2,100. If you're already managing other expensive medications through Part D and you're working toward that $2,100 ceiling, your Bridge copays won't help you get there any faster. You're paying $50 a month in a lane that doesn't connect to your other drug spending.
 
 The Prescription Payment Plan, sometimes called the Medicare M3P, is the program that lets people smooth their drug costs throughout the year rather than getting hit with large bills upfront. Bridge copays are not eligible for that program either. So if you're a beneficiary on a fixed income who relies on that payment spreading tool for your other medications, the Bridge copay is an additional out-of-pocket expense with no payment flexibility built in.
 
@@ -47,7 +58,7 @@ One more thing physicians need to know: according to guidance the American Medic
 
 ## The Bigger Picture Behind This Program
 
-What surprised me while researching this was the scale of the financial pressure driving it. The 2026 Medicare Trustees Report, cited by KFF in an analysis published June 24, projects that Part D spending will nearly double from $181 billion in 2025 to $346 billion by 2035. GLP-1 drug utilization is specifically named as a primary cost driver in that projection.
+What surprised me while researching this was the scale of the financial pressure driving it. The [2026 Medicare Trustees Report](/what-the-2026-medicare-trustees-report-means-for-your-benefits/), cited by KFF in an analysis published June 24, projects that Part D spending will nearly double from $181 billion in 2025 to $346 billion by 2035. GLP-1 drug utilization is specifically named as a primary cost driver in that projection.
 
 The Bridge program is, in part, CMS trying to control how and when these drugs enter the Medicare system while longer-term policy decisions are made. Running the program outside the Part D benefit structure isn't just a technical quirk. It's a deliberate choice that limits CMS's exposure while still offering beneficiaries meaningful access. Understanding that helps explain why the $50 copay doesn't integrate with Part D protections. The program was designed that way intentionally.
 

@@ -23,6 +23,7 @@ faqs:
    a: "No. Medigap policies only work with Original Medicare (Parts A and B). If you're enrolled in a Medicare Advantage plan, you can't use a Medigap policy, and insurance companies can't legally sell you one that applies to Advantage coverage."
  - q: "When does my Medicare enrollment period open?"
    a: "Your Initial Enrollment Period is a 7-month window: it starts 3 months before the month you turn 65, includes your birthday month, and ends 3 months after. Enrolling late without a valid Special Enrollment Period can trigger permanent premium penalties for Part B and Part D."
+lastmod: 2026-07-07
 ---
 
 Most people walk into Medicare assuming it's free. I've watched that assumption cost retirees hundreds of dollars a month in surprise premiums, cost-sharing, and uncovered services they didn't see coming. Let me save you that particular frustration.
@@ -39,6 +40,15 @@ But "free premium" doesn't mean free. Part A has a per-benefit-period deductible
 
 ## Part B: The One Almost Everyone Pays
 
+| Medicare Part | Premium | Deductible | Cost-Sharing | Best For |
+| --- | --- | --- | --- | --- |
+| Part A (Hospital) | $0-$505/month* | Per benefit period | Coinsurance after deductible | Inpatient hospital, skilled nursing, hospice |
+| Part B (Medical) | ~$185/month (base) | ~$257/year | 20% coinsurance (uncapped) | Doctor visits, outpatient care, preventive services |
+| Part D (Drugs) | $40-$55/month avg | Varies by plan | Up to $2,000/year cap (2025+) | Prescription medications |
+| Medicare Advantage | $0-varies | Typically lower | Copays/coinsurance per plan | Healthy seniors, network users |
+
+*Depends on work history; most pay $0.
+
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -47,7 +57,7 @@ Part B covers outpatient care: doctor visits, preventive services, lab work, dur
 
 The standard Part B premium is currently around $185 a month per person. That's the number to work with if your income is at or below $106,000 as an individual (or $212,000 if you're married filing jointly). If you earn more than that, you'll pay more. A lot more, actually.
 
-This is where IRMAA comes in. IRMAA stands for Income-Related Monthly Adjustment Amount, and it's a surcharge that the Social Security Administration (SSA) tacks onto your Part B premium based on your income from two years prior. So what you pay in 2026 is based on your 2024 tax return. At the highest income tier, Part B alone can cost over $590 a month per person. I've seen people genuinely shocked by this. They retired, their income dropped significantly, and they're still paying a surcharge based on the year they were still working full-time. You can appeal this using Form SSR-44 if you've had a qualifying life event like retirement, divorce, or death of a spouse. Most people don't know they can do that.
+This is where [IRMAA comes in](/irmaa-medicare-surcharge-2026/). IRMAA stands for Income-Related Monthly Adjustment Amount, and it's a surcharge that the Social Security Administration (SSA) tacks onto your Part B premium based on your income from two years prior. So what you pay in 2026 is based on your 2024 tax return. At the highest income tier, Part B alone can cost over $590 a month per person. I've seen people genuinely shocked by this. They retired, their income dropped significantly, and they're still paying a surcharge based on the year they were still working full-time. You can appeal this using Form SSR-44 if you've had a qualifying life event like retirement, divorce, or death of a spouse. Most people don't know they can do that.
 
 Part B also has an annual deductible (currently around $257), and after that you typically pay 20% of Medicare-approved costs. No cap on that 20%, by the way. That's where supplemental insurance comes in, which I'll get to.
 

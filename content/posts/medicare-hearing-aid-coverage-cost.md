@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-
+lastmod: 2026-07-07
 ---
 Most people assume Medicare covers hearing aids the way it covers a hip replacement or a round of chemotherapy. It doesn't. Not even close.
 
@@ -33,6 +33,13 @@ That's the uncomfortable truth that gets glossed over in a lot of Medicare expla
 
 ## What "No Coverage" Actually Means at the Counter
 
+| Coverage Type | Hearing Aid Coverage | Cost to Beneficiary | Key Limitation |
+| --- | --- | --- | --- |
+| Original Medicare (Part A & B) | No | 100% out-of-pocket ($4,000-$7,000+) | Explicitly excluded since 1965 |
+| Medicare Advantage (Part C) | Often yes | Varies ($0-$3,000+ depending on plan) | Network restrictions; annual/biennial limits; device tier restrictions |
+| Medigap (Supplement) | No | 100% out-of-pocket ($4,000-$7,000+) | Does not cover what Medicare excludes |
+| Over-the-Counter (OTC) | No | 100% out-of-pocket ($200-$1,500) | Only suitable for mild-to-moderate loss; not appropriate for severe/profound loss or ear disease |
+
 The average pair of hearing aids costs somewhere between $4,000 and $7,000 out of pocket, though you can spend north of $6,000 for premium Bluetooth-enabled devices from brands like Phonak or Oticon. Over-the-counter options, which the FDA cleared for adults with mild to moderate hearing loss in 2022, run considerably cheaper, sometimes $200 to $1,500 for a pair.
 
 When a Medicare beneficiary with traditional Part A and Part B shows up at an audiology clinic, the bill is entirely their responsibility. There's no deductible that applies. No coinsurance. The EOB (Explanation of Benefits) will come back stamped "not a covered service," and no amount of appeals will change that outcome, because the denial isn't a billing error. It's policy.
@@ -41,7 +48,7 @@ Part B does cover diagnostic hearing exams, but only when a physician orders the
 
 ## Medicare Advantage: The Main Workaround, With Caveats
 
-Medicare Advantage plans, sometimes called Part C, are the private insurance alternative to original Medicare. The federal government requires them to cover everything original Medicare covers, but it also allows them to offer extra benefits, and hearing coverage is one of the most common extras they advertise.
+[Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/), sometimes called Part C, are the private insurance alternative to original Medicare. The federal government requires them to cover everything original Medicare covers, but it also allows them to offer extra benefits, and hearing coverage is one of the most common extras they advertise.
 
 This is where things get genuinely complicated.
 
@@ -57,7 +64,7 @@ The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes p
 
 ## Medicare Supplement Plans (Medigap): Don't Expect Much Here
 
-Medigap plans, which are sold by private insurers to cover the cost-sharing gaps in original Medicare, do not cover hearing aids either. They wrap around what Medicare covers. Since Medicare doesn't cover hearing aids, neither does Medigap. A Plan G or Plan N policy is excellent for reducing your hospital and outpatient cost exposure, but it will do nothing for your audiologist's bill.
+Medigap plans, which are sold by private insurers to cover the [cost-sharing gaps in original Medicare](/medicare-coinsurance-explained/), do not cover hearing aids either. They wrap around what Medicare covers. Since Medicare doesn't cover hearing aids, neither does Medigap. A Plan G or Plan N policy is excellent for reducing your hospital and outpatient cost exposure, but it will do nothing for your audiologist's bill.
 
 This is a common misconception I've heard from readers. They buy comprehensive Medigap coverage expecting it to act as a catch-all. It isn't.
 

@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-
+lastmod: 2026-07-07
 ---
 New York has some of the most generous Medicare rules in the country, and most people living here never take advantage of them. I've sat across the table from hundreds of seniors in this state who were overpaying by hundreds of dollars a month, sometimes more, simply because nobody told them what New York does differently. That changes today.
 
@@ -38,6 +38,13 @@ These two parts together still leave significant gaps. There's no cap on out-of-
 This is why most New Yorkers need to choose something beyond Original Medicare: either a Medicare Supplement plan (also called Medigap) or a Medicare Advantage plan. And here's where New York's rules start working in your favor in ways that genuinely surprise people.
 
 ## New York's Medigap Rules Are Unlike Almost Anywhere Else
+
+| Plan Type | Covers Part B Deductible | Covers Part B Excess Charges | Typical Monthly Cost in NY | Availability |
+| --- | --- | --- | --- | --- |
+| Plan C | Yes | Yes | Varies | Original enrollees only (before Jan 1, 2020) |
+| Plan F | Yes | Yes | Varies | Original enrollees only (before Jan 1, 2020) |
+| Plan G | No | Yes | $150-$300 | All new enrollees |
+| Plan N | No | No | $100-$200 | All new enrollees |
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,6 +23,7 @@ faqs:
     a: "Yes. If you haven't worked enough quarters yourself (40 quarters, or roughly 10 years of Medicare-taxed work), you can qualify for premium-free Part A based on your current or former spouse's work record, as long as you're at least 65 and they've met the 40-quarter requirement."
   - q: "If I delay Social Security until 70, do I also delay Medicare?"
     a: "No. These are separate decisions. You should still enroll in Medicare at 65 (or during your Special Enrollment Period if you have qualifying employer coverage). Delaying Social Security is often a smart financial move. Delaying Medicare without qualifying coverage is almost never a smart move, and comes with permanent penalties."
+lastmod: 2026-07-07
 ---
 
 Most people I sit down with assume Medicare and Social Security are basically the same program. They're not, and mixing them up can cost you real money and, in some cases, permanently reduce your monthly income. I've seen it happen more times than I'd like to count.
@@ -35,7 +36,7 @@ These two programs are deeply connected, but they work on completely different r
 
 Here's the part most people don't realize: you don't have to be receiving Social Security benefits to get Medicare. And you don't have to be 65 to get Social Security. The programs share a birthday in 1965, they're both administered with federal oversight, and your Social Security earnings record is what Medicare uses to determine your Part A (hospital insurance) premium, but they're genuinely separate systems.
 
-Social Security is an income program. It replaces a portion of your pre-retirement wages when you retire, become disabled, or die and leave behind eligible survivors. Medicare is a health insurance program. It covers hospital stays, doctor visits, prescription drugs, and more, starting mostly at 65 (with earlier eligibility if you have a qualifying disability or certain conditions like End-Stage Renal Disease).
+Social Security is an income program. It replaces a portion of your pre-retirement wages when you retire, become disabled, or die and leave behind eligible survivors. Medicare is a health insurance program. It covers hospital stays, doctor visits, prescription drugs, and more, starting mostly at 65 (with earlier eligibility if you have a qualifying disability or certain conditions like [End-Stage Renal Disease](/medicare-eligibility-requirements/)).
 
 The connection that trips people up most: if you're already receiving Social Security when you turn 65, you're enrolled in Medicare Parts A and B automatically. The government just does it. Your Medicare card arrives in the mail about three months before your 65th birthday. A lot of people don't even notice it happening.
 
@@ -65,9 +66,18 @@ The flip side is also true. If you delay Social Security past 65, you must still
 
 ## Medicare's Four Parts and What Social Security Has to Do With Each
 
+| Program | Primary Purpose | Eligibility Age | Connection to Social Security |
+| --- | --- | --- | --- |
+| Social Security | Income replacement for retirement, disability, survivors | As early as 62 (retirement); varies for disability | Earnings record determines Medicare Part A eligibility |
+| Medicare | Health insurance coverage | Primarily 65+; earlier with qualifying disability or ESRD | Automatic enrollment at 65 if receiving Social Security; otherwise must enroll manually |
+| Medicare Part A | Inpatient hospital care | 65+ (if 10 years/40 quarters work history) | Premium-free if work record qualifies |
+| Medicare Part B | Outpatient care, doctor visits, preventive services | 65+ | Standard premium $185/month (as of July 2026); subject to IRMAA based on prior income |
+| Medicare Part C | Private plan alternative (bundled coverage) | 65+ | Premium often deducted from Social Security check |
+| Medicare Part D | Prescription drug coverage | 65+ | Premium often deducted from Social Security check |
+
 Part A covers inpatient hospital care. If you or your spouse worked and paid Medicare taxes for at least 10 years (40 quarters), you get Part A free. That work record lives in your Social Security file, which is why the Social Security Administration (SSA) and the Centers for Medicare & Medicaid Services (CMS, available at [cms.gov](https://www.cms.gov/)) share data constantly.
 
-Part B covers outpatient care: doctor visits, lab work, preventive screenings, and more. The standard premium as of July 2026 is $185/month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). IRMAA is calculated using your tax return from two years prior, so a high-income year can haunt you even if your income has since dropped. Worth flagging for anyone who sold a business, a rental property, or had a big Roth conversion recently.
+[Part B covers outpatient care](/medicare-part-b-explained/): doctor visits, lab work, preventive screenings, and more. The standard premium as of July 2026 is $185/month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). IRMAA is calculated using your tax return from two years prior, so a high-income year can haunt you even if your income has since dropped. Worth flagging for anyone who sold a business, a rental property, or had a big Roth conversion recently.
 
 Part C is Medicare Advantage, a private-plan alternative to original Medicare that bundles in Part D drug coverage. No direct Social Security connection here, though your premium is still often deducted from your Social Security check if you're receiving benefits.
 
