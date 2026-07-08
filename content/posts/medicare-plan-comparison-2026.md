@@ -68,3 +68,15 @@ Fourth: forgetting to account for the Part B premium increase if your Modified A
 I'm direct about this: I'd choose Original Medicare plus Medigap Plan G plus Part D. The monthly cost of roughly $390-$400 feels like paying for peace of mind. I can see any doctor, I don't agonize over formularies, and I never worry about surprise bills. If I lived in a rural area or traveled constantly, I'd feel even more certain. But if I were healthy, took one generic blood pressure pill, and lived in a major city with a strong Advantage network, I'd seriously consider a $0 Advantage plan and pocket the premium difference for out-of-pocket costs, knowing I could always switch later if circumstances changed.
 
 Your answer depends on your health, your financial flexibility, and your emotional tolerance for complexity. Use this data as a starting point, then get specific quotes from plans in your zip code. The $50 or $100 per month you save or spend matters over a decade.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22) — The definitive consumer guide to Medicare — enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17) — Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+
