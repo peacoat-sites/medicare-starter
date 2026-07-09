@@ -3,6 +3,9 @@ title: "Medicare Costs in 2026: Premiums & Deductibles"
 date: 2026-01-03
 draft: false
 description: "The official 2026 Medicare Part A and Part B premiums, deductibles, and coinsurance amounts from CMS, compared with 2025 so you can see exactly what changed."
+author: "Susan Park"
+author_slug: "susan-park"
+author_title: "Plan Comparison Specialist"
 ---
 
 Every fall, the Centers for Medicare & Medicaid Services (CMS) announces the next year's standard Medicare costs. Below are the official 2026 amounts alongside 2025, so you can see at a glance what went up and by how much.
