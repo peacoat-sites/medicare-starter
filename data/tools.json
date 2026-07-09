@@ -2,44 +2,49 @@
   {
     "label": "IRMAA Medicare Calc",
     "url": "/irmaa-medicare-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "irmaa",
       "medicare"
-    ]
+    ],
+    "desc": "See whether your income triggers higher Medicare Part B and D premiums."
   },
   {
     "label": "Cost Estimator",
     "url": "/medicare-cost-estimator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "cost"
-    ]
+    ],
+    "desc": "Estimate your yearly Medicare costs across premiums, deductibles, and gaps."
   },
   {
     "label": "Costs Year",
     "url": "/medicare-costs-by-year/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "costs",
       "year"
-    ]
+    ],
+    "desc": "See how Medicare premiums and deductibles have changed year over year."
   },
   {
     "label": "Enrollment Dates",
     "url": "/medicare-enrollment-dates/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "enrollment",
       "dates"
-    ]
+    ],
+    "desc": "Find your personal Medicare enrollment windows and avoid late penalties."
   },
   {
     "label": "Plan Quiz",
     "url": "/medicare-plan-quiz/",
-    "icon": "\ud83e\udded",
+    "icon": "🧭",
     "match": [
       "plan"
-    ]
+    ],
+    "desc": "Answer a few questions to see which type of Medicare plan fits you."
   }
 ]
