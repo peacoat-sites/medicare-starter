@@ -1,13 +1,3 @@
 # 301s for articles removed in dedup/cleanup (consolidate to kept twin)
-/medicare-initial-enrollment-period/ /medicare-initial-enrollment-period-when-to-sign-up-at-65/ 301
-/medicare-initial-enrollment-period /medicare-initial-enrollment-period-when-to-sign-up-at-65/ 301
-/medicare-low-income-subsidy/ /medicare-cost-for-low-income-seniors/ 301
-/medicare-low-income-subsidy /medicare-cost-for-low-income-seniors/ 301
-/medicare-part-d-donut-hole-2026/ /best-medicare-part-d-plans-2026/ 301
-/medicare-part-d-donut-hole-2026 /best-medicare-part-d-plans-2026/ 301
-/medicare-vs-medicaid-difference/ /difference-between-medicare-and-medicaid-explained/ 301
-/medicare-vs-medicaid-difference /difference-between-medicare-and-medicaid-explained/ 301
-/medicare-advantage-vs-medicare-supplement-total-cost  /medicare-advantage-vs-supplement-cost-comparison/  301
-/medicare-advantage-vs-medicare-supplement-total-cost/  /medicare-advantage-vs-supplement-cost-comparison/  301
 /medicare-supplement-vs-medicare-advantage-cost  /medicare-advantage-vs-supplement-cost-comparison/  301
-/medicare-supplement-vs-medicare-advantage-cost/  /medicare-advantage-vs-supplement-cost-comparison/  301
+/best-medicare-part-d-plans-2026/ /medicare-part-d-donut-hole-2026/ 301
