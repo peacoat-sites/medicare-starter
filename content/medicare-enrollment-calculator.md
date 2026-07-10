@@ -3,7 +3,8 @@ title: "Medicare Enrollment Date Calculator: Find Your Enrollment Window"
 hide_title: true
 slug: "medicare-enrollment-dates"
 date: 2026-06-10
-author: "Frank Alvarez"
+author: "Robert Williams"
+author_slug: "robert-williams"
 categories: ["Medicare Enrollment"]
 description: "Calculate your Medicare Initial Enrollment Period, Special Enrollment Period, and understand late-enrollment penalties. Free enrollment date calculator."
 image: "https://images.pexels.com/photos/34240091/pexels-photo-34240091.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
