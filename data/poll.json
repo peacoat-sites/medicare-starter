@@ -1,0 +1,21 @@
+{
+  "question": "How confident are you about your Medicare choices?",
+  "options": [
+    {
+      "label": "Somewhat confident",
+      "votes": 327
+    },
+    {
+      "label": "Overwhelmed",
+      "votes": 293
+    },
+    {
+      "label": "Very confident",
+      "votes": 148
+    },
+    {
+      "label": "Helping a parent decide",
+      "votes": 138
+    }
+  ]
+}
