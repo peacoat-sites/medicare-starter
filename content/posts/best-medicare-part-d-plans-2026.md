@@ -113,3 +113,14 @@ The honest truth is that reviewing your Part D coverage every year is one of the
 
 - [Medicare.gov, Part D Costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage), Explains Part D premiums, tiers, formularies, and cost structure
 - [CMS.gov, Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare), Details IRA provisions including Part D out-of-pocket caps
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
+- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
+
