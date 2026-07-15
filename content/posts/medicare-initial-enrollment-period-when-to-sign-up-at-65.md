@@ -127,23 +127,11 @@ The seven months of your Initial Enrollment Period go fast, especially when you'
 
 *Note: Some links in this article may be affiliate links, meaning this site may earn a commission if you make a purchase. This does not affect which resources are recommended.*
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-
-*Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

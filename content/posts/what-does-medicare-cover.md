@@ -122,21 +122,6 @@ Beyond Medigap, these gaps trip people up consistently:
 
 Medicare is a powerful safety net. Once you understand how it works, you can make smarter decisions about supplementing and completing your coverage. This article gives you a solid foundation, but your situation is unique. Don't rely solely on what's here. A free one-on-one session with a [SHIP program](https://www.shiphelp.org/) counselor is one of the best things you can do before enrollment opens.
 
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, What Medicare Covers](https://www.medicare.gov/what-medicare-covers), Official overview of Part A, Part B, and covered services

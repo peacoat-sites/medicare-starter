@@ -116,24 +116,11 @@ Don't pick based on the fanciest brochure. Here's the real way to evaluate wheth
 
 Medicare Advantage works wonderfully for some people and creates real headaches for others. Your neighbor's glowing review about her $0 premium dental plan might be completely accurate for her and totally wrong for you. Check your doctors. Run your medications through the formulary. Read the Summary of Benefits. If you're still uncertain, call a SHIP counselor or independent broker. This affects your healthcare and finances for years. You deserve to decide with clear eyes and solid information.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

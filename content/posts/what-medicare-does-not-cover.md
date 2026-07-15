@@ -124,24 +124,11 @@ If long-term custodial care is your biggest worry, long-term care insurance (or 
 
 Medicare is remarkable. After 20 years in this field, I still see it change people's lives for the better. But it was never designed to be your only coverage, and the gaps it leaves are real. The seniors who fare best financially are the ones who spend an hour or two before age 65 understanding exactly what they're signing up for, then make thoughtful choices about how to fill the holes. You've already taken the first step just by reading this far. Take the next one and talk to a SHIP counselor or a licensed Medicare specialist before your next enrollment period closes.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-
-
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

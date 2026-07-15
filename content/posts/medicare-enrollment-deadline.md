@@ -99,24 +99,11 @@ The pragmatic move: find the cheapest Part D plan available in your area when yo
 
 Deadlines feel abstract until they aren't. The people who end up paying penalties for the rest of their lives aren't careless, they just didn't know what they didn't know. Getting clear on which deadline applies to your specific situation, and acting a little earlier than feels necessary, is genuinely one of the better financial decisions you can make as you approach 65. If anything here raised more questions than it answered about your specific situation, talking to a State Health Insurance Assistance Program (SHIP) counselor is free and worth every minute. You can find yours at shiphelp.org.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-
-
-*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

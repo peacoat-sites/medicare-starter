@@ -99,23 +99,11 @@ If you've already filed and paid the excise tax for a prior year, you can still 
 
 The interaction between Medicare and HSAs is one of those areas where the IRS rules are precise and the consequences of getting it wrong are real, but the information isn't exactly plastered on enrollment forms. Plan the timing carefully, stop contributions before Medicare starts, and treat whatever HSA balance you've built as a genuine retirement asset. It'll cover costs Medicare doesn't, tax-free, for as long as the money lasts.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-
-*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

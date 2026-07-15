@@ -123,21 +123,11 @@ For prescription drugs, get a Part D plan during your enrollment window. The Med
 
 Switching back to Original Medicare is absolutely doable. For the right person in the right circumstances, it's the best decision they can make for health and finances. The key is going in with your eyes open, especially about Medigap underwriting. Take your time, talk to a SHIP counselor, compare your drug plan options, and move during the right enrollment window. These Medicare benefits took a lifetime of work to earn. Make sure you're using them in the way that actually serves you best.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

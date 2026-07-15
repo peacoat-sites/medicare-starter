@@ -94,23 +94,11 @@ COBRA is not creditable coverage for avoiding the Medicare late enrollment penal
 
 The real takeaway: "I'm still working" doesn't mean you can ignore Medicare at 65. It means you have options, but those options come with deadlines, conditions, and one genuinely sneaky HSA trap. Get the details right for your specific situation, and don't rely on what your coworker did. Their employer, their health, and their finances aren't yours.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-
-*Photo: [Jsme MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

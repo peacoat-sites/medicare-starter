@@ -95,24 +95,11 @@ In good dental health and mainly needing preventive care? Almost any Medicare Ad
 
 The real mistake isn't picking the wrong dental plan. It's assuming Medicare has you covered and never asking the question until a tooth cracks. Ask it now, while you have time to compare options during open enrollment, not from a dentist's chair facing a $2,200 estimate with no plan in place.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-
-
-*Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

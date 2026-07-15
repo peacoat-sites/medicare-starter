@@ -101,24 +101,11 @@ The Annual Notice of Change (ANOC) your plan mails you in late September tells y
 
 The single best thing you can do before the October enrollment window opens is pull up Medicare.gov's Plan Finder and compare the actual Summary of Benefits documents for the top two or three plans in your area side by side. Not the marketing summary. The actual document. It's about twenty pages of fine print, and the dental and vision sections are usually near the back, but that's where the real answer lives. Spend thirty minutes there and you'll know more than most people who've been enrolled for years.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-
-
-*Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

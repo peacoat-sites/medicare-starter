@@ -120,23 +120,11 @@ Finally, don't think you're locked in. Every Annual Enrollment Period gives you 
 
 The choice between Medicare Advantage and Original Medicare is deeply personal. Neither is universally better. What matters is whether the plan matches your specific doctors, your prescriptions, your budget, and your health situation right now. Compare carefully each year, use the free tools, and don't hesitate to get a SHIP counselor to walk through the actual numbers. Getting this right is genuinely worth the effort.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-
-*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

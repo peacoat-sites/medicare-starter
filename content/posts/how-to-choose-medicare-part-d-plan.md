@@ -111,14 +111,6 @@ You can also work with a licensed insurance broker who specializes in Medicare. 
 
 Choosing a Part D plan isn't something you do once and forget. Every fall, your medications might change, your plans might change, your health might change. The good news? The tools and free help available to you today are genuinely excellent. Use the Plan Finder at Medicare.gov with your actual drug list, consider a free session with your local SHIP counselor if you want another set of eyes, and don't let the volume of mail you're receiving convince you that this has to be complicated. With the right information in front of you, it's a manageable decision.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, Part D costs & coverage](https://www.medicare.gov/drug-coverage-part-d), Official overview of Part D coverage, costs, and enrollment rules
@@ -131,11 +123,3 @@ Choosing a Part D plan isn't something you do once and forget. Every fall, your 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.

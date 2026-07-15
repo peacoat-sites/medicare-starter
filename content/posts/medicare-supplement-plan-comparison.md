@@ -113,14 +113,6 @@ A few mistakes happen over and over.
 
 Want more detail before talking to an agent? A good [Medicare supplement insurance guide](https://www.amazon.com/s?k=medicare+supplement+insurance+guide) lays out every plan's benefits clearly (note: this site may earn a commission on that purchase).
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap), Explains Medigap basics, standardized plans, and how it differs from Medicare Advantage
@@ -134,10 +126,3 @@ Want more detail before talking to an agent? A good [Medicare supplement insuran
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.

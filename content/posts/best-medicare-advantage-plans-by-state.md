@@ -134,24 +134,11 @@ If you're in a rural state like Wyoming, Montana, or parts of the Midwest, optio
 
 Choosing a Medicare Advantage plan is one of the most personal financial decisions you'll make in retirement. The right answer looks different for everyone. Take your time with the free tools available. And call your State Health Insurance Assistance Program (SHIP) for free one-on-one counseling. These are trained, unbiased counselors who'll sit with you and work through your specific situation at no cost. You've earned these benefits. Pick a plan that actually fits the life you're living.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-
-
-*Photo: [UMA media](https://www.pexels.com/@uma-media-2149408028) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

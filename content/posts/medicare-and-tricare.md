@@ -244,8 +244,6 @@ No. TRICARE Prime isn't available to Medicare-eligible beneficiaries. You transi
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)

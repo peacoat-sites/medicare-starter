@@ -117,18 +117,6 @@ I've been doing this long enough to recognize the patterns. Here are the ones th
 
 Open enrollment doesn't have to feel like a chore you dread every fall. Think of it as your annual check-in on one of the most important financial decisions in your life. Spend a few hours comparing your options, lean on free resources like SHIP counselors when you need support, and make a deliberate choice rather than letting inertia decide for you. Your future self, especially the one who might need that specialist or that prescription next March, will be grateful you did.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-
-*This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
-
 ## Sources
 
 - [medicare.gov](https://www.medicare.gov/plan-compare/)

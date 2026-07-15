@@ -112,21 +112,11 @@ I've watched people auto-renew the same plan for five or six years running witho
 
 The rules around Medicare insulin coverage have never been better, and most people don't realize how much better they've gotten. The $35 cap is real, it's permanent, and it applies right now. If you or someone you know is still overpaying for insulin, it's fixable. Check the formulary, confirm how the pharmacy bills, and if something still feels wrong, call a SHIP counselor. Free help from someone who lives and breathes these rules is one of Medicare's most ignored resources.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -19,8 +19,6 @@ This quick 7-question quiz looks at your habits, your priorities, and how you li
 
 However your results land, treat this as a starting point for a conversation, not a verdict. Medicare is personal, and the "best" choice depends on details only you and a trusted advisor can weigh together. Browse our beginner guides to learn how Advantage, [Original Medicare, and supplement plans](/how-does-medicare-advantage-work/) really differ, and bring your questions to a licensed agent or a free SHIP counselor before you enroll.
 
-## Recommended Resources
-
 ## Sources
 
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)

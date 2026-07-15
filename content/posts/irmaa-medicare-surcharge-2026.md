@@ -127,23 +127,11 @@ If you're still working or have some control over income timing, consider whethe
 
 The two-year lookback makes IRMAA feel like you're always reacting, never getting ahead. But once you understand the structure, you have more control than it seems. Get your 2024 MAGI in front of you. Know the thresholds. And if that letter arrives in the fall, don't just accept the number on the page.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -120,14 +120,6 @@ The calculation changes if your plan has altered its formulary for 2026 and your
 
 The 2026 Part D landscape has more moving parts than any year since the program launched. The premium increases are real, but so is the coverage protection that comes with the new benefit structure. Spend 15 minutes on Medicare.gov's Plan Finder before December 7, compare total annual cost rather than premium alone, and if your income changed significantly, check whether an IRMAA appeal applies to you. Those three steps can realistically save you more money than most anything else you'll do this fall.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [CMS, Medicare Part D Coverage and Costs](https://www.medicare.gov/drug-coverage-part-d), Explains Part D premiums, coverage structure, and enrollment rules
@@ -141,11 +133,3 @@ The 2026 Part D landscape has more moving parts than any year since the program 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.

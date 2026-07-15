@@ -102,14 +102,6 @@ If any of this is giving you a headache, call your local SHIP. It's free, it's n
 
 These two programs have helped hundreds of millions of people since Medicare and Medicaid were both signed into law in 1965, the same bill, the same day, by President Lyndon Johnson. Sixty years later they're still the backbone of health coverage for older and lower-income Americans. They're worth understanding. And if you're not sure where you stand, asking for help from SHIP, from Medicare.gov, from a trusted benefits counselor, isn't a sign that you've missed something. It's just smart.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, What is Medicare?](https://www.medicare.gov/what-medicare-covers), Explains Medicare eligibility, coverage, and who qualifies
@@ -118,10 +110,3 @@ These two programs have helped hundreds of millions of people since Medicare and
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.

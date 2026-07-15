@@ -115,23 +115,11 @@ Medigap Plan G is the most comprehensive option available to new enrollees in 20
 
 The $185.00 standard premium is a starting point, not your final number. Your income, enrollment timing, state, and other coverage all shift that. Look up your specific situation before you assume the standard applies. If IRMAA's going to hit you next year, plan around those brackets now instead of getting surprised later. A free call to your State Health Insurance Assistance Program (SHIP) is worth an hour of your time.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

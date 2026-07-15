@@ -109,25 +109,7 @@ Not sure whether you qualify? Your State Health Insurance Assistance Program (SH
 
 The honest truth is that reviewing your Part D coverage every year is one of the highest-value things you can do for your financial health. It takes about an hour using Medicare's Plan Finder, and the potential savings can be substantial. Plans change, your medications may change, and the plan that was perfect in 2024 may not be the best fit for 2026. Set a reminder now for mid-October, get your medication list ready, and give yourself that hour.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-
-*This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
 ## Sources & References
 
 - [Medicare.gov, Part D Costs](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage), Explains Part D premiums, tiers, formularies, and cost structure
 - [CMS.gov, Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare), Details IRA provisions including Part D out-of-pocket caps
-
-## Recommended Resources
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.

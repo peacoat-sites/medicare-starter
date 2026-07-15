@@ -120,24 +120,11 @@ Union retiree plans, federal employee retiree plans (FEHB), and state employee p
 
 The coordination of benefits rules exist because Congress didn't want Medicare picking up tabs that other insurers were already responsible for. Reasonable in theory. Complicated in practice. Knowing where Medicare sits in your specific payment order, and staying ahead of the billing paperwork, makes the difference between a smoothly processed claim and a months-long billing mess. When in doubt, your State SHIP program offers free one-on-one counseling, and Medicare.gov's plan comparison and benefits tools can help you see how your coverage layers together before you ever need to use it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-
-
-*Photo: [DΛVΞ GΛRCIΛ](https://www.pexels.com/@davegarcia) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 
@@ -154,4 +141,3 @@ The coordination of benefits rules exist because Congress didn't want Medicare p
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 - **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
-

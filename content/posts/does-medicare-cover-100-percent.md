@@ -108,14 +108,6 @@ The gap between what Medicare covers and what people expect shapes most Medicare
 
 If you're comparing Medigap plans locally, the [Medicare.gov Plan Finder](https://www.medicare.gov/plan-compare/) shows what's available. For a deeper dive into your options, talk to an independent broker, someone who works with multiple insurers, not just one company. It's worth the conversation.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, Costs at a glance](https://www.medicare.gov/basics/costs/medicare-costs), official Medicare cost-sharing and deductible information
@@ -129,10 +121,3 @@ If you're comparing Medigap plans locally, the [Medicare.gov Plan Finder](https:
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.

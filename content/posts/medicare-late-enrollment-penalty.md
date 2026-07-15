@@ -109,22 +109,11 @@ Part A's the only one with an end date. Two years. Everything else is permanent.
 
 Getting Medicare enrollment timing right is genuinely one of the most consequential financial decisions a person makes in their 60s, and it almost never gets attention until something goes wrong. If you're in the middle of this decision right now, don't rely solely on what a coworker told you or what you vaguely remember reading. Talk to your local SHIP counselor (it's free in every state), verify your specific situation at Medicare.gov, and if things are complicated, consider paying for a session with a licensed Medicare specialist. The penalty is permanent. The help is available. Use it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

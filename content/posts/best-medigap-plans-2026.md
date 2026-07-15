@@ -126,14 +126,6 @@ AARP's Medicare resource center at [aarp.org/health/medicare-insurance](https://
 
 The right Medigap plan depends on your health, budget, doctor relationships, and how much financial uncertainty you can tolerate. After two decades of helping seniors with these decisions, I can tell you this: taking time to understand your options before your enrollment window opens is one of the most valuable things you can do for your financial and physical wellbeing. A little homework now saves a lot of stress later.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, What's Medicare Supplement Insurance (Medigap)?](https://www.medicare.gov/health-drug-plans/medigap), Official overview of Medigap plans, standardization, and coverage
@@ -143,11 +135,3 @@ The right Medigap plan depends on your health, budget, doctor relationships, and
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.

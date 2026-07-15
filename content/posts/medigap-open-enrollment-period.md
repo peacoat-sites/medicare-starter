@@ -127,14 +127,6 @@ These are real safety nets. But they're narrowly defined. You typically have 63 
 
 Your Medigap Open Enrollment Period is a one-time gift, and it costs you nothing but the effort to use it. Do the research. Compare plans carefully. Don't let the deadline slip by. A licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP) can give free personalized help if you're unsure. Call Medicare.gov to find your local SHIP. The right choice inside that six-month window protects your health and your bank account for decades.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, What's Medigap?](https://www.medicare.gov/health-drug-plans/medigap), Covers Medigap basics and how it works with Original Medicare
@@ -147,11 +139,3 @@ Your Medigap Open Enrollment Period is a one-time gift, and it costs you nothing
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.

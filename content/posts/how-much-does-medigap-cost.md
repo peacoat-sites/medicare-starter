@@ -128,24 +128,11 @@ Neither is automatically better. But if you develop a serious illness and your c
 
 The real takeaway: Medigap pricing rewards people who shop actively, enroll at the right time, and understand how rating methods affect long-term costs. Don't take the first quote you see, and don't let anyone pressure you into a decision. Take your time, get several quotes, call a SHIP counselor if you want an unbiased second opinion, and choose a plan that fits how you actually live and use healthcare, not just the one with the lowest number on the flyer. You've earned this coverage, and getting it right matters.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-
-
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

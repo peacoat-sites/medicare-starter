@@ -97,24 +97,11 @@ A reasonable planning assumption: the 2026 premium will likely land somewhere ar
 
 What you can do right now: if you're turning 65 soon, build your retirement budget around a premium that's at least $10 to $20 higher than current rates to give yourself a cushion. If you're already enrolled, your annual notice of change materials in the fall will spell out exactly what your premium will be in 2026.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-
-
-*Photo: [Engin Akyurt](https://www.pexels.com/@enginakyurt) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

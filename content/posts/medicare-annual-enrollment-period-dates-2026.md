@@ -129,21 +129,11 @@ Knowing what not to do is just as useful as knowing what to do.
 
 The October 15 start date will arrive before you know it. Getting your information together now, setting a reminder to read your Annual Notice of Change when it arrives in late September, and giving yourself a few weeks to compare plans before December 7 will put you in a strong position. You've worked hard for these benefits. Taking a couple of hours each fall to make sure they're still working hard for you is one of the most practical things you can do for your health and your wallet.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

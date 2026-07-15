@@ -134,23 +134,11 @@ The math for skipping coverage almost never works in your favor once a real heal
 
 Getting hit with a penalty you didn't expect is frustrating, especially when it feels like the rules were designed to trip you up rather than protect you. But the penalty is also one of the most avoidable costs in Medicare if you know it's coming. If you're approaching 65, hold onto every creditable coverage letter your insurer sends you. If you've already got a penalty and you think the math is wrong, appeal it. And if you're not sure what to do next, a SHIP counselor will sit down with you for free and help you figure it out. You've been paying into this system for decades. It's worth a phone call to make sure you're getting it right.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

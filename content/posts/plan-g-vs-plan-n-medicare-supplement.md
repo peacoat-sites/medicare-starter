@@ -136,14 +136,6 @@ If you're approaching Medicare eligibility, pay serious attention to this timing
 
 Choosing between Plan G and Plan N doesn't have to feel overwhelming. You're weighing a higher premium against higher, somewhat unpredictable out-of-pocket risk. For people who want simplicity and see doctors regularly, Plan G often wins. For healthy, infrequent healthcare users comfortable with modest cost-sharing, Plan N's savings can meaningfully add up over time. Get real quotes, talk honestly to your doctors' offices, and reach out to your local SHIP counselor for personalized guidance. You don't have to figure this out alone.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [Medicare.gov, What Medigap policies cover](https://www.medicare.gov/health-drug-plans/medigap), Official explanation of standardized Medigap plan benefits
@@ -157,10 +149,3 @@ Choosing between Plan G and Plan N doesn't have to feel overwhelming. You're wei
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.

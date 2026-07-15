@@ -135,21 +135,9 @@ Original Medicare (Parts A and B) is just the starting point. Many people add co
 
 Getting your Medicare start date right is one of those things that's easy to overlook when you're juggling everything that comes with turning 65 or retiring. But a small mistake in timing can lead to months of uncovered care or a premium penalty you'll pay for the rest of your life. If your situation is anything other than straightforward, talk to a licensed Medicare counselor or a State Health Insurance Assistance Program (SHIP) counselor. SHIP counseling is free, unbiased, and available in every state. Find your local SHIP through Medicare.gov. You've earned these benefits. Take the time to use them right.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-
-*Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
 
 ## Sources
 

@@ -126,14 +126,6 @@ If you're genuinely uncertain whether your situation qualifies, call SHIP, the S
 
 The stakes are real: a missed SEP can lock you into a penalty that follows you for the rest of your Medicare life. But the rules are learnable, the timelines are fixed, and with the right information, almost everyone can protect themselves. If your situation is complicated, get a counselor, get documentation, and don't wait until the final week. The deadline doesn't care how busy you were.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
@@ -146,10 +138,3 @@ The stakes are real: a missed SEP can lock you into a penalty that follows you f
 - [CMS.gov, Medicare General Information](https://www.cms.gov/Medicare/Medicare-General-Information/MedicareGenInfo), Federal agency Medicare enrollment overview
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.

@@ -128,21 +128,9 @@ If predictability and freedom matter to you, Plan G is hard to beat. You pay you
 
 Plan G isn't magic, and no insurance policy is. But for the right person, especially someone who values financial predictability and freedom of choice, it comes very close to being the most stress-free way to cover what Original Medicare leaves behind. If you're approaching 65 or just beginning to sort through your options, your smartest next step is comparing real quotes for your zip code, talking to a SHIP counselor or licensed broker, and mapping out when your enrollment window opens. A little planning now saves a great deal of worry later.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
-*Photo: [Gundula Vogel](https://www.pexels.com/@guvo59) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
 
 ## Sources
 

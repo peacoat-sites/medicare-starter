@@ -118,24 +118,11 @@ The [best Medicare Advantage plans for 2026](/best-medicare-advantage-plans-2026
 
 Your MOOP is one of the most important numbers in Medicare Advantage, yet it's invisible until something goes wrong. Spending an hour comparing MOOPs across plans during open enrollment could save you thousands in unexpected costs. You don't have to figure this out alone. A free call with a SHIP counselor, Medicare.gov's plan finder, and your Summary of Benefits put you way ahead of most people.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
-
-*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

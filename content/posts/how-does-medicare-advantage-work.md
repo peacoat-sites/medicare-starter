@@ -135,22 +135,11 @@ For what's available right now, the guide to [best Medicare Advantage plans](/be
 
 Medicare Advantage works well for plenty of people, especially those who want predictable costs, bundled coverage, and extras like dental and vision. But it's not right for everyone. Someone who sees specialists frequently, values complete provider freedom, or travels often might find Original Medicare plus a strong supplement policy a better fit. The key is making an informed comparison based on your specific health needs, your budget, and your preferred doctors, not just the plan with the glossiest commercial. Take your time, use the free resources available, and ask questions. Getting this right is worth it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)**
-
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

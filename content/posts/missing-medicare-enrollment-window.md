@@ -114,23 +114,11 @@ This is why I always say: the decision to delay Medicare is rarely just one deci
 
 The real lesson isn't complicated, even if the rules are. Medicare enrollment has hard deadlines, and the consequences of missing them are long-lasting and largely unchangeable. If you're approaching 65, put these dates on your calendar now. If you're already past your window and unsure where you stand, don't wait another month to get clarity. The cost of inaction compounds in ways that are genuinely painful to watch.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)**
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-
-*Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

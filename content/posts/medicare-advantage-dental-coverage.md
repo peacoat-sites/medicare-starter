@@ -138,23 +138,11 @@ If you sign up for a Medicare Advantage plan and realize the dental coverage fal
 
 Dental health matters as much at 65 as it did at 35. Research increasingly ties oral health to overall health, including heart disease and diabetes risk. The best move right now is to pull your plan's Summary of Benefits, see what dental services are actually covered, and compare it against your real dental needs. If you're not yet enrolled or considering a switch, Medicare.gov's plan finder is one of the most genuinely useful free resources available. Use it. Your future self, sitting in the dentist's chair without getting shocked by the bill, will be grateful.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -142,23 +142,11 @@ Extra Help doesn't exist in isolation. It works best paired with other assistanc
 
 The truth is, Extra Help is one of the most underused benefits in all of Medicare, usually because people assume they won't qualify. If there's any chance you or someone you care about might be eligible, just apply. The process is free, it doesn't affect your other benefits, and the worst that happens is you get a letter saying no. The best that happens is your drug costs drop to almost nothing. That's worth 30 minutes of paperwork.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

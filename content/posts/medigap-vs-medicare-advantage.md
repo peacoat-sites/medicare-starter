@@ -112,24 +112,11 @@ Answer these questions before you commit.
 
 There's no universal right answer. Anyone claiming otherwise is oversimplifying. What matters is making a deliberate choice based on your actual circumstances, not a neighbor's story or a television commercial. Take your time. Use the free resources. When you're stuck, call your local SHIP counselor before you sign anything. Your coverage decision affects your health, your wallet, and your peace of mind.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-- **[Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)**
-
-
-*Photo: [Wijs (Wise)](https://www.pexels.com/@wijs-wise-136435282) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

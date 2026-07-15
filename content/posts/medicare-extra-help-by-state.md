@@ -92,21 +92,9 @@ Fourteen million people. A third of them leaving help on the table, not because 
 
 *Maria Vasquez is a Medicare counselor and contributor. This article is for informational purposes only and does not constitute professional benefits advice. Eligibility thresholds and benefit amounts change annually. Always verify current figures at Medicare.gov or SSA.gov, and consult your local SHIP counselor for guidance specific to your state and situation.*
 
-## Helpful Resources
-
-> **As an Amazon Associate this site earns from qualifying purchases.**
-
-- **[MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)**
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-
-*Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
 
 ## Sources
 

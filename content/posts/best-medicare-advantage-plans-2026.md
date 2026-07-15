@@ -130,21 +130,11 @@ The truth is neither approach wins across the board. Healthy people in solid net
 
 The 2026 Annual Enrollment Period arrives fast, and what you choose during that window shapes your health and finances for the entire year. Take time with this. Use Medicare.gov. Call the plans you're considering. Ask for help from a licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP), which offers free, unbiased counseling to Medicare members. A little careful work now prevents a lot of headaches later.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-- **[iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)**
-- **[Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)**
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

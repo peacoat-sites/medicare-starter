@@ -107,21 +107,9 @@ One more thing: if you feel like you were misled by a plan or an agent, or if so
 
 Missing an enrollment window feels enormous in the moment. Sometimes it genuinely is a problem that costs you money or delays coverage, and I won't pretend otherwise. But most of the time, after a few careful questions, people find out their situation is less permanent than they feared. The system has more flexibility built into it than the brochures suggest.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)**
-- **[Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)**
-- **[OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
-## Recommended Resources
 
 ## Sources
 
