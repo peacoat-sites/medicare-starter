@@ -19,3 +19,9 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 duplicate-topic merges
+/state-medicare-savings-programs/ /medicare-savings-programs/ 301
+/medicare-initial-enrollment-period/ /medicare-initial-enrollment-period-when-to-sign-up-at-65/ 301
+/medicare-supplement-plan-comparison/ /medigap-plan-comparison/ 301
+/medicare-plan-comparison-2026/ /medigap-plan-comparison/ 301
