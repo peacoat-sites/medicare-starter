@@ -1,3 +1,18 @@
 # 301s for articles removed in dedup/cleanup (consolidate to kept twin)
 /medicare-supplement-vs-medicare-advantage-cost  /medicare-advantage-vs-supplement-cost-comparison/  301
 /best-medicare-part-d-plans-2026/ /medicare-part-d-donut-hole-2026/ 301
+
+# 2026-07-17 slug-change 301s (GSC 404 cleanup)
+/best-medicare-advantage-plans-2026/ /best-medicare-advantage-plans/ 301
+/best-medicare-advantage-plans-with-dental-and-vision-2026/ /best-medicare-advantage-plans-with-dental-and-vision/ 301
+/best-medicare-plans-in-california-2026/ /best-medicare-plans-in-california/ 301
+/best-medigap-plans-2026/ /best-medigap-plans/ 301
+/how-much-does-medicare-part-b-cost-in-2026/ /how-much-does-medicare-part-b-cost-in/ 301
+/irmaa-medicare-surcharge-2026/ /irmaa-medicare-surcharge/ 301
+/medicare-annual-enrollment-period-dates-2026/ /medicare-annual-enrollment-period-dates/ 301
+/medicare-irmaa-income-thresholds-2026/ /medicare-irmaa-income-thresholds/ 301
+/medicare-part-b-premium-2026/ /medicare-part-b-premium/ 301
+/medicare-part-d-premium-2026/ /medicare-part-d-premium/ 301
+/medicare-prescription-drug-costs-2026/ /medicare-prescription-drug-costs/ 301
+/medicare-supplement-vs-medicare-advantage-cost/ /medicare-advantage-vs-medicare-supplement-total-cost/ 301
+/medigap-plan-g-deductible-2026/ /medigap-plan-g-deductible/ 301
