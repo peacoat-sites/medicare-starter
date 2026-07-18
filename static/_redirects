@@ -16,3 +16,6 @@
 /medicare-prescription-drug-costs-2026/ /medicare-prescription-drug-costs/ 301
 /medicare-supplement-vs-medicare-advantage-cost/ /medicare-advantage-vs-medicare-supplement-total-cost/ 301
 /medigap-plan-g-deductible-2026/ /medigap-plan-g-deductible/ 301
+
+# 2026-07-18 structural cleanup 301s
+/author/ /about/ 301
