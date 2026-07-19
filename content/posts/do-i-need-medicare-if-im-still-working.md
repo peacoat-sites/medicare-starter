@@ -4,7 +4,7 @@ date: 2026-07-08T16:10:15.520240+00:00
 draft: false
 description: "Find out if you can skip Medicare while still working, how employer coverage interacts with it, and when enrolling could save you money."
 image: "/img/heroes/3931597.jpg"
-categories: ["Enrollment Scenarios"]
+categories: ["Enrollment Periods"]
 tags: ["need", "medicare", "still", "working"]
 author: "Robert Williams"
 author_slug: "robert-williams"

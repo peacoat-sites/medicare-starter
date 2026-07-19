@@ -28,3 +28,7 @@
 /missing-medicare-enrollment-window/ /what-happens-if-i-miss-my-medicare-enrollment-window/ 301
 /missing-medicare-open-enrollment/ /what-happens-if-i-miss-my-medicare-enrollment-window/ 301
 /when-is-medicare-annual-open-enrollment-period-2026/ /medicare-annual-enrollment-period-dates/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/enrollment-scenarios/ /categories/enrollment-periods/ 301
+/categories/medigap/ /categories/medigap-plans/ 301

@@ -4,7 +4,7 @@ date: 2026-07-09T16:37:42.174979+00:00
 draft: false
 description: "Missing your Medicare enrollment window can trigger penalties and coverage gaps. Learn exactly what happens next and how to get covered as soon as possible."
 image: "/img/heroes/7734569.jpg"
-categories: ["Enrollment Scenarios"]
+categories: ["Enrollment Periods"]
 tags: ["what", "happens", "miss", "medicare", "enrollment"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
