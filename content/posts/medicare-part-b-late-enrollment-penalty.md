@@ -136,3 +136,10 @@ That said, if you're not covered by a qualifying employer plan and you're past y
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
+## Sources and References
+
+The enrollment rules and deadlines here follow official Medicare guidance:
+
+- [KFF (Kaiser Family Foundation): Medicare](https://www.kff.org/medicare/)
+- [Centers for Medicare and Medicaid Services (CMS)](https://www.cms.gov/)
+- [Medicare.gov (official U.S. government site)](https://www.medicare.gov/)

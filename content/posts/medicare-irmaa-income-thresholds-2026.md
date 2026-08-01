@@ -125,3 +125,10 @@ If you're anywhere near an IRMAA threshold, pull your 2024 tax return and do the
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
+## Sources and References
+
+The cost and premium figures here draw on official and independent references:
+
+- [Medicare Payment Advisory Commission (MedPAC)](https://www.medpac.gov/)
+- [The Commonwealth Fund](https://www.commonwealthfund.org/)
+- [Medicare.gov (official U.S. government site)](https://www.medicare.gov/)

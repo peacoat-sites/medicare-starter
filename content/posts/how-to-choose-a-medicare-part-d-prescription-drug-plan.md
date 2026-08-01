@@ -134,3 +134,10 @@ The single most important thing you can do is run your own drugs through Medicar
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
 
+## Sources and References
+
+The prescription-drug details here draw on official and independent references:
+
+- [National Council on Aging (NCOA)](https://www.ncoa.org/)
+- [Medicare.gov (official U.S. government site)](https://www.medicare.gov/)
+- [KFF (Kaiser Family Foundation): Medicare](https://www.kff.org/medicare/)

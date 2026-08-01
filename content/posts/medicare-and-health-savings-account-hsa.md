@@ -130,3 +130,10 @@ The interaction between Medicare and HSAs is one of those areas where the IRS ru
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
+## Sources and References
+
+The cost-assistance details here draw on official and nonprofit references:
+
+- [Medicare Interactive (Medicare Rights Center)](https://www.medicareinteractive.org/)
+- [Medicare.gov (official U.S. government site)](https://www.medicare.gov/)
+- [KFF (Kaiser Family Foundation): Medicare](https://www.kff.org/medicare/)
