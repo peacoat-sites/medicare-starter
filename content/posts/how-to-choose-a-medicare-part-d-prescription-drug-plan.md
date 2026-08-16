@@ -114,7 +114,6 @@ The single most important thing you can do is run your own drugs through Medicar
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [MART PRODUCTION](https://www.pexels.com/@mart-production)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 
 

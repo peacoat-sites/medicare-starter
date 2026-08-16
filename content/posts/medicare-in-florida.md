@@ -122,7 +122,6 @@ It isn't. Review your coverage every year. Use the free counseling. And don't le
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
 - [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
-- [Kampus Production](https://www.pexels.com/@kampus)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 
 

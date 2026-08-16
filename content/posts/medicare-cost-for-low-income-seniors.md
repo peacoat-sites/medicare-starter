@@ -127,7 +127,6 @@ The programs work. The savings are real. The barriers to applying are smaller th
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-- [Vodafone x Rankin everyone.connected](https://www.pexels.com/@vodafone-x-rankin-everyone-connected-374579797)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 
 

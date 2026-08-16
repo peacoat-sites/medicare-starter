@@ -112,7 +112,6 @@ The single best thing you can do before the October enrollment window opens is p
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
-- [Gustavo Fring](https://www.pexels.com/@gustavo-fring)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 
 

@@ -131,7 +131,6 @@ The coordination of benefits rules exist because Congress didn't want Medicare p
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [DΛVΞ GΛRCIΛ](https://www.pexels.com/@davegarcia)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 
 

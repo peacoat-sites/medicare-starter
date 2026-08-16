@@ -104,7 +104,6 @@ Getting this right is genuinely worth the time it takes. The rules aren't simple
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-- [RDNE Stock project](https://www.pexels.com/@rdne)
 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
