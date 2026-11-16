@@ -31,9 +31,7 @@ That's the short version of a truth that catches seniors off guard every single 
 
 I've seen families budget carefully for retirement and completely miss this gap. It's one of the most common and expensive surprises in Medicare, and it's fixable, but only if you plan for it before you need it.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Original Medicare (Parts A &amp; B) does not cover routine eye exams, eyeglasses, or contacts.</li><li style="margin:5px 0">Medicare does cover eye care tied to medical conditions: glaucoma screenings, diabetic eye exams, and cataract surgery.</li><li style="margin:5px 0">Medicare Advantage plans (Part C) frequently include vision benefits, but benefit levels and network restrictions vary widely.</li><li style="margin:5px 0">Standalone vision insurance for seniors typically runs $15–$50/month, with annual exam allowances of $100–$200.</li><li style="margin:5px 0">As of July 2026, there is no federal law requiring Medicare to add routine vision coverage, despite repeated legislative proposals.</li></ul></div>
-
 
 ## What Original Medicare Actually Covers (And What It Doesn't)
 
@@ -55,8 +53,6 @@ I thought for years that an optometrist visit was somehow different from an opht
 ## The Real Costs You're Looking At
 
 > **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where I want to give you actual numbers, because "it depends" doesn't help you plan.
 
@@ -109,10 +105,6 @@ This is genuinely one of those areas where talking to a real human saves money. 
 
 **Scenario → Action → Result:** Margaret, 73, from suburban Chicago, was spending about $520 a year on glasses and eye exams with no coverage. A SHIP counselor helped her find a $0-premium Advantage plan in her county with a $250 vision allowance and VSP network access. Her eye doctor was in-network. Her annual out-of-pocket vision cost dropped to roughly $80. Two years in, she's still happy with the switch.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Annual Vision Costs by Coverage Type</div><div class="sc-row"><span class="sc-label">No coverage (self-pay)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$520</span></div><div class="sc-row"><span class="sc-label">Standalone vision plan</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$310</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage with vision</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$130</span></div><div class="sc-row"><span class="sc-label">Medigap + standalone vision</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$290</span></div><div class="sc-src">Source: Industry estimates, Medicare.gov plan data, 2026</div></div>
-
-
 *Note: These are estimated annual costs for a typical senior needing one exam and one pair of single-vision glasses. Actual costs vary by plan, location, and prescription needs.*
 
 ## Sources
@@ -124,7 +116,6 @@ This is genuinely one of those areas where talking to a real human saves money. 
 - National Eye Institute: Prevalence and cost data for age-related eye conditions in adults 65+
 
 ---
-
 
 *Photo: [Mike Sangma](https://www.pexels.com/@mike-sangma-1611592) via Pexels*
 

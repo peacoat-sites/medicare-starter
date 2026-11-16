@@ -29,9 +29,7 @@ Most people come to me already confused, usually after a friend told them High D
 
 Let me back up. Medicare Supplement plans, also called Medigap plans, fill the gaps that [Original Medicare](/switching-from-medicare-advantage-to-original-medicare/) (Parts A and B) leaves behind: copays, coinsurance, the Part A deductible, and so on. Standard Plan G covers nearly all of those gaps dollar-for-dollar once you're enrolled. High Deductible Plan G covers the exact same things, with one critical difference: you pay out-of-pocket until you hit a deductible threshold, after which the plan kicks in and covers everything that standard Plan G would. As of 2026, that deductible is $2,870. After that point, your coverage is identical to regular Plan G.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">HDG's 2026 deductible is $2,870; after that, coverage mirrors standard Plan G completely.</li><li style="margin:5px 0">Monthly premiums for HDG often run $40–$80 for a healthy 65-year-old, vs. $120–$200+ for standard Plan G.</li><li style="margin:5px 0">HDG works best for people who are generally healthy and want catastrophic protection without high monthly costs.</li><li style="margin:5px 0">You can't switch to HDG penalty-free after your initial enrollment window without passing medical underwriting in most states.</li><li style="margin:5px 0">HDG does NOT cover the Part B deductible ($257 in 2026); neither does standard Plan G.</li></ul></div>
-
 
 ## What You're Actually Paying (and What You're Not)
 
@@ -53,8 +51,6 @@ Premiums above are broad national ranges based on insurer filings reviewed as of
 ## Who This Plan Is Actually For
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'll be direct here: HDG is not for everyone, and I've seen people pushed into it when they shouldn't have been.
 
@@ -86,10 +82,6 @@ One detail that surprises people: foreign travel emergency coverage is not inclu
 
 The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes updated benefit charts annually, and I'd recommend bookmarking that resource if you want to verify any figures as they change year to year.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated 3-Year Total Cost: HDG vs. Standard Plan G</div><div class="sc-row"><span class="sc-label">HDG (healthy year)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$624</span></div><div class="sc-row"><span class="sc-label">HDG (one bad year, full deductible hit)</span><span class="sc-track"><span class="sc-bar" style="width:65%"></span></span><span class="sc-val">$3,494</span></div><div class="sc-row"><span class="sc-label">Standard Plan G (3-yr avg)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,400</span></div><div class="sc-src">Source: Estimated from 2026 average premiums and typical utilization, Dorothy Chen</div></div>
-
-
 ## Comparing Carriers: Don't Assume They're All the Same
 
 Benefits for standardized Medigap plans are set by federal law, so the actual coverage of HDG is identical no matter which insurer you buy from. But premiums vary dramatically between carriers for the same person in the same zip code, and the company's financial stability and claims-paying history actually matters.
@@ -107,7 +99,6 @@ One thing I check for personally when evaluating a carrier: how often they've ra
 - Kaiser Family Foundation (KFF): Research on Medigap enrollment trends and cost-sharing analysis
 
 ---
-
 
 *Photo: [Nicola Barts](https://www.pexels.com/@nicola-barts) via Pexels*
 

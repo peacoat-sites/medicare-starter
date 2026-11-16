@@ -31,9 +31,7 @@ Here's what makes this so frustrating: the rules aren't secret. They're just sca
 
 If you're enrolled in both Medicare and Medicaid (or think you might qualify for both), you're considered "dually eligible." Currently, roughly 12.5 million Americans fall into this category. The coordination between these two programs determines who pays first, who pays second, and in many cases, who pays nothing at all. Getting that coordination right can save you thousands of dollars a year.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">About 12.5 million Americans are dually eligible for both Medicare and Medicaid as of 2026.</li><li style="margin:5px 0">Medicare always pays first; Medicaid picks up remaining costs as the "payer of last resort."</li><li style="margin:5px 0">D-SNPs (Dual Eligible Special Needs Plans) are available in most states and often add dental, vision, and hearing benefits.</li><li style="margin:5px 0">State Medicaid income and asset limits vary widely, some states are far more generous than others.</li><li style="margin:5px 0">A free SHIP (State Health Insurance Assistance Program) counselor can help you claim benefits you're missing.</li></ul></div>
-
 
 ## How the Two Programs Are Supposed to Work Together
 
@@ -46,8 +44,6 @@ Where states have enormous power is in the Medicaid side of this equation. Feder
 ## The Alphabet Soup That Actually Matters
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'll be honest: the acronyms in this space are genuinely terrible. But a few of them will directly affect your wallet, so bear with me.
 
@@ -71,10 +67,6 @@ The QMB level is the one that shocks people when they discover it. If you qualif
 This is the section most national Medicare articles skip, and it's the most important one.
 
 Every state administers its own Medicaid program with federal approval, using a document called a State Plan. Some states have expanded their Medicaid programs far beyond federal minimums. Others operate near the floor. Here's a simplified comparison of how a few states approach dual-eligible coverage:
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">State Medicaid dental benefit generosity for dual-eligibles (estimated annual benefit valu</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">$1,500</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$400</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">$600</span></div><div class="sc-row"><span class="sc-label">Wyoming</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$900</span></div><div class="sc-src">Source: KFF Medicaid Benefits Survey 2026 estimates</div></div>
-
 
 California and New York have historically provided the most generous wrap-around benefits for dually eligible seniors. Texas and Florida, despite their large senior populations, have significantly leaner Medicaid coverage for most non-institutional services. Wyoming has very limited supplemental dental and vision coverage through Medicaid.
 
@@ -115,7 +107,6 @@ Scenario: Robert, 68, from rural Georgia, retired postal worker, thought he earn
 - [SHIP National Technical Assistance Center](https://www.shiphelp.org/): Directory of free state-based Medicare counseling programs.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

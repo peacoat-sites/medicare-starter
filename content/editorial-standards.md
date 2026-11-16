@@ -3,10 +3,10 @@ title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "How Medicare Starter researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Medicare Starter researches, writes, fact-checks, and maintains every article, our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
-# Editorial Policy — Medicare Starter
+# Editorial Policy, Medicare Starter
 
 Medicare Starter exists to help people over 65, their adult children, and caregivers understand Medicare enrollment, compare plans fairly, and navigate the benefits system without confusion or fear. We work in a "Your Money or Your Life" niche where mistakes are costly—a wrong plan choice can mean thousands of dollars in out-of-pocket costs, or worse, missed enrollment windows that trigger permanent penalties. Because the stakes are high and the rules genuinely are complex, we hold ourselves to editorial standards that prioritize accuracy, source transparency, and independence above all else. Our readers are often making these decisions under time pressure and with limited health literacy. That means everything we publish needs to be trustworthy.
 

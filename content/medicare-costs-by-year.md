@@ -20,7 +20,7 @@ Every fall, the Centers for Medicare & Medicaid Services (CMS) announces the nex
 
 **Part A is free for most people.** About 99% of beneficiaries paid Medicare taxes for at least 40 quarters (10 years) of work and pay **$0** for Part A. You only owe a Part A premium ($311 or $565/month in 2026) if you worked fewer than 40 quarters.
 
-**The Part A hospital deductible ($1,736) is per benefit period — not per year.** A benefit period starts the day you're admitted and ends after you've been out of the hospital (or skilled nursing) for 60 days in a row. If you're hospitalized twice in one year with more than 60 days between stays, you could owe the deductible twice.
+**The Part A hospital deductible ($1,736) is per benefit period, not per year.** A benefit period starts the day you're admitted and ends after you've been out of the hospital (or skilled nursing) for 60 days in a row. If you're hospitalized twice in one year with more than 60 days between stays, you could owe the deductible twice.
 
 **Higher earners pay a surcharge (IRMAA).** If your modified adjusted gross income is above the annual threshold, you'll pay more than the standard Part B and Part D premiums. The surcharge is based on your tax return from two years earlier.
 
@@ -61,6 +61,6 @@ The Part A hospital deductible follows the same climb:
 
 ## Where to get free, unbiased help
 
-Costs are only one piece of the Medicare puzzle, and the right choice depends on your health, budget, and the plans available where you live. For **free, one-on-one counseling**, contact your State Health Insurance Assistance Program (SHIP) — every state has one — or call **1-800-MEDICARE (1-800-633-4227)**.
+Costs are only one piece of the Medicare puzzle, and the right choice depends on your health, budget, and the plans available where you live. For **free, one-on-one counseling**, contact your State Health Insurance Assistance Program (SHIP), every state has one, or call **1-800-MEDICARE (1-800-633-4227)**.
 
 *The figures above are the official standard amounts published by CMS for 2025 and 2026 and are updated each fall when the new year's rates are announced. This page is for general information only and is not insurance, financial, or legal advice. Your actual costs may differ based on your income, plan choices, and coverage.*

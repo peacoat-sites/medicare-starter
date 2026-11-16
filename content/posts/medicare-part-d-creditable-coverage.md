@@ -45,8 +45,6 @@ Here's the one I see catch people: COBRA. Continuing your employer coverage via 
 
 > **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You get a 63-day grace period after losing creditable coverage before the late enrollment penalty kicks in. Not 64 days. Not "about two months." Sixty-three.
 
 Miss that window, and the penalty is 1% of the national base beneficiary premium (currently $36.78 as of 2026, per CMS) multiplied by the number of uncovered months. It compounds. Someone who goes 24 months without creditable coverage owes a permanent surcharge of roughly 24% added to their Part D premium, every month, for life.
@@ -81,10 +79,6 @@ The math on penalties over a typical retirement is grim:
 
 *Base beneficiary premium: $36.78/month (CMS, 2026). Annual penalty = (penalty %) x ($36.78) x 12. Twenty-year estimate assumes base premium stays flat, which it won't; real costs will be higher.*
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Lifetime penalty cost by gap length (20-year retirement)</div><div class="sc-row"><span class="sc-label">12-month gap</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">$1,040</span></div><div class="sc-row"><span class="sc-label">24-month gap</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">$2,120</span></div><div class="sc-row"><span class="sc-label">36-month gap</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">$3,180</span></div><div class="sc-row"><span class="sc-label">60-month gap</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$5,280</span></div><div class="sc-row"><span class="sc-label">120-month gap</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$10,580</span></div><div class="sc-src">Source: CMS 2026 base beneficiary premium, author calculation</div></div>
-
-
 These are permanent costs attached to every plan you'll ever have, even if you switch Part D plans annually. The penalty follows you.
 
 ## Employer Coverage, Retiree Plans, and the Tricky Middle Ground
@@ -112,7 +106,6 @@ Worked examples:
 - CMS Medicare Part D Enrollment Data (2025 annual report): Approximately 2.5 million enrollees currently subject to the late enrollment penalty
 
 ---
-
 
 ---
 

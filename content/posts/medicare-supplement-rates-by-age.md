@@ -31,9 +31,7 @@ I've been helping seniors sort out [Medicare supplement](/medicare-supplement-pl
 
 Let me walk you through what's actually going on with Medigap rates by age, because most of the advice floating around online leaves out the parts that matter most.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Three distinct pricing methods determine how your Medigap premium changes as you age, your choice at enrollment locks you in to one forever.</li><li style="margin:5px 0">Attained-age plans often start cheapest but can cost $100+ more per month by your mid-70s compared to issue-age or community-rated plans.</li><li style="margin:5px 0">Your Open Enrollment window (6 months starting when you turn 65 and enroll in Part B) is the single best time to lock in a rate, medical underwriting can't touch you then.</li><li style="margin:5px 0">A Plan G premium for a 65-year-old currently averages roughly $110-$180/month depending on state; by age 80, attained-age pricing for the same plan can push past $300/month.</li><li style="margin:5px 0">Switching plans after enrollment is medically underwritten in most states, meaning insurers can reject you or charge more based on health history.</li></ul></div>
-
 
 ## The Three Pricing Methods (And Why This Choice Is Permanent)
 
@@ -51,8 +49,6 @@ The catch is that most plans sold today are attained-age-rated because they offe
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of August 2026, a 65-year-old male nonsmoker in Ohio can find Plan G premiums ranging from about $98 to $165 [per month](/average-medicare-costs-per-month/) depending on the insurer and rating method. That same man at 75, with an attained-age policy, might be paying $190 to $260 per month for identical coverage. By 80, it's not unusual to see $290 or higher with certain carriers.
 
 Here's a side-by-side comparison I put together using current rate data from multiple carriers. The numbers below are illustrative of realistic ranges based on available market data, not quotes from a single insurer, because rates vary by zip code, tobacco use, and carrier:
@@ -66,10 +62,6 @@ Here's a side-by-side comparison I put together using current rate data from mul
 | 85  | ~$198/mo                 | ~$185/mo                 | ~$340/mo                    |
 
 Read across that table from left to right at age 85 and let it sink in. The attained-age plan that looked $50 cheaper at 65 is now costing roughly $155 more per month than community-rated. That's $1,860 per year extra, every year, at precisely the age when you can least easily switch to something cheaper.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated Monthly Plan G Premium by Age and Rating Method</div><div class="sc-row"><span class="sc-label">Community-Rated (age 75)</span><span class="sc-track"><span class="sc-bar" style="width:51%"></span></span><span class="sc-val">175 $/mo</span></div><div class="sc-row"><span class="sc-label">Issue-Age-Rated (age 75)</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">148 $/mo</span></div><div class="sc-row"><span class="sc-label">Attained-Age-Rated (age 75)</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">195 $/mo</span></div><div class="sc-row"><span class="sc-label">Community-Rated (age 85)</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">198 $/mo</span></div><div class="sc-row"><span class="sc-label">Attained-Age-Rated (age 85)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">340 $/mo</span></div><div class="sc-src">Source: Aggregated carrier rate data, August 2026</div></div>
-
 
 ## The Open Enrollment Window Is Not a Suggestion
 
@@ -114,7 +106,6 @@ Second worked example: *A 65-year-old man enrolls in attained-age Plan N at $92/
 - [National Association of Insurance Commissioners (NAIC)](https://content.naic.org/): NAIC Medigap Shopper's Guide, which details rating method rules by state and consumer rights at enrollment.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

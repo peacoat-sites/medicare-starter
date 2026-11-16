@@ -43,8 +43,6 @@ So: Part A, no. Part B, no, except for that narrow diagnostic exam.
 
 > **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Medicare Advantage (Part C) is a different story, and this is where I spend most of my time when a client asks about hearing aids. These are private insurance plans that contract with Medicare to deliver your benefits, and they're allowed to offer additional coverage beyond what original Medicare provides. Hearing aid coverage is one of the most common extras they advertise.
 
 Here's what I've learned to tell people: the marketing is generous; the actual coverage requires careful reading.
@@ -63,10 +61,6 @@ The actual comparison across plan types matters enormously, so here's a plain-la
 | Medicare Part D | No | $0 | Prescription drugs only |
 | Medigap / Medicare Supplement | No | $0 | Fills gaps in Parts A & B only |
 | VA Benefits (veterans only) | Yes, often full coverage | Varies | Separate system, not Medicare |
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical hearing aid benefit by Medicare plan type (2026)</div><div class="sc-row"><span class="sc-label">Part A</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Part B</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage (avg)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,200</span></div><div class="sc-row"><span class="sc-label">Part D</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Medigap</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-src">Source: Medicare.gov plan data and industry surveys, 2026</div></div>
-
 
 ## OTC Hearing Aids Changed the Math
 
@@ -101,7 +95,6 @@ One thing I wish more people knew: Costco's hearing center offers prescription h
 - [SHIP (State Health Insurance Assistance Program)](https://www.shiphelp.org): Free, unbiased Medicare counseling network available in every state.
 
 ---
-
 
 ---
 

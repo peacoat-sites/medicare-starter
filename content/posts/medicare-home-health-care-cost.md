@@ -47,13 +47,7 @@ Also not covered: homemaker services, grocery shopping, meal delivery, 24-hour c
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Current as of July 2026, here's what you're actually looking at when Medicare's coverage runs out or doesn't apply.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Median annual home care cost by service type (2026)</div><div class="sc-row"><span class="sc-label">Homemaker Services</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$61,400</span></div><div class="sc-row"><span class="sc-label">Home Health Aide</span><span class="sc-track"><span class="sc-bar" style="width:63%"></span></span><span class="sc-val">$68,600</span></div><div class="sc-row"><span class="sc-label">Adult Day Care</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$22,880</span></div><div class="sc-row"><span class="sc-label">Assisted Living</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$64,200</span></div><div class="sc-row"><span class="sc-label">Nursing Home (private)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$108,405</span></div><div class="sc-src">Source: Genworth Cost of Care Survey (2026 estimates)</div></div>
-
 
 Those numbers hurt. Home health aide care runs roughly $28 to $35 per hour through a licensed agency in most markets, though rates in cities like San Francisco or New York can push past $45. Hiring privately (without an agency) costs less but shifts all the tax, liability, and oversight burden onto the family.
 
@@ -112,7 +106,6 @@ I don't have reliable national data on average waiver wait times broken down by 
 - Centers for Medicare & Medicaid Services, Medicare Benefit Policy Manual, Chapter 7: Home Health Services. The actual regulatory language governing eligibility.
 
 ---
-
 
 ---
 

@@ -31,9 +31,7 @@ But "yes" comes with details, and those details matter when you're looking at an
 
 The short version: [Medicare Part](/medicare-part-c-explained/) B (your outpatient medical insurance) covers cataract surgery when it's medically necessary, including one pair of eyeglasses or one set of contact lenses after your first surgery. The longer version involves your deductible, coinsurance, the type of lens implanted, and whether your surgeon participates in Medicare. All of that changes what you'll actually pay.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare Part B covers medically necessary cataract surgery, typically after you meet your annual deductible.</li><li style="margin:5px 0">You pay 20% of the Medicare-approved amount after the deductible; costs vary by surgeon and facility.</li><li style="margin:5px 0">Standard monofocal lens implants are covered; premium lenses (toric, multifocal) cost extra out of pocket.</li><li style="margin:5px 0">Medicare covers one pair of eyeglasses or contacts after your first cataract surgery.</li><li style="margin:5px 0">Medigap or Medicare Advantage plans can significantly reduce or eliminate your 20% coinsurance share.</li></ul></div>
-
 
 ## What Medicare Actually Covers (and What It Doesn't)
 
@@ -46,8 +44,6 @@ The one pair of eyeglasses or contacts benefit after surgery is real, but it onl
 ## What You'll Actually Pay: The Numbers Broken Down
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of August 2026, Medicare Part B has an annual deductible (check Medicare.gov for the current year's figure, since it adjusts annually). Once you've met that, Part B pays 80% of the Medicare-approved amount and you pay the remaining 20%. There's no cap on that 20% under Original Medicare alone, which is why a Medigap policy (also called Medicare Supplement insurance) can make a real difference.
 
@@ -62,10 +58,6 @@ Here's a realistic cost comparison depending on your coverage situation:
 | Medicare Advantage + premium lens | Same copay for base surgery | Usually still out of pocket | Confirm with your plan before surgery |
 
 I want to be honest: the specific dollar amounts for the Medicare-approved rate on cataract surgery are not publicly listed in one easy place. The Centers for Medicare & Medicaid Services (CMS) sets physician fee schedule amounts by CPT code and by geographic region, and they change annually. Your surgeon's billing office can tell you the exact expected Medicare-approved rate for your zip code. Ask them to run a cost estimate before your surgery date. They do this regularly and it's a normal request.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated out-of-pocket cost per eye by coverage type</div><div class="sc-row"><span class="sc-label">Part B only (no Medigap)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$320</span></div><div class="sc-row"><span class="sc-label">Part B + Medigap Plan G</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$30</span></div><div class="sc-row"><span class="sc-label">Part B + Medigap Plan N</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">$75</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage avg copay</span><span class="sc-track"><span class="sc-bar" style="width:86%"></span></span><span class="sc-val">$275</span></div><div class="sc-src">Source: CMS physician fee schedule estimates, 2026</div></div>
-
 
 These figures reflect typical ranges for the base surgery with a standard lens. Your actual numbers will differ based on your region, whether you use a hospital outpatient department (which generally costs more than an ASC under Medicare's fee schedules), and whether you've already met your annual deductible.
 
@@ -103,7 +95,6 @@ That fourth one sounds obvious but in my experience it's the step people skip mo
 - Kaiser Family Foundation: Medicare beneficiary cost-sharing and Medigap coverage analysis
 
 ---
-
 
 *Photo: [Mehmet Turgut  Kirkgoz](https://www.pexels.com/@tkirkgoz) via Pexels*
 
