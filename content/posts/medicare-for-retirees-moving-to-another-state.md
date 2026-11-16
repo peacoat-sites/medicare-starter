@@ -31,13 +31,11 @@ That's partly true. And partly the thing that trips people up.
 
 Original Medicare, meaning Part A (hospital coverage) and Part B (outpatient and doctor visits), does follow you anywhere in the country. The same goes for a standalone Part D prescription drug plan, with some important caveats. But if you're in a [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/), which is sold by private insurers and currently covers more than half of all Medicare beneficiaries, moving to a new state is a genuine coverage event. You may lose your plan entirely.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Original Medicare (Parts A and B) works in all 50 states; Medicare Advantage plans often do not.</li><li style="margin:5px 0">Moving triggers a Special Enrollment Period (SEP) of up to 60 days to pick a new plan.</li><li style="margin:5px 0">Medigap (Medicare Supplement) coverage has guaranteed-issue rights in some states but not all, timing matters.</li><li style="margin:5px 0">Your Part D drug formulary changes by plan and by state; your current prescriptions may not be covered the same way.</li><li style="margin:5px 0">Notify Medicare of your new address before you move, not after, to avoid gaps.</li></ul></div>
-
 
 ## The Part That Catches Everyone Off Guard: Medicare Advantage
 
-Here's what I've seen trip up even well-prepared retirees. They've done their homework, they know their new city, they've got a moving company booked. But they haven't checked whether their [Medicare Advantage](/medicare-advantage-pros-and-cons/) plan (sometimes called Part C or an MA plan) has a service area that extends to their new state. Almost none of them do.
+A common issue for well-prepared retirees is overlooking whether their [Medicare Advantage](/medicare-advantage-pros-and-cons/) plan (sometimes called Part C or an MA plan) has a service area that extends to their new state. Almost none of them do.
 
 Medicare Advantage plans are geographically defined. An insurer selling a plan in Phoenix has contracted with specific hospitals and doctors in the Phoenix metro area. When you move to Raleigh, you're outside that network entirely. Some plans have emergency coverage provisions for out-of-area situations, but a permanent address change is a different matter. Most plans will disenroll you, and if you don't act quickly, you could end up with no coverage at all.
 
@@ -48,8 +46,6 @@ One detail most people don't catch until it's too late: the SEP clock starts whe
 ## Medigap: The Rules Are More Complicated Than Anyone Tells You
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you have Original Medicare plus a Medigap (Medicare Supplement Insurance) policy, you're in a better position than an MA enrollee when you move. Your Medigap plan generally works with any doctor or hospital that accepts Medicare, nationwide. There's no network to worry about. This is one reason I genuinely believe Medigap is underrated for anyone who travels frequently or expects to relocate in retirement.
 
@@ -107,7 +103,6 @@ Finally, keep your old plan active until your new coverage is confirmed in writi
 - [AARP Medicare Resource Center](https://www.aarp.org/health/medicare-insurance/): Plain-language guides on plan types, transitions, and consumer rights under Medicare.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

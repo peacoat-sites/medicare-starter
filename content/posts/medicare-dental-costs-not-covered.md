@@ -31,7 +31,6 @@ Here's what Original Medicare actually covers when it comes to teeth: almost not
 
 I'll be direct. Even after years working in this space, I find the dental gap genuinely infuriating. A 67-year-old on a fixed income shouldn't have to choose between a root canal and groceries. But understanding exactly what the gap is, and what your actual options look like, changes the whole picture.
 
-
 <div class="value-module">
  <div class="vm-head">Dental Cost Ranges Without Medicare Coverage</div>
  <div class="vm-body">
@@ -51,7 +50,7 @@ What's explicitly excluded: routine checkups, cleanings (prophylaxis), fillings,
 
 A single dental implant in the U.S. typically costs between $3,000 and $6,000 depending on location and provider. A full set of dentures runs $1,500 to $5,000 or more. Root canal plus crown: easily $2,000 to $3,500. These aren't outlier numbers. This is dentistry right now.
 
-What struck me when I started researching this was how unchanging the policy actually is. Medicare was built in 1965 around hospital and physician care. Dental was considered "routine" and excluded. That decision from 60 years ago still determines what seniors pay today.
+Medicare's dental coverage structure has remained largely unchanged since its creation. Medicare was built in 1965 around hospital and physician care. Dental was considered "routine" and excluded. That decision from 60 years ago still determines what seniors pay today.
 
 ## Medicare Advantage: The Real Story
 
@@ -63,7 +62,7 @@ This is where it gets interesting, and also more complicated.
 
 But slow down. The dental coverage in most Advantage plans is thin for anything beyond basics. Most will cover two cleanings per year, periodic exams, and X-rays. Some include basic work like fillings. Fewer plans offer comprehensive coverage, sometimes up to $1,000, $1,500, or occasionally $2,000 in annual benefits. A handful of higher-premium plans go beyond that.
 
-Here's the catch: $1,500 annually sounds good until you need major work. One crown and it's gone. Crown plus two fillings? You're paying out of pocket.
+The $1,500 annual limit can seem adequate until major work is needed. One crown and it's gone. Crown plus two fillings? You're paying out of pocket.
 
 Before switching to an Advantage plan just for dental, be specific. Ask exactly: What's the annual maximum? Are there waiting periods for major services? Does "comprehensive dental" include implants or just fillings and extractions? Does the plan require in-network dentists only? In rural areas, "in-network" might mean driving an hour to find someone.
 

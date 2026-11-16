@@ -39,19 +39,17 @@ Part B of Medicare covers medically necessary eye care. That's a specific phrase
 
 If you have diabetes and need a dilated eye exam to check for diabetic retinopathy, Medicare covers that once a year. If you have glaucoma and fall into a high-risk category (African Americans over 50, anyone with a family history of glaucoma, diabetics, or people with elevated eye pressure), you're eligible for an annual glaucoma screening covered under Part B. If your doctor diagnoses you with macular degeneration, cataracts, or another disease process, the diagnostic exams and treatment tied to that condition are covered.
 
-Cataract surgery is actually one of the clearer wins here. Part B covers the surgery itself, and it also covers one pair of standard eyeglasses *or* contact lenses after each cataract operation. That's the only time Original Medicare pays for corrective lenses, and it's a detail a lot of people miss. I've seen seniors throw away that benefit simply because nobody told them.
+Cataract surgery is one of the stronger wins for vision coverage. Part B covers the surgery itself, and it also covers one pair of standard eyeglasses *or* contact lenses after each cataract operation. This is the only time Original Medicare pays for corrective lenses, and many people miss this benefit.
 
 What Part B won't touch: a routine refraction (the "which is clearer, one or two?" exam to update your glasses prescription), standard frames, contact lenses outside of the post-cataract context, or LASIK.
 
-A quick worked example of how this plays out in real life: Margaret, a 71-year-old in Ohio with Type 2 diabetes, went for her annual eye exam. Her optometrist billed Medicare Part B for the diabetic retinopathy screening. Medicare paid 80% of the Medicare-approved amount after she met her Part B deductible ($257 in 2026). Her Medigap (Medicare Supplement) plan covered the remaining 20%. Her out-of-pocket cost: zero. But the routine refraction at the same visit? She paid $45 out of pocket because Original Medicare doesn't cover it.
+For example, with Original Medicare and a Medigap plan, a diabetic retinopathy screening would be covered at 80% after the Part B deductible ($257 in 2026), with Medigap covering the remaining 20%. However, a routine refraction at the same visit would not be covered and would cost money out of pocket.
 
 ---
 
 ## Medicare Advantage: Where Vision Coverage Actually Lives
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where things get genuinely interesting, and I think it's where most seniors should focus their attention.
 
@@ -78,7 +76,7 @@ What surprised me when I dug into the enrollment data: a lot of seniors with Med
 
 If you're on Original Medicare with a Medigap supplement and you want vision coverage, you're not stuck. You can purchase a standalone vision insurance plan. These aren't Medicare plans per se, they're private insurance you buy separately, and they're often more affordable than people expect. Plans from providers like EyeMed or VSP typically run $15 to $30 per month for basic coverage.
 
-I'll be honest: the math doesn't always work out in your favor. If you wear the same glasses prescription for two or three years, you might pay more in premiums than you'd spend just paying out of pocket for an exam ($75 to $150 at most independent optometrists) and buying frames at a retailer like Costco Optical or Zenni. I've seen perfectly healthy seniors lock into a $25/month vision plan and use it exactly once in two years.
+The math doesn't always work out in your favor. If you wear the same glasses prescription for two or three years, you might pay more in premiums than you'd spend paying out of pocket for an exam ($75 to $150 at most independent optometrists) and buying frames at a retailer like Costco Optical or Zenni.
 
 The calculation tips in favor of a standalone plan if you have complex vision needs, wear progressive lenses (which can run $400+ out of pocket), or simply value the predictability of knowing what you'll pay.
 
@@ -119,7 +117,6 @@ That said, Medicare Advantage isn't the right move for everyone. You give up the
 - [AARP Medicare Resource Center](https://www.aarp.org/health/medicare-insurance/): Plain-language coverage comparisons and plan decision tools.
 
 ---
-
 
 ---
 

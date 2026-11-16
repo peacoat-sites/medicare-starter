@@ -41,8 +41,6 @@ Here's the practical part: you can't just call your doctor on Monday and expect 
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 That $50 copay is genuinely remarkable compared to what these drugs normally cost without insurance. Wegovy and Zepbound typically run $900 to $1,300 per month. So Medicare is covering the real costs behind the scenes, and you're paying a flat fee. But I want to be clear about something important: that $50 doesn't count toward your Part D deductible, and it doesn't count toward your out-of-pocket spending cap either. That's actually good for you in this case, because it means you're not chipping away at protections that help you with other medications.
 
 The bigger catch is this: if you receive Extra Help (formally called the Low-Income Subsidy), you don't qualify for this program at all. That's a significant gap, because Extra Help serves the very seniors who would benefit most from affordable medication. If your income is low enough to qualify for assistance, you're frozen out of this breakthrough coverage. It's a policy gap that advocacy groups have already started flagging, and it's something Congress or CMS might address, but right now that's the rule.
@@ -59,7 +57,7 @@ There's one more thing worth knowing: you can find official information at [Medi
 
 ## What This Means for Your Health Decisions
 
-These medications work. Studies have shown they help people lose weight and maintain that loss, and they also seem to reduce the risk of heart attack and stroke for people with cardiovascular disease. That's not trivial. But they're also not a substitute for the other things that matter: moving your body, thinking about what you eat, managing stress. These drugs are a tool, sometimes a really helpful one, but they're not magic.
+These medications work. They help people lose weight and maintain that loss, and they also seem to reduce the risk of heart attack and stroke for people with cardiovascular disease. But they're also not a substitute for the other things that matter: moving your body, thinking about what you eat, managing stress. They're a tool, sometimes a really helpful one, but not a substitute for other lifestyle measures.
 
 You also need to stay on them to keep the weight off. These aren't like antibiotics, where you take them for two weeks and you're done. This is a medication you take ongoing, probably for years. So when you're thinking about whether to start, think about whether you're ready for that commitment. Some people take them for a year or two, get to their goal weight, and then stop. Your doctor can help you figure out the best approach for your situation.
 

@@ -25,15 +25,13 @@ faqs:
     a: "Not always. The premium is just one piece of your total annual cost. High copays, a limited network, or a weak drug formulary can easily cost more than a plan with a modest monthly premium. Compare total estimated costs based on your actual expected health care use, not just the premium line."
 ---
 
-Most people I talk to assume their [Medicare plan](/medicare-plan-finder-by-zip-code/) is fine until it isn't. They picked something three years ago, it was working okay, and so it just... stays. I get it. Reviewing your Medicare coverage feels about as appealing as reorganizing a filing cabinet. But here's the thing I've seen play out too many times in 20 years of doing this work: the plan that was perfect when you enrolled can quietly become the wrong plan, and you won't notice until you're staring at an unexpected bill for $800 or your pharmacy is suddenly out of network.
+Many people assume their [Medicare plan](/medicare-plan-finder-by-zip-code/) is fine once they've chosen it and stop reviewing their coverage. Reviewing your Medicare plan annually can feel tedious, but it matters: a plan that worked well when you enrolled can quietly become the wrong fit, and you may not notice until you're facing an unexpected bill for $800 or your pharmacy is suddenly out of network.
 
 So let me walk you through what a real Medicare plan review actually looks like, not the vague "check your benefits" advice you see everywhere, but a specific, honest checklist of what to look at, when to look, and what surprises to watch for.
 
-[Open Enrollment](/missing-medicare-open-enrollment/) runs October 15 through December 7 every year, and that's your main window to make changes. But the review itself? That should happen in September, before the chaos starts. I've watched too many people scramble in late November, grab whatever plan looks familiar, and miss something important.
-
+[Open Enrollment](/missing-medicare-open-enrollment/) runs October 15 through December 7 every year, and that's your main window to make changes. Review your coverage in September, before the chaos starts. Waiting until late November can lead to rushed decisions that miss important changes to your plan.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Open Enrollment runs Oct 15–Dec 7; review your plan in September, before the window opens.</li><li style="margin:5px 0">Your drug formulary (the list of covered medications) can change every year, even mid-year in some cases.</li><li style="margin:5px 0">Switching plans can save hundreds annually, but only if you compare total costs, not just the monthly premium.</li><li style="margin:5px 0">A free SHIP (State Health Insurance Assistance Program) counselor can do a side-by-side plan comparison with you at no cost.</li><li style="margin:5px 0">Your current plan's Annual Notice of Change arrives in late September ,  reading it is step one.</li></ul></div>
-
 
 ## Start With the Annual Notice of Change
 
@@ -46,8 +44,6 @@ Read it. Specifically look for: premium changes, drug tier changes (if your medi
 ## The Drug Check Nobody Does Thoroughly Enough
 
 > **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the one that catches people off guard the most, and I say that having sat across the table from hundreds of seniors who were blindsided by it.
 
@@ -69,9 +65,7 @@ What to do: Call your three or four most important providers (primary care docto
 
 Also check your preferred pharmacy. Some plans have preferred pharmacy networks where your copays are lower, and that preferred status can change year to year.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual out-of-pocket by plan type (2026 estimates)</div><div class="sc-row"><span class="sc-label">Medicare Advantage (low use)</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">$1,200</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage (high use)</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">$4,800</span></div><div class="sc-row"><span class="sc-label">Original Medicare + Medigap G</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">$2,400</span></div><div class="sc-row"><span class="sc-label">Original Medicare alone</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$6,700</span></div><div class="sc-src">Source: KFF Medicare Advantage enrollment and performance data 2025-2026</div></div>
-
 
 ## Comparing Total Cost, Not Just the Monthly Premium
 
@@ -99,11 +93,9 @@ Medicare Advantage plans love advertising dental, vision, hearing, and gym membe
 
 "Dental benefits" might mean $500 toward preventive cleanings only, with no coverage for crowns or dentures. "Vision" might mean $150 toward eyeglass frames every two years. These aren't nothing, but if you're choosing a plan primarily for extras, make sure the extras actually cover what you need. Read the Evidence of Coverage document, not the marketing flyer. Ask: does this dental benefit cover major restorative work? What's the annual maximum?
 
-I don't have good data on how often beneficiaries actually use these benefits versus how often they factor into the enrollment decision, but in my experience the gap is wide.
-
 ## Getting Help When It Gets Overwhelming
 
-Look, this is a lot. Even I find the comparison process tedious, and I've been doing this for two decades.
+The comparison process can be tedious.
 
 The single most underused resource in Medicare is the [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/). SHIP counselors are trained, unbiased (they don't sell anything), and completely free. They will sit with you, pull up the Medicare plan finder, and compare options side-by-side. Many areas offer phone, video, or in-person appointments. Call your state's SHIP office in September, not November, because their schedules fill up.
 
@@ -120,7 +112,6 @@ Worked example: Gerald, 78, from rural Kentucky, called his state SHIP office in
 - [Medicare & You Handbook 2026](https://www.medicare.gov/medicare-and-you): CMS's official annual beneficiary handbook with current benefit and cost information.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

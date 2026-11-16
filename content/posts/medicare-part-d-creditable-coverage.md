@@ -27,7 +27,7 @@ faqs:
 
 About 1 in 3 people who go without drug coverage for even 63 days will owe a Medicare Part D late enrollment penalty for the rest of their lives. That's not a typo. Permanent. For a gap that lasts barely two months.
 
-Most articles about creditable coverage skim right past the detail that actually matters: it's not enough to *have* drug coverage during the time you're off Medicare. That coverage has to meet a specific actuarial standard, or Medicare treats it like you had nothing at all. I've watched people hand me their old employer insurance cards, confident they're covered, only to find out the plan they carried for three years didn't qualify. The penalty clock was running the whole time.
+Most articles about creditable coverage skim right past the detail that actually matters: it's not enough to have drug coverage during the time you're off Medicare. That coverage has to meet a specific actuarial standard, or Medicare treats it like you had nothing at all. A common mistake is assuming an employer plan qualifies without checking the actuarial details. If it doesn't meet Medicare's standard, the penalty clock runs regardless of how long you carried the coverage.
 
 Let me fix that now.
 
@@ -49,7 +49,7 @@ You get a 63-day grace period after losing creditable coverage before the late e
 
 Miss that window, and the penalty is 1% of the national base beneficiary premium (currently $36.78 as of 2026, per CMS) multiplied by the number of uncovered months. It compounds. Someone who goes 24 months without creditable coverage owes a permanent surcharge of roughly 24% added to their Part D premium, every month, for life.
 
-A reader in Phoenix emailed me last year after her husband had retired at 65 and assumed his retiree coverage from a former employer was good enough. It wasn't creditable; the plan had a $500 annual drug cap, which failed the actuarial test. He went 19 months before anyone caught the problem. His penalty: 19% on top of his monthly premium, permanent.
+A plan with a $500 annual drug cap, for example, would fail the actuarial test for creditable coverage. If someone carried such a plan for 19 months without realizing it didn't qualify, the penalty would be 19% on top of the monthly premium, and it would be permanent.
 
 That's not a hypothetical horror story. According to CMS data, approximately 2.5 million Part D enrollees are currently paying a late enrollment penalty. Most of them didn't realize they'd had a gap.
 
@@ -57,9 +57,9 @@ That's not a hypothetical horror story. According to CMS data, approximately 2.5
 
 Your insurer is legally required to tell you, in writing, whether your drug coverage is creditable. This notice must go out before October 15 every year, the start of Medicare's Annual Enrollment Period. It also has to be sent when you first enroll and whenever you ask.
 
-The notice will literally say: "This coverage IS creditable" or "This coverage is NOT creditable." It should also say this is measured against Medicare Part D. If you got a letter like this and threw it out (I did this myself when I first started and almost regretted it), call your HR department or insurer and ask for a replacement. They're required to provide one.
+The notice will literally say: "This coverage IS creditable" or "This coverage is NOT creditable." It should also say this is measured against Medicare Part D. If you got a letter like this and threw it out, call your HR department or insurer and ask for a replacement. They're required to provide one.
 
-Keep every creditable coverage notice you receive. If you ever dispute a penalty later, the Social Security Administration is going to want documentation. I've seen cases where someone had perfect coverage for years but had no paper trail, and proving it took months of back-and-forth with former employers.
+Keep every creditable coverage notice you receive. If you ever dispute a penalty later, the Social Security Administration is going to want documentation. Without paper proof, even perfect coverage can be difficult to verify and may take months to sort out with former employers.
 
 ## What Happens When You Sign Up Late
 

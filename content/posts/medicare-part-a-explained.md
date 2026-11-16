@@ -35,7 +35,7 @@ Part A pays for inpatient hospital care (after a doctor formally admits you), sk
 
 **Inpatient hospital care** covers your room, meals, nursing, medications during your stay, and the rest of what hospitals provide. This is what people usually picture.
 
-**Skilled nursing facility care** surprises a lot of my readers. If you've had a qualifying hospital stay of at least three consecutive days (not counting discharge day) and your doctor says you need skilled care like physical therapy, wound care, or IV medications, Part A can cover your SNF stay. The operative word is "skilled", custodial care (help bathing, dressing, daily activities) doesn't count.
+**Skilled nursing facility care** often surprises people new to Medicare. If you've had a qualifying hospital stay of at least three consecutive days (not counting discharge day) and your doctor says you need skilled care like physical therapy, wound care, or IV medications, Part A can cover your SNF stay. The operative word is "skilled", custodial care (help bathing, dressing, daily activities) doesn't count.
 
 **Hospice care** is covered when a doctor certifies you're terminally ill with six months or less to live and you choose comfort care over curative treatment. Part A covers hospice almost entirely, including pain medications tied to your terminal diagnosis.
 

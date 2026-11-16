@@ -77,7 +77,7 @@ Not everyone will see a huge change. If you're generally healthy and drug costs 
 
 **People with multiple chronic conditions.** Even if no single drug is wildly expensive, four or five brand-name medications with cost-sharing can add up fast. The cap protects against that accumulation.
 
-**Anyone who previously rationed doses.** I've seen this more times than I can count: people splitting pills, skipping refills, choosing between medication and groceries. The cap doesn't make drugs free, but it does put a ceiling on what you'll face in a given year.
+**Anyone who previously rationed doses.** Many people have had to ration doses by splitting pills, skipping refills, or choosing between medication and groceries. The cap doesn't make drugs free, but it does put a ceiling on what you'll face in a given year.
 
 If you're not sure where you fall, [Medicare.gov](https://www.medicare.gov/) has a Plan Finder tool that lets you enter your specific medications and see projected annual costs under different plans, including how quickly you'd hit the cap.
 

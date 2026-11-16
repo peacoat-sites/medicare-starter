@@ -69,7 +69,7 @@ Three scenarios, from my own casework over the years:
 
 **Diane, 71, recovering from stroke with ongoing weakness** → Initially qualified for Medicare home health (PT, OT, speech therapy). After 90 days, skilled need tapered. Aide visits ended with it → Family transitioned to private pay at $31/hour for a home health aide, 5 hours daily. Monthly cost: approximately $4,650.
 
-Frank and Diane's situations are far more common than Margaret's. I'd say honestly, about 60-70% of the families I've worked with end up in a private-pay gap within months.
+Situations like Frank and Diane's are far more common than Margaret's. Many families end up in a private-pay gap within months.
 
 ## How Medicare Advantage Changes the Math
 
@@ -77,17 +77,17 @@ If someone has a Medicare Advantage plan (Part C) instead of Original Medicare, 
 
 The catch: benefits vary wildly by plan and by zip code. A plan in Maricopa County, Arizona might cover 25 hours per month of homemaker services. The same plan's equivalent in rural Montana might offer none. You genuinely cannot assume.
 
-Before assuming your Advantage plan covers something, call the plan directly, get the specific benefit in writing, and confirm with the agency you're considering. I've seen families make care decisions based on a benefit that the plan's customer service rep described incorrectly. [Medicare.gov](https://www.medicare.gov/) has a plan finder that lists supplemental benefits by plan, and it's worth pulling the actual Evidence of Coverage document rather than trusting a summary.
+Before assuming your Advantage plan covers something, call the plan directly, get the specific benefit in writing, and confirm with the agency you're considering. Families sometimes make care decisions based on benefits that a customer service rep described incorrectly. [Medicare.gov](https://www.medicare.gov/) has a plan finder that lists supplemental benefits by plan, and it's worth pulling the actual Evidence of Coverage document rather than trusting a summary.
 
 ## Finding an Agency and What It Actually Costs to Do It Right
 
-Not all Medicare-certified home health agencies are equal in quality. Medicare's Care Compare tool (on Medicare.gov) publishes quality ratings for certified agencies, including patient survey results and outcome data. I'd use it. Low ratings on "communication" and "timely care initiation" are the two I watch most closely. Those predict problems faster than clinical outcome scores, in my experience.
+Not all Medicare-certified home health agencies are equal in quality. Medicare's Care Compare tool (on Medicare.gov) publishes quality ratings for certified agencies, including patient survey results and outcome data. I'd use it. Low ratings on "communication" and "timely care initiation" are worth watching most closely, as they tend to predict problems faster than clinical outcome scores.
 
 When you call an agency, ask four specific things: Are you Medicare-certified? Do you run background checks on aides and what does that process include? What's your minimum hours per shift? And what's your policy when an aide calls out sick? That last question is where bad agencies reveal themselves.
 
 For non-Medicare custodial care, expect agencies to charge a higher hourly rate than their advertised minimum once you factor in a mandatory minimum shift (usually 3-4 hours), an agency coordination fee, and any weekend or holiday premium. A flat "$27/hour" rate often becomes closer to $32 effective rate when you work out the real total.
 
-The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased counseling in every state. They can help you verify what Medicare will and won't cover for a specific situation, which matters because every case is fact-specific and I've seen case assessments from doctors miss the qualification criteria entirely.
+The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased counseling in every state. They can help you verify what Medicare will and won't cover for a specific situation, which matters because every case is fact-specific and qualification criteria are sometimes missed in initial assessments.
 
 ## Medicaid: The Safety Net Most People Miss Until It's Too Late
 

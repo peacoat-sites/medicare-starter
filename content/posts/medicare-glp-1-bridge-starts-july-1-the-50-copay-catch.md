@@ -20,7 +20,7 @@ Something surprising is happening in Medicare on July 1, 2026, and most seniors 
 
 The Centers for Medicare and Medicaid Services, or CMS, designed this as a temporary bridge program running from July 1, 2026 through December 31, 2027. The idea is to get weight-loss medications into the hands of Medicare beneficiaries while longer-term coverage policy gets sorted out. According to KFF, roughly 3.8 million Part D enrollees, about 8% of everyone with Part D drug coverage, could qualify based on clinical criteria like BMI thresholds and related health conditions.
 
-Here's the thing that tripped me up when I first read the program details: this is not a Part D benefit. CMS structured the Bridge as a separate program that runs alongside Part D, not inside it. That distinction sounds like regulatory fine print, but it has real financial consequences that most people haven't been warned about.
+A common point of confusion: this is not a Part D benefit. CMS structured the Bridge as a separate program that runs alongside Part D, not inside it. That distinction sounds like regulatory fine print, but it has real financial consequences that most people haven't been warned about.
 
 ## The $50 Copay Trap Nobody Is Talking About Loudly Enough
 
@@ -36,9 +36,7 @@ Here's the thing that tripped me up when I first read the program details: this 
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-I'll be honest, when I first saw the $50 monthly copay, I assumed it would work like any other Part D cost-sharing, meaning it would count toward your annual out-of-pocket cap and your Medicare Prescription Payment Plan if you use one. Both assumptions are wrong.
+The $50 monthly copay may seem to work like standard Part D cost-sharing, leading people to assume it counts toward your annual out-of-pocket cap and your Medicare Prescription Payment Plan if you use one. Both assumptions are wrong.
 
 Because the Bridge operates outside the Part D benefit structure, that $50 monthly payment does not count toward the 2026 [Part D out-of-pocket cap](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) of $2,100. If you're already managing other expensive medications through Part D and you're working toward that $2,100 ceiling, your Bridge copays won't help you get there any faster. You're paying $50 a month in a lane that doesn't connect to your other drug spending.
 

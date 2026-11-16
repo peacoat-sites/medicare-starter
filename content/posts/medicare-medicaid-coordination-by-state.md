@@ -25,7 +25,7 @@ faqs:
     a: "For most dual-eligible people with complex health needs, yes, an integrated D-SNP is usually the better choice because it coordinates care between both programs and often adds extra benefits. But it's not universal. If you have a specialist you love who isn't in any D-SNP network in your area, or if you travel frequently and need nationwide coverage, Original Medicare may work better for your situation. Check plan availability at Medicare.gov's plan finder before deciding."
 ---
 
-Most people find out about Medicare-Medicaid coordination the hard way. A reader named Dorothy from Albuquerque emailed me last spring: she'd been enrolled in both programs for two years, still paying copays she shouldn't have owed, because nobody at the county office told her she qualified for a program that would wipe them out. Two years of unnecessary out-of-pocket costs. That kind of thing keeps me up at night.
+Most people find out about Medicare-Medicaid coordination the hard way. Many people remain enrolled in both programs without knowing about assistance programs that could eliminate their copays, sometimes for years, because coordination between Medicare and Medicaid isn't automatic.
 
 Here's what makes this so frustrating: the rules aren't secret. They're just scattered across 50 different state Medicaid agencies, each with its own income limits, enrollment timelines, and benefit packages. What works in Florida won't necessarily work in Wyoming. And the people who need this information most are often the least equipped to track it down.
 
@@ -58,7 +58,7 @@ I'll be honest: the acronyms in this space are genuinely terrible. But a few of 
 
 *Note: These are approximate federal benchmarks. States set their own limits and some are more generous. Confirm your state's current figures at [Medicare.gov](https://www.medicare.gov) or with your state Medicaid office.*
 
-The QMB level is the one that shocks people when they discover it. If you qualify, providers are literally prohibited by federal law from billing you for [Medicare cost](/medicare-cost-for-low-income-seniors/)-sharing. Not "they probably won't bill you." They cannot. I've seen cases where a QMB enrollee was billed anyway, disputed it, and got a full refund. If that happens to you, call 1-800-MEDICARE and report it.
+The QMB level is the one that shocks people when they discover it. If you qualify, providers are literally prohibited by federal law from billing you for [Medicare cost](/medicare-cost-for-low-income-seniors/)-sharing. Not "they probably won't bill you." They cannot. If that happens to you, call 1-800-MEDICARE and report it.
 
 **D-SNPs (Dual Eligible Special Needs Plans)** are a different animal entirely. These are Medicare Advantage plans specifically designed for dually eligible people. Enrollment has grown sharply, and as of this year roughly 5.5 million dual-eligible beneficiaries are enrolled in one. The appeal is real: many D-SNPs bundle dental, vision, hearing, and transportation benefits into a single card. The catch, which I'll get to, is that quality and coverage vary enormously by state and plan.
 
@@ -80,7 +80,7 @@ The reason for this gap is money and political will. Medicaid is jointly funded 
 
 The federal government has spent years trying to get Medicare and Medicaid to work as one system for dual-eligibles, rather than two bureaucracies that occasionally communicate. The two main models today are Financial Alignment Initiative demonstrations (mostly winding down) and the newer Integrated D-SNP structure, called HIDE-SNPs and FIDE-SNPs if you want the full acronym.
 
-Here's what I genuinely think, based on years of seeing how this plays out: a Fully Integrated Dual Eligible Special Needs Plan (FIDE-SNP) is usually the best option if you can get one in your area. These plans are contractually required to integrate both Medicare and Medicaid into a single plan, single care team, single ID card. The care coordination is meaningfully better. I've seen members of these plans avoid hospitalizations because a care manager caught a medication conflict that the fragmented system would have missed.
+A Fully Integrated Dual Eligible Special Needs Plan (FIDE-SNP) is usually the best option if you can get one in your area. These plans are contractually required to integrate both Medicare and Medicaid into a single plan, single care team, and single ID card. The coordinated care model allows a single care team to manage both programs together, reducing the risk of medication conflicts and missed care issues that can happen when Medicare and Medicaid coverage operates separately.
 
 The problem is availability. FIDE-SNPs exist in fewer than 20 states as of this year, and even within those states, not every county has one. You can check plan availability at [Medicare.gov's plan finder](https://www.medicare.gov/plan-compare).
 

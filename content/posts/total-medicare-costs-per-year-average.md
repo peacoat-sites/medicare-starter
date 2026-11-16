@@ -27,13 +27,11 @@ faqs:
 
 Most people think Medicare is nearly free. The average beneficiary actually spends over $7,000 out of pocket every single year.
 
-That number comes from KFF (Kaiser Family Foundation), which analyzed Medicare spending patterns and found that in a recent survey year, the median out-of-pocket spending among Medicare beneficiaries hit $6,883. The median. Half of beneficiaries spent more than that. I've watched seniors absorb that fact across a table and visibly recalculate their retirement math on the spot. It never gets easier to deliver.
+That number comes from KFF (Kaiser Family Foundation), which analyzed Medicare spending patterns and found that in a recent survey year, the median out-of-pocket spending among Medicare beneficiaries hit $6,883. The median. Half of beneficiaries spent more than that.
 
 The confusion comes from one stubborn myth: that Medicare "covers everything." It doesn't. Part A covers hospital stays (with gaps). Part B covers outpatient care (after you pay a premium and a 20% coinsurance that has no cap). Part D covers prescriptions (sort of). And the spaces between those parts are where retirements get quietly eroded.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The average Medicare beneficiary spends roughly $6,000-$7,500 out of pocket annually, per KFF data.</li><li style="margin:5px 0">Part B premium alone runs $185/month as of 2026, or $2,220/year, before any claims.</li><li style="margin:5px 0">High-income beneficiaries pay IRMAA surcharges that can push Part B premiums above $628/month.</li><li style="margin:5px 0">A single hospital stay can trigger a $1,676 Part A deductible, per benefit period, not per year.</li><li style="margin:5px 0">Adding a Medigap (supplement) plan can cut unpredictable costs sharply, but raises monthly premiums.</li></ul></div>
-
 
 ## What You're Actually Paying Every Month
 
@@ -62,11 +60,9 @@ That's the good scenario: no major illness, no hospitalizations, Medigap G cover
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 IRMAA stands for Income-Related Monthly Adjustment Amount. It's a [Medicare surcharge](/irmaa-medicare-surcharge-2026/) levied on higher-income beneficiaries, and it catches a surprising number of retirees off guard because it's based on your income from two years prior.
 
-I had a reader, a retired teacher from suburban Phoenix, email me last fall because her Part B premium had jumped to $370/month. She'd sold a rental property in 2024, her income spiked that single year, and two years later Medicare billed her accordingly. She hadn't touched that income since. IRMAA doesn't care.
+For example, someone might sell a rental property in one year, causing their income to spike temporarily. Two years later, Medicare bills them based on that single high-income year, even if they haven't touched that income since. IRMAA doesn't care.
 
 As of 2026, IRMAA brackets break down like this for Part B:
 
@@ -82,15 +78,13 @@ Part D has its own IRMAA surcharge stacked on top. A couple with combined income
 
 The fix, if you had a one-time income event, is a Life-Changing Event appeal (SSA Form SSA-44). It works. File it.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly Part B Premium by Income Bracket (2026)</div><div class="sc-row"><span class="sc-label">≤$106K</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$185</span></div><div class="sc-row"><span class="sc-label">$106K–$133K</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$259</span></div><div class="sc-row"><span class="sc-label">$133K–$167K</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$370</span></div><div class="sc-row"><span class="sc-label">$167K–$200K</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$481</span></div><div class="sc-row"><span class="sc-label">&gt;$500K</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$629</span></div><div class="sc-src">Source: CMS 2026 Medicare premium tables</div></div>
-
 
 ## Original Medicare vs. Medicare Advantage: The Cost Comparison Nobody Does Honestly
 
 [Medicare Advantage](/is-medicare-advantage-right-for-you/) (Part C) plans often advertise $0 premiums. That's technically true. It's also misleading in a way that I'd call the single biggest marketing distortion in Medicare.
 
-Here's what those plans don't advertise: out-of-pocket maximums that can run up to $9,350 in-network in 2026 (the CMS-set limit). Narrow networks. [Prior authorization](/original-medicare-now-requires-prior-authorization-in-six-states/) requirements on procedures your doctor already ordered. I've seen beneficiaries with $0-premium Advantage plans rack up $8,000 in a moderate illness year because every specialist visit triggered a $50 copay and two procedures required back-and-forth authorization that took six weeks.
+These plans often don't advertise out-of-pocket maximums that can run up to $9,350 in-network in 2026 (the CMS-set limit), narrow networks, and [prior authorization](/original-medicare-now-requires-prior-authorization-in-six-states/) requirements on procedures your doctor already ordered. In a moderate illness year, beneficiaries with $0-premium Advantage plans can rack up $8,000 when every specialist visit triggers a $50 copay and procedures require back-and-forth authorization.
 
 The actual cost picture depends entirely on your health status:
 
@@ -102,7 +96,7 @@ The actual cost picture depends entirely on your health status:
 
 The math shifts at the extremes. Healthy people who stay healthy save money with Advantage. Sick people, people with chronic conditions, people who end up hospitalized, often spend far more. AARP's Medicare resource center has a solid breakdown of this tradeoff at [aarp.org](https://www.aarp.org/health/medicare-insurance/) that's worth reading before you pick a plan.
 
-I made this mistake myself when I first started counseling: I assumed the $0 premium was always a bad deal. It's not. For a genuinely healthy 65-year-old in a major metro with good plan options, Advantage can work well for years. The risk is what happens if your health changes and you want to switch back to Original Medicare: you may face medical underwriting for a Medigap plan and get denied or charged significantly more. That exit ramp gets expensive.
+A common mistake is assuming the $0 premium is always a bad deal. It isn't. For a genuinely healthy 65-year-old in a major metro with good plan options, Advantage can work well for years. The risk is what happens if your health changes and you want to switch back to Original Medicare: you may face medical underwriting for a Medigap plan and get denied or charged significantly more. That exit ramp gets expensive.
 
 ## Three Real-World Cost Scenarios
 
@@ -127,7 +121,6 @@ This is the catastrophic case that Medigap exists to prevent. At $150/month, Pla
 - [SSA Form SSA-44](https://www.ssa.gov/forms/ssa-44.pdf): Life-Changing Event appeal form for IRMAA reconsideration.
 
 ---
-
 
 *Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
 

@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people assume the Medicare deductible is one single number you hit at the start of the year and then you're done. I believed that myself for the first few years I was counseling clients. The reality is messier, more expensive in some spots than you'd expect, and genuinely confusing in ways that catch even careful planners off guard.
+Most people assume the Medicare deductible is one single number you hit at the start of the year and then you're done. In fact, it's messier and more expensive in some spots than expected, and genuinely confusing in ways that catch even careful planners off guard.
 
-So let me give you the real numbers for 2026, walk you through what each one actually means for your wallet, and flag the landmines I've watched people step on.
+Here are the real numbers for 2026, what each one means for your wallet, and the common pitfalls to watch for.
 
 ---
 
@@ -56,15 +56,13 @@ Those are the three deductibles most people need to know. Write them down. The P
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+The Part A deductible often causes real financial pain for people who thought they had it figured out.
 
-
-I'll be honest: the Part A deductible is the one I've seen cause the most real financial pain for people who thought they had it figured out.
-
-Here's the thing that trips everyone up. Medicare's Part A deductible doesn't reset on January 1. It resets per "benefit period," which begins the day you're admitted to a hospital as an inpatient and ends after you've been out of the hospital (and not in a skilled nursing facility) for 60 consecutive days. If you get admitted again after that 60-day clock runs out, a brand new $1,676 deductible starts fresh.
+Medicare's Part A deductible doesn't reset on January 1. It resets per "benefit period," which begins the day you're admitted to a hospital as an inpatient and ends after you've been out of the hospital (and not in a skilled nursing facility) for 60 consecutive days. If you get admitted again after that 60-day clock runs out, a brand new $1,676 deductible starts fresh.
 
 That means someone who has two separate hospitalizations in the same calendar year, separated by more than 60 days, pays $1,676 twice. $3,352 out of pocket just in deductibles. I've sat with clients who were floored by this. One gentleman I worked with in early 2026 had a hip replacement in February and then a cardiac event in August. He'd been healthy between the two, cleared the 60-day window, and hit a new benefit period. He wasn't expecting a second deductible. His adult children weren't either.
 
-What surprised me when I first dug into this years ago was that Medicare's own summary documents don't always make the "per benefit period" language jump out. You have to read carefully. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) does publish a detailed booklet called "Medicare & You" each year, and the 2026 edition explains benefit periods on page 28 (of the print version). It's worth reading that section slowly.
+Medicare's own summary documents don't always make the "per benefit period" language jump out. You have to read carefully. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) does publish a detailed booklet called "Medicare & You" each year, and the 2026 edition explains benefit periods on page 28 (of the print version). It's worth reading that section slowly.
 
 The Part A deductible also covers only the first 60 days of your hospital stay. Days 61 through 90 come with a daily coinsurance charge of $419 per day. Days beyond that, if you ever get into what Medicare calls "lifetime reserve days," cost $838 per day. Those numbers are 2026 figures and they do adjust annually.
 
@@ -81,7 +79,7 @@ The $257 Part B deductible for 2026 is genuinely more straightforward. It's a ca
 
 The catch with Part B isn't the deductible itself. It's the 20% coinsurance that never has an out-of-pocket cap under Original Medicare. There's no maximum out-of-pocket limit built into traditional Medicare Parts A and B. If you have a serious illness that racks up $200,000 in outpatient costs, Medicare pays $160,000 and you owe $40,000, minus the deductible. That exposure is exactly why Medigap ([Medicare Supplement Insurance](/medicare-advantage-vs-medicare-supplement-total-cost/)) policies exist.
 
-I tested this out with a spending scenario when I was helping my neighbor's mother choose between a Medicare Advantage plan and Original Medicare plus a Medigap policy last year. We ran the numbers assuming a moderately bad health year: two specialist visits, one outpatient surgery, some physical therapy. The Part B deductible was almost a rounding error. The coinsurance was the real variable.
+For example, in a moderately bad health year with two specialist visits, one outpatient surgery, and some physical therapy, the Part B deductible becomes almost a rounding error. The coinsurance is typically the real variable.
 
 **Worked example:**
 Maria, age 68, has outpatient knee surgery in March 2026. Total Medicare-approved amount: $8,400.
@@ -98,7 +96,7 @@ Plans that waive the deductible often charge higher monthly premiums, so you're 
 
 One thing [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) points out (and it's worth reading their Part D explainer if you're choosing a plan this year) is that some Part D plans apply the deductible only to certain tiers of drugs, usually Tiers 3 through 5, while covering generics (Tier 1 and Tier 2) without making you hit a deductible first. If all your medications are generic, a plan with a $590 deductible might cost you nothing extra compared to one with a $0 deductible and a higher premium.
 
-The Medicare Plan Finder at Medicare.gov is genuinely the best tool I know for comparing this. You enter your actual medications and it shows you projected annual costs across plans, including how the deductible plays into your total spending. I walked through it with a reader who emailed me in May 2026 after getting confused by three different plan mailers. We found she could save about $340 a year by switching to a plan with a $400 deductible but a lower premium, because her drug list was mostly generics that weren't subject to the deductible anyway.
+The Medicare Plan Finder at Medicare.gov lets you enter your actual medications and shows projected annual costs across plans, including how the deductible plays into your total spending.
 
 ---
 
@@ -138,7 +136,6 @@ The big difference is that MA plans do have a maximum out-of-pocket limit, which
 - [Kaiser Family Foundation Medicare Cost-Sharing Data](https://www.kff.org/medicare/): Independent analysis of Medicare beneficiary cost-sharing trends and out-of-pocket exposure.
 
 ---
-
 
 ---
 

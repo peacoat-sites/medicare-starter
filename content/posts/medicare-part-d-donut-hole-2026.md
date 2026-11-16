@@ -26,9 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people I've worked with over the years hear "donut hole" and picture some minor inconvenience, like a small co-pay bump they'll barely notice. Then they open a pharmacy bill in October and nearly fall out of their chair.
+Many people hear "donut hole" and picture some minor inconvenience, like a small co-pay bump they'll barely notice. But pharmacy bills in October can bring a nasty surprise.
 
-I've seen it happen dozens of times. A retired teacher from suburban Ohio, managing her rheumatoid arthritis with a brand-name biologic, had her monthly drug costs jump from about $47 to over $400 literally overnight because she'd crossed into what Medicare calls the "[coverage gap](/medicare-part-d-coverage-gap/)." She didn't see it coming. Her plan hadn't warned her. And by the time she called me, she'd already skipped two doses trying to make the bottle last.
+For example, someone managing rheumatoid arthritis with a brand-name biologic might see monthly drug costs jump from about $47 to over $400 after crossing into what Medicare calls the "[coverage gap](/medicare-part-d-coverage-gap/)." Without warning from a plan, people may skip doses trying to make medications last.
 
 The donut hole is real, it still matters in 2026, and the rules around it have changed enough in the last couple of years that a lot of the old information floating around the internet is flat-out wrong. Let me tell you what's actually true right now.
 
@@ -40,9 +40,9 @@ Medicare Part D is the prescription drug benefit. It's offered through private i
 
 The name comes from the original structure under the Medicare Modernization Act of 2003: there was a coverage phase, then a gap where you were mostly on your own, then catastrophic coverage kicked back in once your out-of-pocket costs got high enough. The "hole" in coverage between two layers of protection. That's the shape of it.
 
-Here's the thing that trips people up: the Inflation Reduction Act of 2022 fundamentally rewrote Part D's cost structure, and those changes phased in over a few years. As of 2026, the donut hole looks very different from what it was even three years ago. The most significant change? There's now a $2,000 annual out-of-pocket cap on what you pay for covered Part D drugs. That's a hard limit. Once you've paid $2,000 in true out-of-pocket costs (what Medicare calls TrOOP, or True Out-of-Pocket costs), you pay nothing for the rest of the year.
+The Inflation Reduction Act of 2022 fundamentally rewrote Part D's cost structure, with changes phasing in over several years. As of 2026, the donut hole looks very different from what it was even three years ago. The most significant change? There's now a $2,000 annual out-of-pocket cap on what you pay for covered Part D drugs. That's a hard limit. Once you've paid $2,000 in true out-of-pocket costs (what Medicare calls TrOOP, or True Out-of-Pocket costs), you pay nothing for the rest of the year.
 
-I'll be honest: when I first read about the $2,000 cap before it took effect, I was skeptical. I'd been doing this long enough to see "improvements" that looked good on paper but came with enough asterisks to render them meaningless. This one is real. It's the single biggest change to Part D since the program started.
+The $2,000 cap is a genuine change, not one with hidden limitations. It's the single biggest change to Part D since the program started.
 
 ---
 
@@ -56,8 +56,6 @@ I'll be honest: when I first read about the $2,000 cap before it took effect, I 
 | Catastrophic | N/A | $2,000+ out-of-pocket reached | You pay $0 |
 
 > **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Even with the cap, Part D still runs in stages, and knowing them saves money. As of July 2026, here's how it breaks down:
 
@@ -110,7 +108,7 @@ Open Enrollment runs every year from October 15 through December 7, and changes 
 
 Here's what I tell everyone:
 
-Run a comparison using the Medicare Plan Finder tool on Medicare.gov. Plug in every drug you take, the exact doses, and your preferred pharmacy. The tool will show you estimated total annual costs including premiums, deductibles, and expected out-of-pocket drug costs. Use that number, not just the monthly premium, to make your decision. I've watched people save $1,500-$3,000 a year by switching plans, just because they did this one exercise.
+Run a comparison using the Medicare Plan Finder tool on Medicare.gov. Plug in every drug you take, the exact doses, and your preferred pharmacy. The tool will show you estimated total annual costs including premiums, deductibles, and expected out-of-pocket drug costs. Use that number, not just the monthly premium, to make your decision. People can save $1,500-$3,000 a year by switching plans based on this comparison.
 
 **A worked example:**
 Tom, 68, diabetes and high cholesterol, on three generics and one brand-name drug. He's been on the same Part D plan for five years because "it's fine."
@@ -130,7 +128,6 @@ He told me at a senior center presentation in March 2026, "I figured it wasn't w
 - [Social Security Administration, Extra Help Program](https://www.ssa.gov/medicare/part-d): Application and eligibility information for the Low Income Subsidy
 
 ---
-
 
 ---
 

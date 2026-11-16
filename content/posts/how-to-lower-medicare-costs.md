@@ -48,8 +48,6 @@ That's not a complaint about Medicare; I think it's genuinely one of the most va
 
 > **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Before we talk about plan optimization or drug cost tricks, I want to make sure you haven't missed something much bigger. There are federal and state programs specifically designed to reduce Medicare costs for people with limited income and resources, and they go dramatically underused. AARP estimates millions of eligible people aren't enrolled.
 
 The big one is the Extra Help program (also called the Low Income Subsidy, or LIS). It helps pay for Part D prescription drug costs, including premiums, deductibles, and copays. Depending on your income and assets, it could save you $2,000 or more annually on drug costs alone. You apply through Social Security at ssa.gov or call 1-800-772-1213.
@@ -96,7 +94,7 @@ Fourth: manufacturer patient assistance programs. If you're on an expensive bran
 
 If your income is above a certain threshold, Medicare charges you more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's based on your tax return from two years prior. As of this year, if your modified adjusted gross income was above roughly $106,000 (single) or $212,000 (married filing jointly), you're paying more than the standard premium.
 
-Here's what most people don't know: you can appeal IRMAA if your income has dropped due to a qualifying life event. Retirement counts. Divorce counts. Death of a spouse counts. The form is SSA-44, available at ssa.gov, and in my experience it's worth filing even if you're not 100% sure you qualify. I've seen people get significant premium reductions retroactively.
+You can appeal IRMAA if your income has dropped due to a qualifying life event. Retirement counts. Divorce counts. Death of a spouse counts. The form is SSA-44, available at ssa.gov, and filing may be worthwhile even if you are not completely certain you qualify, since successful appeals can result in significant premium reductions retroactively.
 
 One more thing: if a large Roth conversion or a property sale temporarily spiked your income two years ago, you may be paying a higher IRMAA surcharge now that doesn't reflect your actual current situation. That's worth a conversation with a financial advisor who understands Medicare.
 
@@ -111,7 +109,6 @@ One more thing: if a large Roth conversion or a property sale temporarily spiked
 - [State Health Insurance Assistance Program (SHIP) National Network](https://www.shiphelp.org/): Free, unbiased Medicare counseling through state-based volunteer counselors.
 
 ---
-
 
 ---
 

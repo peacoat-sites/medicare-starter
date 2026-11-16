@@ -30,8 +30,6 @@ The technology piece, the wearable devices and telehealth check-ins, is the mech
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of May 27, 2026, CMS had accepted more than 150 health care organizations into the first launch cohort, according to the [ACCESS Model Accepted Applicants list](https://www.cms.gov/priorities/innovation/access-model-accepted-applicants) published on the CMS website. Here's something I want you to pay attention to: many of these organizations had not previously served Medicare beneficiaries. That's unusual, and it's worth a moment of thought.
 
 New entrants to Medicare can be excellent, innovative, and patient-centered. They can also be less experienced with Medicare's rules and patient expectations. What most people don't realize is that "accepted into the ACCESS Model" is not the same as a full-throated CMS endorsement of every organization's quality. CMS has committed to publishing a public directory of ACCESS participants along with their risk-adjusted outcomes, which will help you and your regular doctor compare options over time. That directory is something worth bookmarking once it's fully populated.
@@ -40,7 +38,7 @@ If a new organization reaches out to you about joining their ACCESS program, tak
 
 ## What Enrollment Means for Your Rights
 
-This is where I want to be really clear, because I've seen people hesitate to try new programs out of fear they'll lose something they've spent years counting on. Enrollment in the ACCESS Model is completely voluntary. You are not required to join just because your doctor's practice participates.
+It's worth emphasizing that many people hesitate to try new programs out of fear they'll lose something they've relied on for years. Enrollment in the ACCESS Model is completely voluntary. You are not required to join just because your doctor's practice participates.
 
 If you do choose to enroll, your standard Medicare rights stay intact. You can still see any Medicare provider you want. You don't get locked into a network the way you might with a [Medicare Advantage plan](/your-medicare-advantage-doctor-may-have-just-gone-out-of-network/). And one of the more meaningful benefits: participating organizations are allowed to waive your standard Medicare cost-sharing. That means copayments and coinsurance that you'd normally owe could be reduced or eliminated for services delivered through the program. For someone managing multiple chronic conditions and seeing providers frequently, that can add up to real savings.
 
@@ -58,7 +56,7 @@ If you try the program and it isn't working for you, you can leave. Your underly
 
 Before agreeing to enroll with an ACCESS participating organization, some things are worth sorting out upfront. Ask whether the technology they use requires a smartphone or specific internet speed, and whether they provide any device support if you run into trouble. Ask what happens to your health data and who has access to it. Ask whether your existing primary care doctor is involved or whether this is a separate care relationship. And ask specifically what cost-sharing, if any, they're waiving and whether that's in writing.
 
-None of this is meant to make you skeptical of a program that could genuinely help you manage a chronic condition more effectively. I've seen innovative care models change people's lives. But the best outcomes come when patients go in informed, not just enthusiastic.
+The goal isn't to make you skeptical of a program that could help you manage a chronic condition more effectively. But the best outcomes come when patients go in informed, not just enthusiastic.
 
 The ACCESS Model is a meaningful shift in how Original Medicare pays for chronic care, and over the next several years it could reshape what a routine check-in for high blood pressure or diabetes looks like. Whether it delivers on that promise will depend enormously on which organizations step up, how well the technology fits real people's lives, and whether CMS holds providers accountable to those outcome benchmarks. Talking with your doctor, a SHIP (State Health Insurance Assistance Program) counselor in your area, or a licensed Medicare counselor before enrolling is always a smart move, especially when something is this new.
 

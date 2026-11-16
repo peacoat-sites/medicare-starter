@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You've just retired, sitting across from an insurance agent, and they slide two brochures at you: Plan G and Plan N. Both promise to cover most of what Original Medicare leaves behind. Both look decent on paper. But the premiums differ, the out-of-pocket exposure differs, and the agent's watching the clock. You don't want to pick wrong and pay for it for years.
 
-I've seen this exact scenario play out hundreds of times over two decades helping seniors sort through Medicare options. The good news: once you understand what each plan actually does, the choice usually becomes much clearer.
+Once you understand what each plan actually does, the choice usually becomes much clearer.
 
 ## What Medigap Is and Why It Matters
 
@@ -73,7 +73,7 @@ Where Plan N differs:
 
 The premium savings are real. Depending on your age, location, and insurer, Plan N premiums run $20 to $60 or more per month less than Plan G. That's $240 to $720 a year.
 
-But do those savings beat the copays and excess charges? In my experience, healthy people who rarely see doctors often come out ahead with Plan N. People managing ongoing conditions, especially those seeing specialists frequently, often find Plan G the better deal because those $20 copays accumulate fast.
+But do those savings beat the copays and excess charges? Healthy people who rarely see doctors often come out ahead with Plan N. People managing ongoing conditions, especially those seeing specialists frequently, often find Plan G the better deal because those $20 copays accumulate fast.
 
 ## Side-by-Side Comparison
 
@@ -130,7 +130,7 @@ Some people genuinely sleep better knowing their coverage is airtight. If unexpe
 
 Here's something critical: when you enroll matters as much as which plan you choose. During your Medigap Open Enrollment Period (six months starting the month you're both 65 and enrolled in Part B), insurers can't reject you or charge more based on health history. You get Plan G or Plan N at the same rate as someone in perfect health.
 
-Outside that window, insurers in most states can use medical underwriting. They can ask about your health history, charge you more, or decline you altogether. This isn't a technicality. I've seen people wait a few years, develop a health condition, and then find they can't get Medigap coverage at any price.
+Outside that window, insurers in most states can use medical underwriting. They can ask about your health history, charge you more, or decline you altogether. This isn't a technicality. Waiting to enroll can backfire: develop a health condition, and you may find Medigap coverage unavailable at any price.
 
 If you're approaching Medicare eligibility, pay serious attention to this timing. Don't let plan comparisons distract you from enrolling at the right time. A good plan you can actually qualify for beats a great plan you can't get.
 

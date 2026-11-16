@@ -74,7 +74,7 @@ The 2022 FDA rule creating an over-the-counter hearing aid category genuinely ch
 
 For mild to moderate hearing loss in an otherwise healthy adult, OTC aids can work well. If you're straining to hear conversation in a restaurant or asking people to repeat themselves on the phone, an OTC device at $600 to $900 might do most of what a $4,500 prescription device would do.
 
-But OTC aids aren't appropriate for everyone. Severe or profound hearing loss, single-sided deafness, hearing loss associated with ear disease, and many cases involving tinnitus still require a licensed audiologist and prescription-grade technology. Fitting matters enormously. An incorrectly programmed or poorly fitted aid can actually make hearing worse, or cause discomfort significant enough that the device ends up in a drawer. (That's more common than the industry likes to admit, by the way. Studies suggest roughly a third of hearing aids go unworn.)
+But OTC aids aren't appropriate for everyone. Severe or profound hearing loss, single-sided deafness, hearing loss associated with ear disease, and many cases involving tinnitus still require a licensed audiologist and prescription-grade technology. Fitting matters enormously. An incorrectly programmed or poorly fitted aid can actually make hearing worse, or cause discomfort significant enough that the device ends up in a drawer. Roughly a third of hearing aids go unworn.
 
 Medicare Part B won't reimburse OTC aids any more than prescription ones. But the price difference makes the coverage gap sting less.
 

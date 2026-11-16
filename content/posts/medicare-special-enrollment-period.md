@@ -49,7 +49,7 @@ Two specific conditions matter. Pay attention.
 
 **Your SEP begins when either condition ends**: the employment ends, or the group health plan coverage ends, whichever comes first.
 
-Once that happens, you have eight months to enroll in Part B. Here's where people usually slip up. They think they have until the coverage actually terminates, but the clock starts the day employment ends, even if COBRA extends your insurance another 18 months. I've seen this catch smart, careful people who thought they had breathing room. They didn't.
+Once that happens, you have eight months to enroll in Part B. A common mistake is thinking you have until the coverage actually terminates, but the clock starts the day employment ends, even if COBRA extends your insurance another 18 months.
 
 Safest move: enroll in Part B before or during the month your group coverage ends. You can submit enrollment up to three months before coverage ends, which gives you the smoothest transition.
 

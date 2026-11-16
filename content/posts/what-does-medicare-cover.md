@@ -45,7 +45,7 @@ When you're admitted as an inpatient, Part A covers your room, meals, nursing ca
 
 Skilled nursing facility coverage works the same way. You need a qualifying inpatient hospital stay of at least three days first. Days 1 through 20 at a skilled nursing facility are covered in full. Days 21 through 100 require daily coinsurance. After day 100, Medicare pays nothing.
 
-I've watched clients get blindsided by that 100-day limit. They assumed Medicare would cover a long nursing home stay forever. It won't. Long-term custodial care, meaning help with bathing and dressing when you don't need skilled medical services, isn't covered at all. That's where Medicaid or [long-term care insurance](/what-medicare-does-not-cover/) takes over.
+Many people assume Medicare will cover a long nursing home stay indefinitely, but it won't. Long-term custodial care, meaning help with bathing and dressing when you don't need skilled medical services, isn't covered at all. That's where Medicaid or [long-term care insurance](/what-medicare-does-not-cover/) takes over.
 
 Hospice care is actually generous. If a doctor certifies a terminal illness with a life expectancy of six months or less, Medicare covers nearly all hospice services: nursing visits, pain management, counseling, family support. It happens at home or in a hospice facility, and out-of-pocket costs are minimal.
 

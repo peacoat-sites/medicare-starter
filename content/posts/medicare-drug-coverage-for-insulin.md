@@ -106,7 +106,7 @@ Not all Part D plans handle insulin the same way, even with the cap. Here's what
 
 The Medicare Plan Finder at Medicare.gov lets you enter all your drugs and compare actual estimated costs across every available plan in your zip code. Check it every Open Enrollment. Plans shuffle formularies and premiums yearly, and what worked last year may not this year.
 
-I've watched people auto-renew the same plan for five or six years running without comparing. Takes about 20 minutes, and I've seen clients pocket hundreds annually just by switching plans.
+A common mistake is auto-renewing the same plan year after year without comparing options. Taking about 20 minutes to review plans can uncover hundreds of dollars in annual savings by switching.
 
 ---
 
@@ -125,7 +125,6 @@ The rules around Medicare insulin coverage have never been better, and most peop
 - [The State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

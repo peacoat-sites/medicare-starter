@@ -38,7 +38,7 @@ Medical trend is real too, around 5-8% annually in recent years, but that's tabl
 
 There's also the insurer's loss ratio to consider. States require that insurance companies spend a certain percentage of premiums on actual claims (typically 65% for individual Medigap policies). If an insurer has been underpricing to gain market share, regulators may actually allow a steeper correction later. Some of the most aggressively priced plans in 2015-2018 came back to bite policyholders hard in subsequent years.
 
-I've seen this pattern repeat with enough regularity that I'd call it predictable. The plan that looks like the best deal at enrollment often isn't the best deal at year seven.
+A plan that looks like the best deal at enrollment often isn't the best deal at year seven.
 
 ## How Rating Methods Change Everything
 
@@ -49,8 +49,6 @@ I've seen this pattern repeat with enough regularity that I'd call it predictabl
 | Attained-age-rated | Yes, on every birthday | Medical trend + age factor (40-50% higher by age 80) | Younger enrollees only |
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Three ways insurers price Medigap plans exist, and this is where most coverage completely glosses over what matters.
 
@@ -74,11 +72,11 @@ The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes d
 
 ## The Shopping Window Problem
 
-Here's the thing most people don't know until it's too late: you don't have an annual Open Enrollment for Medigap the way you do for Medicare Advantage or Part D drug plans. Miss your Medigap Open Enrollment Period (the six months starting when you're 65 and enrolled in Part B), and switching plans later requires medical underwriting in most states.
+Unlike Medicare Advantage or Part D drug plans, you don't have an annual Open Enrollment for Medigap. Miss your Medigap Open Enrollment Period (the six months starting when you're 65 and enrolled in Part B), and switching plans later requires medical underwriting in most states.
 
 That means if your current insurer raises rates aggressively but you've developed diabetes, high blood pressure, or had a cardiac event since you enrolled, you may not be able to get a better rate elsewhere without being denied or charged more. You're stuck.
 
-This asymmetry matters enormously. Younger, healthier enrollees have more leverage. An aggressive rate increase at 68 is a different situation than the same increase at 76 with a few diagnoses on your chart.
+This asymmetry matters. Younger, healthier enrollees are in a stronger position. An aggressive rate increase at 68 is a different situation than the same increase at 76 with a few diagnoses on your chart.
 
 A few states do offer guaranteed issue rights for Medigap outside the normal window (Missouri, New York, Connecticut, Massachusetts, and Maine have various protections worth checking). And certain life events trigger guaranteed issue rights federally, like losing employer coverage or a plan leaving your service area. But for most people in most states, the window is narrow and the stakes of missing it are high.
 
@@ -106,7 +104,6 @@ The catch: if your plan G rate is rising because your insurer is having block-ag
 
 ---
 
-
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
@@ -120,7 +117,6 @@ The catch: if your plan G rate is rising because your insurer is having block-ag
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

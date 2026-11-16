@@ -25,7 +25,7 @@ faqs:
    a: "If your employer has 20 or more employees, it's actually illegal for them to offer you incentives to drop the group plan and take Medicare instead. The law prohibits large employers from doing anything that discourages active employees from enrolling in the group plan. If you're feeling that pressure, document it and consider reaching out to your State Health Insurance Assistance Program (SHIP) for free counseling."
 lastmod: 2026-07-08
 ---
-Sixty-five shows up whether you're ready for it or not. And if you're still working, still covered by your employer's health plan, and suddenly getting Medicare signup reminders in the mail, you've probably got that nagging feeling you're supposed to do *something* but have no idea what. I've watched that confusion turn into genuinely expensive mistakes, and I'd rather you not make them.
+Sixty-five shows up whether you're ready for it or not. And if you're still working, still covered by your employer's health plan, and suddenly getting Medicare signup reminders in the mail, you've probably got that nagging feeling you're supposed to do *something* but have no idea what. That confusion often leads to genuinely expensive mistakes, and they're worth avoiding.
 
 Let me be direct: the rules around Medicare and active employment coverage are genuinely complicated, and most of the generic advice floating around online doesn't account for the details that actually matter to your specific situation. So let's slow down and work through this together.
 
@@ -80,7 +80,7 @@ Fourth, your health situation. If you're managing a chronic condition or anticip
 
 AARP's Medicare resource center at [aarp.org](https://www.aarp.org/health/medicare-insurance/) has a good employer coverage coordination tool that walks through some of these scenarios. Free to use.
 
-One thing I'd push back on: the idea that you should always delay Medicare if you can. Often true, but not always. I've seen people carrying employer coverage with high deductibles and limited networks who would've been better off enrolling in Part B and letting Medicare pick up what the employer plan left behind. "You can wait" and "you should wait" are two different things.
+One thing I'd push back on: the idea that you should always delay Medicare if you can. Often true, but not always. People carrying employer coverage with high deductibles and limited networks may benefit from enrolling in Part B and letting Medicare pick up what the employer plan leaves behind. "You can wait" and "you should wait" are two different things.
 
 ## When You Finally Do Stop Working
 
@@ -107,7 +107,6 @@ The real takeaway: "I'm still working" doesn't mean you can ignore Medicare at 6
 - [aarp.org](https://www.aarp.org/health/medicare-insurance/)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

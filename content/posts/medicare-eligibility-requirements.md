@@ -98,7 +98,7 @@ This is the part I wish every pre-retiree understood years before turning 65. Pe
 
 There are legitimate exceptions. If you're covered by employer-sponsored health insurance through your own active employment or a spouse's active employment when you turn 65, you qualify for a Special Enrollment Period (SEP) when that coverage ends. That means you can delay Medicare without penalties. The key word is "active." Retiree insurance or COBRA coverage does not protect you from penalties the way active employer coverage does.
 
-I've seen people make this mistake with COBRA specifically. They leave a job at 65, take COBRA to bridge to Medicare, and assume they're protected. They're not. Enroll in Medicare when COBRA starts if you've reached 65.
+A common mistake with COBRA is leaving a job at 65, taking COBRA to bridge to Medicare, and assuming you're protected. You're not. Enroll in Medicare when COBRA starts if you've reached 65.
 
 ---
 

@@ -10,7 +10,7 @@ slug: "medicare-enrollment-deadline"
 affiliate_disclosure: true
 faqs:
  - q: "What happens if I miss my Medicare Initial Enrollment Period?"
-   a: "If you miss your IEP without a qualifying Special Enrollment Period, you can sign up during the General Enrollment Period (January 1 through March 31), but your coverage won't start until July 1. You'll also owe late enrollment penalties on Part B and possibly Part D, which are added to your premiums permanently."
+   a: "If you miss your IEP without a qualifying Special Enrollment Period, you can sign up during the General Enrollment Period (January 1 through March 31), and your coverage starts the first day of the month after you sign up. You'll also owe late enrollment penalties on Part B and possibly Part D, which are added to your premiums permanently."
  - q: "Can I sign up for Medicare before I retire if I'm still working at 65?"
    a: "Yes, and sometimes it makes sense. If your employer has fewer than 20 employees, Medicare is typically expected to be your primary insurance at 65, and you should enroll in both Part A and Part B during your IEP. If your employer has 20 or more employees and you're covered under an active employee plan, you have more flexibility to delay Part B without penalty."
  - q: "Does my spouse's employer coverage count to protect me from Medicare late penalties?"
@@ -29,12 +29,11 @@ Every year, someone calls me in a panic in late November, convinced they've alre
 
 Medicare deadlines are genuinely confusing, and I say that with zero condescension. The system has at least four distinct enrollment periods, each with different rules, different consequences for missing them, and different exceptions. Even people who work in healthcare get this wrong. So let's just go through it the right way.
 
-
 <div class="value-module">
  <div class="vm-head">Medicare Enrollment Periods Quick Reference</div>
  <div class="vm-body">
  <p class="vm-intro">This matrix shows each Medicare enrollment period, who it applies to, and the concrete consequences of missing it.</p>
- <table><caption>Medicare Enrollment Periods: Timing, Eligibility, and Penalties</caption><thead><tr><th>Enrollment Period</th><th>Who It's For</th><th>Window</th><th>What You Can Do</th><th>Consequence of Missing It</th></tr></thead><tbody><tr><td>[Initial Enrollment Period](/medicare-initial-enrollment-period/) (IEP)</td><td>People turning 65 or qualifying via disability</td><td>7 months: 3 months before birthday month through 3 months after</td><td>Enroll in Parts A, B, D, or Medicare Advantage</td><td>Part B: 10% premium penalty per 12-month period without coverage (permanent). Coverage gap until next General Enrollment.</td></tr><tr><td>General Enrollment Period (GEP)</td><td>People who missed their IEP and don't qualify for a Special Enrollment Period</td><td>January 1, March 31 each year</td><td>Enroll in Part A and/or Part B</td><td>Coverage doesn't start until July 1. Late penalties still apply.</td></tr><tr><td>Special Enrollment Period (SEP)</td><td>People with qualifying life events (e.g., losing employer coverage, moving)</td><td>Typically 8 months after employment or group coverage ends; varies by event</td><td>Enroll in Parts A, B, D, or Medicare Advantage without penalty</td><td>If you miss the SEP window, you wait for GEP and face potential penalties.</td></tr><tr><td>Annual Election Period (AEP)</td><td>Current Medicare beneficiaries</td><td>October 15, December 7 each year</td><td>Switch Medicare Advantage plans, switch to/from Original Medicare, change Part D plans</td><td>Stuck with current plan until next AEP (with limited exceptions).</td></tr><tr><td>Medicare Advantage Open Enrollment</td><td>People currently in a Medicare Advantage plan</td><td>January 1, March 31 each year</td><td>Switch to a different Advantage plan or return to Original Medicare + add Part D</td><td>No penalty, but no other opportunity to switch until next AEP.</td></tr></tbody></table>
+ <table><caption>Medicare Enrollment Periods: Timing, Eligibility, and Penalties</caption><thead><tr><th>Enrollment Period</th><th>Who It's For</th><th>Window</th><th>What You Can Do</th><th>Consequence of Missing It</th></tr></thead><tbody><tr><td>[Initial Enrollment Period](/medicare-initial-enrollment-period/) (IEP)</td><td>People turning 65 or qualifying via disability</td><td>7 months: 3 months before birthday month through 3 months after</td><td>Enroll in Parts A, B, D, or Medicare Advantage</td><td>Part B: 10% premium penalty per 12-month period without coverage (permanent). Coverage gap until next General Enrollment.</td></tr><tr><td>General Enrollment Period (GEP)</td><td>People who missed their IEP and don't qualify for a Special Enrollment Period</td><td>January 1, March 31 each year</td><td>Enroll in Part A and/or Part B</td><td>Coverage starts the month after you sign up. Late penalties still apply.</td></tr><tr><td>Special Enrollment Period (SEP)</td><td>People with qualifying life events (e.g., losing employer coverage, moving)</td><td>Typically 8 months after employment or group coverage ends; varies by event</td><td>Enroll in Parts A, B, D, or Medicare Advantage without penalty</td><td>If you miss the SEP window, you wait for GEP and face potential penalties.</td></tr><tr><td>Annual Election Period (AEP)</td><td>Current Medicare beneficiaries</td><td>October 15, December 7 each year</td><td>Switch Medicare Advantage plans, switch to/from Original Medicare, change Part D plans</td><td>Stuck with current plan until next AEP (with limited exceptions).</td></tr><tr><td>Medicare Advantage Open Enrollment</td><td>People currently in a Medicare Advantage plan</td><td>January 1, March 31 each year</td><td>Switch to a different Advantage plan or return to Original Medicare + add Part D</td><td>No penalty, but no other opportunity to switch until next AEP.</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -63,7 +62,7 @@ When that employer coverage ends, you get an eight-month [Special Enrollment Per
 
 I'd also caution you not to confuse "creditable coverage" with just having insurance. The IRS and Medicare definitions are specific. If your employer plan is considered creditable drug coverage (your plan administrator is required to tell you this in writing each year), you're protected. If it isn't, penalties can apply even if you technically had insurance. When in doubt, get that notice in writing and keep it somewhere you can actually find it.
 
-A reader emailed me a few months ago who had been on her husband's retiree health plan for three years, thinking that gave her protected status to delay Medicare. It didn't. She owed a late enrollment penalty of 10% added to her Part B premium for every 12-month period she was late. On a base premium of $185 per month (the 2025 standard Part B premium), even a two-year delay means you're paying roughly $222 a month instead. For the rest of your life. That's not a hypothetical. It's exactly how the penalty works.
+A common mistake is assuming that coverage under a spouse's retiree health plan provides protected status to delay Medicare. It doesn't. The late enrollment penalty is 10% added to the Part B premium for every 12-month period of delay. On a base premium of $185 per month (the 2025 standard Part B premium), even a two-year delay means paying roughly $222 a month instead. For the rest of your life. That's not a hypothetical. It's exactly how the penalty works.
 
 ## The Annual Enrollment Period Is Not Your Backup for Late Signups
 
@@ -73,7 +72,7 @@ The Annual Enrollment Period, or AEP, runs from October 15 to December 7 every y
 
 What AEP does not do: it doesn't let you sign up for Part B if you missed your IEP. It doesn't erase late enrollment penalties. It isn't a second chance at initial enrollment.
 
-The General Enrollment Period (GEP) is the mechanism for people who missed their IEP with no valid SEP. It runs January 1 through March 31 each year, and coverage starts July 1. That means if you missed your window and don't have an SEP, you could go without coverage for months. And you'll still owe the late enrollment penalty. The GEP is a safety valve, not a soft alternative to paying attention to your deadlines.
+The General Enrollment Period (GEP) is the mechanism for people who missed their IEP with no valid SEP. It runs January 1 through March 31 each year, and coverage starts the first day of the month after you sign up. That means if you missed your window and don't have an SEP, you could go without coverage until the next January. And you'll still owe the late enrollment penalty. The GEP is a safety valve, not a soft alternative to paying attention to your deadlines.
 
 [Medicare.gov](https://www.medicare.gov/) has a clear breakdown of all enrollment periods and their dates. Bookmark it if you're within two years of 65.
 
@@ -112,7 +111,6 @@ Deadlines feel abstract until they aren't. The people who end up paying penaltie
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [Medicare Plan Finder on Medicare.gov](https://www.medicare.gov/plan-compare/)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

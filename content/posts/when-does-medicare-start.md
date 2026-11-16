@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You turned 64 a few months ago, and suddenly your mailbox is drowning in Medicare mailers. Your neighbor swears you need to sign up at 65. Your HR department says something completely different. And your brother-in-law is certain you can wait until you retire, whenever that happens. Everyone has an opinion. Almost nobody agrees.
 
-Here's the thing: Medicare start dates are surprisingly personal, and getting the timing wrong can cost you real money in permanent penalties and coverage gaps.
+Medicare start dates are surprisingly personal, and getting the timing wrong can cost you real money in permanent penalties and coverage gaps.
 
 ## The Basic Rule: Medicare Eligibility Begins at 65
 
@@ -64,7 +64,7 @@ The practical takeaway: sign up early in your IEP, ideally in the three months b
 
 ## What Happens If You're Still Working at 65
 
-This is where I've seen the most confusion over the years, and honestly, the most expensive mistakes.
+This is where confusion often leads to expensive mistakes.
 
 If you're still working at 65 and covered by an employer health plan, you may be able to delay Medicare without penalty. The key word is "may." The rules depend entirely on how many people your employer has on payroll.
 
@@ -72,9 +72,9 @@ If you're still working at 65 and covered by an employer health plan, you may be
 
 **If your employer has fewer than 20 employees:** Medicare becomes primary, even if your employer offers group coverage. Delaying Medicare enrollment here can create a dangerous coverage gap because your employer plan may not pay claims that Medicare should have covered first.
 
-Here's the catch: COBRA coverage and retiree health coverage do not count as employer coverage for these purposes. If you're on COBRA and delay Medicare, you won't qualify for the SEP, and you could face late penalties.
+COBRA coverage and retiree health coverage do not count as employer coverage for these purposes. If you're on COBRA and delay Medicare, you won't qualify for the SEP, and you could face late penalties.
 
-I've seen clients accidentally enroll in COBRA after leaving a job, assume they were protected from Medicare penalties, and discover later they were wrong. When you leave employer coverage, sign up for Medicare promptly. Don't repeat that mistake.
+A common mistake is enrolling in COBRA after leaving a job while assuming it protects you from Medicare penalties. It doesn't. When you leave employer coverage, sign up for Medicare promptly.
 
 ## The Late Enrollment Penalty: Why Timing Really Matters
 
@@ -146,7 +146,6 @@ Getting your Medicare start date right is one of those things that's easy to ove
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

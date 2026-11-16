@@ -54,8 +54,6 @@ The exception worth knowing: if you're actively working and covered under a grou
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Medicare has four moving parts, and self-employed people need to think about all of them.
 
 **Part A** (hospital insurance) is free for most people because you paid into Medicare through self-employment taxes during your working years. If you've paid into Social Security and Medicare for at least 10 years (40 quarters), you owe nothing for Part A. Enroll at 65 regardless.
@@ -74,11 +72,11 @@ For self-employed people who have traveled for work, who live in multiple states
 
 The downside is real: a good Medigap policy costs money. A Plan G (the most popular option as of this year) runs somewhere in the range of $100-$200/month depending on your age, gender, location, and the insurer. That's on top of Part B. So you're looking at real monthly costs.
 
-Medicare Advantage plans often have $0 premiums beyond Part B, which is attractive. But you'll hit copays, deductibles, and network restrictions you didn't have to deal with before. I've seen self-employed people with Advantage plans get hit with $350 specialist copays they didn't expect.
+Medicare Advantage plans often have $0 premiums beyond Part B, which is attractive. But you'll hit copays, deductibles, and network restrictions you didn't have to deal with before. Self-employed people with Advantage plans may face $350 specialist copays they didn't anticipate.
 
 The honest answer: run the actual numbers for your situation. A local [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) counselor will do this with you for free, with no agenda to sell you anything. Use them. They're one of Medicare's best-kept secrets.
 
-**Concrete example:** Maria, a 65-year-old freelance consultant in Phoenix, chose a Plan G Medigap policy at $142/month plus $185 for Part B. Total: $327/month. Her Advantage-plan neighbor pays $185/month but hit $1,200 in out-of-pocket costs her first year from specialist visits. Maria paid nothing beyond her premiums. → Over 12 months, Maria paid $3,924; her neighbor paid $4,020. Similar outcome at low utilization, but Maria's protection scales much better if she gets seriously ill.
+**Example:** A Plan G Medigap policy at $142/month plus $185 for Part B totals $327/month. By contrast, an Advantage plan might cost $185/month but result in $1,200 in out-of-pocket costs in a year with specialist visits. Over 12 months, the Medigap enrollee pays $3,924; the Advantage enrollee pays $4,020. At low utilization the outcomes are similar, but Medigap protection scales much better if serious illness occurs.
 
 ## Enrollment Timing: Don't Miss Your Window
 
@@ -88,7 +86,7 @@ Self-employed people often miss this because they're heads-down in their work. P
 
 One more timing thing worth knowing: you can sign up for Medicare even if you're still working and generating self-employment income. Working past 65 doesn't delay your obligation to enroll if you don't have creditable employer coverage. A lot of self-employed people conflate "still working" with "I don't need Medicare yet." Not the same thing.
 
-**Example:** James, a 66-year-old self-employed plumber in Ohio, assumed he could wait because he was still working. He had no employer plan, only a marketplace policy. When he finally enrolled at 66, he owed a 10% permanent penalty on his Part B premium. At $185/month, that's an extra $18.50/month added permanently. Over 15 years of retirement, that's roughly $3,330 in unnecessary extra premiums.
+**Example:** A self-employed person with no employer plan who delays Part B enrollment past their initial enrollment period until age 66 incurs a 10% permanent penalty on the Part B premium. At $185/month, that adds $18.50/month permanently. Over 15 years of retirement, that amounts to roughly $3,330 in unnecessary extra premiums.
 
 ## What About Self-Employment Income and Premium Costs?
 
@@ -107,7 +105,6 @@ Also: the Part B premium is tax-deductible for self-employed individuals. So is 
 - [IRS Publication 535](https://www.irs.gov/publications/p535): Self-employed health insurance deduction rules, including Medicare premiums
 
 ---
-
 
 ---
 

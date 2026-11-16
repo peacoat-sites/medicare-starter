@@ -89,7 +89,7 @@ Plan G covers those excess charges. Plan N does not.
 
 Here's the practical question to ask yourself: do your current doctors and specialists accept Medicare as full payment? If you're not sure, check Medicare.gov's physician finder tool, or simply call your doctor's billing office and ask directly. If everyone you see is a participating provider, the excess charge gap between Plan G and Plan N may never affect you.
 
-I've seen clients avoid Plan G entirely because they confirmed that every provider they use accepts assignment, as it's called in Medicare language. If that's your situation, you're likely paying for a benefit in Plan G that you'll never use.
+If every provider you use accepts assignment, as it's called in Medicare language, you may want to avoid Plan G. If that's your situation, you're likely paying for a benefit in Plan G that you'll never use.
 
 ## What Plan N Typically Costs and Who Sells It
 
@@ -136,7 +136,6 @@ Buying a Medigap plan doesn't have to be complicated, but it does require some t
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
 - [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 *Submit your question via email or chat.*
 

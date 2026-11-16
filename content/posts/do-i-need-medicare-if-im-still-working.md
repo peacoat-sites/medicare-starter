@@ -41,13 +41,11 @@ If your employer has 20 or more employees, your group health insurance is consid
 
 If your employer has fewer than 20 employees, Medicare becomes primary, and your group plan becomes secondary. In that scenario, skipping Medicare Part B is a serious mistake. Your employer plan may actually deny claims that Medicare should have paid first, leaving you holding a bill you didn't see coming.
 
-I've watched this exact situation play out. A woman in her late 60s still working at a small dental office, figured she had good coverage through work and didn't bother with Medicare. Ended up with a $14,000 hospital bill her group plan refused to pay because they said Medicare should have been billed first. She hadn't enrolled. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) lays this coordination-of-benefits rule out clearly, but most HR departments at small employers don't flag it.
+A common mistake is assuming employer coverage is enough and skipping Medicare enrollment. When a non-Medicare-enrolled person with group insurance receives care, the group plan may refuse to pay and require Medicare to be billed first, leaving the patient responsible for large bills. This coordination-of-benefits rule is especially costly for people still working at small employers. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) lays this coordination-of-benefits rule out clearly, but most HR departments at small employers don't flag it.
 
 ## Part A: Almost Always Say Yes
 
 > **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Part A covers hospital stays, skilled nursing facility care, and some home health. For most people, it's premium-free (you or your spouse paid Medicare taxes for at least 10 years). There's almost no reason to delay Part A.
 
@@ -69,7 +67,7 @@ Here's a realistic comparison of how the math shakes out depending on your situa
 | Self-employed with no other coverage | Enroll | Enroll | Depends on plan type | Late penalty guaranteed if you skip |
 | COBRA after leaving large employer | Enroll | Enroll within 8 months of leaving job | No | COBRA doesn't count as current employer coverage |
 
-That last row trips people up constantly. COBRA coverage after you leave a job does not protect you from Medicare's late enrollment penalty. Your Special Enrollment Period clock starts when your active employment ends, not when your COBRA ends. I've seen people on COBRA for 18 months thinking they were covered, then discover they owe years of penalties.
+That last row trips people up constantly. COBRA coverage after you leave a job does not protect you from Medicare's late enrollment penalty. Your Special Enrollment Period clock starts when your active employment ends, not when your COBRA ends. People on COBRA for 18 months may assume they are covered, then discover they owe years of penalties.
 
 ## The COBRA Trap and Other Classic Mistakes
 
@@ -113,7 +111,6 @@ Also worth saying clearly: turning 65 is not the same thing as Medicare being au
 - Social Security Administration: Automatic enrollment rules for those already receiving benefits.
 
 ---
-
 
 ---
 

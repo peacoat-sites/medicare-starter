@@ -48,8 +48,6 @@ That's worth sitting with for a second, because it's a real divergence from conv
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's a scenario I've seen cause real headaches: a retiree splits time between, say, Pittsburgh and Sarasota. They enroll in a Florida-based Medicare Advantage HMO (Health Maintenance Organization, meaning you generally need to use in-network providers) because the premium is $0 and the plan looks fantastic. Then they're in Pennsylvania for five months and need a specialist. Suddenly they're out-of-network. Suddenly the savings evaporate.
 
 This isn't a rare edge case. Florida has enormous numbers of people who winter here and live elsewhere. If that's you, the choice between Medicare Advantage and Original Medicare with a Medigap supplement isn't just about costs. It's about geography. Original Medicare works everywhere in the country that accepts Medicare (which is most providers). A well-chosen Medigap plan travels with you. An HMO generally does not.
@@ -84,8 +82,6 @@ AARP's Medicare resource center (aarp.org/health/medicare-insurance/) has solid 
 
 ## Special Enrollment Situations Florida Retirees Face
 
-Two enrollment traps come up more often with Florida retirees than anywhere else I've worked.
-
 The first involves people moving to Florida from another state after retirement. If you're already enrolled in Medicare and relocating, you may have a Special Enrollment Period (SEP) that lets you switch plans. What people miss is that moving to a new county in Florida can also trigger an SEP if you're in an MA plan, because your plan's service area may not include your new county. Don't assume your coverage travels across the state.
 
 The second trap is late enrollment penalties. Medicare Part B (medical insurance) and Part D both carry permanent late enrollment penalties if you don't sign up when you're first eligible and don't have qualifying coverage elsewhere. I've met retirees who delayed Part B enrollment because they were healthy and didn't want the premium, and who are now paying 10% more per year of delay, permanently. There's no statute of limitations on that penalty. It follows you for life.
@@ -103,7 +99,6 @@ The income and asset thresholds for these programs are more generous than most p
 Call your local SHINE counselor, or apply through the Social Security Administration for Extra Help. Both are free. Neither requires going through an insurance agent.
 
 ---
-
 
 ---
 
@@ -123,7 +118,6 @@ It isn't. Review your coverage every year. Use the free counseling. And don't le
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
 - [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

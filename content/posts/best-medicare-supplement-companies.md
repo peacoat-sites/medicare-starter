@@ -55,7 +55,7 @@ If Medicare itself still feels fuzzy, our guide on [how Medicare works](/how-doe
 | Plan Availability | Confirm coverage in your state | Not all companies sell everywhere |
 | Regional Pricing | Get quotes in your ZIP code | Same plan varies 50%+ between carriers |
 
-Before I list names, here's the evaluation framework I've used with clients for years. Reputation alone isn't enough. Four specific factors matter.
+Here's the evaluation framework to consider when comparing carriers. Reputation alone isn't enough. Four specific factors matter.
 
 **AM Best financial strength rating.** AM Best rates insurance companies exclusively. You want A (Excellent) or better. A- is acceptable. B+ raises red flags for me on a long-term policy.
 
@@ -73,7 +73,7 @@ There's no single "best" Medigap company for everyone. What I can tell you is wh
 
 **AARP/UnitedHealthcare.** Largest Medigap insurer in the country by enrollment. AARP's the brand. UnitedHealthcare underwrites the policies. Strong AM Best ratings, plans available all 50 states, household discounts typically 5-11%. Their catch: higher base premiums than some competitors in many markets. They use community-rated pricing in most states, which can actually benefit you as you age.
 
-**Mutual of Omaha.** This is the carrier I've seen win on price most often in mid-sized markets. Operating since 1909, A+ AM Best rating, solid customer service track record. Their Plan G and Plan N options frequently land among the most competitive prices. Household discounts available in many states.
+**Mutual of Omaha.** This carrier frequently offers competitive pricing in mid-sized markets. Operating since 1909, A+ AM Best rating, solid customer service track record. Their Plan G and Plan N options frequently land among the most competitive prices. Household discounts available in many states.
 
 **Cigna.** Cigna doesn't own the Medigap market like UnitedHealthcare, but they've earned respect for financial strength and quick claim payment. Pricing is surprisingly competitive in some states. Include them in any quote roundup.
 

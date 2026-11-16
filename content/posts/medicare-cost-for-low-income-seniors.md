@@ -25,7 +25,7 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 lastmod: 2026-07-08
 ---
-Most people assume Medicare is either free or close to it once you hit 65. I've spent two decades watching that assumption cost seniors real money, sometimes thousands of dollars a year that they never had to spend.
+Most people assume Medicare is either free or close to it once you hit 65. This assumption often costs seniors real money, sometimes thousands of dollars a year that they never had to spend.
 
 Here's what almost nobody tells you upfront: if your income is low enough, you might qualify for programs that pay your Medicare premiums, cover your deductibles and copays, and even help with your prescriptions. Completely. Not partially. All of it. And yet, according to Medicare.gov, millions of eligible people never apply because they simply don't know these programs exist.
 
@@ -110,7 +110,7 @@ It depends on the program. Extra Help has asset limits of $17,220 for an individ
 
 For Medicare Savings Programs, rules vary state to state. Some states ditched asset tests entirely for MSPs, which was huge. Others still use them but the thresholds are often higher than people expect.
 
-Don't assume you're ineligible without checking. I've watched people leave money on the table for years because they guessed wrong.
+Don't assume you're ineligible without checking. Many people leave money on the table for years because they guess wrong about their eligibility.
 
 ---
 
@@ -128,7 +128,6 @@ The programs work. The savings are real. The barriers to applying are smaller th
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

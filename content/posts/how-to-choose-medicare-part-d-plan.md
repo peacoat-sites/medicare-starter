@@ -93,7 +93,7 @@ One important change took effect in 2024 and 2025 under the Inflation Reduction 
 
 ## The Late Enrollment Penalty Nobody Warns You About
 
-I can't tell you how many people I've seen blindsided by this one. If you don't enroll in Part D when you're first eligible and you go without creditable prescription drug coverage for 63 or more consecutive days, Medicare adds a permanent penalty to your premium for as long as you have Part D.
+A common mistake is missing the Part D enrollment deadline. If you don't enroll in Part D when you're first eligible and you go without creditable prescription drug coverage for 63 or more consecutive days, Medicare adds a permanent penalty to your premium for as long as you have Part D.
 
 The penalty is calculated as 1% of the national base beneficiary premium multiplied by every month you went without coverage. It doesn't expire. A one-year gap could mean a 12% permanent increase to your Part D premium, every year, for the rest of your life.
 
@@ -105,7 +105,7 @@ If you're still working at 65 and covered under your employer's plan, ask your H
 
 The Medicare Plan Finder is excellent, but it has limits. If you take many medications, have complex health needs, or are choosing between Original Medicare with a Part D plan versus a Medicare Advantage plan that includes drug coverage, the decision deserves a conversation with a trained counselor.
 
-The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased counseling in every state. SHIP counselors aren't selling anything. They sit down with you, look at your specific drug list, and help you compare your real options. In my experience, a single 45-minute session with a SHIP counselor can save someone hundreds of dollars a year. You can find your local SHIP office at shiphelp.org.
+The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased counseling in every state. SHIP counselors aren't selling anything. They sit down with you, look at your specific drug list, and help you compare your real options. You can find your local SHIP office at shiphelp.org.
 
 You can also work with a licensed insurance broker who specializes in Medicare. A good broker can be enormously helpful, but make sure you understand they're typically compensated by the insurance companies whose plans they sell. That doesn't mean their advice is bad, but it's worth knowing. Ask them upfront whether they represent all carriers in your area or just a few.
 

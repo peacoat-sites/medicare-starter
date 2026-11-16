@@ -112,7 +112,7 @@ Your Medigap Open Enrollment Period starts the first month you are both 65 or ol
 
 After that window closes, insurers in most states can use medical underwriting. That means they can ask about your health history, charge more based on conditions you have, or deny your application outright. Heart disease, diabetes, COPD, prior cancer treatment, all of those can affect your ability to get Plan G at a favorable rate or at all.
 
-I've seen people wait a year after turning 65 to sign up for Part B because they were still working, then discover their employer coverage ended in a way that didn't trigger a Special Enrollment Period for guaranteed-issue Medigap protections. The result was either a higher premium or a denial. Timing this correctly, especially if you're retiring later, requires careful planning. A licensed Medicare counselor or a State Health Insurance Assistance Program (SHIP) counselor can help you map out your specific situation at no cost.
+Waiting to sign up for Part B after turning 65 while still working can create problems if employer coverage ends without triggering a Special Enrollment Period for guaranteed-issue Medigap protections. This may result in higher premiums or a coverage denial. Timing this correctly, especially if you're retiring later, requires careful planning. A licensed Medicare counselor or a State Health Insurance Assistance Program (SHIP) counselor can help you map out your specific situation at no cost.
 
 ## Is Plan G Right for You?
 
@@ -139,7 +139,6 @@ Plan G isn't magic, and no insurance policy is. But for the right person, especi
 - [Medicare.gov](https://www.medicare.gov/)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

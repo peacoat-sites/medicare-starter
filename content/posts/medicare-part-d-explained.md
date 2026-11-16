@@ -111,7 +111,7 @@ People who've had Part D for years still fall into predictable pitfalls.
 
 ---
 
-Part D isn't the simplest Medicare benefit, but it's one of the most financially important, especially as people manage multiple chronic conditions. Spending a few hours each fall to compare options, check your formulary, and verify your pharmacy network can save you hundreds or thousands of dollars. If you feel overwhelmed, a free SHIP counselor in your state can help, or ask your pharmacist to review your plan with you. You don't have to do this alone.
+Part D is financially important, especially for people managing multiple chronic conditions. Spending a few hours each fall to compare options, check your formulary, and verify your pharmacy network can save you hundreds or thousands of dollars. If you feel overwhelmed, a free SHIP counselor in your state can help, or ask your pharmacist to review your plan with you. You don't have to do this alone.
 
 *Always consult a licensed insurance professional or certified Medicare counselor before making enrollment decisions. Medicare rules and costs change annually, and individual circumstances vary.*
 
@@ -128,7 +128,6 @@ Part D isn't the simplest Medicare benefit, but it's one of the most financially
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

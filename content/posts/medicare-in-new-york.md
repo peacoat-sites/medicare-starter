@@ -54,7 +54,7 @@ New York is one of a tiny handful of states with guaranteed issue and community 
 
 The practical consequence is significant. If you've been on Medicare Advantage and want to switch to Original Medicare plus a Medigap plan, you can do that in New York at any time of year. In other states, that switch could leave you uninsurable or facing sky-high premiums if you have conditions like diabetes or heart disease. In New York, the insurer has to take you.
 
-I've seen people in their late 70s with serious health conditions switch from an Advantage plan to a Medigap Plan G and dramatically reduce their total out-of-pocket costs. That option is legally protected here. Take advantage of it.
+Switching from an Advantage plan to a Medigap Plan G can significantly reduce total out-of-pocket costs for people in their late 70s with serious health conditions. That option is legally protected here. Take advantage of it.
 
 The most popular Medigap plans in New York right now are Plan G and Plan N. Plan G covers almost everything Original Medicare doesn't, except the Part B deductible ($240 in 2024). Plan N covers most of the same things but requires small copays for some office visits and doesn't cover Part B excess charges. Plan G tends to run roughly $150 to $300 per month in New York depending on the insurer and your borough or county, though prices vary enough that shopping around genuinely matters. Plan N runs lower, often in the $100 to $200 range.
 
@@ -65,8 +65,6 @@ One thing worth knowing: New York also still offers Plan C and Plan F to people 
 New York City in particular has one of the most competitive Medicare Advantage (Part C) markets in the country. You'll see plans from UnitedHealthcare, Aetna, Humana, EmblemHealth, MetroPlus, VNS Health (formerly VNSNY CHOICE), and others competing hard for enrollees, which often means $0 premium plans with extra benefits like dental, vision, hearing coverage, and gym memberships.
 
 That sounds great. For some people, especially those who are generally healthy, stay within one borough, and have predictable medical needs, a well-chosen Advantage plan can work out cheaper than Original Medicare plus a Medigap plan.
-
-But I want to be honest about what I've seen go wrong.
 
 Medicare Advantage plans use provider networks. HMO plans (Health Maintenance Organizations) require you to use in-network doctors and get referrals. PPO plans (Preferred Provider Organizations) give you more flexibility but still cost more when you go out of network. If you have a specialist you've been seeing for years and that doctor leaves the plan's network, you're either losing your doctor or paying more. This happens more than the TV commercials suggest.
 

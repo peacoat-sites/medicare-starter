@@ -85,7 +85,7 @@ After that window closes, insurers in most states can reject you, or charge you 
 
 I lean toward telling people to take this window seriously. If you're 65 and healthy, you might look at Medigap Plan G premiums and think "why am I paying $150 to $200 a month when I feel fine?" But the point of that window is to lock in coverage before you're not fine. People who buy Medigap at 65 and then develop a serious illness in their 70s are extremely glad they did. People who try to switch to Medigap after a cancer diagnosis often can't.
 
-Medicare Advantage has lower upfront premiums, dental, vision, sometimes a gym membership. The tradeoff: network restrictions and prior authorization requirements tend to bite harder as your healthcare needs increase. Not a universal truth, but a pattern I've seen repeatedly.
+Medicare Advantage has lower upfront premiums, dental, vision, sometimes a gym membership. The tradeoff: network restrictions and prior authorization requirements tend to bite harder as your healthcare needs increase. Network restrictions and prior authorization requirements tend to become more burdensome as healthcare needs increase.
 
 For an independent comparison of Medigap plans, the [*Medicare Supplement Insurance* book from NOLO](https://www.nolo.com/) is genuinely useful. (Note: this site may earn a commission on purchases.) For free, unbiased help with zero financial incentives, your state's [SHIP (State Health Insurance Assistance Program)](https://www.shiphelp.org/) offers one-on-one counseling at no charge. These are trained volunteers who have no stake in what you choose.
 

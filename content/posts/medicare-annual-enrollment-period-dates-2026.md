@@ -44,13 +44,13 @@ Here's what you can do during AEP:
 
 What you can't do during AEP is change your Medicare Supplement Insurance, also called Medigap. Medigap operates on different rules. In most states, insurers can require medical underwriting outside of specific guaranteed-issue windows, so if you want to switch Medigap plans, that's a separate conversation that typically requires talking to an insurance agent or your State Health Insurance Assistance Program counselor first.
 
-I've had clients sit down with me convinced they could use AEP to grab a better Medigap plan, and the disappointment when they learn otherwise is real. Don't let that be a surprise for you.
+A common misconception is that Annual Enrollment Period (AEP) can be used to switch to a better Medigap plan. It can't. Don't let that be a surprise for you.
 
 ---
 
 ## Why 2026 Is a Year Worth Paying Close Attention To
 
-Every year brings changes to Medicare plans, but some years matter more than others. Plans adjust their formularies (the list of covered drugs), alter their copays and deductibles, add or remove providers from their networks, and sometimes exit a service area entirely. Sitting on your hands and assuming "nothing will change" is one of the costlier mistakes I've watched seniors make.
+Every year brings changes to Medicare plans, but some years matter more than others. Plans adjust their formularies (the list of covered drugs), alter their copays and deductibles, add or remove providers from their networks, and sometimes exit a service area entirely. Assuming nothing will change is one of the costlier mistakes seniors make.
 
 For 2026, a few things are worth keeping on your radar. The Medicare Part D landscape continues to shift following the Inflation Reduction Act's phased changes. The $2,000 annual out-of-pocket cap on Part D drug costs, which officially took effect in 2025, means drug plan designs are restructuring across the board. Premiums, deductibles, and tier placements for specific drugs are shifting as plans adjust their benefits to account for this cap. A plan that was perfect for your prescriptions in 2025 might cost you significantly more in 2026.
 
@@ -117,7 +117,7 @@ Knowing what not to do is just as useful as knowing what to do.
 
 **Waiting until the last week.** December 7 has a way of sneaking up on people. Phone lines get busy, plan websites get slow, and if something goes wrong with your enrollment you'll want time to fix it. Aim to make your decision by late November.
 
-**Only looking at the monthly premium.** I've seen people switch to a "cheaper" plan and spend thousands more than they expected because they didn't account for drug tier costs or higher specialist copays. Always look at your estimated total annual cost, not just the premium.
+**Only looking at the monthly premium.** People sometimes switch to a cheaper plan only to spend thousands more than expected because they didn't account for drug tier costs or higher specialist copays. Always look at your estimated total annual cost, not just the premium.
 
 **Assuming your doctor is still in-network.** Provider networks change every year. Before you re-enroll in a Medicare Advantage plan, call your doctor's office directly and confirm they'll still be accepting that specific plan in 2026. Don't rely on the plan's online directory alone.
 
@@ -142,7 +142,6 @@ The October 15 start date will arrive before you know it. Getting your informati
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
-
 
 *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

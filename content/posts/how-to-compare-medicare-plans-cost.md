@@ -69,8 +69,6 @@ Check our [Medicare plan comparison guide](/medicare-plan-comparison) to see how
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is the step most comparison articles gloss over, so I'm going to be specific.
 
 Start at [Medicare.gov](https://www.medicare.gov/). The Plan Finder tool there is genuinely good, and it's official, so the information is required to be accurate. You'll enter your ZIP code, your drugs (name, dosage, frequency), and your pharmacy. The tool will show you estimated annual costs across available plans, not just premiums. That total estimated cost figure is the one you should be ranking plans by.
@@ -99,11 +97,11 @@ Start comparing your own numbers using Medicare's official Plan Finder at [Medic
 
 Network restrictions aren't a premium line item, but they have a real dollar value.
 
-Medicare Advantage plans are built around networks, either HMO (Health Maintenance Organization) or PPO (Preferred Provider Organization) structures. If your specialist isn't in-network, you may pay dramatically more or be denied coverage altogether. I've seen people switch to a $0-premium Advantage plan and then spend $800 out-of-pocket at an out-of-network specialist they'd been seeing for years because they didn't check the directory first.
+Medicare Advantage plans are built around networks, either HMO (Health Maintenance Organization) or PPO (Preferred Provider Organization) structures. If your specialist isn't in-network, you may pay dramatically more or be denied coverage altogether. For example, someone might switch to a $0-premium Advantage plan and then face $800 out-of-pocket costs at an out-of-network specialist they'd been seeing for years because they didn't check the directory first.
 
 Dental, vision, and hearing are another category that makes cost comparisons complicated. Original Medicare covers essentially none of this. Many Advantage plans advertise dental and vision benefits, which sounds great, but read the fine print carefully. A plan might offer "$1,000 in dental benefits" that covers only preventive care and basic fillings, with a separate waiting period for major work. If you need a crown or hearing aids, that "benefit" might not help much.
 
-Dr. Patricia Newell, a geriatric care specialist with 17 years of practice in Florida who advises patients on Medicare decisions annually, told me: "The number one thing I tell my patients is to price out their specific situation, not the average situation. Age 65 and age 75 look completely different from a health cost standpoint, and a plan that's perfect at 65 can become a financial burden by 70."
+Price out your specific situation, not the average situation. Age 65 and age 75 look completely different from a health cost standpoint, and a plan that's perfect at 65 can become a financial burden by 70.
 
 That's a point I can't make strongly enough. Your health needs will change, and Part C plans, while often cheaper when you're healthy, can become harder to leave if you develop a complex condition that requires out-of-network specialists.
 
@@ -136,7 +134,6 @@ Build your short list of plans to compare before your SHIP appointment using the
 - JAMA Internal Medicine, "Out-of-Pocket Spending Among Medicare Beneficiaries" (2022): Peer-reviewed analysis of how out-of-pocket costs vary by plan type and health status.
 
 ---
-
 
 ---
 

@@ -39,15 +39,13 @@ Here's what I tell people in this situation first: the rules depend almost entir
 
 Your employer's size is the single most important fact you need to know before you make any Medicare decision at 65. If the company you work for has 20 or more employees, your employer-sponsored health plan is considered the "primary" payer, meaning it pays first on your claims, and Medicare would only pay second. In that situation, you generally have real options, and delaying Medicare enrollment is often perfectly fine.
 
-If your employer has fewer than 20 employees, Medicare becomes the primary payer the moment you're eligible, even if you haven't enrolled. That means your employer plan may start paying as if Medicare had already covered its share, leaving you responsible for a chunk of your bills that Medicare would have covered if you'd actually enrolled. This catches people off guard constantly, and it's one of the most expensive mistakes I've seen.
+If your employer has fewer than 20 employees, Medicare becomes the primary payer the moment you're eligible, even if you haven't enrolled. That means your employer plan may start paying as if Medicare had already covered its share, leaving you responsible for a chunk of your bills that Medicare would have covered if you'd actually enrolled. This catches people off guard constantly, and it's one of the most expensive mistakes you can make.
 
 So before you do anything else, ask your HR department two questions: how many employees does this company have, and does the plan pay primary or secondary to Medicare? Get the answer in writing if you can.
 
 ## What "Delaying Medicare" Actually Means (And Doesn't Mean)
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Assuming you work for a company with 20 or more employees, you can delay Medicare enrollment past 65 without penalty, but only certain parts of it.
 
@@ -87,7 +85,6 @@ Plan this piece at least a few months ahead. Don't treat it as an afterthought.
 
 ---
 
-
 ---
 
 Getting this right is genuinely worth the time it takes. The rules aren't simple, but they're learnable, and the stakes are real enough that you don't want to guess. If you're uncertain about your specific situation, a SHIP counselor is one of the best resources available to you, completely free of charge. You don't have to sort this out alone.
@@ -104,7 +101,6 @@ Getting this right is genuinely worth the time it takes. The rules aren't simple
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

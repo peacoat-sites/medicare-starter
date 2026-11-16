@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 Most people spend more time choosing a Netflix subscription than comparing Medicare Part D plans. I'll be honest: I used to find that statistic hard to believe. Then I watched a close friend pay nearly $400 more per month than necessary for her prescriptions because she simply re-enrolled in the same plan she'd had for three years without checking whether it still made sense for her. That $400 difference wasn't because one plan was a scam and the other was a steal. It was because drug formularies change, premiums shift, and what worked perfectly last October may be quietly working against you by January. If you have Medicare and you take even one prescription medication, what I found when I dug into how Part D comparisons actually work might genuinely change what you do this fall.
 
-
 <div class="value-module">
  <div class="vm-head">Annual Cost Comparison Worksheet</div>
  <div class="vm-body">
@@ -57,7 +56,7 @@ There are five cost components that interact with each other, and you've got to 
 
 **3. Copays and coinsurance by tier.** Every Part D plan organizes drugs into tiers, typically four or five. Tier 1 is usually preferred generics, tier 2 is non-preferred generics, tier 3 is preferred brand-name drugs, and so on up to specialty medications, which can carry coinsurance (a percentage of the drug's cost) rather than a flat copay. The plan that looks cheapest on paper may place your specific drug on tier 4 instead of tier 2, and that changes everything.
 
-**4. The formulary.** This is the list of drugs the plan actually covers. Not every plan covers every drug. Even if a plan covers your medication, it may require [prior authorization, step therapy](/how-to-choose-medicare-part-d-plan/) (meaning you have to try a cheaper drug first), or quantity limits. I've seen people enroll in a plan only to discover their rheumatologist's preferred biologic isn't on the formulary at all.
+**4. The formulary.** This is the list of drugs the plan actually covers. Not every plan covers every drug. Even if a plan covers your medication, it may require [prior authorization, step therapy](/how-to-choose-medicare-part-d-plan/) (meaning you have to try a cheaper drug first), or quantity limits. Some people enroll in a plan only to discover their doctor's preferred drug isn't on the formulary at all.
 
 **5. Pharmacy network.** Most plans have preferred pharmacies where your copays are lower. If your plan's preferred pharmacy isn't near you, or if you use a mail-order service you prefer, your effective cost changes. Some plans offer $0 copays at preferred pharmacies for generic drugs. Others charge the same whether you use preferred or non-preferred pharmacies, which might actually be better if flexibility matters to you.
 

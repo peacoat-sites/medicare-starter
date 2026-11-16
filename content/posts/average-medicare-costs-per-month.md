@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people walk into Medicare assuming it's free. I've watched that assumption cost retirees hundreds of dollars a month in surprise premiums, cost-sharing, and uncovered services they didn't see coming. Let me save you that particular frustration.
+Most people walk into Medicare assuming it's free. That assumption often costs retirees hundreds of dollars a month in surprise premiums, cost-sharing, and uncovered services. Understanding how Medicare actually works can help you avoid this.
 
 Here's the actual picture: Medicare is not one thing with one price. It's a system with multiple parts, each with its own premium, deductible, and cost-sharing rules. What you pay every month depends heavily on which parts you have, what you earn, and whether you've made a few key enrollment decisions correctly. I'll walk you through each piece, starting with the numbers that matter most right now.
 
@@ -51,13 +51,11 @@ But "free premium" doesn't mean free. Part A has a per-benefit-period deductible
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. This is where your monthly cash actually leaves your wallet.
 
 The standard Part B premium is currently around $185 a month per person. That's the number to work with if your income is at or below $106,000 as an individual (or $212,000 if you're married filing jointly). If you earn more than that, you'll pay more. A lot more, actually.
 
-This is where [IRMAA comes in](/irmaa-medicare-surcharge-2026/). IRMAA stands for Income-Related Monthly Adjustment Amount, and it's a surcharge that the Social Security Administration (SSA) tacks onto your Part B premium based on your income from two years prior. So what you pay in 2026 is based on your 2024 tax return. At the highest income tier, Part B alone can cost over $590 a month per person. I've seen people genuinely shocked by this. They retired, their income dropped significantly, and they're still paying a surcharge based on the year they were still working full-time. You can appeal this using Form SSR-44 if you've had a qualifying life event like retirement, divorce, or death of a spouse. Most people don't know they can do that.
+This is where [IRMAA comes in](/irmaa-medicare-surcharge-2026/). IRMAA stands for Income-Related Monthly Adjustment Amount, and it's a surcharge that the Social Security Administration (SSA) tacks onto your Part B premium based on your income from two years prior. So what you pay in 2026 is based on your 2024 tax return. At the highest income tier, Part B alone can cost over $590 a month per person. Many retirees are surprised to learn they're paying a surcharge based on income from when they were working full-time, even after their income has dropped significantly in retirement. You can appeal this using Form SSR-44 if you've had a qualifying life event like retirement, divorce, or death of a spouse.
 
 Part B also has an annual deductible (currently around $257), and after that you typically pay 20% of Medicare-approved costs. No cap on that 20%, by the way. That's where supplemental insurance comes in, which I'll get to.
 
@@ -107,10 +105,9 @@ Higher earners with IRMAA surcharges can easily see Part B and D combined exceed
 
 ---
 
-
 ---
 
-One thing I'd add before you go: Medicare costs in retirement are almost always higher than people project. Building a realistic number into your retirement income planning, before you need it, is worth the uncomfortable math. The people I've seen handle this well almost always did the homework early.
+One thing I'd add before you go: Medicare costs in retirement are almost always higher than people project. Building a realistic number into your retirement income planning, before you need it, is worth the uncomfortable math.
 
 ---
 
@@ -124,7 +121,6 @@ One thing I'd add before you go: Medicare costs in retirement are almost always 
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

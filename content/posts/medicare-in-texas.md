@@ -47,9 +47,9 @@ Texas is a massive market, and insurance companies know it. In the Houston metro
 
 Medicare Advantage (also called Part C) is the all-in-one alternative to Original Medicare. You get your Part A and B coverage through a private insurer instead of directly through the federal government, and most plans bundle Part D (prescription drug coverage) along with extras like dental, vision, and hearing. Many Texas MA plans carry $0 monthly premiums.
 
-Here's the thing nobody tells you: those $0 premium plans make money through copays, coinsurance, and narrow networks. I've seen Texas seniors pick a plan and then discover their preferred cardiologist isn't in-network. In a state where driving 100 miles to a specialist isn't unusual, network design matters enormously. Before you choose any MA plan, call your doctors' offices directly and ask if they accept that specific plan. Don't just trust the insurer's online directory; those are notoriously out of date.
+Those $0 premium plans make money through copays, coinsurance, and narrow networks. A senior might pick a plan only to discover their preferred cardiologist isn't in-network. In a state where driving 100 miles to a specialist isn't unusual, network design matters enormously. Before you choose any MA plan, call your doctors' offices directly and ask if they accept that specific plan. Don't just trust the insurer's online directory; those are notoriously out of date.
 
-What surprised me when I started comparing Texas Medicare Advantage plans closely is how much they vary by county. A plan available in Travis County may not be offered one county over. CMS maintains plan data at [medicare.gov/plan-compare](https://www.medicare.gov/plan-compare), and it's genuinely the best starting point for seeing what's in your zip code.
+Texas Medicare Advantage plans vary significantly by county. A plan available in Travis County may not be offered one county over. CMS maintains plan data at [medicare.gov/plan-compare](https://www.medicare.gov/plan-compare), and it's genuinely the best starting point for seeing what's in your zip code.
 
 ## Medicare Supplement (Medigap) Plans in Texas
 
@@ -75,7 +75,7 @@ Part D plans are where I see the most "set it and forget it" behavior, and it co
 
 In 2024, the Medicare Part D out-of-pocket cap changed significantly: once you hit $8,000 in out-of-pocket drug costs, you pay nothing for the rest of the year. The old "donut hole" structure is largely gone. That's a meaningful protection, especially for Texans on expensive specialty medications.
 
-Every year during Open Enrollment (October 15 through December 7), run your specific drug list through [medicare.gov/plan-compare](https://www.medicare.gov/plan-compare). I've seen people save $800 to $1,200 annually just by switching Part D plans during open enrollment. The math changes every year because drug formularies change every year.
+Every year during Open Enrollment (October 15 through December 7), run your specific drug list through [medicare.gov/plan-compare](https://www.medicare.gov/plan-compare). Switching Part D plans during open enrollment can save $800 to $1,200 annually. The math changes every year because drug formularies change every year.
 
 ## Help Paying for Medicare in Texas: Programs Most People Miss
 

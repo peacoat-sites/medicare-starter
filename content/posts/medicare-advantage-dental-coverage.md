@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Your dentist says you need a crown and a root canal. You hand over your Medicare Advantage card, feeling relieved. The front desk clerk shakes her head. "That's covered up to $1,000 a year total, and you've already spent $600 on cleanings."
 
-Thousands of seniors hit this wall every year. The brochure made it sound great. The reality is messier.
+Thousands of seniors hit this wall every year. The brochure made it sound great. The actual coverage is more limited.
 
 ## What Original Medicare Doesn't Cover (And Why That Matters)
 
@@ -35,7 +35,7 @@ Original Medicare, the traditional Part A and Part B combo, doesn't cover routin
 
 The only exception: dental services performed in a hospital setting as part of an inpatient stay. That's it.
 
-I've watched clients get blindsided by this gap year after year. A retired teacher walks in thinking Medicare covers "everything," then faces a $3,000 bill for a partial denture. It's one of the harshest financial surprises in retirement. If you want the full picture of how Medicare is structured, [our guide on how Medicare works](/how-does-medicare-work/) covers the basics before you read further here.
+Many seniors are blindsided by this gap, expecting Medicare to cover dental work only to face bills of thousands of dollars. If you want the full picture of how Medicare is structured, [our guide on how Medicare works](/how-does-medicare-work/) covers the basics before you read further here.
 
 ## How Medicare Advantage Dental Coverage Actually Works
 
@@ -150,7 +150,6 @@ Dental health matters as much at 65 as it did at 35. Research increasingly ties 
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

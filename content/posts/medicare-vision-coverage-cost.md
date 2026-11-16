@@ -25,11 +25,11 @@ faqs:
     a: "No. LASIK and other elective refractive procedures are not covered by Medicare under any circumstances. These are considered elective, not medically necessary, and you'd pay entirely out of pocket."
 ---
 
-Most people find out the hard way. A reader named Gloria, 68, from Phoenix, called me last spring after her eye doctor handed her a $340 bill for a routine exam and new lenses. She was certain Medicare would cover it. She'd been paying her Part B premium faithfully for three years. Nobody had ever told her that Medicare, as it's designed, treats your eyes almost like they don't exist.
+Most people find out the hard way. A routine eye exam and new lenses can cost hundreds of dollars, and Medicare doesn't cover them under Original Medicare, even if you've been paying your Part B premium for years.
 
 That's the short version of a truth that catches seniors off guard every single day: [Original Medicare](/original-medicare-now-requires-prior-authorization-in-six-states/) (that's Part A and Part B, the government's base program) does not cover routine vision care. No eye exams for glasses. No eyeglasses. No contact lenses. The only exceptions are specific, narrow, and tied to a medical diagnosis, not just blurry vision.
 
-I've seen families budget carefully for retirement and completely miss this gap. It's one of the most common and expensive surprises in Medicare, and it's fixable, but only if you plan for it before you need it.
+Many families budget carefully for retirement and completely miss this gap. It's one of the most common and expensive surprises in Medicare, and it's fixable, but only if you plan for it before you need it.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Original Medicare (Parts A &amp; B) does not cover routine eye exams, eyeglasses, or contacts.</li><li style="margin:5px 0">Medicare does cover eye care tied to medical conditions: glaucoma screenings, diabetic eye exams, and cataract surgery.</li><li style="margin:5px 0">Medicare Advantage plans (Part C) frequently include vision benefits, but benefit levels and network restrictions vary widely.</li><li style="margin:5px 0">Standalone vision insurance for seniors typically runs $15–$50/month, with annual exam allowances of $100–$200.</li><li style="margin:5px 0">As of July 2026, there is no federal law requiring Medicare to add routine vision coverage, despite repeated legislative proposals.</li></ul></div>
 
@@ -48,7 +48,7 @@ That last point matters more than people realize. If your ophthalmologist discov
 
 What Medicare absolutely won't touch: annual [eye exams](/does-medicare-cover-eye-exams/) to update your glasses prescription, the glasses themselves, contact lenses outside of post-cataract situations, or any kind of low-vision aids. Period.
 
-I thought for years that an optometrist visit was somehow different from an ophthalmologist visit in Medicare's eyes. It's not. Neither is covered for routine care under Original Medicare.
+Neither is covered for routine care under Original Medicare.
 
 ## The Real Costs You're Looking At
 
@@ -95,7 +95,7 @@ Some people on Original Medicare (especially those with a Medigap supplement who
 
 These typically run $15–$50 per month in premiums. Coverage includes one exam per year, usually $120–$200 toward frames, and discounts on lenses. The math: if you spend $240–$600 a year in premiums and your exam plus glasses costs you $350–$600 out of pocket, you're roughly at breakeven or slightly ahead. If you need contacts annually, the calculus shifts in favor of a plan. If you rarely update your glasses and your eyes are stable, you might genuinely be better off self-paying.
 
-I've run these numbers dozens of times with clients. Honestly, for people who need new glasses every other year and have stable prescriptions, self-paying often wins. For people with progressing prescriptions, bifocals, or specialty lenses, a plan earns its keep.
+I've run these numbers dozens of times with clients. For people who need new glasses every other year and have stable prescriptions, self-paying often wins. For people with progressing prescriptions, bifocals, or specialty lenses, a plan earns its keep.
 
 One thing most people don't realize: many of these standalone plans have a waiting period of 30–90 days before benefits kick in. Don't sign up the week before your scheduled exam and expect coverage.
 

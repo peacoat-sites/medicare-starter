@@ -25,7 +25,7 @@ faqs:
    a: "If you have automatic Extra Help (through Medicaid, SSI, or an MSP), it renews as long as you stay enrolled in those programs. If you applied directly through Social Security, you'll typically receive a review letter periodically, usually once a year, to confirm your situation hasn't changed significantly. Respond to those letters promptly. Missing one can interrupt your benefits."
 lastmod: 2026-07-08
 ---
-Most people who qualify for the Medicare Low Income Subsidy never apply. That's not exaggeration. The Social Security Administration says roughly a third of eligible people aren't enrolled, which means they're throwing away real money every single month. I've watched seniors pay $50, $80, sometimes $140 a month for prescriptions they should be getting for almost nothing, all because nobody told them this program existed.
+Most people who qualify for the Medicare Low Income Subsidy never apply. That's not exaggeration. The Social Security Administration says roughly a third of eligible people aren't enrolled, which means they're throwing away real money every single month. Many eligible seniors end up paying $50, $80, or sometimes $140 a month for prescriptions they could get for almost nothing through this program, simply because they weren't aware it existed.
 
 Let me fix that.
 
@@ -66,11 +66,9 @@ Social Security typically responds within a few weeks. Once approved, your Extra
 
 ## The Benchmark Plan Problem Nobody Warns You About
 
-I need to slow down here. I've seen this confuse people and cost them real money.
-
 If you get full Extra Help, your premium is covered up to a "benchmark" amount Medicare sets each year. Most states have several Part D plans at or below that benchmark, meaning your premium is literally $0. But if your current plan's premium is above the benchmark, you'll pay the difference out of pocket, Extra Help or not.
 
-So when you're newly approved for Extra Help, or if Annual Enrollment Period is coming up (October 15 through December 7 each year), check whether your current plan is still benchmark-priced. Medicare changes which plans qualify every year. I've seen people stay on autopilot and suddenly owe $25 a month when they could be paying nothing. That's $300 a year gone for no reason.
+So when you're newly approved for Extra Help, or if Annual Enrollment Period is coming up (October 15 through December 7 each year), check whether your current plan is still benchmark-priced. Medicare changes which plans qualify every year. It's easy to stay on autopilot with the same plan, but benchmark status changes yearly, so a plan that was free one year might suddenly cost $25 a month the next. That's $300 a year gone for no reason.
 
 People with Extra Help also get a [Special Enrollment Period](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) (SEP) letting them switch Part D plans once per quarter, January through September. Most people don't know they have it.
 
@@ -107,7 +105,6 @@ Here's what matters most: the application is free, it doesn't hurt to try, and t
 - [SHIP](https://www.shiphelp.org/)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -25,7 +25,7 @@ faqs:
     a: "For capped rental items (like standard wheelchairs and hospital beds), Medicare rents for up to 13 months, after which ownership typically transfers to you. For oxygen equipment, Medicare pays rental for 36 months, after which the supplier must continue providing the equipment and certain maintenance at no additional rental charge for as long as it's medically necessary."
 ---
 
-Most people don't realize they have a fight on their hands until the wheelchair arrives at the door and Medicare denies the claim. I've seen it happen more times than I can count: a family thinks coverage is automatic, and then they're staring at a $3,000 bill they weren't expecting. That's not how this should work. Let me walk you through what Medicare's durable medical equipment (DME) benefit actually covers, where the landmines are, and how to make sure you get what you're entitled to.
+Many families assume Medicare will automatically cover durable medical equipment like wheelchairs, only to face unexpected denials and bills. Medicare's DME benefit has specific requirements and common pitfalls. Understanding what coverage actually includes, where denials commonly happen, and how to document properly can help you avoid delays and out-of-pocket costs.
 
 ## What DME Actually Means
 
@@ -38,8 +38,6 @@ Part B is the piece of Medicare that covers DME, not Part A. I made this mistake
 ## The Cost Structure (and Where It Gets Expensive)
 
 > **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's the honest picture on what you'll pay. Once your Part B deductible is met ($257 in 2026, per the Centers for Medicare & Medicaid Services), Medicare generally pays 80% of the approved amount for covered DME. You're responsible for the remaining 20%, and that 20% has no cap under Original Medicare. On a $6,000 power wheelchair, 20% is $1,200 out of pocket, just like that.
 
@@ -63,13 +61,13 @@ Medicare requires that you use a Medicare-enrolled supplier. Not just any medica
 
 There's another layer: competitive bidding areas (CBAs). Since Medicare implemented its competitive bidding program, certain equipment types in certain geographic areas can only be covered if you use a contract supplier. If your city is in a CBA (and many major metro areas are), you must use one of Medicare's contracted suppliers for that category of equipment, or again, no coverage. This applies to things like oxygen, CPAP supplies, standard power wheelchairs, and hospital beds, among others. The list of current CBA areas and contract suppliers is on Medicare.gov, and I'd check it before you accept delivery of anything significant.
 
-I tested this process myself with a client in Phoenix a few years back. Her respiratory therapist referred her to a local supplier who was Medicare-enrolled but not a CBA contract supplier for oxygen equipment. Phoenix is a CBA for oxygen. The claim denied. We had to transfer her service to a contracted supplier, which took two weeks and caused a gap in her oxygen supply. The referring therapist had no idea. The lesson: verify the supplier yourself, not just the referring clinician.
+A common problem arises when a referring clinician sends you to a Medicare-enrolled supplier who isn't contracted with your regional Competitive Bidding Area (CBA) for that specific equipment type. For example, in a CBA region for oxygen equipment, a non-contracted supplier's claim will deny, and switching to a contracted supplier can take weeks. Verify that your supplier holds the right CBA contract for your equipment type, rather than assuming the referring clinician has done this.
 
 ## Getting Your Doctor's Documentation Right
 
-Power wheelchairs are the single biggest DME documentation battleground I've seen in 20 years. Medicare requires a face-to-face examination by your treating physician (not a nurse practitioner or PA in many cases, though rules here have shifted), a detailed written order, and what's called a CMN: a Certificate of Medical Necessity. For complex rehab technology like power chairs, there's an additional clinical evaluation from a physical or occupational therapist.
+Power wheelchairs generate the most documentation denials among DME claims. Medicare requires a face-to-face examination by your treating physician (not a nurse practitioner or PA in many cases, though rules here have shifted), a detailed written order, and what's called a CMN: a Certificate of Medical Necessity. For complex rehab technology like power chairs, there's an additional clinical evaluation from a physical or occupational therapist.
 
-If any of that paperwork is missing, vague, or doesn't explicitly tie the equipment to your diagnosis and functional limitations, expect a denial. I've seen claims denied because the doctor's note said the patient "would benefit from" a power chair rather than documenting that the patient cannot perform mobility in the home without one. The wording matters.
+Missing, vague, or incomplete paperwork will result in denial. The doctor's note must explicitly state that you cannot perform mobility in the home without the equipment, rather than simply saying you "would benefit from" it. The specific wording in your physician's order and CMN directly affects whether Medicare approves the claim.
 
 Three real-world scenarios that show how this plays out:
 
@@ -93,7 +91,6 @@ The prior authorization requirement is the one I worry about most. I know people
 - [Medicare & You 2026 Handbook](https://www.medicare.gov/publications/10050-medicare-and-you.pdf): Official annual handbook covering DME cost-sharing and enrollment rules.
 
 ---
-
 
 ---
 

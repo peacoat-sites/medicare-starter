@@ -77,7 +77,7 @@ Here are the 2026 IRMAA brackets, based on your 2024 modified adjusted gross inc
 
 **Married couples filing jointly have income thresholds roughly double** ($212,000, $266,000, etc.). Married filing separately gets the short end of the stick, surcharges kick in at much lower income levels.
 
-Here's the thing I want to highlight that most articles gloss over: these brackets adjust annually for inflation, but only slightly. If your income is sitting just above a cutoff, run the numbers. Staying $3,000 below a bracket threshold could save you $74 a month, or $888 per year, in Part B premiums alone. That's before you add in the identical IRMAA surcharge on Part D (drug coverage), which stacks on top.
+These brackets adjust annually for inflation, but only slightly. If your income is sitting just above a cutoff, run the numbers. Staying $3,000 below a bracket threshold could save you $74 a month, or $888 per year, in Part B premiums alone. That's before you add in the identical IRMAA surcharge on Part D (drug coverage), which stacks on top.
 
 ---
 
@@ -128,7 +128,6 @@ The $185.00 standard premium is a starting point, not your final number. Your in
 - [AARP Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

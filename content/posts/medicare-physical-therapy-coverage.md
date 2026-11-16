@@ -26,13 +26,13 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-A reader emailed me last month asking whether she could get physical therapy covered after hip surgery. She'd already gotten the green light from her surgeon, but when she called her Medicare plan to ask about it, the person on the phone said something vague about "medically necessary" and "needing approval first," and she hung up more confused than when she started. I get calls like this every week. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.
+A common source of confusion is physical therapy coverage after surgery. Someone might get approval from their surgeon, but when they call their Medicare plan, they hear vague terms like "medically necessary" and "needing approval first" without clear answers. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.
 
 Here's what most people don't realize: Medicare does cover physical therapy, occupational therapy, and speech therapy. The benefit is real and meaningful. But the rules are specific enough that getting it wrong costs money and delays treatment, and getting it right takes maybe twenty minutes of homework on your part.
 
 ## How Medicare Covers Physical Therapy
 
-Original Medicare (Parts A and B) covers physical therapy in three settings: inpatient (hospital), skilled nursing facility, and outpatient. Each setting has different rules, and I've made the mistake myself of assuming the coverage would be identical across all three. It's not.
+Original Medicare (Parts A and B) covers physical therapy in three settings: inpatient (hospital), skilled nursing facility, and outpatient. Each setting has different rules, and Coverage rules differ across these three settings. It's not.
 
 For outpatient physical therapy, which is what most people use after an injury or surgery, Medicare Part B will cover it if a doctor or other qualified professional (like a nurse practitioner) orders it and it's deemed medically necessary. That "medically necessary" language matters. Medicare isn't paying for someone to get stronger in general; they're paying because you have a specific condition (a broken ankle, a stroke, frozen shoulder, spinal fusion) that requires treatment to improve function or prevent it from getting worse.
 
@@ -47,11 +47,9 @@ Here's the part that trips people up: as of 2026, there's an annual cap on outpa
 
 > **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 If you have [Original Medicare and a Medigap](/medicare-advantage-vs-medicare-supplement-total-cost/) (supplement) plan, you'll have more straightforward coverage. Original Medicare pays 80 percent of the cost after you've met your Part B deductible (which for 2026 is $240). Your Medigap plan typically covers that 20 percent coinsurance, depending on which plan you have. Plan G and Plan N are popular because they cover most out-of-pocket costs, though they cost more upfront.
 
-[Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/) (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. I tested this last year when a friend switched to an Advantage plan and found out her plan required physical therapy to be ordered through a primary care physician first, which added a two-week delay to her treatment. That's not a Medicare rule; that's her plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.
+[Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/) (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. For example, an Advantage plan might require physical therapy to be ordered through a primary care physician first, which can add delays to treatment. That's not a Medicare rule; that's her plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.
 
 ## Getting Pre-Authorization and Finding a Provider
 
@@ -107,7 +105,6 @@ Medicare will pay for services provided by a licensed physical therapist (PT) or
 - [The American Physical Therapy Association (APTA)](https://www.apta.org/): Professional organization offering patient resources on physical therapy and insurance coverage.
 
 ---
-
 
 ---
 

@@ -27,13 +27,11 @@ faqs:
 
 Most federal employees I've talked to assume they don't really [need Medicare](/do-i-need-medicare-if-im-still-working/). They've got FEHB, the Federal Employees Health Benefits program, and it's good coverage. Why pay for something else? I held that same assumption for a long time, honestly. Then I started digging into what actually happens when federal retirees hit 65, and what surprised me was how many people were leaving money on the table, or worse, getting hit with permanent penalties they didn't know existed.
 
-Here's the thing nobody explains clearly upfront: federal employees aren't automatically exempt [from Medicare](/switching-from-medicare-advantage-to-original-medicare/) rules just because they have FEHB. The two systems can work together beautifully, but only if you understand how they interact and when you need to act.
+Federal employees aren't automatically exempt [from Medicare](/switching-from-medicare-advantage-to-original-medicare/) rules just because they have FEHB. The two systems can work together beautifully, but only if you understand how they interact and when you need to act.
 
 The enrollment rules for federal employees are genuinely different from the general population, and the standard Medicare advice you'll find everywhere doesn't fully apply to you. Let me walk you through what I've pieced together from years of talking to federal retirees, digging into OPM guidance, and yes, a few hard conversations with people who got it wrong.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Federal employees with FEHB can delay Medicare Part B without penalty while actively employed.</li><li style="margin:5px 0">Most federal retirees benefit from enrolling in Medicare Part B at 65, especially for cost-sharing reduction.</li><li style="margin:5px 0">Missing your Special Enrollment Period as a retiree triggers a 10% permanent premium penalty per year delayed.</li><li style="margin:5px 0">Medicare Part A is almost always free for federal employees with 10+ years of federal service (40 quarters).</li><li style="margin:5px 0">Coordinating FEHB with Medicare can dramatically reduce or eliminate most out-of-pocket costs.</li></ul></div>
-
 
 ## How Federal Employment Changes the Medicare Picture
 
@@ -47,11 +45,9 @@ While you're still actively working for the federal government, you can delay Pa
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 When you retire from federal service and keep your FEHB coverage into retirement (which OPM allows if you've been enrolled for five consecutive years before retiring), you enter a Special Enrollment Period, or SEP, for Medicare Part B. You have eight months from your retirement date to enroll in Part B without a late penalty. Eight months. That clock starts whether you know about it or not.
 
-I once helped a reader, a retired postal worker from outside St. Louis, who had waited nearly two years after retirement to sign up for Part B because he'd heard somewhere that FEHB coverage meant he didn't have to bother. He was wrong. He ended up with a 20% permanent premium surcharge added to his Part B premium for the rest of his life. On top of that, he'd been paying full out-of-pocket costs on outpatient services that Medicare would have largely covered. The coordination benefits between FEHB and Medicare, specifically Medicare paying first and FEHB filling in behind it, were completely unavailable to him during those two years.
+A common mistake is delaying Part B enrollment because FEHB coverage seems sufficient. Delaying enrollment can result in a permanent Part B premium surcharge (10% for each full 12-month period you were eligible but did not enroll). Additionally, without timely Part B enrollment, you miss out on coordination benefits where Medicare pays first and FEHB covers remaining costs, leaving you responsible for full out-of-pocket expenses on services Medicare would have largely covered.
 
 Don't let that be you.
 
@@ -65,7 +61,7 @@ Here's how the timing breaks down for different federal employment situations:
 | Retired, re-employed part-time (no FEHB) | No | Must enroll during General Enrollment Period |
 | Spouse covered under your FEHB, not federal employee | Same SEP rules apply | 8 months from your retirement |
 
-If you miss that eight-month SEP window entirely, you're stuck waiting for the General Enrollment Period, which runs January through March each year, with coverage not starting until July. And you'll carry that 10% penalty for every 12-month period you were eligible but unenrolled. Permanently.
+If you miss that eight-month SEP window entirely, you're stuck waiting for the General Enrollment Period, which runs January through March each year, with coverage starting the first day of the month after you sign up. And you'll carry that 10% penalty for every 12-month period you were eligible but unenrolled. Permanently.
 
 ## Should You Actually Enroll in Part B?
 
@@ -78,7 +74,7 @@ Example: A federal retiree in Virginia has a $3,500 knee replacement surgery. Wi
 Action taken: Enrolled in Part B at 65 during Initial Enrollment Period.
 Result: Annual out-of-pocket maximum essentially eliminated for major medical events.
 
-The break-even math depends on your specific FEHB plan, your health status, and how much healthcare you actually use. If you're generally healthy and your FEHB plan has strong coverage, the roughly $2,220 annual Part B premium might exceed what you'd save in cost-sharing for a few years. The research here is genuinely mixed for low-utilizers. But once you factor in that a single hospitalization or outpatient surgery can easily trigger four-figure cost-sharing, most retirees I've worked with come out ahead with Part B.
+The break-even math depends on your specific FEHB plan, your health status, and how much healthcare you actually use. If you're generally healthy and your FEHB plan has strong coverage, the roughly $2,220 annual Part B premium might exceed what you'd save in cost-sharing for a few years. The research here is genuinely mixed for low-utilizers. But once you factor in that a single hospitalization or outpatient surgery can easily trigger four-figure cost-sharing, most retirees come out ahead with Part B.
 
 For personalized help running these numbers, your state's SHIP counselors (you can find them at [shiphelp.org](https://www.shiphelp.org/)) offer free, unbiased guidance. They're not selling anything. I refer people there constantly.
 
@@ -105,7 +101,6 @@ And again: if you drop FEHB to enroll in Medicare Advantage and later want FEHB 
 - [National Active and Retired Federal Employees Association (NARFE)](https://www.narfe.org/): Detailed guidance specifically for federal employees and retirees on FEHB-Medicare coordination.
 
 ---
-
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

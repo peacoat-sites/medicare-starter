@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 You're probably sitting with a stack of Explanation of Benefits forms, a provider directory that somehow keeps shrinking, and a growing suspicion that your Medicare Advantage plan isn't quite what it was sold to you as. Maybe your cardiologist just left the network. Maybe you're facing a big procedure and the prior authorization process has you ready to scream. Whatever got you here, you're not alone, and the question you're asking is one of the most important ones you can ask: can I actually go back to Original Medicare?
 
-The short answer is yes. But there are timing rules, coverage gaps to watch for, and a few things I've seen trip people up badly over the years. Let me walk you through it honestly.
+The short answer is yes. But there are timing rules and coverage gaps to watch for.
 
 ## When You Can Make the Switch
 
@@ -38,7 +38,7 @@ The short answer is yes. But there are timing rules, coverage gaps to watch for,
 | Medicare Advantage Open Enrollment Period | January 1 - March 31 | People already in a Medicare Advantage plan | First of following month |
 | Special Enrollment Periods (SEPs) | Varies by trigger | Those with qualifying life events | Varies by trigger |
 
-This is where most people get confused, and honestly, when I first started explaining this to clients, I oversimplified it myself. I used to say "you can switch during Open Enrollment every fall." That's true, but it's not the whole picture.
+A common source of confusion is that switching is possible during Open Enrollment every fall, but that's not the whole picture.
 
 There are actually several windows when you can drop your Medicare Advantage (MA) plan and return to Original Medicare (Parts A and B):
 
@@ -54,15 +54,13 @@ One thing I tell people clearly: if you miss these windows, you're generally stu
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I see people get genuinely hurt, and I wish more advisors led with this.
 
 When you first enrolled in Medicare Part B, you had what's called a "guaranteed issue" right to buy a Medicare Supplement policy (commonly called Medigap) without medical underwriting. That window is gone once you've been in Medicare Advantage. In most states, when you [switch back to Original Medicare](/switching-from-medicare-advantage-to-original-medicare/), insurance companies can review your health history and deny you Medigap coverage, or charge you significantly more, based on preexisting conditions.
 
 A few states (California, Connecticut, Maine, Massachusetts, Missouri, New York, and a handful of others) have ongoing guaranteed issue protections, meaning insurers must sell you a Medigap policy regardless of your health. If you live in one of those states, this is a much smaller concern. But if you're in Texas, Florida, Ohio, or most other states, this is a real risk.
 
-I talked with a woman in Tucson last year who switched back to Original Medicare at 71 after her plan's network dropped her orthopedic surgeon. She was healthy, no major conditions. She got approved for a Plan G Medigap policy at around $180 a month. Fine outcome. But I've seen others with diabetes, heart disease, or a recent cancer diagnosis get quoted $400 a month or flatly denied. Original Medicare without any supplement means you're on the hook for 20% of Part B costs with no cap, which can be devastating in a serious illness.
+For example, someone switching back to Original Medicare at 71 after their plan's network dropped a key provider might qualify for a Plan G Medigap policy at around $180 a month if they're in good health. However, those with diabetes, heart disease, or a recent cancer diagnosis may face quotes of $400 a month or denial altogether. Original Medicare without any supplement means you're on the hook for 20% of Part B costs with no cap, which can be devastating in a serious illness.
 
 I don't say this to discourage you. I say it because you need this information before you switch, not after.
 
@@ -102,7 +100,6 @@ As of July 2026, CMS continues to allow most of this process to be completed onl
 - Kaiser Family Foundation, Medicare Policy Research: Ongoing analysis of Medicare Advantage enrollment trends, plan availability, and beneficiary experiences.
 
 ---
-
 
 ---
 

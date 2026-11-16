@@ -25,7 +25,7 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 lastmod: 2026-07-08
 ---
-Most people picking a Medicare plan in California treat it like choosing a cable package: flip through the options, pick something that sounds okay, and move on. That instinct costs them hundreds, sometimes thousands, of dollars a year. I've watched it happen more times than I can count.
+Most people picking a Medicare plan in California treat it like choosing a cable package: flip through the options, pick something that sounds okay, and move on. That instinct costs them hundreds, sometimes thousands, of dollars a year.
 
 Here's what I'll tell you upfront: California is actually one of the best states in the country to be a Medicare beneficiary. The sheer size of the market forces insurers to compete hard, which means lower premiums, richer benefits, and more plan choices than you'll find almost anywhere else. But more options can be paralyzing. In 2026, Californians in most counties will have access to dozens of Medicare Advantage (MA) plans, several Medicare Supplement (Medigap) options, and standalone Part D (prescription drug) plans. Picking the wrong one is genuinely easy to do.
 
@@ -70,7 +70,7 @@ In 2026, the Medicare Advantage market in California is dominated by a handful o
 
 **Alignment Health** and **Molina Healthcare** are worth knowing about if you're lower income and likely to qualify for dual-eligible (Medicare and Medicaid) programs or Extra Help for Part D. Their benefits packages for those populations can be significantly richer than what you'd get from the bigger names.
 
-**Aetna** and **UnitedHealthcare** (through their AARP-branded plans) are widely available across California counties. Both are solid mid-tier options, though I'd encourage you to look closely at the out-of-pocket maximums before enrolling. In 2026, CMS set the maximum allowable out-of-pocket limit for MA plans at $9,350 for in-network care, but better plans come in well below that. I've seen well-regarded California plans with out-of-pocket caps in the $4,500-$5,500 range, which is a meaningful difference if you ever have a serious hospitalization.
+**Aetna** and **UnitedHealthcare** (through their AARP-branded plans) are widely available across California counties. Both are solid mid-tier options, though I'd encourage you to look closely at the out-of-pocket maximums before enrolling. In 2026, CMS set the maximum allowable out-of-pocket limit for MA plans at $9,350 for in-network care, but better plans come in well below that. Well-regarded California plans often have out-of-pocket caps in the $4,500-$5,500 range, which is a meaningful difference if you ever have a serious hospitalization.
 
 One thing I'll flag: star ratings matter more than people realize. CMS uses them to determine bonus payments to insurers, and plans below 3 stars can lose those bonuses, which tends to erode benefits over time. Before you enroll in any Advantage plan, check its current star rating at Medicare.gov.
 

@@ -16,7 +16,7 @@ faqs:
  - q: "Can I enroll in Medicare while I'm still working and have employer coverage?"
    a: "Yes, you can. Many people choose to sign up for Part A only (since it's usually free) and delay Part B while their employer coverage is active. Whether that makes sense depends on how your employer plan works alongside Medicare. Some employers actually require you to take Medicare as your primary insurance once you're eligible. Check with your HR department."
  - q: "I missed my IEP and I don't have a Special Enrollment Period. What now?"
-   a: "You'll need to wait for the General Enrollment Period, January 1 through March 31, with coverage starting July 1. You'll likely owe the late enrollment penalty going forward. If you have circumstances you believe qualify as exceptional, contact 1-800-MEDICARE (1-800-633-4227) to ask about a possible administrative exception, but those are rarely granted."
+   a: "You'll need to wait for the General Enrollment Period, January 1 through March 31, with coverage starting the first day of the month after you sign up. You'll likely owe the late enrollment penalty going forward. If you have circumstances you believe qualify as exceptional, contact 1-800-MEDICARE (1-800-633-4227) to ask about a possible administrative exception, but those are rarely granted."
  - q: "I'm turning 65 but I'm staying on my spouse's plan. Do I need to do anything?"
    a: "If your spouse is still actively employed and their employer plan covers you, you can delay Part B without penalty. You'll want to enroll when that coverage ends using your Special Enrollment Period. Just make sure you have documentation of your creditable employer coverage. When the time comes to enroll, you'll need a form from the employer confirming coverage dates."
 author: "Susan Park"
@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Picture this: your 65th birthday is two months away, and a neighbor mentions offhandedly that you were supposed to sign up for Medicare *before* your birthday. Your stomach drops. You had no idea. You thought you'd handle it afterward, maybe wait until you actually needed it. Now you're not sure if you've missed something, if there are penalties, or whether your doctor visits next month will even be covered.
 
-I've seen this exact situation play out dozens of times. The good news? Two months out, you're almost certainly still fine. But the near-miss is real, and the penalties for actually missing the window aren't small. Let's walk through exactly what the Initial Enrollment Period is, how it works, and what you need to do right now if you're turning 65 soon.
+Missing the Initial Enrollment Period deadline is a common concern. The good news? Two months out, you're almost certainly still fine. But the near-miss is real, and the penalties for actually missing the window aren't small. Here's what the Initial Enrollment Period is, how it works, and what to do if you're turning 65 soon.
 
 ## What the Initial Enrollment Period Actually Is
 
@@ -115,11 +115,11 @@ Contact your State Health Insurance Assistance Program, better known as SHIP. Th
 |---|---|---|---|
 | Initial Enrollment Period (IEP) | Everyone turning 65 | 7 months around your 65th birthday | Parts A, B, C, D, Medigap |
 | Special Enrollment Period (SEP) | Those with qualifying employer coverage | After employer coverage ends | Parts A, B, D |
-| General Enrollment Period (GEP) | Those who missed IEP/SEP | January 1 to March 31 each year | Parts A and B (coverage starts July 1) |
+| General Enrollment Period (GEP) | Those who missed IEP/SEP | January 1 to March 31 each year | Parts A and B (coverage starts the month after you sign up) |
 | Annual Enrollment Period (AEP) | Existing Medicare members | October 15 to December 7 each year | Change Part C or Part D plans |
 | Medicare Advantage OEP | Medicare Advantage enrollees | January 1 to March 31 each year | Switch or drop Part C |
 
-The General Enrollment Period is the safety net that catches people who missed their IEP. But it's a costly safety net: you'll likely face the late penalties described above, and you'll have to wait until July 1 for coverage to begin.
+The General Enrollment Period is the safety net that catches people who missed their IEP. But it's a costly safety net: you'll likely face the late penalties described above, and if you miss your window you may have to wait until the next January to sign up.
 
 ---
 
@@ -140,7 +140,6 @@ The seven months of your Initial Enrollment Period go fast, especially when you'
 - [Medicare.gov's plan finder](https://www.medicare.gov/plan-compare)
 - [shiphelp.org](https://www.shiphelp.org/)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

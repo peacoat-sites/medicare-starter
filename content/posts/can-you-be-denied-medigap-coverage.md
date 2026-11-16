@@ -51,11 +51,9 @@ Some states have additional protections that limit or eliminate this, which I'll
 
 > **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I want to be specific, because the generic answer ("it depends on the insurer") isn't helpful.
 
-In my experience, the conditions that most reliably trigger either denials or significantly higher premiums during underwriting include: end-stage renal disease (ESRD), HIV/AIDS, recent cancer treatment (typically within the last two years), congestive heart failure, chronic obstructive pulmonary disease (COPD) requiring oxygen, and certain neurological conditions like Parkinson's or MS.
+Conditions that commonly trigger either denials or significantly higher premiums during underwriting include: end-stage renal disease (ESRD), HIV/AIDS, recent cancer treatment (typically within the last two years), congestive heart failure, chronic obstructive pulmonary disease (COPD) requiring oxygen, and certain neurological conditions like Parkinson's or MS.
 
 Insurers look not just at diagnosis but at treatment history, recent hospitalizations, and whether conditions are "controlled." A well-managed Type 2 diabetes diagnosis handled by diet alone is very different from one requiring insulin plus a recent hospital admission. The underwriting questions are granular, and the forms ask about the past five to ten years, depending on the insurer.
 
@@ -115,7 +113,6 @@ Not ideal. But better than being uninsured for major cost-sharing.
 - Kaiser Family Foundation (KFF): Research on Medicare beneficiary coverage gaps and supplemental insurance enrollment patterns
 
 ---
-
 
 ---
 

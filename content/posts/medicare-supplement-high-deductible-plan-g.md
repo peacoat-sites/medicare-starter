@@ -33,7 +33,7 @@ Let me back up. Medicare Supplement plans, also called Medigap plans, fill the g
 
 ## What You're Actually Paying (and What You're Not)
 
-Here's where I want to be honest with you, because this is where people get tripped up. The appeal of HDG is the low premium. I've seen quotes for a 65-year-old woman in good health come in around $43 a month in states like Indiana and Missouri, compared to $165 or more for standard Plan G in the same [zip code](/medicare-plan-finder-by-zip-code/). That's a difference of about $1,464 a year in premium savings.
+This is where people often get tripped up. The appeal of HDG is the low premium. Quotes for a 65-year-old in good health can come in around $43 a month in states like Indiana and Missouri, compared to $165 or more for standard Plan G in the same [zip code](/medicare-plan-finder-by-zip-code/). That's a difference of about $1,464 a year in premium savings.
 
 But you're also taking on up to $2,870 in potential out-of-pocket costs if you have a bad year. The math question everyone should ask: "How many years of premium savings does it take to cover a worst-case deductible year?" With a $1,464 annual savings, the answer is roughly two years. If you stay healthy for two years running, you're ahead. If you hit the deductible both years, you're basically even with what you'd have paid in standard Plan G premiums.
 
@@ -52,13 +52,13 @@ Premiums above are broad national ranges based on insurer filings reviewed as of
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-I'll be direct here: HDG is not for everyone, and I've seen people pushed into it when they shouldn't have been.
+HDG is not for everyone, and some people are pushed into it when they shouldn't be.
 
 It works beautifully for someone who is 65 to 68, in good health, has an emergency fund of at least $3,000 (so a bad year doesn't wreck them financially), and wants to keep monthly costs low. It's also smart for people who have other assets they're managing and view the premium savings as money they'd rather invest than hand to an insurance company each month.
 
 It's a harder sell for someone with a chronic condition requiring regular specialist visits, someone who finds the unpredictability of medical bills genuinely stressful, or anyone who doesn't have liquid savings to cover a high-cost year. Stress has real health costs. If worrying about a potential $2,870 bill keeps you from going to the doctor when you should, the "savings" evaporate.
 
-One scenario I've seen play out well: a reader, Carol from Tucson, enrolled in HDG at 65 and kept her premiums around $52 a month for her first three years. She had one minor outpatient procedure in year two that cost her about $800 out-of-pocket. Over three years, she paid roughly $1,872 in premiums and $800 in out-of-pocket costs, totaling about $2,672. A comparable standard Plan G policy over the same period would have cost her an estimated $5,400 in premiums alone, with virtually nothing additional out-of-pocket. She came out well ahead.
+For example, someone might enroll in HDG at 65 with premiums around $52 a month. If they have a minor outpatient procedure in year two costing about $800 out-of-pocket, they'd pay roughly $1,872 in premiums and $800 in out-of-pocket costs over three years, totaling about $2,672. A comparable standard Plan G policy over the same period would cost an estimated $5,400 in premiums alone, with virtually nothing additional out-of-pocket, showing that HDG can work well for those with minimal healthcare needs.
 
 That said, her situation: healthy, financially stable, comfortable with some risk. If you're not Carol, the math might flip.
 

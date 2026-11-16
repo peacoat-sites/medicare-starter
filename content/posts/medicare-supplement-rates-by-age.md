@@ -27,7 +27,7 @@ faqs:
 
 Most people have no idea that a 65-year-old woman in Florida can pay nearly three times more for the exact same [Medigap plan](/what-is-a-medigap-plan/) than a 64-year-old woman who signed up just twelve months earlier. Same plan letter. Same benefits. Radically different bill.
 
-I've been helping seniors sort out [Medicare supplement](/medicare-supplement-plan-g-explained/) insurance for two decades, and the single thing that trips people up more than anything else is misunderstanding how insurers actually price these plans over time. It's not random. There's a specific system, and once you understand it, you can make choices that save you tens of thousands of dollars over a retirement.
+A common mistake is misunderstanding how insurers actually price [Medicare supplement](/medicare-supplement-plan-g-explained/) plans over time. Insurers use one of three rating methods, and understanding which one applies to your plan can help you make choices that save thousands of dollars over a retirement.
 
 Let me walk you through what's actually going on with Medigap rates by age, because most of the advice floating around online leaves out the parts that matter most.
 
@@ -35,7 +35,7 @@ Let me walk you through what's actually going on with Medigap rates by age, beca
 
 ## The Three Pricing Methods (And Why This Choice Is Permanent)
 
-Here's where most people get it wrong. I thought for years that Medigap premiums simply went up with inflation every year. That's not the full picture. Insurers use one of three rating methods, and the method determines everything about your long-term costs.
+Many people assume Medigap premiums simply go up with inflation each year, but that's not the full picture. Insurers use one of three rating methods, and the method determines everything about your long-term costs.
 
 **Community-rated** (also called "no-age-rated"): Everyone in the plan pays the same premium regardless of age. A 72-year-old pays what a 65-year-old pays. Prices still rise with inflation and claims experience, but not because you're getting older.
 
@@ -67,7 +67,7 @@ Read across that table from left to right at age 85 and let it sink in. The atta
 
 Six months. That's what you get. Starting the first month you're both 65 and enrolled in Medicare Part B, federal law gives you a six-month Open Enrollment Period during which no insurer can deny you a Medigap policy, charge you more for health conditions, or make you wait for coverage to kick in. The [AARP Medicare resource center](https://www.aarp.org/health/medicare-insurance/) calls this the single most important window in Medicare planning, and they're right.
 
-I had a reader, a retired schoolteacher from Tucson, email me a few years back. She'd heard she could "always switch later" and didn't rush to enroll in a supplement plan during her Open Enrollment. She was healthy at 65, figured she'd get around to it. At 68 she had a cardiac procedure. By the time she wanted to enroll in Plan G, she was medically underwritten and rejected by three carriers. The fourth accepted her with a six-month rider excluding heart-related claims. That exclusion cost her over $14,000 out of pocket during a hospitalization the following year.
+For example, someone who delays enrolling in a supplement plan during their initial Open Enrollment may face medical underwriting later. If they develop a health condition before enrolling, carriers can reject them outright or accept them with exclusions for that condition. Such exclusions can cost over $14,000 out of pocket during a related hospitalization.
 
 In most states, if you miss that window, insurers can and will underwrite you. "Guaranteed issue" rights exist in a few specific situations (your employer coverage ended, your Medicare Advantage plan left the area, etc.), but outside of those situations, your health becomes part of the equation.
 

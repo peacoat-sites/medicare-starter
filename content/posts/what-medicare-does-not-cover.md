@@ -71,7 +71,7 @@ And here's what surprises people most: the moment you stop needing "skilled" car
 
 ## Prescription Drugs, Over-the-Counter Items, and Routine Care
 
-Original Medicare doesn't cover most prescription drugs taken at home. That's what [Medicare Part D](/medicare-part-d-explained/) is for. Skip enrolling in Part D when you're first eligible and don't have other creditable drug coverage (like an employer plan), and you'll face a late enrollment penalty that follows you for life on Medicare. I've watched this mistake cost people thousands.
+Original Medicare doesn't cover most prescription drugs taken at home. That's what [Medicare Part D](/medicare-part-d-explained/) is for. Skip enrolling in Part D when you're first eligible and don't have other creditable drug coverage (like an employer plan), and you'll face a late enrollment penalty that follows you for life on Medicare. This mistake can result in penalties that significantly increase the cost of coverage over time.
 
 Over-the-counter medications, vitamins, and supplements aren't covered at all, even if your doctor recommends them.
 
@@ -109,7 +109,7 @@ Private insurers sell standalone plans for each of these. They vary significantl
 
 **Option 4: Long-Term Care Insurance**
 
-If long-term custodial care is your biggest worry, long-term care insurance (or hybrid life insurance policies with LTC riders) can help. These policies are best purchased before your 60s, premiums rise steeply with age and health issues can disqualify you. A financial advisor with LTC expertise can help you evaluate whether a policy makes sense for your situation. *The Complete Guide to Medicare and Medigap* is a resource many of my clients have found helpful. *(Note: this site may earn a commission on purchases made through links on this page.)*
+If long-term custodial care is your biggest worry, long-term care insurance (or hybrid life insurance policies with LTC riders) can help. These policies are best purchased before your 60s, premiums rise steeply with age and health issues can disqualify you. A financial advisor with LTC expertise can help you evaluate whether a policy makes sense for your situation. *The Complete Guide to Medicare and Medigap* is a helpful resource for further reading. *(Note: this site may earn a commission on purchases made through links on this page.)*
 
 **Step-by-step: How to audit your own coverage gaps**
 
@@ -137,7 +137,6 @@ Medicare is remarkable. After 20 years in this field, I still see it change peop
 - [Medicare.gov](https://www.medicare.gov/)
 - [Medicare.gov's plan finder tool](https://www.medicare.gov/find-a-plan/questions/home.aspx)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

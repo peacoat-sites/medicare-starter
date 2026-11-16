@@ -20,9 +20,7 @@ The program is called WISeR, which stands for Wasteful and Inappropriate Service
 
 What surprised me when I went deep on this is how little awareness there is even among people directly affected. According to reporting from TIME in May 2026, beneficiaries and advocates are raising real concerns about confusion and care delays. The pilot runs all the way through December 31, 2031, after which CMS will decide whether to roll it out nationwide. That's not a small test. That's six full years of real patients experiencing a fundamentally different Medicare than the one they enrolled in.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">WISeR is the first prior authorization program inside Traditional Medicare, active since January 1, 2026.</li><li style="margin:5px 0">Six states are affected: Arizona, New Jersey, Ohio, Oklahoma, Texas, and Washington.</li><li style="margin:5px 0">Seventeen specific Part B procedures require pre-approval before care is delivered.</li><li style="margin:5px 0">Medigap supplement plan holders (Plan G, Plan N, etc.) in those states are also subject to the rules.</li><li style="margin:5px 0">The pilot runs through December 31, 2031; CMS will then decide whether to expand it nationwide.</li></ul></div>
-
 
 ## Which 17 Procedures Are We Talking About?
 
@@ -44,8 +42,6 @@ I'll be honest: the lack of a plain-English, complete list of the exact 17 proce
 ## How the Review Process Actually Works
 
 > **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where it gets genuinely interesting. CMS isn't using human reviewers alone to flag claims. According to analysis from Katten's QuickReads in November 2025, prior authorization contractors are using a combination of clinicians and AI-driven technology to review requests before care is delivered. The AI flags claims that look potentially wasteful or fraudulent, and then human clinicians make the final call.
 
@@ -69,7 +65,7 @@ If you get a prior authorization denial, you have the right to appeal. Medicare'
 
 And if you're not sure whether WISeR applies to a specific service your doctor is recommending, call 1-800-MEDICARE (that's 1-800-633-4227) or visit Medicare.gov. The WISeR model is new enough that even some providers are still catching up.
 
-The research on whether prior authorization programs actually improve care quality or simply create delays is genuinely mixed. Some studies show real savings; others document patients who gave up on getting care altogether after hitting bureaucratic walls. This pilot will generate six years of data, and the decisions CMS makes in 2031 will affect every Medicare beneficiary in the country. That gives everyone, not just people in the six states, a reason to pay attention to how this unfolds. Talking to a licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP) counselor, who provides free unbiased help, is a smart step if you're uncertain how WISeR affects your specific situation.
+The research on whether prior authorization programs actually improve care quality or simply create delays is genuinely mixed. Research documents both cost savings in some cases and instances where patients delayed or abandoned care due to authorization requirements. This pilot will generate six years of data, and the decisions CMS makes in 2031 will affect every Medicare beneficiary in the country. That gives everyone, not just people in the six states, a reason to pay attention to how this unfolds. Talking to a licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP) counselor, who provides free unbiased help, is a smart step if you're uncertain how WISeR affects your specific situation.
 
 ## Sources
 

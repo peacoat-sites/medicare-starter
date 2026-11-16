@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people assume Medicare is basically free once you hit 65. I hear this all the time, and I'll be honest, I thought something close to it myself before I got deep into this work. The reality is that Medicare has real out-of-pocket costs, and coinsurance is one of the biggest sources of surprise bills I see seniors dealing with every year.
+Most people assume Medicare is basically free once you hit 65. In fact, Medicare has real out-of-pocket costs, and coinsurance is one of the biggest sources of surprise bills for seniors.
 
 So let's talk about what coinsurance actually is, how it works across the different parts of Medicare, and what you can realistically do to protect yourself from a bill that catches you completely off guard.
 
@@ -42,7 +42,7 @@ Here's a worked example to make that concrete:
 
 You're admitted for outpatient surgery. Medicare approves $8,000 for the procedure. You've already met your [Part B deductible](/medicare-deductible-2026/) (currently $257 as of 2026). Your share: 20% of $8,000, which is $1,600. Just like that, out of pocket, no ceiling.
 
-**Scenario → Action taken → Result:** A reader named Carol from Phoenix emailed me last winter after a hospital outpatient procedure. She had original Medicare only, received an $1,800 coinsurance bill, and had no idea it was coming. Had she enrolled in a Medicare Supplement (also called Medigap) plan before the procedure, her coinsurance responsibility could have been reduced to zero or near zero depending on the plan letter she chose.
+For example, someone with original Medicare only might receive an $1,800 coinsurance bill after a hospital outpatient procedure without realizing it was coming. Enrolling in a Medicare Supplement (also called Medigap) plan before the procedure could reduce coinsurance responsibility to zero or near zero depending on the plan letter chosen.
 
 ## How Coinsurance Works in Each Part of Medicare
 
@@ -58,15 +58,13 @@ You're admitted for outpatient surgery. Medicare approves $8,000 for the procedu
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Part A, Part B, and Part D all handle coinsurance differently. This trips people up constantly.
 
 **Part A (hospital insurance)** uses a combination of deductibles and coinsurance based on how long you're hospitalized. For 2026, days 1 through 60 of a hospital stay carry no coinsurance after you pay the inpatient deductible (currently $1,676 per benefit period). But days 61 through 90? You pay $419 per day in coinsurance. Days 91 and beyond, if you're drawing on your lifetime reserve days, the coinsurance jumps to $838 per day. And once those reserve days are used up, Medicare pays nothing.
 
 Skilled nursing facility (SNF) stays work similarly. Days 1 through 20 are covered in full by Part A. Days 21 through 100, you owe coinsurance of $209.50 per day as of this year. After day 100, you're on your own entirely.
 
-**Part B** is where most people run into coinsurance day-to-day. After the annual deductible ($257 in 2026), you typically owe 20% of the Medicare-approved amount for covered services. This applies to doctor visits, outpatient therapy, imaging, labs, and most durable medical equipment. What surprised me when I first dug into this was how broad "Part B services" actually is. Mental health outpatient visits, chemotherapy, dialysis, even some preventive services, they all fall under Part B rules.
+**Part B** is where most people run into coinsurance day-to-day. After the annual deductible ($257 in 2026), you typically owe 20% of the Medicare-approved amount for covered services. This applies to doctor visits, outpatient therapy, imaging, labs, and most durable medical equipment. Mental health outpatient visits, chemotherapy, dialysis, even some preventive services, they all fall under Part B rules.
 
 One important note: some preventive services (the "Welcome to Medicare" visit, annual wellness visits, certain screenings) are covered at 100% with no coinsurance, provided the visit stays focused on prevention and doesn't turn into a diagnostic appointment mid-visit. That last caveat has bitten a few people I know, so watch for it.
 
@@ -105,7 +103,6 @@ I'll be honest: these programs are underused. I've sat with seniors who qualifie
 - [Social Security Administration, Medicare Savings Programs](https://www.ssa.gov/): Eligibility and application information for MSPs and Extra Help
 
 ---
-
 
 ---
 

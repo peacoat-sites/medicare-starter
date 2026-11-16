@@ -31,9 +31,7 @@ Cost sharing in Medicare is the portion of your medical bills you're responsible
 
 Here's what trips people up most often: [Original Medicare](/medicare-advantage-vs-original-medicare/) (Parts A and B) has no out-of-pocket maximum. None. You can rack up unlimited costs in a bad year if you don't have supplemental coverage. I've sat across from people who thought Medicare was basically full coverage, and watching that assumption collapse is genuinely hard. Let me lay out exactly how this works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Original Medicare has no annual out-of-pocket cap, unlimited exposure without a supplement.</li><li style="margin:5px 0">Part A's hospital deductible in 2026 is $1,676 per benefit period, not per year.</li><li style="margin:5px 0">Part B covers 80% of approved costs after a $257 annual deductible; you owe the other 20%.</li><li style="margin:5px 0">Medicare Advantage plans must cap your out-of-pocket costs (currently $9,350 for in-network in 2026).</li><li style="margin:5px 0">Prescription drug costs under Part D vary sharply by plan and drug tier, comparison shopping is worth the hour.</li></ul></div>
-
 
 ## The Part A Puzzle: Hospital Coverage Isn't What You Think
 
@@ -58,8 +56,6 @@ Skilled nursing facility (SNF) care follows its own schedule: free for days 1 th
 ## Part B: The 80/20 Rule and Why 20% Can Sting
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Part B covers outpatient care: doctor visits, labs, imaging, durable medical equipment, preventive services. The standard premium in 2026 is $185 per month (higher earners pay more through a surcharge called IRMAA, which stands for Income-Related Monthly Adjustment Amount).
 
@@ -97,11 +93,9 @@ Part D covers prescription drugs. You pay premiums, an annual deductible (up to 
 
 The big change that took effect recently and carries through 2026: catastrophic coverage is now free after you hit $2,000 in true out-of-pocket drug costs for the year. Prior to this reform, seniors in the old "donut hole" could face thousands more in drug costs. That cap is a genuine improvement, and it's worth understanding whether your medications put you near that threshold.
 
-Drug tiers matter enormously. A generic statin might cost you $5 per fill. A specialty biologic could cost $500 or more per month even on Part D. The formulary (the list of covered drugs) varies by plan, which is why picking a Part D plan by premium alone is a mistake I've seen too many people make. Run the actual drug costs through the Medicare Plan Finder before you decide.
-
+Drug tiers matter enormously. A generic statin might cost you $5 per fill. A specialty biologic could cost $500 or more per month even on Part D. The formulary (the list of covered drugs) varies by plan, which is why picking a Part D plan by premium alone is a mistake. Run the actual drug costs through the Medicare Plan Finder before you decide.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Medicare Part D cost phases</div><div class="sc-row"><span class="sc-label">Annual deductible max</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">$590</span></div><div class="sc-row"><span class="sc-label">Out-of-pocket cap (catastrophic)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$2,000</span></div><div class="sc-row"><span class="sc-label">Avg monthly premium (national)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$46</span></div><div class="sc-src">Source: CMS 2026 Part D parameters</div></div>
-
 
 ## Sources
 
@@ -112,7 +106,6 @@ Drug tiers matter enormously. A generic statin might cost you $5 per fill. A spe
 - Kaiser Family Foundation Medicare Cost-Sharing Analysis: Research on beneficiary out-of-pocket exposure under Original Medicare vs. Advantage plans
 
 ---
-
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

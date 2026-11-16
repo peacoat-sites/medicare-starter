@@ -47,7 +47,7 @@ With Medigap, you pay a real monthly premium. In exchange, you get predictabilit
 
 Medicare Advantage plans advertise $0 or near-$0 monthly premiums. Those low numbers get attention. But the costs don't vanish. They reappear as copays at your doctor's office, coinsurance when you have a procedure, and higher specialist fees. Each plan structures its own cost-sharing, so you have to read the Summary of Benefits carefully. The protection: every Medicare Advantage plan must have an annual out-of-pocket maximum capped at $8,850 for in-network services in 2024. That stops catastrophic financial damage in a way Original Medicare alone cannot.
 
-I've watched clients discover mid-surgery or during a hospital stay that their Advantage plan required serious cost-sharing at the moment of service. That doesn't make these plans bad. It just means the low premium is incomplete information.
+A common discovery during surgery or a hospital stay is that an Advantage plan requires serious cost-sharing at the moment of service. That doesn't make these plans bad. It just means the low premium is incomplete information.
 
 ## The Network Question: Where Can You Get Care?
 
@@ -106,7 +106,7 @@ Answer these questions before you commit.
 
 **Step 4: Think about timing.** When you first enroll in Medicare Part B, you get a six-month Medigap Open Enrollment Period. During that window, insurers must sell you any plan they offer at standard pricing, regardless of your health history. After that window closes, most states allow medical underwriting. Insurers can charge you more or deny coverage based on pre-existing conditions. Getting into Medigap later, after trying Medicare Advantage, becomes difficult or expensive. AARP's Medicare resource center at [aarp.org](https://www.aarp.org/health/medicare-insurance/) explains these enrollment rules clearly and it's worth reading before you move.
 
-**Step 5: Talk to someone with no commission stake.** Your state's SHIP (State Health Insurance Assistance Program) offers free, unbiased counseling from trained volunteers. They have zero financial interest in your choice. The SHIP national network at [shiphelp.org](https://www.shiphelp.org/) connects you to local counselors who understand your state's specific options. I've seen this resource turn confused, panicked seniors into confident decision-makers.
+**Step 5: Talk to someone with no commission stake.** Your state's SHIP (State Health Insurance Assistance Program) offers free, unbiased counseling from trained volunteers. They have zero financial interest in your choice. The SHIP national network at [shiphelp.org](https://www.shiphelp.org/) connects you to local counselors who understand your state's specific options.
 
 ---
 
@@ -125,7 +125,6 @@ There's no universal right answer. Anyone claiming otherwise is oversimplifying.
 - [aarp.org](https://www.aarp.org/health/medicare-insurance/)
 - [shiphelp.org](https://www.shiphelp.org/)
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

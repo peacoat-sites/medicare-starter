@@ -34,7 +34,7 @@ That's the thing about Medicare Savings Programs (MSPs). They're not hidden exac
 
 MSPs are state-administered programs funded jointly by states and the federal government through Medicaid. There are four of them, and they all do the same basic thing: they pay for some or all of your Medicare cost-sharing if your income and assets fall below certain thresholds. The four programs have bureaucratic names, but here's what they actually do:
 
-The **Qualified Medicare Beneficiary (QMB)** program is the most comprehensive. It covers your Part A premium (if you have one), your Part B premium, and your deductibles, copays, and coinsurance across both parts. If you're enrolled in QMB, Medicare providers are actually prohibited by federal law from billing you for cost-sharing. Not just supposed to not bill you. Prohibited. I've seen people enrolled in QMB still getting bills from providers who either didn't know or didn't care. You can push back on those.
+The **Qualified Medicare Beneficiary (QMB)** program is the most comprehensive. It covers your Part A premium (if you have one), your Part B premium, and your deductibles, copays, and coinsurance across both parts. If you're enrolled in QMB, Medicare providers are actually prohibited by federal law from billing you for cost-sharing. Not just supposed to not bill you. Prohibited. Some people enrolled in QMB still receive bills from providers who aren't aware of or don't follow this rule. You can push back on those.
 
 The **Specified Low-Income Medicare Beneficiary (SLMB)** program does one thing: it pays your Part B premium. That's currently around $185 a month, depending on your income, which adds up to more than $2,200 a year returned to your Social Security payment.
 
@@ -52,8 +52,6 @@ The fourth, **Qualified Disabled and Working Individuals (QDWI)**, is narrow. It
 | Qualified Disabled and Working Individuals (QDWI) | Covers Part A premium | Varies; under 65, disabled | Disabled individuals who lost Medicare due to work |
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 What most people don't realize is that the income and asset limits for MSPs are more generous than they used to be, and several states have made them even more generous than the federal minimums. The federal government sets a floor; states can go higher, and many do.
 
@@ -79,11 +77,11 @@ One genuinely underused resource here is your local [State Health Insurance Assi
 
 If you qualify for QMB, SLMB, or QI, you're automatically eligible for Extra Help, which is Medicare's Low Income Subsidy (LIS) for Part D prescription drug costs. Extra Help can reduce or eliminate your Part D premiums, lower your drug copays to a few dollars per prescription, and eliminate the Part D coverage gap (sometimes called the donut hole, though its structure has changed in recent years).
 
-The value of Extra Help is substantial. People who qualify for the full subsidy can save well over a thousand dollars a year on prescription costs, sometimes considerably more depending on what medications they take. If you're enrolled in an MSP, Social Security is supposed to automatically enroll you in Extra Help. But confirm it happened. I've seen the automatic enrollment miss people, and a phone call to Social Security (1-800-772-1213) takes ten minutes to verify.
+The value of Extra Help is substantial. People who qualify for the full subsidy can save well over a thousand dollars a year on prescription costs, sometimes considerably more depending on what medications they take. If you're enrolled in an MSP, Social Security is supposed to automatically enroll you in Extra Help. But confirm it happened. The automatic enrollment occasionally misses people, so a phone call to Social Security (1-800-772-1213) can verify your status.
 
 ## A Contrarian Take Worth Considering
 
-Here's something that might push back against what you've read elsewhere: MSPs are worth applying for even if you think you're "just barely over" the income limit. I've seen people self-screen themselves out based on a rough mental math calculation that turned out to be wrong.
+MSPs are worth applying for even if you think you're "just barely over" the income limit. Many people self-screen themselves out based on rough calculations that turn out to be inaccurate.
 
 Why? Because many states use a "disregard" for income, meaning certain types of income don't count toward the limit at all. Food assistance payments, some earned income, irregular income sources, and in some states, portions of Social Security itself get excluded from the calculation. The number you see in your bank account is not necessarily the number the state uses to determine eligibility. [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has a good overview of how income disregards work if you want to dig into it before you apply.
 
@@ -96,7 +94,6 @@ MSP enrollment isn't permanent. You'll get a renewal notice, typically once a ye
 If your income or assets change, report it. This goes both directions. If your income drops, you might qualify for a more generous MSP level than you're currently enrolled in. If it goes up, you want to report that too rather than deal with an overpayment situation later.
 
 ---
-
 
 ---
 
@@ -115,7 +112,6 @@ The woman who called me, the one who'd spent two years paying a premium she didn
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

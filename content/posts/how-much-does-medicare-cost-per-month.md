@@ -31,9 +31,7 @@ You might be wondering: "Okay, but what will I actually pay?" Here's what I tell
 
 The good news is that most people pay less than they expect for the basics. The part that catches people off guard is everything layered on top.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most people pay $185/month for Medicare Part B in 2026 (higher earners pay more).</li><li style="margin:5px 0">Part A (hospital) is free for most people who worked 40+ quarters; others pay up to $518/month.</li><li style="margin:5px 0">Medicare Advantage plans can have $0 premiums but often come with copays and network restrictions.</li><li style="margin:5px 0">Medigap (supplement) plans typically add $100-$300+/month but can dramatically reduce out-of-pocket costs.</li><li style="margin:5px 0">Your total monthly Medicare cost in 2026 can range from roughly $0 to $600+ depending on your situation.</li></ul></div>
-
 
 ## The Parts and What They Actually Cost
 
@@ -41,11 +39,9 @@ Let me start with the building blocks, because this is where a lot of confusion 
 
 **Part A** covers hospital stays, skilled nursing facilities, and some home health care. If you or your spouse worked and paid Medicare taxes for at least 40 quarters (that's 10 years), you don't pay a premium for Part A at all. Most people qualify. If you have between 30 and 39 quarters, your Part A premium in 2026 is $284 per month. Fewer than 30 quarters and you're looking at $518 per month. That's a significant cost that surprises people who spent time self-employed or working outside the U.S.
 
-**Part B** is where almost everyone pays something. The standard Part B premium in 2026 is $185 per month. That's deducted automatically from your Social Security check if you're receiving benefits, which most people are. If you're not yet taking Social Security, Medicare bills you quarterly instead, and I've seen that catch people off guard when a $555 bill shows up.
+**Part B** is where almost everyone pays something. The standard Part B premium in 2026 is $185 per month. That's deducted automatically from your Social Security check if you're receiving benefits, which most people are. If you're not yet taking Social Security, Medicare bills you quarterly instead, which can catch people off guard when a $555 bill arrives.
 
 **Part D** covers prescription drugs. Premiums vary by plan and where you live, but the national base beneficiary premium is around $36 per month in 2026. Your actual premium could be higher or lower depending on which plan you choose.
-
-Here's the table I wish someone had handed me when I first started doing this work:
 
 | Medicare Part | What It Covers | 2026 Monthly Premium (typical) |
 |---|---|---|
@@ -55,15 +51,11 @@ Here's the table I wish someone had handed me when I first started doing this wo
 | Part D | Prescription drugs | ~$0 to $100+ depending on plan |
 | Medigap (Supplement) | Fills gaps in Original Medicare | ~$80 to $300+ |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical 2026 Monthly Medicare Premiums by Part</div><div class="sc-row"><span class="sc-label">Part A (no premium)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Part B (standard)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$185</span></div><div class="sc-row"><span class="sc-label">Part D (avg baseline)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$36</span></div><div class="sc-row"><span class="sc-label">Medigap Plan G (avg)</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">$165</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage (avg)</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$17</span></div><div class="sc-src">Source: CMS 2026 Medicare premium announcements</div></div>
-
 
 ## IRMAA: The Income Surcharge Nobody Warns You About
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This one is genuinely frustrating, and I say that as someone who has watched good people get blindsided by it year after year. If your modified adjusted gross income from two years prior exceeds certain thresholds, you pay more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's calculated based on your tax return from 2024 when you're enrolling in 2026.
 
@@ -80,11 +72,11 @@ The tiers in 2026 look like this:
 
 Part D also has IRMAA surcharges on top of your plan premium, ranging from about $13 to $81 extra [per month](/average-medicare-costs-per-month/) at the higher tiers.
 
-If you had a one-time income event (sold a house, took a large IRA distribution, retired mid-year), you may qualify for an IRMAA appeal using Form SSA-44. I've helped people save hundreds of dollars a month this way. It's not automatic; you have to file it yourself. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) explains the appeal process, and it's worth doing if your income dropped significantly.
+If you had a one-time income event (sold a house, took a large IRA distribution, retired mid-year), you may qualify for an IRMAA appeal using Form SSA-44. You have to file it yourself; it's not automatic. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) explains the appeal process, and it's worth doing if your income dropped significantly.
 
 ## Original Medicare vs. Medicare Advantage: The Real Trade-Off
 
-Lots of people ask me which is better. Honestly, there isn't a universal right answer, and anyone who tells you otherwise is oversimplifying. But here's my honest take after two decades of this work.
+Lots of people ask me which is better. There isn't a universal right answer, and anyone who tells you otherwise is oversimplifying. But here's my honest take after two decades of this work.
 
 [Original Medicare](/can-i-switch-from-medicare-advantage-back-to-original-medicare/) (Parts A + B) gives you the widest access to doctors and hospitals in the country. Almost every provider accepts it. You pay your Part B premium, your deductibles (the Part A hospital deductible is $1,676 per benefit period in 2026, and the Part B deductible is $257 for the year), and then coinsurance on most services. The catch: there's no out-of-pocket maximum. A bad year can cost you tens of thousands. That's why many people add a Medigap supplement plan.
 
@@ -121,7 +113,6 @@ A worked example: Robert, 70, single, lives in Ohio on $1,400/month Social Secur
 - Kaiser Family Foundation Medicare Policy Resources: Research on Medicare Advantage enrollment trends and out-of-pocket cost comparisons
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

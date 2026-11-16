@@ -27,27 +27,23 @@ faqs:
 
 Most people who get a Medicare denial letter assume the decision is final. It isn't. And that assumption costs beneficiaries real money every single year.
 
-Here's a number that stopped me cold when I first saw it: according to data from the Office of Medicare Hearings and Appeals (OMHA), beneficiaries who appeal Medicare denials win their cases at the Administrative Law Judge level roughly 75% of the time. Three out of four. That means the initial denial, which feels so official and intimidating in that envelope, is often just... wrong. Or at least contestable. And most people never push back.
+According to data from the Office of Medicare Hearings and Appeals (OMHA), beneficiaries who appeal Medicare denials win their cases at the Administrative Law Judge level roughly 75% of the time. Three out of four. That means the initial denial, which feels so official and intimidating in that envelope, is often just... wrong. Or at least contestable. And most people never push back.
 
 I've sat across the table from hundreds of people over the years who quietly absorbed a denial, paid the bill, and moved on. I understand why. The letters are full of codes and jargon, and when you're also managing a health condition, fighting paperwork feels like one burden too many. But if there's one thing I want you to take from this article, it's that the appeals process was specifically built for you, and it works more often than anyone tells you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Beneficiaries win roughly 75% of Medicare appeals at the ALJ (Administrative Law Judge) level, per OMHA data.</li><li style="margin:5px 0">You have 120 days from receiving a denial to file a standard appeal (redetermination).</li><li style="margin:5px 0">The appeals process has 5 levels; most disputes resolve at levels 1 or 2, without a hearing.</li><li style="margin:5px 0">Always request your Medicare Summary Notice (MSN) first ,  it's the starting document for every dispute.</li><li style="margin:5px 0">A free SHIP counselor (State Health Insurance Assistance Program) can walk you through every step at no cost.</li></ul></div>
-
 
 ## What You're Actually Disputing (and Why the Terminology Matters)
 
 Before we get into the how, let's make sure we're talking about the same thing. A Medicare "claim dispute" or "appeal" is your formal request for Medicare to reconsider a coverage or payment decision. That decision might be a denial of a service, a determination that something isn't "medically necessary," or a bill you received that you think Medicare should have paid.
 
-The document you'll need first is your Medicare Summary Notice, or MSN. If you're in Original Medicare (Parts A and B), this mailed statement arrives every three months and lists every service billed to Medicare on your behalf, what Medicare paid, and what you owe. Think of it as your receipt. If you're in a [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) (Part C), the equivalent is called an Explanation of Benefits, or EOB. Different name, same idea. I've had people call me convinced they don't have this document, and it's usually sitting in a pile of mail they assumed was junk. Open everything with a Medicare logo on it.
+The document you'll need first is your Medicare Summary Notice, or MSN. If you're in Original Medicare (Parts A and B), this mailed statement arrives every three months and lists every service billed to Medicare on your behalf, what Medicare paid, and what you owe. Think of it as your receipt. If you're in a [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) (Part C), the equivalent is called an Explanation of Benefits, or EOB. Different name, same idea. Many people assume they don't have this document, and it's often sitting in a pile of mail mistaken for junk. Open everything with a Medicare logo on it.
 
 One thing that trips people up: you can dispute a denial before you've even received a bill. If your doctor says a service might not be covered, you can request an "Advance Beneficiary Notice" (ABN) and, in some cases, ask Medicare to review it preemptively. This is called an "organization determination" for [Advantage plans](/best-medicare-advantage-plans-with-dental-and-vision-2026/), and most people don't know it exists.
 
 ## The Five Levels of Appeal
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The Medicare appeals process is structured in five levels, each escalating if the previous one doesn't go your way. Most disputes resolve in the first two. Here's how they look in practice:
 
@@ -71,29 +67,27 @@ This is where I want to get specific, because the generic advice out there is of
 
 **Step 3: Fill out the right form.** For Part B redeterminations, that's CMS Form 20027. For Part A, it's often a written request. You can find current forms at [the Centers for Medicare & Medicaid Services](https://www.cms.gov/) website. Write clearly, include your Medicare number, the claim number, the date of service, and a brief explanation of why you believe the denial was wrong. Brief. A page is enough.
 
-**Step 4: Send it certified mail, return receipt requested.** Keep a copy of everything. I've seen people lose appeals simply because they couldn't prove they filed within the deadline. That green return-receipt card is your proof.
+**Step 4: Send it certified mail, return receipt requested.** Keep a copy of everything. Without proof of timely filing, appeals can be lost. That green return-receipt card is your proof.
 
 **Step 5: Wait, and follow up.** Level 1 decisions should come within 60 days. If you haven't heard back, call 1-800-MEDICARE (1-800-633-4227) and ask about the status.
 
-One scenario I've seen go well: A woman in her early 70s, let's call her Maria, had a [home health](/medicare-home-health-care-cost/) aide visit denied as "not medically necessary" following a hip replacement. She had her surgeon write a one-page letter explaining exactly why homebound status applied under Medicare's criteria. Filed Level 1 redetermination. Result: full denial reversed within 45 days, approximately $1,200 in charges dropped.
+As one example, a [home health](/medicare-home-health-care-cost/) aide visit denied as "not medically necessary" following a hip replacement was reversed after the patient's surgeon provided a one-page letter explaining why homebound status applied under Medicare's criteria. A Level 1 redetermination filed with that documentation resulted in a full reversal within 45 days, with approximately $1,200 in charges dropped.
 
 Another: A man disputing a skilled nursing facility discharge got his case to Level 3. The ALJ agreed with him. He stayed in the facility an additional 11 days, covered by Medicare. That was roughly $4,400 in coverage he would have lost had he accepted the original decision.
 
 ## The "Medically Necessary" Problem
 
-Honestly, this is the source of most denials I see. Medicare uses a specific definition: a service is medically necessary if it's "reasonable and necessary for the diagnosis or treatment of illness or injury." Sounds clear. It isn't.
+This is the source of most denials I see. Medicare uses a specific definition: a service is medically necessary if it's "reasonable and necessary for the diagnosis or treatment of illness or injury." Sounds clear. It isn't.
 
 Medicare contractors, who are private companies paid by the government to process claims, sometimes apply Local Coverage Determinations (LCDs) that are stricter than what your doctor ordered. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes all LCDs publicly. I'd encourage you to look up the LCD for whatever service was denied, because sometimes the denial is based on missing documentation rather than the service itself being uncovered. That's actually good news, because it means adding the right documentation can reverse the denial at Level 1 without a fight.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare Appeal Outcomes by Level (Overturn Rate %)</div><div class="sc-row"><span class="sc-label">Level 1 Redetermination</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Level 2 QIC Reconsideration</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Level 3 ALJ Hearing</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">75%</span></div><div class="sc-row"><span class="sc-label">Level 4 Appeals Council</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">23%</span></div><div class="sc-src">Source: OMHA Annual Report (2024)</div></div>
-
 
 That jump at Level 3 is striking, and it's consistently documented in OMHA's annual reports. Independent ALJs, who aren't employed by Medicare contractors, review the evidence fresh. They overturn contractor decisions at a rate that should make every denial feel provisional, not permanent.
 
 ## Get Help: You Don't Have to Do This Alone
 
-If reading all of this makes you feel like you need a law degree, I want to reassure you: you don't. The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free one-on-one counseling in every state, from trained volunteers who know this process cold. They can review your denial letter with you, help you draft your appeal, and tell you if your case is strong. In my experience, people who use SHIP counselors file better appeals. Not because SHIP writes the appeal for you, but because they help you frame the argument in Medicare's language.
+You don't need a law degree to navigate this process. The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free one-on-one counseling in every state, from trained volunteers who know this process cold. They can review your denial letter with you, help you draft your appeal, and tell you if your case is strong. People who use SHIP counselors typically file stronger appeals. Not because SHIP writes the appeal for you, but because they help you frame the argument in Medicare's language.
 
 You can also hire a Medicare attorney, though for most Part B disputes, the amounts involved don't justify legal fees unless you've reached Level 3 or beyond. At that point, some attorneys work on contingency.
 
@@ -108,7 +102,6 @@ One thing I'll admit I got wrong for years: I used to tell people to just call M
 - [Medicare Interactive (Medicare Rights Center)](https://www.medicareinteractive.org/): Nonprofit-produced resource with detailed appeal guidance, especially for Part C and Part D denials.
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

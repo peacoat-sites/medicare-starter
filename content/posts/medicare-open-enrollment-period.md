@@ -33,7 +33,7 @@ Let's clear up some confusion right away, because the term "open enrollment" get
 
 The Medicare Open Enrollment Period, also called the Annual Enrollment Period or AEP, runs every year from October 15 through December 7. Any changes you make during this window take effect January 1 of the following year. This is your annual opportunity to review your Medicare coverage and make changes without answering health questions or proving special circumstances.
 
-Here's what most people don't realize: you don't have to do anything if your current coverage is working well. Open enrollment isn't mandatory. But doing nothing is a decision too, and it's one I've seen people regret when their plan quietly changes its benefits, drug formulary (the list of covered medications), or provider network for the new year.
+You don't have to do anything if your current coverage is working well. Open enrollment isn't mandatory. But doing nothing is a decision too - and plans often quietly change their benefits, drug formulary (the list of covered medications), or provider network for the new year.
 
 During this period, you can:
 
@@ -103,7 +103,7 @@ One thing I'll say plainly: be cautious about unsolicited calls or mailers that 
 
 ## Common Mistakes I See Every Year
 
-I've been doing this long enough to recognize the patterns. Here are the ones that cost people the most.
+Several common enrollment mistakes can be costly.
 
 **Ignoring the ANOC letter.** If your plan is changing your drug coverage and you don't realize it until February, it's too late to switch. Read that letter.
 
@@ -124,7 +124,6 @@ Open enrollment doesn't have to feel like a chore you dread every fall. Think of
 - [Medicare supplement insurance guide](https://amzn.to/medicare-supplement)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

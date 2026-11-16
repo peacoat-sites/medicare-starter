@@ -93,7 +93,7 @@ Here's what Part A and Part B don't cover, and this is where people run into rea
 
 The line between inpatient and outpatient isn't always obvious, and that line matters enormously for your costs.
 
-Take a hospital visit that starts in the emergency room and turns into a longer stay. You might expect that to count as inpatient automatically. But hospitals sometimes keep patients under "observation status," which is technically outpatient and billed under Part B. That distinction affects not just your current bill but whether you'll qualify for SNF coverage afterward. If you weren't admitted as an inpatient for three days, you don't qualify, no matter how sick you were. I've seen this cost people tens of thousands of dollars.
+Take a hospital visit that starts in the emergency room and turns into a longer stay. You might expect that to count as inpatient automatically. But hospitals sometimes keep patients under "observation status," which is technically outpatient and billed under Part B. That distinction affects not just your current bill but whether you'll qualify for SNF coverage afterward. If you weren't admitted as an inpatient for three days, you don't qualify, no matter how sick you were. This distinction can cost patients tens of thousands of dollars.
 
 Ask your care team directly: "Am I being admitted as an inpatient, or am I under observation status?" It's your right to know, and it's worth asking every time.
 

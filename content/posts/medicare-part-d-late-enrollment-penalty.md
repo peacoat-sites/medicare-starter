@@ -94,7 +94,7 @@ Call 1-800-MEDICARE (1-800-633-4227) and ask for a written explanation of how yo
 Pull together any letters, insurance cards, explanation-of-benefits documents, or employer statements that prove you had creditable drug coverage during all or part of the gap period Medicare identified.
 
 **Step 3: File an appeal if you believe the calculation is wrong.**
-You can request reconsideration of the penalty through Medicare. The appeals process isn't quick, but it works. I've seen clients successfully wipe out their entire penalty because they dug up an old employer letter proving their retiree coverage was creditable. Medicare's appeals process is outlined at [Medicare.gov](https://www.medicare.gov/), and a counselor at your local [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) can walk you through it at no cost.
+You can request reconsideration of the penalty through Medicare. The appeals process isn't quick, but it works. Penalties can sometimes be removed entirely if you can provide documentation like an old employer letter proving your retiree coverage was creditable. Medicare's appeals process is outlined at [Medicare.gov](https://www.medicare.gov/), and a counselor at your local [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) can walk you through it at no cost.
 
 **Step 4: If the penalty stands, factor it into your plan selection.**
 Not all Part D plans have the same base premium. A plan with a lower monthly premium might still be the better deal even after the penalty is added. Use the [plan comparison tool](/comparing-medicare-part-d-plans/) at Medicare.gov to run the real numbers, including your specific medications.
@@ -147,7 +147,6 @@ Getting hit with a penalty you didn't expect is frustrating, especially when it 
 - [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

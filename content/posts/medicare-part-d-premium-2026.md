@@ -35,7 +35,7 @@ The national base beneficiary premium for 2026 is set at $36.78, up from $34.70 
 
 A few things are piling up at once. The Inflation Reduction Act of 2022 restructured Part D's benefit design significantly, including capping out-of-pocket drug costs at $2,000 annually starting in 2025. That protection is genuinely valuable, but insurance plans are now pricing in the added liability. Specialty drug costs, especially for GLP-1 medications like semaglutide, are straining plan formularies hard. Plans absorb more risk now, and premiums reflect that reality.
 
-The Centers for Medicare & Medicaid Services has published the full 2026 Part D landscape data, which shows a wide range of plan premiums available across regions. That range is the important part: across most states, you'll find plans ranging from under $10 per month to well over $100. The average beneficiary has access to more than 20 standalone Part D plans. Here's the thing that should grab you: the difference between the cheapest adequate plan and the one you're defaulting to could easily be $600 or more per year.
+The Centers for Medicare & Medicaid Services has published the full 2026 Part D landscape data, which shows a wide range of plan premiums available across regions. That range is the important part: across most states, you'll find plans ranging from under $10 per month to well over $100. The average beneficiary has access to more than 20 standalone Part D plans. The difference between the cheapest adequate plan and the one you're defaulting to could easily be $600 or more per year.
 
 ## The Income Adjustment Most People Don't Expect: IRMAA
 
@@ -52,7 +52,7 @@ IRMAA for Part D in 2026 is based on your 2024 tax return. Here's how the bracke
 | $200,001 to $500,000 | $400,001 to $750,000 | $78.60 |
 | Above $500,000 | Above $750,000 | $85.80 |
 
-These surcharges are billed separately by Social Security, not by your plan. You pay your plan premium plus whatever IRMAA applies. Now here's the thing most people miss: if your income dropped significantly after 2024 due to retirement, a one-time capital gain, or a major life event, you can file a life-change appeal using SSA Form SSA-44 to request a lower IRMAA tier. I've seen clients save hundreds of dollars a year this way, and most of them didn't know the appeal option existed.
+These surcharges are billed separately by Social Security, not by your plan. You pay your plan premium plus whatever IRMAA applies. If your income dropped significantly after 2024 due to retirement, a one-time capital gain, or a major life event, you can file a life-change appeal using SSA Form SSA-44 to request a lower IRMAA tier. Many people aren't aware this appeal option exists, even though it can save hundreds of dollars a year.
 
 ## How to Compare Plans the Right Way
 
@@ -67,7 +67,7 @@ These surcharges are billed separately by Social Security, not by your plan. You
 
 The single biggest mistake people make during Medicare's Open Enrollment Period (October 15 through December 7 each year) is focusing on the monthly premium alone. A $12-per-month plan sounds appealing until you realize it covers none of your four regular prescriptions at the preferred tier.
 
-Compare plans by total annual drug cost. Premium plus deductible plus your expected copays for your specific medications. That's what matters. [Medicare.gov's Plan Finder tool](/comparing-medicare-part-d-plans/) does exactly this calculation for you. You enter your drugs and doses, and it ranks every available plan in your area by estimated total annual cost. It's free, takes about 15 minutes, and in my experience, the cheapest plan by total cost is almost never the one with the lowest premium.
+Compare plans by total annual drug cost. Premium plus deductible plus your expected copays for your specific medications. That's what matters. [Medicare.gov's Plan Finder tool](/comparing-medicare-part-d-plans/) does exactly this calculation for you. You enter your drugs and doses, and it ranks every available plan in your area by estimated total annual cost. It's free and takes about 15 minutes. In most cases, the cheapest plan by total cost is not the one with the lowest premium.
 
 Here's how to do it:
 

@@ -65,7 +65,7 @@ What you actually get:
 
 The flexibility of a PPO is real. If you have a specialist at a major academic medical center who's out of network, you can still see them, you'll just pay more. If you split time between two states, a PPO is almost always the better structural choice since your in-network options follow you.
 
-But I've seen people choose a PPO thinking they'll use the out-of-network option regularly, then experience sticker shock when they see what it costs. The out-of-network out-of-pocket maximum on some PPO plans runs quite high, and Medicare.gov makes clear that these figures vary significantly by plan. Read the Evidence of Coverage document, not just the Summary of Benefits, before you commit.
+A common mistake is choosing a PPO with the expectation of using out-of-network providers regularly, only to encounter high costs when doing so. The out-of-network out-of-pocket maximum on some PPO plans runs quite high, and Medicare.gov makes clear that these figures vary significantly by plan. Read the Evidence of Coverage document, not just the Summary of Benefits, before you commit.
 
 ## HMO vs. PPO: A Side-by-Side Comparison
 
@@ -133,7 +133,6 @@ Choosing between an HMO and a PPO inside Medicare Advantage comes down to your d
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
 - [Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

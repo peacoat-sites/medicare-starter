@@ -27,7 +27,7 @@ faqs:
 
 Ninety percent of seniors who need long-term care assume Medicare will pay for their assisted living facility. Ninety percent. That figure comes from a 2023 survey by the Kaiser Family Foundation, and every time I cite it, I watch it land like a punch in the stomach. Because when that assumption turns out to be wrong, it isn't a small inconvenience. It's a financial crisis that families had no idea was coming.
 
-I'll be honest: I spent years as a Medicare counselor quietly correcting this mistake in one-on-one appointments, but I never fully appreciated how widespread the confusion was until a reader named Carol from Phoenix emailed me. Her mother had just been placed in an assisted living facility at $4,800 a month. Carol had signed the paperwork confident that Medicare would kick in. She asked me which form to submit for reimbursement. There is no such form. Medicare doesn't cover assisted living. Full stop.
+A common misconception is that Medicare covers assisted living facilities. It does not. Medicare doesn't cover assisted living. Full stop.
 
 That's the answer, and I won't make you read 1,400 words to find it. But the *why* behind it, and the ways you can actually get help paying for care, are where this gets genuinely complicated and genuinely important.
 
@@ -41,15 +41,11 @@ What surprised me, even after two decades in this field, is how many people conf
 
 Assisted living facilities almost never meet those criteria. And even when a resident of an assisted living facility needs occasional skilled services, Medicare might pay for a home health aide to visit, or for outpatient therapy, but it won't pay for the room or the round-the-clock supervision.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual assisted living cost by state (2026)</div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$72,000</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">$45,000</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$43,200</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:82%"></span></span><span class="sc-val">$58,800</span></div><div class="sc-row"><span class="sc-label">Ohio</span><span class="sc-track"><span class="sc-bar" style="width:58%"></span></span><span class="sc-val">$42,000</span></div><div class="sc-row"><span class="sc-label">Arizona</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$48,000</span></div><div class="sc-src">Source: Genworth Cost of Care Survey 2025</div></div>
-
 
 ## The Real Numbers, Because You Need to Know Them
 
 > **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 According to the Genworth Cost of Care Survey (one of the most consistently reliable data sources on this, current as of July 2026), the national median monthly cost for assisted living is about $5,350, or roughly $64,200 a year. That's the middle of the road. In California's coastal markets, you can easily spend $7,000 to $8,500 a month. In rural Ohio or rural Kansas, you might find $3,200 a month, though those facilities vary enormously in quality and services.
 
@@ -71,8 +67,6 @@ This is where I want to push back against the fatalism I sometimes see. There ar
 
 **Medicaid**, not Medicare, is the primary public payer for long-term care in the United States. Medicaid is a joint federal-state program for people with limited income and assets. As of this year, 36 states offer what are called Home and Community Based Services (HCBS) waivers that can cover some or all of assisted living costs. Arizona, Oregon, and Washington state have particularly well-developed waiver programs. But here's the catch most families don't know: these waivers almost always have waiting lists. In Florida, some waiver programs have waiting lists measured in years, not months.
 
-Three scenarios I've seen play out in real life:
-
 Margaret, 81, from Phoenix, Arizona, had $60,000 in savings when she entered assisted living at $4,200 a month. Her family applied for Arizona's ALTCS (Arizona Long Term Care System, which is the state's Medicaid-equivalent program) immediately. After a 4-month application process and asset spend-down, she qualified. ALTCS now covers her care costs. Total private pay spent before coverage began: roughly $16,800.
 
 Robert, 74, from suburban Chicago, had a long-term care insurance policy he'd purchased in 2009 paying $180 a day. His facility costs $195 a day. He pays the $15-per-day gap out of pocket, about $5,475 a year, while insurance covers the bulk. The policy cost him about $2,400 a year in premiums for 15 years. He's already come out ahead.
@@ -83,7 +77,7 @@ Linda, 79, from rural Mississippi, had no long-term care insurance and was just 
 
 ## One Thing Medicare Supplement Plans Won't Fix
 
-I want to address this directly because I get the question constantly. Medicare Supplement plans (also called Medigap policies) help cover Medicare's gaps, like copays, coinsurance, and deductibles. They do not, under any circumstance, cover services that Medicare itself excludes. Since Medicare excludes assisted living entirely, no Medigap plan, Plan G, Plan N, Plan K, none of them, will touch a single dollar of your assisted living bill. Same goes for Medicare Advantage (Part C) plans. Some Medicare Advantage plans offer limited supplemental benefits like home safety modifications or personal care hours, which can help at the margins, but they won't cover residential assisted living costs. I've seen families buy the most expensive Medicare Advantage plan available, thinking they were protected, and then face the exact same situation Carol from Phoenix described.
+I want to address this directly because I get the question constantly. Medicare Supplement plans (also called Medigap policies) help cover Medicare's gaps, like copays, coinsurance, and deductibles. They do not, under any circumstance, cover services that Medicare itself excludes. Since Medicare excludes assisted living entirely, no Medigap plan, Plan G, Plan N, Plan K, none of them, will touch a single dollar of your assisted living bill. Same goes for Medicare Advantage (Part C) plans. Some Medicare Advantage plans offer limited supplemental benefits like home safety modifications or personal care hours, which can help at the margins, but they won't cover residential assisted living costs. Some families purchase expensive Medicare Advantage plans expecting protection for assisted living costs, only to discover they're not covered.
 
 If you want to research your plan options yourself, [Medicare.gov](https://www.medicare.gov/) has a plan comparison tool that shows exactly what supplemental benefits each plan in your area covers. Worth spending 20 minutes on before you assume anything.
 
@@ -96,7 +90,6 @@ If you want to research your plan options yourself, [Medicare.gov](https://www.m
 - [Medicaid.gov HCBS Waiver Information](https://www.medicaid.gov/medicaid/home-community-based-services/index.html): State-by-state data on Home and Community Based Services waiver programs
 
 ---
-
 
 ---
 

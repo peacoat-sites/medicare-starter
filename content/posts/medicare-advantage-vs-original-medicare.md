@@ -73,7 +73,7 @@ Here's how they stack up:
 | Travel coverage | Nationwide | Limited to network area (usually) |
 | Prior authorization | Rarely required | Common |
 
-I've watched clients pick a plan based purely on the $0 premium, then watch a claim get denied because their specialist wasn't in-network. The sticker price never tells the whole story.
+A common mistake is picking a plan based purely on the $0 premium, only to have a claim denied because a specialist isn't in-network. The sticker price never tells the whole story.
 
 ## The Network Question: Why It Matters More Than You Think
 
@@ -83,7 +83,7 @@ Original Medicare is accepted by the vast majority of doctors, hospitals, and sp
 
 Medicare Advantage plans typically use an HMO or PPO structure. An HMO requires a primary care doctor and referrals for specialists. You generally can't see out-of-network providers except in emergencies. A PPO offers more flexibility but charges you more when you go outside the network.
 
-This hits hard in retirement. If you've trusted the same cardiologist for 15 years and they don't accept your Medicare Advantage plan, you either pay out-of-network costs or find a new doctor. I've worked with clients who discovered this sitting in the waiting room.
+This hits hard in retirement. If you've trusted the same cardiologist for 15 years and they don't accept your Medicare Advantage plan, you either pay out-of-network costs or find a new doctor. This is worth checking before you enroll.
 
 Before enrolling in any Advantage plan, call your current doctors directly and ask if they accept that specific plan. Don't trust the insurance company's online directory alone. Those aren't always current.
 

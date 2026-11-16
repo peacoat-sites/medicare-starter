@@ -31,9 +31,7 @@ I've spent two decades walking people through Medicare benefits, and that statis
 
 I'll be honest: I went deep on this specifically because I kept getting the same question from Florida seniors in our counseling sessions. "Frank, I'm on Medicare and I can barely make rent. What can I actually do?" The answer is more specific, and more actionable, than most articles tell you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Florida has 4 Medicare Savings Program levels; the most common (SLMB) pays your $185/month Part B premium.</li><li style="margin:5px 0">Income limits in 2026: roughly $1,660/month for a single person to qualify for at least one MSP tier.</li><li style="margin:5px 0">Enrolling in any MSP automatically enrolls you in Extra Help for Part D drug costs, saving up to $5,400/year.</li><li style="margin:5px 0">Apply through Florida's Department of Children and Families (DCF), not Social Security or Medicare directly.</li><li style="margin:5px 0">Assets are no longer counted for MSP eligibility in Florida as of 2023, a rule change most people don't know about.</li></ul></div>
-
 
 ## What the Numbers Actually Look Like
 
@@ -43,17 +41,13 @@ What surprised me when I dug into the state-level data was the geographic skew. 
 
 The Part B premium alone tells most of the story. At $185.00 per month in 2026 (per [Medicare.gov](https://www.medicare.gov/)), a senior on the Specified Low-Income Medicare Beneficiary program, which is just the second MSP tier, saves $2,220 a year. Every year. Just from one enrollment.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Annual savings by MSP tier (2026)</div><div class="sc-row"><span class="sc-label">QMB (Full)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">SLMB (Part B only)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">$2,220</span></div><div class="sc-row"><span class="sc-label">QI (Part B only)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">$2,220</span></div><div class="sc-row"><span class="sc-label">QDWI (Part A)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$505</span></div><div class="sc-src">Source: CMS 2026 Medicare Savings Program data</div></div>
-
 
 The QMB figure is estimated conservatively, it covers premiums, deductibles, and cost-sharing, so actual savings vary by how much care you use. I don't have a precise average, so I'll call it roughly $4,200 for a typical Medicare user, though for someone with chronic conditions it can easily run higher.
 
 ## The Four Tiers, Explained Plainly
 
 > **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where I see people get tangled. There isn't "one" Medicare Savings Program. There are four, each with a slightly different income cutoff and a different set of benefits.
 
@@ -66,7 +60,7 @@ Here's where I see people get tangled. There isn't "one" Medicare Savings Progra
 
 *Figures are 2026 federal poverty level-based estimates. Exact Florida thresholds are set annually by DCF and may differ slightly. Always verify at [Florida DCF's ACCESS portal](https://www.myflorida.com/accessflorida/) or call 1-866-762-2237.*
 
-QMB is the most valuable by a mile. If you qualify, providers are actually prohibited by federal law from billing you cost-sharing amounts. I've had clients who didn't know this and had paid years of copays they legally didn't owe. That still makes me frustrated to think about.
+QMB is the most valuable option available. If you qualify, providers are prohibited by federal law from billing you cost-sharing amounts. Many people don't realize this and end up paying copays they legally don't owe.
 
 The QI tier is worth flagging separately: it's federally funded on a first-come, first-served basis each year. Spots can technically run out. In practice Florida usually has adequate funding, but I always tell people don't wait until December to apply.
 
@@ -80,7 +74,7 @@ This is one of the biggest underreported changes in Florida Medicare policy in r
 
 ## How to Actually Apply in Florida
 
-The state routes MSP applications through the Department of Children and Families, not through Medicare or Social Security. That trips people up constantly. I've had folks call the 1-800-MEDICARE line, get told they can't help with enrollment, and just hang up assuming it wasn't possible.
+The state routes MSP applications through the Department of Children and Families, not through Medicare or Social Security. This often confuses applicants, who may call 1-800-MEDICARE only to be told they can't help with enrollment.
 
 The actual process:
 
@@ -88,7 +82,7 @@ You apply through DCF's ACCESS Florida portal at myflorida.com/accessflorida, or
 
 What the DCF application form (CF-ES 2337, if you want the specific number) asks that surprises most people: it asks about "deemed income" from a spouse even if you're applying individually. A lot of seniors skip that section because they assume it doesn't apply. Don't skip it. Fill out the whole form.
 
-Processing typically takes 30 to 45 days. If you're approved for QMB, your Medicare card will show "QMB" on it, which tells providers they can't charge you cost-sharing. If that notation doesn't appear within 60 days of approval, call DCF back. I've seen clerical delays cause it to fall through the cracks.
+Processing typically takes 30 to 45 days. If you're approved for QMB, your Medicare card will show "QMB" on it, which tells providers they can't charge you cost-sharing. If that notation doesn't appear within 60 days of approval, call DCF back, as clerical delays can cause it to fall through the cracks.
 
 **Three real scenarios that show how this plays out:**
 
@@ -102,7 +96,7 @@ Dorothy, 75, in Orlando, income $1,620/month, had $18,000 in savings (would have
 
 I'd be doing you a disservice if I didn't flag this explicitly. Enrolling in any Medicare Savings Program automatically qualifies you for Extra Help, which is the federal subsidy for Part D (prescription drug) costs. You don't fill out a separate application. The Social Security Administration receives the notification from the state.
 
-Extra Help can reduce Part D drug costs by up to $5,400 per year, according to [the Centers for Medicare & Medicaid Services](https://www.cms.gov/). For someone on multiple brand-name medications, that number is not an exaggeration. I've seen it hit higher.
+Extra Help can reduce Part D drug costs by up to $5,400 per year, according to [the Centers for Medicare & Medicaid Services](https://www.cms.gov/). For someone on multiple brand-name medications, savings can be substantial.
 
 The copays under full Extra Help in 2026 are $4.90 for generics and $12.15 for brand-name drugs. Compare that to what many Part D plans charge without Extra Help, which can easily be $45 to $90 per branded medication per month, and you understand why I call this the hidden multiplier of the MSP programs.
 
@@ -115,7 +109,6 @@ The copays under full Extra Help in 2026 are $4.90 for generics and $12.15 for b
 - [Social Security Administration (SSA)](https://www.ssa.gov/): Extra Help (Low Income Subsidy) automatic enrollment rules for MSP recipients.
 
 ---
-
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

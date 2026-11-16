@@ -29,11 +29,9 @@ Most people don't even know they can fight back.
 
 That's the thing I've seen over and over in 20 years of sitting across [from Medicare](/switching-from-medicare-advantage-to-original-medicare/) beneficiaries at kitchen tables, in community center folding chairs, in church basements. Someone gets a denial letter, they read it once, feel a knot in their stomach, and quietly accept it. They figure Medicare must know best. Or they worry that appealing will somehow cause more trouble. Or they just don't know where to start.
 
-Here's what I tell people in that moment: the appeals process is your right. It's written into the law. And in my experience, a well-prepared appeal wins more often than most people expect.
-
+The appeals process is your right. It's written into the law. A well-prepared appeal succeeds more often than most people expect.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare beneficiaries have 5 levels of appeal; most denials are resolved at Level 1 or 2.</li><li style="margin:5px 0">You have 120 days from a denial notice to file a Level 1 (Redetermination) appeal.</li><li style="margin:5px 0">Roughly 40% of Medicare coverage denials are reversed when appealed, per CMS data.</li><li style="margin:5px 0">You don't need a lawyer for the first two levels, a clear written statement and supporting records often do the trick.</li><li style="margin:5px 0">Each appeal level has a strict decision deadline; knowing those timelines keeps you in control.</li></ul></div>
-
 
 ## Why Denials Happen (And Why They're Not Always Final)
 
@@ -44,8 +42,6 @@ The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) reports tha
 ## The Five Levels, Explained Simply
 
 > **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The Medicare appeals process has five formal levels, and they escalate in both formality and decision-making authority. As of August 2026, these apply to Original Medicare (Parts A and B), [Medicare Advantage](/medicare-advantage-vs-original-medicare/) (Part C), and Medicare Part D (prescription drug coverage), though the specific steps differ slightly for Part D and Advantage plans.
 
@@ -71,7 +67,7 @@ You'll file what's called a Redetermination Request. For [Original Medicare](/or
 
 The form you want is CMS-20027, the standard Redetermination Request form. You can find it at Medicare.gov. That said, you don't have to use the form, a signed letter with your name, Medicare number, claim details, and a clear explanation of why you disagree works fine. What I always tell people: attach everything. The denial notice, the doctor's treatment notes, any lab results or imaging reports that support medical necessity. More documentation almost always helps.
 
-One detail I've noticed from helping people do this in person: when you submit by mail, send everything certified mail with return receipt. It sounds like overkill, but I've seen cases stall because there's no proof the paperwork arrived. Keep a copy of every single page you send.
+When you submit by mail, send everything certified mail with return receipt. Cases can stall without proof the paperwork arrived. Keep a copy of every single page you send.
 
 The Medicare contractor then has 60 days to issue a decision. If they don't respond in time, you can actually escalate to Level 2 automatically. That's a less-known option.
 
@@ -83,7 +79,7 @@ I'll be honest: the expedited process is more stressful. You're usually doing it
 
 ## A Real Look at What Happens at Level 2
 
-If Level 1 doesn't go your way, you're now dealing with a QIC, a Qualified Independent Contractor, which is a third-party reviewer with no financial stake in the outcome. In my experience, this is where having a letter from your doctor really earns its keep.
+If Level 1 doesn't go your way, you're now dealing with a QIC, a Qualified Independent Contractor, which is a third-party reviewer with no financial stake in the outcome. This is where a letter from your doctor becomes especially important.
 
 The QIC has 60 days to decide. They'll review everything fresh, the original claim, your Level 1 submission, any new documentation you add. Here's what I'd encourage you to do differently at this stage: ask your doctor to write a letter specifically addressing why the service meets Medicare's "medical necessity" standard. Not a general clinical note. A letter that speaks directly to the Medicare criteria. That framing matters.
 
@@ -95,9 +91,7 @@ Part D prescription drug coverage has its own parallel appeals process, with sli
 
 One thing I genuinely did not understand for my first few years in this work: a formulary exception is technically a type of appeal. If your drug isn't on your plan's formulary (the approved drug list), you can request an exception based on medical necessity, and your doctor has to support it. Most people assume formulary is final. It's not.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare appeal outcomes by level (% reversed)</div><div class="sc-row"><span class="sc-label">Level 1 Redetermination</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Level 2 QIC</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">38%</span></div><div class="sc-row"><span class="sc-label">Level 3 ALJ Hearing</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">45%</span></div><div class="sc-src">Source: CMS Office of Medicare Hearings and Appeals, 2025 data</div></div>
-
 
 ## Sources
 
@@ -108,7 +102,6 @@ One thing I genuinely did not understand for my first few years in this work: a 
 - Medicare Rights Center, *Beneficiary Rights in the Medicare Appeals Process* (2025): Policy analysis of denial and reversal trends across all five appeal levels
 
 ---
-
 
 ---
 

@@ -14,15 +14,13 @@ slug: "medicare-part-b-cuts-proposed-for-2027-what-patients-should-know"
 affiliate_disclosure: true
 ---
 
-My phone rang last week from a woman who'd just gotten a letter from her orthopedic surgeon's office saying they were "reassessing their Medicare participation." She'd been seeing this doctor for two years for a knee replacement follow-up. She had no idea what was coming or why. I've seen this scenario play out before, and right now, in August 2026, it's about to get more common.
+Medicare beneficiaries may receive letters from their doctors' offices saying they're "reassessing their Medicare participation." This can happen without warning, even for patients in long-term treatment relationships. Right now, in August 2026, these notifications are about to get more common.
 
 Here's what's happening. On July 14, 2026, the Centers for Medicare & Medicaid Services (CMS, the federal agency that runs Medicare) released its proposed payment rule for 2027. It's a nearly 1,600-page document that [would cut](/cms-proposed-rule-would-cut-hospital-outpatient-costs-for-seniors/) what Medicare pays doctors for almost every type of visit and procedure. The comment period closes September 14, 2026. That's not much time, and most beneficiaries don't even know this is on the table.
 
 The short version: a temporary 2.5% payment boost that Congress tucked into 2026 legislation called the Working Families Tax Cut Act (WFTCA) is about to expire. When it does, physician pay under [Medicare Part](/comparing-medicare-part-d-plans/) B (the part that covers doctor visits, outpatient care, and preventive services) drops. That affects your care more directly than most people realize.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed rule (July 14, 2026) would drop the Medicare physician conversion factor from $33.40 to $32.84 in 2027.</li><li style="margin:5px 0">The 1.68% cut is driven by expiration of a one-year 2.5% congressional boost from WFTCA.</li><li style="margin:5px 0">Dermatology faces a proposed 9% cut; orthopedic surgery –7%; clinical social work could see +12%.</li><li style="margin:5px 0">Public comments are open through September 14, 2026 at regulations.gov.</li><li style="margin:5px 0">Doctors who lose money on Medicare patients may limit how many they accept.</li></ul></div>
-
 
 ## Why This Cut Is Happening Now
 
@@ -36,11 +34,7 @@ A House Energy and Commerce subcommittee took a hard look at long-term Medicare 
 
 > **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Not every specialty feels this equally. The proposed rule contains sharp differences by specialty, and if your doctor happens to be in one of the harder-hit fields, you may notice changes sooner.
-
-
 
 | Specialty | Proposed 2027 Change |
 |---|---|
@@ -65,7 +59,7 @@ This matters. The rule released on July 14, 2026, is a proposal. CMS is legally 
 
 What should you say? Keep it personal and specific. If you depend on a specialist who's facing a large cut, describe what it would mean if you lost access to that doctor. CMS staff read beneficiary comments differently than they read lobbying letters, and they do count.
 
-Congress could also act before January 1, 2027. I've seen this movie before. Temporary patches get passed in late December more often than not. But relying on that is not a plan, and the May 2026 House subcommittee hearing suggests Congress is at least aware that the recurring patch-and-expire cycle isn't working long term. Whether that awareness turns into permanent reform this year remains to be seen.
+Congress could also act before January 1, 2027. Temporary patches get passed in late December more often than not. But relying on that is not a plan, and the May 2026 House subcommittee hearing suggests Congress is at least aware that the recurring patch-and-expire cycle isn't working long term. Whether that awareness turns into permanent reform this year remains to be seen.
 
 ## Steps You Can Take Right Now
 

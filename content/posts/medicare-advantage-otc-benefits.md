@@ -31,9 +31,7 @@ The OTC (over-the-counter) benefit built into many [Medicare Advantage](/medicar
 
 Let me fix that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">OTC benefits in Medicare Advantage plans range from roughly $25 to over $150 per month, depending on the plan.</li><li style="margin:5px 0">Credits typically expire quarterly or monthly, unused funds rarely roll over, so timing matters.</li><li style="margin:5px 0">Eligible items go well beyond medicine: vitamins, dental care products, some food items, and fitness supplies often qualify.</li><li style="margin:5px 0">You spend the benefit through a plan-issued card, a catalog, or specific retail partners, not any store you choose.</li><li style="margin:5px 0">As of 2026, about 90% of MA plans include some OTC benefit, per CMS enrollment data.</li></ul></div>
-
 
 ## What the Benefit Actually Covers
 
@@ -41,13 +39,11 @@ Here's where most guides get it wrong: they list "health-related products" and c
 
 Common eligible items include pain relievers, cold and allergy medications, first aid supplies, blood pressure monitors, blood glucose meters and strips, incontinence products, vitamins and supplements, dental care products (toothbrushes, denture adhesive), eye drops, hearing aid batteries, and in some plans, certain over-the-counter [weight loss](/medicare-now-covers-weight-loss-drugs-the-glp-1-bridge-explained/) aids. A number of plans have expanded their lists to include healthy food items through a "healthy foods" or "flex card" component, though that's technically a separate benefit and isn't universal.
 
-What's not covered: cosmetics, general toiletries that aren't medically oriented, most fitness equipment, and anything a doctor needs to prescribe. The line between "medical" and "personal care" is where beneficiaries get tripped up. Shampoo: no. Medicated dandruff shampoo: sometimes yes. I've seen people load a cart at CVS and find half of it declined at the register. The trick is to check your plan's specific eligible item list before you shop, not after.
+What's not covered: cosmetics, general toiletries that aren't medically oriented, most fitness equipment, and anything a doctor needs to prescribe. The line between "medical" and "personal care" is where beneficiaries get tripped up. Shampoo: no. Medicated dandruff shampoo: sometimes yes. Many people load a cart at CVS only to find half of it declined at the register. The trick is to check your plan's specific eligible item list before you shop, not after.
 
 ## How Much Money We're Talking
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This varies widely, and the range surprises people.
 
@@ -59,11 +55,9 @@ This varies widely, and the range surprises people.
 | Dual-eligible (D-SNP) plans | Up to $2,500+ | Monthly | Plan-dependent |
 | Average across all MA plans (2026 est.) | ~$450 to $500/year | Varies | Mostly no |
 
-A reader named Carol from Phoenix emailed me last spring. She'd been on a mid-tier HMO for two years and thought her OTC benefit was $25 a quarter. When she actually called her plan and asked for the Summary of Benefits, she found out it was $75 a month. She'd left roughly $1,200 on the table over 24 months. That stings.
-
+For example, someone on a mid-tier HMO might assume an OTC benefit is $25 a quarter, only to discover by calling the plan that it's actually $75 a month. Over 24 months, that's roughly $1,200 left unused.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated avg. annual OTC benefit by plan tier</div><div class="sc-row"><span class="sc-label">Basic HMO</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Mid-tier HMO/PPO</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$450</span></div><div class="sc-row"><span class="sc-label">SNP plans</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$900</span></div><div class="sc-row"><span class="sc-label">D-SNP plans</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-src">Source: CMS Medicare Advantage benefit data, 2026</div></div>
-
 
 The CMS (Centers for Medicare & Medicaid Services) publishes MA plan benefit data at [Medicare.gov](https://www.medicare.gov/), where you can compare plans side by side during open enrollment. Worth bookmarking.
 
@@ -107,7 +101,6 @@ Set a recurring calendar reminder. Every month or every quarter, check your bala
 - [NationsOTC Annual Beneficiary Survey (2025)](https://www.nationsotc.com/): Industry data on OTC benefit utilization rates and top spending categories.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

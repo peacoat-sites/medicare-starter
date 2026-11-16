@@ -51,7 +51,7 @@ Your IEP is a 7-month window: the 3 months before your 65th birthday month, your
 
 Let's make this concrete. Say you were eligible at 65 but didn't enroll until 67. That's roughly two 12-month periods of delay. Your permanent penalty would be 20% added to your monthly Part B premium, every month, forever. If the standard Part B premium is $185 per month (as it's been recently), you'd pay an extra $37 every month on top. That's $444 per year. Over 20 years of retirement, you're looking at nearly $9,000 in additional costs for a decision made at 65.
 
-Most people who delay Part B aren't being careless. They're still working, they have employer coverage, or a spouse has coverage through their job. Those situations can qualify for a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) that lets you sign up later without any penalty. The key word is "can." The rules about what qualifies are specific, and assuming you're covered without checking is one of the most expensive mistakes I've seen seniors make.
+Most people who delay Part B aren't being careless. They're still working, they have employer coverage, or a spouse has coverage through their job. Those situations can qualify for a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) that lets you sign up later without any penalty. The key word is "can." The rules about what qualifies are specific, and assuming you're covered without checking can be one of the costliest mistakes to make.
 
 ## The Part D Penalty: Smaller but Just as Permanent
 
@@ -85,7 +85,7 @@ Other situations that can qualify for an SEP include losing Medicaid coverage, l
 
 I want to be especially honest here, because there's a lot of wishful thinking online about this.
 
-The penalty can sometimes get corrected if Medicare made an error calculating it or if you have documentation of creditable coverage that wasn't properly recorded. That's different from a waiver. Disputes based on administrative errors do get resolved. I've seen it happen.
+The penalty can sometimes get corrected if Medicare made an error calculating it or if you have documentation of creditable coverage that wasn't properly recorded. That's different from a waiver.
 
 But if you simply missed your enrollment window with no qualifying coverage and no documentation to back you up? The penalty almost never gets waived. The research on whether hardship appeals succeed is mixed, and I wouldn't count on it.
 
@@ -122,7 +122,6 @@ Getting Medicare enrollment timing right is genuinely one of the most consequent
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

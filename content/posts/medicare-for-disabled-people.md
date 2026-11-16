@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most people who call me about Medicare for disabled people think they missed something. Like there was a memo that went out explaining how all of this works and somehow it didn't reach them. There wasn't. The rules around qualifying for Medicare before age 65 are genuinely confusing, and I've watched smart, capable people sit across from me completely blindsided by what they didn't know.
+Many people think they missed something about Medicare for disabled people, as though there were a memo explaining how it all works that somehow didn't reach them. There wasn't. The rules around qualifying for Medicare before age 65 are genuinely confusing, and it's common for smart, capable people to feel blindsided by what they didn't know.
 
 So if you're trying to figure out Medicare coverage for yourself or someone you love who's under 65 and living with a disability, you're in exactly the right place. Let's slow down and go through this together.
 
@@ -45,8 +45,6 @@ People diagnosed with Amyotrophic Lateral Sclerosis (ALS, also called Lou Gehrig
 ## The 24-Month Wait and What To Do During It
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Two years is a long time to go without coverage. Here's what I tell people who are in that gap: your options depend heavily on your situation, but there are real paths.
 
@@ -71,7 +69,7 @@ Once you're in, Medicare for disabled people works almost identically to Medicar
 
 **Part D** is prescription drug coverage. It's separate, it's optional (though there are late enrollment penalties if you skip it and want it later), and it's purchased through private insurers.
 
-Disabled Medicare enrollees can also choose **Medicare Advantage (Part C)**, which bundles A, B, and often D together through a private insurer, sometimes with extra benefits like vision or dental. I've seen people do well with Advantage plans, and I've seen others frustrated by network restrictions that limited access to specialists they needed. For people with complex disabilities, I'd lean toward traditional Medicare plus a Medigap supplement, though that's not a universal answer.
+Disabled Medicare enrollees can also choose **Medicare Advantage (Part C)**, which bundles A, B, and often D together through a private insurer, sometimes with extra benefits like vision or dental. Some people do well with Advantage plans, while others find network restrictions limiting when they need access to specialists. For people with complex disabilities, traditional Medicare plus a Medigap supplement is often a better fit, though individual needs vary.
 
 ## Extra Help Programs You're Probably Eligible For
 
@@ -91,7 +89,7 @@ A lot of people with disabilities want to try working again, at least part-time,
 
 The Trial Work Period (TWP) allows you to test your ability to work for up to 9 months (not necessarily consecutive) without losing SSDI or Medicare. After the TWP, there's an Extended Period of Eligibility (EPE) of 36 months during which you can still get benefits in any month your earnings fall below the Substantial Gainful Activity (SGA) threshold.
 
-And even after all of that, if your SSDI cash benefits stop because your earnings are high enough, Medicare can continue for up to 93 additional months. So you could be working and still have Medicare. That's not a loophole, it's intentional policy designed to encourage people to try returning to work without betting their health coverage on it.
+And even after all of that, if your SSDI cash benefits stop because your earnings are high enough, Medicare can continue for up to 93 additional months. So you could be working and still have Medicare. This is intentional policy meant to encourage people to try returning to work without risking their health coverage.
 
 I don't have precise nationwide data on how often people actually use this pathway successfully long-term, so I won't pretend I do. What I can say is that the fear of losing Medicare is one of the most common reasons people tell me they don't try to work. And in most cases, that fear is based on an incomplete understanding of the rules.
 
@@ -104,7 +102,6 @@ I don't have precise nationwide data on how often people actually use this pathw
 - [AARP Medicare Resource Center](https://www.aarp.org/health/medicare-insurance/): Plain-language guides on Medicare eligibility, Extra Help, and coverage options for people with disabilities.
 
 ---
-
 
 ---
 

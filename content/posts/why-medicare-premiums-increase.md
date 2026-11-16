@@ -31,9 +31,7 @@ Here's what frustrates me after two decades of sitting across kitchen tables fro
 
 Medicare premiums go up for several distinct reasons, and they don't all apply to every person equally. Some increases are universal. Some land only on higher earners. A few are avoidable with the right planning. The [difference between](/difference-between-medicare-and-medicaid-explained/) understanding this and not understanding it can be several hundred dollars a year.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Part B premiums are set annually by CMS and tend to increase most years, often tied to projected healthcare spending.</li><li style="margin:5px 0">Higher-income beneficiaries pay IRMAA surcharges on top of base premiums, up to $628.90/month for Part B in 2026 for top earners.</li><li style="margin:5px 0">A two-year income lookback means a good year financially can raise your Medicare bill today.</li><li style="margin:5px 0">Part D (prescription drug) premiums vary by plan and also carry income surcharges for higher earners.</li><li style="margin:5px 0">You can appeal an IRMAA increase if your income dropped due to a qualifying life event.</li></ul></div>
-
 
 ## The Mechanics Behind the Annual Increase
 
@@ -49,9 +47,7 @@ As of August 2026, the standard Part B premium sits at $185.00 per month for mos
 
 > **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-Income-Related Monthly Adjustment Amounts (IRMAA, pronounced "er-MAH") are premium surcharges added on top of your base Part B and Part D premiums if your income exceeds certain thresholds. This is where a lot of seniors get blindsided, and I've seen it happen to careful, informed people who just didn't know how far back Medicare looks.
+Income-Related Monthly Adjustment Amounts (IRMAA, pronounced "er-MAH") are premium surcharges added on top of your base Part B and Part D premiums if your income exceeds certain thresholds. IRMAA catches many seniors by surprise, particularly those unaware that Medicare examines income from two years prior.
 
 Here's the part that surprises almost everyone: CMS uses your tax return from two years ago. So your 2026 Medicare premiums are based on your 2024 Modified Adjusted Gross Income (MAGI). If you sold a rental property in 2024, took a large IRA (Individual Retirement Account) distribution, or had a one-time capital gain, that income could push you into a higher IRMAA bracket today even if your 2025 and 2026 income are much lower.
 
@@ -72,9 +68,7 @@ The table below shows current IRMAA brackets for 2026. These are per-person figu
 
 The jump from the base tier to the first IRMAA tier is over $74 per month, per person. A married couple where both spouses are on Medicare could pay nearly $150 more per month, or $1,800 more annually, just by crossing that first threshold. That's real money.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Monthly Part B Premium by Income Bracket</div><div class="sc-row"><span class="sc-label">Base (&lt;$106k)</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$185</span></div><div class="sc-row"><span class="sc-label">Tier 1 ($106k-$133k)</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$259</span></div><div class="sc-row"><span class="sc-label">Tier 2 ($133k-$167k)</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$370</span></div><div class="sc-row"><span class="sc-label">Tier 3 ($167k-$200k)</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$480.9</span></div><div class="sc-row"><span class="sc-label">Tier 4 ($200k-$500k)</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">$591.9</span></div><div class="sc-row"><span class="sc-label">Tier 5 (&gt;$500k)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$628.9</span></div><div class="sc-src">Source: CMS 2026 Medicare IRMAA Schedule</div></div>
-
 
 ## You Can Fight an IRMAA Increase
 
@@ -82,7 +76,7 @@ This is the part most people miss entirely because it's buried in CMS documentat
 
 If you receive an IRMAA determination and your income has dropped significantly since the year CMS is looking at, you can file Form SSA-44 to request a review based on a qualifying life event. The list includes: marriage, divorce, death of a spouse, work stoppage or reduction, loss of income-producing property, and a few others. "My income is just lower now" by itself isn't a qualifying life event. But if you retired in 2025 and your income dropped because you stopped working, that qualifies.
 
-The process: Download Form SSA-44 from SSA.gov (the Social Security Administration's website), gather documentation of the life event and your current income, and submit it to your local Social Security office. Processing times vary, but in my experience you're looking at four to eight weeks for an answer. When it works, the adjustment applies retroactively to January of the current year, which means a refund if you've been overpaying.
+The process: Download Form SSA-44 from SSA.gov (the Social Security Administration's website), gather documentation of the life event and your current income, and submit it to your local Social Security office. Processing times typically range from four to eight weeks. When it works, the adjustment applies retroactively to January of the current year, which means a refund if you've been overpaying.
 
 Scenario: Retired teacher, age 67, sold an investment property in 2024 for a $180,000 gain → income pushed into the fourth IRMAA tier → filed SSA-44 in February 2026 documenting retirement in 2025 with pension income of $38,000 → IRMAA surcharge removed retroactively → recovered approximately $2,900 in overpaid premiums.
 
@@ -115,7 +109,6 @@ Same Medicare. Different rules. That asymmetry bothers people when they discover
 - Kaiser Family Foundation Medicare Policy Research (2025): Annual analyses of Medicare premium trends and beneficiary cost burdens.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

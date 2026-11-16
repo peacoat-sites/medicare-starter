@@ -74,7 +74,7 @@ I've sat across from people who were absolutely devastated to learn that earning
 
 This is why year-end income planning matters so much for Medicare-age clients. Strategies like delaying a Roth conversion, managing capital gains realizations, or being thoughtful about the timing of IRA withdrawals can keep someone below a threshold. I'm not a financial advisor and I'm not prescribing anything here, but I'd strongly encourage anyone approaching these thresholds to talk with a CPA or a fee-only financial planner before December 31st of the year in question.
 
-What surprised me when I started looking more closely at this is how many people also overlook the interaction between IRMAA and the sale of a primary residence. Normally, you can exclude up to $250,000 in gain ($500,000 for married couples) from taxable income when selling a home you've lived in for at least two of the last five years. But even excluded gain doesn't disappear from your gross income picture in every scenario, and any gain beyond the exclusion absolutely shows up in MAGI. Someone who sells a vacation property or a rental can get blindsided badly.
+A commonly overlooked aspect of IRMAA is the interaction between IRMAA and the sale of a primary residence. Normally, you can exclude up to $250,000 in gain ($500,000 for married couples) from taxable income when selling a home you've lived in for at least two of the last five years. But even excluded gain doesn't disappear from your gross income picture in every scenario, and any gain beyond the exclusion absolutely shows up in MAGI. Someone who sells a vacation property or a rental can get blindsided badly.
 
 ## You Can Appeal, and It's Worth Knowing How
 
@@ -82,7 +82,7 @@ Here's something a lot of people don't realize: IRMAA isn't necessarily permanen
 
 The appeal is filed using SSA Form SSA-44. You submit it to your local Social Security office along with documentation of the qualifying event and proof of your more recent, lower income. If approved, Social Security will use a more recent year's income to set your premium rather than the standard two-year lookback.
 
-I want to be direct about one thing: "my income dropped because I retired" does qualify, as long as you can document it. A lot of people assume it doesn't, because retirement feels like a choice rather than a "change." It does qualify. I've seen this appeal succeed many times for people in their first year or two of retirement who had high W-2 income in 2024 but are now living on Social Security and modest withdrawals.
+"My income dropped because I retired" does qualify as a change in circumstances, as long as you can document it. Many people assume it doesn't because retirement feels like a choice rather than a "change," but it qualifies. This appeal can succeed for people in their first year or two of retirement who had high W-2 income in the prior year but are now living on Social Security and modest withdrawals.
 
 If you want help with any of this, your state's State Health Insurance Assistance Program (https://www.shiphelp.org/) offers free one-on-one counseling from trained volunteers. They can't file the appeal for you, but they can walk you through the form and what to expect.
 
@@ -108,7 +108,6 @@ If you're anywhere near an IRMAA threshold, pull your 2024 tax return and do the
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
 - [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -31,7 +31,7 @@ So if you're staring down a job loss, a retirement date, or the end of a spouse'
 
 ## The Core Problem: COBRA Doesn't Pause Medicare's Clock
 
-Here's the thing Medicare doesn't advertise loudly enough. When you turn 65 or otherwise become eligible for Medicare, you have what's called an Initial Enrollment Period: a seven-month window that starts three months before your 65th birthday month and ends three months after it. Miss that window without a qualifying reason, and you'll face late enrollment penalties that follow you for life.
+Medicare doesn't advertise this loudly enough. When you turn 65 or otherwise become eligible for Medicare, you have what's called an Initial Enrollment Period: a seven-month window that starts three months before your 65th birthday month and ends three months after it. Miss that window without a qualifying reason, and you'll face late enrollment penalties that follow you for life.
 
 COBRA is not a qualifying reason.
 
@@ -108,7 +108,6 @@ One more thing: your Social Security office and Medicare.gov are your official s
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

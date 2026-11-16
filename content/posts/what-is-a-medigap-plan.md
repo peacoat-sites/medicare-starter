@@ -37,7 +37,7 @@ Original Medicare, which is Part A (hospital insurance) and Part B (medical insu
 
 Medigap, also called Medicare Supplement Insurance, is private health insurance designed to fill exactly those gaps. You pay a monthly premium to a private insurance company. They pay what Original Medicare won't. The name is literal. It supplements Medicare. Doesn't replace it.
 
-When I first started helping people with this, I was struck by how standardized these plans actually are. The federal government, through the [Centers for Medicare & Medicaid Services](https://www.cms.gov/), defines exactly what each plan type must cover. A Plan G from Humana covers the same benefits as a Plan G from Blue Cross Blue Shield. The only differences between carriers are price and customer service.
+These plans are highly standardized. The federal government, through the [Centers for Medicare & Medicaid Services](https://www.cms.gov/), defines exactly what each plan type must cover. A Plan G from Humana covers the same benefits as a Plan G from Blue Cross Blue Shield. The only differences between carriers are price and customer service.
 
 One critical thing upfront: Medigap only works with Original Medicare. If you're enrolled in Medicare Advantage (Part C), you can't use a Medigap plan. These are two completely different paths.
 
@@ -92,7 +92,7 @@ The answer is pricing structure. There are three methods:
 
 **Attained-age-rated:** Your premium goes up as you age. Cheap at 65, potentially expensive at 75. This is the most common model and the one that shocks people in their late 70s.
 
-Which pricing method a company uses matters for your long-term costs. An attained-age plan looks cheap initially and becomes expensive over time. I've watched clients surprised by rate increases in their late 70s because they never asked this question.
+Which pricing method a company uses matters for your long-term costs. An attained-age plan looks cheap initially and becomes expensive over time. Many people are surprised by rate increases in their late 70s because they never asked this question.
 
 Companies also differ on loss ratios, administrative costs, and claims histories. Looking at a company's rate increases over the past five years is something brokers can pull for you.
 

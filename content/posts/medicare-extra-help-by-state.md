@@ -64,11 +64,11 @@ The 2024 income limit for Extra Help is $22,590 for a single person and $30,660 
 
 A few things people regularly get wrong about these limits.
 
-Not all assets count. Your home, one car, personal belongings, life insurance policies with a cash value under $1,500, and burial funds up to $1,500 per person don't count toward the limit. I've had people tell me they assumed they didn't qualify because they own a home. That's one of the most common misconceptions I run into.
+Not all assets count. Your home, one car, personal belongings, life insurance policies with a cash value under $1,500, and burial funds up to $1,500 per person don't count toward the limit. A common misconception is that owning a home makes you ineligible.
 
 Income isn't just your Social Security check. It includes wages, pension payments, rental income, and other sources. But some income is excluded too, including food assistance (SNAP benefits) and most home energy assistance. If you're close to the line, a SHIP counselor can help you figure out exactly what counts.
 
-There are two tiers: full Extra Help and partial Extra Help. Full benefit goes to people with lower incomes and assets. Partial benefit phases in some cost-sharing. The cutoff isn't always obvious. Honestly, if you're anywhere near the limits, apply anyway and let SSA make the determination.
+There are two tiers: full Extra Help and partial Extra Help. Full benefit goes to people with lower incomes and assets. Partial benefit phases in some cost-sharing. The cutoff isn't always obvious. If you're anywhere near the limits, apply anyway and let SSA make the determination.
 
 ## How to Actually Apply (Without the Runaround)
 
@@ -103,7 +103,6 @@ Fourteen million people. A third of them leaving help on the table, not because 
 - [plan comparison tool](https://www.medicare.gov/plan-compare/)
 - [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -54,7 +54,7 @@ There's also a statutory protection called the "hold harmless" provision that mo
 
 If your income is above a certain threshold, you don't just pay the standard premium. You pay it plus an [Income-Related Monthly Adjustment Amount](/medicare-income-related-premium-adjustment/), which everyone calls IRMAA (pronounced "er-mah").
 
-I've seen people get blindsided by this completely. They budget for $185 a month, and then their first Medicare bill shows up at $295 or $406 or more. It's jarring.
+Many people are blindsided by higher-than-expected Medicare bills. Someone might budget for $185 a month, only to see their first bill arrive at $295 or $406 or more.
 
 CMS looks at your income from two years prior. For 2026 premiums, they're using your 2024 tax return. The income figure is your Modified Adjusted Gross Income (MAGI), which for most people is their adjusted gross income plus any tax-exempt interest income.
 
@@ -75,7 +75,7 @@ One thing that trips people up constantly: a one-time income event can push you 
 
 If your income has dropped significantly since the year CMS is using (retirement, death of a spouse, divorce, loss of income-producing property, or certain other life events), you can appeal using the SSA-44 form. You file it with your local Social Security office.
 
-This appeal process works. I've seen people get their IRMAA surcharge reduced or eliminated entirely after a successful appeal. The key is documenting your change in income with something concrete: a retirement letter, a final pay stub, tax estimates. You can download the SSA-44 directly from the Social Security Administration's website, and most local SSA offices can walk you through it over the phone.
+The appeal process can work to get an IRMAA surcharge reduced or eliminated entirely. The key is documenting your change in income with something concrete: a retirement letter, a final pay stub, tax estimates. You can download the SSA-44 directly from the Social Security Administration's website, and most local SSA offices can walk you through it over the phone.
 
 ## What People on Fixed Incomes Actually Do
 
@@ -109,7 +109,6 @@ What you can do right now: if you're turning 65 soon, build your retirement budg
 - [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
 - [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

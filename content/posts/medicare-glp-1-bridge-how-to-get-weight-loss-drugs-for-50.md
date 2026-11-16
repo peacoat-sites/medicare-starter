@@ -16,7 +16,7 @@ lastmod: 2026-07-07
 ---
 Most people assume Medicare simply doesn't cover weight-loss drugs, full stop. That's been true for decades, thanks to a longstanding federal exclusion that kept obesity medications completely off the table. But starting July 1, 2026, that changes. CMS is launching the Medicare GLP-1 Bridge, and if you or someone you love has a Part D plan and a BMI over 27, this is genuinely worth understanding before the month is out.
 
-I'll be honest: when I first started digging into the details, I expected a narrow, underwhelming pilot. What I found was more interesting, and also more complicated, than the headlines suggest.
+The details are more interesting, and also more complicated, than the headlines suggest.
 
 ## What the Bridge Actually Is (and Isn't)
 

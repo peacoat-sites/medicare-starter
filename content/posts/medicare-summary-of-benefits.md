@@ -46,8 +46,6 @@ I'll admit I made this mistake myself years ago when helping a neighbor compare 
 
 > **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Start with three numbers: the monthly premium, the annual out-of-pocket maximum, and the copay for your most common service type (primary care, specialist, or emergency, depending on your health situation).
 
 Those three numbers tell you 80% of what you need to know about whether a plan fits your life.
@@ -83,7 +81,7 @@ Open Enrollment runs October 15 through December 7 each year, and that's the obv
 
 Your Summary is published (or updated) every fall for the following year. Plans change their cost-sharing, formularies, and extra benefits annually. A plan that was the right fit in 2024 may not be the best option now. As of July 2026, plan options in most markets have continued to shift, with some carriers adjusting their supplemental benefits and drug tiers considerably. Don't assume last year's plan is still optimal just because you didn't get a cancellation notice.
 
-Also pull it out any time you get a bill that surprises you. Before calling the plan's customer service line (where you may get different answers from different reps), find the relevant service category in your Summary and confirm what your cost-sharing should be. Half the billing errors I've seen people catch came from exactly this exercise.
+Also pull it out any time you get a bill that surprises you. Before calling the plan's customer service line (where you may get different answers from different reps), find the relevant service category in your Summary and confirm what your cost-sharing should be. This exercise often catches billing errors.
 
 ## Getting Your Summary
 
@@ -99,7 +97,6 @@ If you've lost yours and can't find it online, call 1-800-MEDICARE (1-800-633-42
 - [KFF (Kaiser Family Foundation) Medicare Advantage Enrollment & Plan Availability Data](https://www.kff.org/medicare/): Annual analysis of plan availability, premiums, and benefit structures by market.
 
 ---
-
 
 ---
 

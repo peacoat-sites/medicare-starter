@@ -31,29 +31,23 @@ North Carolina's Medicare market is genuinely complicated, and the stakes are hi
 
 Here's what you actually need to [know before](/medicare-glp-1-bridge-what-beneficiaries-need-to-know-before-july-1/) you make any decisions.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">North Carolina has over 70 Medicare Advantage plans available; the "right" one varies sharply by county.</li><li style="margin:5px 0">The $0-premium MA plans aren't free, out-of-pocket costs can reach $8,850 annually in-network.</li><li style="margin:5px 0">NC Medicaid Extra Help can reduce Part D drug costs to near zero for qualifying low-income beneficiaries.</li><li style="margin:5px 0">Medigap Plan G is currently the most popular supplement in NC; Plan N costs less but has copays.</li><li style="margin:5px 0">SHIP NC counselors offer free, unbiased help, and they know the local provider networks cold.</li></ul></div>
-
 
 ## What Medicare Actually Covers (and What It Doesn't)
 
 [Original Medicare](/medicare-advantage-vs-original-medicare/) -- Part A for hospital coverage, Part B for outpatient and doctor visits, is your federal baseline. Part A is premium-free for most people who worked at least 40 quarters. Part B costs $185.00 per month in 2026 for most beneficiaries, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount), which can push that premium above $560 a month.
 
-What Original Medicare does NOT cover: routine dental, vision, hearing, and most long-term care. That gap is not a footnote. In my experience counseling seniors in NC, that's the single gap that produces the most financial stress, especially for people who need dentures or hearing aids and assumed Medicare handled it.
+What Original Medicare does NOT cover: routine dental, vision, hearing, and most long-term care. That gap is not a footnote. This gap often produces significant financial stress, especially for people who need dentures or hearing aids and assumed Medicare covered them.
 
-Prescription drugs aren't covered by Parts A and B either. You need to add Part D, which is a standalone drug plan, or choose a Medicare Advantage plan that bundles drug coverage. Skipping Part D when you first become eligible and then adding it later triggers a late enrollment penalty of 1% of the national base beneficiary premium for every month you delayed. That penalty is permanent. I've seen people pay it for 15 years. Don't do that to yourself.
+Prescription drugs aren't covered by Parts A and B either. You need to add Part D, which is a standalone drug plan, or choose a Medicare Advantage plan that bundles drug coverage. Skipping Part D when you first become eligible and then adding it later triggers a late enrollment penalty of 1% of the national base beneficiary premium for every month you delayed. That penalty is permanent. Don't do that to yourself.
 
 ## The Medicare Advantage Reality in North Carolina
 
 > **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare Advantage Enrollment by NC Region (2026 est.)</div><div class="sc-row"><span class="sc-label">Charlotte Metro</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">187,000 enrollee</span></div><div class="sc-row"><span class="sc-label">Raleigh-Durham</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">143,000 enrollee</span></div><div class="sc-row"><span class="sc-label">Greensboro-Winston</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">98,000 enrollee</span></div><div class="sc-row"><span class="sc-label">Asheville Area</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">41,000 enrollee</span></div><div class="sc-row"><span class="sc-label">Eastern NC (Rural)</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">62,000 enrollee</span></div><div class="sc-src">Source: CMS Medicare Enrollment Dashboard 2026</div></div>
 
-
-Charlotte and Raleigh have the richest plan selection in the state, often 30 or more MA plans per county, many with $0 monthly premiums. Rural eastern NC and the mountain counties are a different story. Fewer plans, narrower networks, and less competition. When a reader from Robeson County emailed me asking why she only had three MA plan options compared to her sister in Mecklenburg County, the answer was simple: insurance carriers go where the enrollee density is. That's not cynicism, it's just how the market works.
+Charlotte and Raleigh have the richest plan selection in the state, often 30 or more MA plans per county, many with $0 monthly premiums. Rural eastern NC and the mountain counties are a different story. Fewer plans, narrower networks, and less competition. Insurance carriers tend to offer more plans where enrollee density is higher.
 
 The $0 premium plans deserve a blunt word. They're not free. The premium is waived, but you still pay your Part B premium, and then you're subject to copays, coinsurance, and an annual out-of-pocket maximum that CMS caps at $8,850 in-network in 2026. Some plans have a higher cap for out-of-network care. A person with one major hospitalization could easily hit that maximum. Compare that to a Medigap supplement, where your costs are more predictable, and suddenly that $0 plan looks different.
 
@@ -73,7 +67,7 @@ Medigap (also called Medicare Supplement Insurance) works alongside Original Med
 
 Plan N costs less per month but charges copays at the doctor's office (up to $20) and in the ER (up to $50 if not admitted). For someone who rarely sees specialists, Plan N can save $400 to $600 per year in premiums with minimal extra out-of-pocket. I made the mistake of defaulting to Plan G for a very healthy client a few years ago without doing that math. He would've saved meaningfully with N. The right answer depends on how often you use care.
 
-One thing I can't stress enough: in North Carolina, you have guaranteed issue rights for Medigap only during your 6-month Medigap Open Enrollment Period, which starts the month you turn 65 and are enrolled in Part B. After that window closes, insurers can medically underwrite you, meaning they can deny you coverage or charge you more based on health conditions. I've seen people wait a year or two and then get declined for a supplement because of a diabetes diagnosis. If you're healthy when you turn 65, that enrollment window is valuable. Use it.
+One thing I can't stress enough: in North Carolina, you have guaranteed issue rights for Medigap only during your 6-month Medigap Open Enrollment Period, which starts the month you turn 65 and are enrolled in Part B. After that window closes, insurers can medically underwrite you, meaning they can deny you coverage or charge you more based on health conditions. People who wait past the open enrollment window may be declined for a supplement or face higher premiums based on health conditions like diabetes. If you're healthy when you turn 65, that enrollment window is valuable. Use it.
 
 ## Part D Prescription Drug Plans in NC
 
@@ -102,7 +96,6 @@ Telehealth access matters more in rural NC than almost anywhere else in the stat
 - [NC Department of Insurance](https://www.ncdoi.gov/): State-level Medigap rate filing data and insurer information for North Carolina residents.
 
 ---
-
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 

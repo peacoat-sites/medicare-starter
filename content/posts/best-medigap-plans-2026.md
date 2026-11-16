@@ -59,7 +59,7 @@ The only thing Plan G doesn't cover is the Part B deductible, which is $257 in 2
 
 Plan N covers what Plan G does except it adds copayments of up to $20 for office visits and up to $50 for emergency room visits that don't result in admission. It also won't cover Part B excess charges (the amount some doctors bill above Medicare's approved rate).
 
-The benefit is a noticeably lower monthly premium. In my experience, Plan N works well for people who are generally healthy, don't see doctors constantly, and can handle small copays. If you live in Massachusetts, New York, or another state that restricts or bans excess charges, the gap between G and N shrinks, and N becomes even more attractive.
+The benefit is a noticeably lower monthly premium. Plan N may work well for people who are generally healthy, don't see doctors constantly, and can handle small copays. If you live in Massachusetts, New York, or another state that restricts or bans excess charges, the gap between G and N shrinks, and N becomes even more attractive.
 
 **High-Deductible Plan G: For Budget-Conscious Seniors**
 
@@ -81,7 +81,7 @@ Two people with identical Plan G policies can pay completely different premiums,
 
 **Attained-age-rated:** Your premium reflects your current age, so it rises as you get older. This offers the lowest premiums at 65 but the highest by your 80s.
 
-This is one of the most important decisions most people never think to ask about. I've seen clients pick an attained-age plan because it seemed cheap at 65, then struggle with premiums a decade later. Ask every insurer directly: "How do you rate your premiums?"
+This is one of the most important decisions most people never think to ask about. A common mistake is picking an attained-age plan because the initial premium seems low at 65, then facing much higher premiums a decade later. Ask every insurer directly: "How do you rate your premiums?"
 
 ## When and How to Enroll (Timing Is Everything)
 

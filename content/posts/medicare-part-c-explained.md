@@ -75,7 +75,7 @@ Beyond the premium and cap come copays and coinsurance. Maybe $10 for a primary 
 
 Then there's drug coverage. Most Medicare Advantage plans include [Part D prescription coverage](/medicare-part-d-explained/) (called MAPD plans). Some don't, which means you'd need a separate Part D plan. Always check the plan's formulary for your specific medications before signing up. A plan with a shiny $0 premium might charge you significantly more for your prescriptions than a plan with a $50 monthly cost.
 
-For healthy people with moderate health care use, Medicare Advantage can be genuinely cost-effective. For people with complex conditions needing frequent specialist care or expensive treatments, the numbers deserve very careful study. I've seen people thrive in both situations. There's no universal correct answer.
+For healthy people with moderate health care use, Medicare Advantage can be genuinely cost-effective. For people with complex conditions needing frequent specialist care or expensive treatments, the numbers deserve very careful study. There's no universal correct answer.
 
 ## How to Enroll in Medicare Part C
 
@@ -108,7 +108,7 @@ You can enroll during specific windows only. Here's the timeline:
 
 ## Common Mistakes to Avoid
 
-The biggest mistake I've seen: choosing based on premium alone. A $0 plan with high specialist copays and a narrow drug list can cost way more than a plan with a $50 monthly premium if you have real medical needs.
+A common mistake is choosing based on premium alone. A $0 plan with high specialist copays and a narrow drug list can cost way more than a plan with a $50 monthly premium if you have real medical needs.
 
 Second mistake: not verifying your doctors are in-network before enrolling. Obvious, sure, but it's the most common complaint after the fact. Spend 20 minutes calling member services to confirm your specific doctor is currently accepting new patients in that network.
 
@@ -133,7 +133,6 @@ The choice between Medicare Advantage and Original Medicare is deeply personal. 
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ faqs:
 
 More than 3.8 million cataract surgeries are performed in the United States every year, making it the single most common surgical procedure Medicare pays for. That number alone should tell you something: if you're sitting with a diagnosis and wondering whether your Medicare card covers this, you are absolutely not alone, and the answer is almost certainly yes.
 
-But "yes" comes with details, and those details matter when you're looking at an out-of-pocket bill. I've watched people walk away from a surgeon's office confused about what Medicare actually agreed to cover versus what the hospital billed, and honestly, the gap can catch you off guard if you're not prepared. So let me walk through this the way I would with anyone who sat down across from me.
+But "yes" comes with details, and those details matter when you're looking at an out-of-pocket bill. A common source of confusion is the gap between what Medicare agrees to cover and what a hospital bills. Understanding this gap helps you avoid unexpected out-of-pocket costs.
 
 The short version: [Medicare Part](/medicare-part-c-explained/) B (your outpatient medical insurance) covers cataract surgery when it's medically necessary, including one pair of eyeglasses or one set of contact lenses after your first surgery. The longer version involves your deductible, coinsurance, the type of lens implanted, and whether your surgeon participates in Medicare. All of that changes what you'll actually pay.
 
@@ -37,7 +37,7 @@ The short version: [Medicare Part](/medicare-part-c-explained/) B (your outpatie
 
 Part B covers the surgery itself, the surgeon's fee, the anesthesiologist, and the facility charge, whether that's a [hospital outpatient](/cms-proposed-rule-would-cut-hospital-outpatient-costs-for-seniors/) department or an ambulatory surgical center (ASC, which is usually a freestanding surgery clinic). It also covers the standard intraocular lens, or IOL, that gets implanted to replace the clouded natural lens the surgeon removes. That standard IOL is a monofocal lens, meaning it corrects your vision at one fixed distance (usually distance vision), and you'll likely still need reading glasses afterward.
 
-Here's where a lot of people get surprised. If you want a premium IOL, like a multifocal lens that can reduce your dependence on glasses at multiple distances, or a toric lens that also corrects astigmatism, [Medicare will cover](/medicare-will-cover-weight-loss-drugs-for-50-starting-july-1/) the part of that lens equivalent to a standard monofocal. The upgrade cost, sometimes called a "balance bill" or a "facility charge for a non-covered upgrade," comes out of your pocket. That upgrade can run anywhere from roughly $1,500 to over $3,000 per eye depending on the lens type and the surgeon's practice. I've seen patients genuinely blindsided by this charge because nobody explained it to them before the day of surgery. Ask before you consent to anything.
+Here's where a lot of people get surprised. If you want a premium IOL, like a multifocal lens that can reduce your dependence on glasses at multiple distances, or a toric lens that also corrects astigmatism, [Medicare will cover](/medicare-will-cover-weight-loss-drugs-for-50-starting-july-1/) the part of that lens equivalent to a standard monofocal. The upgrade cost, sometimes called a "balance bill" or a "facility charge for a non-covered upgrade," comes out of your pocket. That upgrade can run anywhere from roughly $1,500 to over $3,000 per eye depending on the lens type and the surgeon's practice. Many people are surprised by upgrade charges because they weren't explained beforehand. Ask before you consent to anything.
 
 The one pair of eyeglasses or contacts benefit after surgery is real, but it only applies to your first cataract surgery per the current Medicare guidelines. Per [Medicare.gov](https://www.medicare.gov/), the frames must be from a supplier who participates in Medicare, and even then Medicare's covered amount for the frames themselves is modest. You'll often still pay something. Keep that in mind if your ophthalmologist's office sells frames at retail prices.
 
@@ -84,7 +84,7 @@ The logistics trip people up more than the medical part. Here's what I walk thro
 3. Call your Medigap or Medicare Advantage plan and confirm the surgery is covered before the date. Get a reference number for that call.
 4. Ask the surgeon's billing team to give you an itemized cost estimate in writing, including any lens upgrade charges, before you sign the consent form.
 
-That fourth one sounds obvious but in my experience it's the step people skip most often. The form goes in front of you, everything feels rushed, and you sign. Ask for the estimate the week before. Read it.
+That fourth step is easy to overlook. The form goes in front of you, everything feels rushed, and you sign. Ask for the estimate the week before. Read it.
 
 ## Sources
 

@@ -25,15 +25,13 @@ faqs:
     a: "Your Medicare eligibility doesn't change. But if you're in a Medicare Advantage plan, your plan's network may not cover you well in both locations. Some national PPO (Preferred Provider Organization) plans offer broader geographic coverage. If Arizona is your primary residence, your plan enrollment should reflect your Arizona county. If you're unsure, Arizona SHIP can help you think through the best approach for your specific situation."
 ---
 
-Most people moving to Arizona for retirement assume Medicare works the same here as everywhere else. And in the big strokes, sure, it does. But the details? That's where Arizona gets genuinely interesting, and where I've seen people leave real money on the table.
+Most people moving to Arizona for retirement assume Medicare works the same here as everywhere else. And in the big strokes, sure, it does. But the details matter, and Arizona's Medicare landscape has some important quirks worth understanding.
 
-I'll be honest: when I first started helping clients in Phoenix and Tucson navigate their Medicare options, I assumed the desert climate just meant more snowbirds confused about Part D (prescription drug coverage) deadlines. What surprised me was how dramatically the plan landscape varies, not just between cities, but between zip codes within the same city. A retiree in Scottsdale might have 40-plus [Medicare Advantage](/medicare-advantage-vs-supplement-cost-comparison/) (MA) plans competing for her business. Someone 45 miles east in Globe might have five. Same state, completely different world.
+The plan landscape varies dramatically across Arizona, not just between cities, but between zip codes within the same city. A person in Scottsdale might have 40-plus [Medicare Advantage](/medicare-advantage-vs-supplement-cost-comparison/) (MA) plans to choose from, while someone 45 miles east in Globe might have five options.
 
 Arizona has become one of the most competitive Medicare Advantage markets in the country, which is genuinely good news for most beneficiaries, but it also means more chances to pick the wrong plan.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Arizona has one of the largest Medicare Advantage plan markets in the U.S., with 40+ plan options in major metro areas as of 2026.</li><li style="margin:5px 0">The average Medicare Advantage premium in Arizona is well below the national average in most counties, with $0-premium plans widely available.</li><li style="margin:5px 0">Arizona's SHIP program (called SHIP Arizona, run through the Arizona Department of Insurance) offers free one-on-one counseling.</li><li style="margin:5px 0">Part D drug plan costs vary dramatically by county; always use Medicare.gov's Plan Finder before enrolling.</li><li style="margin:5px 0">Snowbirds spending 6+ months in Arizona may need to update their Medicare plan to reflect their primary residence.</li></ul></div>
-
 
 ## What Arizona's Medicare Landscape Actually Looks Like
 
@@ -47,8 +45,6 @@ Here's something I always warn people about: Arizona's large independent hospita
 
 > **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me lay out the basic comparison honestly, because I find that most articles either oversell Advantage or treat it like a scam. Neither is accurate.
 
 | Feature | Original Medicare (Parts A + B) | Medicare Advantage (Part C) |
@@ -60,7 +56,7 @@ Let me lay out the basic comparison honestly, because I find that most articles 
 | Extra benefits (dental, vision) | Not covered | Commonly included |
 | Best for | Those who travel or want any doctor | Those who stay local and want low premiums |
 
-The lack of an out-of-pocket maximum with Original Medicare is something that genuinely keeps me up at night on behalf of my clients. If you're hospitalized for a complex surgery and rehab, costs can spiral well past $10,000. That's why anyone choosing Original Medicare in Arizona should pair it with a Medigap (Medicare Supplement) policy. Plan G is currently the most popular for new enrollees, covering almost everything except the Part B deductible ($257 in 2026). Monthly premiums for Plan G in Arizona typically run between $90 and $200 depending on age, gender, tobacco use, and the insurer.
+Original Medicare has no out-of-pocket maximum, which is a significant financial risk. If you're hospitalized for a complex surgery and rehab, costs can spiral well past $10,000. That's why anyone choosing Original Medicare in Arizona should pair it with a Medigap (Medicare Supplement) policy. Plan G is currently the most popular for new enrollees, covering almost everything except the Part B deductible ($257 in 2026). Monthly premiums for Plan G in Arizona typically run between $90 and $200 depending on age, gender, tobacco use, and the insurer.
 
 One thing that only becomes obvious once you've sat across the table from dozens of Arizona clients: Medigap premiums here are actually quite competitive compared to many other states. I don't have a rigorous study to cite on that specific point, so take it as observational, but the pricing I see consistently is favorable.
 
@@ -74,17 +70,15 @@ The fix depends on where you actually sleep most nights. Medicare uses your perm
 
 Scenario: A retired teacher from Illinois spends seven months in Tucson and five months in Springfield. She enrolled in an Illinois HMO (Health Maintenance Organization) before retiring. She arrives in Tucson in November with a respiratory infection. → She calls her plan, discovers urgent care visits are covered but follow-up specialist visits are not in-network. → She ends up paying $380 out of pocket for two specialist visits that would have cost her a $20 copay under an Arizona plan. She switches during the next AEP.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare Advantage plan availability by Arizona county (2026)</div><div class="sc-row"><span class="sc-label">Maricopa County</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">43 plans</span></div><div class="sc-row"><span class="sc-label">Pima County</span><span class="sc-track"><span class="sc-bar" style="width:65%"></span></span><span class="sc-val">28 plans</span></div><div class="sc-row"><span class="sc-label">Yavapai County</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">19 plans</span></div><div class="sc-row"><span class="sc-label">Coconino County</span><span class="sc-track"><span class="sc-bar" style="width:28%"></span></span><span class="sc-val">12 plans</span></div><div class="sc-row"><span class="sc-label">Graham County</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">5 plans</span></div><div class="sc-src">Source: CMS Medicare Plan Finder, 2026</div></div>
-
 
 ## Part D Drug Coverage in Arizona
 
-Prescription drug plans vary enormously by zip code and by what medications you actually take. I've watched people choose a plan based on premium alone and then get blindsided by a Tier 3 or Tier 4 cost-share on a drug they take every single day. A $12/month premium plan can easily cost more annually than a $42/month plan if your formulary (list of covered drugs) isn't aligned with your prescriptions.
+Prescription drug plans vary enormously by zip code and by what medications you actually take. Choosing a plan based on premium alone can backfire if the plan's formulary doesn't cover your medications at a reasonable cost-share. A $12/month premium plan can easily cost more annually than a $42/month plan if your formulary (list of covered drugs) isn't aligned with your prescriptions.
 
 [Medicare.gov](https://www.medicare.gov/) has a Part D Plan Finder tool that lets you enter your exact medications and get a total estimated annual cost per plan. I strongly encourage everyone to use it before the AEP closes on December 7th. I use it myself every year when I help family members review their coverage.
 
-One underappreciated wrinkle in Arizona: the state doesn't have its own drug assistance program quite as robust as some states, but the federal Extra Help (also called Low Income Subsidy, or LIS) program can dramatically reduce Part D costs for beneficiaries below roughly 150% of the federal poverty level. If you're anywhere near that threshold, apply. I've seen people save over $2,000 annually.
+One underappreciated wrinkle in Arizona: the state doesn't have its own drug assistance program quite as robust as some states, but the federal Extra Help (also called Low Income Subsidy, or LIS) program can dramatically reduce Part D costs for beneficiaries below roughly 150% of the federal poverty level. If you're anywhere near that threshold, apply. Some beneficiaries have saved over $2,000 annually through the program.
 
 Scenario: A 71-year-old in Mesa takes three brand-name medications, including a GLP-1 receptor agonist (used for diabetes management). He chose a low-premium Part D plan without checking the formulary. → The drug was on Tier 5 (specialty tier) with 33% coinsurance. → Annual out-of-pocket drug costs exceeded $4,100. After switching to a plan with a preferred placement for that drug and applying for Extra Help, his annual cost dropped to approximately $800.
 
@@ -94,7 +88,7 @@ I point almost every Arizona client to [Arizona's SHIP program](https://www.ship
 
 You can reach Arizona SHIP by calling 1-800-432-4040. They offer appointments at locations throughout the state, including senior centers, libraries, and community health clinics. During Medicare's busiest periods, October through December, wait times for appointments can stretch to two to three weeks, so don't wait until November to call if you want help before the AEP deadline.
 
-In my experience, SHIP counselors in the Phoenix area are particularly well-versed in the Advantage plan market there because the volume of cases is so high. In more rural counties, the depth of local knowledge can vary, which isn't a knock on the counselors personally, just a reality of a thinner plan market.
+SHIP counselors in high-volume areas like Phoenix tend to have deeper expertise with local plan markets, while counselors in rural counties may have less local knowledge simply due to fewer cases.
 
 Scenario: A 68-year-old recently divorced woman in Flagstaff, new to Medicare, contacted Arizona SHIP confused about whether she needed Part D separately. → SHIP counselor determined she was taking four generics, identified a $0-premium Medicare Advantage plan with bundled Part D that covered all four at Tier 1, and flagged that she might qualify for Extra Help. → She applied, was approved, and her total monthly Medicare-related cost came to $0 with approximately $14/month in drug copays.
 
@@ -107,7 +101,6 @@ Scenario: A 68-year-old recently divorced woman in Flagstaff, new to Medicare, c
 - CMS 2026 Medicare & You Handbook: Annual official overview of Medicare benefits, costs, and coverage rules.
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

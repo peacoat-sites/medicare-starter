@@ -84,7 +84,7 @@ Veterans are in a separate category entirely. If you have any VA (Department of 
 
 Worked example: A 68-year-old veteran in rural Tennessee has moderate bilateral hearing loss from years of machinery noise. He's been on Medicare Advantage with a $1,000 hearing benefit and paying $2,800 out of pocket per pair every few years. He contacts his VA regional office, establishes that his loss qualifies, and receives his next set of hearing aids at no cost, with free batteries included. Total savings on his first pair: $3,800.
 
-One thing I wish more people knew: Costco's hearing center offers prescription hearing aids (fitted by licensed audiologists on staff) at significantly lower prices than private audiology practices, typically $1,400 to $1,600 per pair. You don't need a Costco membership for their pharmacy, but you do for the hearing center. If a Medicare Advantage plan covers $1,500 and you go to Costco, that math can get close to zero out-of-pocket. I've seen it work out beautifully for people in that situation.
+Costco's hearing center offers prescription hearing aids (fitted by licensed audiologists on staff) at significantly lower prices than private audiology practices, typically $1,400 to $1,600 per pair. You don't need a Costco membership for their pharmacy, but you do for the hearing center. If a Medicare Advantage plan covers $1,500 and you go to Costco, the out-of-pocket cost can be minimal.
 
 ## Sources
 

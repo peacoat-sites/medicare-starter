@@ -25,7 +25,7 @@ author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 lastmod: 2026-07-08
 ---
-Picture this: it's November, you're sitting at the kitchen table with a stack of Medicare mail, and your current Part D plan just sent a notice that your blood pressure medication is jumping from a $10 copay to $47 starting January 1st. You didn't change anything. The plan did. And now you have about six weeks to figure out what to do about it. I've seen this exact situation play out hundreds of times, and every single time the person at that kitchen table says the same thing: "I didn't know I could switch."
+When a Part D plan sends a notice that a blood pressure medication is jumping from a $10 copay to $47 starting January 1st, the person receiving it often doesn't realize they didn't change anything - the plan did. With about six weeks until the change takes effect, many people discover they have options they didn't know about. A common reaction is: "I didn't know I could switch."
 
 You can switch. Every year. And for 2026, there are real reasons to pay attention during Open Enrollment, which runs October 15 through December 7, 2025.
 

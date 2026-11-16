@@ -25,7 +25,7 @@ faqs:
     a: "Congress has debated this for decades. As of July 2026, routine dental is still excluded from Original Medicare. Advocates continue to push for expansion, and some legislative proposals have gained traction, but nothing has passed. I genuinely hope this changes. Until it does, you'll need to plan for dental costs as a separate budget item."
 ---
 
-Nearly 70% of people on traditional Medicare have no dental coverage at all. I've been sitting across from seniors for twenty years now, and that number still stops me cold every time I say it out loud.
+Nearly 70% of people on traditional Medicare have no dental coverage at all.
 
 You're probably here because something happened. Maybe your dentist mentioned a crown, or you noticed a tooth that's been bothering you, or you just turned 65 and you're trying to figure out what Medicare actually covers before you need it. Whatever brought you here, I want you to know: the confusion you're feeling is completely reasonable. Medicare's dental coverage rules are genuinely complicated, and a lot of people get the wrong answer because they ask the wrong question. Let me try to give you the right one.
 
@@ -37,13 +37,11 @@ I used to think the exclusion had some logical rationale behind it. It mostly do
 
 What Original Medicare will cover is narrow enough to fit on an index card. If you're admitted to a hospital and require dental surgery that's directly connected to another covered procedure (say, jaw reconstruction after a covered accident), some of those costs may be covered under Part A. If oral cancer treatment requires dental work as part of that treatment, there may be coverage. If an infection in your mouth is threatening your heart and requires hospital-level intervention, certain costs might apply. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) describes this as "dental services that are an integral part of a covered procedure" -- and the key word there is integral. Incidental is not enough.
 
-In my experience reviewing coverage denials with clients, even situations that seem to clearly qualify get rejected on first review. One client of mine, Judith, had bone work done on her jaw as part of a reconstructive procedure after oral cancer surgery. Her surgeon documented everything carefully. It still took two rounds of appeals before Medicare acknowledged the coverage. That paperwork matters. Save everything.
+Even situations that seem to clearly qualify can get rejected on first review. Reconstructive dental work, for example, may require multiple appeals before Medicare acknowledges coverage, even with careful documentation from your surgeon. That paperwork matters. Save everything.
 
 ## What Medicare Advantage Changed (And What It Didn't)
 
 > **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is where things get more complicated, in a way that actually helps you.
 
@@ -51,13 +49,11 @@ Medicare Advantage (Part C) plans are sold by private insurance companies and ap
 
 But here's what most people don't realize until it's too late: "includes dental" is doing a lot of heavy lifting in those statistics, and the actual benefit can vary wildly.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare Advantage dental benefit levels (% of plans)</div><div class="sc-row"><span class="sc-label">Preventive only</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">28%</span></div><div class="sc-row"><span class="sc-label">Preventive + basic restorative</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">39%</span></div><div class="sc-row"><span class="sc-label">Comprehensive (incl. major)</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">23%</span></div><div class="sc-row"><span class="sc-label">No dental benefit</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">10%</span></div><div class="sc-src">Source: KFF Medicare Advantage 2026 analysis</div></div>
-
 
 A plan that "includes dental" might mean you get two cleanings and an annual x-ray. Or it might mean you get up to $2,000 a year toward fillings, crowns, and extractions. The difference between those two outcomes is thousands of dollars when a crown runs $900 to $1,600 out of pocket. Some plans cap annual benefits at $1,000. Some go to $3,000. A handful of premium plans in certain markets go higher, but I don't have solid national data on how common that is, so I won't pretend I do.
 
-The other thing nobody tells you: many Advantage plans require you to see in-network dentists, and in rural areas, those networks can be thin. A reader from central Nebraska emailed me last fall asking why she couldn't use any of the dentists in her county with her Advantage plan's dental benefit. Turned out her plan's dental network had three providers within 50 miles. One wasn't taking new patients. Another was booked four months out.
+Many Advantage plans require you to see in-network dentists, and in rural areas, those networks can be thin.
 
 ## Standalone Dental Insurance: Worth It?
 
@@ -115,7 +111,6 @@ There's also a bill that has repeatedly come up in Congress to add dental benefi
 - Medicare.gov Plan Finder: Tool for comparing Medicare Advantage plan dental benefits by ZIP code (medicare.gov)
 
 ---
-
 
 ---
 

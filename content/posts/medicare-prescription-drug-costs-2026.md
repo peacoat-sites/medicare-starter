@@ -31,7 +31,7 @@ October 15 rolls around, and suddenly your mailbox fills with Part D plan notice
 
 The Inflation Reduction Act, signed in 2022, keeps rolling out. The headline change for 2026: a hard [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drugs. Starting January 1, once you hit $2,000 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
 
-This matters because before, there was no ceiling. I've worked with clients who spent $10,000, $15,000, sometimes $20,000-plus annually on cost-sharing for cancer drugs or biologics. The cap flips that entirely.
+This matters because before, there was no ceiling. Without the cap, people could spend $10,000, $15,000, or $20,000-plus annually on cost-sharing for cancer drugs or biologics. The cap flips that entirely.
 
 Also carrying forward: insulin stays at $35 per month per product. Recommended adult vaccines under Part D stay free, zero copay.
 
@@ -61,7 +61,7 @@ Part D premiums vary wildly depending on where you live, which plan you pick, an
 
 Watch for income-related surcharges, though. If your 2024 income (used to calculate 2026 premiums) exceeds $106,000 as an individual or $212,000 as a married couple filing jointly, you'll pay extra on top of your base premium. CMS updates these brackets annually, so confirm the 2026 numbers on Medicare.gov once they publish.
 
-Here's the thing most people don't realize: your plan's premium can stay flat while your actual costs jump because formularies change every year. A drug at Tier 2 in 2025 can move to Tier 4 in 2026, and your copay goes up even though the plan didn't technically raise rates.
+Your plan's premium can stay flat while your actual costs jump because formularies change every year. A drug at Tier 2 in 2025 can move to Tier 4 in 2026, and your copay goes up even though the plan didn't technically raise rates.
 
 That Annual Notice of Change letter arriving by September 30? Read it. Don't throw it away.
 

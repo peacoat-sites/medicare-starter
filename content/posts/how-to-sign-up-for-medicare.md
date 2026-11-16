@@ -46,8 +46,6 @@ But if you're not collecting Social Security yet? You need to sign up yourself.
 
 > **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There are three ways to enroll in Medicare, and the right one depends mostly on your comfort level and how much you want to leave the house.
 
 The online method is the easiest, honestly. Go to [ssa.gov](https://www.ssa.gov/) and complete the application there. It takes maybe 10 to 15 minutes if you have basic information on hand: your Social Security number, your birth certificate information, and details about any current health coverage. You don't need a separate account at Medicare.gov to apply. The Social Security website handles enrollment for both Part A (hospital insurance) and Part B (medical insurance).
@@ -66,7 +64,7 @@ If you or your spouse is still working at 65 and you have health insurance throu
 
 What you should do in this situation: sign up for Part A (it's free for most people, so there's little downside), and delay Part B until you retire or lose that employer coverage. When you do leave that job, you'll qualify for a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) that gives you eight months to enroll in Part B without penalty.
 
-Here's the thing, though. This only works if you have coverage through your own active employer, or your spouse's active employer. Coverage through COBRA, retiree health plans, or the VA does not count as a reason to delay. Those don't qualify you for a Special Enrollment Period, and if you relied on them to skip Part B, you'll end up with a gap and a penalty.
+This only works if you have coverage through your own active employer, or your spouse's active employer. Coverage through COBRA, retiree health plans, or the VA does not count as a reason to delay. Those don't qualify you for a Special Enrollment Period, and if you relied on them to skip Part B, you'll end up with a gap and a penalty.
 
 The late enrollment penalty for Part B is permanent. For every 12 months you were eligible for Part B and didn't sign up without a valid reason, your premium goes up 10%. If you wait three years, that's a 30% surcharge added to your base premium for the rest of your life. Not ideal.
 
@@ -102,7 +100,6 @@ Don't let that window slide.
 
 ---
 
-
 ---
 
 The process is more manageable than it looks from the outside. The real work is knowing the deadlines before they pass, and understanding that the choices you make at 65 set up how your coverage works for years to come. Take it seriously, ask questions early, and don't assume you're automatically enrolled unless you're already on Social Security. When in doubt, go straight to Medicare.gov or call 1-800-MEDICARE. Those people exist exactly for this.
@@ -120,7 +117,6 @@ The process is more manageable than it looks from the outside. The real work is 
 - [ssa.gov](https://www.ssa.gov/)
 - [aarp.org](https://www.aarp.org/health/medicare-insurance/)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

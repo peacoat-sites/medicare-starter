@@ -50,15 +50,13 @@ Part B is where the real decisions live.
 
 > **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 If you have health coverage through your job or your spouse's job at 65, you may be able to delay Part B without penalty. This is the one area where "wait and see" is actually correct strategy, not procrastination.
 
 The key word is "qualifying coverage." Coverage from an employer with 20 or more employees generally qualifies. COBRA doesn't. Retiree coverage doesn't. Coverage through the marketplace (ACA plans) doesn't. I've talked to people who delayed Part B thinking their COBRA would protect them, and they were wrong, painfully so.
 
 When that employer coverage ends, you get a **[Special Enrollment Period (SEP)](/medicare-special-enrollment-period/)**: 8 months to sign up for Part B penalty-free. Eight months sounds generous. It is, until you're dealing with a health crisis simultaneously, which is when people tend to let deadlines slip. Set a calendar reminder the day your employer coverage ends and treat the 8-month clock as real.
 
-One thing I'd push back on: a lot of seniors assume bigger employers always mean better coverage, and therefore they should always stay on employer insurance as long as possible. That's not automatically true. I've seen cases where Medicare plus a supplement was substantially cheaper and more comprehensive than an employer plan with high deductibles and a narrow network. Run the actual numbers before you assume staying on the group plan is the obvious choice.
+One thing I'd push back on: a lot of seniors assume bigger employers always mean better coverage, and therefore they should always stay on employer insurance as long as possible. That's not automatically true. Medicare plus a supplement can be substantially cheaper and more comprehensive than an employer plan with high deductibles and a narrow network. Run the actual numbers before you assume staying on the group plan is the obvious choice.
 
 ## The Penalty That Never Goes Away
 
@@ -72,7 +70,7 @@ Part D (prescription drug coverage) has its own penalty: 1% of the national base
 
 Creditable coverage is insurance that's at least as good as Medicare's standards. Your employer's HR department is required to tell you in writing each year whether your coverage is creditable. Keep that letter. Actually keep it somewhere you can find it, not in a pile.
 
-If you ever have to prove to Medicare that you had creditable coverage during a gap period, that documentation is your evidence. I've worked with seniors who lost those letters and spent months untangling penalty questions with the [Centers for Medicare & Medicaid Services](https://www.cms.gov/). It's a headache that's entirely avoidable.
+If you ever have to prove to Medicare that you had creditable coverage during a gap period, that documentation is your evidence. Losing those letters can mean months of untangling penalty questions with the [Centers for Medicare & Medicaid Services](https://www.cms.gov/). It's a headache that's entirely avoidable.
 
 VA benefits are creditable for Part D. Retiree drug coverage from a former employer is often creditable, but not always, so verify. The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased counseling and can review your specific coverage to tell you exactly where you stand. These are trained volunteers, not salespeople. They don't benefit from any particular answer.
 
@@ -87,7 +85,6 @@ That Medigap window is one of the most underappreciated rights in Medicare. Miss
 If you want a deeper look at how Medigap plans compare to each other, the book *Medicare & You* published annually by CMS walks through every lettered plan clearly. Medicare.gov also has a plan comparison tool for both Advantage and Part D plans, and it's actually usable, which isn't something I say lightly about government websites.
 
 ---
-
 
 ---
 
@@ -106,7 +103,6 @@ The timing rules are specific, the penalties are permanent, and the windows move
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
 - [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
