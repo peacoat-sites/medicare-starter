@@ -49,8 +49,6 @@ One gap exists: if you're in Original Medicare without Part D coverage, the cap 
 | Part B (pump insulin) | Insulin pump users | 20% of Medicare-approved amount | Yes, Part B deductible |
 | Medicare Advantage (MA-PD) | Plan members with drug coverage | $35 per insulin | No |
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Inflation Reduction Act of 2022 made the $35 insulin cap permanent for Medicare beneficiaries starting January 1, 2023. It used to be voluntary. Now it's mandatory.
 
 Here's what this actually means. Your copay for each insulin you take each month cannot exceed $35. If you take two different insulins (a long-acting basal and a fast-acting mealtime insulin), the cap applies to each separately. Two insulins means two separate $35 maximums, so your total could hit $70, but no higher.

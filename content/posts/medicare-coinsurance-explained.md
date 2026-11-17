@@ -56,8 +56,6 @@ For example, someone with original Medicare only might receive an $1,800 coinsur
 | Part B | 20% | $257 | After deductible; applies to doctor visits, labs, imaging, DME, therapy |
 | Part D | Plan-dependent (typically 0-25%+) | Plan-dependent | Varies by tier; annual out-of-pocket cap is $2,000 |
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Part A, Part B, and Part D all handle coinsurance differently. This trips people up constantly.
 
 **Part A (hospital insurance)** uses a combination of deductibles and coinsurance based on how long you're hospitalized. For 2026, days 1 through 60 of a hospital stay carry no coinsurance after you pay the inpatient deductible (currently $1,676 per benefit period). But days 61 through 90? You pay $419 per day in coinsurance. Days 91 and beyond, if you're drawing on your lifetime reserve days, the coinsurance jumps to $838 per day. And once those reserve days are used up, Medicare pays nothing.

@@ -48,8 +48,6 @@ Part B is where the real decisions live.
 
 ## Still Working at 65? The Rules Change
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you have health coverage through your job or your spouse's job at 65, you may be able to delay Part B without penalty. This is the one area where "wait and see" is actually correct strategy, not procrastination.
 
 The key word is "qualifying coverage." Coverage from an employer with 20 or more employees generally qualifies. COBRA doesn't. Retiree coverage doesn't. Coverage through the marketplace (ACA plans) doesn't. I've talked to people who delayed Part B thinking their COBRA would protect them, and they were wrong, painfully so.

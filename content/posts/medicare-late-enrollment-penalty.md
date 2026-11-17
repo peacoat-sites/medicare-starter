@@ -43,8 +43,6 @@ Here's what surprised me digging into this: the penalty isn't a flat dollar amou
 | Part D | Late Enrollment | 1% of national base beneficiary premium per month of delay | Permanent, lifetime |
 | Part A | Late Enrollment | Applicable in some cases | Permanent, lifetime |
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Part B late enrollment penalty is 10% of the standard monthly premium for every full 12-month period you went without Part B coverage after your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/) ended.
 
 Your IEP is a 7-month window: the 3 months before your 65th birthday month, your birthday month itself, and the 3 months after. Miss that without a qualifying reason, and the clock starts.

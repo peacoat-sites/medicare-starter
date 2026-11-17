@@ -34,8 +34,6 @@ And here's something that often gets buried in the headlines: [Medicare Parts B 
 
 ## Why the Outlook Got Worse This Year
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 2025 report was already concerning. The 2026 report is meaningfully worse, and part of the reason is a policy change you may have heard about in a different context.
 
 The One Big Beautiful Bill Act changed how Social Security benefits are taxed. When higher-income Social Security recipients pay taxes on their benefits, a portion of that revenue flows into the Medicare HI trust fund. Reduce that revenue stream, and the trust fund takes in less money. The Trustees identified this as a contributing factor to the worsened outlook, alongside rising healthcare costs. The Georgetown Medicare Policy Initiative noted in their June 2026 analysis that this is exactly the kind of indirect connection between tax policy and Medicare financing that rarely gets explained to beneficiaries but absolutely should be.

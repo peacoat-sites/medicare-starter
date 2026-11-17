@@ -20,15 +20,15 @@ The $50 flat monthly copay sounds straightforward. But it doesn't count toward y
 
 The Medicare Rights Center flagged the program back in early June 2026, noting the extension through December 31, 2027, after CMS indefinitely delayed the follow-on BALANCE Model and needed more runway for the demonstration itself. That extension was finalized in May 2026 and quietly changed the calculus for a lot of patients who thought this was a short-term bridge in the most literal sense.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Bridge runs July 1, 2026 through December 31, 2027, covering Wegovy, Zepbound (KwikPen only), and Foundayo.</li><li style="margin:5px 0">Eligible beneficiaries pay a flat $50/month copay ,  Extra Help cannot reduce it.</li><li style="margin:5px 0">The $50 copay does NOT count toward your Part D deductible or $2,100 annual out-of-pocket cap.</li><li style="margin:5px 0">BMI ≥35 qualifies alone; lower BMIs require specific conditions like prediabetes or prior heart attack.</li><li style="margin:5px 0">Doctors must document diagnosis, BMI, and comorbidities at the time therapy started, not at the PA request date.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Bridge runs July 1, 2026 through December 31, 2027, covering Wegovy, Zepbound (KwikPen only), and Foundayo.</li><li style="margin:5px 0">Eligible beneficiaries pay a flat $50/month copay, Extra Help cannot reduce it.</li><li style="margin:5px 0">The $50 copay does NOT count toward your Part D deductible or $2,100 annual out-of-pocket cap.</li><li style="margin:5px 0">BMI ≥35 qualifies alone; lower BMIs require specific conditions like prediabetes or prior heart attack.</li><li style="margin:5px 0">Doctors must document diagnosis, BMI, and comorbidities at the time therapy started, not at the PA request date.</li></ul></div>
 
-## Who Actually Qualifies ,  and the BMI Details Matter
+## Who Actually Qualifies, and the BMI Details Matter
 
 The eligibility rules are tiered by BMI (body mass index), and getting them right before your doctor submits anything will save a lot of frustration. According to CMS's official program page, a BMI of 35 or higher qualifies on its own, no additional diagnosis required. Drop into the 30 to 34.99 range and you'll need a qualifying condition: heart failure, uncontrolled hypertension, chronic kidney disease at stage 3a or higher, prediabetes, or a prior heart attack or stroke. If your BMI falls between 27 and 29.99, the bar is higher still, requiring prediabetes, a prior heart attack or stroke, or peripheral artery disease.
 
 | BMI Range | What You Need to Qualify |
 |---|---|
-| ≥35 | BMI alone ,  no additional condition required |
+| ≥35 | BMI alone, no additional condition required |
 | 30–34.99 | One qualifying condition: heart failure, uncontrolled hypertension, CKD stage 3a+, prediabetes, or prior heart attack/stroke |
 | 27–29.99 | Prediabetes, prior heart attack/stroke, or peripheral artery disease |
 
@@ -36,9 +36,7 @@ One thing worth knowing: this is not a fitness program with loose guidelines. CM
 
 ## The Prior Authorization Process Nobody Warned Doctors About
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-Here's where the July 1 launch got genuinely messy. The prior authorization (PA) for the Bridge is retrospective. That means doctors document the clinical picture ,  BMI, diagnosis, comorbidities ,  as it existed when they started the patient on therapy, not necessarily when they submit the PA paperwork. For physicians accustomed to prospective PA processes, where you get approval before the first prescription goes out, this was a real adjustment.
+Here's where the July 1 launch got genuinely messy. The prior authorization (PA) for the Bridge is retrospective. That means doctors document the clinical picture, BMI, diagnosis, comorbidities, as it existed when they started the patient on therapy, not necessarily when they submit the PA paperwork. For physicians accustomed to prospective PA processes, where you get approval before the first prescription goes out, this was a real adjustment.
 
 The American Medical Association's National Advocacy Update from June 26, 2026 highlighted CMS guidance specifically aimed at helping physicians understand this retrospective documentation requirement before launch. Many practices got that guidance late. Pharmacies in the first week of July reported confusion when claims were initially rejected and neither the pharmacy nor the prescriber was sure which system was actually processing them.
 
@@ -54,7 +52,7 @@ Also fixed: the fact that this $50 doesn't build toward any out-of-pocket protec
 
 ## If You're Already Getting a GLP-1 Through Part D, Stop Here
 
-There's one eligibility rule that's easy to miss and will determine whether you can use the Bridge at all. If your regular Part D plan is already covering a GLP-1 drug for you ,  whether for diabetes or any other approved indication ,  you cannot use the Bridge for weight management. The two pathways don't overlap.
+There's one eligibility rule that's easy to miss and will determine whether you can use the Bridge at all. If your regular Part D plan is already covering a GLP-1 drug for you, whether for diabetes or any other approved indication, you cannot use the Bridge for weight management. The two pathways don't overlap.
 
 This matters because some beneficiaries with Type 2 diabetes have had semaglutide or tirzepatide covered under Part D for glucose management. Those patients are not Bridge-eligible, even if they also have obesity. Healthy Connections noted this in their July 2026 coverage of the launch, flagging it as one of the most common eligibility misunderstandings during the program's opening days. If you're in that situation, it's worth a conversation with your prescriber about whether your current Part D coverage adequately addresses your treatment goals, rather than trying to switch tracks.
 
@@ -62,11 +60,11 @@ For the right person, the Bridge can reduce what had been completely unaffordabl
 
 ## Sources
 
-- [Medicare GLP-1 Bridge ,  CMS Official Program Page](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge) (July 2026, updated)
-- [Information for Providers ,  Medicare GLP-1 Bridge](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers) (July 2026, updated)
-- [GLP-1 Weight-Loss Drug Demonstration Begins July 2026 ,  Medicare Rights Center](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
-- [Medicare GLP-1 Bridge: What Changed July 1, 2026 ,  Healthy Connections](https://healthy-connections.org/horizons-health-blog/medicare-glp-1-bridge-july-2026/) (July 2026)
-- [CMS Physician Guidance on Medicare GLP-1 Bridge Program ,  AMA National Advocacy Update](https://www.ama-assn.org/health-care-advocacy/advocacy-update/june-26-2026-national-advocacy-update) (June 26, 2026)
+- [Medicare GLP-1 Bridge, CMS Official Program Page](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge) (July 2026, updated)
+- [Information for Providers, Medicare GLP-1 Bridge](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers) (July 2026, updated)
+- [GLP-1 Weight-Loss Drug Demonstration Begins July 2026, Medicare Rights Center](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
+- [Medicare GLP-1 Bridge: What Changed July 1, 2026, Healthy Connections](https://healthy-connections.org/horizons-health-blog/medicare-glp-1-bridge-july-2026/) (July 2026)
+- [CMS Physician Guidance on Medicare GLP-1 Bridge Program, AMA National Advocacy Update](https://www.ama-assn.org/health-care-advocacy/advocacy-update/june-26-2026-national-advocacy-update) (June 26, 2026)
 
 *Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
 

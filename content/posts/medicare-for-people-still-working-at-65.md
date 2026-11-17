@@ -46,8 +46,6 @@ Companies with fewer than 20 employees flip this completely. Medicare becomes pr
 
 ## The HSA Trap Nobody Warns You About
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This catches a lot of high earners off guard. I wish someone had flagged it for me years ago.
 
 If you or your employer contributes to an [HSA (Health Savings Account)](/medicare-and-health-savings-account-hsa/), enrolling in any part of Medicare, including Part A, makes you ineligible to contribute anymore. The moment Medicare kicks in, contributions must stop or you'll owe taxes and a penalty.

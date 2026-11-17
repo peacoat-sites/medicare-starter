@@ -28,8 +28,6 @@ The technology piece, the wearable devices and telehealth check-ins, is the mech
 
 ## More Than 150 Organizations Are Already In, and Some May Be New to You
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of May 27, 2026, CMS had accepted more than 150 health care organizations into the first launch cohort, according to the [ACCESS Model Accepted Applicants list](https://www.cms.gov/priorities/innovation/access-model-accepted-applicants) published on the CMS website. Here's something I want you to pay attention to: many of these organizations had not previously served Medicare beneficiaries. That's unusual, and it's worth a moment of thought.
 
 New entrants to Medicare can be excellent, innovative, and patient-centered. They can also be less experienced with Medicare's rules and patient expectations. What most people don't realize is that "accepted into the ACCESS Model" is not the same as a full-throated CMS endorsement of every organization's quality. CMS has committed to publishing a public directory of ACCESS participants along with their risk-adjusted outcomes, which will help you and your regular doctor compare options over time. That directory is something worth bookmarking once it's fully populated.

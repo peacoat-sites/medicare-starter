@@ -56,8 +56,6 @@ So the real question isn't "which plan has the lower premium?" It's "what do I e
 
 ## Where Medigap wins, and who it wins for
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: for people with serious, ongoing health conditions, heart disease, diabetes requiring regular specialist visits, cancer, anything that means frequent hospitalizations or outpatient procedures, a Medigap plan almost always comes out ahead on total cost. The math isn't even close once you start adding up the per-visit copays and coinsurance on an MA plan.
 
 For example, consider a hip replacement scenario. On a Medicare Advantage plan, costs can include a $350 per-day hospital copay for days 1 through 5, plus 20% coinsurance on surgical facility fees, with an out-of-pocket total over $4,000 for a single procedure. On a Medigap Plan G, after the [Part B deductible](/medicare-deductible-2026/), you would owe essentially nothing beyond the monthly premiums already paid. At $150 a month in Medigap premiums, a year costs $1,800. The protection is clear.

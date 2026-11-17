@@ -52,8 +52,6 @@ Neither is covered for routine care under Original Medicare.
 
 ## The Real Costs You're Looking At
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to give you actual numbers, because "it depends" doesn't help you plan.
 
 | Service | Typical Out-of-Pocket Cost (No Coverage) | What Medicare Pays | Your Cost With Part B |

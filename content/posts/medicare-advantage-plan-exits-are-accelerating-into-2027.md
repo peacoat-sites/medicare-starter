@@ -32,10 +32,6 @@ The plan-count data confirms the trend. According to KFF analysis, the average M
 
 ## Vermont Is the Canary
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 No state shows the pressure more starkly. Vermont is on track to see 92.2% of its Medicare Advantage enrollees lose coverage in 2026, per research published in AJMC in June. That's a second consecutive year of major insurer exits in a small state where the risk pool never made the math attractive for large national carriers.
 
 Vermont is an extreme case. But the underlying dynamic, insurers exiting markets where margins are too thin or enrollment too small to justify the administrative cost, is playing out in rural counties and smaller metro areas across the country. If your plan serves a relatively small geographic footprint, that's a risk factor worth taking seriously.
@@ -76,11 +72,11 @@ Talk to a SHIP counselor or a licensed Medicare broker before you decide. The br
 
 ## Sources
 
-- [Johns Hopkins Bloomberg School of Public Health ,  Forced Disenrollments Among Medicare Advantage Beneficiaries](https://publichealth.jhu.edu/2026/1-in-10-medicare-advantage-enrollees-face-forced-disenrollment-in-2026) (published February 20, 2026)
-- [AJMC ,  Unprecedented Spike in Plan Exits Threatens Medicare Advantage Stability](https://www.ajmc.com/view/unprecedented-spike-in-plan-exits-threatens-medicare-advantage-stability) (published June 2, 2026)
-- [AHIP ,  Proposed Changes to Medicare Advantage and Part D Would Impact Seniors in 2027](https://www.ahip.org/news/articles/if-finalized-proposed-changes-to-medicare-advantage-and-medicare-part-d-would-impact-seniors-coverage-and-care-in-2027) (published March 2, 2026)
-- [KFF ,  Most Medicare Beneficiaries Affected by Plan Terminations in 2025 Have Options in 2026](https://www.kff.org/medicare/most-medicare-beneficiaries-affected-by-plan-terminations-in-2025-have-robust-medicare-advantage-options-in-2026/) (published March 13, 2026)
-- [LeadGen Economy ,  Medicare Advantage 2026 AEP Carrier Exits: UHC, Humana, and Aetna](https://www.leadgen-economy.com/blog/medicare-advantage-2026-aep-carrier-exits-uhc-humana-aetna/) (published June 26, 2026)
+- [Johns Hopkins Bloomberg School of Public Health, Forced Disenrollments Among Medicare Advantage Beneficiaries](https://publichealth.jhu.edu/2026/1-in-10-medicare-advantage-enrollees-face-forced-disenrollment-in-2026) (published February 20, 2026)
+- [AJMC, Unprecedented Spike in Plan Exits Threatens Medicare Advantage Stability](https://www.ajmc.com/view/unprecedented-spike-in-plan-exits-threatens-medicare-advantage-stability) (published June 2, 2026)
+- [AHIP, Proposed Changes to Medicare Advantage and Part D Would Impact Seniors in 2027](https://www.ahip.org/news/articles/if-finalized-proposed-changes-to-medicare-advantage-and-medicare-part-d-would-impact-seniors-coverage-and-care-in-2027) (published March 2, 2026)
+- [KFF, Most Medicare Beneficiaries Affected by Plan Terminations in 2025 Have Options in 2026](https://www.kff.org/medicare/most-medicare-beneficiaries-affected-by-plan-terminations-in-2025-have-robust-medicare-advantage-options-in-2026/) (published March 13, 2026)
+- [LeadGen Economy, Medicare Advantage 2026 AEP Carrier Exits: UHC, Humana, and Aetna](https://www.leadgen-economy.com/blog/medicare-advantage-2026-aep-carrier-exits-uhc-humana-aetna/) (published June 26, 2026)
 
 ---
 

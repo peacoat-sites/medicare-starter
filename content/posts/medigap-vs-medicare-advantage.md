@@ -39,8 +39,6 @@ These aren't just different price tiers. They're fundamentally different archite
 
 ## How the Costs Actually Work
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Cost comparisons between these two rarely line up cleanly because money flows in completely different directions.
 
 With Medigap, you pay a real monthly premium. In exchange, you get predictability. Plan G, the most popular option now that Plan F closed to new enrollees in 2020, covers almost everything Original Medicare doesn't, except the Part B deductible ($240 in 2024). Once you hit that annual deductible, your out-of-pocket costs for covered services are effectively zero. For someone managing diabetes, arthritis, or multiple prescriptions, or someone who travels between Florida winters and Maine summers, that certainty matters enormously.

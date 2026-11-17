@@ -41,8 +41,6 @@ One thing most people don't realize: there's no single "Pennsylvania Medicare" a
 
 ## PACE and PACENET: The Programs That Can Save You Real Money
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the one I talk about most, because it surprises people every time.
 
 Pennsylvania runs two related [prescription drug](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) assistance programs: PACE (Pharmaceutical Assistance Contract for the Elderly) and PACENET, its broader-income-range sibling. Both are administered by the state, not by Medicare. And both exist specifically to help Pennsylvanians who are 65 or older (or certain younger adults with disabilities) afford medications.

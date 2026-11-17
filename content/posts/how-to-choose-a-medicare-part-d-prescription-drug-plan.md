@@ -50,8 +50,6 @@ What Part D doesn't cover: most over-the-counter medications, vitamins, and cosm
 | Pharmacy Network | In-network vs. out-of-network pharmacy costs |
 | Annual Out-of-Pocket Cap | $2,000 maximum (starting 2025 under Inflation Reduction Act) |
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people look at the monthly premium and stop there. Don't.
 
 The true out-of-pocket cost of a Part D plan comes from four pieces working together: the premium (what you pay every month regardless of whether you fill a prescription), the deductible (what you pay before coverage kicks in, currently up to $590 for standard Part D plans in 2026), your copays or coinsurance on each prescription, and the pharmacy network (because getting your drug at an out-of-network pharmacy can blow up your costs fast).

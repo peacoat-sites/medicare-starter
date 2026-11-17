@@ -42,8 +42,6 @@ What it can't do: it won't tell you if your specific doctor is actually acceptin
 
 ## How to Use It, Step by Step
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Go to [Medicare.gov](https://www.medicare.gov/) and click "Find health and drug plans." You don't have to create an account to browse, but if you log in with your Medicare number, the tool will pull in your current coverage and medications automatically. That's a significant time-saver, and I always recommend logging in if you have your card handy.
 
 Step one is entering your zip code. Simple. Step two is choosing what you're looking for: Medicare Advantage plans (Part C), stand-alone Part D drug plans, or both. If you have Original Medicare (Parts A and B) and you're only looking for drug coverage, choose Part D only. If you want an all-in-one plan that bundles hospital, medical, and usually drug coverage, choose Medicare Advantage.

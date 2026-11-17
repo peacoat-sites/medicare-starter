@@ -50,8 +50,6 @@ Premiums above are broad national ranges based on insurer filings reviewed as of
 
 ## Who This Plan Is Actually For
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 HDG is not for everyone, and some people are pushed into it when they shouldn't be.
 
 It works beautifully for someone who is 65 to 68, in good health, has an emergency fund of at least $3,000 (so a bad year doesn't wreck them financially), and wants to keep monthly costs low. It's also smart for people who have other assets they're managing and view the premium savings as money they'd rather invest than hand to an insurance company each month.

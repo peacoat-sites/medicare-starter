@@ -49,8 +49,6 @@ Here are the three situations where the standard wait doesn't apply:
 
 ## What Medicare Actually Covers for Disability Beneficiaries
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Same benefits, same structure. Medicare doesn't give you a different product because you're under 65. You get Part A (hospital insurance), Part B (medical insurance), and access to Part D ([prescription drug](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) coverage). What's different is the cost in some situations and a handful of rules around supplemental coverage.
 
 Part A is typically premium-free if you or a spouse has enough work credits (40 quarters of Social Security-taxed work). For most people on SSDI, they or their parent or spouse has met that threshold. Part B has a monthly premium, and as of July 2026, the standard amount is $185.00/month. If your income is low enough, a program called the [Medicare Savings](/medicare-savings-programs/) Program (MSP) can pay that premium for you. I'd encourage anyone reading this who is on a fixed disability income to check eligibility at their state Medicaid office, because a significant portion of beneficiaries qualify and simply don't know it.

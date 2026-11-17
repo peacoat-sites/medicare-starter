@@ -53,8 +53,6 @@ So why does Medigap cost money on top of your Part B premium? Because you're buy
 | Plan K | Lower | Limited | Only partial cost-sharing coverage |
 | Plan L | Lower | Limited | Only partial cost-sharing coverage |
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There is no single "typical" Medigap premium. The range is genuinely wide.
 
 Monthly premiums for [Plan G and Plan N](/medigap-plan-g-vs-plan-n-comparison/), the most popular options, generally fall somewhere between $80 and $300 or more per month for a 65-year-old woman in good health. Men often pay slightly more because insurers can factor in gender in most states. A 75-year-old shopping for the same coverage can see premiums that are significantly higher, sometimes double what a 65-year-old pays, depending on how the insurance company prices its policies.

@@ -49,8 +49,6 @@ By law, Medicare Advantage plans must cover everything Original Medicare covers,
 | SNP | Specialized network | Varies | Varies | Specific chronic conditions or dual eligibility |
 | HMO-POS | Primarily in-network | Yes | Limited, at higher cost | Hybrid approach with some flexibility |
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicare Advantage plans don't all work the same way. The type you choose shapes how you access care, who you can see, and what comes out of your pocket.
 
 **HMO (Health Maintenance Organization):** The most common type. You pick a primary care physician who coordinates everything, and you usually need referrals to see specialists. You're stuck with doctors and hospitals in the plan's network, except emergencies. HMOs have lower premiums and predictable costs. But if you have a specialist you love or travel a lot, the network restrictions can feel suffocating.

@@ -58,8 +58,6 @@ Here's the critical thing most people miss: these plans are hyper-regional. A st
 
 ## The Top Medicare Advantage Carriers to Watch in 2026
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Centers for Medicare and Medicaid Services (CMS) rates Medicare Advantage plans on a 1-to-5 star scale. Five is the top. They measure dozens of things: how well plans manage chronic disease, appointment wait times, member satisfaction. Plans hitting 4 stars or higher are generally solid.
 
 For 2026, these carriers show up consistently among the highest-rated options nationwide, though ratings shift by region and details change every year.

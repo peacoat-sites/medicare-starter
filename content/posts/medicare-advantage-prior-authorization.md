@@ -43,8 +43,6 @@ Here's what I tell people when they call me in a panic: prior authorization is n
 
 ## What Requires Prior Authorization (and What Doesn't)
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Every Medicare Advantage plan is different. This is one of the things that catches people off guard when they switch from Original Medicare. Under Original Medicare, prior auth is relatively rare. Under MA, it can apply to a surprisingly wide range of services.
 
 Commonly required prior auth categories include: inpatient hospital stays beyond a certain number of days, skilled nursing facility (SNF) care, home health services, durable medical equipment (like wheelchairs or CPAP machines), specialty drugs (especially injectables or infusions), certain imaging like MRIs and PET scans, outpatient surgery, and specialist referrals depending on your plan type.

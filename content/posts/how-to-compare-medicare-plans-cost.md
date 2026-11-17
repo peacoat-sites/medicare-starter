@@ -67,8 +67,6 @@ Check our [Medicare plan comparison guide](/medicare-plan-comparison) to see how
 | Worst-Case Annual Cost | ~$2,844 | ~$8,700 |
 | Typical Year Out-of-Pocket (Robert's example) | ~$2,820 (premiums only) | ~$340 (copays + drugs) |
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the step most comparison articles gloss over, so I'm going to be specific.
 
 Start at [Medicare.gov](https://www.medicare.gov/). The Plan Finder tool there is genuinely good, and it's official, so the information is required to be accurate. You'll enter your ZIP code, your drugs (name, dosage, frequency), and your pharmacy. The tool will show you estimated annual costs across available plans, not just premiums. That total estimated cost figure is the one you should be ranking plans by.

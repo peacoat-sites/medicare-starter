@@ -21,7 +21,7 @@ The program being cut is called the Part D Premium Stabilization Demonstration. 
 A KFF analysis published July 29, 2026, found that approximately 45% of standalone Part D enrollees are looking at monthly premium increases of $11 to $20 for 2027. That's not pocket change for someone on a fixed income. CMS Administrator Dr. Mehmet Oz has said most beneficiaries will pay less than $10 more per month and has called the subsidy a "bailout" for insurers. Families USA, an advocacy group, pushed back hard, calling the termination an "unnecessary blow to seniors." As NPR reported in July 2026, the disagreement over who actually benefits from the subsidy, insurers or patients, sits right at the center of this debate.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D Premium Stabilization Demonstration ends December 31, 2026, one year early.</li><li style="margin:5px 0">The subsidy lowered standalone Part D premiums by an average of $16/month in 2026.</li><li style="margin:5px 0">KFF projects 45% of standalone enrollees will see monthly increases of $11–$20 in 2027.</li><li style="margin:5px 0">Open Enrollment ends December 7, 2026 ,  the last chance to shop before 2027 rates lock in.</li><li style="margin:5px 0">Medicare Advantage enrollees and Extra Help recipients are largely shielded from these increases.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D Premium Stabilization Demonstration ends December 31, 2026, one year early.</li><li style="margin:5px 0">The subsidy lowered standalone Part D premiums by an average of $16/month in 2026.</li><li style="margin:5px 0">KFF projects 45% of standalone enrollees will see monthly increases of $11–$20 in 2027.</li><li style="margin:5px 0">Open Enrollment ends December 7, 2026, the last chance to shop before 2027 rates lock in.</li><li style="margin:5px 0">Medicare Advantage enrollees and Extra Help recipients are largely shielded from these increases.</li></ul></div>
 
 
 ## Who Feels This Most, and Who Is Protected
@@ -33,10 +33,6 @@ Medicare Advantage enrollees are in a different position. Most Medicare Advantag
 What genuinely concerned me in the research is the rural picture. PBS NewsHour reported in August 2026 that nearly 6 in 10 Part D enrollees in the most rural counties were using standalone PDPs (prescription drug plans) in 2025. Why? Because Medicare Advantage plans are thin or nonexistent in many rural areas. Those folks don't have the option of switching to an Advantage plan to soften the blow. They're locked into the standalone market, which is exactly the market getting hit hardest.
 
 ## What the Numbers Actually Look Like
-
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's a side-by-side view of the key figures, because the difference between the base premium and what you might actually see matters a lot.
 
@@ -73,12 +69,12 @@ The expiration of this subsidy isn't a catastrophe for every single Part D enrol
 
 ## Sources
 
-- [PBS NewsHour ,  This Medicare Part D subsidy is expiring. We answered your questions.](https://www.pbs.org/newshour/health/this-medicare-part-d-subsidy-is-expiring-we-answered-your-questions) (published August 2026)
-- [NPR ,  The Trump administration's move to end subsidies for Medicare drug plans could cost consumers](https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers) (published July 29, 2026)
-- [Forbes ,  A Medicare Drug Subsidy Is Ending ,  Here's What Patients Should Know](https://www.forbes.com/sites/jessepines/2026/07/31/a-medicare-drug-subsidy-is-ending-heres-what-patients-should-know/) (published July 31, 2026)
-- [Medicare Starter ,  Medicare Part D Subsidy Ends: What Higher Premiums Mean for 2027](https://www.medicarestarter.com/medicare-part-d-subsidy-ends-what-higher-premiums-mean-for-2027/) (published August 2026)
-- [Policy Guide ,  Medicare Part D Subsidies Ending in 2027? What to Know](https://www.policyguide.com/medicare/medicare-part-d-news/) (published September 2026)
-- [Yahoo News / Families USA ,  A Medicare Part D subsidy program is ending. Millions could see higher premiums.](https://www.yahoo.com/news/us/article/a-medicare-part-d-subsidy-program-is-ending-millions-of-americans-could-see-higher-monthly-premiums-102239941.html) (published August 2026)
+- [PBS NewsHour, This Medicare Part D subsidy is expiring. We answered your questions.](https://www.pbs.org/newshour/health/this-medicare-part-d-subsidy-is-expiring-we-answered-your-questions) (published August 2026)
+- [NPR, The Trump administration's move to end subsidies for Medicare drug plans could cost consumers](https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers) (published July 29, 2026)
+- [Forbes, A Medicare Drug Subsidy Is Ending, Here's What Patients Should Know](https://www.forbes.com/sites/jessepines/2026/07/31/a-medicare-drug-subsidy-is-ending-heres-what-patients-should-know/) (published July 31, 2026)
+- [Medicare Starter, Medicare Part D Subsidy Ends: What Higher Premiums Mean for 2027](https://www.medicarestarter.com/medicare-part-d-subsidy-ends-what-higher-premiums-mean-for-2027/) (published August 2026)
+- [Policy Guide, Medicare Part D Subsidies Ending in 2027? What to Know](https://www.policyguide.com/medicare/medicare-part-d-news/) (published September 2026)
+- [Yahoo News / Families USA, A Medicare Part D subsidy program is ending. Millions could see higher premiums.](https://www.yahoo.com/news/us/article/a-medicare-part-d-subsidy-program-is-ending-millions-of-americans-could-see-higher-monthly-premiums-102239941.html) (published August 2026)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

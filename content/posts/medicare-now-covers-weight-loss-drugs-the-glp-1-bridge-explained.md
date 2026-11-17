@@ -36,10 +36,6 @@ One more important note on timing: CMS announced in May 2026 that the follow-on 
 | Ozempic | Injectable | Not covered | Approved for diabetes, not weight loss |
 | Mounjaro | Injectable | Not covered | Approved for diabetes, not weight loss |
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Three medications are covered under the Bridge. Wegovy, available in both its injectable form and its newer tablet form. Zepbound, but only in the KwikPen formulation. And Foundayo, which received FDA approval and was added to the program on April 6, 2026.
 
 Here's where I see a lot of confusion, and it's completely understandable given how much these medications get grouped together in news coverage. Ozempic and Mounjaro are explicitly excluded. Both of those drugs are approved for type 2 diabetes management, not specifically for weight loss, which is why they sit in a different regulatory and coverage category. If your doctor has been prescribing you Ozempic or Mounjaro for weight management, that does not automatically translate into Bridge eligibility or coverage. The approved drug list matters here.

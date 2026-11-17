@@ -43,8 +43,6 @@ What's not covered: cosmetics, general toiletries that aren't medically oriented
 
 ## How Much Money We're Talking
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This varies widely, and the range surprises people.
 
 | Plan Type / Example | Annual OTC Allowance | Credit Frequency | Rollover? |

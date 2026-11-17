@@ -35,16 +35,12 @@ Here's a side-by-side look at what's changing at the national level:
 | National avg. monthly bid amount | $239.27 | $296.05 | +24% |
 | Base beneficiary premium | $38.99/mo | $41.33/mo | +$2.34/mo |
 | Premium Stabilization subsidy | Active ($9.8B total) | Ended | Gone |
-| Projected enrollees seeing $11–$20 increase | N/A | ~45% | ,  |
-| Projected enrollees seeing flat or lower premiums | N/A | ~25% | ,  |
+| Projected enrollees seeing $11–$20 increase | N/A | ~45% |, |
+| Projected enrollees seeing flat or lower premiums | N/A | ~25% |, |
 
 What CMS has not released yet is what your specific plan will charge. Those individual plan premiums won't be published until mid-to-late September 2026, according to the NPR report from July 29. That's a frustratingly short runway before October 15 opens enrollment. It means right now, no one, not your insurance agent, not your plan's customer service line, can tell you your 2027 premium with certainty.
 
 ## Why the Subsidy Existed and Why It's Ending
-
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 You might be wondering what this demonstration program actually was. The Part D Premium Stabilization Demonstration was put in place to cushion a specific problem: the Inflation Reduction Act of 2022 made major changes to how Part D works, including a new $2,000 out-of-[pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) and a restructured catastrophic phase. Those changes shifted costs in ways that caused insurers to raise their bids significantly. The subsidy program was designed to absorb enough of that increase to prevent beneficiaries from seeing immediate shock at the premium level.
 

@@ -34,8 +34,6 @@ The good news, if you want to call it that, is that Congress has stepped in befo
 | Part A (Hospital, skilled nursing, hospice) | Funded by payroll taxes | N/A | 2033 |
 | Medicare Advantage Overpayment Impact | $76 billion annually | Structural pressure | Affects all beneficiaries |
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The standard Part B premium, which covers doctor visits, outpatient care, and medical equipment, hit $202.90 per month in 2026. That's the first time it has ever crossed the $200 mark. For someone on a fixed Social Security income, that's a meaningful line in the budget.
 
 And the Trustees aren't projecting relief. They estimate Part B premiums will rise an average of 6.6% per year over the next decade. Run that math and your $202.90 monthly premium could be well over $380 by the mid-2030s.

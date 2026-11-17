@@ -39,8 +39,6 @@ I've sat with clients who spent months assuming they were doing something wrong 
 
 ## The Four Phases of Part D: A Clear Breakdown
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Knowing where you are in the Part D cycle at any given moment changes everything about how you plan. Here's how the phases work in the 2024 plan year:
 
 | Phase | What Triggers It | What You Pay |

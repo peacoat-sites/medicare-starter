@@ -51,8 +51,6 @@ Part D (prescription drug coverage) has a similar penalty: roughly 1% of the nat
 | Late enrollment penalty (Part B) | 10% increase per 12-month period of delay | N/A | Penalties permanent |
 | Late enrollment penalty (Part D) | ~1% per month without creditable coverage | N/A | Penalties permanent |
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people who are coming off employer coverage and are already Medicare-eligible: in most situations, Medicare should come first. But COBRA can still play a supporting role.
 
 Some people take both. Enroll in Medicare Part A and Part B on time, then also elect COBRA, and COBRA becomes secondary insurance. Medicare pays first, COBRA picks up some of what's left. This combination can significantly reduce your out-of-pocket costs during the COBRA period, which can last up to 18 months (or 29 months in some disability situations, and up to 36 months for dependents).

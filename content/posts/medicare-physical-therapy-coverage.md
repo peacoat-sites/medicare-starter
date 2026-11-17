@@ -45,8 +45,6 @@ Here's the part that trips people up: as of 2026, there's an annual cap on outpa
 | Original Medicare + Medigap | $240 (Part B) | 80% | 20% (typically covered by Medigap) | Usually no |
 | Medicare Advantage | Varies by plan | Varies by plan | Varies by plan | Often yes |
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you have [Original Medicare and a Medigap](/medicare-advantage-vs-medicare-supplement-total-cost/) (supplement) plan, you'll have more straightforward coverage. Original Medicare pays 80 percent of the cost after you've met your Part B deductible (which for 2026 is $240). Your Medigap plan typically covers that 20 percent coinsurance, depending on which plan you have. Plan G and Plan N are popular because they cover most out-of-pocket costs, though they cost more upfront.
 
 [Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/) (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. For example, an Advantage plan might require physical therapy to be ordered through a primary care physician first, which can add delays to treatment. That's not a Medicare rule; that's her plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.

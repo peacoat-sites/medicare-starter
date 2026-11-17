@@ -35,10 +35,6 @@ And the MedPAC (Medicare Payment Advisory Commission) March 2026 report estimate
 
 ## Why Is This Cut Happening?
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is usually the first question people ask me. It feels counterintuitive, doesn't it? Congress can't possibly want to cut payments during a time when finding a doctor who accepts Medicare is already a challenge in many parts of the country.
 
 The truth is that this particular cut isn't a deliberate policy choice so much as the expiration of a temporary fix. When Congress passed the Working Families Tax Cut legislation, it included a 2.5% boost to the 2026 conversion factor. That boost was always a one-year patch, and it expires at the end of 2026. It doesn't carry forward. So even though the proposed 2027 rate looks like a cut compared to this year, part of what you're seeing is simply 2026's temporary increase going away.
@@ -53,7 +49,7 @@ The concern is especially real in specialties like orthopedics, neurology, and p
 
 It's also worth paying attention to a new piece of this proposed rule: CMS is introducing something called the Ambulatory Specialty Model, described by CMS as its first mandatory specialist-level accountability model, also set to launch January 1, 2027. This means certain specialists would be required to participate in a value-based payment arrangement, whether they want to or not. As the Value-Based Care Association pointed out in its July 2026 analysis, specialists will want to watch how this model affects their payment calculations, and patients who see those specialists should be aware the care delivery structure may shift.
 
-## You Actually Have a Voice Here ,  But the Window Is Short
+## You Actually Have a Voice Here, But the Window Is Short
 
 Most people don't realize that when CMS publishes a proposed rule, it's not final. There's a public comment period, and individual patients, caregivers, and advocacy groups can submit written comments that CMS is required to review. For the 2027 Physician Fee Schedule, that window closes September 14, 2026. That gives you roughly two months from the time this article is published.
 
@@ -73,7 +69,7 @@ As always, for questions about your specific plan or benefits, Medicare.gov and 
 
 - [CMS Fact Sheet: CY 2027 Medicare Physician Fee Schedule Proposed Rule](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule) (July 14, 2026)
 - [AHA News: CMS Issues CY 2027 Physician Fee Schedule Proposed Rule](https://www.aha.org/news/headline/2026-07-14-cms-issues-cy-2027-physician-fee-schedule-proposed-rule) (July 14, 2026)
-- [VBCA: CY2027 Physician Fee Schedule Proposed Rule ,  What Specialists Should Watch](https://www.vbca.com/insights/2027-physician-fee-schedule-proposed-rule/) (July 3, 2026)
+- [VBCA: CY2027 Physician Fee Schedule Proposed Rule, What Specialists Should Watch](https://www.vbca.com/insights/2027-physician-fee-schedule-proposed-rule/) (July 3, 2026)
 - [Becker's Spine Review: CMS Floats 1.68% Cut to Physician Fee Schedule](https://www.beckersspine.com/news/cms-floats-1-68-cut-to-physician-fee-schedule-7-other-things-to-know/) (July 14, 2026)
 
 ---

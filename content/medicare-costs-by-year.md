@@ -30,7 +30,7 @@ Looking at one year in isolation hides the bigger story: the standard Part B pre
 
 | Year | Part B premium | Change | Part B deductible |
 | --- | --- | --- | --- |
-| 2015 | $104.90 | , | $147 |
+| 2015 | $104.90 |, | $147 |
 | 2016 | $121.80 | +16.1% | $166 |
 | 2017 | $134.00 | +10.0% | $183 |
 | 2018 | $134.00 | 0% | $183 |

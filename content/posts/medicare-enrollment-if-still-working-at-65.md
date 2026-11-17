@@ -45,8 +45,6 @@ So before you do anything else, ask your HR department two questions: how many e
 
 ## What "Delaying Medicare" Actually Means (And Doesn't Mean)
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Assuming you work for a company with 20 or more employees, you can delay Medicare enrollment past 65 without penalty, but only certain parts of it.
 
 Medicare Part A, which covers hospital stays, is almost always free if you've worked and paid Medicare taxes for at least 10 years (40 quarters). Most people in this situation should go ahead and enroll in Part A at 65 even if they're keeping their employer coverage. There's almost no reason not to, since it costs nothing and can act as a secondary layer of coverage for hospitalizations.

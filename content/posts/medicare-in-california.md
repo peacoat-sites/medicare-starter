@@ -37,8 +37,6 @@ California residents on Original Medicare can add a Medicare Supplement plan (al
 
 ## Medicare Advantage in California: Big Opportunity, Big Variation
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicare Advantage (Part C) is where California really stands out. The state has one of the most competitive Advantage markets in the country. Major insurers like Kaiser Permanente, Blue Shield of California, Humana, and UnitedHealthcare all operate here, and in urban areas you'll often find dozens of plans competing for your enrollment.
 
 What surprised me when I dug into the data is how dramatically plan quality and availability shift by county. In Los Angeles, Orange, and San Diego counties, beneficiaries typically have access to 30 or more Advantage plans during Open Enrollment. Rural counties in Northern California, the Central Valley, or the Sierra Nevada foothills may have only a handful. Some of those rural plans have narrower networks and fewer extra benefits like dental, vision, and hearing coverage, which are often cited as reasons people choose Advantage over Original Medicare in the first place.

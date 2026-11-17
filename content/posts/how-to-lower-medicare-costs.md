@@ -46,8 +46,6 @@ That's not a complaint about Medicare; I think it's genuinely one of the most va
 
 ## The First Thing I Tell Everyone: Check Whether You Qualify for Help
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before we talk about plan optimization or drug cost tricks, I want to make sure you haven't missed something much bigger. There are federal and state programs specifically designed to reduce Medicare costs for people with limited income and resources, and they go dramatically underused. AARP estimates millions of eligible people aren't enrolled.
 
 The big one is the Extra Help program (also called the Low Income Subsidy, or LIS). It helps pay for Part D prescription drug costs, including premiums, deductibles, and copays. Depending on your income and assets, it could save you $2,000 or more annually on drug costs alone. You apply through Social Security at ssa.gov or call 1-800-772-1213.

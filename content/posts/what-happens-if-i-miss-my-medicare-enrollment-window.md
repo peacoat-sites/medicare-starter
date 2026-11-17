@@ -45,8 +45,6 @@ So which one did you miss? Your next steps depend entirely on the answer.
 
 ## The Penalty Math (And It's Worse Than You Think for Part B)
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: the Part B late enrollment penalty surprised me the first time I looked at it closely. I'd assumed it would be a one-time fee. It's not. It's permanent.
 
 For every 12-month period you were eligible for Part B but didn't sign up, your premium goes up by 10%. And that penalty rides with you for as long as you have Medicare. So if you delayed three years unnecessarily, your Part B premium is 30% higher forever. On a $185 monthly premium, that's an extra $55 a month, $660 a year, for the rest of your life.

@@ -31,7 +31,7 @@ So let me walk you through what a real Medicare plan review actually looks like,
 
 [Open Enrollment](/missing-medicare-open-enrollment/) runs October 15 through December 7 every year, and that's your main window to make changes. Review your coverage in September, before the chaos starts. Waiting until late November can lead to rushed decisions that miss important changes to your plan.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Open Enrollment runs Oct 15–Dec 7; review your plan in September, before the window opens.</li><li style="margin:5px 0">Your drug formulary (the list of covered medications) can change every year, even mid-year in some cases.</li><li style="margin:5px 0">Switching plans can save hundreds annually, but only if you compare total costs, not just the monthly premium.</li><li style="margin:5px 0">A free SHIP (State Health Insurance Assistance Program) counselor can do a side-by-side plan comparison with you at no cost.</li><li style="margin:5px 0">Your current plan's Annual Notice of Change arrives in late September ,  reading it is step one.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Open Enrollment runs Oct 15–Dec 7; review your plan in September, before the window opens.</li><li style="margin:5px 0">Your drug formulary (the list of covered medications) can change every year, even mid-year in some cases.</li><li style="margin:5px 0">Switching plans can save hundreds annually, but only if you compare total costs, not just the monthly premium.</li><li style="margin:5px 0">A free SHIP (State Health Insurance Assistance Program) counselor can do a side-by-side plan comparison with you at no cost.</li><li style="margin:5px 0">Your current plan's Annual Notice of Change arrives in late September, reading it is step one.</li></ul></div>
 
 ## Start With the Annual Notice of Change
 
@@ -42,8 +42,6 @@ The ANOC tells you exactly what's changing next year: new premiums, adjusted cop
 Read it. Specifically look for: premium changes, drug tier changes (if your medication moved from Tier 2 to Tier 3, your cost-sharing just jumped), any changes to the network, and changes to extra benefits like dental or vision if you have a Medicare Advantage plan.
 
 ## The Drug Check Nobody Does Thoroughly Enough
-
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 This is the one that catches people off guard the most, and I say that having sat across the table from hundreds of seniors who were blindsided by it.
 

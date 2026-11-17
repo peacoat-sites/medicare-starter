@@ -48,8 +48,6 @@ A plan that looks like the best deal at enrollment often isn't the best deal at 
 | Issue-age-rated | No | Applied to stable base | Moderate cost predictability |
 | Attained-age-rated | Yes, on every birthday | Medical trend + age factor (40-50% higher by age 80) | Younger enrollees only |
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Three ways insurers price Medigap plans exist, and this is where most coverage completely glosses over what matters.
 
 **Community-rated** plans charge everyone the same premium regardless of age. Your neighbor who enrolled at 65 pays the same as you at 78. Increases still happen (medical trend applies to everyone), but there's no built-in acceleration just because you're getting older. Wisconsin, Massachusetts, and Minnesota standardize Medigap differently and largely use community rating.

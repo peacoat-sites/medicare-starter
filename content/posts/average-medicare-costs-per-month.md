@@ -49,8 +49,6 @@ But "free premium" doesn't mean free. Part A has a per-benefit-period deductible
 
 *Depends on work history; most pay $0.
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. This is where your monthly cash actually leaves your wallet.
 
 The standard Part B premium is currently around $185 a month per person. That's the number to work with if your income is at or below $106,000 as an individual (or $212,000 if you're married filing jointly). If you earn more than that, you'll pay more. A lot more, actually.

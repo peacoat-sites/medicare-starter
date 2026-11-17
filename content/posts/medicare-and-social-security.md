@@ -46,8 +46,6 @@ But if you're not yet collecting Social Security at 65, you have to actively sig
 
 ## The Timing Problem That Catches People Off Guard
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's talk about when to take Social Security, because this decision ripples directly into your Medicare costs.
 
 You can claim Social Security retirement benefits as early as 62. Your full retirement age (FRA) is somewhere between 66 and 67, depending on your birth year. Wait until 70, and you get the maximum benefit. The difference between claiming at 62 versus 70 can be 30-40% or more in monthly income. That's not a rounding error.

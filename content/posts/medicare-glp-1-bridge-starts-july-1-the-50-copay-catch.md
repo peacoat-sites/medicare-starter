@@ -34,8 +34,6 @@ A common point of confusion: this is not a Part D benefit. CMS structured the Br
 | Eligible Drugs | Wegovy, Zepbound (KwikPen), Foundayo | Plan-dependent |
 | Eligible Population | ~3.8 million Part D enrollees (8%) | All Part D enrollees |
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The $50 monthly copay may seem to work like standard Part D cost-sharing, leading people to assume it counts toward your annual out-of-pocket cap and your Medicare Prescription Payment Plan if you use one. Both assumptions are wrong.
 
 Because the Bridge operates outside the Part D benefit structure, that $50 monthly payment does not count toward the 2026 [Part D out-of-pocket cap](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) of $2,100. If you're already managing other expensive medications through Part D and you're working toward that $2,100 ceiling, your Bridge copays won't help you get there any faster. You're paying $50 a month in a lane that doesn't connect to your other drug spending.

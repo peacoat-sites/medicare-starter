@@ -41,8 +41,6 @@ Even situations that seem to clearly qualify can get rejected on first review. R
 
 ## What Medicare Advantage Changed (And What It Didn't)
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get more complicated, in a way that actually helps you.
 
 Medicare Advantage (Part C) plans are sold by private insurance companies and approved by Medicare. As of this year, the vast majority of Medicare Advantage plans include some dental coverage. According to data from the Kaiser Family Foundation, over 90% of Medicare Advantage enrollees are in a plan that offers at least basic dental benefits as of 2026. That's a meaningful shift from even five years ago.

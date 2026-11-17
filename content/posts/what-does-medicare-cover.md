@@ -49,8 +49,6 @@ Many people assume Medicare will cover a long nursing home stay indefinitely, bu
 
 Hospice care is actually generous. If a doctor certifies a terminal illness with a life expectancy of six months or less, Medicare covers nearly all hospice services: nursing visits, pain management, counseling, family support. It happens at home or in a hospice facility, and out-of-pocket costs are minimal.
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What Part B Covers Day to Day
 
 Part B is what you'll probably use most.

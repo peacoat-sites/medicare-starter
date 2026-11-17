@@ -45,8 +45,6 @@ Assisted living facilities almost never meet those criteria. And even when a res
 
 ## The Real Numbers, Because You Need to Know Them
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 According to the Genworth Cost of Care Survey (one of the most consistently reliable data sources on this, current as of July 2026), the national median monthly cost for assisted living is about $5,350, or roughly $64,200 a year. That's the middle of the road. In California's coastal markets, you can easily spend $7,000 to $8,500 a month. In rural Ohio or rural Kansas, you might find $3,200 a month, though those facilities vary enormously in quality and services.
 
 Here's what that looks like across care types:

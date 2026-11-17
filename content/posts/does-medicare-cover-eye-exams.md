@@ -49,8 +49,6 @@ For example, with Original Medicare and a Medigap plan, a diabetic retinopathy s
 
 ## Medicare Advantage: Where Vision Coverage Actually Lives
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get genuinely interesting, and I think it's where most seniors should focus their attention.
 
 Medicare Advantage plans (Part C) are private health insurance plans that contract with Medicare to deliver your Part A and Part B benefits. By law, they must cover everything Original Medicare covers. But they're also allowed to offer *extra* benefits, and vision is one of the most common add-ons.

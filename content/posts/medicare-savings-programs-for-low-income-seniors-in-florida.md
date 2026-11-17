@@ -47,8 +47,6 @@ The QMB figure is estimated conservatively, it covers premiums, deductibles, and
 
 ## The Four Tiers, Explained Plainly
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I see people get tangled. There isn't "one" Medicare Savings Program. There are four, each with a slightly different income cutoff and a different set of benefits.
 
 | Program | What It Pays | 2026 Income Limit (Single) | 2026 Income Limit (Couple) |

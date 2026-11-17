@@ -45,8 +45,6 @@ As of August 2026, the standard Part B premium sits at $185.00 per month for mos
 
 ## IRMAA: The Increase Most Articles Underexplain
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Income-Related Monthly Adjustment Amounts (IRMAA, pronounced "er-MAH") are premium surcharges added on top of your base Part B and Part D premiums if your income exceeds certain thresholds. IRMAA catches many seniors by surprise, particularly those unaware that Medicare examines income from two years prior.
 
 Here's the part that surprises almost everyone: CMS uses your tax return from two years ago. So your 2026 Medicare premiums are based on your 2024 Modified Adjusted Gross Income (MAGI). If you sold a rental property in 2024, took a large IRA (Individual Retirement Account) distribution, or had a one-time capital gain, that income could push you into a higher IRMAA bracket today even if your 2025 and 2026 income are much lower.

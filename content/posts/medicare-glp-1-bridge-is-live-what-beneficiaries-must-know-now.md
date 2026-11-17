@@ -33,10 +33,6 @@ Eighteen months sounds like a decent runway. The problem is what comes after. CM
 | 30 or above | Heart failure, uncontrolled hypertension, or chronic kidney disease | Eligible |
 | 27 or above | Pre-diabetes, prior heart attack or stroke, or peripheral artery disease | Eligible |
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Eligibility is structured around three clinical tiers, and the threshold most people assume applies, BMI of 35 or higher, is actually just the broadest one. You may qualify at a lower BMI depending on your health history.
 
 The three tiers work like this: BMI 35 or above qualifies on its own, no additional conditions required. BMI 30 or above qualifies if you also have heart failure, uncontrolled hypertension, or chronic kidney disease. BMI 27 or above qualifies if you have pre-diabetes, a prior heart attack or stroke, or peripheral artery disease. That third tier captures a meaningful number of people who might assume they don't qualify.
@@ -79,7 +75,7 @@ This program is a genuine opportunity for the right patients, and the 18-month w
 - [Information for Providers, Medicare GLP-1 Bridge | CMS](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers) (July 2026)
 - [GLP-1 Weight-Loss Drug Demonstration Begins July 2026 | Medicare Rights Center](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
 - [Medicare GLP-1 Bridge Eligibility: BMI Tiers, Costs & Enrollment | Klinic](https://klinic.com/blog/medicare-glp-1-bridge-program-eligibility) (July 1, 2026)
-- [Medicare's GLP-1 Weight Loss Program Launches July 1 ,  Complete Eligibility Guide | Medical Daily](https://www.medicaldaily.com/medicare-glp1-bridge-program-july-1-2026-complete-eligibility-guide-475833) (June 29, 2026)
+- [Medicare's GLP-1 Weight Loss Program Launches July 1, Complete Eligibility Guide | Medical Daily](https://www.medicaldaily.com/medicare-glp1-bridge-program-july-1-2026-complete-eligibility-guide-475833) (June 29, 2026)
 - [Medicare's $50 Per Month GLP-1 Bridge: What You Need to Know | Sheppard](https://www.sheppard.com/insights/blogs/medicares-50-per-month-glp1-bridge-what-you-need-to-know) (May 15, 2026)
 
 ---

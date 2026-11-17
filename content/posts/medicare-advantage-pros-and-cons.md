@@ -43,8 +43,6 @@ For the full breakdown on how all the pieces connect, check out our guide on [ho
 
 ## The Genuine Advantages Worth Getting Excited About
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicare Advantage plans offer real benefits that Original Medicare doesn't touch.
 
 **Lower or zero monthly premiums.** Many plans charge $0 beyond your Part B premium. For someone on a fixed income, that saves hundreds of dollars a month compared to pairing Original Medicare with a Medigap policy.

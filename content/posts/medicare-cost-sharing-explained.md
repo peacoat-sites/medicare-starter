@@ -55,8 +55,6 @@ Skilled nursing facility (SNF) care follows its own schedule: free for days 1 th
 
 ## Part B: The 80/20 Rule and Why 20% Can Sting
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Part B covers outpatient care: doctor visits, labs, imaging, durable medical equipment, preventive services. The standard premium in 2026 is $185 per month (higher earners pay more through a surcharge called IRMAA, which stands for Income-Related Monthly Adjustment Amount).
 
 After your annual deductible of $257, Medicare pays 80% of the approved amount for covered services. You owe 20%. There's no cap on that 20%.

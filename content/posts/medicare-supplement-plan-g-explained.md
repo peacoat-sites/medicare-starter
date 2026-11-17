@@ -39,8 +39,6 @@ That 20 percent adds up fast. A single MRI, a specialist visit, an outpatient su
 
 Medicare Supplement plans, also called Medigap plans, are private insurance policies that fill those gaps. They don't replace Medicare. They work alongside it. When Medicare pays its share, your Medigap plan pays some or all of the remainder, depending on which plan you choose. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) standardizes these plans, which means a Plan G sold by Company A and a Plan G sold by Company B cover the exact same benefits. The only real difference between companies is the premium and customer service.
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What Plan G Covers
 
 Plan G is nearly complete coverage. Here's what it picks up after Medicare pays its portion:

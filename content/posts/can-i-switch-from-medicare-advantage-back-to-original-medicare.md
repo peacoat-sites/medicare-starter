@@ -52,8 +52,6 @@ One thing I tell people clearly: if you miss these windows, you're generally stu
 
 ## The Medigap Problem (This Is the Part People Miss)
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I see people get genuinely hurt, and I wish more advisors led with this.
 
 When you first enrolled in Medicare Part B, you had what's called a "guaranteed issue" right to buy a Medicare Supplement policy (commonly called Medigap) without medical underwriting. That window is gone once you've been in Medicare Advantage. In most states, when you [switch back to Original Medicare](/switching-from-medicare-advantage-to-original-medicare/), insurance companies can review your health history and deny you Medigap coverage, or charge you significantly more, based on preexisting conditions.

@@ -33,8 +33,6 @@ The scale of insurer pullback is significant too. [KFF's 2026 enrollment analysi
 
 ## What This Actually Means for Your Care
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where it gets personal. If your doctor or hospital just went out of network, you have a few options, and none of them are painless.
 
 You could stay in your current plan and pay out-of-network rates, which in many MA plans means paying substantially more, or in HMO-style plans, potentially paying the full cost yourself. You could try to find a new in-network doctor, which is genuinely hard when you have an established relationship or a complex condition. Or you could look at switching plans or leaving Medicare Advantage altogether.
@@ -65,11 +63,11 @@ If you're unsure where you stand, the State Health Insurance Assistance Program,
 
 ## Sources
 
-- [23 Health Systems Dropping Medicare Advantage Plans 2026 ,  Becker's Hospital Review](https://www.beckershospitalreview.com/finance/16-health-systems-dropping-medicare-advantage-plans-2026/) (June 2026)
-- [Network Shakeups Hit Medicare Advantage, Forcing Retirees to Pay Up or Find New Care ,  Yahoo Finance](https://finance.yahoo.com/news/network-shakeups-hit-medicare-advantage-forcing-retirees-to-pay-up-or-find-new-care-150000755.html) (May 2026)
-- [Medicare Advantage in 2026: Enrollment Update and Key Trends ,  KFF](https://www.kff.org/medicare/medicare-advantage-in-2026-enrollment-update-and-key-trends/) (July 1, 2026)
-- [List of Health Systems Dropping Medicare Advantage Plans ,  Newsweek](https://www.newsweek.com/list-of-health-systems-dropping-medicare-advantage-plans-in-january-11291771) (December 2025, updated 2026)
-- [UnitedHealth Projects 1 Million-Member Drop in Medicare Advantage Enrollment ,  Becker's Payer Issues](https://www.beckerspayer.com/payer/medicare-advantage/unitedhealth-projects-1-million-member-drop-in-medicare-advantage-enrollment/) (October 2025)
+- [23 Health Systems Dropping Medicare Advantage Plans 2026, Becker's Hospital Review](https://www.beckershospitalreview.com/finance/16-health-systems-dropping-medicare-advantage-plans-2026/) (June 2026)
+- [Network Shakeups Hit Medicare Advantage, Forcing Retirees to Pay Up or Find New Care, Yahoo Finance](https://finance.yahoo.com/news/network-shakeups-hit-medicare-advantage-forcing-retirees-to-pay-up-or-find-new-care-150000755.html) (May 2026)
+- [Medicare Advantage in 2026: Enrollment Update and Key Trends, KFF](https://www.kff.org/medicare/medicare-advantage-in-2026-enrollment-update-and-key-trends/) (July 1, 2026)
+- [List of Health Systems Dropping Medicare Advantage Plans, Newsweek](https://www.newsweek.com/list-of-health-systems-dropping-medicare-advantage-plans-in-january-11291771) (December 2025, updated 2026)
+- [UnitedHealth Projects 1 Million-Member Drop in Medicare Advantage Enrollment, Becker's Payer Issues](https://www.beckerspayer.com/payer/medicare-advantage/unitedhealth-projects-1-million-member-drop-in-medicare-advantage-enrollment/) (October 2025)
 
 ---
 

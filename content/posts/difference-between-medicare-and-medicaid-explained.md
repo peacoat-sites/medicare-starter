@@ -50,8 +50,6 @@ Medicaid is different in almost every way. It's a needs-based program for people
 
 ## What Medicare actually covers (and what it doesn't)
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicare has four main parts, and honestly, the lettering system is one of the more confusing things about it.
 
 **Part A** covers hospital stays, skilled nursing facility care, hospice, and some home health care. Most people don't pay a premium for Part A if they've worked long enough.

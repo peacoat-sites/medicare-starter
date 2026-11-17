@@ -49,8 +49,6 @@ Some states have additional protections that limit or eliminate this, which I'll
 
 ## What Conditions Actually Trigger Denials
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want to be specific, because the generic answer ("it depends on the insurer") isn't helpful.
 
 Conditions that commonly trigger either denials or significantly higher premiums during underwriting include: end-stage renal disease (ESRD), HIV/AIDS, recent cancer treatment (typically within the last two years), congestive heart failure, chronic obstructive pulmonary disease (COPD) requiring oxygen, and certain neurological conditions like Parkinson's or MS.

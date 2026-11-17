@@ -55,8 +55,6 @@ Let me start with the building blocks, because this is where a lot of confusion 
 
 ## IRMAA: The Income Surcharge Nobody Warns You About
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This one is genuinely frustrating, and I say that as someone who has watched good people get blindsided by it year after year. If your modified adjusted gross income from two years prior exceeds certain thresholds, you pay more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's calculated based on your tax return from 2024 when you're enrolling in 2026.
 
 The tiers in 2026 look like this:

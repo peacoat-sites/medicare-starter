@@ -50,8 +50,6 @@ There's also a statutory protection called the "hold harmless" provision that mo
 | $200,001-$500,000 | ~$374 | ~$559.00 |
 | Above $500,000 | ~$443 | ~$628.00 |
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If your income is above a certain threshold, you don't just pay the standard premium. You pay it plus an [Income-Related Monthly Adjustment Amount](/medicare-income-related-premium-adjustment/), which everyone calls IRMAA (pronounced "er-mah").
 
 Many people are blindsided by higher-than-expected Medicare bills. Someone might budget for $185 a month, only to see their first bill arrive at $295 or $406 or more.

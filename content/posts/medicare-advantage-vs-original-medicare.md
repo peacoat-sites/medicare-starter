@@ -52,8 +52,6 @@ Neither is universally better. That's the honest answer, and anyone claiming oth
 | Travel coverage | Nationwide | Limited to network area (usually) |
 | Prior authorization | Rarely required | Common |
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The $0 premium on a Medicare Advantage plan sounds incredible until you see the full picture.
 
 **Original Medicare** means a monthly Part B premium (the 2025 amount varies, check [Medicare.gov](https://www.medicare.gov/) for current figures). Part A has no premium if you or your spouse paid Medicare taxes for at least 10 years. But you're exposed to serious cost-sharing: Part A deductible per hospital benefit period, a Part B deductible, and then 20% coinsurance for most Part B services. The killer: no out-of-pocket maximum. A major illness can wipe you out financially without a supplement.

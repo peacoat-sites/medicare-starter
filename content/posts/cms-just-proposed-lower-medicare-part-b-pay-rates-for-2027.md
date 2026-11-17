@@ -19,7 +19,7 @@ On July 14, 2026, CMS (the Centers for Medicare & Medicaid Services) released it
 Here's what CMS actually proposed, why it matters to beneficiaries right now, and what you can do about it before the window closes on September 14, 2026.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed cutting the Medicare Part B conversion factor to $32.84 for most providers, a 1.68% reduction from 2026 rates.</li><li style="margin:5px 0">Doctors in qualifying alternative payment models fare slightly better at $33.1693, but still face a 1.19% cut.</li><li style="margin:5px 0">The proposed Ambulatory Specialty Model launches January 1, 2027, reshaping how outpatient specialists bill Medicare.</li><li style="margin:5px 0">Public comments are open now through September 14, 2026 ,  beneficiaries can submit input at regulations.gov.</li><li style="margin:5px 0">Lower reimbursements historically push some physicians to limit Medicare patients, affecting access to care.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed cutting the Medicare Part B conversion factor to $32.84 for most providers, a 1.68% reduction from 2026 rates.</li><li style="margin:5px 0">Doctors in qualifying alternative payment models fare slightly better at $33.1693, but still face a 1.19% cut.</li><li style="margin:5px 0">The proposed Ambulatory Specialty Model launches January 1, 2027, reshaping how outpatient specialists bill Medicare.</li><li style="margin:5px 0">Public comments are open now through September 14, 2026, beneficiaries can submit input at regulations.gov.</li><li style="margin:5px 0">Lower reimbursements historically push some physicians to limit Medicare patients, affecting access to care.</li></ul></div>
 
 
 ## What the Conversion Factor Actually Means
@@ -40,10 +40,6 @@ A 1.68% cut sounds small until you realize it compounds against a decade of simi
 
 
 ## The Quality Reporting Overhaul You Haven't Heard About
-
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The conversion factor gets the headlines, but the proposed MIPS (Merit-based Incentive Payment System) changes may reshape your actual experience as a patient more directly.
 

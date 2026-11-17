@@ -60,8 +60,6 @@ Four things should drive your decision:
 
 ## Medicare Advantage in California: The Big Players
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 In 2026, the Medicare Advantage market in California is dominated by a handful of carriers, and they're not all equally good.
 
 **Kaiser Permanente** consistently ranks at or near the top for California Advantage plans, and I'll stand behind that assessment. Kaiser's integrated model (insurance and care delivery under the same roof) means fewer billing headaches and often better care coordination. In the 2024 and 2025 Star Ratings published by the Centers for Medicare and Medicaid Services (CMS), Kaiser's California HMO plans held 4.5 to 5 stars, which is legitimately exceptional. The tradeoff: you have to use Kaiser providers. If you're already in the Kaiser system and like it, this is a very hard plan to beat.

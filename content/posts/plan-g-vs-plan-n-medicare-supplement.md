@@ -41,8 +41,6 @@ Plan G and Plan N are the two most popular Medigap options for new Medicare enro
 
 ## Plan G: The Close-to-Complete Coverage Option
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Plan G is about as comprehensive as it gets for new enrollees. Pay your Part B deductible ($240 in 2024), and Plan G covers virtually everything else Original Medicare leaves behind.
 
 What Plan G covers:

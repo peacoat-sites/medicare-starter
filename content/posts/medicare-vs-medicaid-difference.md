@@ -48,8 +48,6 @@ What Medicare doesn't cover is genuinely important to understand before you coun
 
 ## Medicaid: Coverage Based on What You Have
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicaid is a joint federal-state program for people with limited income and assets. The federal government sets minimum standards; each state runs its own version and can expand or restrict coverage within those federal guardrails. This is why Medicaid in Texas looks very different from Medicaid in New York.
 
 You do not need to be elderly to qualify. Medicaid covers children, pregnant women, adults under 65, people with disabilities, and yes, seniors. Eligibility is based on financial criteria: your income, and in most states, your assets.

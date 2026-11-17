@@ -34,10 +34,6 @@ For you as a beneficiary, the practical implication is that you'll want to confi
 
 ## The 2028 Negotiation Cycle, Explained
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The IRA set up a rolling negotiation schedule, and we're currently in the 2026 negotiating cycle for drugs that will have price applicability in 2028. Up to 15 Part D ([prescription drug](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) coverage) and/or Part B (medical insurance, which covers doctor-administered drugs) medications are being negotiated right now. The first round, covering 10 drugs, produced prices effective January 1, 2026. This 2028 cycle expands the program's reach.
 
 Here's how the timeline looks for the drugs being negotiated now:

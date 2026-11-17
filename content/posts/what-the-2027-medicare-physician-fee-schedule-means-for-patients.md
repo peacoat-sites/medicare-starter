@@ -43,10 +43,6 @@ Why does that affect you? Because when Medicare pays doctors less, some of them 
 
 ## The New Ambulatory Specialty Model: What It Is and Why It's a Big Deal
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The rule proposes launching a mandatory new Ambulatory Specialty Model, or ASM, on January 1, 2027. "Mandatory" is the operative word here. Unlike voluntary payment experiments that doctors opt into, this one applies whether physicians want in or not, at least for those in the covered specialties and geographic areas CMS designates.
 
 The ASM represents one of the most significant structural shifts in Medicare physician payment in years, according to analysis from [ECG Management Consultants](https://www.ecgmc.com/insights/blog/cms-issues-cy-2027-medicare-physician-fee-schedule-proposed-rule). The model is designed to tie specialty care reimbursement more tightly to quality outcomes rather than simply the volume of procedures performed.

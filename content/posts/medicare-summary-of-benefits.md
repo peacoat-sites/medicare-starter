@@ -44,8 +44,6 @@ I'll admit I made this mistake myself years ago when helping a neighbor compare 
 
 ## How to Read It Without Going Cross-Eyed
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Start with three numbers: the monthly premium, the annual out-of-pocket maximum, and the copay for your most common service type (primary care, specialist, or emergency, depending on your health situation).
 
 Those three numbers tell you 80% of what you need to know about whether a plan fits your life.

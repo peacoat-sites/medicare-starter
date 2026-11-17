@@ -40,8 +40,6 @@ The declining value from 2025 to 2026 is itself telling. The subsidy was already
 
 ## The Good News You Shouldn't Overlook
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before you panic, some genuinely important protections are staying in place. The $2,000 annual out-of-pocket cap on drug costs, which took effect in 2025 under the Inflation Reduction Act, continues into 2027. So does the $35 monthly cap on insulin for Medicare beneficiaries. And the Medicare [drug price negotiation](/medicare-drug-price-negotiation-heads-to-2028-what-beneficiaries-shoul/) program is expanding: 10 drugs already have negotiated prices, and 15 additional drugs will gain negotiated prices in 2027. If any of those 25 drugs are in your medicine cabinet, you may actually pay less for those specific medications even as the premium itself rises.
 
 The out-of-pocket cap is especially significant for people on expensive specialty drugs. A premium increase of even $20 to $30 per month could be completely offset by catastrophic cost protection if you're someone who previously spent thousands out of pocket annually.
@@ -68,11 +66,11 @@ The stakes this fall are real. But the timeline is also workable. Use August to 
 
 ## Sources
 
-- [Medicare Part D Subsidy Ending in 2027: What Beneficiaries Need to Know ,  MedicareFAQ](https://www.medicarefaq.com/blog/medicare-part-d-subsidy-ending-2027/) (August 3, 2026)
-- [A Medicare Drug Subsidy Is Ending ,  Here's What Patients Should Know ,  Forbes](https://www.forbes.com/sites/jessepines/2026/07/31/a-medicare-drug-subsidy-is-ending-heres-what-patients-should-know/) (July 31, 2026)
-- [Medicare Part D Subsidy Ends: What Higher Premiums Mean for 2027 ,  Medicare Starter](https://www.medicarestarter.com/medicare-part-d-subsidy-ends-what-higher-premiums-mean-for-2027/) (July 28, 2026)
-- [Trump Administration Ending Medicare Part D Subsidy ,  Senior HealthCare Solutions](https://seniorhealthcaresolutions.com/blog/trump-administration-ending-medicare-part-d-subsidy/) (July 30, 2026)
-- [What the Medicare Part D Subsidy News Could Mean for Your 2027 Coverage ,  RoseHealth](https://roseins.com/medicare-part-d-subsidy-2027-coverage/) (August 3, 2026)
+- [Medicare Part D Subsidy Ending in 2027: What Beneficiaries Need to Know, MedicareFAQ](https://www.medicarefaq.com/blog/medicare-part-d-subsidy-ending-2027/) (August 3, 2026)
+- [A Medicare Drug Subsidy Is Ending, Here's What Patients Should Know, Forbes](https://www.forbes.com/sites/jessepines/2026/07/31/a-medicare-drug-subsidy-is-ending-heres-what-patients-should-know/) (July 31, 2026)
+- [Medicare Part D Subsidy Ends: What Higher Premiums Mean for 2027, Medicare Starter](https://www.medicarestarter.com/medicare-part-d-subsidy-ends-what-higher-premiums-mean-for-2027/) (July 28, 2026)
+- [Trump Administration Ending Medicare Part D Subsidy, Senior HealthCare Solutions](https://seniorhealthcaresolutions.com/blog/trump-administration-ending-medicare-part-d-subsidy/) (July 30, 2026)
+- [What the Medicare Part D Subsidy News Could Mean for Your 2027 Coverage, RoseHealth](https://roseins.com/medicare-part-d-subsidy-2027-coverage/) (August 3, 2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

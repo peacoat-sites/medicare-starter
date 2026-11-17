@@ -41,8 +41,6 @@ So: Part A, no. Part B, no, except for that narrow diagnostic exam.
 
 ## Medicare Advantage: Where It Gets More Interesting
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicare Advantage (Part C) is a different story, and this is where I spend most of my time when a client asks about hearing aids. These are private insurance plans that contract with Medicare to deliver your benefits, and they're allowed to offer additional coverage beyond what original Medicare provides. Hearing aid coverage is one of the most common extras they advertise.
 
 Here's what I've learned to tell people: the marketing is generous; the actual coverage requires careful reading.

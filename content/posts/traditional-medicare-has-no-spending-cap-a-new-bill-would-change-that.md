@@ -37,8 +37,6 @@ The proposed $5,000 cap would actually be more generous than what Medicare Advan
 
 ## Who This Would Actually Help
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Analysts estimate that over 52% of traditional Medicare beneficiaries would exceed a $5,000 cap at least once over the next decade, with average projected savings of $1,024 per year for those affected, according to reporting from KFF Health News and CBS News. That's not a niche population. That's the majority of people in traditional Medicare, eventually facing a year where the unlimited exposure problem becomes their personal problem.
 
 The people most vulnerable are the ones with serious chronic conditions, people who need regular hospitalizations, dialysis, chemotherapy, or complex surgeries. For them, the current system isn't a theoretical risk. It's an annual reckoning.

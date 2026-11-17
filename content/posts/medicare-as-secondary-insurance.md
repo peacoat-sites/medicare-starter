@@ -63,8 +63,6 @@ The size thresholds matter more than most people realize. A lot of people assume
 
 ## The Real-World Mechanics: What Actually Happens to Your Claim
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's how it works in practice. When you receive a covered service, the provider submits the claim to the primary payer first. That insurer processes the claim and pays its share. The remaining balance, which might include deductibles, coinsurance, or amounts above the primary plan's limits, then gets sent to Medicare.
 
 Medicare looks at two things: what the primary paid, and what Medicare would have paid as primary. Medicare's secondary payment is generally the lesser of (a) what Medicare would have paid as primary minus what the primary already paid, or (b) the remaining balance on the claim after the primary paid.

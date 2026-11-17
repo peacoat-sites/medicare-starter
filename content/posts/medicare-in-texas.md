@@ -41,8 +41,6 @@ Original Medicare has no out-of-pocket maximum. None. If you get seriously ill, 
 
 ## Medicare Advantage in Texas: More Choices Than Almost Anywhere
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Texas is a massive market, and insurance companies know it. In the Houston metro area alone, beneficiaries typically have access to 60 or more [Medicare Advantage plans](/best-medicare-plans-in-california-2026/). Dallas-Fort Worth, San Antonio, and Austin aren't far behind. Even in less densely populated areas of West Texas or the Panhandle, you'll usually find several competitive options.
 
 Medicare Advantage (also called Part C) is the all-in-one alternative to Original Medicare. You get your Part A and B coverage through a private insurer instead of directly through the federal government, and most plans bundle Part D (prescription drug coverage) along with extras like dental, vision, and hearing. Many Texas MA plans carry $0 monthly premiums.

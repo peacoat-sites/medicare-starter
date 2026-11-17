@@ -52,8 +52,6 @@ And here's the part that really stings: you'll likely qualify for the exact same
 | VA health benefits | No | Excellent coverage but not Medicare |
 | Health Insurance Marketplace | No | ACA plans do not qualify |
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your IEP is a 7-month window. It starts three months before the month you turn 65, includes your birthday month, and runs three months after. Miss that window without a qualifying reason, and the penalty clock starts ticking.
 
 That said, there's a critically important exception, and it's one that confuses people more than anything else. If you're still working at 65 and you're covered under an [employer group health plan](/medicare-enrollment-if-still-working-at-65/) (through your own job or a spouse's current job), you can delay Part B without penalty. The keyword there is "current" employer. Retiree coverage, COBRA, the Health Insurance Marketplace, and VA health benefits do not count as qualifying coverage for this purpose. Retiree coverage does not protect you from the penalty. Full stop.

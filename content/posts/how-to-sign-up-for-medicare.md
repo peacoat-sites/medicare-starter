@@ -44,8 +44,6 @@ But if you're not collecting Social Security yet? You need to sign up yourself.
 
 ## How to Actually Sign Up
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are three ways to enroll in Medicare, and the right one depends mostly on your comfort level and how much you want to leave the house.
 
 The online method is the easiest, honestly. Go to [ssa.gov](https://www.ssa.gov/) and complete the application there. It takes maybe 10 to 15 minutes if you have basic information on hand: your Social Security number, your birth certificate information, and details about any current health coverage. You don't need a separate account at Medicare.gov to apply. The Social Security website handles enrollment for both Part A (hospital insurance) and Part B (medical insurance).

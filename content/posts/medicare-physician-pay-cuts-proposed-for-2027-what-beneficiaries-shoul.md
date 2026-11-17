@@ -43,10 +43,6 @@ APM stands for Alternative Payment Model, a category that includes arrangements 
 
 ## Why This Cut Is Happening Now
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Congress handed physicians a one-time 2.5% pay increase for 2026 through the One Big Beautiful Bill Act. The key word there is "one-time." CMS was never authorized to carry that increase forward, and the proposed rule reflects its expiration, as the [CMS Fact Sheet published July 14](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule) makes clear.
 
 This is a recurring pattern in Medicare physician pay. Congress applies a patch, the patch expires, physicians absorb a cut, physician groups lobby for another patch. The American College of Cardiology noted in its [July 14 analysis](https://www.acc.org/Latest-in-Cardiology/Articles/2026/07/14/21/36/cms-releases-2027) that specialists across cardiology, oncology, and other fields should watch these shifts carefully because specialty-specific procedure values can compound the baseline conversion factor change.
@@ -83,10 +79,10 @@ The final 2027 rule won't be published until late fall 2026. Between now and the
 
 - [CMS Fact Sheet: CY 2027 Medicare Physician Fee Schedule Proposed Rule](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule) (July 14, 2026)
 - [Federal Register: CY 2027 PFS Proposed Rule (CMS-1848-P)](https://www.federalregister.gov/documents/2026/07/16/2026-14327/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other) (July 16, 2026)
-- [CMS Proposes Medicare Physician Pay Cuts for 2027 ,  Healthcare Finance News](https://www.healthcarefinancenews.com/news/cms-proposes-medicare-physician-pay-cuts-2027) (July 15, 2026)
+- [CMS Proposes Medicare Physician Pay Cuts for 2027, Healthcare Finance News](https://www.healthcarefinancenews.com/news/cms-proposes-medicare-physician-pay-cuts-2027) (July 15, 2026)
 - [ACP Says 2027 Medicare Payment Proposal Is a Positive Step for Internal Medicine](https://www.acponline.org/acp-newsroom/acp-says-2027-medicare-payment-proposal-is-a-positive-step-for-internal-medicine-physicians) (July 15, 2026)
-- [CMS Releases 2027 Medicare Physician Fee Schedule Proposed Rule ,  American College of Cardiology](https://www.acc.org/Latest-in-Cardiology/Articles/2026/07/14/21/36/cms-releases-2027) (July 14, 2026)
-- [CY2027 Physician Fee Schedule Proposed Rule: What Specialists Should Watch ,  VBCA](https://www.vbca.com/insights/2027-physician-fee-schedule-proposed-rule/) (July 3, 2026)
+- [CMS Releases 2027 Medicare Physician Fee Schedule Proposed Rule, American College of Cardiology](https://www.acc.org/Latest-in-Cardiology/Articles/2026/07/14/21/36/cms-releases-2027) (July 14, 2026)
+- [CY2027 Physician Fee Schedule Proposed Rule: What Specialists Should Watch, VBCA](https://www.vbca.com/insights/2027-physician-fee-schedule-proposed-rule/) (July 3, 2026)
 
 *Photo: [Chokniti Khongchum](https://www.pexels.com/@chokniti-khongchum-1197604) via Pexels*
 

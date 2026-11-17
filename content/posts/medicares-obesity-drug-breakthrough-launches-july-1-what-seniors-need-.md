@@ -39,8 +39,6 @@ Here's the practical part: you can't just call your doctor on Monday and expect 
 
 ## The Good News and the Catch
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 That $50 copay is genuinely remarkable compared to what these drugs normally cost without insurance. Wegovy and Zepbound typically run $900 to $1,300 per month. So Medicare is covering the real costs behind the scenes, and you're paying a flat fee. But I want to be clear about something important: that $50 doesn't count toward your Part D deductible, and it doesn't count toward your out-of-pocket spending cap either. That's actually good for you in this case, because it means you're not chipping away at protections that help you with other medications.
 
 The bigger catch is this: if you receive Extra Help (formally called the Low-Income Subsidy), you don't qualify for this program at all. That's a significant gap, because Extra Help serves the very seniors who would benefit most from affordable medication. If your income is low enough to qualify for assistance, you're frozen out of this breakthrough coverage. It's a policy gap that advocacy groups have already started flagging, and it's something Congress or CMS might address, but right now that's the rule.
@@ -72,9 +70,9 @@ This is a real opportunity for older adults who've been waiting for more tools t
 ## Sources
 
 - [Coming Soon: CMS to Provide $50 Monthly Access to GLP-1 Medications for Medicare Beneficiaries](https://www.cms.gov/newsroom/press-releases/coming-soon-cms-provide-50-monthly-access-glp-1-medications-medicare-beneficiaries) (May 6, 2026)
-- [Seniors in Medicare are about to get landmark obesity drug coverage , but many may not know it yet](https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html) (June 28, 2026)
+- [Seniors in Medicare are about to get landmark obesity drug coverage, but many may not know it yet](https://www.cnbc.com/2026/06/28/medicare-will-soon-cover-obesity-drugs-but-many-seniors-may-not-know.html) (June 28, 2026)
 - [GLP-1 Weight-Loss Drug Demonstration Begins July 2026](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026) (June 4, 2026)
-- [Medicare's GLP-1 Weight Loss Program Launches July 1 , the Complete Eligibility and Access Guide](https://www.medicaldaily.com/medicare-glp1-bridge-program-july-1-2026-complete-eligibility-guide-475833) (June 27, 2026)
+- [Medicare's GLP-1 Weight Loss Program Launches July 1, the Complete Eligibility and Access Guide](https://www.medicaldaily.com/medicare-glp1-bridge-program-july-1-2026-complete-eligibility-guide-475833) (June 27, 2026)
 - [Medicare GLP-1 Bridge Program Launches This Week: Who Qualifies and What to Know](https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge) (June 2026)
 
 ---

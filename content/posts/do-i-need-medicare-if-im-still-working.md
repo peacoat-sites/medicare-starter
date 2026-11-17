@@ -45,8 +45,6 @@ A common mistake is assuming employer coverage is enough and skipping Medicare e
 
 ## Part A: Almost Always Say Yes
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Part A covers hospital stays, skilled nursing facility care, and some home health. For most people, it's premium-free (you or your spouse paid Medicare taxes for at least 10 years). There's almost no reason to delay Part A.
 
 The one genuine exception: if you contribute to an HSA (Health Savings Account) through a high-deductible health plan, enrolling in any part of Medicare makes you ineligible to contribute to that HSA going forward. Not retroactively penalized, but you can't put new money in. If you're maxing out your HSA (currently $4,300 for individuals in 2026, $8,550 for families) as a tax strategy, that's worth factoring in.

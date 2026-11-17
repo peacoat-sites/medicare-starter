@@ -60,8 +60,6 @@ The genuinely good news is that federal and state programs exist specifically to
 
 ## The Medicare Savings Programs: The Ones You Need to Know About
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I want to slow down here. This section alone could put thousands of dollars back in your pocket or someone you care about.
 
 Medicare Savings Programs (MSPs) are run by individual states with federal funding. They pay some or all of your Medicare costs depending on which program you fall into. There are four of them, stacked by income level.

@@ -49,8 +49,6 @@ The practical lesson: sign up before your birthday month if you want coverage fr
 
 ## Medicare Part A vs. Part B: You Need to Know the Difference Before You Enroll
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 When people say "signing up for Medicare," they usually mean enrolling in Original Medicare, which has two parts.
 
 Part A covers hospital stays, skilled nursing facility care, hospice, and some home health care. Most people don't pay a premium for Part A if they or their spouse worked and paid Medicare taxes for at least 10 years (40 quarters). Because it's usually free, enrolling in Part A is almost always a yes.

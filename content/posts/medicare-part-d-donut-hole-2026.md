@@ -55,8 +55,6 @@ The $2,000 cap is a genuine change, not one with hidden limitations. It's the si
 | Coverage Gap | N/A | $2,000+ | Increased cost-sharing (brief) |
 | Catastrophic | N/A | $2,000+ out-of-pocket reached | You pay $0 |
 
-> **Helpful resource:** [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Even with the cap, Part D still runs in stages, and knowing them saves money. As of July 2026, here's how it breaks down:
 
 **The deductible phase.** Most Part D plans charge a deductible before any coverage kicks in. The maximum allowable deductible in 2026 is $590. Some plans charge less or waive it for certain drug tiers; a few charge nothing. You pay 100% of drug costs until you've met your deductible.

@@ -48,8 +48,6 @@ You're also eligible before 65 if you've received Social Security Disability Ins
 | SSDI for 24 months | Eligible before 65 | Automatic upon SSDI qualification | Separate eligibility path |
 | ALS or ESRD | Eligible immediately | Upon diagnosis | Immediate coverage available |
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Initial Enrollment Period, or IEP, is your first official chance to sign up for Medicare. It's a seven-month window that surrounds your 65th birthday:
 
 - The three months before the month you turn 65

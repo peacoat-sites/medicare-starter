@@ -58,8 +58,6 @@ Neither is universally better. But I'll say this honestly: for healthy 65-year-o
 
 ## The Major Players in Florida Right Now
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Florida's Medicare Advantage market is dominated by a handful of carriers, and they don't all perform the same way. Here's what I've actually seen from working with seniors in this state.
 
 **UnitedHealthcare (AARP MedicareComplete)** is the biggest name in Florida and one of the most widely available plans. Their HMO and PPO options cover most of the state. Star ratings have been solid, though they've dipped slightly in some counties in recent years. They're reliable. Not flashy. Their drug formularies (the list of covered medications) are where I'd tell you to pay the closest attention before enrolling.

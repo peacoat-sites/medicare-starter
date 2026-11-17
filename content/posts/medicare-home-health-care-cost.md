@@ -45,8 +45,6 @@ Also not covered: homemaker services, grocery shopping, meal delivery, 24-hour c
 
 ## The Real Numbers
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Current as of July 2026, here's what you're actually looking at when Medicare's coverage runs out or doesn't apply.
 
 Those numbers hurt. Home health aide care runs roughly $28 to $35 per hour through a licensed agency in most markets, though rates in cities like San Francisco or New York can push past $45. Hiring privately (without an agency) costs less but shifts all the tax, liability, and oversight burden onto the family.

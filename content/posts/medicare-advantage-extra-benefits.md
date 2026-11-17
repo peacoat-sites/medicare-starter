@@ -31,7 +31,7 @@ Here's the real story. [Medicare Advantage](/medicare-advantage-hmo-vs-ppo/) (MA
 
 The catch, and there's always one, is that "offered" doesn't mean "unlimited." Every benefit comes with conditions, dollar caps, [network restrictions](/medicare-advantage-network-restrictions/), and prior authorization requirements that the plan brochure buries in the fine print.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare Advantage plans can legally offer dental, vision, hearing, OTC, and transportation benefits that original Medicare does not cover.</li><li style="margin:5px 0">Benefit allowances vary wildly: OTC cards range from roughly $25 to $200+ per quarter depending on the plan.</li><li style="margin:5px 0">Most extra benefits require you to use specific networks or vendors ,  going out-of-network often means $0 coverage.</li><li style="margin:5px 0">Unused benefit dollars (OTC cards, allowances) typically expire quarterly or annually and cannot roll over.</li><li style="margin:5px 0">Your zip code determines which plans and benefits are available to you; two people in different counties can have completely different options.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare Advantage plans can legally offer dental, vision, hearing, OTC, and transportation benefits that original Medicare does not cover.</li><li style="margin:5px 0">Benefit allowances vary wildly: OTC cards range from roughly $25 to $200+ per quarter depending on the plan.</li><li style="margin:5px 0">Most extra benefits require you to use specific networks or vendors, going out-of-network often means $0 coverage.</li><li style="margin:5px 0">Unused benefit dollars (OTC cards, allowances) typically expire quarterly or annually and cannot roll over.</li><li style="margin:5px 0">Your zip code determines which plans and benefits are available to you; two people in different counties can have completely different options.</li></ul></div>
 
 ## What's Actually on the Menu
 
@@ -52,8 +52,6 @@ Let me walk through the main categories, because they're not all equal in value.
 **Meal delivery** after a hospital or skilled nursing facility discharge is offered by some plans and is genuinely valuable. Typically 14 to 28 meals following a qualifying stay. This is a transitional benefit, not an ongoing meal program.
 
 ## The Benefits Nobody Talks About
-
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Fitness benefits get a lot of attention because SilverSneakers is a recognized name. But the less-publicized extras are sometimes more valuable for specific situations.
 

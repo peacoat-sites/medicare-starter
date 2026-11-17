@@ -65,8 +65,6 @@ A few wrinkles complicate things:
 
 ## Why This Window Matters More Than People Realize
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I've talked to countless people who put it off. They felt fine. Didn't think they needed a supplement yet. Got busy. Then they got sick, tried to buy a Medigap policy, and got turned down or quoted a price they couldn't swallow.
 
 Original Medicare has real gaps. Part A has a deductible per benefit period (not per year) with no out-of-pocket cap. Part B covers 80% of approved charges; you pay the other 20%, forever, no annual limit. A serious diagnosis or surgery can generate $50,000 in that 20%.

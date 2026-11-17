@@ -39,8 +39,6 @@ Assuming. Every SEP has a specific triggering event. You don't get one because y
 
 ## The Employer Coverage SEP: The One That Matters Most
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you or your spouse has been covered by a group health plan through active employment past age 65, you qualify for a Special Enrollment Period. This is the big one. It's why your neighbor who retired at 70 didn't pay a late penalty even though he "missed" his 65th birthday window.
 
 Two specific conditions matter. Pay attention.

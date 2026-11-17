@@ -32,8 +32,6 @@ A House Energy and Commerce subcommittee took a hard look at long-term Medicare 
 
 ## Which Specialties Are Hit Hardest
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every specialty feels this equally. The proposed rule contains sharp differences by specialty, and if your doctor happens to be in one of the harder-hit fields, you may notice changes sooner.
 
 | Specialty | Proposed 2027 Change |
@@ -80,10 +78,10 @@ The payment fight between Congress, CMS, and the medical community has been grin
 ## Sources
 
 - [CMS Fact Sheet: Calendar Year (CY) 2027 Medicare Physician Fee Schedule Proposed Rule](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule) (July 14, 2026)
-- [CMS Proposes Medicare Physician Pay Cuts for 2027 ,  Healthcare Finance News](https://www.healthcarefinancenews.com/news/cms-proposes-medicare-physician-pay-cuts-2027) (July 2026)
-- [CY27 Physician Fee Schedule Proposed Rule ,  LeadingAge](https://leadingage.org/cy27-physician-fee-schedule-proposed-rule-includes-payment-cuts-and-major-medicare-policy-changes/) (July 16, 2026)
-- [CMS Issues CY 2027 Medicare Physician Fee Schedule Proposed Rule ,  Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/07/cms-issues-cy-2027-medicare-physician-fee-schedule-proposed-rule) (July 2026)
-- [2027 Medicare PFS: Key Changes and Payment Cuts ,  MDaudit](https://mdaudit.com/blog/2027-medicare-physician-fee-schedule-key-changes-payment-cuts-and-how-to-protect-your-revenue-now/) (July 2026)
+- [CMS Proposes Medicare Physician Pay Cuts for 2027, Healthcare Finance News](https://www.healthcarefinancenews.com/news/cms-proposes-medicare-physician-pay-cuts-2027) (July 2026)
+- [CY27 Physician Fee Schedule Proposed Rule, LeadingAge](https://leadingage.org/cy27-physician-fee-schedule-proposed-rule-includes-payment-cuts-and-major-medicare-policy-changes/) (July 16, 2026)
+- [CMS Issues CY 2027 Medicare Physician Fee Schedule Proposed Rule, Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/07/cms-issues-cy-2027-medicare-physician-fee-schedule-proposed-rule) (July 2026)
+- [2027 Medicare PFS: Key Changes and Payment Cuts, MDaudit](https://mdaudit.com/blog/2027-medicare-physician-fee-schedule-key-changes-payment-cuts-and-how-to-protect-your-revenue-now/) (July 2026)
 
 *Photo: [Lucas Guimarães Bueno](https://www.pexels.com/@lucas-guimaraes-bueno-258458556) via Pexels*
 

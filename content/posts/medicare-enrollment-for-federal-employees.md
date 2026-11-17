@@ -43,8 +43,6 @@ While you're still actively working for the federal government, you can delay Pa
 
 ## The Retirement Transition: Where People Get Hurt
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 When you retire from federal service and keep your FEHB coverage into retirement (which OPM allows if you've been enrolled for five consecutive years before retiring), you enter a Special Enrollment Period, or SEP, for Medicare Part B. You have eight months from your retirement date to enroll in Part B without a late penalty. Eight months. That clock starts whether you know about it or not.
 
 A common mistake is delaying Part B enrollment because FEHB coverage seems sufficient. Delaying enrollment can result in a permanent Part B premium surcharge (10% for each full 12-month period you were eligible but did not enroll). Additionally, without timely Part B enrollment, you miss out on coordination benefits where Medicare pays first and FEHB covers remaining costs, leaving you responsible for full out-of-pocket expenses on services Medicare would have largely covered.

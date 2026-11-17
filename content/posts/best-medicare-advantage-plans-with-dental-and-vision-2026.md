@@ -56,8 +56,6 @@ The Centers for Medicare & Medicaid Services publishes plan benefit information 
 
 ## The Plans Worth Paying Attention to in 2026
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'm wary of any article that hands you a tidy "top five" list of Medicare Advantage plans with dental and vision. Those rankings often reflect paid advertising or outdated data, not what's best for a specific person in a specific county. That said, certain carriers have a track record of offering stronger supplemental benefits, and it's worth knowing which ones to scrutinize closely.
 
 **Humana** has consistently offered some of the more competitive dental benefits among large national carriers. Their HMO and PPO options in many markets include comprehensive dental maximums that've kept pace with actual dental costs, and they've partnered with large dental networks that give members reasonable in-network access. Their vision benefit has improved too, with some 2026 plans including an eyewear allowance and a contact lens benefit in the same year.

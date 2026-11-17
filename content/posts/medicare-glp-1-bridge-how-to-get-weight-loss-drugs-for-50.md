@@ -28,8 +28,6 @@ The structural reason for this separation matters too. CMS operates the Bridge t
 
 ## Which Drugs Are Covered, and the Fine Print on Zepbound
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Three medications are on the covered list: all formulations of Wegovy (semaglutide), all formulations of Foundayo (a newer GLP-1 agent), and the KwikPen formulation of Zepbound (tirzepatide). That last one comes with an important asterisk. The single-dose vial and single-dose pen formulations of Zepbound are excluded. Only the KwikPen counts.
 
 This matters because Zepbound's single-dose vials have become popular as a lower-cost option in recent years. If your doctor's been prescribing you those, you'd need a formulation change to qualify under the Bridge. That's a conversation worth having before July 1, not after, because prior authorization requests can't be submitted until the program officially opens.

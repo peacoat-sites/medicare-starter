@@ -47,10 +47,6 @@ The bifurcation matters because your coverage strategy has to address both parts
 
 ## The Real Numbers: What You Might Actually Pay
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Let me put some concrete figures on this. These are based on current Medicare reimbursement data and cost structures as of August 2026.
 
 | Scenario | Medicare Coverage | Your Potential Cost |

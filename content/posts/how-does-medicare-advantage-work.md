@@ -39,8 +39,6 @@ For a full side-by-side comparison, check out the guide on [Medicare Advantage v
 
 ## The Main Plan Types You'll Encounter
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every Medicare Advantage plan works the same way. The most common is the [HMO, or Health Maintenance Organization](/medicare-advantage-hmo-vs-ppo/). With an HMO, you generally use doctors and hospitals in the plan's network, and you typically need a referral from your primary care doctor to see a specialist. Premiums tend to be lower, but those network restrictions matter. If your favorite specialist isn't in the network, you either pay out of pocket or find someone new.
 
 The second common type is the PPO, or Preferred Provider Organization. PPOs offer more flexibility. You can see out-of-network providers, though you'll usually pay more. You don't always need referrals. Many people prefer PPOs, especially if they live in rural areas or travel.

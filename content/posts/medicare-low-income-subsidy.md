@@ -44,8 +44,6 @@ Two levels of Extra Help exist right now. Full Extra Help is available automatic
 
 ## Who Qualifies
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where people get confused. The income and resource limits shift every year and depend on your situation.
 
 In 2026, full Extra Help covers people at around 135% of the federal poverty level. Partial Extra Help extends to about 150%. For a single person, that's roughly $20,000 to $22,000 annually. Married couples living together get higher limits. Don't rule yourself out based on something you heard from a neighbor. Run the actual numbers first.

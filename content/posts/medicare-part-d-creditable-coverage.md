@@ -43,8 +43,6 @@ Here's the one I see catch people: COBRA. Continuing your employer coverage via 
 
 ## The 63-Day Rule and Why It's So Unforgiving
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You get a 63-day grace period after losing creditable coverage before the late enrollment penalty kicks in. Not 64 days. Not "about two months." Sixty-three.
 
 Miss that window, and the penalty is 1% of the national base beneficiary premium (currently $36.78 as of 2026, per CMS) multiplied by the number of uncovered months. It compounds. Someone who goes 24 months without creditable coverage owes a permanent surcharge of roughly 24% added to their Part D premium, every month, for life.

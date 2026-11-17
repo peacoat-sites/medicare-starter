@@ -51,8 +51,6 @@ The fourth, **Qualified Disabled and Working Individuals (QDWI)**, is narrow. It
 | Qualifying Individual (QI) | Covers Part B premium | Slightly higher than SLMB | Premium assistance; funding subject to appropriations |
 | Qualified Disabled and Working Individuals (QDWI) | Covers Part A premium | Varies; under 65, disabled | Disabled individuals who lost Medicare due to work |
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What most people don't realize is that the income and asset limits for MSPs are more generous than they used to be, and several states have made them even more generous than the federal minimums. The federal government sets a floor; states can go higher, and many do.
 
 At the federal level, roughly speaking, QMB income limits in 2026 sit around $1,275 a month for an individual and around $1,720 for a couple. SLMB limits run a bit higher, and QI a bit higher still. But check your state's limits directly before you assume you don't qualify, because California, New York, and several other states have expanded eligibility significantly above those federal thresholds.

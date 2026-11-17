@@ -58,8 +58,6 @@ One thing that blindsides people: if you see a provider who doesn't accept Medic
 
 ## IRMAA: The Income-Based Surcharge Nobody Warned You About
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 IRMAA stands for Income-Related Monthly Adjustment Amount. It's extra premium you pay on top of the standard $185.00 if your income is high enough. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) calculates it every year based on your income from two years back. Your 2026 premium? That's based on your 2024 tax return.
 
 That two-year lag is what gets people. You retire in 2025, your income drops off a cliff, but you're still paying a 2026 surcharge calculated from your 2024 working income. There's actually a way to fix this, it's called a Life-Changing Event appeal, filed on SSA Form SSA-44, but you have to know to ask for it.

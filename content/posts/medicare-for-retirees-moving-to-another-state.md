@@ -45,8 +45,6 @@ One detail most people don't catch until it's too late: the SEP clock starts whe
 
 ## Medigap: The Rules Are More Complicated Than Anyone Tells You
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you have Original Medicare plus a Medigap (Medicare Supplement Insurance) policy, you're in a better position than an MA enrollee when you move. Your Medigap plan generally works with any doctor or hospital that accepts Medicare, nationwide. There's no network to worry about. This is one reason I genuinely believe Medigap is underrated for anyone who travels frequently or expects to relocate in retirement.
 
 But here's the catch that catches even savvy retirees: if you want to switch to a different Medigap plan after your move, say to find a lower premium in your new state, you may not have guaranteed-issue rights. That means the insurer can look at your health history and charge you more, or in some states, decline to cover you at all.

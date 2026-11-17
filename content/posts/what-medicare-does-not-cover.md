@@ -59,8 +59,6 @@ These are the coverage gaps that catch people most off guard, because they invol
 
 ## What Medicare's Skilled Nursing Benefit Actually Covers (and What It Doesn't)
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most people think Medicare covers nursing home stays broadly. It doesn't.
 
 Medicare Part A will help pay for care in a skilled nursing facility only if all three conditions are met: you had a qualifying hospital stay of at least three consecutive days (not counting the discharge day), you're admitted to the SNF within 30 days of that hospital stay, and you need skilled care like physical therapy, occupational therapy, or IV medication management.

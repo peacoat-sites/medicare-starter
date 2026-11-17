@@ -53,8 +53,6 @@ Then there's PFFS (Private Fee-for-Service), which gives you even more freedom t
 
 ## Why Your State, and Your ZIP Code, Matter So Much
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Two people comparing the same insurance carrier in different locations may find they're looking at completely different plans with different networks. That's by design. Medicare Advantage plans get approved and priced at the county level. A Blue Cross plan in Cook County, Illinois operates under different rules and serves different hospitals than one in Jefferson County, Alabama.
 
 In big, competitive urban markets, California, Florida, Texas, New York, you'll find the most plan options and the tightest pricing. According to [Medicare.gov](https://www.medicare.gov/), the average beneficiary had access to 43 Medicare Advantage plans in 2024. But swap that for a rural county? You might see fewer than 10. Some areas of South Florida hit over 80.

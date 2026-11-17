@@ -43,8 +43,6 @@ Where states have enormous power is in the Medicaid side of this equation. Feder
 
 ## The Alphabet Soup That Actually Matters
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be honest: the acronyms in this space are genuinely terrible. But a few of them will directly affect your wallet, so bear with me.
 
 **Medicare Savings Programs (MSPs)** are the ones most people miss entirely. These are Medicaid programs that help pay Medicare premiums, deductibles, and copays. There are four levels, and they're broken down by income:

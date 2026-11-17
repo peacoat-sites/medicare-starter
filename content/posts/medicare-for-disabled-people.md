@@ -44,8 +44,6 @@ People diagnosed with Amyotrophic Lateral Sclerosis (ALS, also called Lou Gehrig
 
 ## The 24-Month Wait and What To Do During It
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Two years is a long time to go without coverage. Here's what I tell people who are in that gap: your options depend heavily on your situation, but there are real paths.
 
 If you're still connected to an employer (or a spouse's employer), COBRA (Consolidated Omnibus Budget Reconciliation Act) continuation coverage can bridge part of the gap, though it's expensive. Marketplace plans through Healthcare.gov are another option, and if your income is low enough, you may qualify for a premium tax credit that makes them genuinely affordable. Medicaid is the other big one. Many states allow people receiving SSDI to qualify for Medicaid during the Medicare waiting period, and in some states the two programs overlap and coordinate once you get Medicare. Worth calling your state Medicaid office directly to ask.

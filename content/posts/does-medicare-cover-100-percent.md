@@ -56,8 +56,6 @@ The fundamental design was never comprehensive coverage. It was cost-sharing. Th
 
 ## The Costs That Catch People Off Guard
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 20 percent Part B coinsurance gets most of the focus, but other gaps matter too.
 
 **Prescription drugs.** Original Medicare doesn't cover most outpatient medications. That's where Part D comes in, a separate plan you buy from a private insurer. Skip enrollment, and you're paying full pharmacy price. It seems obvious once you know it, but plenty of newly enrolled seniors miss the window and get saddled with a lifetime penalty.

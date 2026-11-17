@@ -35,10 +35,6 @@ CMS expects to finalize the rule this fall, according to the agency's press rele
 | Cycle 3+ (2029 onward) | Up to 20 per year | Includes Part B drugs; permanent regulation | Proposed framework |
 | **Total negotiated (through Cycle 2)** | **25** | Covers Part D and Part B (2029+) | - |
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Before getting too abstract about regulatory frameworks, it helps to look at what the program has already produced.
 
 CMS has negotiated prices for 25 high-expenditure drugs across the program's first two cycles. The first 10 of those, the original batch selected under the Inflation Reduction Act, hit their negotiated maximum fair prices on January 1, 2026. The second cycle delivered a 44% average net savings across 15 drugs. The headline figure from that second round is the 71% list-price reduction for Ozempic and Wegovy (semaglutide), effective January 1, 2027. Those are two of the most prescribed and most expensive drugs in the country right now, so that reduction is not a rounding error.
@@ -74,9 +70,9 @@ CMS has built something real here over two years. Whether the proposed permanent
 ## Sources
 - [CMS Proposed Rule Locks in Lower Prices and Fosters Innovation for the Medicare Drug Price Negotiation Program](https://www.cms.gov/newsroom/press-releases/cms-proposed-rule-locks-lower-prices-fosters-innovation-medicare-drug-price-negotiation-program) (June 12, 2026)
 - [Federal Register: Medicare Drug Price Negotiation Program and Medicare Prescription Drug Benefit Program (CMS-4215-P)](https://www.federalregister.gov/documents/2026/06/16/2026-12059/medicare-drug-price-negotiation-program-and-medicare-prescription-drug-benefit-program) (June 16, 2026)
-- [CMS Issues First Proposed Rule for IRA Medicare Drug Price Negotiation , Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-first-proposed-rule-for-ira-medicare-drug-price-negotiation) (June 2026)
-- [CMS Proposes Permanent Framework for Medicare Drug Price Negotiation Program , Duane Morris LLP](https://www.duanemorris.com/alerts/cms_proposes_permanent_framework_medicare_drug_price_negotiation_program_0626.html) (June 2026)
-- [CMS proposes permanent framework for Medicare drug price negotiations , Fierce Healthcare](https://www.fiercehealthcare.com/regulatory/cms-proposes-permanent-framework-medicare-drug-price-negotiations) (June 2026)
+- [CMS Issues First Proposed Rule for IRA Medicare Drug Price Negotiation, Holland & Knight](https://www.hklaw.com/en/insights/publications/2026/06/cms-issues-first-proposed-rule-for-ira-medicare-drug-price-negotiation) (June 2026)
+- [CMS Proposes Permanent Framework for Medicare Drug Price Negotiation Program, Duane Morris LLP](https://www.duanemorris.com/alerts/cms_proposes_permanent_framework_medicare_drug_price_negotiation_program_0626.html) (June 2026)
+- [CMS proposes permanent framework for Medicare drug price negotiations, Fierce Healthcare](https://www.fiercehealthcare.com/regulatory/cms-proposes-permanent-framework-medicare-drug-price-negotiations) (June 2026)
 
 ---
 

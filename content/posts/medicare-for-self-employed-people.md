@@ -52,8 +52,6 @@ The exception worth knowing: if you're actively working and covered under a grou
 | Part C (Advantage) | Private bundled plan | Often $0 beyond Part B | Network restrictions; may have high specialist copays ($350+) |
 | Medigap (Plan G) | Supplement to Original Medicare | $100-$200/month typical range | Provides nationwide provider access; better for mobile/multi-state self-employed |
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Medicare has four moving parts, and self-employed people need to think about all of them.
 
 **Part A** (hospital insurance) is free for most people because you paid into Medicare through self-employment taxes during your working years. If you've paid into Social Security and Medicare for at least 10 years (40 quarters), you owe nothing for Part A. Enroll at 65 regardless.

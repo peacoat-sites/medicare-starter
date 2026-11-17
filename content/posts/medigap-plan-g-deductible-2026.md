@@ -43,8 +43,6 @@ If you want a full picture of how Medicare works before diving into supplements,
 
 ## The 2026 Part B Deductible: What You'll Pay Out of Pocket
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Medicare Part B deductible for 2026 is $257. That's what Plan G doesn't cover, and it's the only out-of-pocket cost you'll face once you've met it. Every calendar year, you pay that $257 before Medicare Part B starts covering its share of your outpatient costs. After you've hit it, Plan G covers your Part B coinsurance (usually 20%) for the rest of the year.
 
 Real example: that $300 doctor's visit. You pay $257 (the deductible) plus 20% of the remaining $43, which is about $8.60. Plan G covers that $8.60. After your first visit, assuming your deductible's met, you owe nothing for covered Part B services for the rest of the year.

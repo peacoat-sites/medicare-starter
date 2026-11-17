@@ -53,8 +53,6 @@ Medicare has four main pieces, and conflating them is where most confusion start
 
 ## Who Has to Sign Up at 65 (And Who Doesn't)
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the part most articles get wrong, or at least underexplain.
 
 If you're already receiving Social Security benefits when you turn 65, you're automatically enrolled in Parts A and B. Medicare cards arrive in the mail roughly three months before your 65th birthday. You don't have to do anything, though you can decline Part B if you don't want it yet (more on that below).

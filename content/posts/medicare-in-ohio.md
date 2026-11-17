@@ -43,8 +43,6 @@ Original Medicare, by contrast, works almost everywhere in the country. Any doct
 
 ## How the Parts Stack Up: A Cost Overview
 
-> **Helpful resource:** [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, here's a practical breakdown of what Medicare costs look like for most Ohioans. These are federal figures, but I'm including them together because I find it helps to see everything side by side rather than hunting across multiple pages on Medicare.gov.
 
 | Coverage | What It Covers | 2026 Standard Cost |

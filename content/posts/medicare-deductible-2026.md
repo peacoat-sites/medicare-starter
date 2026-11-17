@@ -54,8 +54,6 @@ Those are the three deductibles most people need to know. Write them down. The P
 
 ## The Part A Deductible Deserves a Much Closer Look
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Part A deductible often causes real financial pain for people who thought they had it figured out.
 
 Medicare's Part A deductible doesn't reset on January 1. It resets per "benefit period," which begins the day you're admitted to a hospital as an inpatient and ends after you've been out of the hospital (and not in a skilled nursing facility) for 60 consecutive days. If you get admitted again after that 60-day clock runs out, a brand new $1,676 deductible starts fresh.

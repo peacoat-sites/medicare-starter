@@ -46,8 +46,6 @@ This is why most New Yorkers need to choose something beyond Original Medicare: 
 | Plan G | No | Yes | $150-$300 | All new enrollees |
 | Plan N | No | No | $100-$200 | All new enrollees |
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what most people don't realize: in most states, if you miss your initial Medigap open enrollment window (the 6-month period starting when you're 65 and enrolled in Part B), insurers can charge you more or deny you coverage entirely based on your health history. New York doesn't allow that.
 
 New York is one of a tiny handful of states with guaranteed issue and community rating for Medigap plans year-round. Insurers in New York cannot turn you down for a Medigap policy because of pre-existing conditions, and they cannot charge you more because you're sick. They also can't charge you more simply because you're older, because of community rating. A 72-year-old and a 65-year-old pay the same rate for the same plan from the same insurer. That's remarkable, and it's the law here.

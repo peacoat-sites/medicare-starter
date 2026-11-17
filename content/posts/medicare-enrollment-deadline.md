@@ -52,8 +52,6 @@ One more thing. The IEP covers Part A (hospital insurance) and Part B. Part D, w
 
 ## If You're Still Working Past 65, Read This Carefully
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I see the most expensive mistakes.
 
 If you're covered by a group health plan through your own current employer (or your spouse's), you may qualify to delay Part B enrollment without any penalty. The keyword is "current." Retiree coverage doesn't count. COBRA doesn't count. Coverage from a former employer doesn't count, even if the premiums feel similar.

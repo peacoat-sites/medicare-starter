@@ -43,8 +43,6 @@ The one pair of eyeglasses or contacts benefit after surgery is real, but it onl
 
 ## What You'll Actually Pay: The Numbers Broken Down
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of August 2026, Medicare Part B has an annual deductible (check Medicare.gov for the current year's figure, since it adjusts annually). Once you've met that, Part B pays 80% of the Medicare-approved amount and you pay the remaining 20%. There's no cap on that 20% under Original Medicare alone, which is why a Medigap policy (also called Medicare Supplement insurance) can make a real difference.
 
 Here's a realistic cost comparison depending on your coverage situation:

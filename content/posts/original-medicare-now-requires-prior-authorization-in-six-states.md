@@ -41,8 +41,6 @@ I'll be honest: the lack of a plain-English, complete list of the exact 17 proce
 
 ## How the Review Process Actually Works
 
-> **Helpful resource:** [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where it gets genuinely interesting. CMS isn't using human reviewers alone to flag claims. According to analysis from Katten's QuickReads in November 2025, prior authorization contractors are using a combination of clinicians and AI-driven technology to review requests before care is delivered. The AI flags claims that look potentially wasteful or fraudulent, and then human clinicians make the final call.
 
 That's a pretty significant shift in how Medicare oversight works. For proponents, it's a smarter, faster way to catch fraud before money goes out the door rather than chasing it afterward. For critics, the concern is real: an AI flagging a legitimate medical need as suspicious, a review that takes days, and a patient who needed that procedure last week. TIME's reporting in May 2026 captures both sides of this debate without sugarcoating it, and I think that tension is worth sitting with.
@@ -69,11 +67,11 @@ The research on whether prior authorization programs actually improve care quali
 
 ## Sources
 
-- [Resource Medicare ,  Prior Approval Required for These 17 Services](https://www.resourcemedicare.com/post/new-medicare-changes-in-2026-prior-approval-required-for-these-17-services) (published November 4, 2025)
-- [TIME ,  Medicare's New Prior Approval Pilot: What You Need to Know](https://time.com/7313351/medicare-prior-authorization-pilot-states-concerns/) (published May 11, 2026)
-- [GoodRx ,  Does Medicare Require Prior Authorization?](https://www.goodrx.com/insurance/medicare/does-medicare-require-prior-authorization) (published September 26, 2025)
-- [Katten / QuickReads ,  Medicare Launches Prior Authorization Pilot for Six States](https://quickreads.ext.katten.com/post/102luvu/medicare-launches-prior-authorization-pilot-for-select-services-in-six-states-wh) (published November 18, 2025)
-- [ElderLawAnswers ,  6 States to Pilot Prior Authorizations for Original Medicare](https://www.elderlawanswers.com/6-states-to-pilot-prior-authorizations-for-original-medicare-21225) (published September 11, 2025)
+- [Resource Medicare, Prior Approval Required for These 17 Services](https://www.resourcemedicare.com/post/new-medicare-changes-in-2026-prior-approval-required-for-these-17-services) (published November 4, 2025)
+- [TIME, Medicare's New Prior Approval Pilot: What You Need to Know](https://time.com/7313351/medicare-prior-authorization-pilot-states-concerns/) (published May 11, 2026)
+- [GoodRx, Does Medicare Require Prior Authorization?](https://www.goodrx.com/insurance/medicare/does-medicare-require-prior-authorization) (published September 26, 2025)
+- [Katten / QuickReads, Medicare Launches Prior Authorization Pilot for Six States](https://quickreads.ext.katten.com/post/102luvu/medicare-launches-prior-authorization-pilot-for-select-services-in-six-states-wh) (published November 18, 2025)
+- [ElderLawAnswers, 6 States to Pilot Prior Authorizations for Original Medicare](https://www.elderlawanswers.com/6-states-to-pilot-prior-authorizations-for-original-medicare-21225) (published September 11, 2025)
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

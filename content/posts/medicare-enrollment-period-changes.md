@@ -50,8 +50,6 @@ The 5-star SEP is the one almost nobody knows about, which is a shame because it
 
 ## What Actually Changed (and Why It Matters)
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The most meaningful recent change affects people who miss their IEP and end up in the General Enrollment Period. Prior to 2023, if you enrolled during the GEP (January through March), your coverage didn't start until July 1. That's a gap that could mean months without insurance. Congress addressed this in the Consolidated Appropriations Act, and while the GEP still runs Jan 1 through Mar 31, a few improvements now apply.
 
 Critically, people who enroll in the GEP can now also sign up for a Part D drug plan or [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) during the same window, which wasn't possible before. That's a real fix. Previously, you had to wait for the AEP in the fall, leaving you without drug coverage for potentially six months after your Part B kicked in. Nobody was talking about this loudly enough when it passed.

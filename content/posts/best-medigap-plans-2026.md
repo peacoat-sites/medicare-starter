@@ -45,8 +45,6 @@ What Medigap does NOT cover: prescription drugs (that's Part D), dental, vision,
 | Plan K | 50% covered | 50% covered | Not specified | Not specified | Not covered | Low |
 | Plan L | 75% covered | 75% covered | Not specified | Not specified | Not covered | Low-Medium |
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every plan fits every person.
 
 **Plan G: The Gold Standard for New Enrollees**

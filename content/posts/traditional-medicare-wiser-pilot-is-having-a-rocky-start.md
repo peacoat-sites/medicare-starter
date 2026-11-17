@@ -38,10 +38,6 @@ If you or someone you love is being treated for chronic back pain, Parkinson's, 
 
 ## The AI Problem Nobody Told You About
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Prior authorization itself isn't new to Medicare. Medicare Advantage plans have used it for years, and beneficiaries in those plans have long complained about delays and denials. What's different with WISeR is that traditional Medicare, which never had broad prior authorization requirements, is now using AI-assisted review for these decisions in pilot states.
 
 The concern among physicians and patient advocates isn't just that authorization is required. It's that the AI is making initial decisions about medical necessity without seeing the full clinical picture. When a doctor disagrees with an AI denial, they can request what's called a peer-to-peer review, meaning they get to talk directly to a human reviewer. But reports from June and July 2026 describe those waits as long and frustrating, and Healthcare Dive's August 2026 coverage notes that provider concerns are mounting across the pilot states. Doctors are spending time on hold and paperwork instead of patients.
@@ -77,7 +73,7 @@ The WISeR pilot was designed to reduce unnecessary spending, and that's a goal w
 - [Medicare prior authorization pilot raises concerns among providers](https://www.healthcaredive.com/news/medicare-prior-authorization-pilot-worries-providers-cmmi-wiser/760133/) (August 2026)
 - [WISeR and Medicare Advantage Prior Authorization: What's Changing in 2026](https://www.adsc.com/blog/wiser-and-medicare-advantage-prior-authorization) (October 2025)
 - [Does Medicare Require Prior Authorization?](https://www.goodrx.com/insurance/medicare/does-medicare-require-prior-authorization) (Updated July 29, 2026)
-- [Medicare's New Prior Approval Pilot ,  What You Need to Know](https://time.com/7313351/medicare-prior-authorization-pilot-states-concerns/) (2026)
+- [Medicare's New Prior Approval Pilot, What You Need to Know](https://time.com/7313351/medicare-prior-authorization-pilot-states-concerns/) (2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

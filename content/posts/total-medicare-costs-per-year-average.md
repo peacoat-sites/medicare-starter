@@ -58,8 +58,6 @@ That's the good scenario: no major illness, no hospitalizations, Medigap G cover
 
 ## The IRMAA Problem Nobody Warns You About
 
-> **Helpful resource:** [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 IRMAA stands for Income-Related Monthly Adjustment Amount. It's a [Medicare surcharge](/irmaa-medicare-surcharge-2026/) levied on higher-income beneficiaries, and it catches a surprising number of retirees off guard because it's based on your income from two years prior.
 
 For example, someone might sell a rental property in one year, causing their income to spike temporarily. Two years later, Medicare bills them based on that single high-income year, even if they haven't touched that income since. IRMAA doesn't care.

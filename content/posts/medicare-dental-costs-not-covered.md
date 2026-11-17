@@ -54,8 +54,6 @@ Medicare's dental coverage structure has remained largely unchanged since its cr
 
 ## Medicare Advantage: The Real Story
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where it gets interesting, and also more complicated.
 
 [Medicare Advantage plans (Part C)](/medicare-advantage-vs-medicare-supplement-total-cost/) are run by private insurers and approved by Medicare. Many include at least some dental coverage. It's actually one of the biggest reasons people pick Advantage over Original Medicare. Most Medicare Advantage enrollees now have access to some dental benefits, according to CMS.

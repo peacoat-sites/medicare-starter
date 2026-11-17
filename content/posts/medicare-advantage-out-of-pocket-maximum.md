@@ -51,8 +51,6 @@ To understand how Medicare Advantage fits into the bigger picture, [how Medicare
 
 ## How the MOOP Compares to Original Medicare
 
-> **Helpful resource:** [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This one catches people off guard. Original Medicare (Part A and Part B) has no out-of-pocket maximum. Period. If you had a catastrophic health year on Original Medicare alone, your costs could theoretically be infinite. That's why most Original Medicare enrollees buy a Medigap policy (Medicare Supplement Insurance) to plug the holes.
 
 Medicare Advantage works differently. Instead of layering on a supplement, the Advantage plan itself bakes in the MOOP as built-in protection. For someone expecting significant medical expenses in a given year, that cap can be genuinely lifesaving financially.

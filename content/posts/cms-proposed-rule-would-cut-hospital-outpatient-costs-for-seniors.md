@@ -24,10 +24,6 @@ On the surface, the rule offers a modest 2.4% net payment rate increase for hosp
 
 ## The 340B Drug Cut Is the One to Watch
 
-> **Helpful resource:** [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where the dollar amounts get large fast. The 340B Drug Pricing Program allows certain hospitals serving low-income and rural communities to buy outpatient drugs at a discount. Right now, Medicare reimburses those hospitals at ASP+6%, meaning the average sales price of a drug plus 6%. CMS is proposing to drop that to ASP minus 33.4%.
 
 That's a reduction of nearly 40 percentage points in reimbursement for covered drugs.

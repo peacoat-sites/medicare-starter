@@ -28,10 +28,6 @@ The procedures targeted are ones CMS believes carry higher risk for waste, fraud
 
 ## Which Procedures Are Being Reviewed
 
-> **Helpful resource:** [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's a closer look at the types of services now subject to AI-assisted prior authorization under WISeR. The full list has 13 items, but these represent the categories most likely to affect everyday beneficiaries.
 
 | Procedure Category | Why CMS Flagged It |
@@ -79,8 +75,8 @@ Whatever happens with WISeR over the next five and a half years, the experiment 
 - [AARP: AI Prior Authorization Pilot Hits Original Medicare](https://www.aarp.org/medicare/original-medicare-ai-prior-authorization-pilot/) (February 19, 2026)
 - [Kiplinger: Prior Authorization for Traditional Medicare Has Started in 6 States](https://www.kiplinger.com/retirement/medicare/prior-authorization-coming-to-traditional-medicare) (January 29, 2026)
 - [GoodRx: Does Medicare Require Prior Authorization?](https://www.goodrx.com/insurance/medicare/does-medicare-require-prior-authorization) (Updated June 26, 2026)
-- [Newsweek: New Medicare Program ,  Full List of Services That Will Need Prior Approval](https://www.newsweek.com/new-medicare-program-full-list-services-prior-approval-11272518) (December 26, 2025)
-- [Time: Medicare's New Prior Approval Pilot ,  What You Need to Know](https://time.com/7313351/medicare-prior-authorization-pilot-states-concerns/) (August 29, 2025)
+- [Newsweek: New Medicare Program, Full List of Services That Will Need Prior Approval](https://www.newsweek.com/new-medicare-program-full-list-services-prior-approval-11272518) (December 26, 2025)
+- [Time: Medicare's New Prior Approval Pilot, What You Need to Know](https://time.com/7313351/medicare-prior-authorization-pilot-states-concerns/) (August 29, 2025)
 
 ---
 

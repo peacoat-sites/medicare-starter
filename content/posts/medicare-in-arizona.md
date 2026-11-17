@@ -43,8 +43,6 @@ Here's something I always warn people about: Arizona's large independent hospita
 
 ## Original Medicare vs. Medicare Advantage in Arizona
 
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me lay out the basic comparison honestly, because I find that most articles either oversell Advantage or treat it like a scam. Neither is accurate.
 
 | Feature | Original Medicare (Parts A + B) | Medicare Advantage (Part C) |

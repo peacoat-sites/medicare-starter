@@ -65,8 +65,6 @@ That's really it. The question becomes whether those three differences matter fo
 
 ## The Price Gap (And Why It Varies So Much)
 
-> **Helpful resource:** [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The premium difference between Plan G and Plan N isn't fixed. It depends on your age, where you live, which insurance company you pick, and whether you're going through open enrollment or medical underwriting.
 
 In many markets, Plan N costs $30 to $80 a month less than Plan G for a 65-year-old. I've seen gaps as narrow as $20 in some regions and over $100 in others. Take Florida versus Ohio: a 65-year-old woman in Miami might pay $195 monthly for Plan G and $145 for Plan N. That same woman in Columbus could see $140 for Plan G and $105 for Plan N. Geography matters.

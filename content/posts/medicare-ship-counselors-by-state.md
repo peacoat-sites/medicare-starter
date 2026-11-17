@@ -30,7 +30,7 @@ Free, unbiased help with Medicare exists in every single state, and most people 
 Every state, plus Washington D.C., Puerto Rico, Guam, and the U.S. Virgin Islands, has its own SHIP office funded through a federal grant administered by the Administration for Community Living. The names vary by state, which trips people up. In California it's called HICAP (Health Insurance Counseling and Advocacy Program). In New York it's HIICAP. In Florida it's SHINE (Serving Health Insurance Needs of Elders). Same federal program, different local branding. When you search your state, look for both "SHIP" and your state's local name.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SHIP counseling is free in all 50 states, D.C., and U.S. territories ,  no sales pitch, ever.</li><li style="margin:5px 0">Each state has its own SHIP office, often under a different local name (HICAP, SHINE, HIICAP, etc.).</li><li style="margin:5px 0">Find your state's SHIP number at shiphelp.org or by calling 1-800-MEDICARE (1-800-633-4227).</li><li style="margin:5px 0">Counselors can help with plan comparisons, billing disputes, appeals, and Extra Help enrollment.</li><li style="margin:5px 0">SHIP is best used before big enrollment deadlines: Initial Enrollment, Open Enrollment (Oct 15–Dec 7), and Special Enrollment Periods.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SHIP counseling is free in all 50 states, D.C., and U.S. territories, no sales pitch, ever.</li><li style="margin:5px 0">Each state has its own SHIP office, often under a different local name (HICAP, SHINE, HIICAP, etc.).</li><li style="margin:5px 0">Find your state's SHIP number at shiphelp.org or by calling 1-800-MEDICARE (1-800-633-4227).</li><li style="margin:5px 0">Counselors can help with plan comparisons, billing disputes, appeals, and Extra Help enrollment.</li><li style="margin:5px 0">SHIP is best used before big enrollment deadlines: Initial Enrollment, Open Enrollment (Oct 15–Dec 7), and Special Enrollment Periods.</li></ul></div>
 
 
 ## What SHIP Counselors Actually Do
@@ -42,10 +42,6 @@ Where SHIP counselors really shine, and where you won't get this from an insuran
 They are not licensed agents. They won't enroll you in a plan on the spot, and they won't push any particular insurer. Some people find this limiting. But if you want an objective second opinion before you sign up for anything, there is no better resource.
 
 ## How to Find Your State's SHIP Office
-
-> **Helpful resource:** [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The fastest route is **shiphelp.org**, which is the official national SHIP website. Click "Find Local Help," enter your [zip code](/medicare-plan-finder-by-zip-code/), and you'll get the direct phone number and address for your local SHIP office. You can also reach SHIP through:
 
@@ -64,8 +60,8 @@ Here's a quick reference for states that use a different local name so you're no
 | California | HICAP (Health Insurance Counseling and Advocacy Program) |
 | New York | HIICAP (Health Insurance Information, Counseling and Assistance Program) |
 | Florida | SHINE (Serving Health Insurance Needs of Elders) |
-| Illinois | CU2 / Illinois SHIP |
-| Texas | SHIP (uses the national name) |
+| Illinois | SHIP (Senior Health Insurance Program) |
+| Texas | HICAP (Health Information, Counseling and Advocacy Program) |
 | Pennsylvania | APPRISE |
 | Ohio | OSHIIP (Ohio Senior Health Insurance Information Program) |
 | Michigan | MMAP (Michigan Medicare/Medicaid Assistance Program) |
@@ -75,7 +71,7 @@ Here's a quick reference for states that use a different local name so you're no
 | Arizona | SHIP / Arizona State SHIP |
 | North Carolina | SHIIP (Seniors' Health Insurance Information Program) |
 | Virginia | VICAP (Virginia Insurance Counseling and Assistance Program) |
-| Georgia | AGID / Georgia SHIP |
+| Georgia | GeorgiaCares |
 
 This isn't exhaustive, but it covers the states where Google searches most often return confusing results. When in doubt, go directly to shiphelp.org.
 
@@ -89,9 +85,9 @@ Timing matters. The moments where SHIP counseling gives you the most value are:
 
 **After a major health or life change.** A new diagnosis, a move to a different state, or a change in employer coverage can all trigger a Special Enrollment Period (SEP). These are time-sensitive, with windows that often close after just 60 days, and they come with specific rules about what documentation you need. A SHIP counselor can tell you exactly which SEP applies to you and what paperwork to gather.
 
-**After a denied claim.** Don't wait on this one. Medicare appeal deadlines are strict. A denied Medicare Advantage claim, for example, typically must be appealed within 60 days of the denial notice. SHIP counselors can help you draft an appeal letter and understand what standard of review applies.
+**After a denied claim.** Don't wait on this one. Medicare appeal deadlines are strict. A denied Medicare Advantage claim, for example, typically must be appealed within 65 days of the denial notice. SHIP counselors can help you draft an appeal letter and understand what standard of review applies.
 
-**Example:** For example, someone who turns 65 in March 2027 has an IEP that opens December 1, 2026 and runs through June 30, 2027 (three months before the birthday month, the birthday month itself, and three months after). If they call SHIP in November 2026, a counselor can explain whether their current employer coverage qualifies them to delay Part B without penalty, what their Part D options are, and how to compare a Medigap Plan G against a Medicare Advantage plan given their current prescriptions and doctors. Getting this advice in November leaves plenty of time to make an informed decision before the IEP window closes.
+**Example:** Someone who turns 65 in March 2027 has an IEP that opens December 1, 2026 and runs through June 30, 2027 (three months before the birthday month, the birthday month itself, and three months after). If they call SHIP in November 2026, a counselor can explain whether their current employer coverage qualifies them to delay Part B without penalty, what their Part D options are, and how to compare a Medigap Plan G against a Medicare Advantage plan given their current prescriptions and doctors. Getting this advice in November leaves plenty of time to make an informed decision before the IEP window closes.
 
 ## A Note on SHIP Funding and Capacity
 

@@ -49,8 +49,6 @@ HMOs are the most restrictive and the most common. According to the Kaiser Famil
 
 ## The Part That Catches People Off Guard
 
-> **Helpful resource:** [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 A common mistake is assuming that a doctor who "accepts Medicare" will be covered by your specific MA plan. This misunderstanding is responsible for many unexpected medical bills.
 
 A doctor can accept Medicare (meaning they take traditional Medicare patients) but not be contracted with your specific MA plan. These are completely separate agreements. For example, you might have a longtime doctor who is Medicare-certified but not in your plan's network, leaving you responsible for the full cost of the visit.
