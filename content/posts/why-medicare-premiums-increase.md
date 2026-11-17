@@ -1,6 +1,7 @@
 ---
 title: "Why Medicare Premiums Increase Every Year"
 date: 2026-08-10T15:11:05.878933+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understanding the factors behind rising Medicare costs, from healthcare inflation to policy changes. Learn what drives your premium increases."
 image: "/img/heroes/8123820.jpg"

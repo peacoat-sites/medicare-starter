@@ -1,6 +1,7 @@
 ---
 title: "Original Medicare Now Requires Prior Authorization in Six States"
 date: 2026-07-21T15:50:34.307907+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Original Medicare expands prior authorization requirements in six states. Learn which states are affected and how this impacts your healthcare coverage and clai"
 image: "/img/heroes/8441787.jpg"

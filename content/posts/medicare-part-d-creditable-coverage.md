@@ -1,6 +1,7 @@
 ---
 title: "63-Day Rule: How Medicare Part D Creditable Coverage Works"
 date: 2026-07-12T15:11:14.895347+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Missing your 63-day creditable coverage window can trigger a $36.78 monthly penalty. Learn how to protect your Part D enrollment in 2026."
 image: "/img/heroes/8441861.jpg"

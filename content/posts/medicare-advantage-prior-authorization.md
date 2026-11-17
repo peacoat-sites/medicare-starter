@@ -1,6 +1,7 @@
 ---
 title: "75% of Medicare Advantage Claims Need Prior Auth"
 date: 2026-08-15T14:33:26.344973+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how prior authorization affects Medicare Advantage coverage, approval rates, and what patients need to know about claim delays."
 image: "/img/heroes/6129658.jpg"

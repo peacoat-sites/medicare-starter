@@ -1,6 +1,7 @@
 ---
 title: "Medicare Cataract Surgery Coverage: What You'll Pay"
 date: 2026-08-03T16:35:12.215321+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what Medicare covers for cataract surgery, including costs, copays, and out-of-pocket expenses you may face."
 image: "/img/heroes/12104186.jpg"

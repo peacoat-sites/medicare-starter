@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Your Medicare card shows up in the mail on your 65th birthday, and you're holding it thinking: "Okay, but what exactly does this cover?" I hear this question constantly. People paid into Medicare their whole working lives and still don't know what they're actually entitled to. The honest answer is that Medicare covers quite a lot, but it also has gaps that catch people off guard. Here's what you need to know.
 

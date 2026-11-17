@@ -12,7 +12,7 @@ author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "your-medicare-advantage-doctor-may-have-just-gone-out-of-network"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people signing up for Medicare Advantage assumed the hardest part was picking a plan. What they didn't realize is that the plan they picked might not keep their doctors.

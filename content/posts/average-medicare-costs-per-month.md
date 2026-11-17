@@ -23,7 +23,7 @@ faqs:
    a: "No. Medigap policies only work with Original Medicare (Parts A and B). If you're enrolled in a Medicare Advantage plan, you can't use a Medigap policy, and insurance companies can't legally sell you one that applies to Advantage coverage."
  - q: "When does my Medicare enrollment period open?"
    a: "Your Initial Enrollment Period is a 7-month window: it starts 3 months before the month you turn 65, includes your birthday month, and ends 3 months after. Enrolling late without a valid Special Enrollment Period can trigger permanent premium penalties for Part B and Part D."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people walk into Medicare assuming it's free. That assumption often costs retirees hundreds of dollars a month in surprise premiums, cost-sharing, and uncovered services. Understanding how Medicare actually works can help you avoid this.

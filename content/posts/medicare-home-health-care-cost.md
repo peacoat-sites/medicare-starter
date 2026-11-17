@@ -1,6 +1,7 @@
 ---
 title: "Medicare Home Health Care Costs: What You'll Actually Pay"
 date: 2026-07-14T15:41:16.771103+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand Medicare home health care coverage, out-of-pocket costs, and eligibility requirements. Get answers to common questions about home care expenses."
 image: "/img/heroes/8949828.jpg"

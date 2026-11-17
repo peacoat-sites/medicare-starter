@@ -1,6 +1,7 @@
 ---
 title: "Medigap Coverage Denial: When Insurers Can Say No"
 date: 2026-07-13T16:42:02.439973+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when Medigap insurers can deny coverage, what protections exist, and your rights if rejected for supplemental insurance."
 image: "/img/heroes/8439662.jpg"

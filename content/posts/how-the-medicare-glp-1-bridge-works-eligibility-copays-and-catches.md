@@ -1,6 +1,7 @@
 ---
 title: "How the Medicare GLP-1 Bridge Works: Eligibility, Copays and Catches"
 date: 2026-07-17T15:26:02.540444+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Medicare GLP-1 Bridge program helps eligible beneficiaries access weight loss medications. Learn about eligibility requirements, copay costs, and important limi"
 image: "/img/heroes/13466255.jpg"

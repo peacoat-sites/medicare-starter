@@ -1,6 +1,7 @@
 ---
 title: "Medicare in Ohio: Coverage Options and Enrollment Guide"
 date: 2026-07-18T15:09:18.506644+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about Medicare coverage in Ohio, including enrollment periods, plan options, and resources for beneficiaries seeking healthcare coverage."
 image: "/img/heroes/7969726.jpg"

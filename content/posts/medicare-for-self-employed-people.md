@@ -23,7 +23,7 @@ faqs:
     a: "Yes, same logic as Part B. The penalty is 1% of the 'national base beneficiary premium' (currently around $34.70/month in 2026) for every month you were without creditable drug coverage. It's smaller than the Part B penalty but still permanent. Enroll in Part D when you first become eligible."
   - q: "Can I deduct my Medicare premiums as a self-employed person?"
     a: "Generally yes. The self-employed health insurance deduction allows you to deduct Medicare Part B premiums, Part D premiums, and Medigap premiums from your federal income taxes, as long as you weren't eligible to be covered under an employer-sponsored plan. Confirm your specific situation with a tax professional, since the rules have nuances."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most self-employed people I've talked with over the years assume Medicare is simple: you turn 65, you sign up, done. The part they consistently miss is that without an employer handling enrollment, the entire thing lands on you, and the penalties for getting it wrong can follow you for life.

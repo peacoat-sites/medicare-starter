@@ -23,7 +23,7 @@ faqs:
     a: "Yes. If you haven't worked enough quarters yourself (40 quarters, or roughly 10 years of Medicare-taxed work), you can qualify for premium-free Part A based on your current or former spouse's work record, as long as you're at least 65 and they've met the 40-quarter requirement."
   - q: "If I delay Social Security until 70, do I also delay Medicare?"
     a: "No. These are separate decisions. You should still enroll in Medicare at 65 (or during your Special Enrollment Period if you have qualifying employer coverage). Delaying Social Security is often a smart financial move. Delaying Medicare without qualifying coverage is almost never a smart move, and comes with permanent penalties."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Many people assume Medicare and Social Security are basically the same program. They're not, and mixing them up can cost you real money and, in some cases, permanently reduce your monthly income.

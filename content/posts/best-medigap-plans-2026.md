@@ -23,7 +23,7 @@ author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just turned 65, enrolled in Original Medicare, and your first Explanation of Benefits shows a 20% coinsurance charge plus a $1,676 hospital deductible for 2025. One serious illness or two surgeries in a year and you're looking at thousands in out-of-pocket costs. That gap is exactly why Medigap exists. Pick the right plan in 2026 and you could save thousands, or sleep better at night knowing you're covered.
 

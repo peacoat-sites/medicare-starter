@@ -1,6 +1,7 @@
 ---
 title: "Medicare Plan Review Checklist: 7 Key Steps"
 date: 2026-07-15T16:40:33.037347+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Use this Medicare plan review checklist to compare coverage options, costs, and benefits during open enrollment season."
 image: "/img/heroes/8123888.jpg"

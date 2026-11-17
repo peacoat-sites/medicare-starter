@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You'd think that living in one of the wealthiest, most populous states in the country would make Medicare simpler. More options, more competition, better coverage. And honestly, for many Californians, that's exactly true. California's sheer size and diversity can actually make Medicare more confusing, not less. Your ZIP code matters enormously. A Medicare Advantage plan that's highly rated in Los Angeles County might not even be available in Shasta County. A doctor who's in-network in San Diego could be out-of-network if you spend winters in Palm Springs. Many California seniors are surprised by the number of Medicare decisions involved, especially if they're comparing their experience to friends in smaller states.
 

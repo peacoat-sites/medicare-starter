@@ -1,6 +1,7 @@
 ---
 title: "Missed Medicare Enrollment? Here Are Your Real Options"
 date: 2026-07-09T16:37:42.174979+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Missing your Medicare enrollment window can trigger penalties and coverage gaps. Learn exactly what happens next and how to get covered as soon as possible."
 image: "/img/heroes/7734569.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Medicare Durable Medical Equipment: What Gets Covered"
 date: 2026-07-11T15:10:30.781545+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which durable medical equipment Medicare covers, how to qualify, what you pay, and how to find Medicare-approved suppliers near you."
 image: "/img/heroes/6010887.jpg"

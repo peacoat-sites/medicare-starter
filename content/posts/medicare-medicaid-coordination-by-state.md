@@ -1,6 +1,7 @@
 ---
 title: "Medicare Medicaid Coordination by State: Key Coverage Differences"
 date: 2026-07-17T15:23:54.697784+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how Medicare and Medicaid coordination varies by state, including eligibility rules, coverage gaps, and enrollment requirements for dual-eligible benefici"
 image: "/img/heroes/7821684.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Medicare Appeals: How to Challenge a Denied Claim"
 date: 2026-08-07T15:04:47.408626+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the Medicare appeals process step-by-step, from initial review to hearings. Know your rights and deadlines for fighting claim denials."
 image: "/img/heroes/7088483.jpg"

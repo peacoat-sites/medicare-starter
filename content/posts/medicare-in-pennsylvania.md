@@ -1,6 +1,7 @@
 ---
 title: "Medicare in Pennsylvania: Your Complete Coverage Guide"
 date: 2026-07-24T15:39:29.426176+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to navigate Medicare in Pennsylvania, including enrollment options, coverage details, and resources to help you make the right healthcare decisions."
 image: "/img/heroes/4173244.jpg"

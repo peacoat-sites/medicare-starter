@@ -23,7 +23,7 @@ faqs:
    a: "Most Medigap plans cover the Part A deductible. For the Part B deductible, only Plans C and F cover it, and both of those are unavailable to people who became eligible for Medicare after January 1, 2020. No Medigap plan covers Part D costs. Always confirm what a specific plan covers before enrolling."
  - q: "Is the Part D deductible always $590 in 2026?"
    a: "$590 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people assume the Medicare deductible is one single number you hit at the start of the year and then you're done. In fact, it's messier and more expensive in some spots than expected, and genuinely confusing in ways that catch even careful planners off guard.

@@ -23,7 +23,7 @@ faqs:
     a: "Technically yes, but it's complicated. Federal law doesn't require insurers to sell Medigap policies to people under 65, though some states do require it. If your state doesn't mandate it, insurers can charge higher premiums or deny you. Check your state insurance commissioner's website for the rules where you live, because this varies significantly."
   - q: "How do I apply for the Extra Help program to lower my drug costs?"
     a: "You can apply online at ssa.gov, call the SSA at 1-800-772-1213, or visit your local Social Security office. If you're already enrolled in Medicaid or a Medicare Savings Program, you may be automatically enrolled in Extra Help without needing a separate application. It's worth checking either way."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Many people think they missed something about Medicare for disabled people, as though there were a memo explaining how it all works that somehow didn't reach them. There wasn't. The rules around qualifying for Medicare before age 65 are genuinely confusing, and it's common for smart, capable people to feel blindsided by what they didn't know.

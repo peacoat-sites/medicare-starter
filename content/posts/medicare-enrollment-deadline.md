@@ -23,7 +23,7 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Every year, someone calls me in a panic in late November, convinced they've already missed their chance to sign up for Medicare. Sometimes they're right. More often, they're wrong about which deadline actually applies to them, and the difference costs them either a lifetime penalty or months of uncovered medical bills while they wait for the next window.
 

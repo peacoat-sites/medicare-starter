@@ -1,6 +1,7 @@
 ---
 title: "Medicare for Retirees Moving States: What Changes"
 date: 2026-08-04T16:20:28.400780+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how your Medicare coverage changes when you relocate to another state, including plan options and enrollment deadlines for retirees."
 image: "/img/heroes/4554240.jpg"

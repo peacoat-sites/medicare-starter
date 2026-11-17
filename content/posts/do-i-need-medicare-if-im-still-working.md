@@ -1,6 +1,7 @@
 ---
 title: "Working Past 65? When Medicare Is Actually Required"
 date: 2026-07-08T16:10:15.520240+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Find out if you can skip Medicare while still working, how employer coverage interacts with it, and when enrolling could save you money."
 image: "/img/heroes/3931597.jpg"

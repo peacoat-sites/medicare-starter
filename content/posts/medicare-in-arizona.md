@@ -1,6 +1,7 @@
 ---
 title: "Medicare in Arizona: Coverage Options and Enrollment"
 date: 2026-08-13T15:08:42.174532+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn about Medicare coverage options available to Arizona residents, including eligibility requirements, enrollment periods, and local resources for beneficiar"
 image: "/img/heroes/8376222.jpg"

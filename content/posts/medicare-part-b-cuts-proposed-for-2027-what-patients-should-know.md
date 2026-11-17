@@ -1,6 +1,7 @@
 ---
 title: "Medicare Part B Cuts Proposed for 2027: What Patients Should Know"
 date: 2026-08-08T14:42:36.052666+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Medicare Part B payment cuts proposed for 2027 could affect your healthcare costs. Learn what these changes mean for your benefits and coverage options."
 image: "/img/heroes/12599544.jpg"

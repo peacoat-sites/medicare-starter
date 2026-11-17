@@ -23,7 +23,7 @@ faqs:
    a: "Most do include some dental coverage, but it varies widely in what it actually covers. Basic plans may only cover exams and cleanings. Richer plans cover fillings, extractions, and sometimes dentures or implants up to an annual maximum, often $1,000-$2,500. Always confirm the specifics before assuming the coverage meets your needs."
  - q: "What is SHINE and how do I get free Medicare help in Florida?"
    a: "SHINE stands for Serving Health Insurance Needs of Elders, and it's Florida's free Medicare counseling program run through the state's Department of Elder Affairs. Counselors are trained, unbiased volunteers who don't sell anything. You can reach them at 1-800-963-5337 or find a local counselor through shiphelp.org. I genuinely recommend them."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Florida seniors have more [Medicare Advantage plan](/medicare-plan-finder-by-zip-code/) options than almost anyone else in the country. That sounds like good news. Mostly it is. A common mistake is choosing the wrong plan simply because the options are hard to tell apart, which can cost real money.

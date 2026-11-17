@@ -1,6 +1,7 @@
 ---
 title: "Medicare and Hearing Aids: What Coverage You Actually Get"
 date: 2026-07-10T16:31:38.447930+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Original Medicare rarely covers hearing aids. Learn what Parts A, B, C, and D cover, plus your best options for affordable hearing care."
 image: "/img/heroes/8972559.jpg"

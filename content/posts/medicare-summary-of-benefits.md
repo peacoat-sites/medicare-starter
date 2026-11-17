@@ -23,7 +23,7 @@ faqs:
    a: "Not in the same format. Original Medicare doesn't issue a plan-style Summary because it's a federal program, not a private plan. The Medicare & You handbook, mailed each fall, functions as the closest equivalent. It covers costs, covered services, and rights for both Part A and Part B."
  - q: "How often should I actually re-read my Summary of Benefits?"
    a: "Every fall before Open Enrollment ends on December 7. Plans change their premiums, copays, formularies, and extra benefits each year. Even if you're happy with your current plan, a 15-minute review confirming your key cost-sharing figures is worth doing. Catching one change in drug tier pricing can easily save you several hundred dollars annually."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most people read their Medicare Summary of Benefits exactly once, right after they enroll, and never look at it again. That's a mistake that can cost real money.

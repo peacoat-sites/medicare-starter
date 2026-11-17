@@ -1,6 +1,7 @@
 ---
 title: "Medicare Monthly Costs: Part A, B, D Premiums Explained"
 date: 2026-07-26T15:15:03.081257+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what you'll pay monthly for Medicare Parts A, B, and D. Compare premiums, deductibles, and coverage options for 2024."
 image: "/img/heroes/8123820.jpg"

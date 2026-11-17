@@ -1,6 +1,7 @@
 ---
 title: "Traditional Medicare WISeR Pilot Is Having a Rocky Start"
 date: 2026-08-11T15:11:28.433947+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Traditional Medicare WISeR Pilot faces early challenges in implementation. Learn about the obstacles affecting this healthcare initiative and what's next for be"
 image: "/img/heroes/6129454.jpg"

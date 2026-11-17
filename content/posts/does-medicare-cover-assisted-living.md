@@ -1,6 +1,7 @@
 ---
 title: "Medicare and Assisted Living: Coverage Facts You Need"
 date: 2026-07-14T15:39:26.756459+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what Medicare covers for assisted living costs, eligibility requirements, and alternative payment options to help plan your care."
 image: "/img/heroes/16364306.jpg"

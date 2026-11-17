@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people find out the hard way: Original Medicare, the federal program covering tens of millions of Americans 65 and older, does not cover routine dental care. No cleanings. No fillings. No dentures. A basic crown can run $1,000 to $1,500 out of pocket, and full dentures can easily hit $3,000 to $5,000 per arch. That's not a gap in coverage. That's a canyon.
 

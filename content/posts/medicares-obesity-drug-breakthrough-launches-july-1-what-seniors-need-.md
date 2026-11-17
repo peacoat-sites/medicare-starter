@@ -12,7 +12,7 @@ author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicares-obesity-drug-breakthrough-launches-july-1-what-seniors-need-"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Starting this week, something genuinely historic happens in Medicare. For the first time ever, the government is covering weight-loss medications, and you might qualify for Wegovy, Zepbound, or Foundayo at just $50 a month. But here's what I'm seeing: about 82% of eligible seniors have no idea this is even available. The rollout began quietly on July 1, 2026, partly by design. Medicare wanted to avoid overwhelming doctors' offices and pharmacies all at once, but that means the people who'd benefit most might miss the window entirely.

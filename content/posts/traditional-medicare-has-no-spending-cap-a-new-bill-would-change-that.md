@@ -12,7 +12,7 @@ author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most coverage of the Medicare Cost Cap Act leads with the politics. Here's what matters more: if you're in traditional Medicare right now, there is no limit on what you can spend. None. A bad year, a hospitalization, a cancer diagnosis, and the bills just keep coming. That's the problem this bill is trying to fix.
 

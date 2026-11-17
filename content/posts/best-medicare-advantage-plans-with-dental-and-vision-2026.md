@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people spend more time researching a new refrigerator than they do picking their Medicare Advantage plan. A common discovery made after enrollment is that a chosen plan's dentist isn't covered, the vision benefit barely covers a basic eye exam, and getting new glasses means paying almost full price out of pocket. This situation is completely avoidable with the right research before enrollment.
 

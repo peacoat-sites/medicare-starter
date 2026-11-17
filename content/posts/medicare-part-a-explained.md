@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're 64, six months from retirement, and someone asks: "Do you have hospital coverage?" You pause. Medicare's coming, sure, but the details feel foggy. Part A rings a bell, but what does it actually cover? Will you pay for it? What happens if you miss a deadline? That fog is more common than you'd think, and it costs people real money. Let me walk you through Medicare Part A so you can step into retirement actually knowing what you have.
 

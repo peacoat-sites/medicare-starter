@@ -1,6 +1,7 @@
 ---
 title: "Medicare Advantage Extra Benefits: What's Actually Covered"
 date: 2026-08-14T15:03:55.149767+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which additional benefits Medicare Advantage plans offer beyond Original Medicare, including dental, vision, hearing, and wellness services."
 image: "/img/heroes/5622025.jpg"

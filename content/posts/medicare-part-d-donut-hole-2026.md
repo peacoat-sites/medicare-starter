@@ -23,7 +23,7 @@ faqs:
     a: "If your drug isn't covered by your plan's formulary, you typically pay full price and that spending doesn't count toward your out-of-pocket cap. You can request a formulary exception from your plan, or use the Medicare Plan Finder to look for plans that do cover your drug, especially during Open Enrollment."
   - q: "How do I apply for Extra Help with Part D costs?"
     a: "You apply through the Social Security Administration, either online at SSA.gov, by calling 1-800-772-1213, or at your local Social Security office. Medicare.gov also has a tool to check your eligibility. If you qualify, the program can dramatically reduce or eliminate your Part D premiums, deductibles, and co-pays."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Many people hear "donut hole" and picture some minor inconvenience, like a small co-pay bump they'll barely notice. But pharmacy bills in October can bring a nasty surprise.

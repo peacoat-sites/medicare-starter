@@ -23,7 +23,7 @@ faqs:
    a: "They're estimates based on standard pricing and your pharmacy selection, so treat them as a useful comparison tool rather than a guaranteed figure. Prices can vary based on your specific pharmacy's contract with the plan, manufacturer rebates, and whether you use mail order. The estimates are most useful when you're comparing plans side by side, not as a precise prediction of what you'll pay."
  - q: "When should I use the Plan Finder, and how often?"
    a: "At minimum, run a fresh comparison every October during the Annual Enrollment Period (October 15 to December 7). Plans change their premiums, drug formularies, and networks every year, and a plan that was the best fit for you two years ago may not be today. If you have a major change in medications or health needs during the year, it's worth checking your options again, though your ability to switch outside of AEP depends on whether you qualify for a Special Enrollment Period (SEP)."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 If you're sitting with a stack of Medicare mail feeling uncertain about a decision, you're not alone and you're not behind. This stuff is genuinely complicated, and the fact that you're looking it up means you're already doing the right thing.

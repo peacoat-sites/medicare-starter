@@ -1,6 +1,7 @@
 ---
 title: "Dispute a Medicare Claim in 180 Days: Your Complete Guide"
 date: 2026-07-16T15:47:14.338417+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the Medicare claims dispute process, key deadlines, and step-by-step instructions to appeal denied or incorrect charges effectively."
 image: "/img/heroes/8428049.jpg"

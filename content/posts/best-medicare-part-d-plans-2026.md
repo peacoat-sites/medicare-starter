@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 When a Part D plan sends a notice that a blood pressure medication is jumping from a $10 copay to $47 starting January 1st, the person receiving it often doesn't realize they didn't change anything - the plan did. With about six weeks until the change takes effect, many people discover they have options they didn't know about. A common reaction is: "I didn't know I could switch."
 

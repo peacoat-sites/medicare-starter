@@ -1,6 +1,7 @@
 ---
 title: "Medicare Advantage OTC Benefits: What You Can Buy"
 date: 2026-08-02T15:13:34.849077+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn which over-the-counter products Medicare Advantage plans cover, eligibility requirements, and how to use your OTC benefits."
 image: "/img/heroes/8667534.jpg"

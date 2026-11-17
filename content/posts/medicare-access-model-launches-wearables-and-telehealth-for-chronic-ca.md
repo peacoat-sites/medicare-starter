@@ -12,7 +12,7 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-access-model-launches-wearables-and-telehealth-for-chronic-ca"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Picture this: your doctor's office calls to say they've joined a new Medicare program, and they want to send you a blood pressure cuff that connects to your phone and checks in with a care team between appointments. Maybe that sounds exciting, or maybe it sounds like one more complicated thing to figure out. Either way, you need to know what you're agreeing to, because as of July 5, 2026, this is no longer hypothetical. It's real, it's here, and it's going to start showing up in your care.
 

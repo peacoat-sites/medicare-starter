@@ -1,6 +1,7 @@
 ---
 title: "Medicare Supplement Plan G High Deductible: Lower Premiums Explained"
 date: 2026-08-16T14:34:05.572828+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore how Medicare supplement high deductible Plan G works, compare costs and coverage gaps, and determine if it's right for your healthcare needs."
 image: "/img/heroes/7926696.jpg"

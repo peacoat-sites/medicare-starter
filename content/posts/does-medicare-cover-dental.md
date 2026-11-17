@@ -1,6 +1,7 @@
 ---
 title: "90% of Medicare Enrollees Lack Dental: What To Do"
 date: 2026-07-11T15:08:25.225567+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Original Medicare doesn't cover most dental care, leaving millions without coverage. Learn your 5 best options to get dental benefits at 65 and beyond."
 image: "/img/heroes/8413334.jpg"

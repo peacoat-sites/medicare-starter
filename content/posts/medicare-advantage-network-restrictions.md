@@ -1,6 +1,7 @@
 ---
 title: "Medicare Advantage Network Restrictions: What $50 Copays Really Mean"
 date: 2026-07-15T15:45:14.921842+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand Medicare Advantage network limits, copay structures, and how restricted provider lists affect your healthcare costs and coverage options."
 image: "/img/heroes/8376153.jpg"
