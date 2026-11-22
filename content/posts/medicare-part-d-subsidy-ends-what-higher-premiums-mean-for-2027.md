@@ -2,7 +2,7 @@
 title: "Medicare Part D Subsidy Ends: What Higher Premiums Mean for 2027"
 date: 2026-07-30T15:59:36.513919+00:00
 draft: false
-description: "Medicare Part D Subsidy Ends in 47 Days: What to Do Now. Learn how the ending subsidy affects your prescription costs and what steps to take immediately."
+description: "The Part D premium stabilization program ends December 31, 2026. What the projected 2027 premium jump means and what to do before open enrollment closes."
 image: "/img/heroes/4968388.jpg"
 categories: ["trending"]
 tags: ["medicare", "part d", "premiums", "open enrollment"]
