@@ -71,9 +71,6 @@
         partB=689.90; partD=91.00; bracketName='IRMAA highest (MFS)'; bracketRange='$391,000 or more';
       }
     } else {
-        partB=559.00; partD=81.00; bracketName='IRMAA Flat Rate (MFS)'; bracketRange='Over $103,000';
-      }
-    } else {
       var col = (status==='single') ? 0 : 1;
       for(var i=0;i<BRACKETS.length;i++){
         if(income <= BRACKETS[i][col]){
