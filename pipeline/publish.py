@@ -845,6 +845,7 @@ Writing rules (follow every one):
 - Add something the top search results usually lack: a decision rule ("if X, do Y"), a worked calculation with stated assumptions, the exact order of steps with what can go wrong at each, or who should NOT do this and why.
 - Never invent personal anecdotes, clients, patients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("a common mistake is...", "most people in this situation..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead (real form names, official deadlines, where to call).
 - Only name a study, report, survey, rule, or statistic you are confident actually exists, with its correct source. Medicare figures (premiums, deductibles, limits, dates) must be official CMS/Medicare.gov values you are sure of; if unsure, explain the idea and point readers to Medicare.gov instead of stating a number. Never invent figures.
+- CURRENT 2026 MEDICARE FIGURES (CMS): Part B premium $202.90/month, Part B deductible $283, Part A deductible $1,736 per benefit period, hospital coinsurance $434/day (days 61-90) and $868/day (lifetime reserve), SNF $217/day (days 21-100), Part A buy-in $311 or $565/month, Part D out-of-pocket cap $2,100 and maximum deductible $615. 2026 IRMAA starts above $109,000 single / $218,000 joint (2024 income); tiers $109k/$137k/$171k/$205k/$500k single with Part B totals $284.10/$405.80/$527.50/$649.20/$689.90. Never present 2024 or 2025 amounts ($185, $257, $1,676, $2,000 cap, $106,000 threshold) as current; label any prior-year figure with its year. Announced for 2027 (CMS, November 17, 2026): Part B premium $209.40, Part B deductible $292, Part A deductible $1,776; use these only when the article is about 2027.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -1696,6 +1697,9 @@ def _depersona(content: str, niche: str) -> str:
     return content
 
 
+SITE_CURRENT_FACTS = 'CURRENT 2026 MEDICARE FIGURES (CMS): Part B premium $202.90/month, Part B deductible $283, Part A deductible $1,736 per benefit period, hospital coinsurance $434/day (days 61-90) and $868/day (lifetime reserve), SNF $217/day (days 21-100), Part A buy-in $311 or $565/month, Part D out-of-pocket cap $2,100 and maximum deductible $615. 2026 IRMAA starts above $109,000 single / $218,000 joint (2024 income); tiers $109k/$137k/$171k/$205k/$500k single with Part B totals $284.10/$405.80/$527.50/$649.20/$689.90. Never present 2024 or 2025 amounts ($185, $257, $1,676, $2,000 cap, $106,000 threshold) as current; label any prior-year figure with its year. Announced for 2027 (CMS, November 17, 2026): Part B premium $209.40, Part B deductible $292, Part A deductible $1,776; use these only when the article is about 2027.'
+
+
 def _fact_check(content: str, niche: str) -> str:
     """Second pass: correct or soften unverifiable claims before publishing. Fails open."""
     try:
@@ -1711,7 +1715,7 @@ def _fact_check(content: str, niche: str) -> str:
             "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
             "reads correctly in context (never a fragment), or \"\" to delete a sentence that says nothing once the claim is removed. Check who makes or owns every named product or company. "
             "Do not change style, headings, or anything correct. "
-            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
+            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\n" + SITE_CURRENT_FACTS + " Treat any statement that contradicts these facts as wrong and fix it.\n\nARTICLE:\n" + content
         )
         msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000,
                                      messages=[{"role": "user", "content": prompt}])
