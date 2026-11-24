@@ -55,7 +55,7 @@ One worked example that plays out more than people expect: A 51-year-old former 
 | Medicare Part | What It Covers | Premium (2026) | Notes for Disabled Enrollees |
 | --- | --- | --- | --- |
 | Part A | Hospital stays, skilled nursing facility care, hospice, home health care | $0-$500+/month | No premium if you or spouse paid Medicare taxes for 10+ years (40 quarters); otherwise can buy in |
-| Part B | Doctor visits, physical therapy, lab work, durable medical equipment | $185/month | Income-adjusted for higher earners |
+| Part B | Doctor visits, physical therapy, lab work, durable medical equipment | $202.90/month | Income-adjusted for higher earners |
 | Part D | Prescription drug coverage | Varies by plan | Optional but late enrollment penalties apply if skipped |
 | Part C (Medicare Advantage) | Bundles A, B, and often D | Varies by plan | May include extra benefits (vision, dental); network restrictions possible |
 
@@ -63,7 +63,7 @@ Once you're in, Medicare for disabled people works almost identically to Medicar
 
 **Part A** covers hospital stays, skilled nursing facility care, hospice, and some home health care. Most people don't pay a premium for Part A if they (or a spouse) paid Medicare taxes for at least 10 years (40 quarters). If you haven't hit that threshold, you can still buy into Part A, though the premium can run over $500 a month currently. For many people with disabilities who haven't worked long enough, this is a real issue.
 
-**Part B** covers outpatient care: doctor visits, physical therapy, lab work, durable medical equipment (DME, like wheelchairs or walkers), and much more. The standard Part B premium as of 2026 is $185 a month, though it's income-adjusted for higher earners.
+**Part B** covers outpatient care: doctor visits, physical therapy, lab work, durable medical equipment (DME, like wheelchairs or walkers), and much more. The standard Part B premium as of 2026 is $202.90 a month, though it's income-adjusted for higher earners.
 
 **Part D** is prescription drug coverage. It's separate, it's optional (though there are late enrollment penalties if you skip it and want it later), and it's purchased through private insurers.
 

@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 You're probably here because something changed. Maybe you just got a letter from Social Security, or a birthday with a "6" and a "5" in it is coming up faster than expected, and someone told you to "just go sign up for Medicare." As if it were obvious. As if there weren't about a dozen ways to do it wrong.
 
-There are. And the mistakes people make aren't small ones, either. Miss a key deadline and you can pay higher premiums for the rest of your life. Sign up at the wrong time relative to your employer coverage and you could end up uninsured for months. I've sat with people who made exactly these errors, not because they were careless, but because nobody explained the rules clearly enough, early enough.
+There are. And the mistakes people make aren't small ones, either. Miss a key deadline and you can pay higher premiums for the rest of your life. Sign up at the wrong time relative to your employer coverage and you could end up uninsured for months. These errors happen not because people are careless, but because the rules aren't explained clearly enough, early enough.
 
 So let's do that now.
 

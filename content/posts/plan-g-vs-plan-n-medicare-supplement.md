@@ -33,7 +33,7 @@ Once you understand what each plan actually does, the choice usually becomes muc
 
 Let's start with the basics. Medigap is another name for [Medicare Supplement Insurance](/best-medigap-plans-2026/), private health insurance designed to work alongside Original Medicare (Parts A and B) and cover costs Medicare doesn't fully pay.
 
-Here's what people often miss: Original Medicare isn't free once you start using it. Part A covers hospital stays, but you owe a deductible each benefit period ($1,632 in 2024). Part B covers outpatient care, but it only pays 80% of approved costs after your annual deductible. You're responsible for the other 20%, with no cap on that exposure. A serious illness could leave you with tens of thousands of dollars in coinsurance.
+Here's what people often miss: Original Medicare isn't free once you start using it. Part A covers hospital stays, but you owe a deductible each benefit period ($1,736 in 2026). Part B covers outpatient care, but it only pays 80% of approved costs after your annual deductible. You're responsible for the other 20%, with no cap on that exposure. A serious illness could leave you with tens of thousands of dollars in coinsurance.
 
 That's the gap Medigap fills. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) standardizes Medigap plans by letter, so a Plan G from Aetna covers exactly what a Plan G from Blue Cross Blue Shield covers. The only difference between insurers is the premium and sometimes customer service quality. This standardization matters because you can shop purely on price once you've chosen a plan letter.
 
@@ -41,12 +41,12 @@ Plan G and Plan N are the two most popular Medigap options for new Medicare enro
 
 ## Plan G: The Close-to-Complete Coverage Option
 
-Plan G is about as comprehensive as it gets for new enrollees. Pay your Part B deductible ($240 in 2024), and Plan G covers virtually everything else Original Medicare leaves behind.
+Plan G is about as comprehensive as it gets for new enrollees. Pay your Part B deductible ($283 in 2026), and Plan G covers virtually everything else Original Medicare leaves behind.
 
 What Plan G covers:
 
 - **Part A hospital coinsurance and hospital costs** up to an additional 365 days after Medicare benefits are exhausted
-- **Part A deductible** (that $1,632 per benefit period)
+- **Part A deductible** (that $1,736 per benefit period)
 - **Part A hospice care coinsurance or copayments**
 - **Part B coinsurance or copayments** (the 20% you'd otherwise owe)
 - **[Part B excess charges](/medigap-plan-g-vs-plan-n-comparison/)** (more below)
@@ -54,7 +54,7 @@ What Plan G covers:
 - **First three pints of blood**
 - **80% of foreign travel emergency costs** (up to plan limits)
 
-The one thing Plan G doesn't cover? Your Part B deductible. Pay that $240 once at the start of the year, and for the rest of the year you essentially have zero out-of-pocket costs for Medicare-covered services. This predictability is exactly why many people choose Plan G, especially if they have chronic conditions or expect to use benefits frequently.
+The one thing Plan G doesn't cover? Your Part B deductible. Pay that $283 once at the start of the year, and for the rest of the year you essentially have zero out-of-pocket costs for Medicare-covered services. This predictability is exactly why many people choose Plan G, especially if they have chronic conditions or expect to use benefits frequently.
 
 The "Part B excess charges" benefit deserves special mention because it catches people off guard. Some doctors don't accept Medicare assignment, meaning they can charge up to 15% more than the Medicare-approved amount. Plan G pays that extra 15%. Plan N does not. If you live in a state without restrictions on excess charges (most don't), and you want to see any Medicare-accepting doctor, Plan G gives you that freedom without surprise bills.
 

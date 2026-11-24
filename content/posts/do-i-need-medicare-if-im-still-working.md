@@ -54,7 +54,7 @@ Beyond that scenario, sign up for Part A at 65. It's free, it layers onto your e
 
 ## What Part B Will Actually Cost You
 
-Part B currently has a standard monthly premium of around $185 (as of July 2026, though this shifts annually based on income). Higher earners pay more through what's called IRMAA, the Income-Related Monthly Adjustment Amount. If your modified adjusted gross income exceeded about $106,000 as an individual the year before last, your premium is higher.
+Part B currently has a standard monthly premium of around $202.90 (as of July 2026, though this shifts annually based on income). Higher earners pay more through what's called IRMAA, the Income-Related Monthly Adjustment Amount. If your modified adjusted gross income exceeded about $109,000 as an individual the year before last, your premium is higher.
 
 Here's a realistic comparison of how the math shakes out depending on your situation:
 

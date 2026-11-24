@@ -41,18 +41,18 @@ The Social Security Administration sends out the IRMAA determination letters, ty
 
 | Income Tier | Individual MAGI | Married Filing Jointly MAGI | Part B Premium (2026) | Part D Surcharge Range |
 | --- | --- | --- | --- | --- |
-| Tier 1 | Up to $106,000 | Up to $212,000 | $185.00 | $0.00 |
-| Tier 2 | $106,001-$133,000 | $212,001-$266,000 | ~$259.00 | ~$13.70 |
-| Tier 3 | $133,001-$167,000 | $266,001-$334,000 | ~$370.00 | ~$34.70 |
-| Tier 4 | $167,001-$200,000 | $334,001-$400,000 | ~$480.90 | ~$55.70 |
-| Tier 5 | $200,001-$500,000 | $400,001-$750,000 | ~$591.90 | ~$76.80 |
-| Tier 6 | Above $500,000 | Above $750,000 | ~$628.90 | ~$85.80 |
+| Tier 1 | Up to $109,000 | Up to $218,000 | $202.90 | $0.00 |
+| Tier 2 | $109,001-$137,000 | $218,001-$274,000 | $284.10 | $14.50 |
+| Tier 3 | $137,001-$171,000 | $274,001-$342,000 | $405.80 | $37.50 |
+| Tier 4 | $171,001-$205,000 | $342,001-$410,000 | $527.50 | $60.40 |
+| Tier 5 | $205,001-$499,999 | $410,001-$749,999 | $649.20 | $83.30 |
+| Tier 6 | $500,000+ | $750,000+ | $689.90 | $91.00 |
 
 Here's what the brackets actually look like for 2026. I want to be upfront: these figures reflect the thresholds as adjusted for inflation and released by CMS. If your situation is at or near a boundary, please verify the exact current numbers at Medicare.gov, since small adjustments do happen.
 
-For **Part B**, the standard premium sits at $185.00 per month in 2026 for people below the IRMAA threshold. Once your income crosses the first tier, that number goes up. The brackets for individuals (with married filing jointly thresholds in parentheses) work like this:
+For **Part B**, the standard premium sits at $202.90 per month in 2026 for people below the IRMAA threshold. Once your income crosses the first tier, that number goes up. The brackets for individuals (with married filing jointly thresholds in parentheses) work like this:
 
-**Tier 1:** MAGI up to $106,000 ($212,000 for joint filers). No IRMAA surcharge. You pay the standard $185.00 per month.
+**Tier 1:** MAGI up to $109,000 ($218,000 for joint filers). No IRMAA surcharge. You pay the standard $202.90 per month.
 
 **Tier 2:** MAGI between $106,001 and $133,000 ($212,001 to $266,000 joint). Your Part B premium jumps to approximately $259.00 per month.
 
@@ -90,7 +90,7 @@ If you want help with any of this, your state's State Health Insurance Assistanc
 
 The research here is genuinely mixed on how much impact IRMAA has on retirement income strategies overall, because it depends so heavily on individual circumstances. But here's what I'll say clearly: for people with income hovering near a threshold, the dollar impact is real enough that it deserves attention, not as an afterthought, but as part of actual planning conversations.
 
-Some people deliberately manage income to stay under $106,000 individually. Others decide the tax benefits of a Roth conversion outweigh a temporary IRMAA bump and pay the surcharge for one or two years knowingly. Neither approach is wrong. But the worst outcome is what I see most: someone triggers a threshold accidentally, doesn't understand why their premium jumped, and then doesn't know they might be able to appeal or adjust course going forward.
+Some people deliberately manage income to stay under $109,000 individually. Others decide the tax benefits of a Roth conversion outweigh a temporary IRMAA bump and pay the surcharge for one or two years knowingly. Neither approach is wrong. But the worst outcome is what I see most: someone triggers a threshold accidentally, doesn't understand why their premium jumped, and then doesn't know they might be able to appeal or adjust course going forward.
 
 If you're enrolled in a Medicare Advantage plan (Part C) rather than Original Medicare, you still pay the Part B premium, which includes any IRMAA surcharge. Some people assume that switching to Medicare Advantage makes IRMAA go away. It doesn't.
 

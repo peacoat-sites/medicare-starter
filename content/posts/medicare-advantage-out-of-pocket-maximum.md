@@ -84,7 +84,7 @@ Knowing what actually accumulates toward your maximum matters just as much as kn
 - Part D prescription drug costs (tracked separately under your drug plan)
 - Cost-sharing for out-of-network services if you have a separate out-of-network MOOP
 
-That point about prescription drugs deserves emphasis. Your Part D drug costs follow their own rules. Starting in 2025, the Inflation Reduction Act capped out-of-pocket drug costs at $2,000 per year. That's huge for people taking expensive medications. But those costs don't flow into your medical MOOP.
+That point about prescription drugs deserves emphasis. Your Part D drug costs follow their own rules. The Inflation Reduction Act capped out-of-pocket drug costs, starting at $2,000 in 2025 and rising to $2,100 in 2026. That's huge for people taking expensive medications. But those costs don't flow into your medical MOOP.
 
 ## How to Compare Plans Based on the MOOP
 

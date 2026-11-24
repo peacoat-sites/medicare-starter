@@ -18,7 +18,7 @@ faqs:
  - q: "Does Medicare cover dental, vision, or hearing costs?"
    a: "Original Medicare doesn't cover most routine dental, vision, or hearing care, which surprises a lot of people and adds significant out-of-pocket costs. Some Medicare Advantage plans include these benefits, so it's worth comparing plans specifically on this point if those costs are meaningful to you. Stand-alone dental and vision insurance is also available to Medicare enrollees."
  - q: "What is the Medicare Part B deductible for 2026?"
-   a: "As of 2026, the Part B deductible is $257 per year. After you meet the deductible, Medicare typically covers 80% of approved services and you pay the remaining 20%, unless you have a supplement plan or Medicare Advantage that covers that cost-sharing."
+   a: "As of 2026, the Part B deductible is $283 per year. After you meet the deductible, Medicare typically covers 80% of approved services and you pay the remaining 20%, unless you have a supplement plan or Medicare Advantage that covers that cost-sharing."
  - q: "Is it worth buying a Medigap policy?"
    a: "For many people, yes, particularly if you have ongoing health needs or simply want cost predictability. Medigap Plan G is currently the most comprehensive option for new Medicare enrollees (Plan C and Plan F are no longer available to people who became eligible for Medicare after January 1, 2020). Whether it's worth the premium depends on how often you use medical services; run the numbers for your specific situation before committing."
  - q: "What if I can't afford my Medicare premiums right now?"
@@ -38,7 +38,7 @@ So let's do that now.
 
 You might be wondering whether Medicare is even supposed to be expensive. Isn't it the government health program for seniors? Shouldn't it be mostly covered?
 
-Here's the honest answer: Medicare covers a lot, but it was never designed to cover everything. Original Medicare, meaning Part A (hospital insurance) and Part B (medical insurance), has premiums, deductibles, and coinsurance that can add up fast. As of 2026, the standard Part B premium is around $185 per month, but higher earners pay significantly more through what's called IRMAA (Income-Related Monthly Adjustment Amount). Add a Part D (prescription drug) plan, maybe a Medigap (Medicare Supplement) policy, and you can easily hit $400 to $600 a month before you've seen a single doctor.
+Here's the honest answer: Medicare covers a lot, but it was never designed to cover everything. Original Medicare, meaning Part A (hospital insurance) and Part B (medical insurance), has premiums, deductibles, and coinsurance that can add up fast. As of 2026, the standard Part B premium is around $202.90 per month, but higher earners pay significantly more through what's called IRMAA (Income-Related Monthly Adjustment Amount). Add a Part D (prescription drug) plan, maybe a Medigap (Medicare Supplement) policy, and you can easily hit $400 to $600 a month before you've seen a single doctor.
 
 That's not a complaint about Medicare; I think it's genuinely one of the most valuable programs ever created. But it does mean that "just signing up" without thinking strategically can cost you thousands of dollars a year that you didn't need to spend.
 
@@ -52,7 +52,7 @@ The big one is the Extra Help program (also called the Low Income Subsidy, or LI
 
 There's also the [Medicare Savings Program (MSP)](/medicare-savings-programs/), actually a group of four related programs, that can pay your Part B premium, deductibles, and copays if you meet income limits. The income thresholds are higher than most people expect, so don't rule yourself out before you check. Your state Medicaid office handles enrollment.
 
-Here's a real scenario from my counseling work: A retired warehouse supervisor in his early 70s came to me convinced he made too much to qualify for anything. Single, about $1,600 per month in Social Security, modest savings. He'd been paying his $185 Part B premium and a $47/month Part D premium out of pocket. After I walked him through the MSP income limits in his state, he qualified for the Qualified Medicare Beneficiary (QMB) program. The result: his Part B premium was eliminated, saving him $2,220 a year, and his cost-sharing dropped to nearly zero. He'd been leaving that money on the table for three years.
+Don't rule yourself out too quickly. Say a single retiree gets about $1,600 a month from Social Security and assumes that's too much for help. Several states set Medicare Savings Program income limits above the federal minimum or disregard some income, so check your state's limits before deciding. If you qualify for the Qualified Medicare Beneficiary (QMB) program, it pays your Part B premium ($202.90 a month in 2026, or $2,434.80 a year) and most Medicare cost-sharing.
 
 The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) can connect you with a free local counselor who'll go through all of this with you at no charge. I genuinely can't recommend SHIP enough. These are trained volunteers with no financial stake in what you choose.
 
@@ -90,7 +90,7 @@ Fourth: manufacturer patient assistance programs. If you're on an expensive bran
 
 ## The IRMAA Problem (And How to Fight It)
 
-If your income is above a certain threshold, Medicare charges you more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's based on your tax return from two years prior. As of this year, if your modified adjusted gross income was above roughly $106,000 (single) or $212,000 (married filing jointly), you're paying more than the standard premium.
+If your income is above a certain threshold, Medicare charges you more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's based on your tax return from two years prior. As of this year, if your modified adjusted gross income was above roughly $109,000 (single) or $218,000 (married filing jointly), you're paying more than the standard premium.
 
 You can appeal IRMAA if your income has dropped due to a qualifying life event. Retirement counts. Divorce counts. Death of a spouse counts. The form is SSA-44, available at ssa.gov, and filing may be worthwhile even if you are not completely certain you qualify, since successful appeals can result in significant premium reductions retroactively.
 

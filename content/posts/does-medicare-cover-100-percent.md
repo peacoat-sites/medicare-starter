@@ -46,7 +46,7 @@ So let's be specific about what Medicare actually covers, where the gaps are, an
 
 Original Medicare, the federal program administered by the [Centers for Medicare & Medicaid Services](https://www.cms.gov/), splits into two main parts. Part A handles hospital stays, skilled nursing facility (SNF) care, hospice, and some home health. Part B covers doctor visits, outpatient procedures, lab work, durable medical equipment, and preventive screenings.
 
-Here's what gets glossed over: Part B covers 80 percent of approved costs for most services, after you hit your annual deductible ($240 in 2024). You're on the hook for the other 20 percent. And there's no limit on it. If you have a $200,000 cancer treatment, your 20 percent could hit $40,000, and Medicare won't cap it.
+Here's what gets glossed over: Part B covers 80 percent of approved costs for most services, after you hit your annual deductible ($283 in 2026). You're on the hook for the other 20 percent. And there's no limit on it. If you have a $200,000 cancer treatment, your 20 percent could hit $40,000, and Medicare won't cap it.
 
 Part A works differently. You've got a deductible per benefit period (not per year, which confuses plenty of people), then daily coinsurance kicks in after a set number of hospital days. A long hospitalization with those daily charges? They compound fast.
 
@@ -72,7 +72,7 @@ The 20 percent Part B coinsurance gets most of the focus, but other gaps matter 
 
 This is where real choices happen, and they're not equally good for everyone. Here's my assessment.
 
-**[Medicare Supplement Insurance (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/).** Private insurance plans that work alongside Original Medicare. Plan G (the most popular now that Plans C and F closed to new enrollees) covers the Part A deductible, Part B coinsurance, skilled nursing coinsurance, and foreign travel emergency care. With Plan G, you're essentially down to the $240 Part B deductible annually, then nothing else for Medicare-covered services.
+**[Medicare Supplement Insurance (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/).** Private insurance plans that work alongside Original Medicare. Plan G (the most popular now that Plans C and F closed to new enrollees) covers the Part A deductible, Part B coinsurance, skilled nursing coinsurance, and foreign travel emergency care. With Plan G, you're essentially down to the $283 Part B deductible annually, then nothing else for Medicare-covered services.
 
 Plan G is probably the closest thing to "100 percent coverage" that exists within Medicare for covered care. It won't touch dental, vision, hearing, or Part D drugs, and you'll need those separately. But for hospital and doctor bills, it creates real financial predictability.
 
@@ -92,7 +92,7 @@ That doesn't mean avoid them entirely. They're right for plenty of people. Just 
 
 Picture this: you're 68, enrolled in Original Medicare with Plan G Medigap and a Part D drug plan. You have hip replacement surgery. Here's how costs flow.
 
-The surgery, hospital stay, and follow-up care get billed to Medicare. Medicare sets its approved amount. You pay the Part B deductible for the year ($240 unless you've paid it already). Plan G covers the rest of Medicare's approved costs. You pay what your Part D plan requires for any prescriptions.
+The surgery, hospital stay, and follow-up care get billed to Medicare. Medicare sets its approved amount. You pay the Part B deductible for the year ($283 unless you've paid it already). Plan G covers the rest of Medicare's approved costs. You pay what your Part D plan requires for any prescriptions.
 
 You don't pay: that 20 percent of the surgeon's bill, hospital coinsurance, or skilled nursing coinsurance if you need rehab. Plan G takes those.
 

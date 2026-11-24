@@ -36,7 +36,7 @@ If you're reading this because your doctor just told you that your [Medicare Adv
 
 ## What Prior Authorization Actually Is (and Why Plans Use It)
 
-Let me be direct about something most articles skip: prior authorization exists, in part, to save insurers money by delaying or discouraging care. That's not conspiracy thinking. The HHS OIG said as much in their report, noting that some MA plans use prior auth criteria that are "more restrictive than Medicare coverage rules." I've sat with people who were denied coverage for procedures that traditional Medicare (Original Medicare, Parts A and B) would have covered without question.
+Let me be direct about something most articles skip: prior authorization exists, in part, to save insurers money by delaying or discouraging care. That's not conspiracy thinking. The HHS OIG said as much in their report, noting that some MA plans use prior auth criteria that are "more restrictive than Medicare coverage rules." Some people have been denied coverage for procedures that traditional Medicare (Original Medicare, Parts A and B) would have covered without question.
 
 That said, prior auth also has a legitimate side. It's meant to catch situations where a requested service might be duplicative, unsafe in combination with something else the patient is taking, or genuinely outside what the plan covers. I don't want to be unfair. But when I see denial rates this high, followed by 75% appeal reversals, something is off in how those initial decisions are being made.
 

@@ -35,7 +35,7 @@ Medicare calculates your penalty using the national base beneficiary premium, wh
 
 So if you waited 20 months to enroll, your penalty is 20% of $34.70, which works out to roughly $6.94 per month. That gets rounded to the nearest $0.10 and added to your monthly Part D premium permanently. Because the base premium adjusts annually, your penalty amount can also shift slightly from year to year, even though the percentage is locked in.
 
-A 20-month gap might not sound long. I've worked with clients who didn't think they needed drug coverage because they weren't taking prescriptions yet. Then they turned 68, got a diagnosis, and suddenly needed several medications. By that point, a 36-month gap had built a penalty of 36% baked into every premium they'd ever pay going forward.
+A 20-month gap might not sound long. But consider what happens when someone doesn't think they need drug coverage because they aren't taking prescriptions yet. If they turn 68, get a diagnosis, and suddenly need several medications, a 36-month gap will have built a penalty of 36% baked into every premium they'd ever pay going forward.
 
 The penalty doesn't care whether you needed coverage during the gap. It only cares whether you had it.
 
@@ -124,7 +124,7 @@ People sometimes rationalize skipping Part D by comparing the premium cost to wh
 | Annual out-of-pocket on no medications | $0 | $360-$720 |
 | New diagnosis requiring 3 brand drugs | Can be $400-$2,000+/month | Capped with plan coverage |
 | Late penalty after 24-month gap | 24% added permanently | N/A |
-| Catastrophic coverage cap (2024) | None | $8,000 out-of-pocket max |
+| Catastrophic coverage cap (2026) | None | $2,100 out-of-pocket max |
 
 The 2024 Inflation Reduction Act changes to Part D also added a $2,000 annual out-of-pocket cap on covered drug costs starting in 2025. That's a significant protection that people without Part D simply don't get.
 

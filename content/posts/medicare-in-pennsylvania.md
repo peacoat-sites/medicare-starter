@@ -34,7 +34,7 @@ That's the thing about Medicare in Pennsylvania. The federal rules apply to ever
 
 ## What You're Actually Dealing With: The Federal Baseline
 
-Medicare has four parts: Part A covers hospital stays (most people don't pay a premium for it), Part B covers outpatient care and costs most people $185 per month in 2026, Part C is [Medicare Advantage](/medicare-advantage-vs-medicare-supplement-total-cost/) (private plans that bundle A and B together, often with extras), and Part D covers prescription drugs.
+Medicare has four parts: Part A covers hospital stays (most people don't pay a premium for it), Part B covers outpatient care and costs most people $202.90 per month in 2026, Part C is [Medicare Advantage](/medicare-advantage-vs-medicare-supplement-total-cost/) (private plans that bundle A and B together, often with extras), and Part D covers prescription drugs.
 
 The Centers for Medicare & Medicaid Services (https://www.cms.gov/) sets the ground rules for all of it. States can't override those rules, but Pennsylvania uses its own programs to fill gaps. Think of the federal program as the frame and Pennsylvania's programs as insulation and weatherproofing.
 
@@ -78,7 +78,7 @@ This is a genuine choice with real tradeoffs, not a simple answer. Original Medi
 
 | Feature | Original Medicare + Medigap | Medicare Advantage |
 |---|---|---|
-| Monthly premium (rough range in PA) | $185 Part B + $80-$250 Medigap | $185 Part B + $0-$80 plan premium |
+| Monthly premium (rough range in PA) | $202.90 Part B + $80-$250 Medigap | $202.90 Part B + $0-$80 plan premium |
 | Provider access | Any provider accepting Medicare | Network-based (HMO or PPO) |
 | Out-of-pocket maximum | Varies by Medigap plan (some cap at ~$3,500) | Set by plan (up to $8,850 in-network, 2026) |
 | Dental/vision/hearing coverage | Separate policy needed | Often included |

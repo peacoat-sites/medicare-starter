@@ -47,9 +47,9 @@ So why does Medigap cost money on top of your Part B premium? Because you're buy
 
 | Medigap Plan | Monthly Premium Range (65yo) | Coverage Level | Key Limitation |
 | --- | --- | --- | --- |
-| Plan G | $80-$300+ | Most comprehensive | Doesn't cover Part B deductible ($240/year in 2024) |
+| Plan G | $80-$300+ | Most comprehensive | Doesn't cover Part B deductible ($283/year in 2026) |
 | Plan N | $80-$300+ | Moderate | $20 office visit copays, $50 ER copay, no Part B excess coverage |
-| High-Deductible Plan G | Under $50-$300+ | Comprehensive after deductible | $2,800 annual deductible (2024) |
+| High-Deductible Plan G | Under $50-$300+ | Comprehensive after deductible | $2,800 annual deductible (2026) |
 | Plan K | Lower | Limited | Only partial cost-sharing coverage |
 | Plan L | Lower | Limited | Only partial cost-sharing coverage |
 
@@ -57,7 +57,7 @@ There is no single "typical" Medigap premium. The range is genuinely wide.
 
 Monthly premiums for [Plan G and Plan N](/medigap-plan-g-vs-plan-n-comparison/), the most popular options, generally fall somewhere between $80 and $300 or more per month for a 65-year-old woman in good health. Men often pay slightly more because insurers can factor in gender in most states. A 75-year-old shopping for the same coverage can see premiums that are significantly higher, sometimes double what a 65-year-old pays, depending on how the insurance company prices its policies.
 
-Plan G is currently the most comprehensive plan available to new Medicare enrollees. Plan F, which was slightly richer, closed to new enrollees in 2020. Plan G covers everything except the Part B deductible, which in 2024 is $240 per year. Plan N is a step down. It has lower premiums, but you'll pay up to $20 copays for office visits and up to $50 for emergency room visits, and it doesn't cover Part B excess charges.
+Plan G is currently the most comprehensive plan available to new Medicare enrollees. Plan F, which was slightly richer, closed to new enrollees in 2020. Plan G covers everything except the Part B deductible, which in 2026 is $283 per year. Plan N is a step down. It has lower premiums, but you'll pay up to $20 copays for office visits and up to $50 for emergency room visits, and it doesn't cover Part B excess charges.
 
 High-deductible Plan G is a third option worth knowing about. It carries a deductible of $2,800 in 2024, meaning you pay that amount in costs before the plan kicks in. In exchange, monthly premiums can be dramatically lower, sometimes under $50 per month for a healthy 65-year-old in a favorable zip code. If you're relatively healthy and rarely use medical care, this version can save you significant money over time.
 

@@ -9,15 +9,15 @@ tags: ["Medicare", "prescription", "drug", "costs", "2026"]
 slug: "medicare-prescription-drug-costs"
 affiliate_disclosure: true
 faqs:
- - q: "Does the $2,000 out-of-pocket cap apply to all Medicare drug plans in 2026?"
-   a: "Yes. The $2,000 annual out-of-pocket cap on Part D drug costs applies to all Medicare Part D plans in 2026, including both standalone Part D plans and Medicare Advantage plans that include drug coverage (MA-PD plans). Once you've paid $2,000 out of pocket for covered drugs in the calendar year, your plan covers 100% of covered drug costs for the remainder of that year. Premiums do not count toward this cap."
- - q: "What counts as 'out of pocket' toward the $2,000 cap?"
+ - q: "Does the $2,100 out-of-pocket cap apply to all Medicare drug plans in 2026?"
+   a: "Yes. The $2,100 annual out-of-pocket cap on Part D drug costs applies to all Medicare Part D plans in 2026, including both standalone Part D plans and Medicare Advantage plans that include drug coverage (MA-PD plans). Once you've paid $2,100 out of pocket for covered drugs in the calendar year, your plan covers 100% of covered drug costs for the remainder of that year. Premiums do not count toward this cap."
+ - q: "What counts as 'out of pocket' toward the $2,100 cap?"
    a: "Your deductible payments, your copays and coinsurance during the initial coverage phase, and amounts paid on your behalf by Medicare's Extra Help (Low-Income Subsidy) program all count. Manufacturer discounts on certain drugs can also count in some circumstances. Your monthly premium does NOT count toward the cap, and costs for drugs not on your plan's formulary don't count either."
  - q: "Can I spread out my drug costs throughout the year to avoid a big bill early on?"
-   a: "Yes, and there's actually a formal mechanism to do this starting in 2025 that continues into 2026. It's called the Medicare Prescription Payment Plan, sometimes referred to as the 'smoothing' option. If you'd otherwise face large drug costs early in the year before hitting your $2,000 cap, you can opt into this program and spread those costs in equal monthly payments across the year. You need to opt in through your Part D plan. It doesn't reduce the total you owe, but it prevents one month from being financially brutal."
+   a: "Yes, and there's actually a formal mechanism to do this starting in 2025 that continues into 2026. It's called the Medicare Prescription Payment Plan, sometimes referred to as the 'smoothing' option. If you'd otherwise face large drug costs early in the year before hitting your $2,100 cap, you can opt into this program and spread those costs in equal monthly payments across the year. You need to opt in through your Part D plan. It doesn't reduce the total you owe, but it prevents one month from being financially brutal."
  - q: "My drug moved to a higher tier on my plan. What can I do?"
    a: "You have a few options. First, ask your doctor if a therapeutically equivalent generic or preferred alternative exists. Second, check whether your plan has an exceptions process: if your doctor provides documentation that the higher-tier drug is medically necessary and lower-tier alternatives aren't appropriate for you, the plan may grant a formulary exception and cover the drug at a lower cost-sharing level. Third, during Open Enrollment, use Medicare.gov's Plan Finder to compare other plans that may cover your drug at a lower tier."
- - q: "I'm on a fixed income. Is there help with Part D costs beyond the $2,000 cap?"
+ - q: "I'm on a fixed income. Is there help with Part D costs beyond the $2,100 cap?"
    a: "Absolutely. Extra Help is a federal program specifically designed for people with limited income and resources. Eligible beneficiaries pay dramatically reduced premiums, deductibles, and copays on their Part D coverage. The income and resource limits are adjusted annually, so even if you checked a few years ago and didn't qualify, it's worth checking again. You can apply through Social Security at ssa.gov/extrahelp. Your State Medicaid office can also help if you may qualify for both Medicare and Medicaid."
 author: "Robert Williams"
 author_slug: "robert-williams"
@@ -29,7 +29,7 @@ October 15 rolls around, and suddenly your mailbox fills with Part D plan notice
 
 ## What's Actually Changing in 2026 (and Why It Matters)
 
-The Inflation Reduction Act, signed in 2022, keeps rolling out. The headline change for 2026: a hard [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drugs. Starting January 1, once you hit $2,000 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
+The Inflation Reduction Act, signed in 2022, keeps rolling out. The headline change for 2026: a hard [$2,100 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drugs. Starting January 1, once you hit $2,100 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
 
 This matters because before, there was no ceiling. Without the cap, people could spend $10,000, $15,000, or $20,000-plus annually on cost-sharing for cancer drugs or biologics. The cap flips that entirely.
 
@@ -41,25 +41,25 @@ One thing people miss: "out of pocket" has a narrow definition. It includes your
 
 | Phase | What Happens | Your Cost in 2026 |
 | --- | --- | --- |
-| Phase 1: Deductible | You pay full price for drugs | Up to $590 maximum |
-| Phase 2: Initial Coverage | You pay copays or coinsurance | Until out-of-pocket reaches $2,000 |
+| Phase 1: Deductible | You pay full price for drugs | Up to $615 maximum |
+| Phase 2: Initial Coverage | You pay copays or coinsurance | Until out-of-pocket reaches $2,100 |
 | Phase 3: Catastrophic Coverage | Plan pays 100% of remaining drugs | $0 for rest of calendar year |
 
 The old system had four phases. You probably remember the coverage gap, that infamous "donut hole" where you suddenly paid way more. It's gone as of 2025, replaced with a cleaner three-step structure that runs into 2026.
 
-**Phase 1: Deductible.** Standard maximum is $590 for 2026. Plans can go lower or waive it for certain drugs, but can't exceed $590. You pay full price until you hit it.
+**Phase 1: Deductible.** Standard maximum is $615 for 2026. Plans can go lower or waive it for certain drugs, but can't exceed $615. You pay full price until you hit it.
 
-**Phase 2: Initial Coverage.** After your deductible, you pay copays or coinsurance until your out-of-pocket total reaches $2,000.
+**Phase 2: Initial Coverage.** After your deductible, you pay copays or coinsurance until your out-of-pocket total reaches $2,100.
 
-**Phase 3: Catastrophic Coverage.** Hit $2,000? You pay nothing for covered drugs the rest of the year. Full stop.
+**Phase 3: Catastrophic Coverage.** Hit $2,100? You pay nothing for covered drugs the rest of the year. Full stop.
 
-The coverage gap is replaced by a manufacturer discount program that runs in the background and counts toward your $2,000 cap. If you take expensive specialty drugs, this $2,000 cap probably changes your financial picture significantly.
+The coverage gap is replaced by a manufacturer discount program that runs in the background and counts toward your $2,100 cap. If you take expensive specialty drugs, this $2,100 cap probably changes your financial picture significantly.
 
 ## Premium Costs and What to Expect From Your Plan in 2026
 
 Part D premiums vary wildly depending on where you live, which plan you pick, and what drugs you take. There's no one number I can give you because there's no one answer.
 
-Watch for income-related surcharges, though. If your 2024 income (used to calculate 2026 premiums) exceeds $106,000 as an individual or $212,000 as a married couple filing jointly, you'll pay extra on top of your base premium. CMS updates these brackets annually, so confirm the 2026 numbers on Medicare.gov once they publish.
+Watch for income-related surcharges, though. If your 2024 income (used to calculate 2026 premiums) exceeds $109,000 as an individual or $218,000 as a married couple filing jointly, you'll pay extra on top of your base premium. CMS updates these brackets annually, so confirm the 2026 numbers on Medicare.gov once they publish.
 
 Your plan's premium can stay flat while your actual costs jump because formularies change every year. A drug at Tier 2 in 2025 can move to Tier 4 in 2026, and your copay goes up even though the plan didn't technically raise rates.
 
@@ -87,9 +87,9 @@ If this feels overwhelming, your State Health Insurance Assistance Program offer
 
 ## What About Medicare Advantage Plans With Drug Coverage?
 
-MA-PD plans (Medicare Advantage with Part D coverage) also get the $2,000 out-of-pocket drug cap starting in 2026.
+MA-PD plans (Medicare Advantage with Part D coverage) also get the $2,100 out-of-pocket drug cap starting in 2026.
 
-Here's what trips people up: in Medicare Advantage, your drug out-of-pocket costs are tracked separately from your medical out-of-pocket costs. The $2,000 cap covers only drug spending, not doctor visits or hospital stays. Don't confuse the drug maximum with the plan's overall out-of-pocket maximum.
+Here's what trips people up: in Medicare Advantage, your drug out-of-pocket costs are tracked separately from your medical out-of-pocket costs. The $2,100 cap covers only drug spending, not doctor visits or hospital stays. Don't confuse the drug maximum with the plan's overall out-of-pocket maximum.
 
 Review your Evidence of Coverage document or use Plan Finder to compare your current MA-PD against other options. These plans have shifted noticeably in recent years.
 
@@ -106,7 +106,7 @@ This is worth repeating: the $2,000 cap genuinely changed the math in your favor
 ## Sources & References
 
 - [CMS, Medicare Part D Coverage](https://www.medicare.gov/drug-coverage-part-d), Official Part D info including 2026 cost changes
-- [CMS, Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare), Details on $2,000 cap, insulin limits, vaccine coverage
+- [CMS, Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare), Details on $2,100 cap, insulin limits, vaccine coverage
 
 ---
 

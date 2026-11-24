@@ -31,7 +31,7 @@ Let me be direct: Medicare itself is a federal program, the same basic structure
 
 ## Original Medicare: What You're Starting With
 
-Medicare has two core parts. Part A covers hospital stays, skilled nursing facility care, hospice, and some home health services. Most people don't pay a premium for Part A if they (or their spouse) worked and paid Medicare taxes for at least 10 years, which is 40 quarters. Part B covers doctor visits, outpatient care, preventive services, and medical equipment. In 2024, the standard Part B premium is $174.70 per month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount).
+Medicare has two core parts. Part A covers hospital stays, skilled nursing facility care, hospice, and some home health services. Most people don't pay a premium for Part A if they (or their spouse) worked and paid Medicare taxes for at least 10 years, which is 40 quarters. Part B covers doctor visits, outpatient care, preventive services, and medical equipment. In 2026, the standard Part B premium is $202.90 per month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount).
 
 These two parts together still leave significant gaps. There's no cap on out-of-pocket costs under Original Medicare alone. The Part A deductible in 2024 is $1,632 per hospital stay (not per year, per stay). Part B has a $240 annual deductible and then covers 80% of approved costs, leaving you responsible for the other 20% with no ceiling. For someone dealing with a serious illness, that 20% can spiral into tens of thousands of dollars fast.
 
@@ -54,7 +54,7 @@ The practical consequence is significant. If you've been on Medicare Advantage a
 
 Switching from an Advantage plan to a Medigap Plan G can significantly reduce total out-of-pocket costs for people in their late 70s with serious health conditions. That option is legally protected here. Take advantage of it.
 
-The most popular Medigap plans in New York right now are Plan G and Plan N. Plan G covers almost everything Original Medicare doesn't, except the Part B deductible ($240 in 2024). Plan N covers most of the same things but requires small copays for some office visits and doesn't cover Part B excess charges. Plan G tends to run roughly $150 to $300 per month in New York depending on the insurer and your borough or county, though prices vary enough that shopping around genuinely matters. Plan N runs lower, often in the $100 to $200 range.
+The most popular Medigap plans in New York right now are Plan G and Plan N. Plan G covers almost everything Original Medicare doesn't, except the Part B deductible ($283 in 2026). Plan N covers most of the same things but requires small copays for some office visits and doesn't cover Part B excess charges. Plan G tends to run roughly $150 to $300 per month in New York depending on the insurer and your borough or county, though prices vary enough that shopping around genuinely matters. Plan N runs lower, often in the $100 to $200 range.
 
 One thing worth knowing: New York also still offers Plan C and Plan F to people who became eligible for Medicare before January 1, 2020. These plans cover the Part B deductible too, making them the most comprehensive available, but they're no longer sold to new Medicare enrollees. If you were already enrolled before 2020, you can still buy one. Ask specifically about this if you enrolled before that cutoff.
 

@@ -38,7 +38,7 @@ Part B is the piece of Medicare that covers DME, not Part A. I made this mistake
 
 ## The Cost Structure (and Where It Gets Expensive)
 
-Here's the honest picture on what you'll pay. Once your Part B deductible is met ($257 in 2026, per the Centers for Medicare & Medicaid Services), Medicare generally pays 80% of the approved amount for covered DME. You're responsible for the remaining 20%, and that 20% has no cap under Original Medicare. On a $6,000 power wheelchair, 20% is $1,200 out of pocket, just like that.
+Here's the honest picture on what you'll pay. Once your Part B deductible is met ($283 in 2026, per the Centers for Medicare & Medicaid Services), Medicare generally pays 80% of the approved amount for covered DME. You're responsible for the remaining 20%, and that 20% has no cap under Original Medicare. On a $6,000 power wheelchair, 20% is $1,200 out of pocket, just like that.
 
 | Equipment Type | Typical Medicare-Approved Amount | Your 20% Share (Approximate) | Notes |
 |---|---|---|---|

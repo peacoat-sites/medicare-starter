@@ -43,7 +43,7 @@ So what does Plan N cover? Here's the core package:
 - **Foreign travel emergency care** (at 80%, after a small deductible)
 - **The first three pints of blood**
 
-What Plan N doesn't cover is just as important. It does not pay the Part B deductible, which in 2024 is $240 per year. It does not cover Part B excess charges. And it does not cover prescription drugs. You'll need a separate Part D plan for medications.
+What Plan N doesn't cover is just as important. It does not pay the Part B deductible, which in 2026 is $283 per year. It does not cover Part B excess charges. And it does not cover prescription drugs. You'll need a separate Part D plan for medications.
 
 ## How Plan N Compares to Plans G and F
 

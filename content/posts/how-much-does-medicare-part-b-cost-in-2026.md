@@ -10,7 +10,7 @@ slug: "how-much-does-medicare-part-b-cost-in"
 affiliate_disclosure: true
 faqs:
  - q: "Is the $185 Part B premium going up in 2027?"
-   a: "Nobody knows yet. CMS announces the following year's premium in the fall, typically October or November. The 2027 premium will be set by fall 2026. What we do know is that Part B premiums have generally increased over time, tied to Medicare spending growth. Holding flat two years in a row (2025 and 2026 both at $185) is actually unusual."
+   a: "Nobody knows yet. CMS announces the following year's premium in the fall, typically October or November. The 2027 premium will be set by fall 2026. What we do know is that Part B premiums have generally increased over time, tied to Medicare spending growth. The premium rose from $185.00 in 2025 to $202.90 in 2026, continuing the historical pattern of year-over-year increases."
  - q: "Can my Part B premium change mid-year?"
    a: "In most cases, no. Your premium is set at the start of the year and stays fixed through December. The exception: if your income changes significantly and you file an IRMAA appeal (SSA Form SSA-44) due to a qualifying life-changing event like retirement, divorce, or the death of a spouse, SSA can adjust your premium during the year."
  - q: "Do I have to pay Part B if I have coverage through my spouse's employer?"
@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 Most people think their Medicare Part B premium is one fixed number. It's not, and that misconception costs some beneficiaries real money every single year.
 
-The standard 2026 Part B premium is **$185.00 per month**. That's what CMS confirmed, and it's what most Medicare people actually pay. But depending on your income, you could be paying anywhere from $185.00 to $628.90 a month for identical coverage. Same benefits. Completely different price tag.
+The standard 2026 Part B premium is **$202.90 per month**. That's what CMS confirmed, and it's what most Medicare people actually pay. But depending on your income, you could be paying anywhere from $202.90 to $628.90 a month for identical coverage. Same benefits. Completely different price tag.
 
 Here's what I'm going to do: walk you through what Part B actually costs in 2026, explain the income-based surcharges clearly (they're called IRMAA, and they confuse people constantly), and tell you a few things most Medicare guides skip over entirely.
 
@@ -37,7 +37,7 @@ Here's what I'm going to do: walk you through what Part B actually costs in 2026
  <div class="vm-head">IRMAA Brackets: Your 2026 Monthly Cost</div>
  <div class="vm-body">
  <p class="vm-intro">Your actual Part B premium depends on your modified adjusted gross income (MAGI) from two years prior, so 2024 income determines your 2026 premium.</p>
- <table><caption>2026 Part B Monthly Premiums by Income (IRMAA Brackets)</caption><thead><tr><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Monthly Premium</th><th scope="col">Annual Cost</th></tr></thead><tbody><tr><td>$106,000 or less</td><td>$212,000 or less</td><td>$185.00</td><td>$2,220</td></tr><tr><td>$106,001-$133,000</td><td>$212,001-$266,000</td><td>$259.00</td><td>$3,108</td></tr><tr><td>$133,001-$167,000</td><td>$266,001-$334,000</td><td>$369.90</td><td>$4,439</td></tr><tr><td>$167,001-$200,000</td><td>$334,001-$400,000</td><td>$480.80</td><td>$5,770</td></tr><tr><td>$200,001-$500,000</td><td>$400,001-$750,000</td><td>$591.70</td><td>$7,100</td></tr><tr><td>Above $500,000</td><td>Above $750,000</td><td>$628.90</td><td>$7,547</td></tr></tbody></table>
+ <table><caption>2026 Part B Monthly Premiums by Income (IRMAA Brackets)</caption><thead><tr><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Monthly Premium</th><th scope="col">Annual Cost</th></tr></thead><tbody><tr><td>$109,000 or less</td><td>$218,000 or less</td><td>$202.90</td><td>$2,434.80</td></tr><tr><td>$109,001-$137,000</td><td>$218,001-$274,000</td><td>$284.10</td><td>$3,409.20</td></tr><tr><td>$137,001-$171,000</td><td>$274,001-$342,000</td><td>$405.80</td><td>$4,869.60</td></tr><tr><td>$171,001-$205,000</td><td>$342,001-$410,000</td><td>$527.50</td><td>$6,330</td></tr><tr><td>$205,001-$499,999</td><td>$410,001-$749,999</td><td>$649.20</td><td>$7,790.40</td></tr><tr><td>$500,000 or more</td><td>$750,000 or more</td><td>$689.90</td><td>$8,278.80</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -46,9 +46,9 @@ Here's what I'm going to do: walk you through what Part B actually costs in 2026
 
 Start with the basics. They matter.
 
-In 2026, the standard monthly Part B premium is **$185.00**. Up from $174.70 in 2024, and flat from 2025. CMS held it steady this year. That's actually good news, Part B premiums have been climbing steadily for a decade.
+In 2026, the standard monthly Part B premium is **$202.90**. Up from $185.00 in 2025, and up from $174.70 in 2024. That's actually good news relative to some prior years, though Part B premiums have been climbing steadily for a decade.
 
-The **annual deductible for Part B in 2026 is $257**. You pay that yourself before Medicare starts covering outpatient services. After you meet it, Medicare covers 80% of approved costs, and you're on the hook for the remaining 20%. There's no cap on that coinsurance unless you have a Medigap policy or a Medicare Advantage plan attached.
+The **annual deductible for Part B in 2026 is $283**. You pay that yourself before Medicare starts covering outpatient services. After you meet it, Medicare covers 80% of approved costs, and you're on the hook for the remaining 20%. There's no cap on that coinsurance unless you have a Medigap policy or a Medicare Advantage plan attached.
 
 Part B covers two big categories: medically necessary services (doctor visits, outpatient procedures, labs, medical equipment) and preventive services (annual wellness visits, certain screenings, flu shots). The 20% coinsurance applies to medically necessary care; preventive stuff is usually covered at 100% with zero cost-sharing.
 
@@ -58,7 +58,7 @@ One thing that blindsides people: if you see a provider who doesn't accept Medic
 
 ## IRMAA: The Income-Based Surcharge Nobody Warned You About
 
-IRMAA stands for Income-Related Monthly Adjustment Amount. It's extra premium you pay on top of the standard $185.00 if your income is high enough. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) calculates it every year based on your income from two years back. Your 2026 premium? That's based on your 2024 tax return.
+IRMAA stands for Income-Related Monthly Adjustment Amount. It's extra premium you pay on top of the standard $202.90 if your income is high enough. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) calculates it every year based on your income from two years back. Your 2026 premium? That's based on your 2024 tax return.
 
 That two-year lag is what gets people. You retire in 2025, your income drops off a cliff, but you're still paying a 2026 surcharge calculated from your 2024 working income. There's actually a way to fix this, it's called a Life-Changing Event appeal, filed on SSA Form SSA-44, but you have to know to ask for it.
 
@@ -66,14 +66,14 @@ Here are the 2026 IRMAA brackets, based on your 2024 modified adjusted gross inc
 
 **Single filers:**
 
-- Up to $106,000: $185.00/month (standard)
-- $106,001 to $133,000: $259.00/month
-- $133,001 to $167,000: $370.00/month
-- $167,001 to $200,000: $481.00/month
-- $200,001 to $500,000: $591.90/month
-- Above $500,000: $628.90/month
+- Up to $109,000: $202.90/month (standard)
+- $109,001 to $137,000: $284.10/month
+- $137,001 to $171,000: $405.80/month
+- $171,001 to $205,000: $527.50/month
+- $205,001 to $499,999: $649.20/month
+- Above $499,999: $689.90/month
 
-**Married couples filing jointly have income thresholds roughly double** ($212,000, $266,000, etc.). Married filing separately gets the short end of the stick, surcharges kick in at much lower income levels.
+**Married couples filing jointly have income thresholds roughly double** ($218,000, $274,000, etc.). Married filing separately gets the short end of the stick, surcharges kick in at much lower income levels.
 
 These brackets adjust annually for inflation, but only slightly. If your income is sitting just above a cutoff, run the numbers. Staying $3,000 below a bracket threshold could save you $74 a month, or $888 per year, in Part B premiums alone. That's before you add in the identical IRMAA surcharge on Part D (drug coverage), which stacks on top.
 
@@ -93,7 +93,7 @@ Railroad Retirement Board beneficiaries have premiums deducted from their RRB pa
 
 A few scenarios change your premium outside of IRMAA.
 
-**Late enrollment penalty.** If you didn't sign up for Part B when you were first eligible and didn't qualify for a Special Enrollment Period, you'll pay a 10% penalty for every 12-month period you skipped coverage. These penalties are permanent. Miss two years? You pay 20% more forever. The $185.00 becomes $222.00, before any IRMAA hit on top.
+**Late enrollment penalty.** If you didn't sign up for Part B when you were first eligible and didn't qualify for a Special Enrollment Period, you'll pay a 10% penalty for every 12-month period you skipped coverage. These penalties are permanent. Miss two years? You pay 20% more forever. The $202.90 becomes $243.48, before any IRMAA hit on top.
 
 **Low-income help.** If your income and assets are tight, Medicare Savings Programs (MSPs) can cover your Part B premium entirely. There are four MSP levels, and the most common one, the Qualified Medicare Beneficiary (QMB) program, pays your Part B premium, deductible, and coinsurance. In 2026, QMB income limits are around $1,325/month for individuals (exact limits vary by state). The [AARP Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has clear guidance on MSP eligibility. These programs are massively under-enrolled. If you might qualify, apply.
 
@@ -103,7 +103,7 @@ A few scenarios change your premium outside of IRMAA.
 
 ## What the Premium Gets You, Practically Speaking
 
-$185.00 a month is $2,220 a year for coverage that includes all outpatient care: primary care, specialists, lab work, imaging, surgical procedures in outpatient settings, most medical equipment, chemotherapy (in some settings), and a bunch of preventive screenings.
+$202.90 a month is $2,434.80 a year for coverage that includes all outpatient care: primary care, specialists, lab work, imaging, surgical procedures in outpatient settings, most medical equipment, chemotherapy (in some settings), and a bunch of preventive screenings.
 
 The real financial risk is that 20% coinsurance with no ceiling. A $50,000 outpatient procedure leaves you with a $10,000 bill. Most people layer Part B with either a Medigap policy or a Medicare Advantage plan to cap that exposure.
 
@@ -111,7 +111,7 @@ Medigap Plan G is the most comprehensive option available to new enrollees in 20
 
 ---
 
-The $185.00 standard premium is a starting point, not your final number. Your income, enrollment timing, state, and other coverage all shift that. Look up your specific situation before you assume the standard applies. If IRMAA's going to hit you next year, plan around those brackets now instead of getting surprised later. A free call to your State Health Insurance Assistance Program (SHIP) is worth an hour of your time.
+The $202.90 standard premium is a starting point, not your final number. Your income, enrollment timing, state, and other coverage all shift that. Look up your specific situation before you assume the standard applies. If IRMAA's going to hit you next year, plan around those brackets now instead of getting surprised later. A free call to your State Health Insurance Assistance Program (SHIP) is worth an hour of your time.
 
 ---
 

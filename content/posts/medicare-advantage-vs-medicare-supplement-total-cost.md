@@ -35,9 +35,9 @@ Let me walk you through what I actually found when I dug into this comparison re
 | Scenario | Medicare Advantage | Medigap Plan G |
 | --- | --- | --- |
 | Monthly Premium | Often $0 | $100-$200 (varies by state/insurer) |
-| Part B Premium | Included | $185/month (separate) |
+| Part B Premium | Included | $202.90/month (separate) |
 | Annual Premium Cost | $0 | $1,200-$2,400 |
-| Deductible (2026) | Varies by plan | $257 (Part B only) |
+| Deductible (2026) | Varies by plan | $283 (Part B only) |
 | Out-of-Pocket Maximum (2026) | Up to $9,350 (in-network) | Essentially $0 after deductible |
 | Copay Per Specialist Visit | Yes (varies) | $0 (after deductible) |
 | Hospital Coinsurance | 20% typical | $0 (after deductible) |
@@ -48,9 +48,9 @@ Let me walk you through what I actually found when I dug into this comparison re
 
 Medicare Advantage (MA) plans, sometimes called Medicare Part C, bundle your hospital coverage (Part A), medical coverage (Part B), and usually prescription drugs into a single plan run by a private insurer. Medicare Supplement plans, also called Medigap, work alongside Original Medicare and pay costs that Medicare doesn't cover, things like deductibles, copays, and coinsurance. They're completely different structures, which makes comparing them tricky.
 
-Right now, in 2026, many Medicare Advantage plans carry a $0 monthly premium, and some include dental, vision, and hearing benefits that Medigap doesn't touch. That's genuinely appealing. Meanwhile, a Medigap Plan G for a 65-year-old woman in a mid-sized city might run anywhere from $100 to $200 a month depending on the insurer and the state. Add the Part B premium (currently $185 a month for most people) and you're looking at a real monthly outlay that a $0 MA plan doesn't seem to require.
+Right now, in 2026, many Medicare Advantage plans carry a $0 monthly premium, and some include dental, vision, and hearing benefits that Medigap doesn't touch. That's genuinely appealing. Meanwhile, a Medigap Plan G for a 65-year-old woman in a mid-sized city might run anywhere from $100 to $200 a month depending on the insurer and the state. Add the Part B premium (currently $202.90 a month for most people) and you're looking at a real monthly outlay that a $0 MA plan doesn't seem to require.
 
-But here's where the comparison gets complicated. Medicare Advantage plans have cost-sharing built in. That means copays every time you see a specialist, coinsurance when you're admitted to a hospital, and an [out-of-pocket maximum](/how-to-compare-medicare-plans-cost/) that can legally be as high as $9,350 for in-network services in 2026 (and higher still if you go out of network). Medigap Plan G, on the other hand, covers almost everything after the Part B deductible ($257 in 2026), meaning your exposure beyond that deductible is essentially zero once you've paid your monthly premiums.
+But here's where the comparison gets complicated. Medicare Advantage plans have cost-sharing built in. That means copays every time you see a specialist, coinsurance when you're admitted to a hospital, and an [out-of-pocket maximum](/how-to-compare-medicare-plans-cost/) that can legally be as high as $9,350 for in-network services in 2026 (and higher still if you go out of network). Medigap Plan G, on the other hand, covers almost everything after the Part B deductible ($283 in 2026), meaning your exposure beyond that deductible is essentially zero once you've paid your monthly premiums.
 
 So the real question isn't "which plan has the lower premium?" It's "what do I expect to spend in total this year, and what's the worst-case scenario I can afford to absorb?"
 
@@ -86,7 +86,7 @@ Start with your own health history. Look at what you actually spent out-of-pocke
 
 Then, for any MA plan you're considering, map your actual usage onto that plan's cost-sharing schedule. If you saw your cardiologist six times last year and the plan charges a $45 specialist copay, that's $270 right there before anything else. Add hospitalizations, labs, imaging. Then add the drug plan costs for your specific medications using the plan's formulary, which you can look up on Medicare.gov's plan finder tool.
 
-For Medigap, the math is simpler: annual premiums plus the Part B deductible (currently $257) is almost always your entire exposure for covered services. Add your standalone Part D premium and drug costs.
+For Medigap, the math is simpler: annual premiums plus the Part B deductible (currently $283) is almost always your entire exposure for covered services. Add your standalone Part D premium and drug costs.
 
 Compare your expected typical-year total and your realistic worst-case total for both options. That's the comparison that matters.
 

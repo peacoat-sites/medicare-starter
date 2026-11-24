@@ -70,7 +70,7 @@ Here's my honest opinion: this isn't a decision to make based on a generic check
 
 First, your employer's size. Twenty employees is the dividing line. Know which side you're on.
 
-Second, the quality of your employer coverage. If your group plan has a $6,000 deductible and mediocre network, Part B at $185 a month (the standard 2026 premium) might actually be worth adding as a secondary payer to reduce your out-of-pocket costs. Run an actual cost comparison before assuming your employer plan is the better deal just because it's free.
+Second, the quality of your employer coverage. If your group plan has a $6,000 deductible and mediocre network, Part B at $202.90 a month (the standard 2026 premium) might actually be worth adding as a secondary payer to reduce your out-of-pocket costs. Run an actual cost comparison before assuming your employer plan is the better deal just because it's free.
 
 Third, whether you have an HSA and how much it matters to you. The tax savings on HSA contributions can be substantial, especially if you're in a high tax bracket. That's worth delaying Medicare enrollment over in some cases.
 

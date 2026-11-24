@@ -16,7 +16,7 @@ faqs:
  - q: "I retired this year and my income is much lower than it was in 2024. Do I still have to pay IRMAA based on my old income?"
    a: "Possibly, but you can appeal. If you've had a qualifying life event (like retirement) that caused a significant income reduction, file Form SSA-44 with the Social Security Administration to request that CMS use a more recent year's income instead of your 2024 return."
  - q: "Is the Part B premium the same for everyone on Medicare?"
-   a: "No. Most people pay the standard premium ($185/month in 2025), but higher-income beneficiaries pay more through IRMAA surcharges. People enrolled in certain Medicare Savings Programs may have their premium paid on their behalf by the state."
+   a: "No. Most people pay the standard premium ($202.90/month in 2026), but higher-income beneficiaries pay more through IRMAA surcharges. People enrolled in certain Medicare Savings Programs may have their premium paid on their behalf by the state."
  - q: "Can I drop Part B to save money on the premium?"
    a: "You can, but be very careful. If you drop Part B and later want to re-enroll, you'll face a late enrollment penalty of 10% for every 12-month period you were eligible but not enrolled. That penalty lasts for as long as you have Part B. The only exception is if you had creditable coverage through an employer or spouse's employer during that time. For most people without that coverage, dropping Part B is a costly mistake that compounds over time."
 author: "Susan Park"
@@ -33,7 +33,7 @@ What I can actually help with: how the premium gets calculated, why it keeps cli
 
 Part B covers outpatient care: doctor visits, lab work, preventive screenings, durable medical equipment, and most things that don't require an overnight hospital stay. You pay a monthly premium for this coverage, set each fall by CMS for the following year.
 
-The standard premium in 2025 is $185.00 per month. In 2024 it was $174.70. In 2023, $164.90. You see where this is going.
+The standard premium in 2026 is $202.90 per month. In 2025 it was $185.00. In 2024, $174.70. You see where this is going.
 
 By law, roughly 25% of Part B program costs are supposed to be covered by beneficiary premiums. General federal revenue covers the other 75%. So when healthcare spending goes up, your premium goes up with it. The specific culprits tend to be prescription drug costs, expensive new treatments Medicare approves, and overall utilization of outpatient services. When CMS announced the 2025 increase, they pointed specifically to projected spending on Part B drugs, which includes some pricey cancer therapies, as a contributing factor.
 
@@ -58,12 +58,12 @@ CMS looks at your income from two years prior. For 2026 premiums, they're using 
 
 Here's what the 2025 IRMAA thresholds look like for individuals filing single (2026 will be similar, adjusted slightly for inflation):
 
-- $106,000 or less: standard premium only
-- $106,001 to $133,000: approximately $74 extra per month
-- $133,001 to $167,000: approximately $187 extra per month
-- $167,001 to $200,000: approximately $300 extra per month
-- $200,001 to $500,000: approximately $374 extra per month
-- Above $500,000: approximately $443 extra per month
+- $109,000 or less: standard premium only
+- $109,001 to $137,000: approximately $81 extra per month
+- $137,001 to $171,000: approximately $203 extra per month
+- $171,001 to $205,000: approximately $325 extra per month
+- $205,001 to $499,999: approximately $446 extra per month
+- $500,000 or more: approximately $487 extra per month
 
 For married couples filing jointly, the thresholds roughly double. These surcharges apply to Part D (prescription drug coverage) as well, but that's calculated separately.
 
@@ -77,7 +77,7 @@ The appeal process can work to get an IRMAA surcharge reduced or eliminated enti
 
 ## What People on Fixed Incomes Actually Do
 
-The standard Part B premium can genuinely be a hardship for people living primarily on Social Security. $185 a month sounds manageable until you do the math on what Social Security actually pays a lot of retirees. The average Social Security retirement benefit in early 2025 was around $1,976 per month. Part B alone eats nearly 10% of that, before you count any supplemental coverage or Part D.
+The standard Part B premium can genuinely be a hardship for people living primarily on Social Security. $202.90 a month sounds manageable until you do the math on what Social Security actually pays a lot of retirees. The average Social Security retirement benefit in early 2025 was around $1,976 per month. Part B alone eats nearly 10% of that, before you count any supplemental coverage or Part D.
 
 Real programs exist to help with this, and they're significantly underused.
 

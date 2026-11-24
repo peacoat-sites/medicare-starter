@@ -53,7 +53,7 @@ When people say "signing up for Medicare," they usually mean enrolling in Origin
 
 Part A covers hospital stays, skilled nursing facility care, hospice, and some home health care. Most people don't pay a premium for Part A if they or their spouse worked and paid Medicare taxes for at least 10 years (40 quarters). Because it's usually free, enrolling in Part A is almost always a yes.
 
-Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. Part B has a standard monthly premium set each year by the federal government. For 2024, that's $174.70 per month, though higher earners pay more through something called IRMAA (Income-Related Monthly Adjustment Amount).
+Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. Part B has a standard monthly premium set each year by the federal government. For 2026, that's $202.90 per month, though higher earners pay more through something called IRMAA (Income-Related Monthly Adjustment Amount).
 
 Unlike Part A, Part B isn't automatic and it's not free. Some people hesitate because of the cost. And there are legitimate situations where you might delay Part B without penalty, I'll get to that in a minute. But for most people turning 65, the answer is to enroll in both parts during your IEP and not overthink it.
 

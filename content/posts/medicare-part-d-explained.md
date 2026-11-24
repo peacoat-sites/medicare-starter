@@ -39,17 +39,17 @@ Original Medicare (Parts A and B) covers plenty, but prescription pills were nev
 
 | Coverage Phase | Key Details | Your Cost |
 | --- | --- | --- |
-| Deductible Phase | You pay full negotiated cost until annual deductible is met | Up to $545 (2024) |
+| Deductible Phase | You pay full negotiated cost until annual deductible is met | Up to $615 (2026) |
 | Initial Coverage Phase | You and plan split costs via copays or coinsurance based on drug tier | Copay/coinsurance per prescription |
-| Catastrophic Coverage | Plan pays most costs after you reach out-of-pocket spending cap | $0 for remainder of year (after $8,000 spent in 2024; $2,000 in 2025) |
+| Catastrophic Coverage | Plan pays most costs after you reach out-of-pocket spending cap | $0 for remainder of year (after $2,100 spent in 2026) |
 
 Part D isn't a simple flat copay system. It moves through distinct phases, and knowing where you are in the cycle directly affects how much you pay.
 
-**The Deductible Phase.** Most plans have an annual deductible. In 2024, the maximum Medicare allows is $545. Some plans set theirs lower, and preferred generics often skip it entirely. You pay the full negotiated cost until you hit that deductible.
+**The Deductible Phase.** Most plans have an annual deductible. In 2026, the maximum Medicare allows is $615. Some plans set theirs lower, and preferred generics often skip it entirely. You pay the full negotiated cost until you hit that deductible.
 
 **The Initial Coverage Phase.** Once you've met your deductible, you and your plan split costs. You'll pay copays or coinsurance per prescription depending on which "tier" your drug sits on. Generic drugs typically land on lower tiers. Brand names, specialty drugs, and non-preferred options sit higher, where you pay more.
 
-**Catastrophic Coverage.** This is the genuinely good news, and it got way better in 2024. Congress passed the Inflation Reduction Act, which eliminated the old "donut hole" and capped what you pay out of pocket annually. In 2024, once you've spent $8,000 in total out-of-pocket costs on covered drugs, you pay nothing for the rest of the year. The cap drops to $2,000 in 2025. That's massive protection if you're on expensive medications.
+**Catastrophic Coverage.** This is the genuinely good news, and it got way better in 2024. Congress passed the Inflation Reduction Act, which eliminated the old "donut hole" and capped what you pay out of pocket annually. In 2024, once you've spent $8,000 in total out-of-pocket costs on covered drugs, you pay nothing for the rest of the year. The cap started at $2,000 in 2025 and is $2,100 in 2026. That's massive protection if you're on expensive medications.
 
 ## Enrollment Rules and That Late Penalty Nobody Wants
 

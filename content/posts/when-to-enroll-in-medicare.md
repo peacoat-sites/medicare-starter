@@ -60,7 +60,7 @@ One thing I'd push back on: a lot of seniors assume bigger employers always mean
 
 [Part B late enrollment penalty](/medicare-part-b-late-enrollment-penalty/): 10% added to your monthly premium for every 12-month period you were eligible but didn't sign up. And unlike most financial penalties, this one doesn't expire. It rides with you for as long as you have Part B.
 
-Currently, the standard Part B premium is in the range of $185 a month for most people. A two-year delay without a qualifying excuse adds 20% to that permanently. That's real money compounding over a 20-year retirement.
+Currently, the standard Part B premium is in the range of $202.90 a month for most people. A two-year delay without a qualifying excuse adds 20% to that permanently. That's real money compounding over a 20-year retirement.
 
 Part D (prescription drug coverage) has its own penalty: 1% of the national base beneficiary premium for every month you went without creditable drug coverage. It's smaller in dollar terms but equally permanent. If you don't have drug coverage from an employer plan, a VA benefit, or another qualifying source, get a Part D plan when you first enroll, even if you take no prescriptions. A bare-bones plan can cost under $15 a month. The penalty for skipping it entirely will eventually cost more.
 

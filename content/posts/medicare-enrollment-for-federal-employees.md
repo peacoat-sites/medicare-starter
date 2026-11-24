@@ -38,7 +38,7 @@ The enrollment rules for federal employees are genuinely different from the gene
 
 Let's start with Part A, the hospital insurance piece. Most federal employees qualify for premium-free Part A because they've paid Medicare taxes throughout their careers. If you have at least 40 quarters of Medicare-covered employment, which works out to 10 years, you pay $0 per month for Part A. As of 2026, the standard Part A premium for those who don't qualify for premium-free coverage is $505 per month, so this is not a trivial number. Federal employees hired before 1983 are a special case, since [Social Security](/medicare-and-social-security/) and Medicare taxes weren't always deducted from federal paychecks before that date. If you started federal work before January 1, 1983, and haven't accumulated 40 quarters through other jobs, you may not qualify for premium-free Part A. Worth checking.
 
-Part B, the outpatient coverage, is where most of the real decisions happen. The standard Part B premium in 2026 is $185 per month, though higher-income individuals pay more under IRMAA (Income-Related Monthly Adjustment Amount) surcharges.
+Part B, the outpatient coverage, is where most of the real decisions happen. The standard Part B premium in 2026 is $202.90 per month, though higher-income individuals pay more under IRMAA (Income-Related Monthly Adjustment Amount) surcharges.
 
 While you're still actively working for the federal government, you can delay Part B enrollment without any penalty. Your FEHB coverage counts as creditable coverage, meaning Medicare recognizes it as equivalent. This is the same protection that applies to anyone covered by a large employer group plan. What I see go wrong is when someone retires and doesn't realize their protection changes.
 

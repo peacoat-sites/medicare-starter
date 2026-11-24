@@ -82,9 +82,9 @@ Medicare's Plan Finder tool at Medicare.gov lets you enter your Extra Help statu
 
 Extra Help and the Medicare Savings Programs (MSPs) are closely connected, and people often apply for one without knowing about the other.
 
-MSPs are state-run programs that cover Medicare's own costs: Part B premiums ($185 per month in 2026 for most people), deductibles, and sometimes copays. There are four MSP levels. Qualified Medicare Beneficiary (QMB) is the most comprehensive. If you qualify for an MSP, you automatically get full Extra Help too.
+MSPs are state-run programs that cover Medicare's own costs: Part B premiums ($202.90 per month in 2026 for most people), deductibles, and sometimes copays. There are four MSP levels. Qualified Medicare Beneficiary (QMB) is the most comprehensive. If you qualify for an MSP, you automatically get full Extra Help too.
 
-Apply for both at once through your state Medicaid office. Many states simplified the process so you only need one form. Given that the Part B premium alone is $185 a month, qualifying for QMB is worth thousands of dollars a year.
+Apply for both at once through your state Medicaid office. Many states simplified the process so you only need one form. Given that the Part B premium alone is $202.90 a month, qualifying for QMB is worth thousands of dollars a year.
 
 ---
 

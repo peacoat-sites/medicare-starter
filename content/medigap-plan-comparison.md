@@ -30,7 +30,7 @@ Use the comparison table below to see which gaps each plan covers.
 
 ## Choosing the Right Plan
 
-**Plan G** is the most comprehensive plan available to new Medicare enrollees (those eligible after January 1, 2020). It covers everything Plan F covered except the Part B deductible ($240 in 2024). Because premiums for Plan G are often significantly lower than Plan F was, many beneficiaries come out ahead with G.
+**Plan G** is the most comprehensive plan available to new Medicare enrollees (those eligible after January 1, 2020). It covers everything Plan F covered except the Part B deductible ($283 in 2026). Because premiums for Plan G are often significantly lower than Plan F was, many beneficiaries come out ahead with G.
 
 **Plan N** offers slightly lower premiums than Plan G in exchange for copays of up to $20 for doctor visits and up to $50 for emergency room visits. It also does not cover Part B excess charges, so if you see providers who do not accept Medicare assignment, Plan G is safer.
 

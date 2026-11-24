@@ -69,7 +69,7 @@ But read the fine print. Dental coverage on many plans has low annual limits, an
 
 | Aspect | Medicare Advantage | Original Medicare |
 | --- | --- | --- |
-| Monthly Part B Premium | $185 (2025 standard) | $185 (2025 standard) |
+| Monthly Part B Premium | $202.90 (2026 standard) | $202.90 (2026 standard) |
 | Plan Premium | Often $0, sometimes additional | N/A |
 | Out-of-Pocket Maximum | Capped at $9,350 in-network/$14,000 combined (2025 federal max) | No annual cap |
 | Dental Coverage | Often included | Minimal/not covered |
@@ -80,7 +80,7 @@ But read the fine print. Dental coverage on many plans has low annual limits, an
 
 This is where people get lost, so let's be direct.
 
-You pay your monthly Medicare Part B premium no matter which plan you choose. In 2025, the standard Part B premium is $185 per month, though higher earners pay more through IRMAA (Income-Related Monthly Adjustment Amount).
+You pay your monthly Medicare Part B premium no matter which plan you choose. In 2026, the standard Part B premium is $202.90 per month, though higher earners pay more through IRMAA (Income-Related Monthly Adjustment Amount).
 
 Your Medicare Advantage plan itself may charge an additional monthly premium, or it may charge $0. Some plans genuinely have no premium beyond Part B. Medicare pays the insurer for each enrollee, which is how they offer low or no-premium options.
 

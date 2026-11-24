@@ -14,9 +14,9 @@ slug: "average-medicare-costs-per-month"
 affiliate_disclosure: true
 faqs:
  - q: "Is Medicare free when you turn 65?"
-   a: "Not exactly. Part A is premium-free for most people with sufficient work history, but Part B has a standard premium of around $185 per month currently, and most people pay it. There's also cost-sharing for services even once you're enrolled."
+   a: "Not exactly. Part A is premium-free for most people with sufficient work history, but Part B has a standard premium of around $202.90 per month currently, and most people pay it. There's also cost-sharing for services even once you're enrolled."
  - q: "What is the income limit before Medicare premiums go up?"
-   a: "The IRMAA surcharge for Part B kicks in once your income (as an individual) exceeds roughly $106,000, based on your tax return from two years prior. Above that threshold, your Part B premium increases in steps, up to over $590 per month at the highest income tier."
+   a: "The IRMAA surcharge for Part B kicks in once your income (as an individual) exceeds roughly $109,000, based on your tax return from two years prior. Above that threshold, your Part B premium increases in steps, up to over $590 per month at the highest income tier."
  - q: "Can I get help paying my Medicare premiums?"
    a: "Yes. Medicare Savings Programs (MSPs) are state-run programs that help people with limited income and assets pay Part A and/or Part B premiums, deductibles, and coinsurance. Call your state Medicaid office or 1-800-MEDICARE to find out if you qualify."
  - q: "Do I need Medigap if I have Medicare Advantage?"
@@ -42,20 +42,20 @@ But "free premium" doesn't mean free. Part A has a per-benefit-period deductible
 
 | Medicare Part | Premium | Deductible | Cost-Sharing | Best For |
 | --- | --- | --- | --- | --- |
-| Part A (Hospital) | $0-$505/month* | Per benefit period | Coinsurance after deductible | Inpatient hospital, skilled nursing, hospice |
-| Part B (Medical) | ~$185/month (base) | ~$257/year | 20% coinsurance (uncapped) | Doctor visits, outpatient care, preventive services |
-| Part D (Drugs) | $40-$55/month avg | Varies by plan | Up to $2,000/year cap (2025+) | Prescription medications |
+| Part A (Hospital) | $0-$565/month* | Per benefit period | Coinsurance after deductible | Inpatient hospital, skilled nursing, hospice |
+| Part B (Medical) | ~$202.90/month (base) | ~$283/year | 20% coinsurance (uncapped) | Doctor visits, outpatient care, preventive services |
+| Part D (Drugs) | $40-$55/month avg | Varies by plan | Up to $2,100/year cap | Prescription medications |
 | Medicare Advantage | $0-varies | Typically lower | Copays/coinsurance per plan | Healthy seniors, network users |
 
 *Depends on work history; most pay $0.
 
 Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. This is where your monthly cash actually leaves your wallet.
 
-The standard Part B premium is currently around $185 a month per person. That's the number to work with if your income is at or below $106,000 as an individual (or $212,000 if you're married filing jointly). If you earn more than that, you'll pay more. A lot more, actually.
+The standard Part B premium is currently around $202.90 a month per person. That's the number to work with if your income is at or below $109,000 as an individual (or $218,000 if you're married filing jointly). If you earn more than that, you'll pay more. A lot more, actually.
 
 This is where [IRMAA comes in](/irmaa-medicare-surcharge-2026/). IRMAA stands for Income-Related Monthly Adjustment Amount, and it's a surcharge that the Social Security Administration (SSA) tacks onto your Part B premium based on your income from two years prior. So what you pay in 2026 is based on your 2024 tax return. At the highest income tier, Part B alone can cost over $590 a month per person. Many retirees are surprised to learn they're paying a surcharge based on income from when they were working full-time, even after their income has dropped significantly in retirement. You can appeal this using Form SSR-44 if you've had a qualifying life event like retirement, divorce, or death of a spouse.
 
-Part B also has an annual deductible (currently around $257), and after that you typically pay 20% of Medicare-approved costs. No cap on that 20%, by the way. That's where supplemental insurance comes in, which I'll get to.
+Part B also has an annual deductible (currently around $283), and after that you typically pay 20% of Medicare-approved costs. No cap on that 20%, by the way. That's where supplemental insurance comes in, which I'll get to.
 
 ## Part D: Prescription Drugs
 
@@ -65,7 +65,7 @@ Premiums vary enormously by plan and by location. Nationally, the average standa
 
 IRMAA applies to Part D too, though the surcharges are smaller, ranging from about $13 to $81 per month extra.
 
-A major change took effect starting in 2025: out-of-pocket prescription drug costs under Part D are now capped at $2,000 per year. For people who previously hit what used to be called the "donut hole" and faced catastrophic drug costs, this is a meaningful shift. The cap is real, and it's now baked into the program.
+A major change took effect starting in 2025: out-of-pocket prescription drug costs under Part D were capped at $2,000 per year when the cap launched. In 2026, that cap has risen to $2,100 per year. For people who previously hit what used to be called the "donut hole" and faced catastrophic drug costs, this is a meaningful shift. The cap is real, and it's now baked into the program.
 
 ## Medicare Advantage vs. Original Medicare: The Cost Question
 
@@ -91,13 +91,13 @@ Let me give you a realistic monthly picture for a typical Medicare beneficiary i
 
 Someone on Original Medicare with a Part G Medigap plan and a standalone Part D plan, with income below the IRMAA threshold, is likely looking at:
 
-- Part B premium: roughly $185
+- Part B premium: roughly $202.90
 - Medigap Plan G: roughly $120 to $180 depending on age and state
 - Part D: roughly $30 to $60
 
 That's a combined range of approximately $335 to $425 per month. Add in Part A's $0 premium if you've got the work history, and that's your full Medicare cost structure.
 
-Someone on Medicare Advantage with a $0 plan premium still pays their $185 Part B premium, plus whatever cost-sharing hits them over the course of the year.
+Someone on Medicare Advantage with a $0 plan premium still pays their $202.90 Part B premium, plus whatever cost-sharing hits them over the course of the year.
 
 Higher earners with IRMAA surcharges can easily see Part B and D combined exceed $700 a month per person before any supplemental coverage. That's a number I think more pre-retirees need to hear while there's still time to plan around it.
 

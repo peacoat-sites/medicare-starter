@@ -92,7 +92,7 @@ That gap compounds every year. Over thirteen years, the difference in cumulative
 
 One thing I wish I'd explained to people more clearly earlier in my career: the pricing method interacts with which plan you choose. Plan N currently runs about 15-20% cheaper than Plan G at enrollment for most 65-year-olds. That sounds great. But Plan N has cost-sharing (up to $20 copays for office visits, up to $50 for ER visits, and you're exposed to Part B excess charges). As you age and use more healthcare, those out-of-pocket costs add up alongside a rising attained-age premium.
 
-Plan G covers nearly everything except the Part B deductible (currently $257 in 2026). For someone who sees specialists frequently or anticipates complex care, the math often favors Plan G by the mid-70s even if Plan N looked cheaper at 65.
+Plan G covers nearly everything except the Part B deductible (currently $283 in 2026). For someone who sees specialists frequently or anticipates complex care, the math often favors Plan G by the mid-70s even if Plan N looked cheaper at 65.
 
 Second worked example: *A 65-year-old man enrolls in attained-age Plan N at $92/month, expecting to save money* → *by 73, his premium is $178/month and he's paying an average of $340/year in copays due to regular specialist visits* → *total annual cost: $2,476. A neighbor who enrolled in community-rated Plan G at $155/month pays $1,860/year with zero additional cost-sharing. The Plan G buyer saves $616 annually at that point, with the gap widening each year.*
 

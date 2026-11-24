@@ -14,7 +14,7 @@ slug: "medicare-vs-medicaid-difference"
 affiliate_disclosure: true
 faqs:
  - q: "Is Medicare free?"
-   a: "Not entirely. Part A (hospital) is free for most people who worked long enough and paid Medicare taxes. Part B has a monthly premium (around $185 in 2026 for most). Parts C and D are through private insurers and vary in cost. You'll also pay deductibles and copays when you use services."
+   a: "Not entirely. Part A (hospital) is free for most people who worked long enough and paid Medicare taxes. Part B has a monthly premium (around $202.90 in 2026 for most). Parts C and D are through private insurers and vary in cost. You'll also pay deductibles and copays when you use services."
  - q: "Can you have Medicare and Medicaid at the same time?"
    a: "Yes. People who qualify for both are called 'dual-eligible' beneficiaries. Medicare pays first; Medicaid fills in gaps and may cover your Medicare premiums through Medicare Savings Programs. About 12 million Americans have both."
  - q: "Does Medicare cover nursing home care?"
@@ -38,7 +38,7 @@ The full picture is more layered. Medicare has four main parts:
 
 **Part A** covers inpatient hospital care, skilled nursing facility stays (under specific conditions), hospice, and some home health care. Most people don't pay a premium for this.
 
-**Part B** covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. This one has a standard monthly premium. In 2026 it's around $185 a month for most people, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount).
+**Part B** covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. This one has a standard monthly premium. In 2026 it's around $202.90 a month for most people, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount).
 
 **Part C** is Medicare Advantage. Private insurers bundle Part A and B coverage (and usually Part D drug coverage) into one plan. Think of it as an alternative delivery method, not a separate benefit category.
 
@@ -60,7 +60,7 @@ Medicaid benefits can be more comprehensive than many people expect compared to 
 
 | Program | Eligibility Basis | Monthly Premium (Part B) | Covers Long-Term Care | Covers Dental/Vision |
 | --- | --- | --- | --- | --- |
-| Medicare | Age 65+ or disability | ~$185 (2026) | No | No (Original Medicare) |
+| Medicare | Age 65+ or disability | ~$202.90 (2026) | No | No (Original Medicare) |
 | Medicaid | Income and assets | None | Yes | Yes |
 | Dual-Eligible (Both) | Age/disability + low income | Covered by Medicaid (QMB) | Yes (Medicaid) | Yes (Medicaid) |
 
@@ -77,7 +77,7 @@ For someone in this category, Medicaid can also help pay Medicare premiums throu
 - **QI (Qualifying Individual):** Similar to SLMB, with slightly higher income limits.
 - **QDWI (Qualified Disabled and Working Individuals):** Helps a small group pay Part A premiums.
 
-I've sat with seniors who were eligible for QMB and had no idea. Paying $185 a month (plus their Part A costs if applicable) when they qualified to have Medicaid cover all of it. The paperwork isn't obvious, and many people just... don't apply.
+Paying $202.90 a month (plus their Part A costs if applicable) when they qualified to have Medicaid cover all of it. The paperwork isn't obvious, and many people just... don't apply.
 
 If you think you or a family member might qualify, [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has a solid breakdown of the Medicare Savings Programs, and the [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) can connect you with a free local counselor who'll help you apply. I'd take that help. The application process through your state Medicaid office can be tedious.
 

@@ -17,8 +17,8 @@ faqs:
    a: "Generally, no. You can't switch Part D plans outside of specific enrollment periods unless you qualify for a Special Enrollment Period due to certain life events, like moving or losing other drug coverage. Your main opportunity to switch is during the Annual Enrollment Period from October 15 to December 7. Mark that window on your calendar now."
  - q: "How does the coverage gap work if I have Medicare Advantage with drug coverage?"
    a: "If you have a Medicare Advantage plan that includes Part D drug coverage (called an MA-PD plan), the same Part D cost structure applies, including the coverage gap thresholds. However, some Medicare Advantage plans offer enhanced drug benefits that may reduce your costs in the gap. Check your plan's Summary of Benefits carefully, and compare plans every year during open enrollment."
- - q: "Will the 2025 $2,000 cap automatically apply to me, or do I need to do something?"
-   a: "The $2,000 out-of-pocket cap is a change in federal law, so it will apply to all Part D plans, including standalone Part D and Medicare Advantage plans with drug coverage, beginning January 1, 2025. You don't need to do anything special to receive this protection. That said, it's still smart to review your plan during open enrollment, because other factors like premiums, deductibles, and your specific drug tiers will vary by plan and can affect your total costs even with the new cap in place."
+ - q: "Will the 2026 $2,100 cap automatically apply to me, or do I need to do something?"
+   a: "The $2,100 out-of-pocket cap is a change in federal law, so it will apply to all Part D plans, including standalone Part D and Medicare Advantage plans with drug coverage. You don't need to do anything special to receive this protection. That said, it's still smart to review your plan during open enrollment, because other factors like premiums, deductibles, and your specific drug tiers will vary by plan and can affect your total costs even with the cap in place."
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
@@ -35,7 +35,7 @@ The coverage gap kicks in after you and your plan together have spent a certain 
 
 The term "donut hole" came about because the original 2003 law that created Medicare Part D literally left a hole in coverage between the initial coverage phase and catastrophic coverage. You'd have decent coverage, then a gap with much higher costs, then protection again once your spending got high enough. The Inflation Reduction Act has been steadily closing that hole. 2025 brings the most dramatic change yet: a hard cap on out-of-pocket drug costs.
 
-I've sat with clients who spent months assuming they were doing something wrong when their drug costs spiked. They weren't. This is how the benefit was designed, and understanding the mechanics puts you back in control.
+Drug costs can spike for reasons unrelated to personal error. This is how the benefit is designed, and understanding the mechanics puts you back in control.
 
 ## The Four Phases of Part D: A Clear Breakdown
 
@@ -43,10 +43,10 @@ Knowing where you are in the Part D cycle at any given moment changes everything
 
 | Phase | What Triggers It | What You Pay |
 |---|---|---|
-| Deductible Phase | Start of plan year | Up to $545 (the 2024 maximum deductible) for covered drugs |
+| Deductible Phase | Start of plan year | Up to $615 (the 2026 maximum deductible) for covered drugs |
 | Initial Coverage | After deductible is met | Your plan's standard copays or coinsurance |
 | Coverage Gap | After $5,030 in total drug costs | 25% of the cost of covered brand-name and generic drugs |
-| Catastrophic Coverage | After $8,000 in true out-of-pocket costs | $0 out of pocket (in 2024, minimal copays; eliminated in 2025) |
+| Catastrophic Coverage | After $2,100 in true out-of-pocket costs | $0 out of pocket |
 
 A couple of things matter here. The $5,030 figure counts both what you paid AND what your plan paid toward your drugs. But the $8,000 catastrophic threshold counts only what came out of your pocket, plus manufacturer discounts on brand-name drugs. Generic discounts from your plan don't count toward that number. This distinction confuses a lot of people and can make the catastrophic threshold feel much farther away than it actually is.
 
@@ -54,11 +54,11 @@ Not every Part D plan charges the maximum deductible, either. Some plans waive i
 
 ## The Big 2025 Change You Need to Know About
 
-Starting January 1, 2025, the Inflation Reduction Act puts a $2,000 hard cap on what you'll pay out of pocket for Part D drugs in a calendar year. Once you've hit $2,000, your covered drugs cost you nothing for the rest of the year.
+Starting January 1, 2026, the Inflation Reduction Act puts a $2,100 hard cap on what you'll pay out of pocket for Part D drugs in a calendar year. Once you've hit $2,100, your covered drugs cost you nothing for the rest of the year.
 
 This is the most significant change to Medicare Part D since the benefit launched in 2006. For people who take expensive specialty medications, people managing cancer, rheumatoid arthritis, multiple sclerosis, or other chronic conditions, this change is potentially life-changing. I don't say that lightly.
 
-The coverage gap as a distinct phase effectively disappears in 2025. You'll move from initial coverage directly to a new catastrophic phase once you hit that $2,000 threshold. The financial cliff that people used to fall off of is now much more gradual.
+The coverage gap as a distinct phase effectively disappears in 2025. You'll move from initial coverage directly to a new catastrophic phase once you hit that $2,100 threshold. The financial cliff that people used to fall off of is now much more gradual.
 
 There's also a new Medicare Prescription Payment Plan launching in 2025 that lets you spread your out-of-pocket costs across the calendar year in monthly installments rather than paying large lump sums early in the year. This helps with cash flow even if your total annual cost stays the same.
 

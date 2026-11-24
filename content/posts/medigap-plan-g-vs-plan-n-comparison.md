@@ -57,7 +57,7 @@ Plan G is about as close to comprehensive coverage as you can get in today's Med
 - The first three pints of blood
 - 80% of foreign travel emergency costs, up to plan limits
 
-One thing Plan G doesn't cover: the Medicare Part B deductible, which is $257 in 2025. You pay that once a year, then Plan G handles everything else.
+One thing Plan G doesn't cover: the Medicare Part B deductible, which is $283 in 2026. You pay that once a year, then Plan G handles everything else.
 
 Plan N covers what Plan G covers, with three key differences. It doesn't cover Part B excess charges. It has copayments up to $20 for some office visits and up to $50 for emergency room visits that don't turn into hospital admissions. And some Plan N policies also require you to pay the Part B deductible (this varies by insurer, so check your specific policy).
 
@@ -101,7 +101,7 @@ Avoid choosing Plan N purely for price without thinking through your actual heal
 
 Most people I work with who have any moderate health complexity end up better served by Plan G.
 
-Managing diabetes, heart disease, COPD, or any condition involving frequent specialist care? Plan G's predictability matters. There's real peace in knowing that once you've paid your $257 Part B deductible annually, you're done. No copays. No excess charge surprises. No mental math every time you schedule an appointment.
+Managing diabetes, heart disease, COPD, or any condition involving frequent specialist care? Plan G's predictability matters. There's real peace in knowing that once you've paid your $283 Part B deductible annually, you're done. No copays. No excess charge surprises. No mental math every time you schedule an appointment.
 
 People with a history of cancer often choose Plan G. Not because they expect recurrence, but because their care pattern already involves many providers and specialist visits. The math works cleaner with Plan G even if the premium is higher.
 

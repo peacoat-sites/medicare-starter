@@ -52,9 +52,9 @@ Plan G is nearly complete coverage. Here's what it picks up after Medicare pays 
 - **Foreign travel emergency care** (up to plan limits, typically 80 percent after a small deductible, with a lifetime maximum)
 - **Blood (first 3 pints)**
 
-The only gap Plan G leaves is the Part B deductible. In 2024 that's $240 for the year. You pay it once annually, and after that, Plan G covers virtually everything Medicare approves.
+The only gap Plan G leaves is the Part B deductible. In 2026 that's $283 for the year. You pay it once annually, and after that, Plan G covers virtually everything Medicare approves.
 
-Think about what that means practically. You visit your cardiologist. You have an outpatient procedure. You see a physical therapist twice a week for two months. After you've met that $240 Part B deductible at the start of the year, your out-of-pocket cost for all of those Medicare-covered services is essentially zero.
+Think about what that means practically. You visit your cardiologist. You have an outpatient procedure. You see a physical therapist twice a week for two months. After you've met that $283 Part B deductible at the start of the year, your out-of-pocket cost for all of those Medicare-covered services is essentially zero.
 
 ## Plan G vs. Plan F: The Comparison People Ask About Most
 
@@ -74,7 +74,7 @@ Here's the difference:
 | Skilled nursing facility coinsurance | Covered | Covered |
 | Foreign travel emergency | Covered | Covered |
 
-That $240 annual Part B deductible is the only difference. In most markets, Plan G premiums run noticeably lower than Plan F premiums because fewer claims are processed. The math almost always favors Plan G when you add up the annual premium difference plus the Part B deductible and compare it to Plan F costs. Always run the numbers for your specific zip code, though, because premiums vary by location, age, and insurance company.
+That $283 annual Part B deductible is the only difference. In most markets, Plan G premiums run noticeably lower than Plan F premiums because fewer claims are processed. The math almost always favors Plan G when you add up the annual premium difference plus the Part B deductible and compare it to Plan F costs. Always run the numbers for your specific zip code, though, because premiums vary by location, age, and insurance company.
 
 ## How Much Does Plan G Cost?
 
@@ -120,7 +120,7 @@ If you're healthy, rarely use medical care, and prefer lower predictable monthly
 
 Plan G tends to shine for people who see specialists regularly or have ongoing health conditions. You want freedom to see any doctor who accepts Medicare without network restrictions. You travel frequently or split time between states. You've had expensive medical years in the past and want predictable costs going forward. You value simplicity and hate paperwork.
 
-If predictability and freedom matter to you, Plan G is hard to beat. You pay your premium, you meet the $240 Part B deductible once a year, and then you're done. No surprise bills. No checking whether a specialist is in-network. No annual out-of-pocket maximum to worry about hitting.
+If predictability and freedom matter to you, Plan G is hard to beat. You pay your premium, you meet the $283 Part B deductible once a year, and then you're done. No surprise bills. No checking whether a specialist is in-network. No annual out-of-pocket maximum to worry about hitting.
 
 ---
 

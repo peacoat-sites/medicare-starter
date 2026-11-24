@@ -48,7 +48,7 @@ Here's what I've learned to tell people: the marketing is generous; the actual c
 
 A typical Medicare Advantage plan might offer something like a $1,500 annual hearing aid benefit. Sounds great. But a quality pair of hearing aids from an audiologist currently runs anywhere from $3,000 to $7,000, and some premium devices push past $8,000. That $1,500 doesn't go as far as the brochure implies, and many plans restrict which providers you can use or which device brands qualify.
 
-I had a client in early 2026, a retired schoolteacher from outside Columbus, Ohio, who came to me after her plan's "hearing benefit" turned out to cover only one hearing aid at a discounted price through a single preferred provider network, and the model offered wasn't compatible with her severe, asymmetric hearing loss. She needed a different solution entirely.
+Many insurance plans include a "hearing benefit" that covers only one hearing aid at a discounted price through a single preferred provider network. The model offered may not be compatible with severe, asymmetric hearing loss, requiring a different solution entirely.
 
 The actual comparison across plan types matters enormously, so here's a plain-language breakdown:
 
@@ -71,7 +71,7 @@ The research on OTC outcomes is mixed. A 2022 JAMA study from Johns Hopkins foun
 
 My honest take: if you're on a tight budget, genuinely have mild loss, and are tech-comfortable enough to use an app to adjust settings, OTC aids are worth trying seriously. If you're not sure of your severity, get a diagnostic hearing exam first. Medicare Part B will cover that exam if your doctor orders it for a medical reason, and it gives you a baseline audiogram to work from.
 
-Worked example: A 71-year-old retiree in Phoenix notices difficulty hearing conversations in noisy restaurants. Her primary care doctor refers her for a diagnostic hearing exam (covered by Part B after her $240 deductible). Audiologist confirms mild-to-moderate high-frequency loss. She purchases Jabra Enhance Pro OTC aids for $1,195. Her Medicare Advantage plan provides a $750 hearing aid benefit, reducing her net out-of-pocket to $445. Compare that to a traditional prescription pair at $5,200 with the same $750 benefit: her out-of-pocket would have been $4,450.
+Worked example: A 71-year-old retiree in Phoenix notices difficulty hearing conversations in noisy restaurants. Her primary care doctor refers her for a diagnostic hearing exam (covered by Part B after her $283 deductible). Audiologist confirms mild-to-moderate high-frequency loss. She purchases Jabra Enhance Pro OTC aids for $1,195. Her Medicare Advantage plan provides a $750 hearing aid benefit, reducing her net out-of-pocket to $445. Compare that to a traditional prescription pair at $5,200 with the same $750 benefit: her out-of-pocket would have been $4,450.
 
 ## What to Actually Do If You Need Hearing Aids
 

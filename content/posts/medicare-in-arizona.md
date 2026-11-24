@@ -48,14 +48,14 @@ Let me lay out the basic comparison honestly, because I find that most articles 
 
 | Feature | Original Medicare (Parts A + B) | Medicare Advantage (Part C) |
 |---|---|---|
-| Monthly premium (2026) | $185/month for Part B (standard) | $0 to $100+/month, varies by plan |
+| Monthly premium (2026) | $202.90/month for Part B (standard) | $0 to $100+/month, varies by plan |
 | Network restrictions | See any Medicare-accepting provider | Usually limited to plan's network |
 | Out-of-pocket maximum | No annual cap (significant risk) | Required cap, often $3,000-$8,500/year |
 | Prescription drug coverage | Requires separate Part D plan | Usually bundled in |
 | Extra benefits (dental, vision) | Not covered | Commonly included |
 | Best for | Those who travel or want any doctor | Those who stay local and want low premiums |
 
-Original Medicare has no out-of-pocket maximum, which is a significant financial risk. If you're hospitalized for a complex surgery and rehab, costs can spiral well past $10,000. That's why anyone choosing Original Medicare in Arizona should pair it with a Medigap (Medicare Supplement) policy. Plan G is currently the most popular for new enrollees, covering almost everything except the Part B deductible ($257 in 2026). Monthly premiums for Plan G in Arizona typically run between $90 and $200 depending on age, gender, tobacco use, and the insurer.
+Original Medicare has no out-of-pocket maximum, which is a significant financial risk. If you're hospitalized for a complex surgery and rehab, costs can spiral well past $10,000. That's why anyone choosing Original Medicare in Arizona should pair it with a Medigap (Medicare Supplement) policy. Plan G is currently the most popular for new enrollees, covering almost everything except the Part B deductible ($283 in 2026). Monthly premiums for Plan G in Arizona typically run between $90 and $200 depending on age, gender, tobacco use, and the insurer.
 
 One thing that only becomes obvious once you've sat across the table from dozens of Arizona clients: Medigap premiums here are actually quite competitive compared to many other states. I don't have a rigorous study to cite on that specific point, so take it as observational, but the pricing I see consistently is favorable.
 

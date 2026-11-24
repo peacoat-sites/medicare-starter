@@ -82,9 +82,9 @@ Plans must refund overcharges retroactively if you catch them within the coverag
 
 ## What Changes in 2025 (The $2,000 Out-of-Pocket Cap)
 
-2025 brought another shift. Medicare Part D now has a hard out-of-pocket cap of $2,000 per year for all covered drugs, including insulin. Once you've spent $2,000 out of pocket on Part D drugs in a calendar year, you pay nothing for the rest of it.
+2026 brought another shift. Medicare Part D now has a hard out-of-pocket cap of $2,100 per year for all covered drugs, including insulin. Once you've spent $2,100 out of pocket on Part D drugs in a calendar year, you pay nothing for the rest of it.
 
-For people taking only insulin and a handful of generics, this cap probably won't change much. The $35 monthly insulin cap will likely keep your annual insulin spending well below $2,000 anyway. But if you take other expensive medications alongside insulin, the $2,000 cap becomes genuinely protective.
+For people taking only insulin and a handful of generics, this cap probably won't change much. The $35 monthly insulin cap will likely keep your annual insulin spending well below $2,100 anyway. But if you take other expensive medications alongside insulin, the $2,100 cap becomes genuinely protective.
 
 There's also a new Medicare Prescription Payment Plan, sometimes called the "smoothing" option. It lets you spread your out-of-pocket drug costs evenly across the year in monthly payments instead of paying large amounts upfront. This helps with cash flow, though it doesn't reduce what you owe total. Contact your Part D plan during Open Enrollment (October 15 through December 7) if you're interested.
 

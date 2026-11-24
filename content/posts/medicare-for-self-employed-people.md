@@ -47,7 +47,7 @@ The exception worth knowing: if you're actively working and covered under a grou
 | Medicare Part | Coverage Type | Premium Cost (2026) | Key Consideration for Self-Employed |
 | --- | --- | --- | --- |
 | Part A | Hospital insurance | Free (if 40+ quarters paid) | Enroll at 65; no penalty for delay if actively working under group plan |
-| Part B | Medical insurance | $185.00/month standard | 10% permanent penalty per 12-month delay without creditable coverage |
+| Part B | Medical insurance | $202.90/month standard | 10% permanent penalty per 12-month delay without creditable coverage |
 | Part D | Prescription drugs | Varies by plan | Penalty applies if delayed without creditable drug coverage |
 | Part C (Advantage) | Private bundled plan | Often $0 beyond Part B | Network restrictions; may have high specialist copays ($350+) |
 | Medigap (Plan G) | Supplement to Original Medicare | $100-$200/month typical range | Provides nationwide provider access; better for mobile/multi-state self-employed |
@@ -56,7 +56,7 @@ Medicare has four moving parts, and self-employed people need to think about all
 
 **Part A** (hospital insurance) is free for most people because you paid into Medicare through self-employment taxes during your working years. If you've paid into Social Security and Medicare for at least 10 years (40 quarters), you owe nothing for Part A. Enroll at 65 regardless.
 
-**Part B** is where you pay a monthly premium. In 2026, the standard premium is $185.00 per month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). If your income from self-employment has been strong, plan for this. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes the current IRMAA brackets every year; it's worth checking before you enroll so the number doesn't blindside you.
+**Part B** is where you pay a monthly premium. In 2026, the standard premium is $202.90 per month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). If your income from self-employment has been strong, plan for this. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes the current IRMAA brackets every year; it's worth checking before you enroll so the number doesn't blindside you.
 
 **Part D** covers prescription drugs. You need this too, even if you currently take no prescriptions. The penalty logic is identical to Part B: delay without creditable drug coverage and you pay more forever. Many people skip this and regret it when they suddenly need medications at 70.
 
@@ -74,7 +74,7 @@ Medicare Advantage plans often have $0 premiums beyond Part B, which is attracti
 
 The honest answer: run the actual numbers for your situation. A local [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) counselor will do this with you for free, with no agenda to sell you anything. Use them. They're one of Medicare's best-kept secrets.
 
-**Example:** A Plan G Medigap policy at $142/month plus $185 for Part B totals $327/month. By contrast, an Advantage plan might cost $185/month but result in $1,200 in out-of-pocket costs in a year with specialist visits. Over 12 months, the Medigap enrollee pays $3,924; the Advantage enrollee pays $4,020. At low utilization the outcomes are similar, but Medigap protection scales much better if serious illness occurs.
+**Example:** A Plan G Medigap policy at $142/month plus $202.90 for Part B totals $344.90/month. By contrast, an Advantage plan might cost $202.90/month but result in $1,200 in out-of-pocket costs in a year with specialist visits. Over 12 months, the Medigap enrollee pays $4,138.80; the Advantage enrollee pays $3,634.80. At low utilization the outcomes are similar, but Medigap protection scales much better if serious illness occurs.
 
 ## Enrollment Timing: Don't Miss Your Window
 
@@ -84,7 +84,7 @@ Self-employed people often miss this because they're heads-down in their work. P
 
 One more timing thing worth knowing: you can sign up for Medicare even if you're still working and generating self-employment income. Working past 65 doesn't delay your obligation to enroll if you don't have creditable employer coverage. A lot of self-employed people conflate "still working" with "I don't need Medicare yet." Not the same thing.
 
-**Example:** A self-employed person with no employer plan who delays Part B enrollment past their initial enrollment period until age 66 incurs a 10% permanent penalty on the Part B premium. At $185/month, that adds $18.50/month permanently. Over 15 years of retirement, that amounts to roughly $3,330 in unnecessary extra premiums.
+**Example:** A self-employed person with no employer plan who delays Part B enrollment past their initial enrollment period until age 66 incurs a 10% permanent penalty on the Part B premium. At $202.90/month, that adds $20.29/month permanently. Over 15 years of retirement, that amounts to roughly $3,652 in unnecessary extra premiums.
 
 ## What About Self-Employment Income and Premium Costs?
 

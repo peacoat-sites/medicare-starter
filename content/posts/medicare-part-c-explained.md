@@ -65,7 +65,7 @@ Most people do fine starting with an HMO if their current doctors are in-network
 
 ## Costs: What You'll Actually Pay
 
-This is where the real story emerges. Medicare Advantage plans often advertise $0 premiums, and some genuinely have no additional monthly cost beyond your Part B premium ($174.70 per month in 2024 for most people). But premium is just the opening act.
+This is where the real story emerges. Medicare Advantage plans often advertise $0 premiums, and some genuinely have no additional monthly cost beyond your Part B premium ($202.90 per month in 2026 for most people). But premium is just the opening act.
 
 Every Medicare Advantage plan has an out-of-pocket maximum, a yearly cap on what you can spend on covered services. Original Medicare has no such cap, which is why many people in Original Medicare also buy a [Medigap (Medicare Supplement) plan](/what-medicare-does-not-cover/) to cover those endless costs. In Medicare Advantage, the cap is required by law. In 2024, it can't exceed $8,850 for in-network services, though most plans set it lower.
 

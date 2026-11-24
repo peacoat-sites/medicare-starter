@@ -68,7 +68,7 @@ People dramatically underestimate this. An HSA that's been building for years th
 
 What you can pay for with HSA funds in retirement:
 
-- Medicare Part B premiums (currently $185/month for most enrollees in 2026)
+- Medicare Part B premiums (currently $202.90/month for most enrollees in 2026)
 - Medicare Part D premiums (prescription drug coverage)
 - Medicare Advantage plan premiums
 - Medigap supplemental insurance premiums? **No.** This is a common misconception. Medigap premiums are NOT qualified HSA expenses. The IRS has never included them.

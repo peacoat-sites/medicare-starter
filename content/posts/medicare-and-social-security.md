@@ -18,7 +18,7 @@ faqs:
   - q: "Can I get Medicare before 65?"
     a: "Yes, in two main situations. If you've received Social Security Disability Insurance (SSDI) for 24 months, you automatically qualify for Medicare regardless of age. People with End-Stage Renal Disease (permanent kidney failure requiring dialysis or a transplant) or ALS (Lou Gehrig's disease) also qualify earlier."
   - q: "What happens to my Medicare premiums if my Social Security benefit is very small?"
-    a: "Medicare Part B premiums can't exceed your Social Security benefit. This is called the 'hold harmless' rule. If your Social Security check is $90/month and the Part B premium is $185, Medicare can't take more than $90. However, if you're not receiving Social Security at all, you'll be billed quarterly for the full Part B premium and must pay it directly."
+    a: "Medicare Part B premiums can't exceed your Social Security benefit. This is called the 'hold harmless' rule. If your Social Security check is $90/month and the Part B premium is $202.90, Medicare can't take more than $90. However, if you're not receiving Social Security at all, you'll be billed quarterly for the full Part B premium and must pay it directly."
   - q: "Can my spouse's work record count toward my Medicare eligibility?"
     a: "Yes. If you haven't worked enough quarters yourself (40 quarters, or roughly 10 years of Medicare-taxed work), you can qualify for premium-free Part A based on your current or former spouse's work record, as long as you're at least 65 and they've met the 40-quarter requirement."
   - q: "If I delay Social Security until 70, do I also delay Medicare?"
@@ -56,7 +56,7 @@ A common mistake is claiming Social Security early in hopes it will qualify you 
 
 The flip side is also true. If you delay Social Security past 65, you must still enroll in Medicare at 65 (unless you have qualifying employer coverage, which I'll get to). Plenty of people assume they can just wait on everything together. That's where the late penalty trap springs.
 
-**For example:** if you delay Social Security to 70 to maximize your benefit but don't have employer coverage at 65 and forget to enroll in Medicare Part B, signing up three years late triggers a penalty. Part B penalties are 10% of the premium for each 12-month period you're late. That penalty applies for the rest of your life. At 2026 rates, that's roughly an extra $44/month on top of the standard Part B premium of $185/month. Over 20 years of retirement, that's over $10,000 extra.
+**For example:** if you delay Social Security to 70 to maximize your benefit but don't have employer coverage at 65 and forget to enroll in Medicare Part B, signing up three years late triggers a penalty. Part B penalties are 10% of the premium for each 12-month period you're late. That penalty applies for the rest of your life. At 2026 rates, that's roughly an extra $61/month on top of the standard Part B premium of $202.90/month. Over 20 years of retirement, that's over $14,000 extra.
 
 ---
 
@@ -67,13 +67,13 @@ The flip side is also true. If you delay Social Security past 65, you must still
 | Social Security | Income replacement for retirement, disability, survivors | As early as 62 (retirement); varies for disability | Earnings record determines Medicare Part A eligibility |
 | Medicare | Health insurance coverage | Primarily 65+; earlier with qualifying disability or ESRD | Automatic enrollment at 65 if receiving Social Security; otherwise must enroll manually |
 | Medicare Part A | Inpatient hospital care | 65+ (if 10 years/40 quarters work history) | Premium-free if work record qualifies |
-| Medicare Part B | Outpatient care, doctor visits, preventive services | 65+ | Standard premium $185/month (as of July 2026); subject to IRMAA based on prior income |
+| Medicare Part B | Outpatient care, doctor visits, preventive services | 65+ | Standard premium $202.90/month (as of July 2026); subject to IRMAA based on prior income |
 | Medicare Part C | Private plan alternative (bundled coverage) | 65+ | Premium often deducted from Social Security check |
 | Medicare Part D | Prescription drug coverage | 65+ | Premium often deducted from Social Security check |
 
 Part A covers inpatient hospital care. If you or your spouse worked and paid Medicare taxes for at least 10 years (40 quarters), you get Part A free. That work record lives in your Social Security file, which is why the Social Security Administration (SSA) and the Centers for Medicare & Medicaid Services (CMS, available at [cms.gov](https://www.cms.gov/)) share data constantly.
 
-[Part B covers outpatient care](/medicare-part-b-explained/): doctor visits, lab work, preventive screenings, and more. The standard premium as of July 2026 is $185/month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). IRMAA is calculated using your tax return from two years prior, so a high-income year can haunt you even if your income has since dropped. Worth flagging for anyone who sold a business, a rental property, or had a big Roth conversion recently.
+[Part B covers outpatient care](/medicare-part-b-explained/): doctor visits, lab work, preventive screenings, and more. The standard premium as of July 2026 is $202.90/month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). IRMAA is calculated using your tax return from two years prior, so a high-income year can haunt you even if your income has since dropped. Worth flagging for anyone who sold a business, a rental property, or had a big Roth conversion recently.
 
 Part C is Medicare Advantage, a private-plan alternative to original Medicare that bundles in Part D drug coverage. No direct Social Security connection here, though your premium is still often deducted from your Social Security check if you're receiving benefits.
 
@@ -87,11 +87,11 @@ That automatic deduction is actually convenient for most people. The premium com
 
 I want to spend a moment on IRMAA because it blindsides people who did everything right.
 
-IRMAA applies to both Part B and Part D premiums. If your modified adjusted gross income (MAGI) from two years ago was above $106,000 for an individual (2026 thresholds, roughly), you'll pay more. A lot more. The top tier can push your Part B premium past $580/month, per person.
+IRMAA applies to both Part B and Part D premiums. If your modified adjusted gross income (MAGI) from two years ago was above $109,000 for an individual (2026 thresholds, roughly), you'll pay more. A lot more. The top tier can push your Part B premium past $580/month, per person.
 
 What most people don't realize: you can appeal IRMAA if your income has dropped due to a qualifying life event. Retirement, divorce, death of a spouse, or the loss of income-producing property all qualify. You file Form SSA-44 with the Social Security Administration and request that they use your more recent income instead.
 
-**Worked example:** Tom and Karen sold their small business in 2024, reporting $340,000 in income that year. In 2026, they're both fully retired with income well under the IRMAA threshold. But Medicare is still using their 2024 tax return, putting them both in the highest IRMAA bracket. They each file SSA-44 with documentation of their retirement. Within 8 weeks, their premiums drop back to the standard $185/month each, saving them over $790/month combined. That's real money.
+**Worked example:** Tom and Karen sold their small business in 2024, reporting $340,000 in income that year. In 2026, they're both fully retired with income well under the IRMAA threshold. But Medicare is still using their 2024 tax return, putting them both in the highest IRMAA bracket. They each file SSA-44 with documentation of their retirement. Within 8 weeks, their premiums drop back to the standard $202.90/month each, saving them over $790/month combined. That's real money.
 
 You can download Form SSA-44 directly from ssa.gov and submit it to your local Social Security office. It's tedious paperwork, yes, but it's worth every minute.
 

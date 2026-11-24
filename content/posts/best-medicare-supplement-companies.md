@@ -89,7 +89,7 @@ For a detailed breakdown of what each plan letter covers and which fits your sit
 
 The plan letter you pick matters just as much as the company. Two plans dominate new Medicare beneficiary enrollment today.
 
-**Plan G** is the most comprehensive option for people who became Medicare-eligible after January 1, 2020. It covers almost everything except the Part B deductible ($240 in 2024). If you want predictable costs and hate surprise bills, Plan G is built for you. Our [full explanation of Medicare Supplement Plan G](/medicare-supplement-plan-g-explained/) covers every benefit in detail.
+**Plan G** is the most comprehensive option for people who became Medicare-eligible after January 1, 2020. It covers almost everything except the Part B deductible ($283 in 2026). If you want predictable costs and hate surprise bills, Plan G is built for you. Our [full explanation of Medicare Supplement Plan G](/medicare-supplement-plan-g-explained/) covers every benefit in detail.
 
 **Plan N** is the budget alternative. Premiums run 15-25% lower than Plan G in most markets, but you'll pay copayments: up to $20 for office visits, up to $50 for emergency room visits. You're also exposed to Part B excess charges, which doctors not accepting Medicare assignment can add on. If you're relatively healthy, see a moderate number of doctors, and your providers accept Medicare assignment, Plan N makes financial sense. See our [Medicare Supplement Plan N explained](/medicare-supplement-plan-n-explained/) article for the full picture.
 

@@ -14,7 +14,7 @@ faqs:
  - q: "Do Medicare Advantage plans cover care outside the United States?"
    a: "Generally, no. Most plans cover emergency care only, and even that can be limited. If you travel internationally with any frequency, this is a significant limitation worth weighing seriously. Some Medigap plans, such as Plan G, include a foreign travel emergency benefit. You can compare options in our Medigap plans guide for 2026."
  - q: "Are $0 premium Medicare Advantage plans actually free?"
-   a: "No. You still pay your Medicare Part B premium, which in 2024 was $174.70 per month for most people. The $0 refers only to the additional premium the plan charges on top of that. You'll also have copays and cost-sharing when you actually use medical services."
+   a: "No. You still pay your Medicare Part B premium, which in 2026 is $202.90 per month for most people. The $0 refers only to the additional premium the plan charges on top of that. You'll also have copays and cost-sharing when you actually use medical services."
  - q: "What happens if I move to a different state while on Medicare Advantage?"
    a: "Your current Medicare Advantage plan likely won't cover you in your new state, since most plans are geographically specific. You'll have a Special Enrollment Period to choose a new plan in your new location. This is another reason why Original Medicare with Medigap is often a better fit for people who move or travel frequently."
  - q: "Is Medicare Advantage a good choice if I have a serious chronic condition?"

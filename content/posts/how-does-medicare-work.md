@@ -40,7 +40,7 @@ Medicare is federal health insurance, run primarily by [the Centers for Medicare
 
 **Part A** covers inpatient hospital stays, skilled nursing facility care after a qualifying hospital stay, hospice care, and some home health services. Most people don't pay a monthly premium for Part A because they or their spouse paid Medicare taxes for at least 10 years (40 quarters) while working. If you didn't hit that threshold, you can still buy in, but you'll pay monthly.
 
-**Part B** covers doctor visits, outpatient procedures, preventive services like flu shots and cancer screenings, durable medical equipment, and most other things you'd use without being admitted to a hospital. Part B always costs you monthly. In 2024, the standard premium is $174.70, though higher-income beneficiaries pay more through something called IRMAA (Income-Related Monthly Adjustment Amount).
+**Part B** covers doctor visits, outpatient procedures, preventive services like flu shots and cancer screenings, durable medical equipment, and most other things you'd use without being admitted to a hospital. Part B always costs you monthly. In 2026, the standard premium is $202.90, though higher-income beneficiaries pay more through something called IRMAA (Income-Related Monthly Adjustment Amount).
 
 **Part C**, also called Medicare Advantage, is an alternative way to get your Medicare benefits. You enroll in a private insurance plan approved by Medicare instead of getting coverage directly from the federal government. These plans must cover everything Original Medicare covers, and most throw in prescription drug coverage. More on that in a moment.
 

@@ -16,7 +16,7 @@ faqs:
  - q: "Can I avoid IRMAA by holding assets in a trust?"
    a: "Not effectively. IRMAA is based on MAGI, which includes income from most trust structures. Certain irrevocable grantor trusts may have specific tax treatment worth discussing with an estate planning attorney, but there's no simple trust wrapper that makes income disappear for IRMAA purposes. Be skeptical of anyone suggesting otherwise."
  - q: "If my spouse and I file jointly but one of us has very high income, can we file separately to avoid IRMAA?"
-   a: "This is a reasonable question, but the answer is almost always no. Married filing separately has its own IRMAA tier structure, and it's extremely harsh, basically applying the highest Part B surcharge starting at just $106,000 of individual income. For most couples, filing jointly almost always results in a lower combined IRMAA burden. Run the numbers with a CPA before changing your filing status."
+   a: "This is a reasonable question, but the answer is almost always no. Married filing separately has its own IRMAA tier structure, and it's extremely harsh, basically applying the highest Part B surcharge starting at just $109,000 of individual income. For most couples, filing jointly almost always results in a lower combined IRMAA burden. Run the numbers with a CPA before changing your filing status."
  - q: "Where do I go to formally appeal my IRMAA determination?"
    a: "File SSA Form SSA-44 with the Social Security Administration. You can download it at SSA.gov, call 1-800-772-1213, or visit your local Social Security office. You'll need documentation of your qualifying life event and a reasonable estimate of your current-year income. File as soon as you receive your IRMAA notice, since processing takes time and you want any reduction to apply to as many months as possible."
 author: "Dorothy Chen"
@@ -36,8 +36,8 @@ So let's get into what IRMAA actually is, what the 2026 numbers look like, and, 
 <div class="value-module">
  <div class="vm-head">IRMAA Tier Thresholds & Monthly Costs 2026</div>
  <div class="vm-body">
- <p class="vm-intro">Below are the projected 2026 IRMAA brackets showing how your 2024 MAGI triggers progressively higher Part B and Part D surcharges (figures are illustrative based on historical bracket patterns; official 2026 numbers release in fall 2025).</p>
- <table><caption>2026 IRMAA Tiers: 2024 MAGI Thresholds and Estimated Monthly Premiums</caption><thead><tr><th scope="col">Tier</th><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Est. Part B Monthly</th><th scope="col">Est. Part D Surcharge</th><th scope="col">Annual Extra Cost (Single)</th></tr></thead><tbody><tr><td>Standard (no IRMAA)</td><td>≤$106,000</td><td>≤$212,000</td><td>$190</td><td>$0</td><td>$0</td></tr><tr><td>Tier 1</td><td>$106,001-$133,000</td><td>$212,001-$266,000</td><td>$266</td><td>$13</td><td>$1,068</td></tr><tr><td>Tier 2</td><td>$133,001-$167,000</td><td>$266,001-$334,000</td><td>$380</td><td>$34</td><td>$2,688</td></tr><tr><td>Tier 3</td><td>$167,001-$200,000</td><td>$334,001-$400,000</td><td>$494</td><td>$55</td><td>$4,308</td></tr><tr><td>Tier 4</td><td>$200,001-$500,000</td><td>$400,001-$750,000</td><td>$608</td><td>$76</td><td>$5,928</td></tr><tr><td>Tier 5 (Max)</td><td>&gt;$500,000</td><td>&gt;$750,000</td><td>$628</td><td>$85</td><td>$6,276</td></tr></tbody></table>
+ <p class="vm-intro">Below are the 2026 IRMAA brackets showing how your 2024 MAGI triggers progressively higher Part B and Part D surcharges.</p>
+ <table><caption>2026 IRMAA Tiers: 2024 MAGI Thresholds and Monthly Premiums</caption><thead><tr><th scope="col">Tier</th><th scope="col">Single Filer MAGI</th><th scope="col">Married Filing Jointly MAGI</th><th scope="col">Part B Monthly</th><th scope="col">Part D Surcharge</th><th scope="col">Annual Extra Cost (Single)</th></tr></thead><tbody><tr><td>Standard (no IRMAA)</td><td>≤$109,000</td><td>≤$218,000</td><td>$202.90</td><td>$0</td><td>$0</td></tr><tr><td>Tier 1</td><td>$109,001-$137,000</td><td>$218,001-$274,000</td><td>$284.10</td><td>$14.50</td><td>$1,068</td></tr><tr><td>Tier 2</td><td>$137,001-$171,000</td><td>$274,001-$342,000</td><td>$405.80</td><td>$37.50</td><td>$2,688</td></tr><tr><td>Tier 3</td><td>$171,001-$205,000</td><td>$342,001-$410,000</td><td>$527.50</td><td>$60.40</td><td>$4,308</td></tr><tr><td>Tier 4</td><td>$205,001-$499,999</td><td>$410,001-$749,999</td><td>$649.20</td><td>$83.30</td><td>$5,928</td></tr><tr><td>Tier 5 (Max)</td><td>&gt;$500,000</td><td>&gt;$750,000</td><td>$689.90</td><td>$91.00</td><td>$6,276</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -46,7 +46,7 @@ So let's get into what IRMAA actually is, what the 2026 numbers look like, and, 
 
 IRMAA is a surcharge piled on top of your standard Medicare Part B and Part D premiums if your income crosses certain thresholds. It's structured as a tiered pricing system where higher earners pick up a bigger share of their own Medicare costs.
 
-The [standard Medicare Part B premium](/medicare-part-b-premium-2026/) for 2025 is $185.00 a month. Once IRMAA applies, you're paying more. Sometimes a lot more. The surcharge jumps between tiers can be steep.
+The [standard Medicare Part B premium](/medicare-part-b-premium-2026/) for 2026 is $202.90 a month. Once IRMAA applies, you're paying more. Sometimes a lot more. The surcharge jumps between tiers can be steep.
 
 Here's where it gets confusing: Social Security uses your tax return from two years prior to determine whether IRMAA applies. For 2026, that's your 2024 Modified Adjusted Gross Income (MAGI). MAGI for IRMAA purposes is your Adjusted Gross Income plus any tax-exempt interest you earned. Cross that threshold in 2024 and you'll get the letter in late fall 2025. The higher premium kicks in January 2026.
 
@@ -62,12 +62,12 @@ For reference, here are the confirmed 2025 IRMAA thresholds. These are what we'r
 
 **For individuals filing individually in 2025:**
 
-- Income up to $106,000: Standard premium, no IRMAA
-- $106,001 to $133,000: Part B surcharge of $74.00/month
-- $133,001 to $167,000: $185.00/month surcharge
-- $167,001 to $200,000: $295.90/month surcharge
-- $200,001 to $500,000: $406.90/month surcharge
-- Above $500,000: $443.90/month surcharge
+- Income up to $109,000: Standard premium, no IRMAA
+- $109,001 to $137,000: Part B surcharge of $81.20/month
+- $137,001 to $171,000: $202.90/month surcharge
+- $171,001 to $205,000: $324.60/month surcharge
+- $205,001 to $499,999: $446.30/month surcharge
+- Above $500,000: $487.00/month surcharge
 
 Married couples filing jointly get thresholds roughly doubled at most tiers. Anyone married but filing separately faces extremely punishing thresholds, dropping to just $106,000 for the highest surcharge tier. That filing status issue alone deserves a conversation with a tax advisor.
 

@@ -74,7 +74,7 @@ Medicare Advantage (Part C) plans from private insurers frequently include denta
 
 Part D covers outpatient prescription drugs through standalone plans (if you have Original Medicare) or through Medicare Advantage plans that include drug coverage. The gap that people talk about most is the coverage gap, historically called the "donut hole."
 
-The good news: through legislation, the worst of the donut hole has been closed for most beneficiaries. As of 2025 and continuing into 2026, there's a $2,000 annual out-of-pocket cap on covered Part D drugs. That's a meaningful change that limits your exposure for high-cost medications. What still catches people off guard is that the cap applies to covered drugs on your plan's formulary. If your drug isn't covered, you're paying full price, completely outside the cap structure.
+The good news: through legislation, the worst of the donut hole has been closed for most beneficiaries. As of 2026, there's a $2,100 annual out-of-pocket cap on covered Part D drugs. That's a meaningful change that limits your exposure for high-cost medications. What still catches people off guard is that the cap applies to covered drugs on your plan's formulary. If your drug isn't covered, you're paying full price, completely outside the cap structure.
 
 Drug costs also depend heavily on which tier your medication falls into on your plan's formulary, whether you use a preferred pharmacy, and whether you qualify for Extra Help (also called the Low Income Subsidy). If your income and assets are limited, Extra Help can dramatically reduce your premiums, deductibles, and copays for Part D. You apply through the Social Security Administration, not Medicare, which surprises a lot of people.
 

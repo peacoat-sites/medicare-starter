@@ -18,7 +18,7 @@ faqs:
  - q: "Do Medicare Advantage plans with drug coverage count as Part D?"
    a: "Yes. An MAPD plan (Medicare Advantage Prescription Drug plan) satisfies your Part D requirement. You won't need a separate standalone PDP. However, if you're enrolled in a Medicare Advantage plan without drug coverage, you can add a standalone PDP if your MA plan permits it. Check your MA plan's terms, since not all do."
  - q: "Is the $2,000 out-of-pocket cap automatic, or do I need to elect something?"
-   a: "It's automatic. You don't need to enroll in any special program or notify your plan. Every Part D plan, whether standalone or bundled in Medicare Advantage, is required by law to apply the $2,000 annual out-of-pocket maximum starting in 2025 and continuing in 2026. Once you hit that threshold in a calendar year, your plan covers 100% of covered drug costs for the rest of the year."
+   a: "It's automatic. You don't need to enroll in any special program or notify your plan. Every Part D plan, whether standalone or bundled in Medicare Advantage, is required by law to apply the $2,100 annual out-of-pocket maximum in 2026. Once you hit that threshold in a calendar year, your plan covers 100% of covered drug costs for the rest of the year."
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
@@ -45,12 +45,12 @@ IRMAA for Part D in 2026 is based on your 2024 tax return. Here's how the bracke
 
 | 2024 Individual Income | 2024 Joint Income | 2026 IRMAA Surcharge (monthly) |
 |---|---|---|
-| Up to $106,000 | Up to $212,000 | $0 |
-| $106,001 to $133,000 | $212,001 to $266,000 | $13.70 |
-| $133,001 to $167,000 | $266,001 to $334,000 | $35.30 |
-| $167,001 to $200,000 | $334,001 to $400,000 | $57.00 |
-| $200,001 to $500,000 | $400,001 to $750,000 | $78.60 |
-| Above $500,000 | Above $750,000 | $85.80 |
+| Up to $109,000 | Up to $218,000 | $0 |
+| $109,001 to $137,000 | $218,001 to $274,000 | $14.50 |
+| $137,001 to $171,000 | $274,001 to $342,000 | $37.50 |
+| $171,001 to $205,000 | $342,001 to $410,000 | $60.40 |
+| $205,001 to $499,999 | $410,001 to $749,999 | $83.30 |
+| $500,000+ | $750,000+ | $91.00 |
 
 These surcharges are billed separately by Social Security, not by your plan. You pay your plan premium plus whatever IRMAA applies. If your income dropped significantly after 2024 due to retirement, a one-time capital gain, or a major life event, you can file a life-change appeal using SSA Form SSA-44 to request a lower IRMAA tier. Many people aren't aware this appeal option exists, even though it can save hundreds of dollars a year.
 
@@ -58,12 +58,12 @@ These surcharges are billed separately by Social Security, not by your plan. You
 
 | 2024 Individual Income | 2024 Joint Income | 2026 IRMAA Surcharge (monthly) |
 |---|---|---|
-| Up to $106,000 | Up to $212,000 | $0 |
-| $106,001 to $133,000 | $212,001 to $266,000 | $13.70 |
-| $133,001 to $167,000 | $266,001 to $334,000 | $35.30 |
-| $167,001 to $200,000 | $334,001 to $400,000 | $57.00 |
-| $200,001 to $500,000 | $400,001 to $750,000 | $78.60 |
-| Above $500,000 | Above $750,000 | $85.80 |
+| Up to $109,000 | Up to $218,000 | $0 |
+| $109,001 to $137,000 | $218,001 to $274,000 | $14.50 |
+| $137,001 to $171,000 | $274,001 to $342,000 | $37.50 |
+| $171,001 to $205,000 | $342,001 to $410,000 | $60.40 |
+| $205,001 to $499,999 | $410,001 to $749,999 | $83.30 |
+| $500,000+ | $750,000+ | $91.00 |
 
 The single biggest mistake people make during Medicare's Open Enrollment Period (October 15 through December 7 each year) is focusing on the monthly premium alone. A $12-per-month plan sounds appealing until you realize it covers none of your four regular prescriptions at the preferred tier.
 
@@ -76,21 +76,21 @@ Here's how to do it:
 3. Enter each drug. The tool will show you every plan available in your ZIP code and calculate your estimated annual cost for each.
 4. Check the pharmacy. Plans tier their costs by pharmacy network. Your cheapest plan might be significantly cheaper if you use a preferred mail-order pharmacy.
 5. Verify the formulary. Before enrolling, click through to confirm your drugs are covered and note which tier they're on. Formularies can change January 1.
-6. Consider the deductible. The maximum Part D deductible in 2026 is $590. Some plans waive it entirely for lower tiers. If most of your drugs are Tier 1 or Tier 2 generics, a zero-deductible plan may cost you less overall.
+6. Consider the deductible. The maximum Part D deductible in 2026 is $615. Some plans waive it entirely for lower tiers. If most of your drugs are Tier 1 or Tier 2 generics, a zero-deductible plan may cost you less overall.
 
 If you'd rather have guided help, your State Health Insurance Assistance Program, known as SHIP, provides free one-on-one counseling. Find your local SHIP contact through Medicare.gov or call 1-800-MEDICARE (1-800-633-4227).
 
-## The $2,000 Cap and What It Changes for 2026
+## The $2,100 Cap and What It Changes for 2026
 
-The [$2,000 annual out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drug costs, introduced in 2025 as part of the Inflation Reduction Act, continues in 2026. This is genuinely the most significant improvement to Part D in years. Before this cap existed, people with expensive specialty medications faced catastrophic costs that could exceed $3,000 to $10,000 or more annually.
+The [$2,100 annual out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drug costs, introduced in 2025 as part of the Inflation Reduction Act, continues in 2026. This is genuinely the most significant improvement to Part D in years. Before this cap existed, people with expensive specialty medications faced catastrophic costs that could exceed $3,000 to $10,000 or more annually.
 
 What changes with the cap:
 
-If you take high-cost medications, say a biologic drug for rheumatoid arthritis or a cancer maintenance drug, your total Part D cost exposure stops at $2,000. Anything above that, the plan and the manufacturer (through the coverage gap discount program) absorb.
+If you take high-cost medications, say a biologic drug for rheumatoid arthritis or a cancer maintenance drug, your total Part D cost exposure stops at $2,100. Anything above that, the plan and the manufacturer (through the coverage gap discount program) absorb.
 
 This also makes the separate catastrophic phase of Part D essentially invisible to most beneficiaries. You won't hit a coverage gap "donut hole" the way people did before 2025, because the cap stops the bleeding earlier.
 
-One thing to watch: plans are now restructuring their formularies and tier systems partly in response to taking on more catastrophic risk. Some plans have moved specialty drugs to Tier 4 or Tier 5, which means higher cost-sharing before you hit the cap. The $2,000 ceiling still applies, but your monthly drug costs before reaching that ceiling might be higher than you'd expect. This is exactly why running the Medicare.gov Plan Finder calculation with your specific drugs matters more than ever.
+One thing to watch: plans are now restructuring their formularies and tier systems partly in response to taking on more catastrophic risk. Some plans have moved specialty drugs to Tier 4 or Tier 5, which means higher cost-sharing before you hit the cap. The $2,100 ceiling still applies, but your monthly drug costs before reaching that ceiling might be higher than you'd expect. This is exactly why running the Medicare.gov Plan Finder calculation with your specific drugs matters more than ever.
 
 AARP's Medicare resource center has plain-language guides on how the restructured Part D benefit design works across different plan types, which is worth bookmarking if you want to understand the benefit structure more deeply.
 
@@ -124,7 +124,7 @@ The 2026 Part D landscape has more moving parts than any year since the program 
 
 - [CMS, Medicare Part D Coverage and Costs](https://www.medicare.gov/drug-coverage-part-d), Explains Part D premiums, coverage structure, and enrollment rules
 - [CMS, Medicare Costs at a Glance](https://www.medicare.gov/basics/costs/medicare-costs), Official breakdown of current Medicare premium amounts
-- [CMS, Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare), Details IRA changes including $2,000 out-of-pocket cap
+- [CMS, Inflation Reduction Act and Medicare](https://www.cms.gov/inflation-reduction-act-and-medicare), Details IRA changes including $2,100 out-of-pocket cap
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

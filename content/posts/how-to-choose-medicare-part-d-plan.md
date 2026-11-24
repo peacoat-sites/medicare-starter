@@ -25,7 +25,7 @@ author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent [late enrollment penalty](/medicare-part-d-late-enrollment-penalty/) for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. I've sat with people in exactly this position for two decades, and I can tell you: the right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.
+You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent [late enrollment penalty](/medicare-part-d-late-enrollment-penalty/) for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. The right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.
 
 ## What Medicare Part D Actually Is (And What It Isn't)
 
@@ -77,7 +77,7 @@ The most powerful free tool available to you is the Medicare Plan Finder at [Med
 | Tier 4 | Specialty drugs | 25-33% coinsurance |
 | Tier 5 | High-cost specialty drugs | 33% coinsurance |
 
-Many people overlook the deductible. In 2024, the maximum deductible a Part D plan can charge is $545, though many plans charge less, and some charge none at all. If a plan has a full deductible, you pay 100% of your drug costs out of pocket until you've spent that amount, before any plan coverage kicks in. For someone who takes multiple brand-name medications, that deductible can hit fast.
+Many people overlook the deductible. In 2026, the maximum deductible a Part D plan can charge is $615, though many plans charge less, and some charge none at all. If a plan has a full deductible, you pay 100% of your drug costs out of pocket until you've spent that amount, before any plan coverage kicks in. For someone who takes multiple brand-name medications, that deductible can hit fast.
 
 After the deductible, you move into the initial coverage phase. Here's where tiers matter enormously.
 
@@ -89,7 +89,7 @@ After the deductible, you move into the initial coverage phase. Here's where tie
 | Tier 4 | Non-preferred brand names | Significantly higher cost |
 | Tier 5 | Specialty drugs | Highest cost, often coinsurance % |
 
-One important change took effect in 2024 and 2025 under the Inflation Reduction Act: the catastrophic phase of Part D coverage was restructured, and a $2,000 annual out-of-pocket cap was established for 2025. Once you hit that cap, you pay nothing more for covered Part D drugs for the rest of the year. For people on expensive specialty medications, this is a significant protection. You can read about the current rules at [Medicare.gov](https://www.medicare.gov/).
+One important change took effect in 2024 and 2025 under the Inflation Reduction Act: the catastrophic phase of Part D coverage was restructured, and a $2,000 annual out-of-pocket cap was established for 2025. That cap has since increased to $2,100 for 2026. Once you hit that cap, you pay nothing more for covered Part D drugs for the rest of the year. For people on expensive specialty medications, this is a significant protection. You can read about the current rules at [Medicare.gov](https://www.medicare.gov/).
 
 ## The Late Enrollment Penalty Nobody Warns You About
 

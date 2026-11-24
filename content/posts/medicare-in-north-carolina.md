@@ -36,7 +36,7 @@ Here's what you actually need to [know before](/medicare-glp-1-bridge-what-benef
 
 ## What Medicare Actually Covers (and What It Doesn't)
 
-[Original Medicare](/medicare-advantage-vs-original-medicare/) -- Part A for hospital coverage, Part B for outpatient and doctor visits, is your federal baseline. Part A is premium-free for most people who worked at least 40 quarters. Part B costs $185.00 per month in 2026 for most beneficiaries, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount), which can push that premium above $560 a month.
+[Original Medicare](/medicare-advantage-vs-original-medicare/), Part A for hospital coverage, Part B for outpatient and doctor visits, is your federal baseline. Part A is premium-free for most people who worked at least 40 quarters. Part B costs $202.90 per month in 2026 for most beneficiaries, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount), which can push that premium above $560 a month.
 
 What Original Medicare does NOT cover: routine dental, vision, hearing, and most long-term care. That gap is not a footnote. This gap often produces significant financial stress, especially for people who need dentures or hearing aids and assumed Medicare covered them.
 
@@ -56,13 +56,13 @@ MA plans also use networks. If your doctor isn't in the plan's network, you eith
 
 | Plan | Monthly Premium (avg. NC, age 65) | Covers Part A Deductible | Covers Part B Coinsurance | Foreign Travel Emergency | Part B Deductible |
 |---|---|---|---|---|---|
-| Plan G | $135 - $185 | Yes | Yes | Yes (80%) | No (you pay $257) |
-| Plan N | $100 - $145 | Yes | Yes (with copays) | Yes (80%) | No (you pay $257) |
+| Plan G | $135 - $185 | Yes | Yes | Yes (80%) | No (you pay $283) |
+| Plan N | $100 - $145 | Yes | Yes (with copays) | Yes (80%) | No (you pay $283) |
 | Plan K | $65 - $95 | 50% | 50% | No | No |
 | Plan A | $90 - $130 | No | Yes | No | No |
 | High-Deductible G | $45 - $75 | Yes (after $2,870 ded.) | Yes (after deductible) | Yes (80%) | No |
 
-Medigap (also called Medicare Supplement Insurance) works alongside Original Medicare. You pay a monthly premium to a private insurer, and that insurer covers the cost-sharing gaps that Medicare leaves behind. Plan G is the most popular option in NC right now, and honestly, for most healthy 65-year-olds, it's a solid default. You pay your $257 Part B deductible once a year and then essentially have $0 cost-sharing for covered services after that.
+Medigap (also called Medicare Supplement Insurance) works alongside Original Medicare. You pay a monthly premium to a private insurer, and that insurer covers the cost-sharing gaps that Medicare leaves behind. Plan G is the most popular option in NC right now, and honestly, for most healthy 65-year-olds, it's a solid default. You pay your $283 Part B deductible once a year and then essentially have $0 cost-sharing for covered services after that.
 
 Plan N costs less per month but charges copays at the doctor's office (up to $20) and in the ER (up to $50 if not admitted). For someone who rarely sees specialists, Plan N can save $400 to $600 per year in premiums with minimal extra out-of-pocket. I made the mistake of defaulting to Plan G for a very healthy client a few years ago without doing that math. He would've saved meaningfully with N. The right answer depends on how often you use care.
 

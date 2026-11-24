@@ -44,7 +44,7 @@ Cataract surgery is one of the stronger wins for vision coverage. Part B covers 
 
 What Part B won't touch: a routine refraction (the "which is clearer, one or two?" exam to update your glasses prescription), standard frames, contact lenses outside of the post-cataract context, or LASIK.
 
-For example, with Original Medicare and a Medigap plan, a diabetic retinopathy screening would be covered at 80% after the Part B deductible ($257 in 2026), with Medigap covering the remaining 20%. However, a routine refraction at the same visit would not be covered and would cost money out of pocket.
+For example, with Original Medicare and a Medigap plan, a diabetic retinopathy screening would be covered at 80% after the Part B deductible ($283 in 2026), with Medigap covering the remaining 20%. However, a routine refraction at the same visit would not be covered and would cost money out of pocket.
 
 ---
 

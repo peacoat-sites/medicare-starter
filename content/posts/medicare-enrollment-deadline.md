@@ -60,7 +60,7 @@ When that employer coverage ends, you get an eight-month [Special Enrollment Per
 
 I'd also caution you not to confuse "creditable coverage" with just having insurance. The IRS and Medicare definitions are specific. If your employer plan is considered creditable drug coverage (your plan administrator is required to tell you this in writing each year), you're protected. If it isn't, penalties can apply even if you technically had insurance. When in doubt, get that notice in writing and keep it somewhere you can actually find it.
 
-A common mistake is assuming that coverage under a spouse's retiree health plan provides protected status to delay Medicare. It doesn't. The late enrollment penalty is 10% added to the Part B premium for every 12-month period of delay. On a base premium of $185 per month (the 2025 standard Part B premium), even a two-year delay means paying roughly $222 a month instead. For the rest of your life. That's not a hypothetical. It's exactly how the penalty works.
+A common mistake is assuming that coverage under a spouse's retiree health plan provides protected status to delay Medicare. It doesn't. The late enrollment penalty is 10% added to the Part B premium for every 12-month period of delay. On a base premium of $202.90 per month (the 2026 standard Part B premium), even a two-year delay means paying roughly $243.48 a month instead. For the rest of your life. That's not a hypothetical. It's exactly how the penalty works.
 
 ## The Annual Enrollment Period Is Not Your Backup for Late Signups
 

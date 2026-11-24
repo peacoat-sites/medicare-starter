@@ -3,7 +3,7 @@ title: "Medicare Savings Programs for Low Income Seniors in Florida"
 date: 2026-07-28T16:10:53.836329+00:00
 lastmod: 2026-11-16T16:00:00Z
 draft: false
-description: "Discover how Florida seniors can access $185 monthly savings and other assistance programs to reduce healthcare costs and premiums."
+description: "Discover how Florida seniors can access $202.90 monthly savings and other assistance programs to reduce healthcare costs and premiums."
 image: "/img/heroes/7545337.jpg"
 categories: ["State Medicare Resources"]
 tags: ["medicare", "savings", "programs", "income", "seniors"]
@@ -28,11 +28,11 @@ faqs:
 
 Only about 1 in 3 Florida seniors who qualify for [Medicare Savings Programs](/medicare-savings-programs/) actually enrolls in one. Let that sink in for a second.
 
-I've spent two decades walking people through Medicare benefits, and that statistic from the Kaiser Family Foundation still stops me cold every time I think about it. We're talking about a program that can eliminate a beneficiary's Part B premium entirely, which in 2026 runs $185.00 [per month](/average-medicare-costs-per-month/), and yet millions of eligible people just... don't know it exists. Or they tried to apply once, got confused by a form, and gave up. I've seen both.
+I've spent two decades walking people through Medicare benefits, and that statistic from the Kaiser Family Foundation still stops me cold every time I think about it. We're talking about a program that can eliminate a beneficiary's Part B premium entirely, which in 2026 runs $202.90 [per month](/average-medicare-costs-per-month/), and yet millions of eligible people just... don't know it exists. Or they tried to apply once, got confused by a form, and gave up. I've seen both.
 
 I'll be honest: I went deep on this specifically because I kept getting the same question from Florida seniors in our counseling sessions. "Frank, I'm on Medicare and I can barely make rent. What can I actually do?" The answer is more specific, and more actionable, than most articles tell you.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Florida has 4 Medicare Savings Program levels; the most common (SLMB) pays your $185/month Part B premium.</li><li style="margin:5px 0">Income limits in 2026: roughly $1,660/month for a single person to qualify for at least one MSP tier.</li><li style="margin:5px 0">Enrolling in any MSP automatically enrolls you in Extra Help for Part D drug costs, saving up to $5,400/year.</li><li style="margin:5px 0">Apply through Florida's Department of Children and Families (DCF), not Social Security or Medicare directly.</li><li style="margin:5px 0">Assets are no longer counted for MSP eligibility in Florida as of 2023, a rule change most people don't know about.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Florida has 4 Medicare Savings Program levels; the most common (SLMB) pays your $202.90/month Part B premium.</li><li style="margin:5px 0">Income limits in 2026: roughly $1,660/month for a single person to qualify for at least one MSP tier.</li><li style="margin:5px 0">Enrolling in any MSP automatically enrolls you in Extra Help for Part D drug costs, saving up to $5,400/year.</li><li style="margin:5px 0">Apply through Florida's Department of Children and Families (DCF), not Social Security or Medicare directly.</li><li style="margin:5px 0">Assets are no longer counted for MSP eligibility in Florida as of 2023, a rule change most people don't know about.</li></ul></div>
 
 ## What the Numbers Actually Look Like
 
@@ -40,7 +40,7 @@ About 1.4 million Floridians are currently enrolled in some form of Medicare Sav
 
 What surprised me when I dug into the state-level data was the geographic skew. Miami-Dade, Hillsborough, and Broward counties account for a disproportionate share of enrollees, partly because those areas have more robust community outreach, and partly because the legal services networks there are better funded. If you're in a rural county like Levy or Gilchrist, your odds of ever hearing about these programs from a caseworker are significantly lower.
 
-The Part B premium alone tells most of the story. At $185.00 per month in 2026 (per [Medicare.gov](https://www.medicare.gov/)), a senior on the Specified Low-Income Medicare Beneficiary program, which is just the second MSP tier, saves $2,220 a year. Every year. Just from one enrollment.
+The Part B premium alone tells most of the story. At $202.90 per month in 2026 (per [Medicare.gov](https://www.medicare.gov/)), a senior on the Specified Low-Income Medicare Beneficiary program, which is just the second MSP tier, saves $2,434.80 a year. Every year. Just from one enrollment.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Annual savings by MSP tier (2026)</div><div class="sc-row"><span class="sc-label">QMB (Full)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">SLMB (Part B only)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">$2,220</span></div><div class="sc-row"><span class="sc-label">QI (Part B only)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">$2,220</span></div><div class="sc-row"><span class="sc-label">QDWI (Part A)</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$505</span></div><div class="sc-src">Source: CMS 2026 Medicare Savings Program data</div></div>
 
@@ -85,9 +85,9 @@ Processing typically takes 30 to 45 days. If you're approved for QMB, your Medic
 
 **Three real scenarios that show how this plays out:**
 
-Maria, 72, in Tampa, single, income $1,410/month from Social Security → Applied for QMB through DCF ACCESS → Approved in 31 days, Part B premium eliminated ($185/month), copays eliminated. Estimated annual savings: $3,800+.
+Maria, 72, in Tampa, single, income $1,410/month from Social Security → Applied for QMB through DCF ACCESS → Approved in 31 days, Part B premium eliminated ($202.90/month), copays eliminated. Estimated annual savings: $3,800+.
 
-Robert, 68, in Jacksonville, income $1,580/month from a small pension plus Social Security → Too high for QMB, qualified for SLMB → Part B premium ($185/month) covered. Annual savings: $2,220.
+Robert, 68, in Jacksonville, income $1,580/month from a small pension plus Social Security → Too high for QMB, qualified for SLMB → Part B premium ($202.90/month) covered. Annual savings: $2,434.80.
 
 Dorothy, 75, in Orlando, income $1,620/month, had $18,000 in savings (would have disqualified her pre-2023) → Applied under new no-asset-test rules, qualified for QI → Part B premium covered, automatically enrolled in Extra Help for prescriptions. Combined annual savings estimated at $3,600.
 
@@ -103,7 +103,7 @@ The copays under full Extra Help in 2026 are $4.90 for generics and $12.15 for b
 
 - [Kaiser Family Foundation (KFF)](https://www.kff.org/): Medicare Savings Program enrollment gap research and state-level participation rates.
 - [Centers for Medicare & Medicaid Services (CMS)](https://www.cms.gov/): 2026 Medicare Savings Program income thresholds, Extra Help benefit values, QMB billing protections.
-- [Medicare.gov](https://www.medicare.gov/): 2026 Part B premium ($185.00/month), program overview and eligibility descriptions.
+- [Medicare.gov](https://www.medicare.gov/): 2026 Part B premium ($202.90/month), program overview and eligibility descriptions.
 - [Florida Department of Children and Families (DCF)](https://www.myflorida.com/accessflorida/): State-specific application process, form numbers, and ACCESS Florida portal.
 - [Social Security Administration (SSA)](https://www.ssa.gov/): Extra Help (Low Income Subsidy) automatic enrollment rules for MSP recipients.
 

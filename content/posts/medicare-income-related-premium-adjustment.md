@@ -33,23 +33,23 @@ Let's talk about what IRMAA actually is, why it hits when it does, and what you 
 
 IRMAA stands for Income-Related Monthly Adjustment Amount. That's Medicare's official way of saying they're adding an extra surcharge to your Part B (medical insurance) and Part D (prescription drug coverage) when your income goes above certain limits.
 
-Here's the mechanics: Medicare Part B has a standard premium most people pay. In 2025, that's $185.00 a month. But if Social Security sees your income was above a certain threshold two years ago, you'll pay more than that. Potentially a lot more.
+Here's the mechanics: Medicare Part B has a standard premium most people pay. In 2026, that's $202.90 a month. But if Social Security sees your income was above a certain threshold two years ago, you'll pay more than that. Potentially a lot more.
 
 Part D works the same way. You don't pay a flat IRMAA on top of whatever drug plan you pick. You pay it regardless. Same income brackets, same rules.
 
 Congress created this in 2003, expanded it in 2010 and again in 2011. The logic: higher-income Medicare beneficiaries should pay more of the program's costs. Fair or not, it's law. And it runs automatically.
 
-## The Two-Year Lookback: Why Your 2023 Income Affects Your 2025 Premium
+## The Two-Year Lookback: Why Your 2024 Income Affects Your 2026 Premium
 
 | Income Range (MAGI) | Individual Filers | Married Filing Jointly* | Monthly Part B Addition |
 | --- | --- | --- | --- |
-| $106,000-$133,000 | $106,000-$266,000 | $74.00 |
+| $109,000-$133,000 | $218,000-$266,000 | $74.00 |
 | $133,001-$167,000 | $266,001-$334,000 | $185.00 |
 | $167,001-$200,000 | $334,001-$400,000 | $295.90 |
 | $200,001-$500,000 | $400,001-$1,000,000 | $406.90 |
 | Above $500,000 | Above $1,000,000 | $443.90 |
 
-*Married filing separately: much stricter; second bracket begins at $106,000 combined.
+*Married filing separately: much stricter; second bracket begins at $218,000 combined.
 
 This is what blindsides most people.
 
@@ -59,13 +59,13 @@ MAGI includes your Adjusted Gross Income plus any tax-exempt interest. Municipal
 
 The 2025 brackets for individual filers are:
 
-- $106,000 to $133,000 MAGI: add $74.00/month to Part B
-- $133,001 to $167,000: add $185.00/month
-- $167,001 to $200,000: add $295.90/month
-- $200,001 to $500,000: add $406.90/month
-- Above $500,000: add $443.90/month
+- $109,001 to $137,000 MAGI: add $81.20/month to Part B
+- $137,001 to $171,000: add $202.90/month
+- $171,001 to $205,000: add $324.60/month
+- $205,001 to $499,999: add $446.30/month
+- Above $499,999: add $487.00/month
 
-Married couples filing jointly get thresholds roughly double those. Married people who lived together but filed separately? Much harsher. The second bracket kicks in at $106,000.
+Married couples filing jointly get thresholds roughly double those. Married people who lived together but filed separately? Much harsher. The second bracket kicks in at $109,000.
 
 That filing-separately rule catches a lot of people. I worked with a couple once where one lived in Florida (retired) and one still worked in New York. They filed separately for legitimate tax reasons, and the wife ended up in the second-highest IRMAA tier on what was actually modest retirement income.
 

@@ -70,7 +70,7 @@ One more thing on drugs: Florida has a large population managing multiple chroni
 
 Medigap plans are standardized by the federal government, meaning a Plan G in Florida covers exactly the same benefits as a Plan G in Vermont. What varies is the price, and Florida Medigap premiums tend to be higher than the national average. This is partly because insurers price based on local claim patterns, and Florida's older, sicker population means higher expected claims.
 
-Plan G is currently the most comprehensive Medigap option available to new Medicare enrollees (Plan F, which was even more comprehensive, closed to new enrollees in 2020). Plan G covers everything Original Medicare doesn't, except the Part B deductible, which is $257 in 2026. Beyond that deductible, your cost-sharing on Plan G is essentially zero. That predictability has real value, especially if you have significant health needs or want to budget with certainty.
+Plan G is currently the most comprehensive Medigap option available to new Medicare enrollees (Plan F, which was even more comprehensive, closed to new enrollees in 2020). Plan G covers everything Original Medicare doesn't, except the Part B deductible, which is $283 in 2026. Beyond that deductible, your cost-sharing on Plan G is essentially zero. That predictability has real value, especially if you have significant health needs or want to budget with certainty.
 
 The monthly premium for Plan G in Florida varies by age, gender, tobacco use, and insurer, but it's common to see quotes ranging from around $130 to $250 or more per month for a 65-year-old. Community-rated counties (where everyone pays the same price regardless of age) are less common in Florida than attained-age rating, where your premium rises as you get older. That distinction matters a lot for long-term affordability, and it's something most people never ask about when they're shopping.
 
@@ -90,7 +90,7 @@ If you're approaching 65 or helping a parent figure this out, Medicare.gov is th
 
 ## The Low-Income Help Programs Florida Doesn't Advertise Well Enough
 
-Florida has a meaningful population of Medicare beneficiaries who struggle with costs but don't know help is available. The federal Extra Help program (also called the Low-Income Subsidy, or LIS) can dramatically reduce Part D drug costs, sometimes to $0 premiums and just a few dollars per prescription. Separately, Florida's Medicaid program offers Medicare Savings Programs (MSPs) that can pay your Part B premium (currently $185 per month in 2026) and sometimes more.
+Florida has a meaningful population of Medicare beneficiaries who struggle with costs but don't know help is available. The federal Extra Help program (also called the Low-Income Subsidy, or LIS) can dramatically reduce Part D drug costs, sometimes to $0 premiums and just a few dollars per prescription. Separately, Florida's Medicaid program offers Medicare Savings Programs (MSPs) that can pay your Part B premium (currently $202.90 per month in 2026) and sometimes more.
 
 The income and asset thresholds for these programs are more generous than most people assume. A single person can often qualify for some level of MSP assistance even with modest savings. Yet application rates are frustratingly low, largely because people assume they won't qualify without checking.
 

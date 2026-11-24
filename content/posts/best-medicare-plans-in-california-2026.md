@@ -80,7 +80,7 @@ A lot of people assume that because so many Advantage plans advertise $0 premium
 
 The honest tradeoff: Original Medicare (Parts A and B) has no network restrictions. You can see any doctor in the country who accepts Medicare, no referrals needed. Add a Medigap policy, and you're covering most or all of the gaps in Original Medicare's cost sharing. Add a standalone Part D plan for drug coverage, and you have comprehensive, predictable coverage.
 
-The cost is real. A Plan G (the most popular Medigap option since Plan F closed to new enrollees in 2020) runs somewhere in the range of $100 to $250+ per month for a California beneficiary in their late 60s, depending on age, gender, and which insurer you buy from. That's on top of your Part B premium (in 2026, the standard Part B premium is $185.00 per month). So yes, you're paying more upfront.
+The cost is real. A Plan G (the most popular Medigap option since Plan F closed to new enrollees in 2020) runs somewhere in the range of $100 to $250+ per month for a California beneficiary in their late 60s, depending on age, gender, and which insurer you buy from. That's on top of your Part B premium (in 2026, the standard Part B premium is $202.90 per month). So yes, you're paying more upfront.
 
 But here's what the $0-premium Advantage plan brochure doesn't show you: cost sharing adds up fast when you're actually sick. Copays for specialist visits, hospital stays, chemotherapy, dialysis. People who have serious, ongoing health needs often find that the predictability of Medigap is worth every dollar.
 
@@ -94,7 +94,7 @@ California is also one of a small number of states that allows guaranteed issue 
 
 Standalone Part D plans get almost no attention compared to Advantage plans, and that's a mistake, especially if you're on Original Medicare.
 
-In 2026, the Part D landscape changed meaningfully thanks to provisions in the Inflation Reduction Act. The out-of-pocket cap for prescription drug costs hit $2,000 for the first time. That's a big deal for anyone on expensive medications. Insulin costs are capped at $35 a month. And the "donut hole" (the coverage gap that used to leave people paying full price for drugs) is effectively gone.
+In 2026, the Part D landscape changed meaningfully thanks to provisions in the Inflation Reduction Act. The out-of-pocket cap for prescription drug costs is $2,100. That's a big deal for anyone on expensive medications. Insulin costs are capped at $35 a month. And the "donut hole" (the coverage gap that used to leave people paying full price for drugs) is effectively gone.
 
 Even with those improvements, plan choice matters. Formularies differ. Preferred pharmacy networks differ. If you use a 90-day mail-order pharmacy, check whether your plan gives you better pricing through Costco Pharmacy or CVS Caremark versus a local independent. The difference on a maintenance medication can be $40-$50 per month.
 

@@ -14,15 +14,15 @@ slug: "medicare-deductible-2026"
 affiliate_disclosure: true
 faqs:
  - q: "What is the Medicare Part B deductible for 2026?"
-   a: "The Part B deductible for 2026 is $257. You pay this once per calendar year before Medicare starts covering its 80% share of approved outpatient costs. It resets every January 1."
+   a: "The Part B deductible for 2026 is $283. You pay this once per calendar year before Medicare starts covering its 80% share of approved outpatient costs. It resets every January 1."
  - q: "Does the Part A deductible reset every year?"
-   a: "No, and this is one of the most misunderstood things about Medicare. The Part A deductible resets per benefit period, not per calendar year. A new benefit period begins each time you're admitted to the hospital after being out of the hospital (and skilled nursing care) for 60 or more consecutive days. You could pay the $1,676 deductible more than once in the same year if you have multiple separate hospitalizations."
+   a: "No, and this is one of the most misunderstood things about Medicare. The Part A deductible resets per benefit period, not per calendar year. A new benefit period begins each time you're admitted to the hospital after being out of the hospital (and skilled nursing care) for 60 or more consecutive days. You could pay the $1,736 deductible more than once in the same year if you have multiple separate hospitalizations."
  - q: "Do Medicare Advantage plans have the same deductibles as Original Medicare?"
    a: "No. Medicare Advantage plans set their own cost-sharing structures, including their own deductibles, which can be higher or lower than Original Medicare's. Some have $0 deductibles; others charge a few hundred dollars for hospital admission. You need to review your specific plan's Evidence of Coverage document to know what applies."
  - q: "Can a Medigap plan cover my Medicare deductibles?"
    a: "Most Medigap plans cover the Part A deductible. For the Part B deductible, only Plans C and F cover it, and both of those are unavailable to people who became eligible for Medicare after January 1, 2020. No Medigap plan covers Part D costs. Always confirm what a specific plan covers before enrolling."
- - q: "Is the Part D deductible always $590 in 2026?"
-   a: "$590 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
+ - q: "No. $590 was the maximum standard Part D deductible in 2025. In 2026, the maximum standard Part D deductible is $615. Individual plans may set a lower deductible or no deductible at all, but no standard plan can exceed $615."
+   a: "$615 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
 lastmod: 2026-11-16T16:00:00Z
 ---
 
@@ -36,17 +36,17 @@ Here are the real numbers for 2026, what each one means for your wallet, and the
 
 | Medicare Part | Deductible Amount | Reset Frequency | Key Detail |
 | --- | --- | --- | --- |
-| Part A (Hospital) | $1,676 | Per benefit period | Resets after 60 consecutive days outside hospital/SNF |
-| Part B (Outpatient) | $257 | Calendar year | Resets January 1; no out-of-pocket cap on coinsurance |
-| Part D (Prescription Drug) | Up to $590 | Calendar year | Maximum allowable; individual plans may charge less or $0 |
+| Part A (Hospital) | $1,736 | Per benefit period | Resets after 60 consecutive days outside hospital/SNF |
+| Part B (Outpatient) | $283 | Calendar year | Resets January 1; no out-of-pocket cap on coinsurance |
+| Part D (Prescription Drug) | Up to $615 | Calendar year | Maximum allowable; individual plans may charge less or $0 |
 
 Current as of July 2026, here's where things stand:
 
-**Medicare Part A** (hospital insurance) has a deductible of **$1,676 per benefit period**. Not per year. Per benefit period. That distinction matters enormously, and I'll come back to it.
+**Medicare Part A** (hospital insurance) has a deductible of **$1,736 per benefit period**. Not per year. Per benefit period. That distinction matters enormously, and I'll come back to it.
 
-**Medicare Part B** (outpatient/medical insurance) has a deductible of **$257 for the year**. Once you've paid $257 in covered services, Medicare starts picking up its 80% share.
+**Medicare Part B** (outpatient/medical insurance) has a deductible of **$283 for the year**. Once you've paid $283 in covered services, Medicare starts picking up its 80% share.
 
-**Medicare Part D** (prescription drug coverage) has a maximum allowable deductible of **$590 per year** in 2026, though not every plan charges the full amount.
+**Medicare Part D** (prescription drug coverage) has a maximum allowable deductible of **$615 per year** in 2026, though not every plan charges the full amount.
 
 Those are the three deductibles most people need to know. Write them down. The Part A one in particular tends to shock people who've only been thinking about Part B.
 
@@ -56,24 +56,24 @@ Those are the three deductibles most people need to know. Write them down. The P
 
 The Part A deductible often causes real financial pain for people who thought they had it figured out.
 
-Medicare's Part A deductible doesn't reset on January 1. It resets per "benefit period," which begins the day you're admitted to a hospital as an inpatient and ends after you've been out of the hospital (and not in a skilled nursing facility) for 60 consecutive days. If you get admitted again after that 60-day clock runs out, a brand new $1,676 deductible starts fresh.
+Medicare's Part A deductible doesn't reset on January 1. It resets per "benefit period," which begins the day you're admitted to a hospital as an inpatient and ends after you've been out of the hospital (and not in a skilled nursing facility) for 60 consecutive days. If you get admitted again after that 60-day clock runs out, a brand new $1,736 deductible starts fresh.
 
-That means someone who has two separate hospitalizations in the same calendar year, separated by more than 60 days, pays $1,676 twice. $3,352 out of pocket just in deductibles. I've sat with clients who were floored by this. One gentleman I worked with in early 2026 had a hip replacement in February and then a cardiac event in August. He'd been healthy between the two, cleared the 60-day window, and hit a new benefit period. He wasn't expecting a second deductible. His adult children weren't either.
+That means someone who has two separate hospitalizations in the same calendar year, separated by more than 60 days, pays $1,736 twice. $3,472 out of pocket just in deductibles. For example, a hip replacement in February and a cardiac admission in August, with more than 60 days out of the hospital in between, fall into two separate benefit periods, so the Part A deductible applies twice.
 
 Medicare's own summary documents don't always make the "per benefit period" language jump out. You have to read carefully. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) does publish a detailed booklet called "Medicare & You" each year, and the 2026 edition explains benefit periods on page 28 (of the print version). It's worth reading that section slowly.
 
-The Part A deductible also covers only the first 60 days of your hospital stay. Days 61 through 90 come with a daily coinsurance charge of $419 per day. Days beyond that, if you ever get into what Medicare calls "lifetime reserve days," cost $838 per day. Those numbers are 2026 figures and they do adjust annually.
+The Part A deductible also covers only the first 60 days of your hospital stay. Days 61 through 90 come with a daily coinsurance charge of $434 per day. Days beyond that, if you ever get into what Medicare calls "lifetime reserve days," cost $868 per day. Those numbers are 2026 figures and they do adjust annually.
 
 **Worked example:**
 Frank, age 72, is admitted for pneumonia and stays 5 days. He hasn't been hospitalized in over 60 days.
-Action: He owes the full $1,676 Part A deductible for the benefit period.
-Result: Medicare pays the rest of his covered hospital costs for that stay. If he's readmitted for a separate condition 45 days later, no new deductible applies because his first benefit period is still open. Net savings: $1,676.
+Action: He owes the full $1,736 Part A deductible for the benefit period.
+Result: Medicare pays the rest of his covered hospital costs for that stay. If he's readmitted for a separate condition 45 days later, no new deductible applies because his first benefit period is still open. Net savings: $1,736.
 
 ---
 
 ## Part B: The Simpler One (Sort Of)
 
-The $257 Part B deductible for 2026 is genuinely more straightforward. It's a calendar-year deductible. It resets January 1. You pay $257 in covered Part B services before Medicare starts sharing costs, and then Medicare typically covers 80% of the approved amount for the rest of the year.
+The $283 Part B deductible for 2026 is genuinely more straightforward. It's a calendar-year deductible. It resets January 1. You pay $283 in covered Part B services before Medicare starts sharing costs, and then Medicare typically covers 80% of the approved amount for the rest of the year.
 
 The catch with Part B isn't the deductible itself. It's the 20% coinsurance that never has an out-of-pocket cap under Original Medicare. There's no maximum out-of-pocket limit built into traditional Medicare Parts A and B. If you have a serious illness that racks up $200,000 in outpatient costs, Medicare pays $160,000 and you owe $40,000, minus the deductible. That exposure is exactly why Medigap ([Medicare Supplement Insurance](/medicare-advantage-vs-medicare-supplement-total-cost/)) policies exist.
 
@@ -81,18 +81,18 @@ For example, in a moderately bad health year with two specialist visits, one out
 
 **Worked example:**
 Maria, age 68, has outpatient knee surgery in March 2026. Total Medicare-approved amount: $8,400.
-Action: She pays her $257 deductible (already met earlier in the year), then 20% of $8,400.
-Result: Maria owes $1,680 in coinsurance. With a Medigap Plan G policy, that $1,680 is covered after she satisfies the Plan G deductible (which in 2026 is $257, same as the Part B deductible). Net out-of-pocket: $257 instead of $1,937.
+Action: She pays her $283 deductible (already met earlier in the year), then 20% of $8,400.
+Result: Maria owes $1,680 in coinsurance. With a Medigap Plan G policy, that $1,680 is covered after she satisfies the Plan G deductible (which in 2026 is $283, same as the Part B deductible). Net out-of-pocket: $283 instead of $1,963.
 
 ---
 
 ## Part D Deductibles: More Variation Than You'd Expect
 
-This is where people often have the most confusion because Part D plans are offered by private insurers, and not every plan charges the same deductible. The $590 figure is the legal ceiling for 2026. Some plans charge less. Some charge $0. A few charge the full $590.
+This is where people often have the most confusion because Part D plans are offered by private insurers, and not every plan charges the same deductible. The $615 figure is the legal ceiling for 2026. Some plans charge less. Some charge $0. A few charge the full $615.
 
 Plans that waive the deductible often charge higher monthly premiums, so you're not really getting a free lunch. Whether a lower deductible or a lower premium is better for you depends almost entirely on how many prescriptions you take and what they cost.
 
-One thing [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) points out (and it's worth reading their Part D explainer if you're choosing a plan this year) is that some Part D plans apply the deductible only to certain tiers of drugs, usually Tiers 3 through 5, while covering generics (Tier 1 and Tier 2) without making you hit a deductible first. If all your medications are generic, a plan with a $590 deductible might cost you nothing extra compared to one with a $0 deductible and a higher premium.
+One thing [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) points out (and it's worth reading their Part D explainer if you're choosing a plan this year) is that some Part D plans apply the deductible only to certain tiers of drugs, usually Tiers 3 through 5, while covering generics (Tier 1 and Tier 2) without making you hit a deductible first. If all your medications are generic, a plan with a $615 deductible might cost you nothing extra compared to one with a $0 deductible and a higher premium.
 
 The Medicare Plan Finder at Medicare.gov lets you enter your actual medications and shows projected annual costs across plans, including how the deductible plays into your total spending.
 
@@ -110,8 +110,8 @@ Medigap policies do not cover Part D costs at all. That's a separate policy.
 
 **Worked example:**
 Robert, 74, enrolled in Medicare in 2018 and has a Medigap Plan F. He's hospitalized twice in 2026, with each admission separated by more than 60 days.
-Action: His Plan F covers both $1,676 Part A deductibles and all the Part B deductible and coinsurance.
-Result: Robert's out-of-pocket costs for both hospitalizations: $0 for the covered services (beyond his premium). Total deductibles that would have applied: $3,609. His Plan F premium is roughly $180-$250/month depending on his state and insurer, so the math gets interesting in a high-use year. New enrollees can't replicate this with Plan F, but Plan G gets close.
+Action: His Plan F covers both $1,736 Part A deductibles and all the Part B deductible and coinsurance.
+Result: Robert's out-of-pocket costs for both hospitalizations: $0 for the covered services (beyond his premium). Total deductibles that would have applied: $3,472. His Plan F premium is roughly $180-$250/month depending on his state and insurer, so the math gets interesting in a high-use year. New enrollees can't replicate this with Plan F, but Plan G gets close.
 
 ---
 

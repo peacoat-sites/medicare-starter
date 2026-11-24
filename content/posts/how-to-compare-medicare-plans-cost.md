@@ -16,7 +16,7 @@ faqs:
  - q: "What's the single most important cost number to compare between Medicare plans?"
    a: "Your estimated total annual cost, not your monthly premium. Medicare's Plan Finder calculates this for you using your specific drugs and usage patterns. Add the out-of-pocket maximum to your annual premiums to see your worst-case scenario, and compare that figure across plans."
  - q: "Is a $0 premium Medicare Advantage plan ever actually free?"
-   a: "No. You still pay your Part B premium (in 2026, that's $185.00 per month for most people), plus copays, coinsurance, and potentially deductibles when you use care. The $0 refers only to the plan's additional monthly premium on top of Part B."
+   a: "No. You still pay your Part B premium (in 2026, that's $202.90 per month for most people), plus copays, coinsurance, and potentially deductibles when you use care. The $0 refers only to the plan's additional monthly premium on top of Part B."
  - q: "Can I switch Medicare plans if my costs turn out to be higher than expected?"
    a: "Yes, during certain windows. The Annual Enrollment Period (AEP) runs October 15 through December 7 each year and lets you switch plans effective January 1. There's also a Medicare Advantage Open Enrollment Period from January 1 through March 31 that allows one switch. Outside those windows, your options are more limited unless you qualify for a Special Enrollment Period."
  - q: "Do Medicare Advantage plans really cover dental and vision?"
@@ -42,7 +42,7 @@ The numbers you absolutely must compare across any plans you're considering:
 
 **Monthly premium.** Yes, this matters. But weight it against everything else.
 
-**Deductibles.** Part A has a per-benefit-period deductible (in 2026, that's $1,676). Part B has an annual deductible of $257. Medicare Advantage plans often have their own separate deductibles, and they vary wildly.
+**Deductibles.** Part A has a per-benefit-period deductible (in 2026, that's $1,736). Part B has an annual deductible of $283. Medicare Advantage plans often have their own separate deductibles, and they vary wildly.
 
 **Copays and coinsurance.** This is where the real money hides. A plan with a $0 premium might charge you a $45 specialist copay every visit. If you see four specialists a month, that's $2,160 a year in copays alone.
 

@@ -33,7 +33,7 @@ I've talked with hundreds of Texas seniors over the years, and the same misunder
 
 ## How Medicare Parts A and B Work Here (The Basics, Without the Boredom)
 
-Original Medicare, meaning Parts A and B, is federal. The coverage rules don't change whether you're in El Paso or Beaumont. Part A is your hospital insurance. Part B covers doctor visits, outpatient services, preventive care, and durable medical equipment. In 2024, the standard Part B premium is $174.70 per month, though that can be higher depending on your income.
+Original Medicare, meaning Parts A and B, is federal. The coverage rules don't change whether you're in El Paso or Beaumont. Part A is your hospital insurance. Part B covers doctor visits, outpatient services, preventive care, and durable medical equipment. In 2026, the standard Part B premium is $202.90 per month, though that can be higher depending on your income.
 
 What changes in Texas is everything that sits around Original Medicare: the supplemental plans, the Medicare Advantage options, the drug plans, and the [state-specific assistance programs](/state-medicare-savings-programs/). That's where Texas diverges, and that's where most of the confusion lives.
 
@@ -63,11 +63,11 @@ Texas has what's called a "Birthday Rule" that deserves mention. As of 2024, Tex
 
 | Plan Type | Coverage Type | Out-of-Pocket Maximum | Key Feature |
 | --- | --- | --- | --- |
-| Original Medicare (A & B) | Federal, standardized | None | Part B premium $174.70/month (2024); no OOP cap |
+| Original Medicare (A & B) | Federal, standardized | None | Part B premium $202.90/month (2026); no OOP cap |
 | Medicare Advantage (Part C) | Private insurance alternative | Varies by plan | Often $0 premium; includes Part D, dental, vision, hearing |
 | Medigap Plan G | Supplemental coverage | N/A | Most comprehensive for new beneficiaries; $120-$190/month (Austin example) |
 | Medigap Plan N | Supplemental coverage | N/A | Lower-cost alternative with some copays |
-| Part D (Standalone) | Prescription drug | $8,000 (2024) | 20-30 plans available; premiums $7-$100+/month |
+| Part D (Standalone) | Prescription drug | $2,100 (2026) | 20-30 plans available; premiums $7-$100+/month |
 
 Part D plans are where I see the most "set it and forget it" behavior, and it costs people real money. Texas beneficiaries have access to somewhere between 20 and 30 standalone Part D plans in most regions. Premiums range from around $7 to well over $100 a month, and the formularies (the list of covered drugs) are completely different across plans.
 

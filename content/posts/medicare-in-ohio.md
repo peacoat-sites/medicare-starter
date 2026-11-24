@@ -32,11 +32,11 @@ Here's what I tell people when they sit down with me: Medicare itself is a feder
 
 Let me walk you through what matters most if you're in Ohio.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ohio has roughly 2.7 million Medicare enrollees with strong Medicare Advantage and Medigap plan availability statewide.</li><li style="margin:5px 0">Ohio's OSHIIP program offers free, unbiased Medicare counseling by phone, in person, and online.</li><li style="margin:5px 0">Ohio seniors may qualify for the Medicare Savings Program, which can eliminate Part B premiums entirely.</li><li style="margin:5px 0">Medicare Advantage plan availability varies by county in Ohio, urban counties like Franklin and Cuyahoga have far more options.</li><li style="margin:5px 0">The standard Part B premium is $185.00/month in 2026; Ohio-specific help programs can reduce or eliminate that cost.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Ohio has roughly 2.7 million Medicare enrollees with strong Medicare Advantage and Medigap plan availability statewide.</li><li style="margin:5px 0">Ohio's OSHIIP program offers free, unbiased Medicare counseling by phone, in person, and online.</li><li style="margin:5px 0">Ohio seniors may qualify for the Medicare Savings Program, which can eliminate Part B premiums entirely.</li><li style="margin:5px 0">Medicare Advantage plan availability varies by county in Ohio, urban counties like Franklin and Cuyahoga have far more options.</li><li style="margin:5px 0">The standard Part B premium is $202.90/month in 2026; Ohio-specific help programs can reduce or eliminate that cost.</li></ul></div>
 
 ## Original Medicare vs. Medicare Advantage in Ohio
 
-Most people come to me having already heard something about [Medicare Advantage](/medicare-advantage-dental-coverage/) (Part C) from a TV commercial, usually featuring a celebrity and promises of $0 premiums and free groceries. I want to be honest with you: those plans exist, and some of them are genuinely good deals for certain people. But the landscape in Ohio is complicated enough that I'd never tell someone to just pick whatever's advertised on TV.
+Most people have heard something about [Medicare Advantage](/medicare-advantage-dental-coverage/) (Part C) from a TV commercial, usually featuring a celebrity and promises of $0 premiums and free groceries. Those plans exist, and some of them are genuinely good deals for certain people. But the Medicare Advantage landscape in Ohio is complicated enough that picking whatever's advertised on TV isn't a reliable approach.
 
 In Ohio's major metro counties, such as Franklin (Columbus), Cuyahoga (Cleveland), Hamilton (Cincinnati), and Summit (Akron), you'll typically find 30 to 50-plus [Medicare Advantage plans](/best-medicare-advantage-plans-with-dental-and-vision-2026/) to choose from during open enrollment. That's a lot. Rural counties in Appalachian Ohio might have 10 or 12. The difference matters because Medicare Advantage plans use provider networks, and a plan that covers your cardiologist in Columbus might not cover the specialist you need in Chillicothe.
 
@@ -49,9 +49,9 @@ As of July 2026, here's a practical breakdown of what Medicare costs look like f
 | Coverage | What It Covers | 2026 Standard Cost |
 |---|---|---|
 | Part A (Hospital) | Inpatient hospital, skilled nursing, hospice | $0 premium if you worked 40+ quarters |
-| Part B (Medical) | Doctor visits, outpatient care, preventive services | $185.00/month premium |
-| Part B Deductible | Applies before Part B pays | $257/year |
-| Part A Deductible | Per benefit period for hospital stays | $1,676 per benefit period |
+| Part B (Medical) | Doctor visits, outpatient care, preventive services | $202.90/month premium |
+| Part B Deductible | Applies before Part B pays | $283/year |
+| Part A Deductible | Per benefit period for hospital stays | $1,736 per benefit period |
 | Medicare Advantage (Part C) | Bundles A + B, often adds dental/vision/drug | Varies; $0-$150+/month in Ohio |
 | Part D (Drug Coverage) | Prescription drugs (standalone plan) | Varies; $10-$100+/month in Ohio |
 | Medigap (Supplement) | Covers gaps in Original Medicare | Typically $100-$300+/month in Ohio |
@@ -68,11 +68,11 @@ Scenario: A 71-year-old woman in Zanesville wasn't sure if her Part D plan still
 
 ## Ohio's Medicare Savings Programs
 
-In Ohio, if your income is below certain thresholds, you may qualify for one of four Medicare Savings Programs (MSPs). These are state-administered programs that can pay your Part B premium ($185/month), your Part A and Part B deductibles, or even your copays, depending on your income level.
+In Ohio, if your income is below certain thresholds, you may qualify for one of four Medicare Savings Programs (MSPs). These are state-administered programs that can pay your Part B premium ($202.90/month), your Part A and Part B deductibles, or even your copays, depending on your income level.
 
 The four programs are the Qualified Medicare Beneficiary (QMB), Specified Low-Income Medicare Beneficiary (SLMB), Qualifying Individual (QI), and Qualified Disabled and Working Individuals (QDWI) programs. The QMB program is the most comprehensive and can cover nearly all your Medicare cost-sharing. Ohio Medicaid administers these, and you apply through your county Department of Job and Family Services.
 
-Scenario: A retired factory worker in Youngstown, age 68, living on $1,340/month from Social Security, applied for QMB through his local county office. Within about six weeks, Ohio Medicaid approved him. His Part B premium of $185/month was eliminated entirely, and his provider copays dropped to near zero. Net effect: over $2,200/year back in his pocket.
+Scenario: A retired factory worker in Youngstown, age 68, living on $1,340/month from Social Security, applied for QMB through his local county office. Within about six weeks, Ohio Medicaid approved him. His Part B premium of $202.90/month was eliminated entirely, and his provider copays dropped to near zero. Net effect: over $2,200/year back in his pocket.
 
 If you think you might qualify, don't let the application process scare you off. The form is straightforward, and OSHIIP counselors can walk you through it step by step.
 
@@ -82,7 +82,7 @@ This is where I see people make the most expensive mistakes. Most people pick a 
 
 Every fall, during the Annual Enrollment Period (October 15 to December 7), I strongly encourage you to use the Plan Finder tool at [Medicare.gov](https://www.medicare.gov/plan-compare/) to re-shop your Part D coverage. Enter your actual medications, dosages, and preferred pharmacy, and it will rank plans by your total estimated annual cost. Not just the premium. The total. That's the number that matters.
 
-In 2026, one important change: the out-of-pocket cap for Part D is set at $2,000 annually. That's a significant protection that wasn't there a few years ago, and Ohio seniors on expensive specialty medications should find real relief in it.
+In 2026, one important change: the out-of-pocket cap for Part D is set at $2,100 annually. That's a significant protection that wasn't there a few years ago, and Ohio seniors on expensive specialty medications should find real relief in it.
 
 One insider note: when you're comparing plans on the Medicare.gov tool, the pharmacy you list matters enormously. Some Part D plans have "preferred pharmacy" networks where your copay might be $3 at a Kroger pharmacy but $25 for the same drug at an independent pharmacy two blocks away. Worth knowing before you assume any plan is cheapest.
 

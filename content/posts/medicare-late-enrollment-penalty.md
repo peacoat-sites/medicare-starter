@@ -47,7 +47,7 @@ The Part B late enrollment penalty is 10% of the standard monthly premium for ev
 
 Your IEP is a 7-month window: the 3 months before your 65th birthday month, your birthday month itself, and the 3 months after. Miss that without a qualifying reason, and the clock starts.
 
-Let's make this concrete. Say you were eligible at 65 but didn't enroll until 67. That's roughly two 12-month periods of delay. Your permanent penalty would be 20% added to your monthly Part B premium, every month, forever. If the standard Part B premium is $185 per month (as it's been recently), you'd pay an extra $37 every month on top. That's $444 per year. Over 20 years of retirement, you're looking at nearly $9,000 in additional costs for a decision made at 65.
+Let's make this concrete. Say you were eligible at 65 but didn't enroll until 67. That's roughly two 12-month periods of delay. Your permanent penalty would be 20% added to your monthly Part B premium, every month, forever. If the standard Part B premium is $202.90 per month, you'd pay an extra $40.58 every month on top. That's $486.96 per year. Over 20 years of retirement, you're looking at nearly $9,740 in additional costs for a decision made at 65.
 
 Most people who delay Part B aren't being careless. They're still working, they have employer coverage, or a spouse has coverage through their job. Those situations can qualify for a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) that lets you sign up later without any penalty. The key word is "can." The rules about what qualifies are specific, and assuming you're covered without checking can be one of the costliest mistakes to make.
 

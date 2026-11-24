@@ -36,7 +36,7 @@ MSPs are state-administered programs funded jointly by states and the federal go
 
 The **Qualified Medicare Beneficiary (QMB)** program is the most comprehensive. It covers your Part A premium (if you have one), your Part B premium, and your deductibles, copays, and coinsurance across both parts. If you're enrolled in QMB, Medicare providers are actually prohibited by federal law from billing you for cost-sharing. Not just supposed to not bill you. Prohibited. Some people enrolled in QMB still receive bills from providers who aren't aware of or don't follow this rule. You can push back on those.
 
-The **Specified Low-Income Medicare Beneficiary (SLMB)** program does one thing: it pays your Part B premium. That's currently around $185 a month, depending on your income, which adds up to more than $2,200 a year returned to your Social Security payment.
+The **Specified Low-Income Medicare Beneficiary (SLMB)** program does one thing: it pays your Part B premium. That's currently around $202.90 a month, depending on your income, which adds up to more than $2,200 a year returned to your Social Security payment.
 
 **Qualifying Individual (QI)** does the same thing as SLMB, just at a slightly higher income level. The catch with QI is that it's funded through annual congressional appropriations, which means slots can run out. Apply early in the year if you think you might qualify here.
 
@@ -47,7 +47,7 @@ The fourth, **Qualified Disabled and Working Individuals (QDWI)**, is narrow. It
 | Program | Primary Benefit | Income Level | Best For |
 | --- | --- | --- | --- |
 | Qualified Medicare Beneficiary (QMB) | Covers Part A premium, Part B premium, deductibles, copays, coinsurance | ~$1,275/month individual, ~$1,720/month couple | Comprehensive cost-sharing coverage |
-| Specified Low-Income Medicare Beneficiary (SLMB) | Covers Part B premium (~$185/month) | Slightly higher than QMB | Premium assistance only |
+| Specified Low-Income Medicare Beneficiary (SLMB) | Covers Part B premium (~$202.90/month) | Slightly higher than QMB | Premium assistance only |
 | Qualifying Individual (QI) | Covers Part B premium | Slightly higher than SLMB | Premium assistance; funding subject to appropriations |
 | Qualified Disabled and Working Individuals (QDWI) | Covers Part A premium | Varies; under 65, disabled | Disabled individuals who lost Medicare due to work |
 

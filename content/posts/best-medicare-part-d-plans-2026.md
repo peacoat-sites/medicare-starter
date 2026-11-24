@@ -35,7 +35,7 @@ Part D is Medicare's prescription drug coverage. It's sold by private insurance 
 
 Here's what most people don't realize: the monthly premium is almost never the most important number. A plan with a $0 premium can cost you thousands more per year than a plan with a $35 premium, depending on which drugs you take and how that plan's formulary is structured. A formulary is the list of drugs a plan covers, and each drug gets assigned to a tier that determines your cost. Lower tiers mean lower copays. Your medication might be on Tier 2 in one plan and Tier 4 in another, and that difference adds up fast.
 
-The 2026 plan year also comes with an important milestone. Thanks to the Inflation Reduction Act, the out-of-pocket cap on Part D drug costs is now $2,000 per year. Before this law passed, there was no true cap, and some people with serious illnesses were spending $5,000, $7,000, or more annually just on prescriptions. That $2,000 ceiling is a meaningful protection, and it's now standard on every Part D plan. Medicare.gov has a full breakdown of how this cap works and what counts toward it.
+The 2026 plan year also comes with an important milestone. Thanks to the Inflation Reduction Act, the out-of-pocket cap on Part D drug costs is now $2,100 per year. Before this law passed, there was no true cap, and some people with serious illnesses were spending $5,000, $7,000, or more annually just on prescriptions. That $2,100 ceiling is a meaningful protection, and it's now standard on every Part D plan. Medicare.gov has a full breakdown of how this cap works and what counts toward it.
 
 ## The Big Changes Heading Into 2026
 
@@ -43,14 +43,14 @@ The 2026 plan year also comes with an important milestone. Thanks to the Inflati
 | --- | --- | --- |
 | Deductible Phase | Initial out-of-pocket costs before coverage begins | You pay the full cost of drugs until deductible is met |
 | Initial Coverage Phase | Standard coverage after deductible | You pay copays/coinsurance; plan pays its share |
-| Catastrophic Phase | High-cost protection | You pay minimal costs; plan covers the rest (with $2,000 annual cap) |
+| Catastrophic Phase | High-cost protection | You pay minimal costs; plan covers the rest (with $2,100 annual cap) |
 | Coverage Gap | Eliminated as of 2026 | Replaced by simplified three-phase structure under Inflation Reduction Act |
 
 Every fall, Medicare releases updated plan data and the landscape shifts. Premiums change. Formularies get restructured. Some plans enter a market, others leave. Going into 2026, here's what you need to know.
 
 The national benchmark premium that determines whether you owe a [Late Enrollment Penalty](/medicare-part-d-late-enrollment-penalty/) is recalculated each year. For 2026, that number is expected to shift modestly, though final figures are published by CMS (the Centers for Medicare and Medicaid Services) in the fall. What doesn't change is the penalty itself: if you delayed enrolling in Part D when you were first eligible and didn't have other creditable drug coverage, you pay a permanent penalty added to your premium for as long as you have Part D.
 
-Plans are also adjusting to the new cost-sharing structure created by the Inflation Reduction Act. The "coverage gap" (the old "donut hole") has been eliminated in its traditional form, replaced with a simpler three-phase structure: deductible phase, initial coverage phase, and catastrophic phase. With [the $2,000 cap](/medicare-2000-out-of-pocket-cap-drugs/) in place, most people with high drug costs will reach catastrophic coverage and pay nothing for the rest of the year. This is genuinely good news, but it also means plan premiums have risen in some markets to offset the insurers' increased costs.
+Plans are also adjusting to the new cost-sharing structure created by the Inflation Reduction Act. The "coverage gap" (the old "donut hole") has been eliminated in its traditional form, replaced with a simpler three-phase structure: deductible phase, initial coverage phase, and catastrophic phase. With [the $2,100 cap](/medicare-2000-out-of-pocket-cap-drugs/) in place, most people with high drug costs will reach catastrophic coverage and pay nothing for the rest of the year. This is genuinely good news, but it also means plan premiums have risen in some markets to offset the insurers' increased costs.
 
 One more thing to watch: Medicare is offering a new option called the Medicare Prescription Payment Plan (sometimes called the "smoothing" option), which lets you spread your drug costs across the year in monthly installments rather than paying large lump sums. This doesn't reduce what you owe, but it can prevent situations where you hit a large bill in January and struggle to cover it. You have to opt in each year through your plan.
 
@@ -91,7 +91,7 @@ This quick comparison framework can help you organize your research:
 | Factor | What to Look For |
 |---|---|
 | Monthly premium | One piece of the total cost, not the whole picture |
-| Annual deductible | Up to $590 in 2025; check if your drugs are exempt from the deductible |
+| Annual deductible | Up to $615 in 2026; check if your drugs are exempt from the deductible |
 | Formulary tier for your drugs | Lower tier = lower copay; confirm before enrolling |
 | Preferred pharmacy network | Verify your pharmacy is preferred, not just in-network |
 | Star Rating | Look for 4 or 5 stars |

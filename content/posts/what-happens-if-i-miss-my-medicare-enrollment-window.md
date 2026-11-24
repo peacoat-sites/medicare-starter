@@ -34,9 +34,9 @@ Missing your enrollment window is serious, but it's rarely catastrophic. The pen
 
 This matters a lot, because "Medicare" is actually several different programs stitched together, and each one has its own enrollment rules. Mixing them up is how people end up with wrong information.
 
-**Part A** covers hospital stays. Most people get it premium-free if they've paid Medicare taxes for at least 10 years, and they're automatically enrolled when they claim Social Security. If you have to pay a premium for Part A (currently around $285 to $505 per month depending on your work history as of July 2026), missing that window carries its own penalty.
+**Part A** covers hospital stays. Most people get it premium-free if they've paid Medicare taxes for at least 10 years, and they're automatically enrolled when they claim Social Security. If you have to pay a premium for Part A (currently $311 or $565 per month depending on your work history), missing that window carries its own penalty.
 
-**Part B** covers doctor visits and outpatient care. This is where most missed-enrollment pain happens. The standard monthly premium in 2026 is $185, though higher earners pay more through IRMAA (Income-Related Monthly Adjustment Amount). If you miss your Initial Enrollment Period (IEP) for Part B and don't have a qualifying exception, you'll face a late enrollment penalty.
+**Part B** covers doctor visits and outpatient care. This is where most missed-enrollment pain happens. The standard monthly premium in 2026 is $202.90, though higher earners pay more through IRMAA (Income-Related Monthly Adjustment Amount). If you miss your Initial Enrollment Period (IEP) for Part B and don't have a qualifying exception, you'll face a late enrollment penalty.
 
 **Part D** covers prescription drugs. Separate enrollment, separate penalty structure.
 
@@ -48,7 +48,7 @@ So which one did you miss? Your next steps depend entirely on the answer.
 
 I'll be honest: the Part B late enrollment penalty surprised me the first time I looked at it closely. I'd assumed it would be a one-time fee. It's not. It's permanent.
 
-For every 12-month period you were eligible for Part B but didn't sign up, your premium goes up by 10%. And that penalty rides with you for as long as you have Medicare. So if you delayed three years unnecessarily, your Part B premium is 30% higher forever. On a $185 monthly premium, that's an extra $55 a month, $660 a year, for the rest of your life.
+For every 12-month period you were eligible for Part B but didn't sign up, your premium goes up by 10%. And that penalty rides with you for as long as you have Medicare. So if you delayed three years unnecessarily, your Part B premium is 30% higher forever. On a $202.90 monthly premium, that's an extra $60.87 a month, $730.44 a year, for the rest of your life.
 
 Part D works similarly but slightly differently: the penalty is 1% of the national base beneficiary premium for each month you went without qualifying drug coverage. In 2026, that national base is around $36. So 18 months without Part D coverage means roughly a 18% penalty on that base, added to your monthly premium permanently.
 
@@ -71,7 +71,7 @@ This is where Carol's situation went wrong. She had retiree coverage, which soun
 
 **Scenario 1:** Robert, 67, retired at 66 after working at a company with 400 employees, where his employer health plan was his primary coverage. He delays Medicare Part B until he retires.
 Action taken: Robert enrolls during his 8-month SEP after his employer coverage ends.
-Result: Zero penalty. He pays the standard $185/month Part B premium. His delay was fully protected.
+Result: Zero penalty. He pays the standard $202.90/month Part B premium. His delay was fully protected.
 
 **Scenario 2:** Margaret, 68, retired at 62 and went on COBRA until it ran out at 64, then onto a marketplace plan. She didn't realize marketplace coverage doesn't count as qualifying employer coverage for Medicare SEP purposes.
 Action taken: She finally enrolls in Part B at 68, three years after her IEP closed.

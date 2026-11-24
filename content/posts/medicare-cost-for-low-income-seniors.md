@@ -50,7 +50,7 @@ Part A covers hospital stays and is free if you or your spouse paid Medicare tax
 
 Part B handles doctor visits and outpatient services. $174.70 a month in 2024 for the vast majority of enrollees. It comes straight out of your Social Security check automatically. Then there's a $240 annual deductible before Part B coverage actually starts.
 
-The stuff nobody budgets for properly is Part D (prescription drugs). It's got its own premium, its own deductible that can hit $545 in 2024, plus copays on top of that. A [Medicare Supplement plan (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/) to fill the gaps that Part A and B leave wide open runs $150 to $250 monthly depending on your age, where you live, and what your health history looks like.
+The stuff nobody budgets for properly is Part D (prescription drugs). It's got its own premium, its own deductible that can hit $615 in 2026, plus copays on top of that. A [Medicare Supplement plan (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/) to fill the gaps that Part A and B leave wide open runs $150 to $250 monthly depending on your age, where you live, and what your health history looks like.
 
 All together? A senior with zero financial assistance could be paying $500 to $600 a month just on Medicare before they pick up a single prescription or see a specialist. On Social Security income of $1,500 to $1,800 a month, that's devastating.
 

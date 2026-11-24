@@ -68,7 +68,7 @@ A $1,000 procedure? Medicare pays $800. TRICARE for Life covers the remaining $2
 
 Don't skip Medicare Part B. If you don't enroll, you lose TRICARE for Life. Many retirees make this mistake, thinking TRICARE alone is enough. It isn't, TRICARE for Life requires active Part B enrollment.
 
-The standard Medicare Part B premium in 2024 is $174.70 per month (higher if your income exceeds certain thresholds). That's real money, but it's tiny compared to what TFL gives you back in coverage and peace of mind.
+The standard Medicare Part B premium in 2026 is $202.90 per month (higher if your income exceeds certain thresholds). That's real money, but it's tiny compared to what TFL gives you back in coverage and peace of mind.
 
 [RELATED: Medicare Part B Enrollment Guide, Avoiding Costly Late Penalties]
 
@@ -168,7 +168,7 @@ Medicare's Annual Open Enrollment runs October 15 through December 7 each year. 
 | Coverage Component | Cost to Beneficiary |
 |---|---|
 | Medicare Part A Premium | $0 (if 40+ work quarters) |
-| Medicare Part B Premium | $174.70/month (2024 standard) |
+| Medicare Part B Premium | $202.90/month (2026 standard) |
 | TRICARE for Life Premium | $0 additional |
 | TFL Annual Deductible | $0 (Medicare deductible applies) |
 | Inpatient Hospital (after Medicare) | $0 (TFL covers Medicare cost-share) |

@@ -16,7 +16,7 @@ faqs:
  - q: "Can I enroll in Medicare online?"
    a: "Yes. Go to Medicare.gov and apply through your my Social Security account. It takes about 10 minutes and you receive a confirmation immediately. This is genuinely easier than calling or visiting an office."
  - q: "Is Medicare free at 65?"
-   a: "Part A is premium-free for most people. Part B has a standard premium of $174.70 a month in 2024, higher if your income exceeds certain thresholds. You'll also pay deductibles, copays, and coinsurance unless you have a supplement plan. 'Free' is a word Medicare's marketing leans on harder than it should."
+   a: "Part A is premium-free for most people. Part B has a standard premium of $202.90 a month in 2026, higher if your income exceeds certain thresholds. You'll also pay deductibles, copays, and coinsurance unless you have a supplement plan. 'Free' is a word Medicare's marketing leans on harder than it should."
  - q: "When can I change my Medicare plan after I enroll?"
    a: "For Medicare Advantage and Part D, you can make changes during the Annual Enrollment Period (October 15 through December 7). There's also a Medicare Advantage Open Enrollment Period from January 1 through March 31. Medigap is different: outside of your initial six-month window, switching plans requires medical underwriting in most states, and you can be denied."
 author: "Robert Williams"
@@ -45,7 +45,7 @@ Medicare has four main pieces, and conflating them is where most confusion start
 
 **Part A** covers hospital stays, skilled nursing facility care, and some home health services. Most people get it premium-free if they or their spouse paid Medicare taxes for at least 10 years (40 quarters). If you didn't hit that threshold, you can still buy it, but premiums in 2024 run up to $505 a month, so this matters.
 
-**Part B** covers outpatient care: doctor visits, lab work, preventive services, durable medical equipment. The standard 2024 premium is $174.70 a month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). More on that in a moment.
+**Part B** covers outpatient care: doctor visits, lab work, preventive services, durable medical equipment. The standard 2026 premium is $202.90 a month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). More on that in a moment.
 
 **Part C** is Medicare Advantage. Private insurers bundle Parts A and B (and usually D) into a single plan, often with extra benefits like dental or vision. Not a separate enrollment so much as an alternative way to get your coverage.
 
@@ -67,7 +67,7 @@ When you eventually leave that qualifying employer coverage, you get a [Special 
 
 ## The IRMAA Trap Most People Don't See Coming
 
-If your modified adjusted gross income from two years prior exceeded $103,000 (individual) or $206,000 (joint) in 2024, you'll pay more than the standard $174.70 for Part B. How much more depends on your income bracket, but the top tier can push your monthly premium past $500. For Part D, high earners pay a surcharge on top of their plan premium.
+If your modified adjusted gross income from two years prior exceeded $109,000 (individual) or $218,000 (joint) in 2024, you'll pay more than the standard $202.90 for Part B. How much more depends on your income bracket, but the top tier can push your monthly premium past $500. For Part D, high earners pay a surcharge on top of their plan premium.
 
 Two years prior. So if you retire at 63 and your income drops, Medicare looks at your 63-year-old income when you enroll at 65. This stings a lot of recently retired professionals who had a high-earning final year.
 

@@ -14,7 +14,7 @@ slug: "medicare-coinsurance-explained"
 affiliate_disclosure: true
 faqs:
   - q: "What is the Medicare Part B coinsurance rate?"
-    a: "After you meet the annual Part B deductible (currently $257 as of 2026), Medicare pays 80% of the approved amount for covered outpatient services and you pay the remaining 20%. There's no annual cap on that 20% in original Medicare alone."
+    a: "After you meet the annual Part B deductible (currently $283 as of 2026), Medicare pays 80% of the approved amount for covered outpatient services and you pay the remaining 20%. There's no annual cap on that 20% in original Medicare alone."
   - q: "Does Medicare coinsurance count toward an out-of-pocket maximum?"
     a: "Original Medicare (Part A and Part B by themselves) has no out-of-pocket maximum, so coinsurance can accumulate without limit. Medicare Advantage plans do have annual out-of-pocket maximums, and Medigap plans can cover much of the coinsurance that original Medicare leaves behind."
   - q: "How long does Medicare coinsurance apply for a hospital stay?"
@@ -40,7 +40,7 @@ A **copay** is a flat dollar amount. You see your primary care doctor, you pay $
 
 Here's a worked example to make that concrete:
 
-You're admitted for outpatient surgery. Medicare approves $8,000 for the procedure. You've already met your [Part B deductible](/medicare-deductible-2026/) (currently $257 as of 2026). Your share: 20% of $8,000, which is $1,600. Just like that, out of pocket, no ceiling.
+You're admitted for outpatient surgery. Medicare approves $8,000 for the procedure. You've already met your [Part B deductible](/medicare-deductible-2026/) (currently $283 as of 2026). Your share: 20% of $8,000, which is $1,600. Just like that, out of pocket, no ceiling.
 
 For example, someone with original Medicare only might receive an $1,800 coinsurance bill after a hospital outpatient procedure without realizing it was coming. Enrolling in a Medicare Supplement (also called Medigap) plan before the procedure could reduce coinsurance responsibility to zero or near zero depending on the plan letter chosen.
 
@@ -48,25 +48,25 @@ For example, someone with original Medicare only might receive an $1,800 coinsur
 
 | Medicare Part | Coinsurance Rate | Deductible (2026) | Key Details |
 | --- | --- | --- | --- |
-| Part A (Days 1-60) | None | $1,676 per benefit period | Fully covered after deductible |
-| Part A (Days 61-90) | $419/day | - | Coinsurance applies |
-| Part A (Days 91+) | $838/day | - | Lifetime reserve days only |
+| Part A (Days 1-60) | None | $1,736 per benefit period | Fully covered after deductible |
+| Part A (Days 61-90) | $434/day | - | Coinsurance applies |
+| Part A (Days 91+) | $868/day | - | Lifetime reserve days only |
 | SNF (Days 1-20) | None | Covered by Part A deductible | Fully covered |
-| SNF (Days 21-100) | $209.50/day | - | Coinsurance applies |
-| Part B | 20% | $257 | After deductible; applies to doctor visits, labs, imaging, DME, therapy |
-| Part D | Plan-dependent (typically 0-25%+) | Plan-dependent | Varies by tier; annual out-of-pocket cap is $2,000 |
+| SNF (Days 21-100) | $217/day | - | Coinsurance applies |
+| Part B | 20% | $283 | After deductible; applies to doctor visits, labs, imaging, DME, therapy |
+| Part D | Plan-dependent (typically 0-25%+) | Plan-dependent | Varies by tier; annual out-of-pocket cap is $2,100 |
 
 Part A, Part B, and Part D all handle coinsurance differently. This trips people up constantly.
 
-**Part A (hospital insurance)** uses a combination of deductibles and coinsurance based on how long you're hospitalized. For 2026, days 1 through 60 of a hospital stay carry no coinsurance after you pay the inpatient deductible (currently $1,676 per benefit period). But days 61 through 90? You pay $419 per day in coinsurance. Days 91 and beyond, if you're drawing on your lifetime reserve days, the coinsurance jumps to $838 per day. And once those reserve days are used up, Medicare pays nothing.
+**Part A (hospital insurance)** uses a combination of deductibles and coinsurance based on how long you're hospitalized. For 2026, days 1 through 60 of a hospital stay carry no coinsurance after you pay the inpatient deductible (currently $1,736 per benefit period). But days 61 through 90? You pay $434 per day in coinsurance. Days 91 and beyond, if you're drawing on your lifetime reserve days, the coinsurance jumps to $868 per day. And once those reserve days are used up, Medicare pays nothing.
 
-Skilled nursing facility (SNF) stays work similarly. Days 1 through 20 are covered in full by Part A. Days 21 through 100, you owe coinsurance of $209.50 per day as of this year. After day 100, you're on your own entirely.
+Skilled nursing facility (SNF) stays work similarly. Days 1 through 20 are covered in full by Part A. Days 21 through 100, you owe coinsurance of $217 per day as of this year. After day 100, you're on your own entirely.
 
-**Part B** is where most people run into coinsurance day-to-day. After the annual deductible ($257 in 2026), you typically owe 20% of the Medicare-approved amount for covered services. This applies to doctor visits, outpatient therapy, imaging, labs, and most durable medical equipment. Mental health outpatient visits, chemotherapy, dialysis, even some preventive services, they all fall under Part B rules.
+**Part B** is where most people run into coinsurance day-to-day. After the annual deductible ($283 in 2026), you typically owe 20% of the Medicare-approved amount for covered services. This applies to doctor visits, outpatient therapy, imaging, labs, and most durable medical equipment. Mental health outpatient visits, chemotherapy, dialysis, even some preventive services, they all fall under Part B rules.
 
 One important note: some preventive services (the "Welcome to Medicare" visit, annual wellness visits, certain screenings) are covered at 100% with no coinsurance, provided the visit stays focused on prevention and doesn't turn into a diagnostic appointment mid-visit. That last caveat has bitten a few people I know, so watch for it.
 
-**Part D (prescription drug coverage)** has its own coinsurance structure, and it varies by plan. Most Part D plans divide drugs into tiers, and your coinsurance or copay for each tier depends on the specific plan's formulary. Generic drugs might have a $0 or low copay. Specialty drugs, on the other hand, can carry coinsurance of 25% or more, and for very expensive medications, that percentage translates to serious money. The good news: the Inflation Reduction Act capped annual out-of-pocket drug costs at $2,000 for Medicare beneficiaries, which took effect in 2025 and is still in place as of 2026. That's a real change that genuinely helps people on expensive medications.
+**Part D (prescription drug coverage)** has its own coinsurance structure, and it varies by plan. Most Part D plans divide drugs into tiers, and your coinsurance or copay for each tier depends on the specific plan's formulary. Generic drugs might have a $0 or low copay. Specialty drugs, on the other hand, can carry coinsurance of 25% or more, and for very expensive medications, that percentage translates to serious money. The good news: the Inflation Reduction Act capped annual out-of-pocket drug costs for Medicare beneficiaries, starting at $2,000 in 2025 and rising to $2,100 in 2026. That's a real change that genuinely helps people on expensive medications.
 
 ## The No-Out-of-Pocket-Maximum Problem (And What to Do About It)
 
@@ -80,7 +80,7 @@ The research on whether Medigap is "worth it" is actually mixed, because it depe
 
 Medicare Advantage (Part C) plans are the other route. These private plans replace original Medicare and almost always include an out-of-pocket maximum, often between $4,000 and $8,500 annually. That cap is genuinely valuable. The tradeoff is that you're usually working within a network and may need referrals, which matters a lot depending on where you live and which doctors you use.
 
-**Scenario → Action taken → Result:** A gentleman I worked with, retired schoolteacher, was choosing between a $0-premium Medicare Advantage plan and a Medigap Plan G (running about $140/month in his area in Arizona). He was managing Type 2 diabetes and seeing specialists every few months. After mapping out his projected annual utilization, we estimated his coinsurance exposure under original Medicare alone would likely hit $1,200 to $1,800 annually. The Medigap plan cost about $1,680/year in premiums but effectively eliminated that unpredictable exposure. He went with Plan G. I can't tell you that's the right answer for everyone, but for him it made sense.
+**Scenario → Action taken → Result:** Someone choosing between a $0-premium Medicare Advantage plan and a Medigap Plan G (running about $140/month in a given area) while managing Type 2 diabetes and seeing specialists every few months faces a trade-off. Mapping out projected annual utilization, coinsurance exposure under original Medicare alone typically runs $1,200 to $1,800 annually. The Medigap plan costs about $1,680/year in premiums but effectively eliminates that unpredictable exposure. For someone with frequent specialist visits, Plan G can make sense. The right choice depends on individual health needs and risk tolerance.
 
 ## Extra Help, Low-Income Subsidies, and Coinsurance Relief Programs
 
@@ -90,7 +90,7 @@ Here's something that doesn't get enough attention: if your income and assets ar
 
 **Extra Help** (also called the Low-Income Subsidy, or LIS) reduces Part D coinsurance for prescription drugs.
 
-I'll be honest: these programs are underused. I've sat with seniors who qualified for QMB for years and had never been told it existed. If your income is anywhere near the eligibility thresholds, it's worth a phone call to your State Health Insurance Assistance Program (SHIP) counselor to check.
+These programs are underused. Many seniors who qualify for QMB have never been told it exists. If your income is anywhere near the eligibility thresholds, it's worth a phone call to your State Health Insurance Assistance Program (SHIP) counselor to check.
 
 ## Sources
 

@@ -45,7 +45,7 @@ The $50 monthly copay is straightforward until you look at how it interacts with
 
 First, the $50 does not count toward your Part D deductible. You'll still owe your full deductible on other medications covered through your plan.
 
-Second, it doesn't count toward your annual out-of-pocket cap under Part D. In 2026, that cap is $2,000, and GLP-1 Bridge copays won't help you reach it faster.
+Second, it doesn't count toward your annual out-of-pocket cap under Part D. In 2026, that cap is $2,100, and GLP-1 Bridge copays won't help you reach it faster.
 
 Third, Extra Help, formally called the Low Income Subsidy, cannot be applied to Bridge claims. If you're a lower-income beneficiary who normally gets cost-sharing assistance through Extra Help, you don't get that help here. You pay $50 like everyone else. Manufacturer coupons and discount programs like GoodRx are also excluded.
 

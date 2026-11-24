@@ -62,9 +62,9 @@ In 2027, the Part A inpatient deductible rises to $1,776 per benefit period. A b
 |---|---|---|---|
 | Part B Monthly Premium (standard) | $202.90 | $209.40 | +$6.50 |
 | Part B Annual Deductible | $283 | $292 | +$9 |
-| Part D Standard Deductible | $590 | $700 | +$110 |
-| Part D Out-of-Pocket Cap | $2,000 | $2,400 | +$400 |
-| Part A Inpatient Deductible | $1,632 | $1,776 | +$144 |
+| Part D Standard Deductible | $615 | $700 | +$85 |
+| Part D Out-of-Pocket Cap | $2,100 | $2,400 | +$300 |
+| Part A Inpatient Deductible | $1,736 | $1,776 | +$40 |
 
 ## What to Do Before December 7
 

@@ -18,7 +18,7 @@ faqs:
  - q: "Can I change my Medicare plan outside of Open Enrollment?"
    a: "Generally, no. The main window is Open Enrollment from October 15 to December 7, with coverage starting January 1. However, if you have a qualifying Special Enrollment Period (SEP), such as moving to a new county, losing employer coverage, or qualifying for Medicaid, you can change outside that window. Your SHINE counselor can confirm whether you qualify."
  - q: "Is a $0 premium Medicare Advantage plan actually free?"
-   a: "Not exactly. You still pay your monthly Part B premium (currently $185 in 2026 for most people) even on a $0 premium Advantage plan. The $0 refers to the plan's additional monthly charge on top of Part B. You can still owe copays, coinsurance, and costs up to the plan's annual out-of-pocket maximum."
+   a: "Not exactly. You still pay your monthly Part B premium (currently $202.90 in 2026 for most people) even on a $0 premium Advantage plan. The $0 refers to the plan's additional monthly charge on top of Part B. You can still owe copays, coinsurance, and costs up to the plan's annual out-of-pocket maximum."
  - q: "Do Medicare Advantage plans in Florida cover dental care?"
    a: "Most do include some dental coverage, but it varies widely in what it actually covers. Basic plans may only cover exams and cleanings. Richer plans cover fillings, extractions, and sometimes dentures or implants up to an annual maximum, often $1,000-$2,500. Always confirm the specifics before assuming the coverage meets your needs."
  - q: "What is SHINE and how do I get free Medicare help in Florida?"
@@ -48,7 +48,7 @@ Before you can pick the "best plan," you need to make one foundational decision:
 
 I used to reflexively tell people Original Medicare was the safer choice. Then I sat down with the actual numbers for Florida specifically, and I changed my mind on that for a lot of people.
 
-Here's the reality. Original Medicare covers roughly 80% of most services after you meet your Part B deductible (currently $257 in 2026). That sounds fine until you do the math on a hospital stay. There's no out-of-pocket maximum with [Original Medicare alone](/medicare-in-florida/). None. A serious illness can cost you tens of thousands of dollars unless you pair it with a Medicare Supplement plan (also called Medigap). The most popular Medigap plans in Florida, Plan G and Plan N, run roughly $120-$200 per month in premiums depending on your age, gender, and county.
+Here's the reality. Original Medicare covers roughly 80% of most services after you meet your Part B deductible (currently $283 in 2026). That sounds fine until you do the math on a hospital stay. There's no out-of-pocket maximum with [Original Medicare alone](/medicare-in-florida/). None. A serious illness can cost you tens of thousands of dollars unless you pair it with a Medicare Supplement plan (also called Medigap). The most popular Medigap plans in Florida, Plan G and Plan N, run roughly $120-$200 per month in premiums depending on your age, gender, and county.
 
 Medicare Advantage, by contrast, wraps Part A, Part B, and usually Part D (prescription drug coverage) into one plan, typically with a $0 monthly premium, and caps your annual out-of-pocket costs. The trade-off is a network. You're usually restricted to specific doctors and hospitals. In rural Florida, that network can be thin. In Miami-Dade or Hillsborough County, it's often robust enough that most seniors won't notice the limitation.
 

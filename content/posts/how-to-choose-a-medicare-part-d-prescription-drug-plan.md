@@ -45,16 +45,16 @@ What Part D doesn't cover: most over-the-counter medications, vitamins, and cosm
 | Component | Details |
 | --- | --- |
 | Monthly Premium | Amount you pay every month regardless of prescription fills |
-| Deductible | Amount you pay before coverage kicks in (up to $590 for standard Part D plans in 2026) |
+| Deductible | Amount you pay before coverage kicks in (up to $615 for standard Part D plans in 2026) |
 | Copays/Coinsurance | Per-prescription costs based on drug tier |
 | Pharmacy Network | In-network vs. out-of-network pharmacy costs |
-| Annual Out-of-Pocket Cap | $2,000 maximum (starting 2025 under Inflation Reduction Act) |
+| Annual Out-of-Pocket Cap | $2,100 maximum in 2026 (the cap started at $2,000 in 2025 under the Inflation Reduction Act) |
 
 Most people look at the monthly premium and stop there. Don't.
 
-The true out-of-pocket cost of a Part D plan comes from four pieces working together: the premium (what you pay every month regardless of whether you fill a prescription), the deductible (what you pay before coverage kicks in, currently up to $590 for standard Part D plans in 2026), your copays or coinsurance on each prescription, and the pharmacy network (because getting your drug at an out-of-network pharmacy can blow up your costs fast).
+The true out-of-pocket cost of a Part D plan comes from four pieces working together: the premium (what you pay every month regardless of whether you fill a prescription), the deductible (what you pay before coverage kicks in, currently up to $615 for standard Part D plans in 2026), your copays or coinsurance on each prescription, and the pharmacy network (because getting your drug at an out-of-network pharmacy can blow up your costs fast).
 
-There's one more thing to understand this year: the [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/). Starting in 2025, the Inflation Reduction Act capped what Medicare Part D enrollees pay out-of-pocket annually at $2,000. That's a genuinely significant protection, especially for people on expensive specialty drugs. If you're paying more than $2,000 in drug costs in a calendar year, something is wrong. Check your plan.
+There's one more thing to understand this year: the [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/). Starting in 2025, the Inflation Reduction Act capped what Medicare Part D enrollees pay out-of-pocket annually, beginning at $2,000 that first year and rising to $2,100 in 2026. That's a genuinely significant protection, especially for people on expensive specialty drugs. If you're paying more than $2,100 in drug costs in a calendar year, something is wrong. Check your plan.
 
 I've seen people fixate on a $12/month premium plan and end up paying $80 per refill because their drug sits at Tier 4. A plan with a $45 premium that covers the same drug at Tier 2 for a $15 copay is objectively the better deal. Do the math on your specific drugs, not on the sticker price.
 

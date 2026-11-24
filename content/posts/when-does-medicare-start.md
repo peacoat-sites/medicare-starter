@@ -35,7 +35,7 @@ Most people become eligible for Medicare the day they turn 65. That's the anchor
 
 But "eligible" and "enrolled" aren't the same thing. You can be eligible at 65 and still have choices to make about whether to sign up right then or wait. Those choices carry consequences.
 
-If you've worked and paid Medicare taxes for at least 10 years (40 quarters), you qualify for premium-free [Medicare Part A](/medicare-part-a-explained/), which covers hospital stays, skilled nursing facility care, and some home health services. Medicare Part B covers outpatient care, doctor visits, and preventive services. It comes with a monthly premium. In 2024, the standard Part B premium is $174.70 per month, though higher-income beneficiaries pay more through IRMAA (Income-Related Monthly Adjustment Amount).
+If you've worked and paid Medicare taxes for at least 10 years (40 quarters), you qualify for premium-free [Medicare Part A](/medicare-part-a-explained/), which covers hospital stays, skilled nursing facility care, and some home health services. Medicare Part B covers outpatient care, doctor visits, and preventive services. It comes with a monthly premium. In 2026, the standard Part B premium is $202.90 per month, though higher-income beneficiaries pay more through IRMAA (Income-Related Monthly Adjustment Amount).
 
 You're also eligible before 65 if you've received Social Security Disability Insurance (SSDI) for 24 months. People with ALS or End-Stage Renal Disease qualify on faster timelines.
 

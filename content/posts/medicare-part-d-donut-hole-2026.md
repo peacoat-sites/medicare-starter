@@ -14,11 +14,11 @@ slug: "medicare-part-d-donut-hole-2026"
 affiliate_disclosure: true
 faqs:
   - q: "Does the donut hole still exist in 2026?"
-    a: "Technically yes, the coverage gap phase is still written into the law, but the $2,000 annual out-of-pocket cap introduced by the Inflation Reduction Act means most people with serious drug costs pass through it quickly before hitting zero-cost catastrophic coverage. It's much less financially damaging than it used to be."
+    a: "Technically yes, the coverage gap phase is still written into the law, but the $2,100 annual out-of-pocket cap introduced by the Inflation Reduction Act means most people with serious drug costs pass through it quickly before hitting zero-cost catastrophic coverage. It's much less financially damaging than it used to be."
   - q: "What is the out-of-pocket maximum for Part D in 2026?"
-    a: "The hard cap on your true out-of-pocket costs for covered Part D drugs is $2,000 in 2026. Once you've paid that amount in eligible out-of-pocket drug costs in a calendar year, you owe $0 for covered drugs for the rest of the year."
-  - q: "Does my Part D premium count toward the $2,000 out-of-pocket cap?"
-    a: "No. Your monthly Part D premium is separate and does not count toward the $2,000 TrOOP (True Out-of-Pocket) limit. Only drug cost-sharing like deductibles, co-pays, and coinsurance on covered drugs counts."
+    a: "The hard cap on your true out-of-pocket costs for covered Part D drugs is $2,100 in 2026. Once you've paid that amount in eligible out-of-pocket drug costs in a calendar year, you owe $0 for covered drugs for the rest of the year."
+  - q: "Does my Part D premium count toward the $2,100 out-of-pocket cap?"
+    a: "No. Your monthly Part D premium is separate and does not count toward the $2,100 TrOOP (True Out-of-Pocket) limit. Only drug cost-sharing like deductibles, co-pays, and coinsurance on covered drugs counts."
   - q: "What if my drug isn't on my plan's formulary?"
     a: "If your drug isn't covered by your plan's formulary, you typically pay full price and that spending doesn't count toward your out-of-pocket cap. You can request a formulary exception from your plan, or use the Medicare Plan Finder to look for plans that do cover your drug, especially during Open Enrollment."
   - q: "How do I apply for Extra Help with Part D costs?"
@@ -40,9 +40,9 @@ Medicare Part D is the prescription drug benefit. It's offered through private i
 
 The name comes from the original structure under the Medicare Modernization Act of 2003: there was a coverage phase, then a gap where you were mostly on your own, then catastrophic coverage kicked back in once your out-of-pocket costs got high enough. The "hole" in coverage between two layers of protection. That's the shape of it.
 
-The Inflation Reduction Act of 2022 fundamentally rewrote Part D's cost structure, with changes phasing in over several years. As of 2026, the donut hole looks very different from what it was even three years ago. The most significant change? There's now a $2,000 annual out-of-pocket cap on what you pay for covered Part D drugs. That's a hard limit. Once you've paid $2,000 in true out-of-pocket costs (what Medicare calls TrOOP, or True Out-of-Pocket costs), you pay nothing for the rest of the year.
+The Inflation Reduction Act of 2022 fundamentally rewrote Part D's cost structure, with changes phasing in over several years. As of 2026, the donut hole looks very different from what it was even three years ago. The most significant change? There's now a $2,100 annual out-of-pocket cap on what you pay for covered Part D drugs. That's a hard limit. Once you've paid $2,100 in true out-of-pocket costs (what Medicare calls TrOOP, or True Out-of-Pocket costs), you pay nothing for the rest of the year.
 
-The $2,000 cap is a genuine change, not one with hidden limitations. It's the single biggest change to Part D since the program started.
+The $2,100 cap is a genuine change, not one with hidden limitations. It's the single biggest change to Part D since the program started.
 
 ---
 
@@ -50,30 +50,30 @@ The $2,000 cap is a genuine change, not one with hidden limitations. It's the si
 
 | Phase | Maximum Deductible | Total Drug Spending Threshold | Your Out-of-Pocket Status |
 | --- | --- | --- | --- |
-| Deductible | $590 | $0 | You pay 100% |
-| Initial Coverage | N/A | Up to $2,000 | You pay co-pays/coinsurance |
-| Coverage Gap | N/A | $2,000+ | Increased cost-sharing (brief) |
-| Catastrophic | N/A | $2,000+ out-of-pocket reached | You pay $0 |
+| Deductible | $615 | $0 | You pay 100% |
+| Initial Coverage | N/A | Up to $2,100 | You pay co-pays/coinsurance |
+| Coverage Gap | N/A | $2,100+ | Increased cost-sharing (brief) |
+| Catastrophic | N/A | $2,100+ out-of-pocket reached | You pay $0 |
 
 Even with the cap, Part D still runs in stages, and knowing them saves money. As of July 2026, here's how it breaks down:
 
-**The deductible phase.** Most Part D plans charge a deductible before any coverage kicks in. The maximum allowable deductible in 2026 is $590. Some plans charge less or waive it for certain drug tiers; a few charge nothing. You pay 100% of drug costs until you've met your deductible.
+**The deductible phase.** Most Part D plans charge a deductible before any coverage kicks in. The maximum allowable deductible in 2026 is $615. Some plans charge less or waive it for certain drug tiers; a few charge nothing. You pay 100% of drug costs until you've met your deductible.
 
-**Initial coverage phase.** Once you've cleared your deductible, your plan starts sharing costs with you. You pay your standard co-pays or coinsurance rates (whatever your specific plan charges per drug tier), and this continues until your total covered drug spending (what you pay plus what the plan pays) reaches $2,000.
+**Initial coverage phase.** Once you've cleared your deductible, your plan starts sharing costs with you. You pay your standard co-pays or coinsurance rates (whatever your specific plan charges per drug tier), and this continues until your total covered drug spending (what you pay plus what the plan pays) reaches $2,100.
 
-Wait, actually, I need to correct something I almost got wrong here myself the first time I studied the new structure. The $2,000 cap is on your *out-of-pocket* spending, not total drug spending. These are not the same number. Total drug spending includes what your plan pays. What counts toward the $2,000 is only what *you* pay out of pocket. For most people on standard plans, you'll hit that cap somewhere in the $8,000-$12,000 range of total drug spending, but that depends heavily on your specific drugs and plan.
+Wait, actually, I need to correct something I almost got wrong here myself the first time I studied the new structure. The $2,100 cap is on your *out-of-pocket* spending, not total drug spending. These are not the same number. Total drug spending includes what your plan pays. What counts toward the $2,100 is only what *you* pay out of pocket. For most people on standard plans, you'll hit that cap somewhere in the $8,000-$12,000 range of total drug spending, but that depends heavily on your specific drugs and plan.
 
-**The coverage gap (the donut hole).** This is where it gets a little odd in 2026. The gap technically still exists as a defined phase in the law, but because of the $2,000 cap, you can't stay in it long. Once you enter the gap (when total drug spending hits $2,000 in the initial coverage period), your cost-sharing actually increases briefly, but you're also burning through your out-of-pocket maximum quickly. For most people with significant drug costs, the gap phase in 2026 is a speed bump rather than a crater.
+**The coverage gap (the donut hole).** This is where it gets a little odd in 2026. The gap technically still exists as a defined phase in the law, but because of the $2,100 cap, you can't stay in it long. Once you enter the gap (when total drug spending hits $2,100 in the initial coverage period), your cost-sharing actually increases briefly, but you're also burning through your out-of-pocket maximum quickly. For most people with significant drug costs, the gap phase in 2026 is a speed bump rather than a crater.
 
-**Catastrophic coverage.** Once you've hit $2,000 out of pocket, you owe $0 for covered Part D drugs for the rest of the calendar year. Full stop.
+**Catastrophic coverage.** Once you've hit $2,100 out of pocket, you owe $0 for covered Part D drugs for the rest of the calendar year. Full stop.
 
-A reader, Barbara from Phoenix, emailed me in January 2026 after her plan year reset. She takes three brand-name specialty drugs for a chronic condition. In prior years she'd hit the old catastrophic threshold and still owed 5% coinsurance, which on $15,000/month in drug spending adds up fast. This year, she hit her $2,000 cap by mid-March and paid nothing from March through December. "I cried," she wrote. That's not hyperbole. For some people this is life-changing.
+A reader, Barbara from Phoenix, emailed me in January 2026 after her plan year reset. She takes three brand-name specialty drugs for a chronic condition. In prior years she'd hit the old catastrophic threshold and still owed 5% coinsurance, which on $15,000/month in drug spending adds up fast. This year, she hit her $2,100 cap by mid-March and paid nothing from March through December. "I cried," she wrote. That's not hyperbole. For some people this is life-changing.
 
 ---
 
 ## What Counts Toward Your Out-of-Pocket Cap (and What Doesn't)
 
-This is where I see the most confusion, and I want to be direct with you: not everything you spend on prescriptions counts toward your $2,000 TrOOP.
+This is where I see the most confusion, and I want to be direct with you: not everything you spend on prescriptions counts toward your $2,100 TrOOP.
 
 What *does* count: your deductible payments, your co-pays and coinsurance during the initial coverage phase, and manufacturer discount payments on brand-name drugs in the coverage gap (this is a quirk of how the law works, and it actually helps you).
 
@@ -82,11 +82,11 @@ What does *not* count: your monthly Part D premium (that's separate from drug co
 The formulary point is one that catches people off guard constantly. If your drug isn't covered by your plan, every dollar you spend on it is essentially invisible to Medicare's accounting. It doesn't count. This is a strong argument for reviewing your plan's formulary every single Open Enrollment period. I can't say that firmly enough.
 
 **A worked example:**
-Margaret, 71, takes Eliquis (apixaban) for atrial fibrillation and two generic medications. Her plan has a $590 deductible. She uses a preferred network pharmacy.
+Margaret, 71, takes Eliquis (apixaban) for atrial fibrillation and two generic medications. Her plan has a $615 deductible. She uses a preferred network pharmacy.
 
 Scenario: Eliquis is on her formulary at Tier 3 coinsurance.
 Action: She hits her deductible by late January, enters initial coverage, and her out-of-pocket spending on all three drugs accumulates month by month.
-Result: She reaches $2,000 in true out-of-pocket costs by mid-April. From mid-April through December 31, she pays nothing for all three covered drugs. Estimated savings versus the old catastrophic structure: roughly $1,800-$2,200 for the year depending on Eliquis pricing at her pharmacy.
+Result: She reaches $2,100 in true out-of-pocket costs by mid-April. From mid-April through December 31, she pays nothing for all three covered drugs. Estimated savings versus the old catastrophic structure: roughly $1,800-$2,200 for the year depending on Eliquis pricing at her pharmacy.
 
 ---
 
@@ -94,7 +94,7 @@ Result: She reaches $2,000 in true out-of-pocket costs by mid-April. From mid-Ap
 
 I cannot write about Part D costs without mentioning Extra Help (also called the Low Income Subsidy, or LIS). It's a federal program that covers most or all of your Part D costs, including premiums, deductibles, and co-pays, if your income and resources fall below certain thresholds.
 
-What most people don't realize is how many people qualify and don't know it. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) estimates that hundreds of thousands of eligible people aren't enrolled. If your income is below about 150% of the federal poverty level (the exact threshold adjusts annually), you should absolutely check. The application is through the Social Security Administration, and you can start at [Medicare.gov](https://www.medicare.gov/). For 2026, people who receive Extra Help are fully exempt from the coverage gap as it previously existed, and the $2,000 cap combines with Extra Help's benefits to make drug costs genuinely manageable for lower-income beneficiaries.
+What most people don't realize is how many people qualify and don't know it. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) estimates that hundreds of thousands of eligible people aren't enrolled. If your income is below about 150% of the federal poverty level (the exact threshold adjusts annually), you should absolutely check. The application is through the Social Security Administration, and you can start at [Medicare.gov](https://www.medicare.gov/). For 2026, people who receive Extra Help are fully exempt from the coverage gap as it previously existed, and the $2,100 cap combines with Extra Help's benefits to make drug costs genuinely manageable for lower-income beneficiaries.
 
 If you're helping a parent or spouse figure this out and they've been quietly skipping doses because of cost: please look into Extra Help this week. Not next month.
 

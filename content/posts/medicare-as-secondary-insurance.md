@@ -79,7 +79,7 @@ One practical thing worth knowing: providers are generally required to bill Medi
 
 This is the decision I see people get wrong more than any other.
 
-You're turning 65, you're still working, you have good employer coverage, and someone tells you that you should sign up for Medicare Part B (outpatient coverage, with a monthly premium that's currently around $185 for most enrollees, though it varies by income). You wonder: if my employer plan covers most things, why pay the Part B premium at all?
+You're turning 65, you're still working, you have good employer coverage, and someone tells you that you should sign up for Medicare Part B (outpatient coverage, with a monthly premium that's currently around $202.90 for most enrollees, though it varies by income). You wonder: if my employer plan covers most things, why pay the Part B premium at all?
 
 Here's the honest answer. If your employer has 20 or more employees, your group plan is primary and Medicare would only be secondary. Depending on how good your employer coverage is, adding Medicare as secondary might add meaningful protection, or it might add almost nothing. The Part B premium is real money every month. Run the math against your actual expected healthcare usage.
 

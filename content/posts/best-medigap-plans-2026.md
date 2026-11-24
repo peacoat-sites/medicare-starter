@@ -25,7 +25,7 @@ author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 lastmod: 2026-11-16T16:00:00Z
 ---
-You just turned 65, enrolled in Original Medicare, and your first Explanation of Benefits shows a 20% coinsurance charge plus a $1,676 hospital deductible for 2025. One serious illness or two surgeries in a year and you're looking at thousands in out-of-pocket costs. That gap is exactly why Medigap exists. Pick the right plan in 2026 and you could save thousands, or sleep better at night knowing you're covered.
+You just turned 65, enrolled in Original Medicare, and your first Explanation of Benefits shows a 20% coinsurance charge plus a $1,736 hospital deductible for 2026. One serious illness or two surgeries in a year and you're looking at thousands in out-of-pocket costs. That gap is exactly why Medigap exists. Pick the right plan in 2026 and you could save thousands, or sleep better at night knowing you're covered.
 
 ## What Medigap Actually Is (and What It Isn't)
 
@@ -51,7 +51,7 @@ Not every plan fits every person.
 
 If you're becoming Medicare-eligible in 2020 or later, Plan G is the most comprehensive option. It covers your Part A hospital deductible, Part A coinsurance and hospital costs for up to 365 days after Medicare benefits end, Part B coinsurance or copayments, the first three pints of blood, Part A hospice care coinsurance, skilled nursing facility coinsurance, and 80% of foreign travel emergency costs (up to limits).
 
-The only thing Plan G doesn't cover is the Part B deductible, which is $257 in 2025. You pay that yourself at the start of each year, then you're covered for Medicare-approved services. If you see specialists regularly or expect surgery, that tradeoff almost always makes sense.
+The only thing Plan G doesn't cover is the Part B deductible, which is $283 in 2026. You pay that yourself at the start of each year, then you're covered for Medicare-approved services. If you see specialists regularly or expect surgery, that tradeoff almost always makes sense.
 
 **Plan N: A Smart Choice for the Relatively Healthy**
 

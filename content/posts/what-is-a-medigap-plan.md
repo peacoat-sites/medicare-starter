@@ -62,7 +62,7 @@ Here's what the most popular plans actually cover:
 | Foreign travel emergency | No | Yes (80%) | No | Yes (80%) |
 | Out-of-pocket limit (2024) | None | None | ~$7,060 | None |
 
-Plan G dominates the market for new enrollees right now. Compared to the old Plan F, it doesn't cover the Part B deductible, which is $240 per year in 2024. You pay that once and Plan G covers everything else. For most people, the premium savings versus Plan F exceed that $240 anyway.
+Plan G dominates the market for new enrollees right now. Compared to the old Plan F, it doesn't cover the Part B deductible, which is $283 per year in 2026. You pay that once and Plan G covers everything else. For most people, the premium savings versus Plan F exceed that $283 anyway.
 
 Plan N deserves a hard look if you're relatively healthy and want lower monthly costs. You'll pay small copays ($20 for office visits, up to $50 for emergency room visits that don't lead to hospital admission), and you're exposed to Part B excess charges. These are the extra amounts doctors who don't accept Medicare assignment can legally charge. Not every doctor does this, but it's a real exposure in certain specialties and markets.
 

@@ -38,7 +38,7 @@ Many families budget carefully for retirement and completely miss this gap. It's
 
 Let me be direct here: the list of vision services Original Medicare covers is short.
 
-[Medicare Part](/how-to-choose-medicare-part-d-plan/) B will pay 80% of the approved cost (after your Part B deductible, which is $240 in 2026) for these specific situations:
+[Medicare Part](/how-to-choose-medicare-part-d-plan/) B will pay 80% of the approved cost (after your Part B deductible, which is $283 in 2026) for these specific situations:
 
 - **Glaucoma screening** once per year if you're at high risk (diabetes, a family history of glaucoma, African American and 50 or older, or Hispanic and 65 or older)
 - **Diabetic retinopathy exams** once per year if you have diabetes, performed by an eye care professional
@@ -82,7 +82,7 @@ What "vision benefit" means varies enormously by plan. Here's the range I typica
 - A mid-tier plan might offer a $150 exam allowance and $200 toward lenses, or cover a set of standard lenses in full at in-network providers.
 - A more generous plan (often in competitive urban markets) might include $300–$500 in annual vision allowances.
 
-The catch, and it's a real one: most Advantage plans use a network, usually VSP (Vision Service Plan) or EyeMed. If your eye doctor isn't in the network, you'll pay out-of-network rates, which can wipe out the benefit entirely. I've sat with seniors who drove 40 miles to a participating provider because their local optometrist wasn't covered. That's a real tradeoff.
+The catch, and it's a real one: most Advantage plans use a network, usually VSP (Vision Service Plan) or EyeMed. If your eye doctor isn't in the network, you'll pay out-of-network rates, which can wipe out the benefit entirely. For example, if your local optometrist isn't covered, you may need to travel a significant distance to find a participating provider. That's a real tradeoff.
 
 **Scenario → Action → Result:** Robert, 71, in rural North Carolina, was on Original Medicare with a Medigap (supplemental) plan. His annual eye exam ran $175 out of pocket. He switched to a Medicare Advantage plan with a $0 premium and a $150 vision allowance. First year, his net vision cost dropped to about $40. But his ophthalmologist wasn't in the Advantage plan network, so when he needed follow-up for a suspicious retinal spot, he paid $225 out of network instead of the $35 copay he'd expected. Total year: he roughly broke even. The lesson isn't that Advantage is bad; it's that you have to verify your specific doctors before you switch.
 

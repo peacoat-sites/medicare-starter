@@ -88,7 +88,7 @@ AARP's Medicare resource center has a useful guide that breaks down how to read 
 
 ## What Changes in 2026 Are Worth Knowing About
 
-The Inflation Reduction Act changes that began rolling out in 2023 and 2024 have continued to reshape Part D (prescription drug coverage), and some have affected how MA plan insurers structure their non-drug benefits, including dental and vision. With the $2,000 out-of-pocket cap on Part D costs now in effect, some carriers have had to recalibrate their overall plan economics, and a handful have slightly reduced supplemental benefits like dental maximums to offset costs elsewhere.
+The Inflation Reduction Act changes that began rolling out in 2023 and 2024 have continued to reshape Part D (prescription drug coverage), and some have affected how MA plan insurers structure their non-drug benefits, including dental and vision. With the $2,100 out-of-pocket cap on Part D costs now in effect, some carriers have had to recalibrate their overall plan economics, and a handful have slightly reduced supplemental benefits like dental maximums to offset costs elsewhere.
 
 This is real, and it's a reason to re-examine your plan every year during Open Enrollment, which runs October 15 through December 7. Even if you loved your plan in 2025, the dental benefit may have changed, the network may have changed, or a better option may now be available in your area.
 

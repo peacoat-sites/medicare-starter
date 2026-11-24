@@ -37,9 +37,9 @@ Part A is often called "hospital insurance," which is accurate but a little too 
 
 Here's the practical breakdown for inpatient hospital stays. For each benefit period, which begins the day you're admitted and ends after you've been out of the hospital or SNF for 60 consecutive days, you pay:
 
-- A deductible of around $1,632 in 2024 for days 1 through 60
-- A daily coinsurance of about $408 for days 61 through 90
-- $816 per day for what Medicare calls "lifetime reserve days," which are 60 extra days you can only use once in your entire life
+- A deductible of $1,736 in 2026 for days 1 through 60
+- A daily coinsurance of $434 for days 61 through 90
+- $868 per day for what Medicare calls "lifetime reserve days," which are 60 extra days you can only use once in your entire life
 - Full cost after those reserve days are gone
 
 That structure baffles most people. It's not an annual deductible like you'd have with employer insurance. It resets every benefit period. If you're admitted in March, recover, go back in July, you've got a brand new deductible to meet.
@@ -54,22 +54,22 @@ Most people qualify for Part A without paying a premium, as long as they or thei
 
 | Coverage Type | Part A | Part B |
 | --- | --- | --- |
-| Monthly Premium | Usually $0 (if 40 quarters work history); up to $505 if buying in | $174.70 standard in 2024 (higher for IRMAA) |
-| Annual Deductible | ~$1,632 per benefit period | ~$240 per year |
+| Monthly Premium | Usually $0 (if 40 quarters work history); up to $565 if buying in | $202.90 standard in 2026 (higher for IRMAA) |
+| Annual Deductible | ~$1,736 per benefit period | ~$283 per year |
 | Inpatient Hospital (Days 1-60) | Deductible applies | Not covered |
-| Inpatient Hospital (Days 61-90) | ~$408/day coinsurance | Not covered |
+| Inpatient Hospital (Days 61-90) | ~$434/day coinsurance | Not covered |
 | Skilled Nursing Facility (Days 1-20) | 100% covered | Not covered |
-| Skilled Nursing Facility (Days 21-100) | ~$204/day coinsurance | Not covered |
+| Skilled Nursing Facility (Days 21-100) | ~$217/day coinsurance | Not covered |
 | Doctor Visits | Not covered | 20% coinsurance after deductible |
 | Lab Tests, Imaging, Surgery | Not covered (outpatient) | 20% coinsurance after deductible |
 | Prescription Drugs | Not covered | Not covered |
 | Dental, Vision, Hearing | Not covered | Not covered |
 
-Part B covers what the government calls "medically necessary" outpatient services and "preventive" services. The standard monthly premium in 2024 is $174.70, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). If your income from two years prior was above $103,000 as an individual, expect to pay more. Sometimes significantly more.
+Part B covers what the government calls "medically necessary" outpatient services and "preventive" services. The standard monthly premium in 2026 is $202.90, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). If your income from two years prior was above $109,000 as an individual, expect to pay more. Sometimes significantly more.
 
 What Part B actually covers is extensive. Doctors' visits, outpatient surgery, lab tests, X-rays, MRIs, CT scans, chemotherapy, dialysis, durable medical equipment like walkers, wheelchairs, and blood glucose monitors. Mental health services, physical therapy, occupational therapy, second opinions before surgery. It also covers an initial "Welcome to Medicare" preventive visit and an annual wellness visit, both fully covered with no cost to you if your doctor accepts Medicare assignment.
 
-After your Part B deductible (about $240 in 2024), Medicare typically pays 80% of approved costs. You pay 20%. There is no out-of-pocket maximum in Original Medicare. None. That 20% can compound in terrifying ways if you have a serious illness, which is the single strongest argument for adding a Medigap (Medicare Supplement) policy.
+After your Part B deductible ($283 in 2026), Medicare typically pays 80% of approved costs. You pay 20%. There is no out-of-pocket maximum in Original Medicare. None. That 20% can compound in terrifying ways if you have a serious illness, which is the single strongest argument for adding a Medigap (Medicare Supplement) policy.
 
 One thing that catches people off guard: Part B covers outpatient mental health at 80% after the deductible, same as physical health services. That parity has improved a lot in recent years. Substance abuse treatment, psychiatric evaluations, individual and group psychotherapy, all covered. If you or someone you're helping has delayed mental health care due to cost concerns, this is worth knowing.
 

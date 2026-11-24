@@ -95,7 +95,7 @@ Your best free resource, and I mean genuinely excellent, is your local SHIP (Sta
 
 [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) is also worth bookmarking. Their state-by-state Medicaid guides are updated regularly and written for normal people.
 
-Scenario: Robert, 68, from rural Georgia, retired postal worker, thought he earned too much for Medicaid. His monthly Social Security check was $1,410. A SHIP counselor reviewed his situation and found he qualified for the SLMB program, which paid his $174.70 Part B premium (current 2026 standard rate). Action taken: Robert filed a simple one-page application with his county DFCS office. Result: $174.70 back in his pocket every single month, retroactive to his application date. He'd left over $2,000 on the table the prior year by not knowing.
+Scenario: Robert, 68, from rural Georgia, retired postal worker, thought he earned too much for Medicaid. His monthly Social Security check was $1,410. A SHIP counselor reviewed his situation and found he qualified for the SLMB program, which paid his $202.90 Part B premium (current 2026 standard rate). Action taken: Robert filed a simple one-page application with his county DFCS office. Result: $202.90 back in his pocket every single month, retroactive to his application date. He'd left over $2,000 on the table the prior year by not knowing.
 
 ## Sources
 
