@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most people spend more time choosing a Netflix subscription than comparing Medicare Part D plans. I'll be honest: I used to find that statistic hard to believe. Then I watched a close friend pay nearly $400 more per month than necessary for her prescriptions because she simply re-enrolled in the same plan she'd had for three years without checking whether it still made sense for her. That $400 difference wasn't because one plan was a scam and the other was a steal. It was because drug formularies change, premiums shift, and what worked perfectly last October may be quietly working against you by January. If you have Medicare and you take even one prescription medication, what I found when I dug into how Part D comparisons actually work might genuinely change what you do this fall.
 

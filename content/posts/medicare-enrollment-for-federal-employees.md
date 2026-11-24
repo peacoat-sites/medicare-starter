@@ -1,7 +1,7 @@
 ---
 title: "Medicare Enrollment for Federal Employees: Your Complete Guide"
 date: 2026-08-01T15:11:53.585178+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how federal employees can enroll in Medicare, including timing, coverage options, and coordination with FEHB benefits."
 image: "/img/heroes/7163944.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "Yes. Part A enrollment alone disqualifies you from making new HSA contributions, even if you haven't enrolled in Part B. There's no 'partial' Medicare enrollment that preserves HSA eligibility."
  - q: "If I decline Medicare Part A to keep my HSA, am I giving up something valuable?"
    a: "Part A is premium-free for most people who've worked 40 or more quarters, so declining it has a real cost. You'd give up hospital coverage to preserve HSA contribution ability. For most people, that trade doesn't pencil out unless they have another specific reason to delay and are still building significant HSA assets. Run the numbers before deciding."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most people get the Medicare-HSA relationship completely backwards. They assume an HSA is just a savings account, so it shouldn't matter what insurance you have. Wrong. The IRS ties HSA eligibility directly to your health coverage type, not your age or income, and the moment Medicare enters the picture, everything changes.
 

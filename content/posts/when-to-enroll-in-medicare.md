@@ -23,7 +23,7 @@ faqs:
    a: "You're not legally required to enroll, but if you have no qualifying coverage and skip it, you'll face permanent premium penalties when you do sign up. If you're still working with good employer coverage, delaying makes sense. If you're not, enrolling on time is almost always the right call."
  - q: "How do I actually sign up for Medicare?"
    a: "You can enroll online at SSA.gov, call Social Security at 1-800-772-1213, or visit your local Social Security office. If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Parts A and B automatically. Check your mail around your 65th birthday regardless."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most people get their Medicare timing wrong before they even know the rules exist. They assume it works like regular insurance, that you sign up when you need it, or when it feels right, or when someone at the doctor's office mentions it. That assumption costs some of them hundreds of dollars a month in permanent premium penalties. For the rest of their lives.

@@ -1,7 +1,7 @@
 ---
 title: "Medicare Cost Sharing: Deductibles, Copays, and Coinsurance Explained"
 date: 2026-07-29T15:56:18.644601+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Understand Medicare cost sharing including deductibles, copayments, and coinsurance. Learn what you'll pay for Part A, Part B, and prescription drugs."
 image: "/img/heroes/7545281.jpg"

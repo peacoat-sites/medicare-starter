@@ -23,7 +23,7 @@ faqs:
    a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
  - q: "Is a $0 premium Part D plan always a bad deal?"
    a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most people spend more time picking a Netflix subscription than they do choosing their Medicare Part D drug plan. This mistake can cost hundreds of dollars a year, sometimes over a thousand, and it's entirely avoidable.

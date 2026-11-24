@@ -23,7 +23,7 @@ faqs:
     a: "Yes. Medicare Savings Programs, administered by your state, can pay coinsurance for people who meet income and asset limits. The QMB level provides the most comprehensive help. Contact your local SHIP office or visit Medicare.gov to screen for eligibility."
   - q: "Does Medicare coinsurance apply to preventive care visits?"
     a: "Not always. Many preventive services under Part B, including the annual wellness visit and certain cancer screenings, are covered at 100% with no coinsurance. However, if your doctor addresses a separate medical issue during what starts as a preventive visit, that portion of the visit may trigger coinsurance. It's worth asking your provider upfront how the visit will be billed."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most people assume Medicare is basically free once you hit 65. In fact, Medicare has real out-of-pocket costs, and coinsurance is one of the biggest sources of surprise bills for seniors.

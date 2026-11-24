@@ -1,6 +1,7 @@
 ---
 title: "Medicare 2027 Premiums Just Dropped: What the New Numbers Mean for You"
 date: 2026-11-18T21:51:52.539596+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Medicare 2027 premiums have decreased significantly. Learn how the new rates affect your coverage costs, benefits, and what changes you need to know about."
 image: "/img/heroes/4386366.jpg"

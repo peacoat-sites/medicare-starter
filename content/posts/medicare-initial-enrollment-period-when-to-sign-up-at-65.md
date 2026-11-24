@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Picture this: your 65th birthday is two months away, and a neighbor mentions offhandedly that you were supposed to sign up for Medicare *before* your birthday. Your stomach drops. You had no idea. You thought you'd handle it afterward, maybe wait until you actually needed it. Now you're not sure if you've missed something, if there are penalties, or whether your doctor visits next month will even be covered.
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare for Part D Open Enrollment Before October 15"
 date: 2026-08-05T16:06:50.597126+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Prepare for Medicare Part D Open Enrollment starting October 15. Learn key steps to review plans, compare costs, and switch coverage to save money on prescripti"
 image: "/img/heroes/8123888.jpg"

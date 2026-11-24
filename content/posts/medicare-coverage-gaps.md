@@ -1,6 +1,7 @@
 ---
 title: "Medicare Coverage Gaps: Why 20% of Costs Fall on You"
 date: 2026-11-22T20:42:01.552946+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how Medicare's coverage gaps work and what you'll pay out-of-pocket. Understand the 20% coinsurance and find ways to protect yourself."
 image: "/img/heroes/7477690.jpg"

@@ -23,7 +23,7 @@ author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 You get a cancer diagnosis in January. Suddenly it's chemotherapy, specialist visits, imaging scans, maybe a hospital stay or two. The bills stack up fast. If you're on a Medicare Advantage plan, one number could be the difference between financial devastation and a manageable year: your out-of-pocket maximum. That single figure caps how much you'll ever pay for covered services in a calendar year. Once you hit it, the plan pays 100% for the rest of the year. Most people don't think about this number until they're sick. That's exactly the wrong time to be surprised by it.
 

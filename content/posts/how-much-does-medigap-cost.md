@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 You've just turned 65, there's a stack of Medicare mail on your kitchen table, and one envelope promises to protect you from "unlimited out-of-pocket costs." You open it. The monthly premium makes your coffee go cold. Is that price reasonable? Too high? Is there something cheaper that does the same job?
 

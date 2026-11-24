@@ -1,7 +1,7 @@
 ---
 title: "Medicare Eye Exam Coverage: What It Pays For and What It Skips"
 date: 2026-07-08T16:07:53.574272+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Find out exactly what Medicare covers for eye exams, which plans include vision benefits, and how to avoid unexpected out-of-pocket costs."
 image: "/img/heroes/5996597.jpg"

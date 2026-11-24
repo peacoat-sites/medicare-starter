@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 Forty-three million Americans are enrolled in Medicare. Over ninety million are on Medicaid. And a remarkable number of people in both programs aren't entirely sure which one they're on, or what the difference actually is.
 

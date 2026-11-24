@@ -1,7 +1,7 @@
 ---
 title: "Medicare Vision Coverage: What Eyeglasses and Exams Actually Cost"
 date: 2026-07-27T16:31:21.974755+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn what Medicare covers for vision care, including eye exams, glasses, and contacts. Understand your out-of-pocket costs and coverage limits."
 image: "/img/heroes/7179233.jpg"

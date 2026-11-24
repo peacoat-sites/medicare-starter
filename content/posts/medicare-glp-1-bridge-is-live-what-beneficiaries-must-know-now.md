@@ -12,7 +12,7 @@ author_title: "Medicare Specialist"
 author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-glp-1-bridge-is-live-what-beneficiaries-must-know-now"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most of the early coverage on the Medicare GLP-1 Bridge zeroed in on one number: $50 a month. That's real, and for many Medicare beneficiaries who've been paying hundreds out of pocket for Wegovy or Zepbound, it's genuinely significant. But the program that launched July 1, 2026 is more complicated than that headline suggests, and the complications matter right now, before beneficiaries and their doctors get tripped up by them.

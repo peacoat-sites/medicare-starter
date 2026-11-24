@@ -23,7 +23,7 @@ faqs:
     a: "Yes, if you're homebound (meaning leaving home is difficult or impossible). Your doctor has to order it, and it's usually covered under Part B as an outpatient service. Some Advantage plans require pre-auth for home visits. This is a good question to confirm with your plan before scheduling."
   - q: "What happens if I've used all my visits and still need therapy?"
     a: "Once you hit the $2,310 annual cap, Medicare stops paying. You can continue therapy if you pay out of pocket, which typically runs $100 to $150 per visit. Some therapists will negotiate a self-pay rate. If you believe you need more therapy and the cap has prevented medically necessary care, you can request an exception from your plan (Advantage) or appeal to Medicare (Original). Success isn't guaranteed, but it's worth asking."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 A common source of confusion is physical therapy coverage after surgery. Someone might get approval from their surgeon, but when they call their Medicare plan, they hear vague terms like "medically necessary" and "needing approval first" without clear answers. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.

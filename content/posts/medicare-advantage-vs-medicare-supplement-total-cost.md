@@ -23,7 +23,7 @@ faqs:
    a: "No. Medigap plans don't include prescription drug coverage. If you have a Medigap policy, you need to enroll in a separate standalone Part D prescription drug plan to get drug coverage. Medicare Advantage plans typically include drug coverage (called MAPD plans), which is one reason the comparison between the two approaches involves looking at total premium costs across multiple plan types."
  - q: "Are Medicare Advantage extra benefits like dental and vision worth factoring into the cost comparison?"
    a: "Yes, with a caveat. The dental, vision, hearing, and over-the-counter benefits on some MA plans have genuine dollar value, but only if you actually use them. A $1,500 dental benefit that requires using specific in-network dentists who aren't near you, or that covers only cleanings and basic fillings, may be worth far less than the headline number suggests. Get specific about what the benefit actually covers before counting it in your comparison."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most people shopping for Medicare coverage fixate on the monthly premium. That number shows up first, it's easy to compare, and a $0 premium Medicare Advantage plan looks like an obvious winner against a Medigap Plan G that might run $140 a month or more. But the premium is almost the worst number to focus on. Total annual cost is what actually matters, and those two plans might end up costing you more or less the same, or wildly different, depending entirely on how much healthcare you use.

@@ -1,7 +1,7 @@
 ---
 title: "Medicare Supplement Rates at 65: What to Expect"
 date: 2026-08-12T15:09:28.831619+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Compare Medicare supplement insurance costs and coverage options at age 65. Find rates, plan types, and enrollment deadlines to maximize your benefits."
 image: "/img/heroes/8439676.jpg"

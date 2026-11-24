@@ -23,7 +23,7 @@ author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
 author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 If you're taking a specialty drug for rheumatoid arthritis, multiple sclerosis, or cancer, you know exactly how fast the bills pile up. Before 2025, some Medicare Part D enrollees were paying $10,000, $15,000, sometimes more out of pocket on prescriptions in a single year, with nothing to stop it. That's over. Starting January 1, 2025, Medicare Part D introduced an out-of-pocket cap on covered drugs in a calendar year. That cap started at $2,000 in 2025 and is $2,100 in 2026. Full stop. If you've been white-knuckling through expensive drug costs or quietly skipping doses because you couldn't afford the refill, this is the change you've been waiting for.
 

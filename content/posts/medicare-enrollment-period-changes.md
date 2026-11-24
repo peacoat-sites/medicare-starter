@@ -1,7 +1,7 @@
 ---
 title: "65% of Seniors Miss Medicare Enrollment Changes"
 date: 2026-07-18T15:07:03.830478+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how recent Medicare enrollment period changes affect your coverage. Important deadlines and options for 2024 explained."
 image: "/img/heroes/8123895.jpg"

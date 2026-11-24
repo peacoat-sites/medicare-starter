@@ -23,7 +23,7 @@ faqs:
    a: "Medicaid eligibility is based on income and (for some categories) assets, and rules vary by state. The fastest way to check is through your state's Medicaid agency website, or at Healthcare.gov. A free SHIP counselor can also help you sort through eligibility and applications."
  - q: "Will applying for Medicaid affect my Medicare benefits?"
    a: "No. Enrolling in Medicaid does not reduce or eliminate your Medicare coverage. If anything, having both gives you more complete coverage, since Medicaid can help cover what Medicare doesn't."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 
 Most people assume Medicare is for the poor and Medicaid is for the elderly. This is a common mix-up that can cost people real money when they get it wrong.

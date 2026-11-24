@@ -1,7 +1,7 @@
 ---
 title: "Medicare in North Carolina: $8,850 Annual Cost Guide"
 date: 2026-07-25T15:15:12.898945+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn about Medicare costs and coverage in North Carolina. Understand premiums, deductibles, and how to maximize your benefits."
 image: "/img/heroes/6927554.jpg"

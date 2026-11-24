@@ -1,7 +1,7 @@
 ---
 title: "Medicare Savings Programs for Low Income Seniors in Florida"
 date: 2026-07-28T16:10:53.836329+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Discover how Florida seniors can access $202.90 monthly savings and other assistance programs to reduce healthcare costs and premiums."
 image: "/img/heroes/7545337.jpg"

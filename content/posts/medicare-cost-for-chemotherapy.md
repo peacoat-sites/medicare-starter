@@ -1,6 +1,7 @@
 ---
 title: "$100,000 Chemotherapy Costs: What Medicare Actually Covers"
 date: 2026-08-09T14:45:56.425183+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how Medicare covers chemotherapy costs, typical expenses, and out-of-pocket costs patients face during cancer treatment."
 image: "/img/heroes/6436246.jpg"

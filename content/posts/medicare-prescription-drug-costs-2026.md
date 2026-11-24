@@ -23,7 +23,7 @@ author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
 author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 October 15 rolls around, and suddenly your mailbox fills with Part D plan notices. Premium up. Your cholesterol medication moved to a higher tier. Deductible changed again. Millions of people go through this every fall, and most of them ignore it. Don't. The 2026 changes to [Medicare drug coverage](/best-medicare-part-d-plans-2026/) actually work in your favor if you pay attention, and switching plans could save you hundreds of dollars.
 

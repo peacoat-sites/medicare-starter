@@ -1,7 +1,7 @@
 ---
 title: "Medicare for People Under 65 With Disabilities"
 date: 2026-07-31T16:08:28.831926+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn how 24 million disabled Americans under 65 access Medicare coverage, eligibility requirements, and what benefits are available before age 65."
 image: "/img/heroes/6285378.jpg"

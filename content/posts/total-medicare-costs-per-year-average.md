@@ -1,7 +1,7 @@
 ---
 title: "Average Medicare Costs: $7,000 Per Year Explained"
 date: 2026-08-07T00:51:18.388569+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Learn what typical Medicare beneficiaries pay annually. Breaking down the $7,000 average cost and factors affecting your expenses."
 image: "/img/heroes/27086488.jpg"
