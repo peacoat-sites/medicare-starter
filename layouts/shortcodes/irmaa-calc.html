@@ -28,30 +28,30 @@
           <option value="mfs">Married Filing Separately</option>
         </select>
       </label>
-      <label>Annual Income — MAGI ($)
+      <label>Annual Income, MAGI ($)
         <input type="number" id="irmaa-income" value="90000" min="0" step="1000" oninput="irmaCalc()" placeholder="e.g. 95000">
       </label>
     </div>
     <div class="irmaa-cards" id="irmaa-cards">
-      <div class="rc"><span class="rl">Part B Monthly Premium</span><span class="rv" id="ir-partb">$174.70</span><span class="rs">Per month</span></div>
+      <div class="rc"><span class="rl">Part B Monthly Premium</span><span class="rv" id="ir-partb">$202.90</span><span class="rs">Per month</span></div>
       <div class="rc"><span class="rl">Part D Monthly Surcharge</span><span class="rv" id="ir-partd">$0.00</span><span class="rs">Added to plan premium</span></div>
-      <div class="rc"><span class="rl">Annual Extra vs Standard</span><span class="rv" id="ir-annual">$0</span><span class="rs">Above standard $174.70/mo</span></div>
+      <div class="rc"><span class="rl">Annual Extra vs Standard</span><span class="rv" id="ir-annual">$0</span><span class="rs">Above standard $202.90/mo</span></div>
     </div>
     <div class="irmaa-callout" id="irmaa-callout"></div>
     <div class="irmaa-bracket" id="irmaa-bracket"></div>
-    <p class="irmaa-note">These are estimates based on 2024 IRMAA brackets and standard premiums. Your actual premium is determined by SSA using your income from 2 years prior. Contact Social Security (<a href="tel:18007721213">1-800-772-1213</a>) or <a href="https://ssa.gov/benefits/medicare/medicare-premiums.html" target="_blank" rel="noopener">ssa.gov</a> for personalized information.</p>
+    <p class="irmaa-note">These are estimates based on the 2026 IRMAA brackets and standard premiums published by CMS. 2026 premiums use income from your 2024 tax return. Your actual premium is determined by SSA using your income from 2 years prior. Contact Social Security (<a href="tel:18007721213">1-800-772-1213</a>) or <a href="https://ssa.gov/benefits/medicare/medicare-premiums.html" target="_blank" rel="noopener">ssa.gov</a> for personalized information.</p>
   </div>
 </div>
 <script>
 (function(){
   // Brackets: [maxIncomeSingle, maxIncomeMFJ, partBPremium, partDSurcharge, label]
   var BRACKETS = [
-    [103000,  206000,  174.70,  0,    "Standard — no IRMAA", "Up to $103,000 (Single) / $206,000 (MFJ)"],
-    [129000,  258000,  244.60,  12.90, "IRMAA Tier 1",       "$103,001–$129,000 (Single) / $206,001–$258,000 (MFJ)"],
-    [161000,  322000,  349.40,  33.30, "IRMAA Tier 2",       "$129,001–$161,000 (Single) / $258,001–$322,000 (MFJ)"],
-    [193000,  386000,  454.20,  53.80, "IRMAA Tier 3",       "$161,001–$193,000 (Single) / $322,001–$386,000 (MFJ)"],
-    [500000,  750000,  559.00,  74.20, "IRMAA Tier 4",       "$193,001–$500,000 (Single) / $386,001–$750,000 (MFJ)"],
-    [Infinity,Infinity,594.00,  81.00, "IRMAA Tier 5 (highest)", "Over $500,000 (Single) / Over $750,000 (MFJ)"]
+    [109000,    218000,    202.90, 0,     "Standard, no IRMAA",     "Up to $109,000 (Single) / $218,000 (MFJ)"],
+    [137000,    274000,    284.10, 14.50, "IRMAA Tier 1",           "$109,001 to $137,000 (Single) / $218,001 to $274,000 (MFJ)"],
+    [171000,    342000,    405.80, 37.50, "IRMAA Tier 2",           "$137,001 to $171,000 (Single) / $274,001 to $342,000 (MFJ)"],
+    [205000,    410000,    527.50, 60.40, "IRMAA Tier 3",           "$171,001 to $205,000 (Single) / $342,001 to $410,000 (MFJ)"],
+    [499999.99, 749999.99, 649.20, 83.30, "IRMAA Tier 4",           "$205,001 to $499,999 (Single) / $410,001 to $749,999 (MFJ)"],
+    [Infinity,  Infinity,  689.90, 91.00, "IRMAA Tier 5 (highest)", "$500,000 or more (Single) / $750,000 or more (MFJ)"]
   ];
 
   function fmt(n){ return '$'+n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g,','); }
@@ -63,9 +63,14 @@
     var partB, partD, bracketName, bracketRange;
 
     if(status === 'mfs'){
-      if(income <= 103000){
-        partB=174.70; partD=0; bracketName='Standard (MFS)'; bracketRange='Up to $103,000';
+      if(income <= 109000){
+        partB=202.90; partD=0; bracketName='Standard (MFS)'; bracketRange='Up to $109,000';
+      } else if(income < 391000){
+        partB=649.20; partD=83.30; bracketName='IRMAA (MFS)'; bracketRange='$109,001 to $390,999';
       } else {
+        partB=689.90; partD=91.00; bracketName='IRMAA highest (MFS)'; bracketRange='$391,000 or more';
+      }
+    } else {
         partB=559.00; partD=81.00; bracketName='IRMAA Flat Rate (MFS)'; bracketRange='Over $103,000';
       }
     } else {
@@ -79,7 +84,7 @@
       }
     }
 
-    var annualExtra = 12*(partB - 174.70 + partD);
+    var annualExtra = 12*(partB - 202.90 + partD);
 
     document.getElementById('ir-partb').textContent = fmt(partB);
     document.getElementById('ir-partd').textContent = fmt(partD);
@@ -87,12 +92,12 @@
 
     var callout = document.getElementById('irmaa-callout');
     if(annualExtra > 0){
-      callout.innerHTML = '<b>IRMAA applies:</b> Based on your income, you pay an extra <b>'+fmtInt(annualExtra)+'</b> per year ('+fmt(partB-174.70+partD)+'/month) above the standard Medicare premium. This is added directly to your Part B bill.';
+      callout.innerHTML = '<b>IRMAA applies:</b> Based on your income, you pay an extra <b>'+fmtInt(annualExtra)+'</b> per year ('+fmt(partB-202.90+partD)+'/month) above the standard Medicare premium. This is added directly to your Part B bill.';
     } else {
-      callout.innerHTML = '<b>No IRMAA surcharge.</b> Your income falls within the standard Medicare bracket — you pay the standard Part B premium of <b>$174.70/month</b>.';
+      callout.innerHTML = '<b>No IRMAA surcharge.</b> Your income falls within the standard Medicare bracket, so you pay the standard Part B premium of <b>$202.90/month</b>.';
     }
 
-    document.getElementById('irmaa-bracket').textContent = 'Your bracket: '+bracketName+' — '+bracketRange;
+    document.getElementById('irmaa-bracket').textContent = 'Your bracket: '+bracketName+': '+bracketRange;
   };
 
   irmaCalc();

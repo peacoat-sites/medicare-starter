@@ -1,12 +1,13 @@
 ---
-title: "Medicare IRMAA Calculator: Estimate Your 2024 Surcharge"
+title: "Medicare IRMAA Calculator: Estimate Your 2026 Surcharge"
 hide_title: true
 slug: "irmaa-medicare-calculator"
 date: 2026-06-10
+lastmod: 2026-11-23
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 categories: ["Medicare Costs"]
-description: "Use our free Medicare IRMAA estimator to see your 2024 Part B and Part D surcharges based on your income. Understand how IRMAA works and how to reduce it."
+description: "Use our free Medicare IRMAA estimator to see your 2026 Part B and Part D surcharges based on your income. Understand how IRMAA works and how to reduce it."
 image: ""
 ---
 
@@ -16,13 +17,24 @@ If you earn above a certain income threshold, Medicare charges you more than the
 
 IRMAA stands for Income-Related Monthly Adjustment Amount. It is an additional surcharge added to your Medicare Part B and Part D premiums if your modified adjusted gross income (MAGI) exceeds certain thresholds. The Social Security Administration (SSA) reviews your income from two years prior to determine whether IRMAA applies for the current year.
 
-For example, your 2024 Medicare premiums are based on your 2022 tax return income. If your income that year was above the threshold, you will receive an IRMAA notice from SSA, typically in November of the prior year.
+For example, your 2026 Medicare premiums are based on your 2024 tax return income. If your income that year was above the threshold, you will receive an IRMAA notice from SSA, typically in November of the prior year.
 
-## How the 2024 IRMAA Brackets Work
+## How the 2026 IRMAA Brackets Work
 
-There are six income tiers for single filers and married couples filing jointly. The standard 2024 Part B premium is $174.70 per month. As income rises, Part B premiums step up, reaching $594.00 per month for the highest earners. Part D plans also carry a separate IRMAA surcharge on top of whatever your plan premium is.
+There are six income tiers for single filers and married couples filing jointly. The standard 2026 Part B premium is $202.90 per month. IRMAA starts above $109,000 of income for single filers and $218,000 for joint filers, and Part B premiums step up to $689.90 per month for the highest earners. Part D carries a separate surcharge of $14.50 to $91.00 per month on top of your plan premium, billed by Medicare rather than your plan.
 
-Married couples filing separately face a much harsher rule: any income above $103,000 immediately jumps to the Tier 4 rate of $559.00 per month for Part B, regardless of how high the income actually is. This is by design to discourage income shifting.
+| Single filer income (2024 tax return) | Joint filer income | Part B monthly total | Part D surcharge |
+|---|---|---|---|
+| $109,000 or less | $218,000 or less | $202.90 | $0.00 |
+| $109,001 to $137,000 | $218,001 to $274,000 | $284.10 | $14.50 |
+| $137,001 to $171,000 | $274,001 to $342,000 | $405.80 | $37.50 |
+| $171,001 to $205,000 | $342,001 to $410,000 | $527.50 | $60.40 |
+| $205,001 to $499,999 | $410,001 to $749,999 | $649.20 | $83.30 |
+| $500,000 or more | $750,000 or more | $689.90 | $91.00 |
+
+Source: [CMS, 2026 Medicare Parts A & B Premiums and Deductibles](https://www.cms.gov/newsroom/fact-sheets/2026-medicare-parts-b-premiums-deductibles).
+
+Married people who lived with their spouse during the year but file separate returns face a much harsher rule: income above $109,000 jumps straight to $649.20 per month for Part B (plus $83.30 for Part D), and $391,000 or more pays the top rate of $689.90. This is by design to discourage income shifting.
 
 Use the estimator below to see exactly which bracket applies to your situation and how much extra you can expect to pay annually.
 
@@ -40,4 +52,4 @@ Because IRMAA looks back two years, tax planning today affects your Medicare cos
 
 Working with a fee-only financial planner who understands Medicare income thresholds can pay for itself many times over if it keeps you below an IRMAA tier boundary.
 
-For more detail on the full cost picture, see our guide to [Medicare Part B and D costs](/posts/) or read about [Medicare Advantage vs. Original Medicare](/posts/) to understand how plan choice affects your overall premium exposure.
+For more detail on the full cost picture, see our [Medicare costs by year](/medicare-costs-by-year/) table or try the [Original Medicare vs. Medicare Advantage selector](/medicare-plan-quiz/) to understand how plan choice affects your overall premium exposure.
