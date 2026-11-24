@@ -65,7 +65,7 @@ The QI tier is worth flagging separately: it's federally funded on a first-come,
 
 ## The Asset Rule Change Nobody Told You About
 
-This one caught me off guard when I first read the policy update, and I've been doing this for twenty years. Florida eliminated the asset test for Medicare Savings Programs. Completely. As of 2023, it doesn't matter if you have $20,000 sitting in a [savings account](/medicare-and-health-savings-account-hsa/). Your car, your small savings, a modest checking balance: none of it counts against you.
+Florida eliminated the asset test for Medicare Savings Programs. Completely. As of 2023, it doesn't matter if you have $20,000 sitting in a [savings account](/medicare-and-health-savings-account-hsa/). Your car, your small savings, a modest checking balance: none of it counts against you.
 
 Before this change, the asset limits were narrow enough that a lot of seniors with even modest savings got disqualified. I had a client in Sarasota, retired teacher, who had $14,000 in a CD she was saving for funeral expenses. Under the old rules, she was over the asset limit and couldn't get SLMB. She would qualify today.
 

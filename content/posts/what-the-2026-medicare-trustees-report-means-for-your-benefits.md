@@ -18,7 +18,7 @@ Picture this: you get your Medicare Summary Notice in the mail, see that your Pa
 
 ## The Part A Trust Fund Is Closer to the Edge
 
-Let's start with the headline that worries me most for my clients. The Trustees project the Part A trust fund, which is the pot of money that pays for hospital stays, skilled nursing care, hospice, and some home health, will be insolvent by 2033. That's three months sooner than last year's estimate.
+The Part A trust fund, which pays for hospital stays, skilled nursing care, hospice, and some home health, is projected to become insolvent by 2033. That's three months sooner than last year's estimate, according to the Trustees.
 
 Three months might not sound like a lot, but the direction matters. The clock is moving the wrong way.
 
