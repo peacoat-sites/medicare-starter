@@ -59,7 +59,7 @@ That's the good scenario: no major illness, no hospitalizations, Medigap G cover
 
 ## The IRMAA Problem Nobody Warns You About
 
-IRMAA stands for Income-Related Monthly Adjustment Amount. It's a [Medicare surcharge](/irmaa-medicare-surcharge-2026/) levied on higher-income beneficiaries, and it catches a surprising number of retirees off guard because it's based on your income from two years prior.
+IRMAA stands for Income-Related Monthly Adjustment Amount. It's a [Medicare surcharge](/irmaa-medicare-surcharge/) levied on higher-income beneficiaries, and it catches a surprising number of retirees off guard because it's based on your income from two years prior.
 
 For example, someone might sell a rental property in one year, causing their income to spike temporarily. Two years later, Medicare bills them based on that single high-income year, even if they haven't touched that income since. IRMAA doesn't care.
 

@@ -19,13 +19,11 @@ The official numbers are finally here. On November 17, 2026, the Centers for Med
 
 The headline is reasonably good news. The standard [Medicare Part](/best-medicare-part-d-plans-2026/) B premium, which covers outpatient care, doctor visits, and preventive services, rises to $209.40 per month in 2027, up $6.50 from $202.90 this year. That's a 3.2% increase, and it's a noticeable contrast to the $17.90 jump absorbed for 2026. AARP called it only a slight increase, and that framing feels accurate. Still, "smaller than last year" doesn't mean free, and there are some other cost changes that deserve a closer look before December 7 arrives.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Part B premium rises $6.50 to $209.40/month in 2027, the smallest dollar increase in recent years.</li><li style="margin:5px 0">Part B deductible increases $9 to $292; combined annual cost rise is $87 for standard enrollees.</li><li style="margin:5px 0">Part D deductible jumps $85 to $700 in 2027; the out-of-pocket cap rises to $2,400.</li><li style="margin:5px 0">Part A inpatient deductible increases $40 to $1,776 per benefit period.</li><li style="margin:5px 0">High earners may pay up to $711.80/month total for Part B due to IRMAA surcharges.</li></ul></div>
-
 
 ## What the Part B Changes Actually Mean for Your Budget
 
-The Part B deductible, the amount you pay out of pocket before Medicare starts covering your share, rises $9 to $292 in 2027, up from $283 this year. Put the two changes together and a standard enrollee faces $87 more in total annual Part B costs. That's about $7.25 extra [per month](/average-medicare-costs-per-month/). Not painful for most people, but real money nonetheless, especially for those on a fixed income.
+The Part B deductible, the amount you pay out of pocket before Medicare starts covering your share, rises $9 to $292 in 2027, up from $283 this year. Put the two changes together and a standard enrollee faces $87 more in total annual Part B costs. That's about $7.25 extra [per month](/how-much-does-medicare-cost-per-month/). Not painful for most people, but real money nonetheless, especially for those on a fixed income.
 
 As the CMS fact sheet published November 17 makes clear, these standard figures apply to most Medicare beneficiaries. But "most" isn't everyone, and that distinction matters a lot depending on your income.
 
@@ -99,4 +97,3 @@ These numbers are now official. The deadline is close. Taking an hour this week 
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

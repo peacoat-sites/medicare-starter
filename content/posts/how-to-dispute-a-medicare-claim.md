@@ -40,7 +40,7 @@ Before we get into the how, let's make sure we're talking about the same thing. 
 
 The document you'll need first is your Medicare Summary Notice, or MSN. If you're in Original Medicare (Parts A and B), this mailed statement arrives every three months and lists every service billed to Medicare on your behalf, what Medicare paid, and what you owe. Think of it as your receipt. If you're in a [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) (Part C), the equivalent is called an Explanation of Benefits, or EOB. Different name, same idea. Many people assume they don't have this document, and it's often sitting in a pile of mail mistaken for junk. Open everything with a Medicare logo on it.
 
-One thing that trips people up: you can dispute a denial before you've even received a bill. If your doctor says a service might not be covered, you can request an "Advance Beneficiary Notice" (ABN) and, in some cases, ask Medicare to review it preemptively. This is called an "organization determination" for [Advantage plans](/best-medicare-advantage-plans-with-dental-and-vision-2026/), and most people don't know it exists.
+One thing that trips people up: you can dispute a denial before you've even received a bill. If your doctor says a service might not be covered, you can request an "Advance Beneficiary Notice" (ABN) and, in some cases, ask Medicare to review it preemptively. This is called an "organization determination" for [Advantage plans](/medicare-advantage-dental-coverage/), and most people don't know it exists.
 
 ## The Five Levels of Appeal
 

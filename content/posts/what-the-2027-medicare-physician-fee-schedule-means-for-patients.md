@@ -20,9 +20,7 @@ CMS, the Centers for Medicare & Medicaid Services, dropped this [proposed rule](
 
 What surprised me was how many moving parts there are this cycle, even by the standards of a policy area known for complexity. Let me break down what actually matters for patients.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed the 2027 Physician Fee Schedule on July 14, 2026; public comments due September 14, 2026.</li><li style="margin:5px 0">The conversion factor drops to $32.84 for most doctors, a 1.68% cut from 2026 rates.</li><li style="margin:5px 0">APM-participating doctors get a slightly higher rate: $33.1693, a 1.19% cut.</li><li style="margin:5px 0">Mental health telehealth waivers (no in-person visit required) extended through December 31, 2027.</li><li style="margin:5px 0">A mandatory new Ambulatory Specialty Model launches January 1, 2027.</li></ul></div>
-
 
 ## The Pay Cut That Affects Whether Your Doctor Stays in Medicare
 
@@ -37,9 +35,7 @@ Why does that affect you? Because when Medicare pays doctors less, some of them 
 | Non-qualifying providers | $32.84 | -1.68% |
 | Qualifying APM participants | $33.1693 | -1.19% |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2027 Medicare Conversion Factor by Provider Type</div><div class="sc-row"><span class="sc-label">Non-APM Providers</span><span class="sc-track"><span class="sc-bar" style="width:99%"></span></span><span class="sc-val">$32.8</span></div><div class="sc-row"><span class="sc-label">APM Participants</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$33.2</span></div><div class="sc-src">Source: CMS Proposed Rule, July 14, 2026</div></div>
-
 
 ## The New Ambulatory Specialty Model: What It Is and Why It's a Big Deal
 
@@ -95,4 +91,3 @@ These rules feel abstract until they change what happens in the exam room. This 
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

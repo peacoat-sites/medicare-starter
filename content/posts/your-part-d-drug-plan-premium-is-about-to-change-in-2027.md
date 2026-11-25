@@ -20,9 +20,7 @@ The program being cut is called the Part D Premium Stabilization Demonstration. 
 
 A KFF analysis published July 29, 2026, found that approximately 45% of standalone Part D enrollees are looking at monthly premium increases of $11 to $20 for 2027. That's not pocket change for someone on a fixed income. CMS Administrator Dr. Mehmet Oz has said most beneficiaries will pay less than $10 more per month and has called the subsidy a "bailout" for insurers. Families USA, an advocacy group, pushed back hard, calling the termination an "unnecessary blow to seniors." As NPR reported in July 2026, the disagreement over who actually benefits from the subsidy, insurers or patients, sits right at the center of this debate.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D Premium Stabilization Demonstration ends December 31, 2026, one year early.</li><li style="margin:5px 0">The subsidy lowered standalone Part D premiums by an average of $16/month in 2026.</li><li style="margin:5px 0">KFF projects 45% of standalone enrollees will see monthly increases of $11–$20 in 2027.</li><li style="margin:5px 0">Open Enrollment ends December 7, 2026, the last chance to shop before 2027 rates lock in.</li><li style="margin:5px 0">Medicare Advantage enrollees and Extra Help recipients are largely shielded from these increases.</li></ul></div>
-
 
 ## Who Feels This Most, and Who Is Protected
 
@@ -45,9 +43,7 @@ Here's a side-by-side view of the key figures, because the difference between th
 
 The base premium increase of about $2.34 per month looks small. But add back the $16/month that was being quietly absorbed by the subsidy, and the real-world swing for many people is much larger than the official base figures suggest.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly premium impact estimate for 2027 standalone Part D plans</div><div class="sc-row"><span class="sc-label">2026 avg with subsidy</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$23</span></div><div class="sc-row"><span class="sc-label">2027 base premium</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$41</span></div><div class="sc-row"><span class="sc-label">Subsidy value lost</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$16</span></div><div class="sc-src">Source: KFF analysis, July 2026; CMS 2026-2027 data</div></div>
-
 
 ## Why This Is Happening Now, and What the Debate Looks Like
 
@@ -91,4 +87,3 @@ The expiration of this subsidy isn't a catastrophe for every single Part D enrol
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
-

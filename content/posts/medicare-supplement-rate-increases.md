@@ -54,7 +54,7 @@ Three ways insurers price Medigap plans exist, and this is where most coverage c
 
 **Issue-age-rated** plans lock in a rate based on how old you were when you first enrolled. No additional age factor piles on top each year. You still see increases, but they're applied to a stable base.
 
-**Attained-age-rated** plans are the most common, and the riskiest for long-term budgeting. Your premium climbs with every birthday on top of whatever [medical trend increase](/average-medicare-costs-per-month/) the insurer applies. When you're 70 it's manageable. By 78 or 80, you can be paying 40-50% more than you would on a community-rated plan that started at the same price.
+**Attained-age-rated** plans are the most common, and the riskiest for long-term budgeting. Your premium climbs with every birthday on top of whatever [medical trend increase](/how-much-does-medicare-cost-per-month/) the insurer applies. When you're 70 it's manageable. By 78 or 80, you can be paying 40-50% more than you would on a community-rated plan that started at the same price.
 
 Here's my contrarian take on this: most people pick plans primarily based on the current monthly premium, and that instinct is backwards. The rating method is a better predictor of your five-year cost than today's rate. A community-rated plan priced $30 higher per month at enrollment can easily save you thousands over a decade. Run the math before you assume the cheaper option is cheaper.
 
@@ -102,25 +102,14 @@ The catch: if your plan G rate is rising because your insurer is having block-ag
 
 ---
 
----
-
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
 
 ---
 
 ## Sources
 
-- [Life Alert Style Medical Alert Button for Seniors](https://www.amazon.com/dp/B076BGJFM4?tag=contentportfo-20)
 - [Centers for Medicare & Medicaid Services](https://www.cms.gov/)
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
-- [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 
 ---
 
@@ -130,4 +119,3 @@ The catch: if your plan G rate is rising because your insurer is having block-ag
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

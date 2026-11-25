@@ -29,9 +29,7 @@ Free, unbiased help with Medicare exists in every single state, and most people 
 
 Every state, plus Washington D.C., Puerto Rico, Guam, and the U.S. Virgin Islands, has its own SHIP office funded through a federal grant administered by the Administration for Community Living. The names vary by state, which trips people up. In California it's called HICAP (Health Insurance Counseling and Advocacy Program). In New York it's HIICAP. In Florida it's SHINE (Serving Health Insurance Needs of Elders). Same federal program, different local branding. When you search your state, look for both "SHIP" and your state's local name.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SHIP counseling is free in all 50 states, D.C., and U.S. territories, no sales pitch, ever.</li><li style="margin:5px 0">Each state has its own SHIP office, often under a different local name (HICAP, SHINE, HIICAP, etc.).</li><li style="margin:5px 0">Find your state's SHIP number at shiphelp.org or by calling 1-800-MEDICARE (1-800-633-4227).</li><li style="margin:5px 0">Counselors can help with plan comparisons, billing disputes, appeals, and Extra Help enrollment.</li><li style="margin:5px 0">SHIP is best used before big enrollment deadlines: Initial Enrollment, Open Enrollment (Oct 15–Dec 7), and Special Enrollment Periods.</li></ul></div>
-
 
 ## What SHIP Counselors Actually Do
 
@@ -105,7 +103,6 @@ AARP's Medicare resource center at [aarp.org/health/medicare-insurance](https://
 
 ---
 
-
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
@@ -120,4 +117,3 @@ AARP's Medicare resource center at [aarp.org/health/medicare-insurance](https://
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

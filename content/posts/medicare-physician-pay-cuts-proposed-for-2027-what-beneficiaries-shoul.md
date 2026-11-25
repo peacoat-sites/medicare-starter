@@ -20,17 +20,13 @@ On July 14, 2026, the Centers for Medicare and Medicaid Services (CMS) released 
 
 This isn't a crisis announcement, but it's not nothing either. Lower rates create real pressure on physician practices, particularly small or independent ones, and that pressure eventually reaches patients through narrower networks, longer waits, or doctors who quietly stop accepting new Medicare patients.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed the CY 2027 Physician Fee Schedule on July 14, 2026; public comments close September 14, 2026.</li><li style="margin:5px 0">The conversion factor drops to $32.84 (non-qualifying) or $33.17 (APM participants), down 1.68% and 1.19% respectively.</li><li style="margin:5px 0">The cut stems from expiration of a one-time 2.5% congressional pay bump granted for 2026 only.</li><li style="margin:5px 0">Beneficiaries can comment at Regulations.gov using file code CMS-1848-P before September 14.</li><li style="margin:5px 0">ACO-participating physicians get a proposed 32% payment boost, which may improve care coordination access.</li></ul></div>
-
 
 ## What the Numbers Actually Mean
 
 The "conversion factor" is the master number CMS multiplies by procedure codes to calculate what Medicare pays a physician. Think of it as the exchange rate between medical work and Medicare dollars. For 2027, [CMS proposes](/cms-proposes-making-medicare-drug-price-negotiations-permanent/) dropping it in two tiers.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare Physician Conversion Factor by Participant Type</div><div class="sc-row"><span class="sc-label">2026 Baseline</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$33.6</span></div><div class="sc-row"><span class="sc-label">2027 APM Qualifying</span><span class="sc-track"><span class="sc-bar" style="width:99%"></span></span><span class="sc-val">$33.2</span></div><div class="sc-row"><span class="sc-label">2027 Non-Qualifying</span><span class="sc-track"><span class="sc-bar" style="width:98%"></span></span><span class="sc-val">$32.8</span></div><div class="sc-src">Source: CMS CY 2027 PFS Proposed Rule, July 14 2026</div></div>
-
 
 That gap between $33.57 (the current rate) and $32.84 may look small in isolation. Multiply it across thousands of patient visits in a year, though, and a solo primary care physician can easily lose tens of thousands of dollars in annual revenue, with no offsetting reduction in overhead costs.
 
@@ -98,4 +94,3 @@ The final 2027 rule won't be published until late fall 2026. Between now and the
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -28,7 +28,7 @@ faqs:
 
 Only about 1 in 3 Florida seniors who qualify for [Medicare Savings Programs](/medicare-savings-programs/) actually enrolls in one. Let that sink in for a second.
 
-I've spent two decades walking people through Medicare benefits, and that statistic from the Kaiser Family Foundation still stops me cold every time I think about it. We're talking about a program that can eliminate a beneficiary's Part B premium entirely, which in 2026 runs $202.90 [per month](/average-medicare-costs-per-month/), and yet millions of eligible people just... don't know it exists. Or they tried to apply once, got confused by a form, and gave up. I've seen both.
+I've spent two decades walking people through Medicare benefits, and that statistic from the Kaiser Family Foundation still stops me cold every time I think about it. We're talking about a program that can eliminate a beneficiary's Part B premium entirely, which in 2026 runs $202.90 [per month](/how-much-does-medicare-cost-per-month/), and yet millions of eligible people just... don't know it exists. Or they tried to apply once, got confused by a form, and gave up. I've seen both.
 
 I'll be honest: I went deep on this specifically because I kept getting the same question from Florida seniors in our counseling sessions. "Frank, I'm on Medicare and I can barely make rent. What can I actually do?" The answer is more specific, and more actionable, than most articles tell you.
 

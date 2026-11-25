@@ -29,9 +29,7 @@ Georgia has more Medicare options than most people realize, and choosing wrong i
 
 The basics work the same everywhere. Part A covers hospital stays, skilled nursing facility (SNF) care, hospice, and some home health. Part B covers outpatient care, doctor visits, and preventive services. Part D covers prescription drugs. Medicare Advantage (also called Part C) bundles A, B, and usually D into a private plan. What changes by state is plan availability, premium variation, Medicaid expansion rules, and the local resources you can tap for free help.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Georgia seniors can get free, unbiased Medicare counseling from Georgia's SHIP program, GeorgiaCares.</li><li style="margin:5px 0">In 2026, the standard Part B premium is $202.90/month; higher earners pay more through IRMAA surcharges.</li><li style="margin:5px 0">Georgia has expanded Medicaid under the ACA, with its own "Pathways to Coverage" program that has specific work requirements.</li><li style="margin:5px 0">Medicare Advantage enrollment in Georgia is high; always compare plan networks carefully before enrolling.</li><li style="margin:5px 0">The Part D out-of-pocket cap is $2,100 in 2026, a significant protection for people on expensive medications.</li></ul></div>
-
 
 ## Original Medicare vs. Medicare Advantage in Georgia
 
@@ -119,7 +117,6 @@ Step 6 is where things can go wrong. Online directories aren't always current. A
 
 ---
 
-
 *Photo: [Vlada Karpovich](https://www.pexels.com/@vlada-karpovich) via Pexels*
 
 ---
@@ -134,4 +131,3 @@ Step 6 is where things can go wrong. Online directories aren't always current. A
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -101,8 +101,6 @@ Worked example: A 44-year-old woman on SSDI decided Part D wasn't worth it since
 
 ---
 
----
-
 The system is complicated. I won't pretend otherwise. But the most expensive thing a younger Medicare beneficiary can do is assume the rules that apply to their retired neighbor also apply to them, because often they don't. If you're not sure where to start, the SHIP program in your state offers free one-on-one counseling from trained volunteers, and it's genuinely one of the best-kept secrets in Medicare. Use it.
 
 *Photo: [Gustavo Fring](https://www.pexels.com/@gustavo-fring) via Pexels*
@@ -119,4 +117,3 @@ The system is complicated. I won't pretend otherwise. But the most expensive thi
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -18,9 +18,7 @@ affiliate_disclosure: true
 
 The Centers for Medicare & Medicaid Services, known as CMS, struck agreements on all 15 drugs in its second negotiation cycle. Price reductions across the group range from 38% to 85% off 2024 list prices, according to CMS negotiated price data published in October 2026. The semaglutide drugs, Ozempic and Rybelsus for type 2 diabetes and Wegovy for weight management, will carry a Medicare negotiated price of $274 for a 30-day supply, down from a 2024 list price of $959. CMS projects these new prices will save Part D ([prescription drug](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) coverage) enrollees about $685 million in out-of-pocket costs in 2027. That's real money. But the negotiated price is only part of the story, and this is the part many people miss during open enrollment.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare's 2027 negotiated price for Ozempic, Rybelsus, and Wegovy drops to $274/month, a 71% cut from $959.</li><li style="margin:5px 0">All 15 negotiated drugs see price cuts of 38%–85% off 2024 list prices starting January 1, 2027.</li><li style="margin:5px 0">CMS projects $685 million in Part D out-of-pocket savings for enrollees in 2027.</li><li style="margin:5px 0">The average standalone Part D premium jumps roughly 50%, from $34/month in 2026 to about $51 in 2027.</li><li style="margin:5px 0">The Part D out-of-pocket cap rises to $2,400 in 2027; the standard deductible ceiling goes up to $700.</li></ul></div>
-
 
 ## What the Negotiated Prices Actually Are
 
@@ -87,4 +85,3 @@ The savings from negotiated drug prices are real, and $685 million in projected 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
-

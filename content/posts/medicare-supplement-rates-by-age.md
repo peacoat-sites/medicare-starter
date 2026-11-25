@@ -48,7 +48,7 @@ The catch is that most plans sold today are attained-age-rated because they offe
 
 ## What the Numbers Actually Look Like
 
-As of August 2026, a 65-year-old male nonsmoker in Ohio can find Plan G premiums ranging from about $98 to $165 [per month](/average-medicare-costs-per-month/) depending on the insurer and rating method. That same man at 75, with an attained-age policy, might be paying $190 to $260 per month for identical coverage. By 80, it's not unusual to see $290 or higher with certain carriers.
+As of August 2026, a 65-year-old male nonsmoker in Ohio can find Plan G premiums ranging from about $98 to $165 [per month](/how-much-does-medicare-cost-per-month/) depending on the insurer and rating method. That same man at 75, with an attained-age policy, might be paying $190 to $260 per month for identical coverage. By 80, it's not unusual to see $290 or higher with certain carriers.
 
 Here's a side-by-side comparison I put together using current rate data from multiple carriers. The numbers below are illustrative of realistic ranges based on available market data, not quotes from a single insurer, because rates vary by zip code, tobacco use, and carrier:
 

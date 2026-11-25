@@ -34,7 +34,7 @@ So let me walk you through how I actually compare Medicare plan costs, including
 
 ## The Numbers That Actually Matter (And the Ones That Don't)
 
-Before you can compare anything, you need to understand what you're comparing. Medicare has four basic parts: Part A (hospital insurance), Part B (medical insurance), Part C (Medicare Advantage, which bundles A, B, and often D together), and Part D (prescription drug coverage). Most people I counsel are choosing between Original Medicare (Parts A and B, often paired with a Medigap supplement and a [Part D plan](/average-medicare-costs-per-month/)) and Medicare Advantage (Part C).
+Before you can compare anything, you need to understand what you're comparing. Medicare has four basic parts: Part A (hospital insurance), Part B (medical insurance), Part C (Medicare Advantage, which bundles A, B, and often D together), and Part D (prescription drug coverage). Most people I counsel are choosing between Original Medicare (Parts A and B, often paired with a Medigap supplement and a [Part D plan](/how-much-does-medicare-cost-per-month/)) and Medicare Advantage (Part C).
 
 Here's what surprised me the first time I mapped out the real cost structure: Original Medicare, on its own, has no [out-of-pocket maximum](/does-medicare-cover-100-percent/). None. A catastrophic illness could cost you $50,000 or more in a bad year. Medicare Advantage plans, by contrast, are required to cap your annual out-of-pocket spending. In 2026, that cap can be as high as $9,350 for in-network services, but many plans set it lower.
 
@@ -133,15 +133,11 @@ Build your short list of plans to compare before your SHIP appointment using the
 
 ---
 
----
-
 The real cost of a Medicare plan isn't a number you'll see advertised anywhere. It's the sum of what you'll actually pay across an entire year, in a typical year and a bad one, for the specific health situation you're living with right now. That number is worth a few hours of careful research. A SHIP counselor and the Medicare.gov Plan Finder together can get you most of the way there, and the savings can be substantial enough to matter.
 
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
----
 
 ---
 
@@ -151,4 +147,3 @@ The real cost of a Medicare plan isn't a number you'll see advertised anywhere. 
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -105,8 +105,6 @@ One thing people always ask me: do they need to choose? Usually no. If you quali
 
 ---
 
----
-
 The biggest mistake families make isn't misunderstanding one program or the other. It's treating them as separate choices, when for millions of Americans, especially those with modest incomes and significant health needs, the real answer is both. If someone you love is approaching 65 with limited resources, don't wait for someone to bring this up. Ask specifically about Medicare Savings Programs and Medicaid eligibility. That conversation could be worth thousands of dollars a year.
 
 ---
@@ -117,16 +115,8 @@ The biggest mistake families make isn't misunderstanding one program or the othe
 
 ## Sources
 
-- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
-- [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -136,4 +126,3 @@ The biggest mistake families make isn't misunderstanding one program or the othe
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -84,8 +84,6 @@ If you want a deeper look at how Medigap plans compare to each other, the book *
 
 ---
 
----
-
 The timing rules are specific, the penalties are permanent, and the windows move whether or not you're paying attention. Getting this right doesn't require an insurance expert or a financial planner. It requires knowing the rules about three months before your 65th birthday and acting on them. That's it. Start there.
 
 ---
@@ -96,16 +94,8 @@ The timing rules are specific, the penalties are permanent, and the windows move
 
 ## Sources
 
-- [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
 - [Centers for Medicare & Medicaid Services](https://www.cms.gov/)
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
-- [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -115,4 +105,3 @@ The timing rules are specific, the penalties are permanent, and the windows move
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -1,12 +1,12 @@
 ---
-title: "Medicare Monthly Costs: Part A, B, D Premiums Explained"
+title: "How Much Does Medicare Cost Per Month in 2027?"
 date: 2026-07-26T15:15:03.081257+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-24T18:00:00Z
 draft: false
-description: "Learn what you'll pay monthly for Medicare Parts A, B, and D. Compare premiums, deductibles, and coverage options for 2024."
+description: "Medicare costs per month in 2027: Part B is $209.40, Part A is free for most people, plus Part D and Medigap. See 2026 vs. 2027 amounts, IRMAA and ways to pay less."
 image: "/img/heroes/8123820.jpg"
 categories: ["Costs and Penalties"]
-tags: ["much", "does", "medicare", "cost", "month"]
+tags: ["Medicare", "costs", "premiums", "2027"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
@@ -14,35 +14,51 @@ author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and hel
 slug: "how-much-does-medicare-cost-per-month"
 affiliate_disclosure: true
 faqs:
-  - q: "What is the average total Medicare cost per month in 2026?"
-    a: "For someone with standard income who has Original Medicare plus a Part D plan, the typical combined premium is around $239 per month ($202.90 for Part B plus roughly $36 for Part D). Adding a Medigap supplement pushes that to $300 to $400 or more monthly, but significantly reduces unexpected bills."
+  - q: "What does Medicare cost per month in total?"
+    a: "With standard income and Original Medicare, you pay the Part B premium ($202.90 a month in 2026, $209.40 in 2027) plus whatever your Part D drug plan charges, which varies by plan. Part A is free for most people. A Medigap policy adds its own premium on top, which often roughly doubles the monthly total but cuts surprise bills."
   - q: "Do I have to pay for Medicare Part A?"
-    a: "Most people don't. If you worked and paid Medicare taxes for at least 40 quarters (10 years), Part A is premium-free. If you have fewer than 30 quarters of work history, Part A costs $565 per month in 2026."
+    a: "Most people don't. If you worked and paid Medicare taxes for at least 40 quarters (10 years), Part A is premium-free. If you have fewer than 30 quarters of work history, Part A costs $565 per month in 2026 and $597 in 2027; with 30 to 39 quarters it's $311 in 2026 and $328 in 2027."
   - q: "Will Medicare automatically deduct my premium from Social Security?"
-    a: "Yes, if you're receiving Social Security benefits, your Part B premium is deducted automatically from your monthly check. If you haven't started Social Security yet, CMS bills you quarterly for your Part B premium."
+    a: "Yes, if you're receiving Social Security benefits, your Part B premium is deducted automatically from your monthly check. If you haven't started Social Security yet, Medicare bills you every three months for your Part B premium."
   - q: "Can my Medicare costs go up based on income?"
-    a: "Yes. If your income from two years ago exceeded $109,000 (individual) or $218,000 (joint), you'll pay IRMAA surcharges on top of your standard Part B and Part D premiums. These surcharges can add anywhere from $74 to over $443 per month to your Part B premium alone."
+    a: "Yes. For 2027, if your 2025 income was above $112,000 (individual) or $224,000 (joint), you pay IRMAA on top of the standard Part B and Part D premiums. Part B then runs from $293.10 to $711.80 a month, and Part D adds $15.40 to $96.40 a month."
   - q: "Is a $0 premium Medicare Advantage plan actually free?"
     a: "Not exactly. You still pay your Part B premium ($202.90/month at the standard rate), and $0-premium Advantage plans typically have copays, deductibles, and out-of-pocket costs when you use care. The plan premium being $0 doesn't mean your total cost is $0."
 ---
 
 Most people come to Medicare expecting one number. One bill. One monthly charge that's simple and predictable. What they find instead is a system with four parts, multiple premium tiers, income adjustments, and a dizzying array of supplemental options that can make your total monthly cost anywhere from almost nothing to well over $500. That gap is real, and it's why so many people feel blindsided.
 
-You might be wondering: "Okay, but what will I actually pay?" Here's what I tell people when they sit down with me for the first time: the answer depends on which parts of Medicare you have, what your income was two years ago, and whether you've bought any additional coverage. Let me walk you through each layer, because once you see the full picture, it starts to make sense.
+You might be wondering: "Okay, but what will I actually pay?" The honest answer: it depends on which parts of Medicare you have, what your income was two years ago, and whether you've bought any additional coverage. Let me walk you through each layer, because once you see the full picture, it starts to make sense.
 
 The good news is that most people pay less than they expect for the basics. The part that catches people off guard is everything layered on top.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most people pay $202.90/month for Medicare Part B in 2026 (higher earners pay more).</li><li style="margin:5px 0">Part A (hospital) is free for most people who worked 40+ quarters; others pay up to $565/month.</li><li style="margin:5px 0">Medicare Advantage plans can have $0 premiums but often come with copays and network restrictions.</li><li style="margin:5px 0">Medigap (supplement) plans typically add $100-$300+/month but can dramatically reduce out-of-pocket costs.</li><li style="margin:5px 0">Your total monthly Medicare cost in 2026 can range from roughly $0 to $600+ depending on your situation.</li></ul></div>
 
+## What changes in 2027
+
+CMS announced the 2027 amounts on November 17, 2026. They take effect in January; the rest of this guide shows 2026, the amounts you're paying now.
+
+| Cost | 2026 | 2027 |
+| --- | --- | --- |
+| Part B standard premium (monthly) | $202.90 | $209.40 |
+| Part B deductible (yearly) | $283 | $292 |
+| Part A premium, 40+ quarters of work | $0 | $0 |
+| Part A premium, 30 to 39 quarters | $311 | $328 |
+| Part A premium, fewer than 30 quarters | $565 | $597 |
+| Part A hospital deductible (per benefit period) | $1,736 | $1,776 |
+| IRMAA starts above (single / joint income) | $109,000 / $218,000 (2024 income) | $112,000 / $224,000 (2025 income) |
+
+Year-by-year history is on our [Medicare costs by year](/medicare-costs-by-year/) page, and the full surcharge tables are in our [IRMAA brackets guide](/irmaa-medicare-surcharge/).
+
 ## The Parts and What They Actually Cost
 
-Let me start with the building blocks, because this is where a lot of confusion lives.
+Start with the building blocks, because this is where most of the confusion lives.
 
 **Part A** covers hospital stays, skilled nursing facilities, and some home health care. If you or your spouse worked and paid Medicare taxes for at least 40 quarters (that's 10 years), you don't pay a premium for Part A at all. Most people qualify. If you have between 30 and 39 quarters, your Part A premium in 2026 is $311 per month. Fewer than 30 quarters and you're looking at $565 per month. That's a significant cost that surprises people who spent time self-employed or working outside the U.S.
 
 **Part B** is where almost everyone pays something. The standard Part B premium in 2026 is $202.90 per month. That's deducted automatically from your Social Security check if you're receiving benefits, which most people are. If you're not yet taking Social Security, Medicare bills you quarterly instead, which can catch people off guard when a $608.70 bill arrives.
 
-**Part D** covers prescription drugs. Premiums vary by plan and where you live, but the national base beneficiary premium is around $36 per month in 2026. Your actual premium could be higher or lower depending on which plan you choose.
+**Part D** covers prescription drugs. Premiums vary widely by plan and where you live, and some plans charge $0. Compare plans on Medicare.gov using your own drug list, because the cheapest premium isn't always the cheapest plan once copays are counted.
 
 | Medicare Part | What It Covers | 2026 Monthly Premium (typical) |
 |---|---|---|
@@ -52,11 +68,9 @@ Let me start with the building blocks, because this is where a lot of confusion 
 | Part D | Prescription drugs | ~$0 to $100+ depending on plan |
 | Medigap (Supplement) | Fills gaps in Original Medicare | ~$80 to $300+ |
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical 2026 Monthly Medicare Premiums by Part</div><div class="sc-row"><span class="sc-label">Part A (no premium)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$0</span></div><div class="sc-row"><span class="sc-label">Part B (standard)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$202.90</span></div><div class="sc-row"><span class="sc-label">Part D (avg baseline)</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$36</span></div><div class="sc-row"><span class="sc-label">Medigap Plan G (avg)</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">$165</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage (avg)</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$17</span></div><div class="sc-src">Source: CMS 2026 Medicare premium announcements</div></div>
-
 ## IRMAA: The Income Surcharge Nobody Warns You About
 
-This one is genuinely frustrating, and I say that as someone who has watched good people get blindsided by it year after year. If your modified adjusted gross income from two years prior exceeds certain thresholds, you pay more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's calculated based on your tax return from 2024 when you're enrolling in 2026.
+This one catches a lot of people off guard. If your modified adjusted gross income from two years prior exceeds certain thresholds, you pay more for Part B and Part D. This surcharge is called IRMAA (Income-Related Monthly Adjustment Amount), and it's calculated based on your tax return from 2024 when you're enrolling in 2026.
 
 The tiers in 2026 look like this:
 
@@ -69,9 +83,9 @@ The tiers in 2026 look like this:
 | $205,001 to $499,999 | $410,001 to $749,999 | $649.20 |
 | Above $500,000 | Above $750,000 | $689.90 |
 
-Part D also has IRMAA surcharges on top of your plan premium, ranging from about $13 to $81 extra [per month](/average-medicare-costs-per-month/) at the higher tiers.
+Part D also has IRMAA surcharges on top of your plan premium: $14.50 to $91.00 a month in 2026, and $15.40 to $96.40 in 2027. For 2027, the Part B tiers start above $112,000 (single) and $224,000 (joint) of 2025 income; see the [2027 IRMAA brackets](/irmaa-medicare-surcharge/).
 
-If you had a one-time income event (sold a house, took a large IRA distribution, retired mid-year), you may qualify for an IRMAA appeal using Form SSA-44. You have to file it yourself; it's not automatic. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) explains the appeal process, and it's worth doing if your income dropped significantly.
+If your income dropped because of a life-changing event such as retiring, cutting back your work hours, divorce or a spouse's death, you may qualify for an IRMAA appeal using Form SSA-44. One-time income like a home sale or a large IRA withdrawal doesn't qualify. You have to file it yourself; it's not automatic. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) explains the appeal process, and it's worth doing if your income dropped significantly.
 
 ## Original Medicare vs. Medicare Advantage: The Real Trade-Off
 
@@ -127,4 +141,3 @@ A worked example: Robert, 70, single, lives in Ohio on $1,400/month Social Secur
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

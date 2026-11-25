@@ -1,60 +1,60 @@
 {
-  "title": "Medicare Costs: 2025 vs. 2026",
-  "year_prev": "2025",
-  "year_curr": "2026",
+  "title": "Medicare Costs: 2026 vs. 2027",
+  "year_prev": "2026",
+  "year_curr": "2027",
   "source": "Centers for Medicare & Medicaid Services (CMS)",
-  "updated": "Updated for 2026 \u2014 figures announced by CMS on November 14, 2025",
+  "updated": "Updated for 2027: figures announced by CMS on November 17, 2026",
   "rows": [
     {
       "label": "Part B standard premium (monthly)",
-      "prev": "$185.00",
-      "curr": "$202.90",
-      "change": "+$17.90"
+      "prev": "$202.90",
+      "curr": "$209.40",
+      "change": "+$6.50"
     },
     {
       "label": "Part B annual deductible",
-      "prev": "$257",
-      "curr": "$283",
-      "change": "+$26"
+      "prev": "$283",
+      "curr": "$292",
+      "change": "+$9"
     },
     {
       "label": "Part A inpatient hospital deductible (per benefit period)",
-      "prev": "$1,676",
-      "curr": "$1,736",
-      "change": "+$60"
+      "prev": "$1,736",
+      "curr": "$1,776",
+      "change": "+$40"
     },
     {
-      "label": "Part A coinsurance, days 61\u201390 (per day)",
-      "prev": "$419",
-      "curr": "$434",
-      "change": "+$15"
+      "label": "Part A coinsurance, days 61–90 (per day)",
+      "prev": "$434",
+      "curr": "$444",
+      "change": "+$10"
     },
     {
       "label": "Part A coinsurance, lifetime reserve days (per day)",
-      "prev": "$838",
-      "curr": "$868",
-      "change": "+$30"
+      "prev": "$868",
+      "curr": "$888",
+      "change": "+$20"
     },
     {
-      "label": "Skilled nursing facility coinsurance, days 21\u2013100 (per day)",
-      "prev": "$209.50",
-      "curr": "$217.00",
-      "change": "+$7.50"
+      "label": "Skilled nursing facility coinsurance, days 21–100 (per day)",
+      "prev": "$217.00",
+      "curr": "$222.00",
+      "change": "+$5.00"
     },
     {
-      "label": "Part A premium \u2014 fewer than 30 quarters (monthly)",
-      "prev": "$518",
-      "curr": "$565",
-      "change": "+$47"
+      "label": "Part A premium, fewer than 30 quarters (monthly)",
+      "prev": "$565",
+      "curr": "$597",
+      "change": "+$32"
     },
     {
-      "label": "Part A premium \u2014 30\u201339 quarters (monthly)",
-      "prev": "$285",
-      "curr": "$311",
-      "change": "+$26"
+      "label": "Part A premium, 30–39 quarters (monthly)",
+      "prev": "$311",
+      "curr": "$328",
+      "change": "+$17"
     },
     {
-      "label": "Part A premium \u2014 40+ quarters / most people (monthly)",
+      "label": "Part A premium, 40+ quarters / most people (monthly)",
       "prev": "$0",
       "curr": "$0",
       "change": "No change"

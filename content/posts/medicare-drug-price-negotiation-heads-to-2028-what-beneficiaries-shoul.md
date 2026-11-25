@@ -20,9 +20,7 @@ On July 16, 2026, the Centers for Medicare & Medicaid Services (CMS, the federal
 
 If you're a Medicare beneficiary, a caregiver, or someone who's been watching this program and wondering when it actually affects your wallet, this is the moment to pay attention. The 2028 prices are being negotiated right now, and the rules governing how those prices reach you are being written right now.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS released draft guidance July 16, 2026, detailing how negotiated drug prices will reach patients in 2028.</li><li style="margin:5px 0">Up to 15 Part D and/or Part B drugs are being negotiated in 2026 for the 2028 price applicability year.</li><li style="margin:5px 0">Negotiated 2028 prices will be publicly released before November 30, 2026, about a year ahead of implementation.</li><li style="margin:5px 0">Public comments on CMS's first proposed rule for the negotiation program are due August 17, 2026.</li><li style="margin:5px 0">A list of drugs selected for the 2029 negotiation cycle is expected by February 1, 2027.</li></ul></div>
-
 
 ## What "Maximum Fair Prices" Actually Means for You
 
@@ -91,4 +89,3 @@ If you want to stay current, bookmark Medicare.gov's drug price negotiation page
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

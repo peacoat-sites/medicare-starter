@@ -18,9 +18,7 @@ On July 14, 2026, CMS (the Centers for Medicare & Medicaid Services) released it
 
 Here's what CMS actually proposed, why it matters to beneficiaries right now, and what you can do about it before the window closes on September 14, 2026.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed cutting the Medicare Part B conversion factor to $32.84 for most providers, a 1.68% reduction from 2026 rates.</li><li style="margin:5px 0">Doctors in qualifying alternative payment models fare slightly better at $33.1693, but still face a 1.19% cut.</li><li style="margin:5px 0">The proposed Ambulatory Specialty Model launches January 1, 2027, reshaping how outpatient specialists bill Medicare.</li><li style="margin:5px 0">Public comments are open now through September 14, 2026, beneficiaries can submit input at regulations.gov.</li><li style="margin:5px 0">Lower reimbursements historically push some physicians to limit Medicare patients, affecting access to care.</li></ul></div>
-
 
 ## What the Conversion Factor Actually Means
 
@@ -35,9 +33,7 @@ For 2027, CMS is proposing two versions of that number. According to the CMS fac
 
 A 1.68% cut sounds small until you realize it compounds against a decade of similar reductions. Medical practice overhead, salaries, and equipment costs don't shrink in parallel.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2027 Proposed Conversion Factor by Provider Type ($)</div><div class="sc-row"><span class="sc-label">Qualifying APM Participants</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$33.2</span></div><div class="sc-row"><span class="sc-label">Non-Qualifying Providers</span><span class="sc-track"><span class="sc-bar" style="width:99%"></span></span><span class="sc-val">$32.8</span></div><div class="sc-src">Source: CMS Fact Sheet, July 14, 2026</div></div>
-
 
 ## The Quality Reporting Overhaul You Haven't Heard About
 
@@ -93,4 +89,3 @@ This proposed rule will be finalized, likely in late October or early November 2
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

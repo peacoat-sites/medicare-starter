@@ -30,9 +30,7 @@ Original Medicare covers a lot. But the gaps it leaves behind are real, and for 
 
 Understanding where Original Medicare stops paying is not just academic. It's the reason Medigap (Medicare Supplement Insurance) and [Medicare Advantage plans](/best-medicare-advantage-plans-by-state/) exist, and knowing the specific gaps is the only way to decide which fix actually fits your situation.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Original Medicare has no annual out-of-pocket maximum, leaving you exposed to unlimited costs.</li><li style="margin:5px 0">Part A charges a separate inpatient deductible per benefit period, not per year.</li><li style="margin:5px 0">Part B covers 80% of approved costs after the deductible; you owe the other 20% with no cap.</li><li style="margin:5px 0">Dental, vision, and hearing care are almost entirely excluded from Original Medicare.</li><li style="margin:5px 0">Medigap plans and Medicare Advantage each fill the gaps differently, with real trade-offs.</li></ul></div>
-
 
 ## The Part A Gaps (Hospital Coverage)
 
@@ -99,7 +97,6 @@ A common mistake is assuming Medicare Advantage is always cheaper. The monthly p
 
 ---
 
-
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
@@ -114,4 +111,3 @@ A common mistake is assuming Medicare Advantage is always cheaper. The monthly p
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -61,7 +61,7 @@ Beyond that, the big selling point for Medicare Advantage is "extra benefits" th
 - Over-the-counter allowances for vitamins or pain relievers
 - Telehealth and remote monitoring
 
-Many people are surprised to learn that [dental and vision are included](/best-medicare-advantage-plans-with-dental-and-vision-2026/) in Medicare Advantage plans. Original Medicare covers almost no dental and very limited vision, so if you wear glasses and see the dentist twice a year, these extras add real value.
+Many people are surprised to learn that [dental and vision are included](/medicare-advantage-dental-coverage/) in Medicare Advantage plans. Original Medicare covers almost no dental and very limited vision, so if you wear glasses and see the dentist twice a year, these extras add real value.
 
 But read the fine print. Dental coverage on many plans has low annual limits, and not every benefit is as generous as the marketing says.
 
@@ -141,16 +141,8 @@ Medicare Advantage works well for plenty of people, especially those who want pr
 
 ## Sources
 
-- [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [aarp.org](https://www.aarp.org/health/medicare-insurance/)
-- [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
-- [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -160,4 +152,3 @@ Medicare Advantage works well for plenty of people, especially those who want pr
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

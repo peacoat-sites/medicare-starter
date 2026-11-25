@@ -21,9 +21,7 @@ Here's what I tell people when they come in confused and frustrated: you're not 
 
 A June 2026 report from Yahoo Finance and a July 2026 analysis from Rise Health both documented real, on-the-ground problems: AI-generated denials, long waits for doctors to reach a live reviewer, and patients sitting in pain while paperwork crawls through the system. One Arizona patient with severe back pain received two AI-generated denials before finally getting relief. That's not an edge case. That's a preview of what the system looks like when it doesn't work the way it was designed to.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">WISeR launched January 1, 2026, covering 6.4 million traditional Medicare beneficiaries in 6 states.</li><li style="margin:5px 0">The pilot applies AI-assisted prior authorization to 17 outpatient procedures through December 31, 2031.</li><li style="margin:5px 0">As of mid-2026, documented cases include AI denials and long waits for peer-to-peer physician review.</li><li style="margin:5px 0">Beginning July 2026, CMS introduced "gold carding" to exempt high-performing physicians from prior authorization.</li><li style="margin:5px 0">42 Democratic members of Congress formally challenged the pilot in a July 31, 2026 letter to CMS Administrator Dr. Mehmet Oz.</li></ul></div>
-
 
 ## What Procedures Are Actually Affected
 
@@ -90,4 +88,3 @@ The WISeR pilot was designed to reduce unnecessary spending, and that's a goal w
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

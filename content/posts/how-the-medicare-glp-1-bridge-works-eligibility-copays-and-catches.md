@@ -45,7 +45,7 @@ That processing system is worth understanding. CMS uses a single central process
 
 ## The $50 Copay: What It Covers and What It Doesn't
 
-The three drugs covered are Wegovy (semaglutide), Zepbound in KwikPen form only (tirzepatide), and Foundayo. The 28-day or 30-day supply all run $50 regardless of dose. For context, retail cash prices for Wegovy and Zepbound have been running well above $1,000 [per month](/average-medicare-costs-per-month/) without coverage, so $50 is genuinely significant.
+The three drugs covered are Wegovy (semaglutide), Zepbound in KwikPen form only (tirzepatide), and Foundayo. The 28-day or 30-day supply all run $50 regardless of dose. For context, retail cash prices for Wegovy and Zepbound have been running well above $1,000 [per month](/how-much-does-medicare-cost-per-month/) without coverage, so $50 is genuinely significant.
 
 What surprised me most in the fine print is the Extra Help situation. Extra Help is the federal Low Income Subsidy program that reduces or eliminates copays for Part D drugs for qualifying low-income beneficiaries. It does not apply to the Bridge copay. The $50 is fixed for everyone, regardless of income. If you're a beneficiary with very limited income who relies on Extra Help to make drug costs manageable, that's a real consideration to weigh before starting a Bridge drug.
 

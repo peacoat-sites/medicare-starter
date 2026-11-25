@@ -102,8 +102,6 @@ One thing I genuinely did not understand for my first few years in this work: a 
 
 ---
 
----
-
 You came here probably feeling a little stuck. Maybe a little angry. That's okay. What I want you to leave with is this: that denial letter is not the last word. In 20 years, I've never once regretted helping someone appeal. I have, a few times, regretted not pushing someone harder to try.
 
 *Photo: [MART  PRODUCTION](https://www.pexels.com/@mart-production) via Pexels*
@@ -120,4 +118,3 @@ You came here probably feeling a little stuck. Maybe a little angry. That's okay
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

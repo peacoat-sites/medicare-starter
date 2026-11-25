@@ -21,6 +21,12 @@
   <div class="irmaa-head">Medicare IRMAA Cost Estimator</div>
   <div class="irmaa-body">
     <div class="irmaa-grid">
+      <label>Premium Year
+        <select id="irmaa-year" onchange="irmaCalc()">
+          <option value="2027" selected>2027 (2025 income)</option>
+          <option value="2026">2026 (2024 income)</option>
+        </select>
+      </label>
       <label>Filing Status
         <select id="irmaa-status" onchange="irmaCalc()">
           <option value="single">Single</option>
@@ -33,65 +39,78 @@
       </label>
     </div>
     <div class="irmaa-cards" id="irmaa-cards">
-      <div class="rc"><span class="rl">Part B Monthly Premium</span><span class="rv" id="ir-partb">$202.90</span><span class="rs">Per month</span></div>
+      <div class="rc"><span class="rl">Part B Monthly Premium</span><span class="rv" id="ir-partb">$209.40</span><span class="rs">Per month</span></div>
       <div class="rc"><span class="rl">Part D Monthly Surcharge</span><span class="rv" id="ir-partd">$0.00</span><span class="rs">Added to plan premium</span></div>
-      <div class="rc"><span class="rl">Annual Extra vs Standard</span><span class="rv" id="ir-annual">$0</span><span class="rs">Above standard $202.90/mo</span></div>
+      <div class="rc"><span class="rl">Annual Extra vs Standard</span><span class="rv" id="ir-annual">$0</span><span class="rs" id="ir-std">Above standard $209.40/mo</span></div>
     </div>
     <div class="irmaa-callout" id="irmaa-callout"></div>
     <div class="irmaa-bracket" id="irmaa-bracket"></div>
-    <p class="irmaa-note">These are estimates based on the 2026 IRMAA brackets and standard premiums published by CMS. 2026 premiums use income from your 2024 tax return. Your actual premium is determined by SSA using your income from 2 years prior. Contact Social Security (<a href="tel:18007721213">1-800-772-1213</a>) or <a href="https://ssa.gov/benefits/medicare/medicare-premiums.html" target="_blank" rel="noopener">ssa.gov</a> for personalized information.</p>
+    <p class="irmaa-note">Estimates use the IRMAA brackets and standard premiums published by CMS: 2027 figures were announced November 17, 2026 and use income from your 2025 tax return; 2026 figures use your 2024 return. Your actual premium is set by Social Security. Contact SSA (<a href="tel:18007721213">1-800-772-1213</a>) or <a href="https://www.ssa.gov/benefits/medicare/medicare-premiums.html" target="_blank" rel="noopener">ssa.gov</a> for your own determination.</p>
   </div>
 </div>
 <script>
 (function(){
-  // Brackets: [maxIncomeSingle, maxIncomeMFJ, partBPremium, partDSurcharge, label]
-  var BRACKETS = [
-    [109000,    218000,    202.90, 0,     "Standard, no IRMAA",     "Up to $109,000 (Single) / $218,000 (MFJ)"],
-    [137000,    274000,    284.10, 14.50, "IRMAA Tier 1",           "$109,001 to $137,000 (Single) / $218,001 to $274,000 (MFJ)"],
-    [171000,    342000,    405.80, 37.50, "IRMAA Tier 2",           "$137,001 to $171,000 (Single) / $274,001 to $342,000 (MFJ)"],
-    [205000,    410000,    527.50, 60.40, "IRMAA Tier 3",           "$171,001 to $205,000 (Single) / $342,001 to $410,000 (MFJ)"],
-    [499999.99, 749999.99, 649.20, 83.30, "IRMAA Tier 4",           "$205,001 to $499,999 (Single) / $410,001 to $749,999 (MFJ)"],
-    [Infinity,  Infinity,  689.90, 91.00, "IRMAA Tier 5 (highest)", "$500,000 or more (Single) / $750,000 or more (MFJ)"]
-  ];
+  // Per year: standard Part B premium, brackets [maxSingle, maxMFJ, partB, partD, label, range], married-filing-separately tiers
+  var YEARS = {
+    "2027": {std: 209.40, brackets: [
+      [112000,    224000,    209.40, 0,     "Standard, no IRMAA",     "Up to $112,000 (Single) / $224,000 (MFJ)"],
+      [141000,    282000,    293.10, 15.40, "IRMAA Tier 1",           "$112,001 to $141,000 (Single) / $224,001 to $282,000 (MFJ)"],
+      [177000,    354000,    418.80, 39.70, "IRMAA Tier 2",           "$141,001 to $177,000 (Single) / $282,001 to $354,000 (MFJ)"],
+      [212000,    424000,    544.40, 64.00, "IRMAA Tier 3",           "$177,001 to $212,000 (Single) / $354,001 to $424,000 (MFJ)"],
+      [499999.99, 749999.99, 670.00, 88.30, "IRMAA Tier 4",           "$212,001 to $499,999 (Single) / $424,001 to $749,999 (MFJ)"],
+      [Infinity,  Infinity,  711.80, 96.40, "IRMAA Tier 5 (highest)", "$500,000 or more (Single) / $750,000 or more (MFJ)"]
+    ], mfs: [112000, 388000, 670.00, 88.30, 711.80, 96.40]},
+    "2026": {std: 202.90, brackets: [
+      [109000,    218000,    202.90, 0,     "Standard, no IRMAA",     "Up to $109,000 (Single) / $218,000 (MFJ)"],
+      [137000,    274000,    284.10, 14.50, "IRMAA Tier 1",           "$109,001 to $137,000 (Single) / $218,001 to $274,000 (MFJ)"],
+      [171000,    342000,    405.80, 37.50, "IRMAA Tier 2",           "$137,001 to $171,000 (Single) / $274,001 to $342,000 (MFJ)"],
+      [205000,    410000,    527.50, 60.40, "IRMAA Tier 3",           "$171,001 to $205,000 (Single) / $342,001 to $410,000 (MFJ)"],
+      [499999.99, 749999.99, 649.20, 83.30, "IRMAA Tier 4",           "$205,001 to $499,999 (Single) / $410,001 to $749,999 (MFJ)"],
+      [Infinity,  Infinity,  689.90, 91.00, "IRMAA Tier 5 (highest)", "$500,000 or more (Single) / $750,000 or more (MFJ)"]
+    ], mfs: [109000, 391000, 649.20, 83.30, 689.90, 91.00]}
+  };
 
   function fmt(n){ return '$'+n.toFixed(2).replace(/\B(?=(\d{3})+(?!\d))/g,','); }
   function fmtInt(n){ return '$'+Math.round(n).toLocaleString(); }
 
   window.irmaCalc = function(){
+    var Y = YEARS[document.getElementById('irmaa-year').value];
     var status = document.getElementById('irmaa-status').value;
     var income = parseFloat(document.getElementById('irmaa-income').value)||0;
-    var partB, partD, bracketName, bracketRange;
+    var partB, partD, bracketName, bracketRange, m = Y.mfs;
 
     if(status === 'mfs'){
-      if(income <= 109000){
-        partB=202.90; partD=0; bracketName='Standard (MFS)'; bracketRange='Up to $109,000';
-      } else if(income < 391000){
-        partB=649.20; partD=83.30; bracketName='IRMAA (MFS)'; bracketRange='$109,001 to $390,999';
+      if(income <= m[0]){
+        partB=Y.std; partD=0; bracketName='Standard (MFS)'; bracketRange='Up to $'+m[0].toLocaleString();
+      } else if(income < m[1]){
+        partB=m[2]; partD=m[3]; bracketName='IRMAA (MFS)'; bracketRange='$'+(m[0]+1).toLocaleString()+' to $'+(m[1]-1).toLocaleString();
       } else {
-        partB=689.90; partD=91.00; bracketName='IRMAA highest (MFS)'; bracketRange='$391,000 or more';
+        partB=m[4]; partD=m[5]; bracketName='IRMAA highest (MFS)'; bracketRange='$'+m[1].toLocaleString()+' or more';
       }
     } else {
       var col = (status==='single') ? 0 : 1;
-      for(var i=0;i<BRACKETS.length;i++){
-        if(income <= BRACKETS[i][col]){
-          partB=BRACKETS[i][2]; partD=BRACKETS[i][3];
-          bracketName=BRACKETS[i][4]; bracketRange=BRACKETS[i][5];
+      for(var i=0;i<Y.brackets.length;i++){
+        if(income <= Y.brackets[i][col]){
+          partB=Y.brackets[i][2]; partD=Y.brackets[i][3];
+          bracketName=Y.brackets[i][4]; bracketRange=Y.brackets[i][5];
           break;
         }
       }
     }
 
-    var annualExtra = 12*(partB - 202.90 + partD);
+    var monthlyExtra = partB - Y.std + partD;
+    var annualExtra = 12*monthlyExtra;
 
     document.getElementById('ir-partb').textContent = fmt(partB);
     document.getElementById('ir-partd').textContent = fmt(partD);
     document.getElementById('ir-annual').textContent = fmtInt(annualExtra);
+    document.getElementById('ir-std').textContent = 'Above standard '+fmt(Y.std)+'/mo';
 
     var callout = document.getElementById('irmaa-callout');
     if(annualExtra > 0){
-      callout.innerHTML = '<b>IRMAA applies:</b> Based on your income, you pay an extra <b>'+fmtInt(annualExtra)+'</b> per year ('+fmt(partB-202.90+partD)+'/month) above the standard Medicare premium. This is added directly to your Part B bill.';
+      callout.innerHTML = '<b>IRMAA applies:</b> Based on your income, you pay an extra <b>'+fmtInt(annualExtra)+'</b> per year ('+fmt(monthlyExtra)+'/month) above the standard Medicare premium. The Part B amount comes out of your Social Security or is billed with Part B; the Part D amount is billed by Medicare, not your drug plan.';
     } else {
-      callout.innerHTML = '<b>No IRMAA surcharge.</b> Your income falls within the standard Medicare bracket, so you pay the standard Part B premium of <b>$202.90/month</b>.';
+      callout.innerHTML = '<b>No IRMAA surcharge.</b> Your income falls within the standard Medicare bracket, so you pay the standard Part B premium of <b>'+fmt(Y.std)+'/month</b>.';
     }
 
     document.getElementById('irmaa-bracket').textContent = 'Your bracket: '+bracketName+': '+bracketRange;

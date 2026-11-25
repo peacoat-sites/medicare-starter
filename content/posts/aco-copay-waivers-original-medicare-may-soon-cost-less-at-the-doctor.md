@@ -20,9 +20,7 @@ Part B is the piece of Original [Medicare that covers](/what-does-medicare-cover
 
 According to the [CMS fact sheet on the CY 2027 Physician Fee Schedule final rule](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-final-rule-cms-1848-f-medicare-shared-savings), ACOs in the Medicare Shared Savings Program (MSSP) can apply to CMS for approval to waive or reduce cost-sharing for most Part B services. Applications open in early 2027, waivers take effect in Q2 2027, and the broader benchmarking changes in the same rule are projected to generate $5.5 billion in net federal savings over 10 years.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS finalized ACO copay waivers on November 4, 2026; they can begin April 1, 2027.</li><li style="margin:5px 0">ACOs must apply to CMS in early 2027; not every ACO will participate right away.</li><li style="margin:5px 0">Most Part B services are covered; DME, prosthetics, orthotics, and Part B drugs are excluded.</li><li style="margin:5px 0">In 2024, 75% of the 476 MSSP ACOs earned shared savings totaling $4.1 billion.</li><li style="margin:5px 0">This is CMS's direct move to make Original Medicare more competitive with Medicare Advantage.</li></ul></div>
-
 
 ## What an ACO Is, and Why This Matters
 
@@ -93,4 +91,3 @@ The broader picture here is that CMS is actively trying to make Original Medicar
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

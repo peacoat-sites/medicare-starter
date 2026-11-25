@@ -83,8 +83,6 @@ Plan this piece at least a few months ahead. Don't treat it as an afterthought.
 
 ---
 
----
-
 Getting this right is genuinely worth the time it takes. The rules aren't simple, but they're learnable, and the stakes are real enough that you don't want to guess. If you're uncertain about your specific situation, a SHIP counselor is one of the best resources available to you, completely free of charge. You don't have to sort this out alone.
 
 ---
@@ -95,15 +93,7 @@ Getting this right is genuinely worth the time it takes. The rules aren't simple
 
 ## Sources
 
-- [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
-- [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
-- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -113,4 +103,3 @@ Getting this right is genuinely worth the time it takes. The rules aren't simple
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

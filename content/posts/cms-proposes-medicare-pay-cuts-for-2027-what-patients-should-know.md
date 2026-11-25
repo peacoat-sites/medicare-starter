@@ -29,9 +29,7 @@ Here's a side-by-side look at those numbers:
 
 And the MedPAC (Medicare Payment Advisory Commission) March 2026 report estimates the real-world payment decline could be even steeper in practice: roughly 2.2% for most clinicians and about 1.7% for qualifying APM participants, once you account for all the moving pieces.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated 2027 Medicare payment decline vs. 2026</div><div class="sc-row"><span class="sc-label">Non-APM clinicians</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">2.2%</span></div><div class="sc-row"><span class="sc-label">Qualifying APM participants</span><span class="sc-track"><span class="sc-bar" style="width:77%"></span></span><span class="sc-val">1.7%</span></div><div class="sc-src">Source: MedPAC March 2026 Report</div></div>
-
 
 ## Why Is This Cut Happening?
 
@@ -78,12 +76,9 @@ As always, for questions about your specific plan or benefits, Medicare.gov and 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

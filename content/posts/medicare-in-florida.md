@@ -98,8 +98,6 @@ Call your local SHINE counselor, or apply through the Social Security Administra
 
 ---
 
----
-
 Florida is genuinely one of the more complex states to sort out Medicare in, but it's also a state where the competition works in your favor if you're willing to do the homework. The tools exist. The free help exists. The plans worth having are out there. What catches people isn't the complexity so much as the assumption that Medicare is Medicare, the same everywhere, and that whatever you signed up for once is probably fine forever.
 
 It isn't. Review your coverage every year. Use the free counseling. And don't let the sheer number of options paralyze you into doing nothing.
@@ -107,20 +105,6 @@ It isn't. Review your coverage every year. Use the free counseling. And don't le
 ---
 
 *This article is for informational purposes only. Medicare rules change annually. Always verify current plan details at Medicare.gov or by calling 1-800-MEDICARE (1-800-633-4227). This site does not sell insurance or recommend specific plans.*
-
----
-
-## Sources
-
-- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-- [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [Medicare and You 2024 Official Handbook (Amazon)](https://www.amazon.com/dp/B08LGQ6NMR?tag=contentportfo-20)
-- [Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 

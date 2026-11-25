@@ -21,9 +21,7 @@ Here's what changed. A federal program called the Part D Premium Stabilization D
 
 The window to do something about this closes December 7. After that, you're locked into whatever plan you're in, at whatever premium it charges come January.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D Premium Stabilization Demonstration ends December 31, 2026, raising average standalone premiums from ~$34 to ~$51/month.</li><li style="margin:5px 0">Open enrollment closes December 7, 2026, switching plans after that date isn't possible until next year.</li><li style="margin:5px 0">Original Medicare + standalone Part D enrollees face the biggest premium hit; Medicare Advantage drug coverage is largely unaffected.</li><li style="margin:5px 0">Extra Help (Low Income Subsidy) recipients are protected from these premium increases.</li><li style="margin:5px 0">15 newly negotiated drug prices, including Ozempic and Wegovy, take effect January 1, 2027, potentially offsetting some costs.</li></ul></div>
-
 
 ## Who Gets Hit the Hardest
 
@@ -99,4 +97,3 @@ Waiting to see what happens in 2027 before making a change isn't really an optio
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
-

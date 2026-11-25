@@ -58,7 +58,7 @@ Here's what the most popular plans actually cover:
 | Skilled nursing facility coinsurance | No | Yes | 50% | Yes |
 | Part A deductible | No | Yes | 50% | Yes |
 | Part B deductible | No | No | No | No |
-| [Part B excess charges](/how-much-does-medicare-part-b-cost-in-2026/) | No | Yes | No | No |
+| [Part B excess charges](/medicare-part-b-premium/) | No | Yes | No | No |
 | Foreign travel emergency | No | Yes (80%) | No | Yes (80%) |
 | Out-of-pocket limit (2024) | None | None | ~$7,060 | None |
 
@@ -135,8 +135,6 @@ If you're approaching 65 or helping family think through this, talk with a licen
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -144,4 +142,3 @@ If you're approaching 65 or helping family think through this, talk with a licen
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
-

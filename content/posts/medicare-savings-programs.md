@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-24T12:00:00Z
 ---
 
-A woman called me a few years ago, nearly in tears. She'd been paying her Medicare [Part B premium](/medicare-part-b-premium-2026/) every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.
+A woman called me a few years ago, nearly in tears. She'd been paying her Medicare [Part B premium](/medicare-part-b-premium/) every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.
 
 That's the thing about Medicare Savings Programs (MSPs). They're not hidden exactly, but nobody sends you a letter that says "Hey, you qualify for this, here's how to sign up." You have to find them yourself, or know someone who'll tell you. Consider me that someone.
 
@@ -63,7 +63,7 @@ Some states have eliminated asset tests for MSPs entirely. Connecticut, for exam
 
 This is where people get tripped up. MSPs aren't administered by Medicare. They're administered by your state Medicaid agency. Which means you apply there, not through Social Security, not through Medicare.gov. Go to your state's Medicaid office or department of health services.
 
-That said, Social Security offices can take MSP applications too, because QMB enrollment also automatically enrolls you in Medicare's Extra Help program (which helps pay for [Part D prescription drug costs](/how-much-does-medicare-part-b-cost-in-2026/)). So there's overlap in some administrative pathways, but the cleanest route is usually your state Medicaid office.
+That said, Social Security offices can take MSP applications too, because QMB enrollment also automatically enrolls you in Medicare's Extra Help program (which helps pay for [Part D prescription drug costs](/medicare-part-b-premium/)). So there's overlap in some administrative pathways, but the cleanest route is usually your state Medicaid office.
 
 What you'll need when you apply: proof of identity, proof of Medicare enrollment, proof of income (Social Security statements, pension letters, any income sources), and documentation of your assets if your state requires it. The application itself isn't terribly complicated. I'd describe it as "thorough but doable."
 
@@ -93,8 +93,6 @@ If your income or assets change, report it. This goes both directions. If your i
 
 ---
 
----
-
 The woman who called me, the one who'd spent two years paying a premium she didn't owe? She applied, qualified, and got her premium covered going forward. She couldn't recover what she'd already paid, which still bothers me to this day. The point is: if there's even a reasonable chance you might qualify for a Medicare Savings Program, apply now. Not next month.
 
 ---
@@ -105,18 +103,8 @@ The woman who called me, the one who'd spent two years paying a premium she didn
 
 ## Sources
 
-- [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
-- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-- [Withings Body+ Smart Scale with BMI and Body Composition](https://www.amazon.com/dp/B083N9JD6Z?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
 ---
 
@@ -126,4 +114,3 @@ The woman who called me, the one who'd spent two years paying a premium she didn
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

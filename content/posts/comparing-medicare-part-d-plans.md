@@ -121,8 +121,6 @@ The annual Open Enrollment window closes December 7, which means most people are
 
 ---
 
----
-
 ### Still have questions?
 
 **Q: Can I switch Part D plans outside the Open Enrollment period?**
@@ -158,4 +156,3 @@ You'll be locked out of Part D until the next enrollment period, unless you qual
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 - **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
-

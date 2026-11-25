@@ -1,13 +1,13 @@
 ---
-title: "Medicare IRMAA Calculator: Estimate Your 2026 Surcharge"
+title: "Medicare IRMAA Calculator: Estimate Your 2027 or 2026 Surcharge"
 hide_title: true
 slug: "irmaa-medicare-calculator"
 date: 2026-06-10
-lastmod: 2026-11-23
+lastmod: 2026-11-24
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 categories: ["Medicare Costs"]
-description: "Use our free Medicare IRMAA estimator to see your 2026 Part B and Part D surcharges based on your income. Understand how IRMAA works and how to reduce it."
+description: "Free Medicare IRMAA calculator with the official 2027 and 2026 CMS brackets. See your Part B premium and Part D surcharge from your tax-return income."
 image: ""
 ---
 
@@ -17,24 +17,24 @@ If you earn above a certain income threshold, Medicare charges you more than the
 
 IRMAA stands for Income-Related Monthly Adjustment Amount. It is an additional surcharge added to your Medicare Part B and Part D premiums if your modified adjusted gross income (MAGI) exceeds certain thresholds. The Social Security Administration (SSA) reviews your income from two years prior to determine whether IRMAA applies for the current year.
 
-For example, your 2026 Medicare premiums are based on your 2024 tax return income. If your income that year was above the threshold, you will receive an IRMAA notice from SSA, typically in November of the prior year.
+For example, your 2027 Medicare premiums are based on your 2025 tax return. If that income was above the threshold, Social Security sends an IRMAA notice late in 2026, before the higher premium starts in January.
 
-## How the 2026 IRMAA Brackets Work
+## The 2027 IRMAA Brackets at a Glance
 
-There are six income tiers for single filers and married couples filing jointly. The standard 2026 Part B premium is $202.90 per month. IRMAA starts above $109,000 of income for single filers and $218,000 for joint filers, and Part B premiums step up to $689.90 per month for the highest earners. Part D carries a separate surcharge of $14.50 to $91.00 per month on top of your plan premium, billed by Medicare rather than your plan.
+CMS announced the 2027 figures on November 17, 2026. The standard Part B premium is $209.40 a month. IRMAA starts above $112,000 of income on a single return and $224,000 on a joint return, and the highest earners pay $711.80 a month for Part B. Part D adds a separate surcharge of $15.40 to $96.40 a month on top of your plan premium, billed by Medicare rather than your plan.
 
-| Single filer income (2024 tax return) | Joint filer income | Part B monthly total | Part D surcharge |
+| Single filer income (2025 tax return) | Joint filer income | Part B monthly total | Part D surcharge |
 |---|---|---|---|
-| $109,000 or less | $218,000 or less | $202.90 | $0.00 |
-| $109,001 to $137,000 | $218,001 to $274,000 | $284.10 | $14.50 |
-| $137,001 to $171,000 | $274,001 to $342,000 | $405.80 | $37.50 |
-| $171,001 to $205,000 | $342,001 to $410,000 | $527.50 | $60.40 |
-| $205,001 to $499,999 | $410,001 to $749,999 | $649.20 | $83.30 |
-| $500,000 or more | $750,000 or more | $689.90 | $91.00 |
+| $112,000 or less | $224,000 or less | $209.40 | $0.00 |
+| $112,001 to $141,000 | $224,001 to $282,000 | $293.10 | $15.40 |
+| $141,001 to $177,000 | $282,001 to $354,000 | $418.80 | $39.70 |
+| $177,001 to $212,000 | $354,001 to $424,000 | $544.40 | $64.00 |
+| $212,001 to $499,999 | $424,001 to $749,999 | $670.00 | $88.30 |
+| $500,000 or more | $750,000 or more | $711.80 | $96.40 |
 
-Source: [CMS, 2026 Medicare Parts A & B Premiums and Deductibles](https://www.cms.gov/newsroom/fact-sheets/2026-medicare-parts-b-premiums-deductibles).
+Source: [CMS, 2027 Medicare Parts A & B Premiums and Deductibles](https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles).
 
-Married people who lived with their spouse during the year but file separate returns face a much harsher rule: income above $109,000 jumps straight to $649.20 per month for Part B (plus $83.30 for Part D), and $391,000 or more pays the top rate of $689.90. This is by design to discourage income shifting.
+Married people who lived with their spouse at any point in the year but file separate returns face a harsher rule: income above $112,000 jumps straight to $670.00 a month for Part B (plus $88.30 for Part D), and $388,000 or more pays the top rate. The calculator also covers 2026 (based on 2024 income). For both full tables and how to appeal, see our guide to [Medicare IRMAA brackets](/irmaa-medicare-surcharge/).
 
 Use the estimator below to see exactly which bracket applies to your situation and how much extra you can expect to pay annually.
 

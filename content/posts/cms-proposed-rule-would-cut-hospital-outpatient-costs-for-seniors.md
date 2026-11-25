@@ -44,9 +44,7 @@ The rule also proposes removing 637 procedures from Medicare's Inpatient-Only (I
 
 ASCs typically cost Medicare less. They often cost patients less too, since your cost-sharing is tied to the total payment rate. But outpatient surgery is not appropriate for every patient, particularly those with complex health conditions who may need the monitoring and backup that only a full hospital stay provides.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated 2027 Medicare savings by policy change</div><div class="sc-row"><span class="sc-label">340B Drug Payment Cut</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">4,850 $M</span></div><div class="sc-row"><span class="sc-label">Site-Neutral Imaging</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">260 $M</span></div><div class="sc-src">Source: CMS CY 2027 OPPS Proposed Rule Fact Sheet, July 2, 2026</div></div>
-
 
 | Policy Change | Who It Affects | Estimated 2027 Savings |
 |---|---|---|
@@ -79,12 +77,9 @@ The 2027 rule won't be finalized until late fall 2026, which means the changes d
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

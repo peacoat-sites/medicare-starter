@@ -25,13 +25,11 @@ faqs:
     a: "Call 1-800-MEDICARE (1-800-633-4227) and ask about your current benefit period status. Also contact your supplemental insurer or Medigap plan directly. For a free walkthrough, your state's SHIP program (shiphelp.org) can review your specific situation at no charge."
 ---
 
-Medicare covers a lot, but it doesn't cover everything, and the gap that surprises people most is what you owe during a hospital stay. The good news: once you understand how the cost-per-day structure works, you can plan for it. The short answer is that [Medicare Part](/medicare-part-b-premium-2026/) A uses a "benefit period" system with a one-time deductible, then daily coinsurance that kicks in after day 60. That coinsurance can be steep.
+Medicare covers a lot, but it doesn't cover everything, and the gap that surprises people most is what you owe during a hospital stay. The good news: once you understand how the cost-per-day structure works, you can plan for it. The short answer is that [Medicare Part](/medicare-part-b-premium/) A uses a "benefit period" system with a one-time deductible, then daily coinsurance that kicks in after day 60. That coinsurance can be steep.
 
 Part A's hospital cost structure has nothing to do with how long your stay is per se. It resets based on benefit periods, not calendar years. That's the piece most people miss, and it's the reason a second hospitalization can cost you a second full deductible within the same year.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare Part A charges a single deductible per benefit period, not per year, check Medicare.gov for the current amount.</li><li style="margin:5px 0">Days 1-60 of a hospital stay cost you nothing beyond the deductible (assuming no secondary coverage).</li><li style="margin:5px 0">Days 61-90 carry significant daily coinsurance; "lifetime reserve days" (days 91-150) cost even more per day.</li><li style="margin:5px 0">After 150 days, Medicare Part A pays nothing, you're on your own unless you have a Medigap or employer supplement plan.</li><li style="margin:5px 0">A new benefit period (and a new deductible) starts after you've been out of a hospital or skilled nursing facility for 60 consecutive days.</li></ul></div>
-
 
 ## How the Benefit Period Works
 
@@ -96,7 +94,6 @@ This matters most for people with chronic conditions who cycle in and out of car
 
 ---
 
-
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
 ---
@@ -111,4 +108,3 @@ This matters most for people with chronic conditions who cycle in and out of car
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

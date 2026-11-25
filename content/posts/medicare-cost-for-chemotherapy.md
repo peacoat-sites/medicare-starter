@@ -34,7 +34,6 @@ What surprised me most when I researched this deeply is how few oncology patient
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare Part B covers IV chemotherapy at 80% after the deductible; you owe 20% with no cap.</li><li style="margin:5px 0">Oral chemo drugs fall under Part D, where costs vary dramatically by plan and formulary tier.</li><li style="margin:5px 0">Without a Medigap (Medicare Supplement) policy, the 20% Part B coinsurance has no annual limit.</li><li style="margin:5px 0">The Inflation Reduction Act capped Medicare Part D out-of-pocket drug costs at $2,100 per year in 2026.</li><li style="margin:5px 0">A single chemotherapy drug like bevacizumab (Avastin) can cost Medicare over $5,000 per infusion.</li></ul></div>
 
-
 ## How Medicare Splits Chemo Into Two Very Different Worlds
 
 Here's the structural thing that trips people up. Medicare doesn't treat all chemotherapy as one category. It splits it based on how the drug is delivered.
@@ -60,7 +59,6 @@ Let me put some concrete figures on this. These are based on current Medicare re
 The inpatient versus outpatient distinction deserves a brief callout: most chemotherapy today is delivered in outpatient settings, which means Part B, not Part A. But if you're hospitalized and receive chemo during that stay, Part A applies. The billing department may not always make this obvious.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual Medicare chemo out-of-pocket cost by coverage type</div><div class="sc-row"><span class="sc-label">Part B only, no Medigap</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$18,000</span></div><div class="sc-row"><span class="sc-label">Part B + Medigap Plan G</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$283</span></div><div class="sc-row"><span class="sc-label">Part D oral chemo, 2026 cap</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage (varies)</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">$5,500</span></div><div class="sc-src">Source: CMS 2026 cost data and KFF analysis</div></div>
-
 
 A few worked examples show how the numbers play out in real life:
 
@@ -96,7 +94,6 @@ What I'd suggest: if you're enrolled in Medicare Advantage and get a serious can
 
 ---
 
-
 *Photo: [Ivan S](https://www.pexels.com/@ivan-s) via Pexels*
 
 ---
@@ -111,4 +108,3 @@ What I'd suggest: if you're enrolled in Medicare Advantage and get a serious can
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

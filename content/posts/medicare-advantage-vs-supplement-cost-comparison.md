@@ -101,8 +101,6 @@ This doesn't need to be complicated. Here's a practical approach.
 
 **Step 5: Talk to someone unaffiliated with insurance sales.** The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased Medicare counseling in every state. These counselors earn zero commissions. [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has solid educational tools if you want more research before that conversation.
 
-If you want deeper Medigap details, a well-regarded Medicare supplement guide will walk you through the lettered plans. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What About Switching Later?
 
 Can you change your mind? Sometimes, with serious caveats.
@@ -127,16 +125,6 @@ This choice between Medicare Advantage and Medigap might be one of the biggest f
 
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/)
 - [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/)
-- [Vive Folding Cane with Ergonomic Handle](https://www.amazon.com/dp/B00JCFNO9O?tag=contentportfo-20)
-- [MedCenter 31-Day Monthly Pill Organizer](https://www.amazon.com/dp/B07W6T9L5J?tag=contentportfo-20)
-- [iHealth Track Wireless Blood Pressure Monitor](https://www.amazon.com/dp/B08R14NKBC?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 
 ---
 
@@ -146,4 +134,3 @@ This choice between Medicare Advantage and Medigap might be one of the biggest f
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

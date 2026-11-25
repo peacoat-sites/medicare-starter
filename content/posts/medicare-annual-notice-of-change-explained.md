@@ -31,9 +31,7 @@ The Annual Notice of Change, usually called an ANOC, is a letter your Medicare A
 
 Plans must mail it by September 30 each year. That timing isn't random. It lines up with the start of Medicare's [Annual Enrollment Period](/medicare-annual-enrollment-period-dates-2026/) (AEP), which runs October 15 through December 7, giving you a window to compare plans and switch if what you read doesn't work for you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Your plan must mail the ANOC by September 30 each year.</li><li style="margin:5px 0">The Annual Enrollment Period to switch plans runs October 15 through December 7.</li><li style="margin:5px 0">Changes take effect January 1 of the following year.</li><li style="margin:5px 0">If you ignore the ANOC and don't act, you stay in your current plan, even if it changed significantly.</li><li style="margin:5px 0">Drug formulary changes are the most commonly overlooked section, and often the most expensive to miss.</li></ul></div>
-
 
 ## What the ANOC Actually Contains
 
@@ -110,7 +108,6 @@ The other common mistake is waiting until November or early December to look at 
 
 ---
 
-
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 
 ---
@@ -125,4 +122,3 @@ The other common mistake is waiting until November or early December to look at 
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

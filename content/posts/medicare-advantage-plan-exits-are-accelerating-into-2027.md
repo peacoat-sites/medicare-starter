@@ -26,9 +26,7 @@ Humana's CEO made the math visible when speaking to analysts in Q1 2026. The com
 
 The plan-count data confirms the trend. According to KFF analysis, the average Medicare Advantage prescription drug plan options available per beneficiary dropped from a peak of 36 in 2024 to 32 in 2026. Four fewer choices sounds modest. It isn't, because those losses aren't evenly distributed.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. Medicare Advantage drug plan options per beneficiary</div><div class="sc-row"><span class="sc-label">2024 (peak)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">36 plans</span></div><div class="sc-row"><span class="sc-label">2026</span><span class="sc-track"><span class="sc-bar" style="width:89%"></span></span><span class="sc-val">32 plans</span></div><div class="sc-src">Source: KFF, 2026</div></div>
-
 
 ## Vermont Is the Canary
 
@@ -84,12 +82,9 @@ Talk to a SHIP counselor or a licensed Medicare broker before you decide. The br
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

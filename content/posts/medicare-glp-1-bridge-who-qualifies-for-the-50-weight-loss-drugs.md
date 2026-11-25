@@ -26,9 +26,7 @@ Except, not quite. There are two cost-sharing catches that are tripping people u
 
 First, that $50 copay does not count toward your Part D deductible or your annual out-of-pocket maximum. Standard Part D spending works like a bucket, every dollar you spend fills it up until you hit the cap. Bridge spending doesn't go in that bucket. If you're managing several expensive medications and were counting on your GLP-1 copay to push you toward catastrophic coverage faster, it won't. Second, Extra Help, which is Medicare's Low Income Subsidy program for people with limited income and resources, cannot be applied to reduce the $50. That's a meaningful burden for lower-income beneficiaries who qualify for Extra Help on everything else they take. As the Medicare Rights Center noted in its June 2026 coverage of the program, this cost-sharing structure was a deliberate design choice by CMS, not an oversight, so don't expect it to change mid-program.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly GLP-1 patient cost comparison (2026)</div><div class="sc-row"><span class="sc-label">Bridge program copay</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$50</span></div><div class="sc-row"><span class="sc-label">Standard Part D (estimated)</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$297</span></div><div class="sc-row"><span class="sc-label">Without insurance (estimated)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,350</span></div><div class="sc-src">Source: CMS Medicare GLP-1 Bridge, July 2026</div></div>
-
 
 ## Who Qualifies, and Who Is Specifically Excluded
 
@@ -84,12 +82,9 @@ Getting a handle on something this new, this complicated, and this important to 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

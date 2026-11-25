@@ -27,7 +27,6 @@ lastmod: 2026-11-24T12:00:00Z
 ---
 You get a cancer diagnosis in January. Suddenly it's chemotherapy, specialist visits, imaging scans, maybe a hospital stay or two. The bills stack up fast. If you're on a Medicare Advantage plan, one number could be the difference between financial devastation and a manageable year: your out-of-pocket maximum. That single figure caps how much you'll ever pay for covered services in a calendar year. Once you hit it, the plan pays 100% for the rest of the year. Most people don't think about this number until they're sick. That's exactly the wrong time to be surprised by it.
 
-
 <div class="value-module">
  <div class="vm-head">MOOP Comparison: Plan Tiers by Cost</div>
  <div class="vm-body">
@@ -124,17 +123,8 @@ Your MOOP is one of the most important numbers in Medicare Advantage, yet it's i
 
 ## Sources
 
-- [Yes4All Wooden Balance Board for Seniors](https://www.amazon.com/dp/B09B4QDYXP?tag=contentportfo-20)
 - [shiphelp.org](https://www.shiphelp.org/)
 - [aarp.org](https://www.aarp.org/health/medicare-insurance/)
-- [OMRON Platinum Blood Pressure Monitor Upper Arm](https://www.amazon.com/dp/B09WGXLZ2D?tag=contentportfo-20)
-- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -144,4 +134,3 @@ Your MOOP is one of the most important numbers in Medicare Advantage, yet it's i
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-

@@ -98,8 +98,6 @@ Don't let that window slide.
 
 ---
 
----
-
 The process is more manageable than it looks from the outside. The real work is knowing the deadlines before they pass, and understanding that the choices you make at 65 set up how your coverage works for years to come. Take it seriously, ask questions early, and don't assume you're automatically enrolled unless you're already on Social Security. When in doubt, go straight to Medicare.gov or call 1-800-MEDICARE. Those people exist exactly for this.
 
 ---
@@ -111,15 +109,8 @@ The process is more manageable than it looks from the outside. The real work is 
 ## Sources
 
 - [Medicare.gov](https://www.medicare.gov/)
-- [Copper Compression Knee Support Sleeve](https://www.amazon.com/dp/B07VD8G5NL?tag=contentportfo-20)
 - [ssa.gov](https://www.ssa.gov/)
 - [aarp.org](https://www.aarp.org/health/medicare-insurance/)
-- [AUVON Weekly Pill Organizer with AM/PM Compartments](https://www.amazon.com/dp/B07RFQPNXS?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
-- **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
 
 ---
 
@@ -129,4 +120,3 @@ The process is more manageable than it looks from the outside. The real work is 
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-
