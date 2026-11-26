@@ -1,5 +1,5 @@
 ---
-title: "75% of Medicare Advantage Claims Need Prior Auth"
+title: "Medicare Advantage Prior Authorization: How It Works in 2026"
 date: 2026-08-15T14:33:26.344973+00:00
 lastmod: 2026-11-26
 draft: false

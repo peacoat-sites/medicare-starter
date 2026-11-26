@@ -1,5 +1,5 @@
 ---
-title: "65% of Seniors Miss Medicare Enrollment Changes"
+title: "Medicare Enrollment Period Changes: What's Different Now"
 date: 2026-07-18T15:07:03.830478+00:00
 lastmod: 2026-11-26
 draft: false
