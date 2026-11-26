@@ -1,8 +1,8 @@
 ---
-title: "When Your Medicare Coverage Changes Every Year"
+title: "Medicare Open Enrollment Period: Dates and Changes Allowed"
 date: 2026-05-19T05:52:24.485436+00:00
 draft: false
-description: "Learn when Medicare Open Enrollment runs, what changes you can make to your plan, and how to compare options to ensure you have the best coverage for your needs"
+description: "Medicare Open Enrollment runs October 15 to December 7. See which plan changes you can make, which ones you can't, and how to compare coverage before it ends."
 image: "/img/heroes/636246.jpg"
 categories: ["Enrollment Periods"]
 tags: ["Medicare", "Open", "Enrollment", "Period"]
@@ -19,13 +19,17 @@ faqs:
    a: "Open Enrollment is for people already enrolled in Medicare. If you're new to Medicare, your Initial Enrollment Period (IEP) is the window that applies to you, generally the seven-month period around your 65th birthday (three months before, the month of, and three months after). There's also a General Enrollment Period (January 1 through March 31) for people who missed their IEP, but late enrollment penalties may apply. If you're coming up on Medicare eligibility, that's a separate conversation from AEP."
  - q: "If I switch Medicare Advantage plans, will I lose my current doctors?"
    a: "Possibly, if your current doctors aren't in the new plan's network. That's why verifying network status is one of the most important steps before you switch. Don't assume that because a doctor accepted your old plan they'll accept your new one, even if both plans are offered by the same insurance company. Networks can differ between products from the same insurer. Call the doctor's office directly and ask about your specific new plan for the upcoming plan year."
+ - q: "What changes can I make during Medicare Open Enrollment?"
+   a: "You can switch from Original Medicare to a Medicare Advantage plan, or from Medicare Advantage back to Original Medicare. You can also change from one Medicare Advantage plan to another, join a Part D drug plan, switch Part D plans, or drop Part D. Changes take effect January 1 of the following year."
+ - q: "When does Medicare Open Enrollment start and end?"
+   a: "Medicare's Open Enrollment Period, also called the Annual Enrollment Period or AEP, runs from October 15 through December 7 every year. Any changes you make during this window take effect on January 1 of the following year."
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
-Every October, I get a call that sounds something like this: "Dana, I just got a letter saying my drug plan is changing next year and my insulin is going to cost twice as much. Can I do anything about it?" The answer is almost always yes, but only if we act before December 7th. That window, October 15 through December 7, is [Medicare's Open Enrollment Period](/when-is-medicare-annual-open-enrollment-period-2026/), and it's genuinely one of the most powerful tools you have as a Medicare beneficiary. Miss it, and you're stuck with a plan that doesn't serve you for a full year. Catch it at the right time, and you might save hundreds, sometimes thousands, of dollars.
+Medicare's Open Enrollment Period runs every year from October 15 through December 7. Imagine you get a letter in the fall saying your drug plan is changing next year and a medication you take will cost much more. Can you do anything about it? Usually yes, but only if you act before December 7th. That window is [Medicare's Open Enrollment Period](/when-is-medicare-annual-open-enrollment-period-2026/), and it's genuinely one of the most powerful tools you have as a Medicare beneficiary. Miss it, and you're stuck with a plan that doesn't serve you for a full year. Catch it at the right time, and you might save hundreds, sometimes thousands, of dollars.
 
 ## What the Medicare Open Enrollment Period Actually Is
 
@@ -48,7 +52,7 @@ What you cannot do during AEP: change your Medicare Supplement Insurance (also c
 
 ## Why You Should Review Your Plan Every Single Year
 
-I know. Reviewing your Medicare plan every year sounds like unnecessary work for something that might not change. Your plan changed. They almost always do.
+Reviewing your Medicare plan every year can sound like unnecessary work for something that might not change. But plans often do change, so a yearly check is worth the time.
 
 Every fall, Medicare Advantage and Part D plans send out something called the Annual Notice of Change, sometimes called the ANOC. It arrives by September 30, so you should have it before open enrollment begins. Read it. Actually read it, not just set it on the counter with the intention of getting to it later.
 
@@ -95,13 +99,13 @@ If you want to switch plans, enroll in the new plan directly. In most cases, you
 
 You don't have to figure this out alone, and I'd encourage you not to try.
 
-The State Health Insurance Assistance Program, known as SHIP, offers free, unbiased Medicare counseling through a network of trained volunteers across every state. These aren't salespeople. They have no plans to sell you and no commissions to earn. Find your local SHIP counselor at [shiphelp.org](https://www.shiphelp.org/). I've referred hundreds of clients there over the years and I've never heard a complaint.
+The State Health Insurance Assistance Program, known as SHIP, offers free, unbiased Medicare counseling through a network of trained volunteers across every state. These aren't salespeople. They have no plans to sell you and no commissions to earn. Find your local SHIP counselor at [shiphelp.org](https://www.shiphelp.org/). SHIP counselors are trained to explain your options without steering you toward any particular plan.
 
 If you're comfortable online, the Medicare Plan Finder is a solid starting point. If you prefer talking to someone, calling 1-800-MEDICARE (1-800-633-4227) connects you to a representative who can walk you through your options. And if you want a deeper dive into supplement plans or want to understand your choices in writing, resources like a [Medicare supplement insurance guide](https://amzn.to/medicare-supplement) can be a helpful reference to have on hand. (Full disclosure: this site may earn a small commission on purchases, at no extra cost to you.)
 
 One thing I'll say plainly: be cautious about unsolicited calls or mailers that seem urgent or alarmist during open enrollment season. It's prime time for aggressive insurance marketing. A legitimate counselor will never pressure you to decide on the spot.
 
-## Common Mistakes I See Every Year
+## Common Mistakes to Avoid During Open Enrollment
 
 Several common enrollment mistakes can be costly.
 

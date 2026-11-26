@@ -86,7 +86,7 @@ One that surprises people: if you're receiving Social Security benefits when you
 
 The Part D penalty is the most punishing of the Medicare penalties because it's calculated differently than most people expect.
 
-For every full month you go without Part D or creditable drug coverage after your IEP ends, you'll owe 1% of the national base beneficiary premium (which in 2025 is $36.78) for every month you were late. The penalty gets added to your monthly Part D premium permanently.
+For every full month you go without Part D or creditable drug coverage after your IEP ends, you'll owe 1% of the national base beneficiary premium (which is $38.99 in 2026) for every month you were late. The penalty gets added to your monthly Part D premium permanently.
 
 If you're healthy and don't take any prescriptions, skipping Part D might feel financially logical. I understand the temptation. But I've watched people do the math at 65 and stop taking it seriously by 72, when they suddenly need three or four medications. At that point, you either pay inflated premiums forever because of the penalty, or you wait for AEP and spend months paying full retail for prescriptions.
 

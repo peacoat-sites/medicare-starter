@@ -19,11 +19,15 @@ faqs:
    a: "Yes. Qualifying for Extra Help gives you a Special Enrollment Period (SEP) that lets you switch Part D or Medicare Advantage plans at any time, once per quarter during the first three quarters of the year. You don't have to wait for the annual October enrollment window."
  - q: "What happens to my Extra Help if my income goes up?"
    a: "The SSA reviews your eligibility each year using IRS data. If your income rises above the limit, you'll receive a notice and your subsidy may be reduced or ended. You can provide updated information to the SSA if their data doesn't reflect your current situation accurately. And if your income later decreases again, you can reapply."
+ - q: "What are the extra Medicare programs that help with costs?"
+   a: "The main ones are Extra Help (the Low Income Subsidy) for prescription drug costs, Medicare Savings Programs for Part A and Part B costs, and Medicaid. Some states also have State Pharmaceutical Assistance Programs that lower drug costs further. A SHIP counselor can help you find out which ones you qualify for."
+ - q: "Can I use Extra Help together with other assistance programs?"
+   a: "Yes. Extra Help often works alongside Medicare Savings Programs, Medicaid, and state drug assistance programs. If you qualify for Medicaid, SSI, or a Medicare Savings Program, you automatically get full Extra Help without a separate application."
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
 author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 Many people on fixed incomes discover their prescription drug plan costs several hundred dollars a month, only to learn later that a program could have reduced those costs to almost nothing. It's common for people who qualify to be unaware the program exists or that they're eligible for it.
 
@@ -59,7 +63,7 @@ A few groups get automatic enrollment. If you're enrolled in Medicaid, receive S
 
 ## How to Apply for Extra Help
 
-The application process is genuinely straightforward. I've walked clients through it in under 30 minutes.
+The application process is genuinely straightforward, and most people can finish it in about 30 minutes.
 
 **Option 1: Apply online at SSA.gov**
 Go to ssa.gov/extrahelp. The online form takes 15 to 30 minutes. You'll provide information about your income, assets, and household size. You don't need to upload documents upfront.
@@ -125,6 +129,10 @@ If you're already receiving Extra Help, you're automatically re-evaluated each y
 One more thing: if you qualify for Extra Help but haven't enrolled in a Part D plan, the government will auto-enroll you in a benchmark plan. This ensures you don't lose benefits just because you haven't made a choice. You're always allowed to switch during your enrollment periods.
 
 ---
+
+## What Other Extra Programs Help With Medicare Costs?
+
+Extra Help is just one of several programs that can lower what you pay for Medicare. Extra Help focuses on prescription drug costs. Medicare Savings Programs help with Part A and Part B premiums, deductibles, and copays. Medicaid can add broader coverage for people who qualify for both programs. Some states also run State Pharmaceutical Assistance Programs (SPAPs) that cut drug costs further. A SHIP counselor can review your situation for free and point you to every program you may qualify for. The next section explains how these programs work together.
 
 ## Extra Help Alongside Other Programs
 

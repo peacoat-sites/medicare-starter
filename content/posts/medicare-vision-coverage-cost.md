@@ -1,9 +1,9 @@
 ---
-title: "Medicare Vision Coverage: What Eyeglasses and Exams Actually Cost"
+title: "Does Medicare Cover Vision? Eye Exams, Glasses and Costs"
 date: 2026-07-27T16:31:21.974755+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
-description: "Learn what Medicare covers for vision care, including eye exams, glasses, and contacts. Understand your out-of-pocket costs and coverage limits."
+description: "Original Medicare does not cover routine eye exams, glasses or contacts, but it does cover some medical eye care. See what's covered, costs, and Advantage options."
 image: "/img/heroes/7179233.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "vision", "coverage", "cost"]
@@ -24,9 +24,13 @@ faqs:
     a: "Use the plan finder at Medicare.gov, filter by your zip code, and look at the 'additional benefits' section for each plan. Pay attention to both the dollar allowance and which vision network (VSP, EyeMed, etc.) the plan uses, then confirm your own eye doctor is in that network before enrolling."
   - q: "Is LASIK covered by Medicare?"
     a: "No. LASIK and other elective refractive procedures are not covered by Medicare under any circumstances. These are considered elective, not medically necessary, and you'd pay entirely out of pocket."
+  - q: "Does Medicare include vision coverage?"
+    a: "Original Medicare (Parts A and B) does not include routine vision coverage such as eye exams for glasses, eyeglasses or contact lenses. It covers eye care tied to medical conditions, such as glaucoma screening for people at high risk, diabetic eye exams and cataract surgery. Many Medicare Advantage plans (Part C) add routine vision benefits, but the details vary by plan."
+  - q: "What are Medicare vision benefits for eyeglasses?"
+    a: "Under Original Medicare, the only eyeglass benefit is one pair of eyeglasses or one set of contact lenses after cataract surgery. Beyond that, glasses are not covered. Some Medicare Advantage plans include an allowance toward frames or lenses, usually at in-network providers."
 ---
 
-Most people find out the hard way. A routine eye exam and new lenses can cost hundreds of dollars, and Medicare doesn't cover them under Original Medicare, even if you've been paying your Part B premium for years.
+Does Medicare cover vision? Original Medicare mostly does not. It doesn't cover routine eye exams, eyeglasses or contact lenses, even if you've been paying your Part B premium for years. It does cover certain eye care tied to a medical condition, and many Medicare Advantage plans add routine vision benefits. Without that coverage, a routine eye exam and new lenses can cost hundreds of dollars.
 
 That's the short version of a truth that catches seniors off guard every single day: [Original Medicare](/original-medicare-now-requires-prior-authorization-in-six-states/) (that's Part A and Part B, the government's base program) does not cover routine vision care. No eye exams for glasses. No eyeglasses. No contact lenses. The only exceptions are specific, narrow, and tied to a medical diagnosis, not just blurry vision.
 
@@ -94,13 +98,13 @@ Some people on Original Medicare (especially those with a Medigap supplement who
 
 These typically run $15–$50 per month in premiums. Coverage includes one exam per year, usually $120–$200 toward frames, and discounts on lenses. The math: if you spend $240–$600 a year in premiums and your exam plus glasses costs you $350–$600 out of pocket, you're roughly at breakeven or slightly ahead. If you need contacts annually, the calculus shifts in favor of a plan. If you rarely update your glasses and your eyes are stable, you might genuinely be better off self-paying.
 
-I've run these numbers dozens of times with clients. For people who need new glasses every other year and have stable prescriptions, self-paying often wins. For people with progressing prescriptions, bifocals, or specialty lenses, a plan earns its keep.
+For people who need new glasses every other year and have stable prescriptions, self-paying often wins. For people with progressing prescriptions, bifocals, or specialty lenses, a plan earns its keep.
 
 One thing most people don't realize: many of these standalone plans have a waiting period of 30–90 days before benefits kick in. Don't sign up the week before your scheduled exam and expect coverage.
 
 ## Getting Help Before You Decide
 
-This is genuinely one of those areas where talking to a real human saves money. [The State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) provides free, unbiased Medicare counseling in every state. These aren't salespeople. They don't earn commissions. They'll sit with you, look at your specific doctors, medications, and budget, and help you figure out whether Advantage or a Medigap-plus-standalone-vision combo actually makes sense for you. I've referred hundreds of people to SHIP over the years and I've never had someone come back saying it wasn't worth their time.
+This is genuinely one of those areas where talking to a real human saves money. [The State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) provides free, unbiased Medicare counseling in every state. These aren't salespeople. They don't earn commissions. They'll sit with you, look at your specific doctors, medications, and budget, and help you figure out whether Advantage or a Medigap-plus-standalone-vision combo actually makes sense for you. SHIP counseling is free, so there is little to lose by asking for a review of your options.
 
 **Scenario → Action → Result:** Margaret, 73, from suburban Chicago, was spending about $520 a year on glasses and eye exams with no coverage. A SHIP counselor helped her find a $0-premium Advantage plan in her county with a $250 vision allowance and VSP network access. Her eye doctor was in-network. Her annual out-of-pocket vision cost dropped to roughly $80. Two years in, she's still happy with the switch.
 

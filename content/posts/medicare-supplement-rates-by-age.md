@@ -1,9 +1,9 @@
 ---
 title: "Medicare Supplement Rates at 65: What to Expect"
 date: 2026-08-12T15:09:28.831619+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
-description: "Compare Medicare supplement insurance costs and coverage options at age 65. Find rates, plan types, and enrollment deadlines to maximize your benefits."
+description: "See typical Medigap Plan G premiums at ages 65 to 85 under community, issue-age and attained-age rating, and why your enrollment window matters."
 image: "/img/heroes/8439676.jpg"
 categories: ["Medigap Plans"]
 tags: ["medicare", "supplement", "rates"]
@@ -30,7 +30,7 @@ Most people have no idea that a 65-year-old woman in Florida can pay nearly thre
 
 A common mistake is misunderstanding how insurers actually price [Medicare supplement](/medicare-supplement-plan-g-explained/) plans over time. Insurers use one of three rating methods, and understanding which one applies to your plan can help you make choices that save thousands of dollars over a retirement.
 
-Let me walk you through what's actually going on with Medigap rates by age, because most of the advice floating around online leaves out the parts that matter most.
+Here is what is actually going on with Medigap rates by age, because most of the advice floating around online leaves out the parts that matter most.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Three distinct pricing methods determine how your Medigap premium changes as you age, your choice at enrollment locks you in to one forever.</li><li style="margin:5px 0">Attained-age plans often start cheapest but can cost $100+ more per month by your mid-70s compared to issue-age or community-rated plans.</li><li style="margin:5px 0">Your Open Enrollment window (6 months starting when you turn 65 and enroll in Part B) is the single best time to lock in a rate, medical underwriting can't touch you then.</li><li style="margin:5px 0">A Plan G premium for a 65-year-old currently averages roughly $110-$180/month depending on state; by age 80, attained-age pricing for the same plan can push past $300/month.</li><li style="margin:5px 0">Switching plans after enrollment is medically underwritten in most states, meaning insurers can reject you or charge more based on health history.</li></ul></div>
 
@@ -42,7 +42,7 @@ Many people assume Medigap premiums simply go up with inflation each year, but t
 
 **Issue-age-rated**: Your premium is set based on how old you are when you first buy the policy, then stays at that baseline (adjusted only for inflation and medical costs). Enroll at 65, you pay the 65-year-old rate forever, adjusted forward. Enroll at 72, you pay more from day one and stay there.
 
-**Attained-age-rated**: This is the one that sneaks up on people. Premiums are based on your current age every year. So they go up as you get older, on top of general inflation and insurer cost increases. The Centers for Medicare & Medicaid Services at [cms.gov](https://www.cms.gov/) describes all three methods in their Medigap overview, but they're appropriately neutral about which is "best." I'm not: attained-age pricing almost always costs you more over a long retirement, even when the entry-point premium looks attractive.
+**Attained-age-rated**: This is the one that sneaks up on people. Premiums are based on your current age every year. So they go up as you get older, on top of general inflation and insurer cost increases. The Centers for Medicare & Medicaid Services at [cms.gov](https://www.cms.gov/) describes all three methods in their Medigap overview, but they stay neutral about which is "best." In the illustrative figures below, attained-age pricing ends up costing more over a long retirement, even when the entry-point premium looks attractive.
 
 The catch is that most plans sold today are attained-age-rated because they offer lower premiums at 65, which makes them easier to sell. Insurers aren't doing anything sneaky exactly, but they're betting you'll focus on today's number.
 
@@ -50,7 +50,7 @@ The catch is that most plans sold today are attained-age-rated because they offe
 
 As of August 2026, a 65-year-old male nonsmoker in Ohio can find Plan G premiums ranging from about $98 to $165 [per month](/how-much-does-medicare-cost-per-month/) depending on the insurer and rating method. That same man at 75, with an attained-age policy, might be paying $190 to $260 per month for identical coverage. By 80, it's not unusual to see $290 or higher with certain carriers.
 
-Here's a side-by-side comparison I put together using current rate data from multiple carriers. The numbers below are illustrative of realistic ranges based on available market data, not quotes from a single insurer, because rates vary by zip code, tobacco use, and carrier:
+Here is a side-by-side comparison of illustrative Plan G ranges. The numbers below are not quotes from a single insurer, because rates vary by zip code, tobacco use, and carrier:
 
 | Age | Community-Rated (Plan G) | Issue-Age-Rated (Plan G) | Attained-Age-Rated (Plan G) |
 |-----|--------------------------|--------------------------|-----------------------------|
@@ -80,7 +80,7 @@ What most people don't realize is that beyond age and rating method, three other
 
 **Tobacco use**: If you smoke, expect a surcharge of 10-25% on top of standard rates, depending on the state and carrier. Some states prohibit tobacco rating for Medigap. It's worth checking your state's rules.
 
-**Geography**: This is the biggest wildcard. A 67-year-old woman in rural Mississippi might pay $92/month for Plan N, while the same woman in suburban New York pays $220 for identical coverage. Healthcare costs, claims experience, and state regulation all feed into this. I don't have precise national averages I'd trust for every state, so I'd point you to Medicare.gov's plan finder tool as the most current source for your specific zip code.
+**Geography**: This is the biggest wildcard. A 67-year-old woman in rural Mississippi might pay $92/month for Plan N, while the same woman in suburban New York pays $220 for identical coverage. Healthcare costs, claims experience, and state regulation all feed into this. Precise national averages for every state are hard to pin down, so Medicare.gov's plan finder tool is the most current source for your specific zip code.
 
 A worked example of how these factors compound:
 
@@ -90,7 +90,7 @@ That gap compounds every year. Over thirteen years, the difference in cumulative
 
 ## Plan G vs. Plan N: The Age-Rate Interaction
 
-One thing I wish I'd explained to people more clearly earlier in my career: the pricing method interacts with which plan you choose. Plan N currently runs about 15-20% cheaper than Plan G at enrollment for most 65-year-olds. That sounds great. But Plan N has cost-sharing (up to $20 copays for office visits, up to $50 for ER visits, and you're exposed to Part B excess charges). As you age and use more healthcare, those out-of-pocket costs add up alongside a rising attained-age premium.
+One point that is easy to miss: the pricing method interacts with which plan you choose. Plan N currently runs about 15-20% cheaper than Plan G at enrollment for most 65-year-olds. That sounds great. But Plan N has cost-sharing (up to $20 copays for office visits, up to $50 for ER visits, and you're exposed to Part B excess charges). As you age and use more healthcare, those out-of-pocket costs add up alongside a rising attained-age premium.
 
 Plan G covers nearly everything except the Part B deductible (currently $283 in 2026). For someone who sees specialists frequently or anticipates complex care, the math often favors Plan G by the mid-70s even if Plan N looked cheaper at 65.
 

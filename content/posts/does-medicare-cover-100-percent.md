@@ -23,11 +23,11 @@ author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
 author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 Medicare does not cover 100 percent of your healthcare costs. Full stop. That's the single most important thing you can know going in, and it's the thing the system never quite states plainly enough.
 
-Most people come into Medicare expecting something close to full coverage because they've paid into it their entire working lives. That's a completely reasonable assumption. It's also wrong, and finding out the hard way, after a hospital stay or a surgery, costs real money. I've talked with hundreds of seniors over the years who were blindsided by bills they genuinely didn't know were coming.
+Most people come into Medicare expecting something close to full coverage because they've paid into it their entire working lives. That's a completely reasonable assumption. It's also wrong, and finding out the hard way, after a hospital stay or a surgery, costs real money. Many people are blindsided by bills they didn't know were coming.
 
 So let's be specific about what Medicare actually covers, where the gaps are, and what you can do about them.
 
@@ -70,7 +70,7 @@ The 20 percent Part B coinsurance gets most of the focus, but other gaps matter 
 
 ## Three Ways People Actually Fill the Gaps
 
-This is where real choices happen, and they're not equally good for everyone. Here's my assessment.
+This is where real choices happen, and they're not equally good for everyone. Here's how the three main options compare.
 
 **[Medicare Supplement Insurance (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/).** Private insurance plans that work alongside Original Medicare. Plan G (the most popular now that Plans C and F closed to new enrollees) covers the Part A deductible, Part B coinsurance, skilled nursing coinsurance, and foreign travel emergency care. With Plan G, you're essentially down to the $283 Part B deductible annually, then nothing else for Medicare-covered services.
 
@@ -80,7 +80,7 @@ The trade-off: Plan G premiums vary by location, age, and company. In most of th
 
 **Medicare Advantage (Part C).** All-in-one private plans that replace Original Medicare. They must cover at least what Original Medicare does, and many add dental, vision, hearing, and Part D drugs. Many come with zero premiums.
 
-Here's my honest take: Advantage plans look fantastic on paper and genuinely work for healthy people who don't mind staying in-network. But they use prior authorization for many treatments, meaning the plan can delay or reject what your doctor wants to do. Networks are often tight. And if you get seriously sick, the approval hassles and cost-sharing can feel way harder than Original Medicare plus a Medigap plan.
+Advantage plans look fantastic on paper and can work well for healthy people who don't mind staying in-network. But they use prior authorization for many treatments, meaning the plan can delay or reject what your doctor wants to do. Networks are often tight. And if you get seriously sick, the approval hassles and cost-sharing can feel way harder than Original Medicare plus a Medigap plan.
 
 That doesn't mean avoid them entirely. They're right for plenty of people. Just know that "zero premium" marketing papers over real restrictions.
 

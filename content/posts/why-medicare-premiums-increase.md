@@ -1,9 +1,9 @@
 ---
 title: "Why Medicare Premiums Increase Every Year"
 date: 2026-08-10T15:11:05.878933+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
-description: "Understanding the factors behind rising Medicare costs, from healthcare inflation to policy changes. Learn what drives your premium increases."
+description: "Medicare premiums rise when CMS projects higher program costs, and IRMAA adds surcharges for higher earners based on income from two years ago. Here's how it works."
 image: "/img/heroes/8123820.jpg"
 categories: ["Medicare Costs"]
 tags: ["medicare", "premiums", "increase"]
@@ -26,9 +26,9 @@ faqs:
     a: "It can, and it happens more often than people expect. Medicare Advantage plan premiums are set by private insurers and can change every year during open enrollment. Your current plan is required to notify you of changes before October 15, giving you the window to switch if the new terms don't work for you. Don't ignore that Annual Notice of Change letter when it arrives in September."
 ---
 
-Most people open their Medicare bill in January, see a bigger number than last year, and assume somebody made a mistake. They didn't. The increase was baked in months before you ever saw it, and the reasons behind it are more predictable than you'd think once someone actually explains them.
+Medicare premiums go up mainly because CMS sets the Part B premium each fall based on projected program costs, and because higher earners pay an income-based surcharge called IRMAA that looks at tax returns from two years earlier. Most people open their Medicare bill in January, see a bigger number than last year, and assume somebody made a mistake. They didn't. The increase was baked in months before you ever saw it, and the reasons behind it are more predictable than you'd think once someone actually explains them.
 
-Here's what frustrates me after two decades of sitting across kitchen tables from seniors trying to make sense of their Medicare statements: the standard explanations are technically accurate and practically useless. "Healthcare costs rise" tells you nothing. So let's do better than that.
+The standard explanations are technically accurate and practically useless. "Healthcare costs rise" tells you nothing. So let's do better than that.
 
 Medicare premiums go up for several distinct reasons, and they don't all apply to every person equally. Some increases are universal. Some land only on higher earners. A few are avoidable with the right planning. The [difference between](/difference-between-medicare-and-medicaid-explained/) understanding this and not understanding it can be several hundred dollars a year.
 
@@ -50,7 +50,7 @@ Income-Related Monthly Adjustment Amounts (IRMAA, pronounced "er-MAH") are premi
 
 Here's the part that surprises almost everyone: CMS uses your tax return from two years ago. So your 2026 Medicare premiums are based on your 2024 Modified Adjusted Gross Income (MAGI). If you sold a rental property in 2024, took a large IRA (Individual Retirement Account) distribution, or had a one-time capital gain, that income could push you into a higher IRMAA bracket today even if your 2025 and 2026 income are much lower.
 
-I had a reader from Tucson email me last spring about exactly this. She'd sold her late husband's business in 2024, a one-time event that pushed her MAGI over $200,000. Two years later, she was staring at a Part B premium that was more than double what her neighbor paid. She was genuinely shocked. The sale was over; the money was largely spent on estate costs. But Medicare's two-year lookback didn't care.
+Picture someone who sold a late spouse's business in 2024, a one-time event that pushed their MAGI over $200,000. Two years later, they could be staring at a Part B premium that is more than double what a neighbor pays. The sale is over, and the money may be largely spent on estate costs. But Medicare's two-year lookback doesn't care.
 
 The table below shows current IRMAA brackets for 2026. These are per-person figures, not per-household.
 

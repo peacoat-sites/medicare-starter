@@ -31,7 +31,7 @@ You opened your Medicare plan confirmation letter expecting the usual small twea
 
 Medicare Part D is the standalone prescription drug coverage program added to Medicare in 2006. You can get it either as a separate plan (a PDP, or Prescription Drug Plan) or bundled into a Medicare Advantage plan (sometimes called MAPD). Either way, you pay a monthly premium for the coverage.
 
-The national base beneficiary premium for 2026 is set at $36.78, up from $34.70 in 2025. That base figure isn't what most people actually pay. It's a benchmark the government uses to calculate [late enrollment penalties](/medicare-part-d-late-enrollment-penalty/) and income-related surcharges. Your real premium depends on which specific plan you choose and where you live.
+The national base beneficiary premium for 2026 is $38.99, up from $36.78 in 2025. That base figure isn't what most people actually pay. It's a benchmark the government uses to calculate [late enrollment penalties](/medicare-part-d-late-enrollment-penalty/) and income-related surcharges. Your real premium depends on which specific plan you choose and where you live.
 
 A few things are piling up at once. The Inflation Reduction Act of 2022 restructured Part D's benefit design significantly, including capping out-of-pocket drug costs at $2,000 annually starting in 2025. That protection is genuinely valuable, but insurance plans are now pricing in the added liability. Specialty drug costs, especially for GLP-1 medications like semaglutide, are straining plan formularies hard. Plans absorb more risk now, and premiums reflect that reality.
 
