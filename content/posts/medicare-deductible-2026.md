@@ -9,7 +9,7 @@ tags: ["medicare", "deductible", "2026"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-deductible-2026"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "Most Medigap plans cover the Part A deductible. For the Part B deductible, only Plans C and F cover it, and both of those are unavailable to people who became eligible for Medicare after January 1, 2020. No Medigap plan covers Part D costs. Always confirm what a specific plan covers before enrolling."
  - q: "No. $590 was the maximum standard Part D deductible in 2025. In 2026, the maximum standard Part D deductible is $615. Individual plans may set a lower deductible or no deductible at all, but no standard plan can exceed $615."
    a: "$615 is the maximum a Part D plan is allowed to charge as a deductible in 2026, but many plans charge less or nothing at all. Some plans also apply the deductible only to higher-tier (brand-name) drugs, not generics. Use the Medicare Plan Finder at Medicare.gov with your actual drug list to see how the deductible affects your real annual costs across different plans."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people assume the Medicare deductible is one single number you hit at the start of the year and then you're done. In fact, it's messier and more expensive in some spots than expected, and genuinely confusing in ways that catch even careful planners off guard.
@@ -40,7 +40,7 @@ Here are the real numbers for 2026, what each one means for your wallet, and the
 | Part B (Outpatient) | $283 | Calendar year | Resets January 1; no out-of-pocket cap on coinsurance |
 | Part D (Prescription Drug) | Up to $615 | Calendar year | Maximum allowable; individual plans may charge less or $0 |
 
-Current as of July 2026, here's where things stand:
+Current for 2026, here's where things stand:
 
 **Medicare Part A** (hospital insurance) has a deductible of **$1,736 per benefit period**. Not per year. Per benefit period. That distinction matters enormously, and I'll come back to it.
 
@@ -60,14 +60,14 @@ Medicare's Part A deductible doesn't reset on January 1. It resets per "benefit 
 
 That means someone who has two separate hospitalizations in the same calendar year, separated by more than 60 days, pays $1,736 twice. $3,472 out of pocket just in deductibles. For example, a hip replacement in February and a cardiac admission in August, with more than 60 days out of the hospital in between, fall into two separate benefit periods, so the Part A deductible applies twice.
 
-Medicare's own summary documents don't always make the "per benefit period" language jump out. You have to read carefully. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) does publish a detailed booklet called "Medicare & You" each year, and the 2026 edition explains benefit periods on page 28 (of the print version). It's worth reading that section slowly.
+Medicare's own summary documents don't always make the "per benefit period" language jump out. You have to read carefully. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes a detailed booklet called "Medicare & You" each year that explains benefit periods. It's worth reading that section slowly.
 
-The Part A deductible also covers only the first 60 days of your hospital stay. Days 61 through 90 come with a daily coinsurance charge of $434 per day. Days beyond that, if you ever get into what Medicare calls "lifetime reserve days," cost $868 per day. Those numbers are 2026 figures and they do adjust annually.
+After you pay the Part A deductible, days 1 through 60 of a hospital stay carry no daily coinsurance. Days 61 through 90 come with a daily coinsurance charge of $434 per day. Days beyond that, if you ever get into what Medicare calls "lifetime reserve days," cost $868 per day. Those numbers are 2026 figures and they do adjust annually.
 
 **Worked example:**
 Frank, age 72, is admitted for pneumonia and stays 5 days. He hasn't been hospitalized in over 60 days.
 Action: He owes the full $1,736 Part A deductible for the benefit period.
-Result: Medicare pays the rest of his covered hospital costs for that stay. If he's readmitted for a separate condition 45 days later, no new deductible applies because his first benefit period is still open. Net savings: $1,736.
+Result: Medicare pays the rest of his covered hospital costs for that stay. If he's readmitted for a separate condition 45 days later, no new deductible applies because his first benefit period is still open.
 
 ---
 
@@ -82,7 +82,7 @@ For example, in a moderately bad health year with two specialist visits, one out
 **Worked example:**
 Maria, age 68, has outpatient knee surgery in March 2026. Total Medicare-approved amount: $8,400.
 Action: She pays her $283 deductible (already met earlier in the year), then 20% of $8,400.
-Result: Maria owes $1,680 in coinsurance. With a Medigap Plan G policy, that $1,680 is covered after she satisfies the Plan G deductible (which in 2026 is $283, same as the Part B deductible). Net out-of-pocket: $283 instead of $1,963.
+Result: Maria owes $1,680 in coinsurance. With a Medigap Plan G policy, that $1,680 is covered. Plan G does not cover the Part B deductible, so her $283 deductible was her own cost. Net out-of-pocket: $283 instead of $1,963.
 
 ---
 
@@ -111,7 +111,7 @@ Medigap policies do not cover Part D costs at all. That's a separate policy.
 **Worked example:**
 Robert, 74, enrolled in Medicare in 2018 and has a Medigap Plan F. He's hospitalized twice in 2026, with each admission separated by more than 60 days.
 Action: His Plan F covers both $1,736 Part A deductibles and all the Part B deductible and coinsurance.
-Result: Robert's out-of-pocket costs for both hospitalizations: $0 for the covered services (beyond his premium). Total deductibles that would have applied: $3,472. His Plan F premium is roughly $180-$250/month depending on his state and insurer, so the math gets interesting in a high-use year. New enrollees can't replicate this with Plan F, but Plan G gets close.
+Result: Robert's out-of-pocket costs for both hospitalizations: $0 for the covered services (beyond his premium). Total deductibles that would have applied: $3,472. Whether the premium pays off depends on how much care he uses in a given year. New enrollees can't replicate this with Plan F, but Plan G gets close.
 
 ---
 
@@ -121,7 +121,7 @@ For years, I thought that if someone had a Medicare Advantage (Part C) plan, the
 
 Medicare Advantage plans replace Original Medicare's cost structure with their own. They must cover at least what Original Medicare covers, but they set their own deductibles, copays, and out-of-pocket maximums. Some MA plans have $0 deductibles. Some have hospital deductibles of $300 or $400. The structure is different, but the concept of a deductible absolutely still exists in many of them.
 
-The big difference is that MA plans do have a maximum out-of-pocket limit, which Original Medicare lacks. In 2026, that cap can be as high as $9,350 for in-network services (the federally-set ceiling). That ceiling is not a benefit, by the way. It's a ceiling on how generous the protection can be capped, which is separate from how a given plan actually sets its limit.
+The big difference is that MA plans do have a maximum out-of-pocket limit, which Original Medicare lacks. In 2026, that cap can be as high as $9,250 for in-network services (the federally-set ceiling). That figure is a federal ceiling, not a guarantee. Many plans set a lower limit, so check your own plan's maximum.
 
 ---
 

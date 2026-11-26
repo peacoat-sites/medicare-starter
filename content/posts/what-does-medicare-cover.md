@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 Your Medicare card shows up in the mail on your 65th birthday, and you're holding it thinking: "Okay, but what exactly does this cover?" I hear this question constantly. People paid into Medicare their whole working lives and still don't know what they're actually entitled to. The honest answer is that Medicare covers quite a lot, but it also has gaps that catch people off guard. Here's what you need to know.
 
@@ -78,7 +78,7 @@ If you take multiple prescriptions, comparing Part D plans before open enrollmen
 | Provider choice | Any provider accepting Medicare nationwide | Usually a network of providers |
 | Referrals needed | Generally not required | Often required (HMO plans) |
 | Part D coverage | Standalone plan required | Often included |
-| Out-of-pocket maximum | None | Yes, capped annually |
+| Out-of-pocket maximum | None (Parts A & B alone) | Yes, capped annually ($9,250 in-network maximum in 2026) |
 | Coverage outside network | Yes | Limited or none |
 
 Medicare Advantage plans, or Part C, are a different way to get Medicare benefits. Instead of Parts A and B from the federal government, you get them bundled through a private insurer.
@@ -87,10 +87,7 @@ Here's what that looks like:
 
 | Feature | Original Medicare (Parts A & B) | Medicare Advantage (Part C) |
 |---|---|---|
-| Provider choice | Any provider accepting Medicare nationwide | Usually a network of providers |
-| Referrals needed | Generally not required | Often required (HMO plans) |
 | Monthly premiums | Part B premium + any supplement | Part B premium + plan premium (sometimes $0) |
-| Out-of-pocket maximum | No cap (Original Medicare alone) | Required annual out-of-pocket maximum |
 | Prescription drugs | Requires separate Part D plan | Usually included |
 | Extra benefits | Not included | Often includes dental, vision, hearing |
 

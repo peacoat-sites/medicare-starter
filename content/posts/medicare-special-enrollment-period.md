@@ -14,7 +14,7 @@ faqs:
  - q: "Does my spouse's employer coverage protect me from a late penalty?"
    a: "Yes, as long as your spouse is actively employed and you're covered under that group health plan. When your spouse retires or the coverage ends, your eight-month SEP clock starts. The plan must be employer-sponsored group coverage based on active work, not retiree coverage."
  - q: "What happens if I miss my Special Enrollment Period?"
-   a: "You'll have to wait for the General Enrollment Period (January 1 through March 31), coverage won't start until July 1, and you'll likely owe a Part B late enrollment penalty for every 12-month period you delayed. That penalty is permanent and added to your premium every month you have Part B going forward."
+   a: "You'll have to wait for the General Enrollment Period (January 1 through March 31), coverage starts the first day of the month after you sign up, and you'll likely owe a Part B late enrollment penalty for every 12-month period you delayed. That penalty is permanent and added to your premium every month you have Part B going forward."
  - q: "Do I need to enroll in Part A during an SEP, or just Part B?"
    a: "Most people are automatically enrolled in Part A at 65 if they're collecting Social Security, and Part A is usually premium-free. The more critical decision is Part B, which has a monthly premium and is where the late penalty applies. That said, if you have a Health Savings Account (HSA) through work, know that enrolling in any part of Medicare, including Part A, stops your ability to contribute to that HSA. Plan accordingly before you enroll."
  - q: "Is there a Special Enrollment Period for Medicare Part D if I had other drug coverage?"
@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 You missed your Medicare signup window and now you're panicking. Or maybe you just retired at 67, lost your employer health coverage last Friday, and someone told you that you "might" be able to still enroll. That "might" is doing a lot of work in that sentence, and it's exactly what this article is here to clear up.
 
@@ -31,7 +31,7 @@ Here's what most Medicare explainers skip over: the Special Enrollment Period (S
 
 ## What a Special Enrollment Period Actually Is
 
-Medicare runs on rigid schedules. Your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/) opens three months before your 65th birthday month and closes three months after it, giving you seven months to sign up. Miss that, and you're stuck waiting for the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. That gap can mean months uninsured and a late penalty on top of it.
+Medicare runs on rigid schedules. Your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/) opens three months before your 65th birthday month and closes three months after it, giving you seven months to sign up. Miss that, and you're stuck waiting for the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting the first day of the month after you sign up. That gap can mean months uninsured and a late penalty on top of it.
 
 The SEP handles real life, which doesn't follow Medicare's calendar. It lets you sign up for Medicare Part A (hospital insurance) and Part B (medical insurance) outside those standard windows without triggering a late penalty, assuming you qualify.
 
@@ -47,7 +47,7 @@ Two specific conditions matter. Pay attention.
 
 **Your SEP begins when either condition ends**: the employment ends, or the group health plan coverage ends, whichever comes first.
 
-Once that happens, you have eight months to enroll in Part B. A common mistake is thinking you have until the coverage actually terminates, but the clock starts the day employment ends, even if COBRA extends your insurance another 18 months.
+Once that happens, you have eight months to enroll in Part B. A common mistake is thinking you have until the coverage actually terminates, but the clock starts when either the employment or the group health plan coverage ends, whichever comes first, even if COBRA extends your insurance another 18 months.
 
 Safest move: enroll in Part B before or during the month your group coverage ends. You can submit enrollment up to three months before coverage ends, which gives you the smoothest transition.
 
@@ -59,7 +59,7 @@ Safest move: enroll in Part B before or during the month your group coverage end
 | Loss of Creditable Coverage | Medicaid, union, or other qualifying plan ends | SEP granted upon loss | Varies |
 | Move Out of Service Area | Relocate outside plan's service area | SEP granted upon move | Varies |
 | Plan Exits Medicare | Medicare Advantage or Part D plan stops operating in area | SEP granted upon notice | Varies |
-| Qualifying for Extra Help | Become eligible for Low Income Subsidy | Permanent, once per quarter | Varies |
+| Qualifying for Extra Help | Become eligible for Low Income Subsidy | Once per quarter (switch Part D plans) | Varies |
 | Exceptional Circumstances | Natural disaster, plan error, or other uncontrollable event | Case by case | Case by case |
 
 Employer coverage SEP gets the spotlight, but there are others covering real situations.
@@ -104,8 +104,8 @@ Enrolling in Part B opens a separate 63-day window to join a Part D prescription
 |---|---|---|
 | When it's available | Triggered by a qualifying life event | January 1 through March 31, annually |
 | Who qualifies | Anyone with a qualifying trigger | Anyone who missed their IEP without an SEP |
-| Late penalty | None | Yes, applies to Part B and Part D |
-| Coverage start | Usually the month after enrollment | July 1 of the same year |
+| Late penalty | None | Part B penalty can apply; Part D is separate |
+| Coverage start | Usually the month after enrollment | First of the month after you sign up |
 | Part D window | Opens simultaneously | Separate GEP for Part D |
 
 The GEP is your fallback, not your plan. If you have a qualifying event, use the SEP.

@@ -1,7 +1,7 @@
 ---
 title: "Medicare Eye Exam Coverage: What It Pays For and What It Skips"
 date: 2026-07-08T16:07:53.574272+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Find out exactly what Medicare covers for eye exams, which plans include vision benefits, and how to avoid unexpected out-of-pocket costs."
 image: "/img/heroes/5996597.jpg"
@@ -10,7 +10,7 @@ tags: ["does", "medicare", "cover", "exams"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "does-medicare-cover-eye-exams"
 affiliate_disclosure: true
 faqs:
@@ -54,7 +54,7 @@ This is where things get genuinely interesting, and I think it's where most seni
 
 Medicare Advantage plans (Part C) are private health insurance plans that contract with Medicare to deliver your Part A and Part B benefits. By law, they must cover everything Original Medicare covers. But they're also allowed to offer *extra* benefits, and vision is one of the most common add-ons.
 
-As of this year (July 2026), the vast majority of Medicare Advantage enrollees are in plans that include some form of vision benefit. We're talking routine eye exams, an allowance toward frames or lenses, and sometimes contact lens coverage. The specific benefits vary enormously by plan and by county, which is the part that frustrates people.
+Most Medicare Advantage plans include some form of vision benefit. We're talking routine eye exams, an allowance toward frames or lenses, and sometimes contact lens coverage. The specific benefits vary enormously by plan and by county, which is the part that frustrates people.
 
 Here's a comparison of what you'll typically find across Medicare Advantage vision tiers:
 
@@ -67,7 +67,7 @@ Here's a comparison of what you'll typically find across Medicare Advantage visi
 
 These numbers are typical ranges, not guarantees. The actual figure depends entirely on your specific plan and where you live. Always verify directly with the plan.
 
-What surprised me when I dug into the enrollment data: a lot of seniors with Medicare Advantage plans *don't use* their vision benefits. They forget they have them, or they don't know which providers are in-network. That's money sitting on the table.
+A common pitfall: some seniors with Medicare Advantage plans *don't use* their vision benefits. They forget they have them, or they don't know which providers are in-network. That's money sitting on the table.
 
 ---
 
@@ -101,7 +101,7 @@ If you're on **Medicare Advantage**, call the member services number on the back
 
 If you're shopping for a plan (or it's Open Enrollment, which runs October 15 through December 7 each year), use the Medicare Plan Finder tool at Medicare.gov to compare plans in your ZIP code. Filter for vision benefits. A counselor at your local State Health Insurance Assistance Program (SHIP) can walk you through this comparison for free, and they have no financial stake in which plan you choose. That last part matters more than people realize.
 
-Second worked example: Robert, a 68-year-old in Phoenix, switched from Original Medicare plus Medigap Plan G to a Medicare Advantage plan during Open Enrollment in late 2025. His new plan included an annual routine eye exam plus a $200 frame allowance. His premium dropped by $112 per month compared to his Medigap plan. He used the vision benefit the following March, got new progressive lenses, and paid $40 out of pocket after the $200 allowance. His total first-year savings, factoring in the lower premium and the vision benefit used: roughly $1,450.
+Second worked example: consider a hypothetical 68-year-old in Phoenix who switched from Original Medicare plus Medigap Plan G to a Medicare Advantage plan during Open Enrollment in late 2025. The new plan included an annual routine eye exam plus a $200 frame allowance, and the monthly premium dropped by $112 compared to the Medigap plan. The following March, this person uses the vision benefit, gets new progressive lenses, and pays $40 out of pocket after the $200 allowance. First-year savings, factoring in the lower premium and the vision benefit used: roughly $1,450.
 
 That said, Medicare Advantage isn't the right move for everyone. You give up the nationwide coverage flexibility of Original Medicare, and your costs can be unpredictable if you use a lot of healthcare services. AARP's Medicare resource center at aarp.org has a solid side-by-side comparison of Original Medicare vs. Medicare Advantage that's worth reading if you're weighing the switch.
 

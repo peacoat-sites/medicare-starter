@@ -9,7 +9,7 @@ tags: ["medicare", "florida"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-in-florida"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, you can switch back to Original Medicare during the Annual Open Enrollment Period (October 15 to December 7) or during the Medicare Advantage Open Enrollment Period (January 1 to March 31). The complication is that if you want to add a Medigap supplement after leaving MA, insurers in Florida can generally require medical underwriting outside your initial enrollment period, meaning they can deny you or charge more based on health conditions. This is one of the biggest reasons to think carefully about the MA-vs.-Medigap decision from the start."
  - q: "How do I find out if I qualify for Extra Help with drug costs in Florida?"
    a: "Apply directly through the Social Security Administration, either online at ssa.gov, by calling 1-800-772-1213, or at your local SSA office. You can also apply for Medicare Savings Programs through Florida's Department of Children and Families. Your local SHINE counselor can help you figure out which programs you might qualify for and walk you through the paperwork."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Florida has more Medicare beneficiaries per capita than almost any other state in the country. That single fact shapes everything about how Medicare actually works here, and not always in the ways you'd expect.
@@ -36,7 +36,7 @@ So let me tell you what I actually found.
 
 ## Why Florida's Medicare Market Is Unlike Almost Anywhere Else
 
-The sheer density of Medicare beneficiaries in Florida means insurers fight hard for your business. That competition has real consequences. Florida consistently ranks among the states with the highest number of Medicare Advantage (MA) plans available per county. In Miami-Dade, Broward, and Palm Beach counties, a beneficiary might have 50 or more Medicare Advantage plans to choose from during Open Enrollment. Fifty. That sounds like a good problem to have, until you're sitting at a kitchen table trying to compare them.
+The sheer density of Medicare beneficiaries in Florida means insurers fight hard for your business. That competition has real consequences. Florida consistently ranks among the states with the highest number of Medicare Advantage (MA) plans available per county. In Miami-Dade, Broward, and Palm Beach counties, a beneficiary can have dozens of Medicare Advantage plans to choose from during Open Enrollment. That sounds like a good problem to have, until you're sitting at a kitchen table trying to compare them.
 
 Medicare Advantage, for anyone new to the term, is an alternative to Original Medicare (Parts A and B) offered by private insurance companies that Medicare pays to cover your care. It typically bundles in drug coverage and often includes extras like dental, vision, and hearing. In Florida, MA enrollment is exceptionally high. A significant majority of Florida Medicare beneficiaries are in some form of MA plan rather than Original Medicare with a separate supplement.
 
@@ -60,9 +60,9 @@ Florida's Medicare Part D (prescription drug coverage) landscape is also unusual
 
 What surprised me when I dug into this: two people on identical medications can pay hundreds of dollars a year differently depending solely on which Part D plan they chose. Not because one is scamming them. Just because formularies (the list of covered drugs and their cost tiers) differ significantly between plans, and most people don't comparison-shop them carefully.
 
-Medicare.gov has a plan finder tool that lets you enter your exact medications and compare true out-of-pocket costs across every plan available in your zip code. I cannot overstate how useful this tool is. Use it every single year during Open Enrollment (October 15 through December 7). Drug plans change their formularies annually. The plan that was cheapest for your medications in 2025 may not be in 2026.
+Medicare.gov has a plan finder tool that lets you enter your exact medications and compare true out-of-pocket costs across every plan available in your zip code. I cannot overstate how useful this tool is. Use it every single year during Open Enrollment (October 15 through December 7). Drug plans change their formularies annually. The plan that was cheapest for your medications in 2026 may not be in 2027.
 
-One more thing on drugs: Florida has a large population managing multiple chronic conditions, which means polypharmacy (taking many medications at once) is common. If you're on five or more medications, the difference between a thoughtfully chosen Part D plan and a randomly picked one can easily exceed $1,000 per year. That's not a hypothetical.
+One more thing on drugs: Florida has a large population managing multiple chronic conditions, which means polypharmacy (taking many medications at once) is common. If you're on five or more medications, the difference between a thoughtfully chosen Part D plan and a randomly picked one can be significant.
 
 ---
 
@@ -70,9 +70,9 @@ One more thing on drugs: Florida has a large population managing multiple chroni
 
 Medigap plans are standardized by the federal government, meaning a Plan G in Florida covers exactly the same benefits as a Plan G in Vermont. What varies is the price, and Florida Medigap premiums tend to be higher than the national average. This is partly because insurers price based on local claim patterns, and Florida's older, sicker population means higher expected claims.
 
-Plan G is currently the most comprehensive Medigap option available to new Medicare enrollees (Plan F, which was even more comprehensive, closed to new enrollees in 2020). Plan G covers everything Original Medicare doesn't, except the Part B deductible, which is $283 in 2026. Beyond that deductible, your cost-sharing on Plan G is essentially zero. That predictability has real value, especially if you have significant health needs or want to budget with certainty.
+Plan G is currently the most comprehensive Medigap option available to people who became eligible for Medicare on or after January 1, 2020. Plan F, which was even more comprehensive, can't be bought by those people, though anyone eligible before then can still buy it. Plan G covers everything Plan F covers except the Part B deductible, which is $283 in 2026. Beyond that deductible, your cost-sharing on Plan G is essentially zero. That predictability has real value, especially if you have significant health needs or want to budget with certainty.
 
-The monthly premium for Plan G in Florida varies by age, gender, tobacco use, and insurer, but it's common to see quotes ranging from around $130 to $250 or more per month for a 65-year-old. Community-rated counties (where everyone pays the same price regardless of age) are less common in Florida than attained-age rating, where your premium rises as you get older. That distinction matters a lot for long-term affordability, and it's something most people never ask about when they're shopping.
+The monthly premium for Plan G in Florida varies by age, gender, tobacco use, and insurer, so get quotes from several carriers for your own situation. Community-rated counties (where everyone pays the same price regardless of age) are less common in Florida than attained-age rating, where your premium rises as you get older. That distinction matters a lot for long-term affordability, and it's something most people never ask about when they're shopping.
 
 AARP's Medicare resource center (aarp.org/health/medicare-insurance/) has solid plain-English guidance on rating methods if you want to understand this more before talking to an agent.
 
@@ -82,7 +82,7 @@ AARP's Medicare resource center (aarp.org/health/medicare-insurance/) has solid 
 
 The first involves people moving to Florida from another state after retirement. If you're already enrolled in Medicare and relocating, you may have a Special Enrollment Period (SEP) that lets you switch plans. What people miss is that moving to a new county in Florida can also trigger an SEP if you're in an MA plan, because your plan's service area may not include your new county. Don't assume your coverage travels across the state.
 
-The second trap is late enrollment penalties. Medicare Part B (medical insurance) and Part D both carry permanent late enrollment penalties if you don't sign up when you're first eligible and don't have qualifying coverage elsewhere. I've met retirees who delayed Part B enrollment because they were healthy and didn't want the premium, and who are now paying 10% more per year of delay, permanently. There's no statute of limitations on that penalty. It follows you for life.
+The second trap is late enrollment penalties. Medicare Part B (medical insurance) and Part D both carry permanent late enrollment penalties if you don't sign up when you're first eligible and don't have qualifying coverage elsewhere. Consider a retiree who delayed Part B enrollment because they were healthy and didn't want the premium. The Part B penalty is 10% of the standard premium for each full 12-month period of delay, and it lasts for as long as they have Part B. There's no statute of limitations on that penalty. It follows you for life.
 
 If you're approaching 65 or helping a parent figure this out, Medicare.gov is the authoritative starting point for understanding enrollment windows and penalties.
 

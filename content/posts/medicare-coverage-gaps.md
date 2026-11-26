@@ -1,7 +1,7 @@
 ---
 title: "Medicare Coverage Gaps: Why 20% of Costs Fall on You"
 date: 2026-11-22T20:42:01.552946+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn how Medicare's coverage gaps work and what you'll pay out-of-pocket. Understand the 20% coinsurance and find ways to protect yourself."
 image: "/img/heroes/7477690.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "coverage", "gaps"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-coverage-gaps"
 affiliate_disclosure: true
 faqs:
@@ -21,7 +21,7 @@ faqs:
   - q: "What is a 'benefit period' and why does it matter?"
     a: "A benefit period is how Medicare measures your use of inpatient hospital and skilled nursing facility services. It starts on your first day of admission and ends after you've been out of a facility for 60 consecutive days. You can have more than one benefit period per year, and each one comes with its own Part A deductible. That's different from most insurance, where you pay one deductible per year and you're done."
   - q: "Is there any limit on what I can owe out-of-pocket with Original Medicare?"
-    a: "No, and that's one of the most consequential things to understand. Original Medicare Parts A and B have no annual out-of-pocket maximum. A Medigap plan or Medicare Advantage plan provides that protection. Medicare Advantage plans are required by law to have an annual out-of-pocket cap; Medigap plans like Plan G or Plan N can limit your exposure as well, depending on which plan you choose."
+    a: "No, and that's one of the most consequential things to understand. Original Medicare Parts A and B have no annual out-of-pocket maximum. A Medigap plan or Medicare Advantage plan provides that protection. Medicare Advantage plans are required by law to have an annual out-of-pocket cap; Medigap plans like Plan G or Plan N can limit your exposure as well, depending on which plan you choose. Plan G covers everything Plan F covers except the Part B deductible, and Plan K and Plan L have out-of-pocket limits of $8,000 and $4,000 in 2026."
   - q: "When is the best time to buy a Medigap plan?"
     a: "The six-month Medigap Open Enrollment Period that starts when you're 65 and enrolled in Part B is the best window, legally and financially. During that period, no insurer can refuse you or charge you more because of a pre-existing condition. Outside that window, in most states, you're subject to medical underwriting. There are some Special Enrollment Periods that offer similar protections, such as losing other coverage, but they're narrower. If you miss your initial enrollment window, talk to your State Health Insurance Assistance Program (SHIP) before assuming you can't get coverage."
 ---
@@ -48,7 +48,7 @@ Part B covers doctor visits, outpatient procedures, durable medical equipment (t
 
 You pay the Part B deductible once per year, then 20% of Medicare-approved costs for most services. That 20% sounds manageable until you do the math on a major outpatient procedure or a cancer treatment plan. There's no annual cap on what that 20% can add up to under Original Medicare alone.
 
-**Example:** Assume you have a knee replacement done as an outpatient procedure. If Medicare's approved cost is $25,000, your 20% share is $5,000, plus the Part B deductible. If you then need cardiac imaging later that year, you owe 20% of that too. With two or three significant medical events in a year, your Part B exposure can exceed $10,000 or more, all with no ceiling.
+**Example:** Consider someone who has a knee replacement done as an outpatient procedure. If Medicare's approved cost is $25,000, their 20% share is $5,000, plus the $283 Part B deductible. If you then need cardiac imaging later that year, you owe 20% of that too. With two or three significant medical events in a year, your Part B exposure can exceed $10,000 or more, all with no ceiling.
 
 Also worth knowing: if a provider doesn't accept Medicare assignment (meaning they don't agree to Medicare's approved rates), they can charge up to 15% above the Medicare-approved amount. That's called an "excess charge." Most providers do accept assignment, but not all, particularly some specialists and anesthesiologists.
 
@@ -85,7 +85,7 @@ There are two main paths, and they don't mix.
 
 **Medicare Advantage (Part C):** These are all-in-one plans from private insurers approved by Medicare. They cover everything Parts A and B cover, usually include Part D drug coverage, and often add dental, vision, and hearing benefits. The trade-off is that you typically work within a network of providers, and prior authorization requirements can slow down care. You can't have both a Medigap plan and Medicare Advantage simultaneously. That's not a gray area.
 
-A common mistake is assuming Medicare Advantage is always cheaper. The monthly premium may be low, but your actual costs depend on your copays, coinsurance, network restrictions, and how often you use care. Someone with chronic conditions who sees multiple specialists may fare better with a Medigap plan despite the higher premium.
+A common mistake is assuming Medicare Advantage is always cheaper. The monthly premium may be low, but your actual costs depend on your copays, coinsurance, network restrictions, and how often you use care, and in-network out-of-pocket costs can run as high as the $9,250 maximum in 2026. Someone with chronic conditions who sees multiple specialists may fare better with a Medigap plan despite the higher premium.
 
 ## Sources
 

@@ -5,7 +5,7 @@ slug: "glossary"
 description: "Every medicare term you keep running into, defined in plain English. 45 definitions, alphabetical, written for beginners."
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
-lastmod: 2026-07-16
+lastmod: 2026-11-26
 ---
 
 Every field has its jargon, and Medicare coverage and enrollment is worse than most. This glossary covers the 45 terms that come up again and again in our guides and in the questions readers send us. Definitions are short on purpose: enough to unblock you, with links to deeper guides throughout the site when you want the full story.
@@ -28,7 +28,7 @@ A person who is eligible for and enrolled in Medicare. As a beneficiary, you rec
 
 ### Catastrophic Coverage
 
-Extra protection in Part D plans that kicks in after you spend a certain amount on prescriptions. Once you reach this level, your copayments and coinsurance drop significantly.
+Extra protection in Part D plans that kicks in after you spend a certain amount on prescriptions. In 2026, once your out-of-pocket drug spending reaches $2,100, you pay nothing more for covered drugs for the rest of the year.
 
 ### Center for Medicare and Medicaid Services
 
@@ -44,7 +44,7 @@ A fixed amount you pay for a specific healthcare service or prescription. For in
 
 ### Coverage Gap
 
-A period in Part D prescription drug plans where you pay a larger share of drug costs after reaching an initial spending threshold. Many people call this the donut hole.
+A phase in Part D plans, known as the donut hole, where you used to pay a larger share of drug costs after reaching an initial spending threshold. It was eliminated beginning in 2025, when a $2,000 annual out-of-pocket cap took effect ($2,100 in 2026).
 
 ### Deductible
 
@@ -52,7 +52,7 @@ The amount you must pay out of your own pocket for covered services before Medic
 
 ### Donut Hole
 
-The coverage gap in Part D drug plans where you're responsible for a greater portion of prescription costs. The gap closes once your out of pocket spending reaches a certain limit.
+The former coverage gap in Part D drug plans, where you were responsible for a greater portion of prescription costs. It no longer exists: since 2025, an annual out-of-pocket cap ($2,100 in 2026) replaces it.
 
 ### Dually Eligible
 
@@ -68,11 +68,11 @@ A specific window of time when you can make changes to your Medicare coverage. M
 
 ### Extra Help
 
-A federal program that helps eligible people with low incomes pay for Part D prescription drug coverage. It covers premiums, deductibles, copayments, and coinsurance.
+A federal program that helps eligible people with low incomes pay for Part D prescription drug coverage. It lowers premiums and deductibles and limits drug copays to $5.10 for generics and $12.65 for brand-name drugs in 2026.
 
 ### General Enrollment Period
 
-The time from January 1 to March 31 each year when anyone can join Original Medicare or Part B. Enrollment outside this period may result in a permanent penalty.
+The time from January 1 to March 31 each year when people who missed their Initial Enrollment Period and don't qualify for a Special Enrollment Period can sign up for Part B. Coverage starts the month after you enroll, and a late enrollment penalty may apply.
 
 ### Grace Period
 
@@ -96,11 +96,11 @@ Specialized care focused on comfort rather than cure for people with terminal il
 
 ### Initial Enrollment Period
 
-The seven month window when you can first enroll in Medicare without facing late enrollment penalties. It includes your birth month plus three months before and after.
+The seven month window when you can first enroll in Medicare without facing late enrollment penalties. It includes the month you turn 65 plus three months before and three months after.
 
 ### Initial Coverage Limit
 
-The spending threshold in Part D after which you enter the coverage gap. You and your plan combine to cover prescription drug costs up to this amount.
+A former Part D spending threshold after which you entered the coverage gap. The coverage gap was eliminated in 2025 and replaced by an annual out-of-pocket cap ($2,100 in 2026).
 
 ### Inpatient
 

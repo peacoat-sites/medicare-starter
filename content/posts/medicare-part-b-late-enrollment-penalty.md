@@ -9,7 +9,7 @@ tags: ["medicare", "part", "late", "enrollment", "penalty"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-part-b-late-enrollment-penalty"
 affiliate_disclosure: true
 faqs:
@@ -20,10 +20,10 @@ faqs:
  - q: "Can my spouse's retiree insurance protect me from the penalty?"
    a: "No. Retiree health coverage, whether it's yours or your spouse's, does not count as qualifying employer coverage for penalty exemption purposes. Only active employer group health plan coverage tied to current employment qualifies."
  - q: "How do I officially enroll in Part B if I missed my Initial Enrollment Period?"
-   a: "You can enroll during the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting July 1. Or, if you're leaving qualifying job-based coverage, you have a Special Enrollment Period of 8 months to sign up without adding further delay to your penalty. Visit Medicare.gov or call 1-800-MEDICARE to start the process."
+   a: "You can enroll during the General Enrollment Period (GEP), which runs January 1 through March 31 each year, with coverage starting the first day of the month after you sign up. Or, if you're leaving qualifying job-based coverage, you have a Special Enrollment Period of 8 months to sign up without adding further delay to your penalty. Visit Medicare.gov or call 1-800-MEDICARE to start the process."
  - q: "Is there any income-related help available if the penalty makes Part B unaffordable?"
    a: "Yes. Medicare Savings Programs (MSPs), administered through your state Medicaid office, may help pay your Part B premium, including the penalty amount, if your income and assets fall within certain limits. It's worth checking regardless of whether you think you qualify. Many people are surprised to find they're eligible."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people assume the Medicare late enrollment penalty is a temporary slap on the wrist. Pay a little extra for a year, get back on track, and move on. This is one of the most expensive misunderstandings about Medicare. The penalty isn't temporary. It follows you for life.
@@ -34,7 +34,7 @@ Let me explain exactly what that means, why so many people get blindsided by it,
 
 Here's the basic mechanics. If you don't sign up for Medicare Part B (which covers doctor visits, outpatient care, and medical equipment) when you're first eligible, and you don't have qualifying coverage elsewhere, Social Security adds 10% to your Part B premium for every 12-month period you went without coverage.
 
-So if you were uninsured for two years past your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/), your premium goes up 20%. Three years? 30%. The penalty compounds based on how long you waited.
+So if you were uninsured for two years past your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/), your premium goes up 20%. Three years? 30%. The penalty grows the longer you wait.
 
 The numbers add up quickly over a retirement. The standard Part B premium changes each year, but let's say you're paying a penalty of 30% on top of whatever the base premium happens to be. You're going to pay that elevated amount every single month for the rest of your life. Over a 20-year retirement, a 30% penalty easily costs thousands of extra dollars out of pocket. Not because you got sick. Not because you used more benefits. Just because of timing.
 
@@ -66,7 +66,7 @@ Self-employed people who buy their own health insurance on the individual market
 
 People who retire before 65 and get covered through COBRA are in a genuinely tricky spot. They might coast on COBRA until it runs out, thinking they've been covered and are fine. But COBRA, as I mentioned, doesn't count as qualifying coverage for the Part B penalty exemption. If you're turning 65 while on COBRA and you don't enroll in Part B during your IEP, you're accumulating a penalty the whole time. AARP's Medicare resource center has a solid breakdown of exactly this scenario if you want to read through the details at your own pace.
 
-Then there's the veteran who uses VA care and figures he doesn't need Medicare. VA coverage is excellent for what it covers, but it's not Medicare, and it won't stop the penalty. If he eventually wants Medicare for care outside the VA system, he'll pay a higher premium for the rest of his life.
+Consider a veteran who uses VA care and figures he doesn't need Medicare. VA coverage is excellent for what it covers, but it's not Medicare, and it won't stop the penalty. If he eventually wants Medicare for care outside the VA system, he'll pay a higher premium for the rest of his life.
 
 ## How Social Security Calculates What You Owe
 

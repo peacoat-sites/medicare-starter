@@ -9,21 +9,21 @@ tags: ["medicare", "advantage", "medicare", "supplement", "total"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-advantage-vs-medicare-supplement-total-cost"
 affiliate_disclosure: true
 faqs:
  - q: "Which is cheaper overall, Medicare Advantage or Medigap?"
    a: "For healthy people who rarely use medical services, Medicare Advantage often costs less in total over the course of a year because the $0 or low premium offsets modest out-of-pocket costs. For people with significant health conditions or high service use, Medigap typically comes out cheaper once you add up all the cost-sharing on an Advantage plan. The honest answer is that it depends entirely on your individual health and usage."
  - q: "What is the out-of-pocket maximum on Medicare Advantage in 2026?"
-   a: "For 2026, the maximum out-of-pocket limit on Medicare Advantage plans for in-network services is set by CMS (Centers for Medicare and Medicaid Services) at $9,350, though individual plans can set a lower cap. Combined in-network and out-of-network maximums can be higher. This is the most you'd pay in a year before the plan covers 100% of covered services."
+   a: "For 2026, the maximum out-of-pocket limit on Medicare Advantage plans for in-network services is set by CMS (Centers for Medicare and Medicaid Services) at $9,250, though individual plans can set a lower cap. Combined in-network and out-of-network maximums can be higher, up to $13,900. This is the most you'd pay in a year before the plan covers 100% of covered services."
  - q: "Can I switch from Medicare Advantage to Medigap whenever I want?"
    a: "In most states, no. Outside of your initial enrollment window, Medigap insurers can use medical underwriting to deny coverage or charge higher premiums based on your health history. Some states (like New York and Connecticut) have guaranteed issue protections year-round, but most don't. This is why the decision you make at 65 carries more weight than most people realize."
  - q: "Does Medigap cover prescription drugs?"
    a: "No. Medigap plans don't include prescription drug coverage. If you have a Medigap policy, you need to enroll in a separate standalone Part D prescription drug plan to get drug coverage. Medicare Advantage plans typically include drug coverage (called MAPD plans), which is one reason the comparison between the two approaches involves looking at total premium costs across multiple plan types."
  - q: "Are Medicare Advantage extra benefits like dental and vision worth factoring into the cost comparison?"
    a: "Yes, with a caveat. The dental, vision, hearing, and over-the-counter benefits on some MA plans have genuine dollar value, but only if you actually use them. A $1,500 dental benefit that requires using specific in-network dentists who aren't near you, or that covers only cleanings and basic fillings, may be worth far less than the headline number suggests. Get specific about what the benefit actually covers before counting it in your comparison."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people shopping for Medicare coverage fixate on the monthly premium. That number shows up first, it's easy to compare, and a $0 premium Medicare Advantage plan looks like an obvious winner against a Medigap Plan G that might run $140 a month or more. But the premium is almost the worst number to focus on. Total annual cost is what actually matters, and those two plans might end up costing you more or less the same, or wildly different, depending entirely on how much healthcare you use.
@@ -35,22 +35,22 @@ Let me walk you through what I actually found when I dug into this comparison re
 | Scenario | Medicare Advantage | Medigap Plan G |
 | --- | --- | --- |
 | Monthly Premium | Often $0 | $100-$200 (varies by state/insurer) |
-| Part B Premium | Included | $202.90/month (separate) |
-| Annual Premium Cost | $0 | $1,200-$2,400 |
+| Part B Premium | $202.90/month (still required, paid separately) | $202.90/month (paid separately) |
+| Annual Premium Cost (excluding Part B) | $0 plan premium | $1,200-$2,400 |
 | Deductible (2026) | Varies by plan | $283 (Part B only) |
-| Out-of-Pocket Maximum (2026) | Up to $9,350 (in-network) | Essentially $0 after deductible |
+| Out-of-Pocket Maximum (2026) | Up to $9,250 (in-network) | Essentially $0 for covered services after the Part B deductible |
 | Copay Per Specialist Visit | Yes (varies) | $0 (after deductible) |
 | Hospital Coinsurance | 20% typical | $0 (after deductible) |
 | Network Restrictions | Yes | No (any Medicare-accepting provider) |
 | Dental/Vision/Hearing | Often included | Not covered |
 | Best For | Healthy, low healthcare use | Chronic conditions, frequent care |
-| Worst-Case Annual Cost | Up to $11,750+ | $1,200-$2,400 |
+| Worst-Case Annual Cost | Up to $9,250 in-network, plus premiums | $1,200-$2,400 in premiums, plus the $283 deductible |
 
 Medicare Advantage (MA) plans, sometimes called Medicare Part C, bundle your hospital coverage (Part A), medical coverage (Part B), and usually prescription drugs into a single plan run by a private insurer. Medicare Supplement plans, also called Medigap, work alongside Original Medicare and pay costs that Medicare doesn't cover, things like deductibles, copays, and coinsurance. They're completely different structures, which makes comparing them tricky.
 
-Right now, in 2026, many Medicare Advantage plans carry a $0 monthly premium, and some include dental, vision, and hearing benefits that Medigap doesn't touch. That's genuinely appealing. Meanwhile, a Medigap Plan G for a 65-year-old woman in a mid-sized city might run anywhere from $100 to $200 a month depending on the insurer and the state. Add the Part B premium (currently $202.90 a month for most people) and you're looking at a real monthly outlay that a $0 MA plan doesn't seem to require.
+Right now, in 2026, many Medicare Advantage plans carry a $0 monthly premium, and some include dental, vision, and hearing benefits that Medigap doesn't touch. That's genuinely appealing. Meanwhile, a Medigap Plan G for a 65-year-old in a mid-sized city might run anywhere from $100 to $200 a month depending on the insurer and the state. Add the Part B premium (currently $202.90 a month for most people) and you're looking at a larger monthly outlay, though keep in mind that Medicare Advantage enrollees pay the Part B premium too.
 
-But here's where the comparison gets complicated. Medicare Advantage plans have cost-sharing built in. That means copays every time you see a specialist, coinsurance when you're admitted to a hospital, and an [out-of-pocket maximum](/how-to-compare-medicare-plans-cost/) that can legally be as high as $9,350 for in-network services in 2026 (and higher still if you go out of network). Medigap Plan G, on the other hand, covers almost everything after the Part B deductible ($283 in 2026), meaning your exposure beyond that deductible is essentially zero once you've paid your monthly premiums.
+But here's where the comparison gets complicated. Medicare Advantage plans have cost-sharing built in. That means copays every time you see a specialist, coinsurance when you're admitted to a hospital, and an [out-of-pocket maximum](/how-to-compare-medicare-plans-cost/) that can legally be as high as $9,250 for in-network services in 2026 (and higher still if you go out of network). Medigap Plan G, on the other hand, covers almost everything after the Part B deductible ($283 in 2026), meaning your exposure beyond that deductible is essentially zero once you've paid your monthly premiums.
 
 So the real question isn't "which plan has the lower premium?" It's "what do I expect to spend in total this year, and what's the worst-case scenario I can afford to absorb?"
 
@@ -58,9 +58,9 @@ So the real question isn't "which plan has the lower premium?" It's "what do I e
 
 I'll be honest: for people with serious, ongoing health conditions, heart disease, diabetes requiring regular specialist visits, cancer, anything that means frequent hospitalizations or outpatient procedures, a Medigap plan almost always comes out ahead on total cost. The math isn't even close once you start adding up the per-visit copays and coinsurance on an MA plan.
 
-For example, consider a hip replacement scenario. On a Medicare Advantage plan, costs can include a $350 per-day hospital copay for days 1 through 5, plus 20% coinsurance on surgical facility fees, with an out-of-pocket total over $4,000 for a single procedure. On a Medigap Plan G, after the [Part B deductible](/medicare-deductible-2026/), you would owe essentially nothing beyond the monthly premiums already paid. At $150 a month in Medigap premiums, a year costs $1,800. The protection is clear.
+For example, consider a hip replacement scenario. On a Medicare Advantage plan, costs can include per-day hospital copays and coinsurance on surgical facility fees, which can add up to thousands of dollars for a single procedure, though never more than the plan's out-of-pocket maximum. On a Medigap Plan G, after the [Part B deductible](/medicare-deductible-2026/), you would owe essentially nothing beyond the monthly premiums already paid. At $150 a month in Medigap premiums, a year costs $1,800. The protection is clear.
 
-What surprised me when I looked harder at this is how much the annual out-of-pocket maximum on MA plans has drifted upward over the past few years. Plans with $3,400 maximums aren't gone, but the average is higher now, and many enrollees don't realize their maximum applies only to in-network costs.
+What surprised me when I looked harder at this is how much the annual out-of-pocket maximum on MA plans has drifted upward over the past few years. Plans with low maximums aren't gone, but many enrollees don't realize their maximum applies only to in-network costs.
 
 Medigap also gives you something that's almost impossible to put a dollar value on: freedom. You can see any doctor in the country who accepts Medicare. No network restrictions, no referral requirements for specialists, no prior authorization for most services. For anyone who travels frequently, winters in a different state, or lives in a rural area with limited specialists, that flexibility is a real financial consideration, not just a lifestyle preference. Getting stuck out-of-network on an MA plan in the middle of a health event can be genuinely expensive.
 

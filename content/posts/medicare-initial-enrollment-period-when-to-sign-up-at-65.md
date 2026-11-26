@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 Picture this: your 65th birthday is two months away, and a neighbor mentions offhandedly that you were supposed to sign up for Medicare *before* your birthday. Your stomach drops. You had no idea. You thought you'd handle it afterward, maybe wait until you actually needed it. Now you're not sure if you've missed something, if there are penalties, or whether your doctor visits next month will even be covered.
 
@@ -35,7 +35,7 @@ Missing the Initial Enrollment Period deadline is a common concern. The good new
 | --- | --- | --- |
 | Before birthday month | 3 months before - last day before birthday month | 1st of birthday month |
 | Birthday month | During the birthday month | 1st of following month |
-| After birthday month | 1-3 months after birthday | 1-3 months after enrollment |
+| After birthday month | 1-3 months after birthday | 1st of month after enrollment |
 
 The Initial Enrollment Period, or IEP, is your very first shot at signing up for Medicare. It's a seven-month window tied directly to your 65th birthday, and it's the foundation of everything else in Medicare enrollment. Get this right, and you start clean. Miss it without a qualifying reason, and you'll pay for it, literally, for years.
 
@@ -65,7 +65,7 @@ Here's where people get tripped up. You might be turning 65 and still working, s
 
 You don't have to enroll in Part B right away if you have qualifying coverage from current employment. This is a real exception with real rules.
 
-The key phrase is "current employment." Coverage from COBRA, retiree insurance, or the marketplace does not count. Only active employer-sponsored coverage, yours or a spouse's, qualifies.
+The key phrase is "current employment." Coverage from COBRA, retiree insurance, or the marketplace does not count, and your employer must have 20 or more employees for Medicare to be secondary. Only active employer-sponsored coverage, yours or a spouse's, qualifies.
 
 If you delay because of employer coverage, you'll get a [Special Enrollment Period](/medicare-special-enrollment-period/), or SEP, when that coverage ends. The SEP gives you eight months to enroll in Medicare Part B without penalty after your employer coverage ends or the employment ends, whichever comes first. You want to enroll before that eight months runs out.
 
@@ -79,11 +79,11 @@ Let me be direct about the stakes here.
 
 If you miss your IEP and don't qualify for a Special Enrollment Period, you'll face [late enrollment penalties](/medicare-late-enrollment-penalty/). For Part B, the penalty is 10% added to your premium for every 12-month period you were eligible but didn't enroll. That penalty isn't a one-time fee. It's added to your Part B premium permanently, for as long as you have Medicare.
 
-Get this: if you were uninsured or on non-qualifying coverage for three years before finally enrolling in Part B, your monthly premium gets a 30% surcharge. Forever. On a fixed income, that adds up to real money over a decade or two.
+Consider someone who was uninsured or on non-qualifying coverage for three years before finally enrolling in Part B: their monthly premium gets a 30% surcharge. Forever. On a fixed income, that adds up to real money over a decade or two.
 
 Part D has its own late penalty: 1% of the national base beneficiary premium multiplied by the number of months you went without creditable drug coverage. Again, it's permanent.
 
-There's no appeals process for most of these penalties, no "I didn't know" exception. AARP's Medicare resource center has excellent plain-English explanations of how these penalties compound over time, and it's worth reviewing before you make any decisions about delaying enrollment.
+There's no "I didn't know" exception for most of these penalties. AARP's Medicare resource center has plain-English explanations of how these penalties work, and it's worth reviewing before you make any decisions about delaying enrollment.
 
 ## Step-by-Step: How to Actually Sign Up for Medicare at 65
 
@@ -117,7 +117,7 @@ Contact your State Health Insurance Assistance Program, better known as SHIP. Th
 | Annual Enrollment Period (AEP) | Existing Medicare members | October 15 to December 7 each year | Change Part C or Part D plans |
 | Medicare Advantage OEP | Medicare Advantage enrollees | January 1 to March 31 each year | Switch or drop Part C |
 
-The General Enrollment Period is the safety net that catches people who missed their IEP. But it's a costly safety net: you'll likely face the late penalties described above, and if you miss your window you may have to wait until the next January to sign up.
+The General Enrollment Period is the safety net that catches people who missed their IEP. But it's a costly safety net: you'll likely face the late penalties described above, and you can only sign up between January 1 and March 31, so a missed IEP can mean waiting months for coverage.
 
 ---
 

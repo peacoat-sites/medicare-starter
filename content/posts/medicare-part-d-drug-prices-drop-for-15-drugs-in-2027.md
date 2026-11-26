@@ -1,6 +1,7 @@
 ---
 title: "Medicare Part D Drug Prices Drop for 15 Drugs in 2027"
 date: 2026-11-21T20:30:56.613074+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Medicare Part D Drug Prices Drop for 15 Drugs in 2027: Learn which medications are getting more affordable and how this impacts your prescription costs."
 image: "/img/heroes/27241051.jpg"
@@ -9,7 +10,7 @@ tags: ["medicare", "part", "drug", "prices", "drop"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-part-d-drug-prices-drop-for-15-drugs-in-2027"
 affiliate_disclosure: true
 ---
@@ -43,7 +44,7 @@ This means two people on the same drug, both enrolled in Medicare Part D, could 
 
 The good news about negotiated drug prices shares the stage with some less comfortable news. The average monthly standalone Part D premium is expected to jump from $34 in 2026 to roughly $51 in 2027, an increase of about 50%. That increase is tied in part to the expiration of a federal premium stabilization subsidy that had been holding premiums down. As Yahoo Finance reported in November 2026, this is one of the most significant Part D premium increases in recent years, and it catches many people off guard.
 
-The standard Part D deductible ceiling also rises, from $615 in 2026 to $700 in 2027. And the annual out-of-pocket cap, the most you'd pay for covered drugs in a year, moves up slightly from $2,100 to $2,400. That cap is still a meaningful protection; before 2024, there was no cap at all. But it's worth knowing the number has changed. If you're someone who hits the cap most years because of high-cost medications, $2,400 is your 2027 target to plan around.
+The standard Part D deductible ceiling also rises, from $615 in 2026 to $700 in 2027. And the annual out-of-pocket cap, the most you'd pay for covered drugs in a year, moves up from $2,100 to $2,400. That cap is still a meaningful protection; before 2025, there was no cap at all (it began at $2,000 in 2025). But it's worth knowing the number has changed. If you're someone who hits the cap most years because of high-cost medications, $2,400 is your 2027 target to plan around.
 
 | Cost Feature | 2026 | 2027 |
 |---|---|---|

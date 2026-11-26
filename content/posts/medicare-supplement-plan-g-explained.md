@@ -22,8 +22,8 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 Your neighbor just had a three-day hospital stay and paid almost nothing out of pocket. No surprise bills. No stressful phone calls with the insurance company afterward. She shrugs and says, "I have Plan G."
 
@@ -45,7 +45,7 @@ Plan G is nearly complete coverage. Here's what it picks up after Medicare pays 
 
 - **Part A hospital coinsurance and hospital costs** up to an additional 365 days after Medicare benefits are exhausted
 - **Part A hospice care coinsurance or copayments**
-- **Part A deductible** (currently over $1,600 per benefit period in 2024)
+- **Part A deductible** ($1,736 per benefit period in 2026)
 - **Part B coinsurance or copayment**, that 20 percent mentioned above
 - **Part B excess charges**, amounts a non-participating provider can charge above Medicare's approved amount
 - **Skilled nursing facility care coinsurance**
@@ -98,9 +98,9 @@ There's no single answer. Premiums depend on several factors.
 
 **Gender.** In most states, women pay slightly lower premiums than men.
 
-For a 65-year-old non-smoker in 2024, ballpark ranges generally run anywhere from around $100 to $200 or more per month. Don't treat that as a guarantee. Use [Medicare.gov](https://www.medicare.gov/) to compare actual plans and premiums in your area. It's free, it's official, and the data is current.
+Premiums for a 65-year-old non-smoker vary widely by location and carrier, so don't rely on any single estimate. Use [Medicare.gov](https://www.medicare.gov/) to compare actual plans and premiums in your area. It's free, it's official, and the data is current.
 
-There's also a High-Deductible Plan G option. You pay a higher deductible (currently $2,800 in 2024) before Plan G benefits kick in. The trade-off is a substantially lower monthly premium. This works well for relatively healthy people who want catastrophic protection without paying for coverage they rarely use.
+There's also a High-Deductible Plan G option. You pay a higher annual deductible before Plan G benefits kick in. The trade-off is a substantially lower monthly premium. This works well for relatively healthy people who want catastrophic protection without paying for coverage they rarely use.
 
 ## When to Enroll: Timing Is Everything
 

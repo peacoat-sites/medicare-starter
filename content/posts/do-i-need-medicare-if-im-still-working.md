@@ -1,7 +1,7 @@
 ---
 title: "Working Past 65? When Medicare Is Actually Required"
 date: 2026-07-08T16:10:15.520240+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Find out if you can skip Medicare while still working, how employer coverage interacts with it, and when enrolling could save you money."
 image: "/img/heroes/3931597.jpg"
@@ -10,14 +10,14 @@ tags: ["need", "medicare", "still", "working"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "do-i-need-medicare-if-im-still-working"
 affiliate_disclosure: true
 faqs:
   - q: "Can I delay Medicare Part B if my spouse has insurance through their employer?"
     a: "Yes, but only if your spouse is an active employee and their employer has 20 or more employees. In that case, you can delay Part B without penalty while you're covered under their plan. Once their employment ends, your 8-month Special Enrollment Period begins. Retiree health coverage through a former employer doesn't qualify for this exception."
   - q: "What happens if I miss my Medicare Special Enrollment Period?"
-    a: "You'll generally have to wait for Medicare's General Enrollment Period, which runs January through March each year, with coverage starting July 1. You'll also owe the late enrollment penalty on Part B going forward. If you have an unusual circumstance (like a coverage dispute or a plan that misled you), you can apply for an Equitable Relief exception, but those aren't guaranteed."
+    a: "You'll generally have to wait for Medicare's General Enrollment Period, which runs January through March each year, with coverage starting the first day of the month after you sign up. You'll also owe the late enrollment penalty on Part B going forward. If you have an unusual circumstance (like a coverage dispute or a plan that misled you), you can apply for an Equitable Relief exception, but those aren't guaranteed."
   - q: "Does working part-time affect my Medicare enrollment requirements?"
     a: "Part-time employment generally doesn't protect you from Medicare enrollment rules. What matters is whether you have employer-sponsored insurance that qualifies as primary coverage, not whether you're working full or part-time. A part-time job with no health benefits offers no protection from the late enrollment penalty."
   - q: "If my employer plan is better than Medicare, do I still need to enroll?"
@@ -54,13 +54,13 @@ Beyond that scenario, sign up for Part A at 65. It's free, it layers onto your e
 
 ## What Part B Will Actually Cost You
 
-Part B currently has a standard monthly premium of around $202.90 (as of July 2026, though this shifts annually based on income). Higher earners pay more through what's called IRMAA, the Income-Related Monthly Adjustment Amount. If your modified adjusted gross income exceeded about $109,000 as an individual the year before last, your premium is higher.
+Part B has a standard monthly premium of $202.90 in 2026 ($209.40 in 2027), and higher earners pay more. Higher earners pay more through what's called IRMAA, the Income-Related Monthly Adjustment Amount. If your modified adjusted gross income from two years earlier was above $109,000 as a single filer ($218,000 joint), your 2026 premium is higher.
 
 Here's a realistic comparison of how the math shakes out depending on your situation:
 
 | Situation | Part A | Part B | HSA Contributions | Penalty Risk |
 |---|---|---|---|---|
-| Large employer (20+), strong group plan | Enroll | Can delay | Still allowed if no Medicare | None if you enroll within 8 months of leaving work |
+| Large employer (20+), strong group plan | Enroll | Can delay | Not allowed once enrolled in any part of Medicare | None if you enroll within 8 months of leaving work |
 | Large employer (20+), HSA strategy | Delay both | Delay | Fully allowed | None while still employed |
 | Small employer (under 20), any group plan | Enroll | Enroll immediately | Not allowed once enrolled | Potential claim denials + late penalty if you wait |
 | Self-employed with no other coverage | Enroll | Enroll | Depends on plan type | Late penalty guaranteed if you skip |
@@ -73,19 +73,19 @@ That last row trips people up constantly. COBRA coverage after you leave a job d
 Speaking of which, let me walk through a few scenarios with real outcomes so the stakes are obvious.
 
 **Scenario 1: Retired to COBRA, delayed Part B**
-Margaret, 65, left her job at a 500-employee company and chose COBRA. She assumed COBRA extended her Special Enrollment Period. It doesn't. She delayed Part B for 18 months. → She owed a permanent 10% penalty on her Part B premium, roughly an extra $18-22/month for the rest of her life. Over 20 years, that's $4,300+ in unnecessary costs.
+Consider a 65-year-old who leaves a job at a 500-employee company and chooses COBRA. She assumes COBRA extends her Special Enrollment Period. It doesn't. She delays Part B for 18 months. → She owes a permanent 10% penalty on her Part B premium, roughly an extra $20/month for the rest of her life. Over 20 years, that's $4,800 in unnecessary costs.
 
 **Scenario 2: Small employer, skipped Medicare**
-David, 66, worked for a 15-person accounting firm and had group health insurance. He skipped Part B because his employer plan "seemed fine." → After a knee surgery, his group plan denied $9,800 in claims, citing Medicare as primary payer. He hadn't enrolled. His only option was to enroll in Medicare immediately, pay the penalty, and absorb the denied claims.
+Consider a 66-year-old who works for a 15-person accounting firm and has group health insurance. He skips Part B because his employer plan "seems fine." → After a knee surgery, his group plan denies $9,800 in claims, citing Medicare as primary payer. He hasn't enrolled. His only option is to enroll in Medicare immediately, pay the penalty, and absorb the denied claims.
 
 **Scenario 3: Large employer, HSA strategy, clean exit**
-Carol, 64, works for a hospital system with 3,000 employees. She maxes her HSA each year. She delays both Part A and Part B, keeps contributing to the HSA. At 67, she retires. → She enrolls in Medicare within her 8-month Special Enrollment Period, zero penalty, zero denied claims, and she banked three extra years of pre-tax HSA contributions.
+Consider a 64-year-old who works for a hospital system with 3,000 employees. She maxes her HSA each year. She delays both Part A and Part B, keeps contributing to the HSA. At 67, she retires. → She enrolls in Medicare within her 8-month Special Enrollment Period, zero penalty, zero denied claims, and she banks three extra years of pre-tax HSA contributions.
 
-Carol's situation is the ideal case. But it only works if her employer plan is actually primary (large employer) and she doesn't miss that 8-month window.
+That is the ideal case. But it only works if the employer plan is actually primary (large employer) and the 8-month window isn't missed.
 
 ## The Part D Question
 
-Part D is prescription drug coverage. The same late enrollment penalty logic applies: 1% of the national base beneficiary premium for every month you were eligible but not enrolled. It compounds monthly, not just annually.
+Part D is prescription drug coverage. The same late enrollment penalty logic applies: 1% of the national base beneficiary premium for every month you were eligible but not enrolled. It is simple multiplication, not compounding, and it is added to your monthly premium for as long as you have Part D.
 
 You're protected from the Part D penalty as long as you have "creditable" drug coverage, meaning your employer plan's drug benefit is at least as good as Medicare's standard. Employers are required to send you a notice every fall telling you whether your coverage is creditable. Keep that notice. Seriously, file it somewhere you'll find it. If you ever need to prove you had creditable coverage to avoid a penalty, that letter is your evidence.
 

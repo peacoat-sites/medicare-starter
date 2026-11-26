@@ -9,12 +9,12 @@ tags: ["when", "enroll", "medicare"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "when-to-enroll-in-medicare"
 affiliate_disclosure: true
 faqs:
  - q: "What happens if I miss my Initial Enrollment Period?"
-   a: "You can enroll during the General Enrollment Period from January 1 through March 31 each year, with coverage starting July 1. If you missed enrollment because you had qualifying employer coverage, you likely qualify for a Special Enrollment Period instead and can avoid the late penalty."
+   a: "You can enroll during the General Enrollment Period from January 1 through March 31 each year, with coverage starting the first day of the month after you sign up. If you missed enrollment because you had qualifying employer coverage, you likely qualify for a Special Enrollment Period instead and can avoid the late penalty."
  - q: "Can I delay Medicare if I'm still working at 65?"
    a: "Yes, if you have coverage through an active employer with 20 or more employees (your own or your spouse's). When that coverage ends, you have an 8-month Special Enrollment Period to sign up for Part B without penalty. Retiree coverage and COBRA do not count as qualifying coverage for this purpose."
  - q: "Does my spouse's employer coverage protect me from Medicare late penalties?"
@@ -23,7 +23,7 @@ faqs:
    a: "You're not legally required to enroll, but if you have no qualifying coverage and skip it, you'll face permanent premium penalties when you do sign up. If you're still working with good employer coverage, delaying makes sense. If you're not, enrolling on time is almost always the right call."
  - q: "How do I actually sign up for Medicare?"
    a: "You can enroll online at SSA.gov, call Social Security at 1-800-772-1213, or visit your local Social Security office. If you're already receiving Social Security benefits before 65, you'll typically be enrolled in Parts A and B automatically. Check your mail around your 65th birthday regardless."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people get their Medicare timing wrong before they even know the rules exist. They assume it works like regular insurance, that you sign up when you need it, or when it feels right, or when someone at the doctor's office mentions it. That assumption costs some of them hundreds of dollars a month in permanent premium penalties. For the rest of their lives.
@@ -34,13 +34,13 @@ Let me fix that right now.
 
 | Enrollment Period | Duration | Coverage Start | Part A | Part B | Part D |
 | --- | --- | --- | --- | --- | --- |
-| Initial Enrollment Period (IEP) | 7 months (3 before + birth month + 3 after) | Birth month or month before, if enrolled in first 4 months | No penalty | No penalty | No penalty |
-| General Enrollment Period (GEP) | Jan 1 - Mar 31 annually | July 1 | No penalty | 10% per 12-month period | 1% per month |
+| Initial Enrollment Period (IEP) | 7 months (3 before + birth month + 3 after) | Birth month or month before, if enrolled in first 3 months; later enrollment delays the start | No penalty | No penalty | No penalty |
+| General Enrollment Period (GEP) | Jan 1 - Mar 31 annually | First of the month after you sign up | No penalty | 10% per 12-month period | 1% per month |
 | Special Enrollment Period (SEP) | 8 months after employer coverage ends | Varies | No penalty | No penalty if employer coverage qualified | No penalty if creditable |
 
-Your **[Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/)** is a 7-month window: the 3 months before the month you turn 65, your birthday month itself, and the 3 months after. That's your first and cleanest opportunity. Sign up during those first 4 months and your coverage starts either the month before your birthday or on your birthday month itself, depending on exactly when you enroll. Wait until month 5, 6, or 7, and coverage gets pushed back. Not the end of the world, but worth knowing.
+Your **[Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/)** is a 7-month window: the 3 months before the month you turn 65, your birthday month itself, and the 3 months after. That's your first and cleanest opportunity. Sign up during the 3 months before your birthday month and your coverage starts on the first day of your birthday month. Wait until your birthday month or the 3 months after, and coverage gets pushed back. Not the end of the world, but worth knowing.
 
-Miss the IEP entirely? Then you're looking at the **General Enrollment Period (GEP)**: January 1 through March 31 each year, with coverage starting July 1. And if you went without coverage in the interim, you'll carry late enrollment penalties on top of that delay.
+Miss the IEP entirely? Then you're looking at the **General Enrollment Period (GEP)**: January 1 through March 31 each year, with coverage starting the first day of the month after you sign up. And if you went without coverage in the interim, you'll carry late enrollment penalties on top of that delay.
 
 Here's the part most articles gloss over: these two windows apply differently to Part A (hospital insurance) and Part B (medical insurance). Most people get Part A premium-free because they or their spouse worked and paid Medicare taxes for at least 10 years (40 quarters). If that's you, sign up for Part A at 65 no matter what, even if you're still working. It costs you nothing and there's almost no reason not to.
 
@@ -60,9 +60,9 @@ One thing I'd push back on: a lot of seniors assume bigger employers always mean
 
 [Part B late enrollment penalty](/medicare-part-b-late-enrollment-penalty/): 10% added to your monthly premium for every 12-month period you were eligible but didn't sign up. And unlike most financial penalties, this one doesn't expire. It rides with you for as long as you have Part B.
 
-Currently, the standard Part B premium is in the range of $202.90 a month for most people. A two-year delay without a qualifying excuse adds 20% to that permanently. That's real money compounding over a 20-year retirement.
+Currently, the standard Part B premium is $202.90 a month for most people. A two-year delay without a qualifying excuse adds 20% to that permanently. That's real money adding up over a 20-year retirement.
 
-Part D (prescription drug coverage) has its own penalty: 1% of the national base beneficiary premium for every month you went without creditable drug coverage. It's smaller in dollar terms but equally permanent. If you don't have drug coverage from an employer plan, a VA benefit, or another qualifying source, get a Part D plan when you first enroll, even if you take no prescriptions. A bare-bones plan can cost under $15 a month. The penalty for skipping it entirely will eventually cost more.
+Part D (prescription drug coverage) has its own penalty: 1% of the national base beneficiary premium for every month you went without creditable drug coverage. It's smaller in dollar terms but equally permanent. If you don't have drug coverage from an employer plan, a VA benefit, or another qualifying source, get a Part D plan when you first enroll, even if you take no prescriptions. A low-premium plan can keep the monthly cost small. The penalty for skipping it entirely will eventually cost more.
 
 ## What "Creditable Coverage" Actually Means
 

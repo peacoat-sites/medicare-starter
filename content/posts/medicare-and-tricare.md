@@ -10,8 +10,8 @@ slug: "medicare-and-tricare"
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 You've earned it. After years of military service, you have access to one of the most comprehensive health coverage combinations in America: Medicare paired with TRICARE. The problem? Figuring out how they actually work together feels like navigating a bureaucratic minefield. Which one pays first? Do you even need both? What happens when you hit 65? These questions cost military retirees real money every year, unexpected bills, coverage gaps, missed savings, and they're completely avoidable once you know the rules.
 
@@ -62,7 +62,7 @@ Think of it like this: Medicare pays first for most services. TRICARE for Life c
 2. **TRICARE for Life pays second**, handling Medicare's cost-sharing (deductibles, co-pays, co-insurance)
 3. **You pay very little**, often $0, depending on the service
 
-A $1,000 procedure? Medicare pays $800. TRICARE for Life covers the remaining $200. Your bill: $0. This wraparound is one of the most valuable benefits available to military retirees, period.
+Consider a $1,000 procedure. Medicare pays $800. TRICARE for Life covers the remaining $200. Your bill: $0. This wraparound is one of the most valuable benefits available to military retirees, period.
 
 ### The Critical Importance of Enrolling in Medicare Part B
 
@@ -159,7 +159,7 @@ Check whether your medications are covered under TRICARE pharmacy benefits. In m
 
 ### Step 7: Review Annually During Open Enrollment
 
-Medicare's Annual Open Enrollment runs October 15 through December 7 each year. Review your coverage, confirm providers still accept Medicare and TRICARE, and assess whether health changes warrant adjustments.
+Medicare's Annual Enrollment Period runs October 15 through December 7 each year, with changes taking effect January 1. Review your coverage, confirm providers still accept Medicare and TRICARE, and assess whether health changes warrant adjustments.
 
 ---
 
@@ -236,7 +236,7 @@ Technically, yes. Practically, it's complicated. TRICARE for Life is designed to
 
 ### Question: What's the cost of TRICARE for Life?
 
-No additional premium beyond your Medicare Part B payment ($174.70/month standard in 2024). TRICARE for Life itself is free. You'll have minimal out-of-pocket costs after that.
+No additional premium beyond your Medicare Part B payment ($202.90/month standard in 2026). TRICARE for Life itself is free. You'll have minimal out-of-pocket costs after that.
 
 ### Question: Can I keep TRICARE Prime after I turn 65?
 

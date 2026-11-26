@@ -1,7 +1,7 @@
 ---
 title: "How Much Does Medicare Cost Per Month in 2027?"
 date: 2026-07-26T15:15:03.081257+00:00
-lastmod: 2026-11-24T18:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Medicare costs per month in 2027: Part B is $209.40, Part A is free for most people, plus Part D and Medigap. See 2026 vs. 2027 amounts, IRMAA and ways to pay less."
 image: "/img/heroes/8123820.jpg"
@@ -10,7 +10,7 @@ tags: ["Medicare", "costs", "premiums", "2027"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "how-much-does-medicare-cost-per-month"
 affiliate_disclosure: true
 faqs:
@@ -32,7 +32,7 @@ You might be wondering: "Okay, but what will I actually pay?" The honest answer:
 
 The good news is that most people pay less than they expect for the basics. The part that catches people off guard is everything layered on top.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most people pay $202.90/month for Medicare Part B in 2026 (higher earners pay more).</li><li style="margin:5px 0">Part A (hospital) is free for most people who worked 40+ quarters; others pay up to $565/month.</li><li style="margin:5px 0">Medicare Advantage plans can have $0 premiums but often come with copays and network restrictions.</li><li style="margin:5px 0">Medigap (supplement) plans typically add $100-$300+/month but can dramatically reduce out-of-pocket costs.</li><li style="margin:5px 0">Your total monthly Medicare cost in 2026 can range from roughly $0 to $600+ depending on your situation.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Most people pay $202.90/month for Medicare Part B in 2026 (higher earners pay more).</li><li style="margin:5px 0">Part A (hospital) is free for most people who worked 40+ quarters; others pay $311 or $565/month in 2026.</li><li style="margin:5px 0">Medicare Advantage plans can have $0 premiums but often come with copays and network restrictions.</li><li style="margin:5px 0">Medigap (supplement) plans typically add $100-$300+/month but can dramatically reduce out-of-pocket costs.</li><li style="margin:5px 0">Your total monthly Medicare cost in 2026 can range from roughly $0 to $600+ depending on your situation.</li></ul></div>
 
 ## What changes in 2027
 
@@ -97,9 +97,9 @@ Medicare Advantage (Part C) is run by private insurers. Many plans advertise $0 
 
 Here's a worked example that illustrates the difference:
 
-Margaret, 68, from Phoenix, has the standard Part B income bracket. She chose a $0-premium [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) and pays $202.90/month in Part B premiums. She has a knee replacement and faces a $3,400 out-of-pocket maximum under her plan. Total that year: roughly $2,434.80 in premiums + $3,400 in cost-sharing = $5,834.80.
+Consider a 68-year-old in Phoenix with the standard Part B income bracket. She chooses a $0-premium [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) and pays $202.90/month in Part B premiums. She has a knee replacement and faces a $3,400 out-of-pocket maximum under her plan. Total that year: roughly $2,434.80 in premiums + $3,400 in cost-sharing = $5,834.80.
 
-Her neighbor Eleanor chose Original Medicare + Medigap Plan G at $195/month + a Part D plan at $42/month. Eleanor also had the knee replacement. She paid the $283 Part B deductible, then Plan G covered everything else. Total: ($202.90 + $195 + $42) x 12 + $283 = $5,561.80. Similar total cost, but Eleanor had zero surprise bills and could see any surgeon she wanted.
+Her neighbor chooses Original Medicare + Medigap Plan G at $195/month + a Part D plan at $42/month. The neighbor also has the knee replacement, pays the $283 Part B deductible, and then Plan G covers everything else. Total: ($202.90 + $195 + $42) x 12 + $283 = $5,561.80. Similar total cost, but the neighbor has zero surprise bills and can see any surgeon who accepts Medicare.
 
 That's the trade-off in concrete terms.
 
@@ -109,13 +109,13 @@ Medigap plans are sold by private insurers, but they're standardized by the fede
 
 In 2026, a 65-year-old woman in good health in a mid-sized city might pay around $120 to $165 per month for Plan G. A 72-year-old man in a high-cost state like New York might pay $280 or more. Prices vary by age, sex, tobacco use, and location. The open enrollment window right when you turn 65 and enroll in Part B is the only time insurers must accept you regardless of health. Miss that window and you could be denied coverage or charged significantly more based on your medical history.
 
-Plan G is what I usually point people toward these days. Plan F (the old favorite) was eliminated for new enrollees in 2020, and Plan G covers everything F did except the Part B deductible, which is only $283 a year. The premium difference between F and G is almost always larger than $283. Do the math and G usually wins.
+Plan G is what I usually point people toward these days. Plan F (the old favorite) can't be bought by anyone who became eligible for Medicare on or after January 1, 2020, and Plan G covers everything F did except the Part B deductible, which is only $283 a year. The premium difference between F and G is almost always larger than $283. Do the math and G usually wins.
 
 ## Low-Income Help: Programs That Can Reduce Your Costs to Nearly Zero
 
 If your income and assets are below certain limits, you may qualify for programs that dramatically reduce or eliminate your Medicare costs. Extra Help (also called the Low Income Subsidy, or LIS) can lower your Part D drug costs significantly, sometimes to a few dollars per prescription. Medicaid, for those who qualify, can cover Part B premiums and cost-sharing entirely.
 
-A worked example: Robert, 70, single, lives in Ohio on $1,400/month Social Security. He qualifies for Extra Help on Part D and a Medicare Savings Program that pays his $202.90 Part B premium. His effective monthly Medicare cost: close to $0. A lot of people in this situation don't know these programs exist until someone tells them. Please look them up at Medicare.gov or call 1-800-MEDICARE.
+A worked example: consider a 70-year-old single person in Ohio living on $1,400/month Social Security. This person qualifies for Extra Help on Part D and a Medicare Savings Program that pays the $202.90 Part B premium. The effective monthly Medicare cost: close to $0. A lot of people in this situation don't know these programs exist until someone tells them. Please look them up at Medicare.gov or call 1-800-MEDICARE.
 
 ## Sources
 

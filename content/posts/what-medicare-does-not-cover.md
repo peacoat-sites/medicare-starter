@@ -22,8 +22,8 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 You just turned 65, signed up for Medicare, and felt pretty confident about your coverage. Then your dentist mentions you need a crown. Your eye doctor recommends new glasses. Your doctor suggests three months of physical therapy at a skilled nursing facility. You pull out your Medicare card, expecting it to handle most of this. It won't.
 
@@ -38,7 +38,7 @@ This is the moment millions of seniors discover that Medicare, despite being gen
 | Hearing aids and fitting exams | Not covered | Cost: $1,000-$6,000+ per pair |
 | Custodial care (nursing homes, assisted living) | Not covered | Medicaid covers for qualified individuals; Medicare covers only short-term skilled nursing |
 | Skilled nursing facility (SNF) days 1-20 | Fully covered | Requires 3-day hospital stay, admission within 30 days, need for skilled care |
-| Skilled nursing facility (SNF) days 21-100 | Covered with daily copay | Copay amount adjusts annually |
+| Skilled nursing facility (SNF) days 21-100 | Covered with daily copay | $217/day in 2026 |
 | Skilled nursing facility (SNF) day 101+ | Not covered | Full cost is patient's responsibility |
 | Over-the-counter medications and supplements | Not covered | Even if doctor-recommended |
 | Prescription drugs (at home) | Not covered by Parts A/B | Covered by Medicare Part D |
@@ -49,11 +49,11 @@ This is the moment millions of seniors discover that Medicare, despite being gen
 
 These are the coverage gaps that catch people most off guard, because they involve health needs almost every senior will face.
 
-**Dental care** is almost entirely excluded from Original Medicare (Part A and Part B). Medicare won't pay for routine cleanings, fillings, extractions, crowns, bridges, dentures, or implants. There's one exception: dental work directly tied to a covered medical procedure, like tooth extraction before certain jaw surgeries. A single dental implant runs over $3,000. Full dentures cost $1,500 or more per plate. This gap matters.
+**Dental care** is almost entirely excluded from Original Medicare (Part A and Part B). Medicare won't pay for routine cleanings, fillings, extractions, crowns, bridges, dentures, or implants. There's one exception: dental work directly tied to a covered medical procedure, like tooth extraction before certain jaw surgeries. Implants and dentures can run into the thousands of dollars. This gap matters.
 
 **Vision care** works similarly. Medicare doesn't cover routine eye exams for glasses or contacts, and won't pay for the glasses or contacts themselves. One important exception: if you have a medical eye condition like cataracts, glaucoma, or macular degeneration, Medicare Part B covers the treatment. After cataract surgery, you get one pair of standard eyeglasses or contacts covered. But your annual exam and new prescription? You're paying out of pocket.
 
-**Hearing aids and exams** represent another significant gap. Medicare does not cover hearing aids or fitting exams for them. Hearing aids cost anywhere from $1,000 to $6,000 or more per pair, and they typically need replacement every few years. Routine hearing exams aren't covered unless your doctor orders one as part of diagnosing a medical condition.
+**Hearing aids and exams** represent another significant gap. Medicare does not cover hearing aids or fitting exams for them. Hearing aids can cost thousands of dollars per pair, and they typically need replacement every few years. Routine hearing exams aren't covered unless your doctor orders one as part of diagnosing a medical condition.
 
 **Long-term care** is where the stakes climb highest. Medicare covers short-term skilled nursing facility care under specific conditions (we'll get to those), but it does not cover custodial care. Custodial care means help with daily activities like bathing, dressing, eating, and moving around, exactly what most people in nursing homes or assisted living facilities need. Medicaid covers long-term custodial care for people who qualify financially, but Medicare simply doesn't. According to the Centers for Medicare & Medicaid Services at [CMS.gov](https://www.cms.gov/), this distinction between skilled care and custodial care is one of the most misunderstood aspects of the entire program.
 
@@ -63,13 +63,13 @@ Most people think Medicare covers nursing home stays broadly. It doesn't.
 
 Medicare Part A will help pay for care in a skilled nursing facility only if all three conditions are met: you had a qualifying hospital stay of at least three consecutive days (not counting the discharge day), you're admitted to the SNF within 30 days of that hospital stay, and you need skilled care like physical therapy, occupational therapy, or IV medication management.
 
-Even then, coverage has strict limits. Days 1 through 20 are fully covered (no copay). Days 21 through 100 require a significant daily copay that adjusts annually (check [Medicare.gov](https://www.medicare.gov/) for the current figure). After day 100, Medicare pays nothing. The full cost becomes yours.
+Even then, coverage has strict limits. Days 1 through 20 are fully covered (no copay). Days 21 through 100 require a daily copay of $217 in 2026 (it adjusts annually; check [Medicare.gov](https://www.medicare.gov/) for the current figure). After day 100, Medicare pays nothing. The full cost becomes yours.
 
 And here's what surprises people most: the moment you stop needing "skilled" care and only need help with daily activities, Medicare stops paying, even if you're still in the facility.
 
 ## Prescription Drugs, Over-the-Counter Items, and Routine Care
 
-Original Medicare doesn't cover most prescription drugs taken at home. That's what [Medicare Part D](/medicare-part-d-explained/) is for. Skip enrolling in Part D when you're first eligible and don't have other creditable drug coverage (like an employer plan), and you'll face a late enrollment penalty that follows you for life on Medicare. This mistake can result in penalties that significantly increase the cost of coverage over time.
+Original Medicare doesn't cover most prescription drugs taken at home. That's what [Medicare Part D](/medicare-part-d-explained/) is for. Skip enrolling in Part D when you're first eligible and don't have other creditable drug coverage (like an employer plan), and and you go 63 or more days without Part D or creditable drug coverage, you'll face a late enrollment penalty of 1% of the base beneficiary premium ($38.99 in 2026) for each full uncovered month, added to your premium for as long as you have Part D.
 
 Over-the-counter medications, vitamins, and supplements aren't covered at all, even if your doctor recommends them.
 
@@ -85,7 +85,7 @@ Chiropractic care is partially covered. Medicare Part B pays for manual spinal m
 
 Travel abroad and this matters a lot. Original Medicare generally does not cover health care you receive outside the United States. Very narrow exceptions exist for emergencies near the Canadian or Mexican border, or on a ship within U.S. territorial waters. A medical emergency in Italy or Japan? Medicare won't cover it.
 
-Some Medicare Supplement Insurance plans (Medigap) offer a foreign travel emergency benefit. If you travel frequently, this is worth comparing carefully when shopping for a Medigap plan. You can review options through [Medicare.gov's plan finder tool](https://www.medicare.gov/find-a-plan/questions/home.aspx).
+Some Medicare Supplement Insurance plans (Medigap) offer a foreign travel emergency benefit, up to a plan lifetime maximum. If you travel frequently, this is worth comparing carefully when shopping for a Medigap plan. You can review options through [Medicare.gov's plan finder tool](https://www.medicare.gov/find-a-plan/questions/home.aspx).
 
 Cosmetic surgery isn't covered, with one exception: surgery needed to repair an injury or correct a body part malformed from disease. Purely elective procedures like facelifts, liposuction, or hair transplants are entirely out of pocket.
 
@@ -120,7 +120,7 @@ If long-term custodial care is your biggest worry, long-term care insurance (or 
 
 ---
 
-Medicare is remarkable. After 20 years in this field, I still see it change people's lives for the better. But it was never designed to be your only coverage, and the gaps it leaves are real. The seniors who fare best financially are the ones who spend an hour or two before age 65 understanding exactly what they're signing up for, then make thoughtful choices about how to fill the holes. You've already taken the first step just by reading this far. Take the next one and talk to a SHIP counselor or a licensed Medicare specialist before your next enrollment period closes.
+Medicare is remarkable. Medicare still changes many people's lives for the better. But it was never designed to be your only coverage, and the gaps it leaves are real. The seniors who fare best financially are the ones who spend an hour or two before age 65 understanding exactly what they're signing up for, then make thoughtful choices about how to fill the holes. You've already taken the first step just by reading this far. Take the next one and talk to a SHIP counselor or a licensed Medicare specialist before your next enrollment period closes.
 
 ---
 

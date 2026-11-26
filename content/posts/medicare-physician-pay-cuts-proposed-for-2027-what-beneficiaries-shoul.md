@@ -9,7 +9,7 @@ tags: ["medicare", "physician", "cuts", "proposed", "2027:"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-physician-pay-cuts-proposed-for-2027-what-beneficiaries-shoul"
 affiliate_disclosure: true
 ---

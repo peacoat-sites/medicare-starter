@@ -1,6 +1,7 @@
 ---
 title: "CMS Proposed Rule Would Cut Hospital Outpatient Costs for Seniors"
 date: 2026-07-12T15:08:56.728591+00:00
+lastmod: 2026-11-26
 draft: false
 description: "CMS proposed rule aims to reduce hospital outpatient costs for seniors, potentially lowering out-of-pocket expenses and improving access to affordable healthcar"
 image: "/img/heroes/236380.jpg"
@@ -9,7 +10,7 @@ tags: ["proposed", "rule", "would", "hospital", "outpatient"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "cms-proposed-rule-would-cut-hospital-outpatient-costs-for-seniors"
 affiliate_disclosure: true
 ---
@@ -26,7 +27,7 @@ On the surface, the rule offers a modest 2.4% net payment rate increase for hosp
 
 This is where the dollar amounts get large fast. The 340B Drug Pricing Program allows certain hospitals serving low-income and rural communities to buy outpatient drugs at a discount. Right now, Medicare reimburses those hospitals at ASP+6%, meaning the average sales price of a drug plus 6%. CMS is proposing to drop that to ASP minus 33.4%.
 
-That's a reduction of nearly 40 percentage points in reimbursement for covered drugs.
+That's a reduction of about 39 percentage points in reimbursement for covered drugs (from ASP+6% to ASP-33.4%).
 
 CMS estimates the change would save Medicare $4.85 billion in 2027 alone and save patients $1.15 billion in cost-sharing. Cost-sharing is the portion you pay, so that beneficiary savings figure matters. But hospital advocacy groups argue that safety-net hospitals, the ones most likely to serve Medicaid patients and rural communities, will absorb brutal financial hits that could affect staffing and services. What surprised me was how little public attention this piece of the rule is getting compared to the imaging changes, given that the 340B cut is nearly 20 times larger in dollar terms.
 

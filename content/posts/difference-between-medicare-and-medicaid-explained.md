@@ -22,10 +22,10 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
-Forty-three million Americans are enrolled in Medicare. Over ninety million are on Medicaid. And a remarkable number of people in both programs aren't entirely sure which one they're on, or what the difference actually is.
+Tens of millions of Americans are enrolled in Medicare, and tens of millions more are on Medicaid. And a remarkable number of people in both programs aren't entirely sure which one they're on, or what the difference actually is.
 
 I don't say that to embarrass anyone. I say it because these two programs were designed by the federal government, named almost identically, and explained in documents that read like legal briefs. Of course people get them confused.
 
@@ -35,7 +35,7 @@ If you're here because you or someone you love is approaching 65, facing a serio
   <div class="vm-head">Medicare vs Medicaid: Side-by-Side Comparison</div>
   <div class="vm-body">
     <p class="vm-intro">This table compares the two programs across the criteria that matter most when determining which applies to you or a family member.</p>
-    <table><thead><tr><th>Criteria</th><th>Medicare</th><th>Medicaid</th></tr></thead><tbody><tr><td>Primary eligibility</td><td>Age 65+ OR under 65 with qualifying disability/ESRD</td><td>Income below state threshold (often 138% of federal poverty level in expansion states)</td></tr><tr><td>Income limits</td><td>None-billionaires and minimum-wage retirees both qualify</td><td>Yes-varies by state; typically $1,500-$2,000/month for single adult</td></tr><tr><td>Asset limits</td><td>None</td><td>Some states: $2,000-$130,000+ depending on state and program type</td></tr><tr><td>Who runs it</td><td>Federal government (CMS) with uniform national rules</td><td>State governments following federal guidelines-50 different versions</td></tr><tr><td>Monthly premiums</td><td>Part A: $0 if work history qualifies; Part B: ~$203/month (income-adjusted)</td><td>$0 or nominal copays in most states</td></tr><tr><td>Long-term nursing home care</td><td>Limited: only 100 days post-hospitalization in skilled nursing facility</td><td>Yes-covers extended nursing home stays (largest payer of nursing home care in U.S.)</td></tr><tr><td>Prescription drugs</td><td>Part D plan required (separate premium)</td><td>Included in coverage</td></tr><tr><td>Dental/vision/hearing</td><td>Generally NOT covered under Original Medicare</td><td>Often covered (varies by state)</td></tr><tr><td>Can you have both?</td><td colspan="2">Yes-"dual eligible" individuals qualify for both; Medicaid typically pays Medicare premiums and fills coverage gaps</td></tr></tbody></table>
+    <table><thead><tr><th>Criteria</th><th>Medicare</th><th>Medicaid</th></tr></thead><tbody><tr><td>Primary eligibility</td><td>Age 65+ OR under 65 with qualifying disability/ESRD</td><td>Income below state threshold (often 138% of federal poverty level in expansion states)</td></tr><tr><td>Income limits</td><td>None-billionaires and minimum-wage retirees both qualify</td><td>Yes-varies by state and by eligibility group</td></tr><tr><td>Asset limits</td><td>None</td><td>Some states and program types apply asset limits that vary widely</td></tr><tr><td>Who runs it</td><td>Federal government (CMS) with uniform national rules</td><td>State governments following federal guidelines-50 different versions</td></tr><tr><td>Monthly premiums</td><td>Part A: $0 if work history qualifies; Part B: $202.90/month in 2026 (income-adjusted)</td><td>$0 or nominal copays in most states</td></tr><tr><td>Long-term nursing home care</td><td>Limited: only 100 days post-hospitalization in skilled nursing facility</td><td>Yes-covers extended nursing home stays for those who qualify</td></tr><tr><td>Prescription drugs</td><td>Covered through a Part D plan (separate premium) or a Medicare Advantage plan with drug coverage</td><td>Typically covered, though people with both Medicare and Medicaid get drug coverage through Medicare Part D</td></tr><tr><td>Dental/vision/hearing</td><td>Generally NOT covered under Original Medicare</td><td>Often covered (varies by state)</td></tr><tr><td>Can you have both?</td><td colspan="2">Yes-"dual eligible" individuals qualify for both; Medicaid typically pays Medicare premiums and fills coverage gaps</td></tr></tbody></table>
     <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
   </div>
 </div>
@@ -74,7 +74,7 @@ One thing to understand: because Medicaid is partly funded by states, it goes by
 
 ## The overlap: "dual eligibles"
 
-About 12 million Americans are enrolled in both Medicare and Medicaid at the same time. They're called dual eligibles, and they tend to be among the most vulnerable people in the country: low-income seniors, people who are elderly and have disabilities, people in long-term care facilities.
+Millions of Americans are enrolled in both Medicare and Medicaid at the same time. They're called dual eligibles, and they tend to be among the most vulnerable people in the country: low-income seniors, people who are elderly and have disabilities, people in long-term care facilities.
 
 When someone has both, Medicaid typically acts as a "wrap-around" that covers Medicare's cost-sharing. Medicare pays first, and Medicaid picks up some or all of the remaining costs, like deductibles and copays. Some dual eligibles also qualify for programs that pay their Medicare Part B premium entirely, which at $202.90 a month is not nothing.
 
@@ -84,7 +84,7 @@ If you think you or a family member might qualify for both, this is genuinely wo
 
 More people than you'd think.
 
-Long-term care is the big reason. The average cost of a semi-private room in a nursing home in the United States was around $7,900 per month in 2023. Very few people can sustain that for long. Most private health insurance doesn't cover it. Long-term care insurance can help but it's expensive and comes with its own complications. At some point, many middle-class families find themselves looking at Medicaid as a realistic and necessary option, not a last resort for the destitute.
+Long-term care is the big reason. A semi-private room in a nursing home costs thousands of dollars per month. Very few people can sustain that for long. Most private health insurance doesn't cover it. Long-term care insurance can help but it's expensive and comes with its own complications. At some point, many middle-class families find themselves looking at Medicaid as a realistic and necessary option, not a last resort for the destitute.
 
 There's also the question of your adult children potentially caring for you at home. Some states have Medicaid waiver programs that cover home and community-based care, and in some cases even compensate family caregivers. It's complicated, it varies by state, and it's not guaranteed, but it exists and many families don't know to ask.
 

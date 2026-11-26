@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 New York has some of the most generous Medicare rules in the country, and most people living here never take advantage of them. I've sat across the table from hundreds of seniors in this state who were overpaying by hundreds of dollars a month, sometimes more, simply because nobody told them what New York does differently. That changes today.
 
@@ -33,7 +33,7 @@ Let me be direct: Medicare itself is a federal program, the same basic structure
 
 Medicare has two core parts. Part A covers hospital stays, skilled nursing facility care, hospice, and some home health services. Most people don't pay a premium for Part A if they (or their spouse) worked and paid Medicare taxes for at least 10 years, which is 40 quarters. Part B covers doctor visits, outpatient care, preventive services, and medical equipment. In 2026, the standard Part B premium is $202.90 per month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount).
 
-These two parts together still leave significant gaps. There's no cap on out-of-pocket costs under Original Medicare alone. The Part A deductible in 2024 is $1,632 per hospital stay (not per year, per stay). Part B has a $240 annual deductible and then covers 80% of approved costs, leaving you responsible for the other 20% with no ceiling. For someone dealing with a serious illness, that 20% can spiral into tens of thousands of dollars fast.
+These two parts together still leave significant gaps. There's no cap on out-of-pocket costs under Original Medicare alone. The Part A deductible in 2026 is $1,736 per benefit period (not per year), and a benefit period can span more than one hospital stay. Part B has a $283 annual deductible and then covers 80% of approved costs, leaving you responsible for the other 20% with no ceiling. For someone dealing with a serious illness, that 20% can spiral into tens of thousands of dollars fast.
 
 This is why most New Yorkers need to choose something beyond Original Medicare: either a Medicare Supplement plan (also called Medigap) or a Medicare Advantage plan. And here's where New York's rules start working in your favor in ways that genuinely surprise people.
 
@@ -41,14 +41,14 @@ This is why most New Yorkers need to choose something beyond Original Medicare: 
 
 | Plan Type | Covers Part B Deductible | Covers Part B Excess Charges | Typical Monthly Cost in NY | Availability |
 | --- | --- | --- | --- | --- |
-| Plan C | Yes | Yes | Varies | Original enrollees only (before Jan 1, 2020) |
-| Plan F | Yes | Yes | Varies | Original enrollees only (before Jan 1, 2020) |
-| Plan G | No | Yes | $150-$300 | All new enrollees |
+| Plan C | Yes | No | Varies | Only if first eligible for Medicare before Jan 1, 2020 |
+| Plan F | Yes | Yes | Varies | Only if first eligible for Medicare before Jan 1, 2020 |
+| Plan G | No | Yes | $150-$300 | Available to all eligible enrollees |
 | Plan N | No | No | $100-$200 | All new enrollees |
 
 Here's what most people don't realize: in most states, if you miss your initial Medigap open enrollment window (the 6-month period starting when you're 65 and enrolled in Part B), insurers can charge you more or deny you coverage entirely based on your health history. New York doesn't allow that.
 
-New York is one of a tiny handful of states with guaranteed issue and community rating for Medigap plans year-round. Insurers in New York cannot turn you down for a Medigap policy because of pre-existing conditions, and they cannot charge you more because you're sick. They also can't charge you more simply because you're older, because of community rating. A 72-year-old and a 65-year-old pay the same rate for the same plan from the same insurer. That's remarkable, and it's the law here.
+New York is one of a tiny handful of states with guaranteed issue and community rating for Medigap plans year-round. Insurers in New York cannot turn you down for a Medigap policy because of pre-existing conditions, and they cannot charge you more because you're sick. Community rating also means they can't charge you more simply because you're older. A 72-year-old and a 65-year-old pay the same rate for the same plan from the same insurer. That's remarkable, and it's the law here.
 
 The practical consequence is significant. If you've been on Medicare Advantage and want to switch to Original Medicare plus a Medigap plan, you can do that in New York at any time of year. In other states, that switch could leave you uninsurable or facing sky-high premiums if you have conditions like diabetes or heart disease. In New York, the insurer has to take you.
 
@@ -66,7 +66,7 @@ That sounds great. For some people, especially those who are generally healthy, 
 
 Medicare Advantage plans use provider networks. HMO plans (Health Maintenance Organizations) require you to use in-network doctors and get referrals. PPO plans (Preferred Provider Organizations) give you more flexibility but still cost more when you go out of network. If you have a specialist you've been seeing for years and that doctor leaves the plan's network, you're either losing your doctor or paying more. This happens more than the TV commercials suggest.
 
-Advantage plans also use prior authorization more heavily than Original Medicare. The plan can require approval before you get certain procedures, specialist visits, or equipment. A 2022 report from the HHS Office of Inspector General found that prior authorization denials for services that met Medicare coverage rules were a significant problem across Advantage plans nationally. This isn't unique to New York, but it's a reality worth knowing before you sign up.
+Advantage plans also use prior authorization more heavily than Original Medicare. The plan can require approval before you get certain procedures, specialist visits, or equipment. Prior authorization denials for services that met Medicare coverage rules have been a documented problem across Advantage plans nationally. This isn't unique to New York, but it's a reality worth knowing before you sign up.
 
 If you're comparing Advantage plans, check each plan's Star Rating at [Medicare.gov](https://www.medicare.gov/plan-compare/), which is Medicare's quality score on a 1 to 5 scale. Aim for 4 stars or higher.
 
@@ -78,7 +78,7 @@ The single biggest mistake I see people make with Part D is choosing the cheapes
 
 Use Medicare's drug plan finder at Medicare.gov to enter your exact medications, dosages, and preferred pharmacy. It will calculate your total estimated annual drug costs across every plan available to you. This takes about 15 minutes and could save you $1,000 a year or more.
 
-New York also has its own Elderly Pharmaceutical Insurance Coverage program, called EPIC. It's a state program for New Yorkers 65 and older with income below certain thresholds (in 2024, roughly $75,000 for a single person and $100,000 for a married couple). EPIC can wrap around your Part D plan to help with premiums and copays. You can call them at 1-800-332-3742 or visit the New York State Department of Health website.
+New York also has its own Elderly Pharmaceutical Insurance Coverage program, called EPIC. It's a state program for New Yorkers 65 and older with income below certain thresholds that the state updates over time, so confirm the current limits with EPIC. EPIC can wrap around your Part D plan to help with premiums and copays. You can call them at 1-800-332-3742 or visit the New York State Department of Health website.
 
 ## Help Paying for Medicare in New York
 
@@ -98,7 +98,7 @@ If you're just starting Medicare in New York, the single most useful thing you c
 
 ## Sources & References
 
-- [Medicare.gov, What Medicare covers](https://www.medicare.gov/what-medicare-covers), supports Part A/B coverage details and 2024 costs
+- [Medicare.gov, What Medicare covers](https://www.medicare.gov/what-medicare-covers), supports Part A/B coverage details
 - [Medicare.gov, Costs for Medicare drug coverage](https://www.medicare.gov/basics/costs/medicare-costs), supports deductibles, premiums, IRMAA information
 
 *Photo: [Abhishek Navlakha](https://www.pexels.com/@navlakha) via Pexels*

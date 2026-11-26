@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 You're standing in the pharmacy checkout line, prescription in hand, and you suddenly wonder whether you picked the right Medicare supplement plan. Your neighbor swears by her Plan G. Your brother-in-law says Plan N saves him a bundle every month. And you have absolutely no idea who's right for your situation. That confusion is completely normal, and it's exactly why Plan N deserves a close, honest look.
 
@@ -43,7 +43,7 @@ So what does Plan N cover? Here's the core package:
 - **Foreign travel emergency care** (at 80%, after a small deductible)
 - **The first three pints of blood**
 
-What Plan N doesn't cover is just as important. It does not pay the Part B deductible, which in 2026 is $283 per year. It does not cover Part B excess charges. And it does not cover prescription drugs. You'll need a separate Part D plan for medications.
+What Plan N doesn't cover is just as important. It does not pay the Part B deductible, which in 2026 is $283 per year ($292 in 2027). It does not cover Part B excess charges. And it does not cover prescription drugs. You'll need a separate Part D plan for medications.
 
 ## How Plan N Compares to Plans G and F
 
@@ -59,7 +59,7 @@ What Plan N doesn't cover is just as important. It does not pay the Part B deduc
 
 This is the comparison question I hear most often, and for good reason. Plans F, G, and N are the three most popular Medigap options, and understanding the differences makes choosing much easier.
 
-**Plan F** is the most comprehensive coverage available, but it's only open to people who became eligible for Medicare before January 1, 2020. If you're newly eligible, you can skip Plan F entirely.
+**Plan F** is the most comprehensive coverage available, but it can't be bought by people who became eligible for Medicare on or after January 1, 2020. People eligible before then can still buy it. If you're newly eligible, you can skip Plan F entirely.
 
 That leaves most people choosing between [Plan G and Plan N](/medigap-plan-g-vs-plan-n-comparison/).
 
@@ -89,7 +89,7 @@ Plan G covers those excess charges. Plan N does not.
 
 Here's the practical question to ask yourself: do your current doctors and specialists accept Medicare as full payment? If you're not sure, check Medicare.gov's physician finder tool, or simply call your doctor's billing office and ask directly. If everyone you see is a participating provider, the excess charge gap between Plan G and Plan N may never affect you.
 
-If every provider you use accepts assignment, as it's called in Medicare language, you may want to avoid Plan G. If that's your situation, you're likely paying for a benefit in Plan G that you'll never use.
+If every provider you use accepts assignment, as it's called in Medicare language, you may want to consider Plan N over Plan G. If that's your situation, you're likely paying for a benefit in Plan G that you'll never use.
 
 ## What Plan N Typically Costs and Who Sells It
 

@@ -1,7 +1,7 @@
 ---
 title: "Medigap Coverage Denial: When Insurers Can Say No"
 date: 2026-07-13T16:42:02.439973+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn when Medigap insurers can deny coverage, what protections exist, and your rights if rejected for supplemental insurance."
 image: "/img/heroes/8439662.jpg"
@@ -10,7 +10,7 @@ tags: ["denied", "medigap", "coverage"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "can-you-be-denied-medigap-coverage"
 affiliate_disclosure: true
 faqs:
@@ -38,7 +38,7 @@ Here's what I tell people at every single intake meeting: there is one window in
 
 Your OEP starts the first month you're both 65 or older AND enrolled in Medicare Part B (the part that covers outpatient care and doctor visits). It lasts exactly six months. During that window, you have what's called "guaranteed issue" rights, which means the insurer must sell you a policy at their standard rate, no health questions required.
 
-I'll be honest: the first time I sat down with a client who had missed this window by three weeks, I felt sick for her. Three weeks. She'd been so focused on managing her husband's health crisis that she'd let her own enrollment window close without realizing it. After that, every insurer she called wanted a full medical history review. Two turned her down outright because of her rheumatoid arthritis diagnosis. That stuck with me.
+Consider a woman who missed this window by three weeks because she was focused on managing her husband's health crisis. After that, every insurer she called wanted a full medical history review, and two turned her down outright because of her rheumatoid arthritis diagnosis.
 
 Once the OEP closes, insurers can use medical underwriting, which means they review your health history and can legally:
 
@@ -87,7 +87,7 @@ Your Medicare Advantage (Part C) plan is leaving your area or stopping coverage,
 
 In these situations, you typically have 63 days from the triggering event to apply for Medigap with guaranteed issue rights. Miss that window, and you're back to underwriting.
 
-A worked example: Margaret from Ohio enrolled in a Medicare Advantage HMO at 65 because the premiums were low. At 71, the plan pulled out of her county. She had 63 days to switch to Original Medicare and apply for Medigap with guaranteed issue rights. She applied on day 47, was approved for Plan G with no health questions, and her premium came in at $187/month despite having had a stent placed two years earlier. Under underwriting, she would almost certainly have faced denial or a much higher rate.
+A hypothetical example: Consider a woman in Ohio who enrolled in a Medicare Advantage HMO at 65 because the premiums were low. At 71, the plan pulled out of her county. She had 63 days to switch to Original Medicare and apply for Medigap with guaranteed issue rights. If she applied on day 47, she would be approved for Plan G with no health questions, and her premium could come in at $187/month despite having had a stent placed two years earlier. Under underwriting, she would almost certainly have faced denial or a much higher rate.
 
 ## What Happens If You Get Denied
 
@@ -99,7 +99,7 @@ Second, look at Medicare Advantage as an alternative. MA plans are required to a
 
 Third, if you're in a state with stronger protections, revisit that landscape every year. Birthday rule states give you an annual shot.
 
-A second worked example: Robert, 69, applied for Medigap Plan G in Georgia after his retirement group coverage ended. He had COPD and had been hospitalized twice in the prior three years. Two insurers denied him outright. A third offered him a policy with a six-month pre-existing condition exclusion and a premium $94/month higher than the standard rate. He accepted and documented his prior group coverage to reduce the exclusion period to zero. Total premium: $289/month.
+A second hypothetical example: Consider a 69-year-old man in Georgia who applies for Medigap Plan G after his retirement group coverage ends. He has COPD and has been hospitalized twice in the prior three years. Two insurers deny him outright. A third offers him a policy with a six-month pre-existing condition exclusion and a premium $94/month higher than the standard rate. He accepts and documents his prior group coverage to reduce the exclusion period to zero. Total premium: $289/month.
 
 Not ideal. But better than being uninsured for major cost-sharing.
 

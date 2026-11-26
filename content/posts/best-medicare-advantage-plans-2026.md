@@ -22,14 +22,14 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
-It's October. Your kitchen table is buried in Medicare mailers. One promises $0 premiums. Another advertises free dental and vision. A third is dangling a monthly grocery allowance in your face. Sounds almost too good to be true.
+It's fall. Your kitchen table is buried in Medicare mailers. One promises $0 premiums. Another advertises free dental and vision. A third is dangling a monthly grocery allowance in your face. Sounds almost too good to be true.
 
 Sometimes it is.
 
-Medicare Advantage, also called Medicare Part C, now covers over 33 million Americans as of 2024. It's undeniably popular. But popular and right for you are two completely different things. Picking the best Medicare Advantage plan for 2026 requires more than grabbing the prettiest brochure or the one with the longest benefits list.
+Medicare Advantage, also called Medicare Part C, now covers tens of millions of Americans. It's undeniably popular. But popular and right for you are two completely different things. Picking the best Medicare Advantage plan for 2026 requires more than grabbing the prettiest brochure or the one with the longest benefits list.
 
 Let me walk you through what actually matters.
 
@@ -39,7 +39,7 @@ Let me walk you through what actually matters.
  <div class="vm-head">Medicare Advantage Plan Comparison Checklist</div>
  <div class="vm-body">
  <p class="vm-intro">Use this checklist to systematically evaluate any Medicare Advantage plan against your actual healthcare needs before enrolling.</p>
- <table><caption>Essential Evaluation Criteria with Decision Thresholds</caption><thead><tr><th>Evaluation Factor</th><th>What to Check</th><th>Green Flag</th><th>Red Flag</th></tr></thead><tbody><tr><td>Doctor Network Coverage</td><td>Verify your current doctors are in-network using the plan's online provider directory</td><td>All primary specialists in-network; multiple nearby alternatives</td><td>Must switch PCP or key specialist; narrow network in your county</td></tr><tr><td>Prescription Drug Formulary</td><td>Look up each current medication on the plan's drug list; note tier and restrictions</td><td>All medications on Tier 1-2; no prior authorization required</td><td>Key medications on Tier 4-5 or require step therapy; drugs excluded entirely</td></tr><tr><td>Maximum Out-of-Pocket (MOOP)</td><td>Compare the annual in-network MOOP limit across plans you're considering</td><td>MOOP under $4,000 for in-network services</td><td>MOOP above $7,500; separate/higher limit for out-of-network care</td></tr><tr><td>Specialist Access Rules</td><td>Determine if referrals are required and which specialists need prior authorization</td><td>No referral required for most specialists (PPO-style access)</td><td>Referral required for all specialists; extensive prior authorization list</td></tr><tr><td>Hospital Network Quality</td><td>Check if preferred local hospitals are in-network; verify CMS star ratings</td><td>Nearest hospital in-network with 4+ star CMS rating</td><td>Closest in-network hospital more than 30 minutes away; low ratings</td></tr><tr><td>Extra Benefits Value</td><td>Calculate realistic annual use of dental, vision, hearing, and fitness benefits</td><td>Benefits match services you actually use annually</td><td>Flashy benefits you won't use masking higher cost-sharing elsewhere</td></tr><tr><td>Plan Star Rating</td><td>Review the plan's overall CMS star rating (1-5 scale, updated annually)</td><td>4+ stars overall; 4+ stars for drug plan if applicable</td><td>Below 3 stars; declining rating trend over past 2 years</td></tr></tbody></table>
+ <table><caption>Essential Evaluation Criteria with Decision Thresholds</caption><thead><tr><th>Evaluation Factor</th><th>What to Check</th><th>Green Flag</th><th>Red Flag</th></tr></thead><tbody><tr><td>Doctor Network Coverage</td><td>Verify your current doctors are in-network using the plan's online provider directory</td><td>All primary specialists in-network; multiple nearby alternatives</td><td>Must switch PCP or key specialist; narrow network in your county</td></tr><tr><td>Prescription Drug Formulary</td><td>Look up each current medication on the plan's drug list; note tier and restrictions</td><td>All medications on Tier 1-2; no prior authorization required</td><td>Key medications on Tier 4-5 or require step therapy; drugs excluded entirely</td></tr><tr><td>Maximum Out-of-Pocket (MOOP)</td><td>Compare the annual in-network MOOP limit across plans you're considering (the 2026 federal maximum is $9,250)</td><td>MOOP well below the $9,250 federal maximum for in-network services</td><td>MOOP at or near $9,250; separate/higher limit for out-of-network care</td></tr><tr><td>Specialist Access Rules</td><td>Determine if referrals are required and which specialists need prior authorization</td><td>No referral required for most specialists (PPO-style access)</td><td>Referral required for all specialists; extensive prior authorization list</td></tr><tr><td>Hospital Network Quality</td><td>Check if preferred local hospitals are in-network; verify CMS star ratings</td><td>Nearest hospital in-network with 4+ star CMS rating</td><td>Closest in-network hospital more than 30 minutes away; low ratings</td></tr><tr><td>Extra Benefits Value</td><td>Calculate realistic annual use of dental, vision, hearing, and fitness benefits</td><td>Benefits match services you actually use annually</td><td>Flashy benefits you won't use masking higher cost-sharing elsewhere</td></tr><tr><td>Plan Star Rating</td><td>Review the plan's overall CMS star rating (1-5 scale, updated annually)</td><td>4+ stars overall; 4+ stars for drug plan if applicable</td><td>Below 3 stars; declining rating trend over past 2 years</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -84,7 +84,7 @@ Most people compare headline premiums and call it done. That's a mistake.
 
 **Step 3: Run your medications through the drug search.** The Plan Finder calculates your estimated annual drug costs under each plan. This number varies dramatically between plans, sometimes by thousands of dollars. Most people ignore it because they fixate on premiums.
 
-**Step 4: Compare the Maximum Out-of-Pocket (MOOP).** This is the annual ceiling on what you'll spend for covered services. CMS caps how high MOOP can go each year (it's hovered around $8,000-$9,000 for in-network only plans recently). Lower MOOP is better, but look at it alongside premiums and other cost-sharing.
+**Step 4: Compare the Maximum Out-of-Pocket (MOOP).** This is the annual ceiling on what you'll spend for covered services. CMS caps how high MOOP can go each year. The in-network limit is $9,250 in 2026 ($9,350 in 2025), and many plans set lower limits. Lower MOOP is better, but look at it alongside premiums and other cost-sharing.
 
 **Step 5: Check the star rating.** Go with 4-star plans whenever possible. The Medicare Plan Finder shows these ratings right there.
 
@@ -126,7 +126,7 @@ The truth is neither approach wins across the board. Healthy people in solid net
 
 ---
 
-The 2026 Annual Enrollment Period arrives fast, and what you choose during that window shapes your health and finances for the entire year. Take time with this. Use Medicare.gov. Call the plans you're considering. Ask for help from a licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP), which offers free, unbiased counseling to Medicare members. A little careful work now prevents a lot of headaches later.
+The Annual Enrollment Period runs October 15 to December 7 each year, and what you choose during that window shapes your health and finances for the entire following year. Take time with this. Use Medicare.gov. Call the plans you're considering. Ask for help from a licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP), which offers free, unbiased counseling to Medicare members. A little careful work now prevents a lot of headaches later.
 
 ---
 

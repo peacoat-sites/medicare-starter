@@ -26,10 +26,10 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 lastmod: 2026-11-26
 ---
-Medicare's Open Enrollment Period runs every year from October 15 through December 7. Imagine you get a letter in the fall saying your drug plan is changing next year and a medication you take will cost much more. Can you do anything about it? Usually yes, but only if you act before December 7th. That window is [Medicare's Open Enrollment Period](/when-is-medicare-annual-open-enrollment-period-2026/), and it's genuinely one of the most powerful tools you have as a Medicare beneficiary. Miss it, and you're stuck with a plan that doesn't serve you for a full year. Catch it at the right time, and you might save hundreds, sometimes thousands, of dollars.
+Medicare's Open Enrollment Period runs every year from October 15 through December 7. Suppose you get a letter in the fall saying your drug plan is changing next year and a medication you take will cost much more. Can you do anything about it? Usually yes, but only if you act before December 7th. That window is [Medicare's Open Enrollment Period](/when-is-medicare-annual-open-enrollment-period-2026/), and it's genuinely one of the most powerful tools you have as a Medicare beneficiary. Miss it, and you're stuck with a plan that doesn't serve you for a full year. Catch it at the right time, and you might save hundreds, sometimes thousands, of dollars.
 
 ## What the Medicare Open Enrollment Period Actually Is
 
@@ -54,7 +54,7 @@ What you cannot do during AEP: change your Medicare Supplement Insurance (also c
 
 Reviewing your Medicare plan every year can sound like unnecessary work for something that might not change. But plans often do change, so a yearly check is worth the time.
 
-Every fall, Medicare Advantage and Part D plans send out something called the Annual Notice of Change, sometimes called the ANOC. It arrives by September 30, so you should have it before open enrollment begins. Read it. Actually read it, not just set it on the counter with the intention of getting to it later.
+Every fall, Medicare Advantage and Part D plans send out something called the Annual Notice of Change, sometimes called the ANOC. Plans must send it by September 30, so you should have it before open enrollment begins. Read it. Actually read it, not just set it on the counter with the intention of getting to it later.
 
 Plans adjust their premiums, deductibles, copays, and covered drug lists year over year. A medication that cost you $10 per month this year might move to a higher tier next year, bumping your cost to $50 or more. A specialist you've been seeing might drop out of your plan's network. These aren't small details. They're the things that determine whether you can afford your care.
 

@@ -3,6 +3,7 @@ title: "Medicare Enrollment Date Calculator: Find Your Enrollment Window"
 hide_title: true
 slug: "medicare-enrollment-dates"
 date: 2026-06-10
+lastmod: 2026-11-26
 author: "Robert Williams"
 author_slug: "robert-williams"
 categories: ["Medicare Enrollment"]
@@ -14,7 +15,7 @@ Missing your Medicare enrollment window is one of the most expensive mistakes a 
 
 ## Your Initial Enrollment Period (IEP)
 
-Every person turning 65 has a 7-month Initial Enrollment Period to sign up for Medicare. This window opens three months before the month you turn 65, includes your birthday month, and extends three months after. Enrolling during those first three months, before your birthday month, gives you the earliest possible coverage start date: the first day of your birthday month itself.
+Every person turning 65 has a 7-month Initial Enrollment Period to sign up for Medicare. This window opens three months before the month you turn 65, includes your birthday month, and extends three months after. Enrolling during those first three months, before your birthday month, gives you the earliest possible coverage start date: the first day of your birthday month itself (or the first day of the prior month if your birthday falls on the 1st).
 
 If you wait until your birthday month or the three months after, coverage is delayed by one to three months from your sign-up date. That gap can leave you without coverage for procedures or prescriptions you may need.
 
@@ -22,7 +23,7 @@ If you wait until your birthday month or the three months after, coverage is del
 
 Many people approaching 65 are still covered by an employer's group health plan, either their own or a spouse's. If that employer has 20 or more employees, you can delay Medicare without penalty as long as the group coverage remains active. When that coverage ends (whether you retire, your spouse retires, or the employer changes plans), an 8-month Special Enrollment Period (SEP) opens immediately.
 
-The critical mistake people make: waiting until COBRA runs out to sign up for Medicare. COBRA does NOT count as employer-sponsored insurance for purposes of the SEP. If you lose group coverage and then take COBRA, your 8-month SEP clock started when the group coverage ended, not when COBRA ends.
+The critical mistake people make: waiting until COBRA runs out to sign up for Medicare. COBRA does NOT count as employer-sponsored insurance for purposes of the SEP. If you lose group coverage and then take COBRA, your 8-month SEP clock started when the group coverage ended, not when COBRA ends, so you may face a gap and a late-enrollment penalty.
 
 Use the calculator below to find your specific enrollment dates and understand whether the SEP applies to your situation.
 
@@ -30,7 +31,7 @@ Use the calculator below to find your specific enrollment dates and understand w
 
 ## Part D Enrollment and Penalties
 
-Medicare Part D (prescription drug coverage) follows similar rules. If you don't enroll in Part D when first eligible and go without creditable drug coverage for 63 or more consecutive days, you will owe a late-enrollment penalty when you eventually join. The penalty is 1% of the national base beneficiary premium for each month you were without coverage, also permanent.
+Medicare Part D (prescription drug coverage) follows similar rules. If you don't enroll in Part D when first eligible and go without creditable drug coverage for 63 or more consecutive days, you will owe a late-enrollment penalty when you eventually join. The penalty is 1% of the national base beneficiary premium ($38.99 in 2026) for each full month you were without coverage, and it is added to your monthly premium for as long as you have Part D.
 
 Creditable coverage includes employer drug plans, TRICARE, VA coverage, and some retiree health plans. Ask your insurer for a notice of creditable coverage each year to document your status.
 

@@ -1,7 +1,7 @@
 ---
 title: "Medicare Plan Review Checklist: 7 Key Steps"
 date: 2026-07-15T16:40:33.037347+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Use this Medicare plan review checklist to compare coverage options, costs, and benefits during open enrollment season."
 image: "/img/heroes/8123888.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "plan", "review", "checklist"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-plan-review-checklist"
 affiliate_disclosure: true
 faqs:
@@ -50,9 +50,9 @@ Here's what I want you to do: go to [Medicare.gov's plan finder tool](https://ww
 
 Prior authorization means your doctor has to get the plan's permission before you can fill the prescription. Step therapy means the plan wants you to try a cheaper drug first. Both can delay treatment and add stress you don't need.
 
-One specific thing only someone who's done this will tell you: the formulary tool on Medicare.gov is updated for the upcoming year in October, not September. So your September review should focus on your current plan's published 2026 formulary documents (available on your plan's website) and cross-reference with the ANOC. Don't wait for October to start this piece.
+One specific thing only someone who's done this will tell you: the formulary tool on Medicare.gov is updated for the upcoming year in October, not September. So your September review should focus on your current plan's formulary documents (available on your plan's website) and the next-year changes listed in the ANOC. Don't wait for October to start this piece.
 
-Worked example: A reader from Tucson, Maria, was taking Eliquis (apixaban) for atrial fibrillation. Her 2025 plan covered it at Tier 3. She noticed in her ANOC that it was moving to Tier 4 in 2026, which would have raised her cost from roughly $47 per fill to $115. By switching to a plan where it remained Tier 3, she saved an estimated $816 over the year.
+Consider a hypothetical patient taking Eliquis (apixaban) for atrial fibrillation. Her 2025 plan covered it at Tier 3. She notices in her ANOC that it is moving to Tier 4 in 2026, which would raise her cost from roughly $47 per fill to $115. By switching to a plan where it stays Tier 3, she would save an estimated $816 over the year.
 
 ## Network Review: Doctors, Hospitals, and Labs
 
@@ -64,7 +64,7 @@ What to do: Call your three or four most important providers (primary care docto
 
 Also check your preferred pharmacy. Some plans have preferred pharmacy networks where your copays are lower, and that preferred status can change year to year.
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual out-of-pocket by plan type (2026 estimates)</div><div class="sc-row"><span class="sc-label">Medicare Advantage (low use)</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">$1,200</span></div><div class="sc-row"><span class="sc-label">Medicare Advantage (high use)</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">$4,800</span></div><div class="sc-row"><span class="sc-label">Original Medicare + Medigap G</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">$2,400</span></div><div class="sc-row"><span class="sc-label">Original Medicare alone</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$6,700</span></div><div class="sc-src">Source: KFF Medicare Advantage enrollment and performance data 2025-2026</div></div>
+<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style>
 
 ## Comparing Total Cost, Not Just the Monthly Premium
 
@@ -75,16 +75,16 @@ A real comparison needs to include: monthly premium, annual deductible, copays f
 | Cost Factor | $0-Premium MA Plan (Example) | $89/mo MA Plan (Example) | Original Medicare + Medigap G |
 |---|---|---|---|
 | Monthly Premium | $0 | $89 ($1,068/yr) | ~$240–$310/mo (varies by age) |
-| Annual Deductible | $500 | $0 | $240 Part B deductible only |
+| Annual Deductible | $500 | $0 | $283 Part B deductible only |
 | Primary Care Copay | $5 | $0 | 20% after deductible |
 | Specialist Copay | $45 | $20 | 20% after deductible |
 | Hospital (per day) | $295/day (days 1-6) | $350/day (days 1-5) | $0 with Medigap G |
-| Annual Out-of-Pocket Max | $7,550 | $5,900 | No cap (Medigap covers 20%) |
+| Annual Out-of-Pocket Max | $7,550 | $5,900 | No cap on Original Medicare, but Plan G leaves only the $283 Part B deductible |
 | Drug Coverage | Included (check formulary) | Included (check formulary) | Separate Part D plan needed |
 
 *These are illustrative ranges based on common 2026 plan structures, not quotes. Your actual costs will differ by ZIP code, plan, and health status.*
 
-If you're generally healthy and use few services, the $0-premium plan might genuinely be fine. If you have ongoing conditions, surgery coming up, or take expensive medications, a higher-premium plan with lower cost-sharing often wins on total annual cost. Worked example: Barbara, 71, in Ohio, had knee replacement surgery in early 2026. Her $0-premium plan charged $295 per day for days 1 through 6 of her hospital stay, totaling $1,770 in hospital copays alone, plus specialist copays and physical therapy costs. A plan with a $127/month premium would have cost $1,524 annually in premiums but capped her hospital copays at $500. She paid more in premiums but saved over $800 net.
+If you're generally healthy and use few services, the $0-premium plan might genuinely be fine. If you have ongoing conditions, surgery coming up, or take expensive medications, a higher-premium plan with lower cost-sharing often wins on total annual cost. Consider a hypothetical 71-year-old who has knee replacement surgery in early 2026. Her $0-premium plan charges $295 per day for days 1 through 6 of her hospital stay, totaling $1,770 in hospital copays alone, plus specialist copays and physical therapy costs. A plan with a $127/month premium would cost $1,524 annually in premiums but cap her hospital copays at $500. She would pay more in premiums but save over $800 net.
 
 ## The Extra Benefits Trap (I'll Be Honest Here)
 
@@ -100,7 +100,7 @@ The single most underused resource in Medicare is the [State Health Insurance As
 
 [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) also has solid, plain-language explainers if you want to do more of the homework yourself before calling anyone.
 
-Worked example: Gerald, 78, from rural Kentucky, called his state SHIP office in late September 2025. He'd been on the same Medicare Advantage plan for four years. A 45-minute phone call revealed that his rheumatologist was going out-of-network with his current plan in January 2026. He switched plans before the December 7 deadline and kept his doctor with zero interruption to his care.
+Consider a hypothetical 78-year-old in rural Kentucky who calls his state SHIP office in late September. He has been on the same Medicare Advantage plan for four years. A 45-minute phone call reveals that his rheumatologist is going out-of-network with his current plan in January. He switches plans before the December 7 deadline and keeps his doctor with no interruption to his care.
 
 ## Sources
 

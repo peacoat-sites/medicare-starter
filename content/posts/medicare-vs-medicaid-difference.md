@@ -9,24 +9,24 @@ tags: ["medicare", "medicaid", "difference"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-vs-medicaid-difference"
 affiliate_disclosure: true
 faqs:
  - q: "Is Medicare free?"
    a: "Not entirely. Part A (hospital) is free for most people who worked long enough and paid Medicare taxes. Part B has a monthly premium (around $202.90 in 2026 for most). Parts C and D are through private insurers and vary in cost. You'll also pay deductibles and copays when you use services."
  - q: "Can you have Medicare and Medicaid at the same time?"
-   a: "Yes. People who qualify for both are called 'dual-eligible' beneficiaries. Medicare pays first; Medicaid fills in gaps and may cover your Medicare premiums through Medicare Savings Programs. About 12 million Americans have both."
+   a: "Yes. People who qualify for both are called 'dual-eligible' beneficiaries. Medicare pays first; Medicaid fills in gaps and may cover your Medicare premiums through Medicare Savings Programs."
  - q: "Does Medicare cover nursing home care?"
    a: "Only in limited, specific circumstances: following a qualifying hospital stay, for skilled nursing care, for up to 100 days. After day 100, Medicare pays nothing. Long-term custodial nursing home care is covered by Medicaid (if you financially qualify), not Medicare."
  - q: "How do I know if I qualify for Medicaid?"
    a: "Medicaid eligibility is based on income and (for some categories) assets, and rules vary by state. The fastest way to check is through your state's Medicaid agency website, or at Healthcare.gov. A free SHIP counselor can also help you sort through eligibility and applications."
  - q: "Will applying for Medicaid affect my Medicare benefits?"
    a: "No. Enrolling in Medicaid does not reduce or eliminate your Medicare coverage. If anything, having both gives you more complete coverage, since Medicaid can help cover what Medicare doesn't."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
-Most people assume Medicare is for the poor and Medicaid is for the elderly. This is a common mix-up that can cost people real money when they get it wrong.
+Many people assume Medicaid is for the elderly and Medicare is for the poor. This is a common mix-up that can cost people real money when they get it wrong.
 
 Let me be direct: Medicare and Medicaid are two completely separate federal programs with different rules, different eligibility requirements, and different coverage. They happen to share a name prefix and live under the same federal agency (the Centers for Medicare & Medicaid Services, or CMS), which does not help the confusion. But once you understand the core logic of each, the differences click into place pretty fast.
 
@@ -66,7 +66,7 @@ Medicaid benefits can be more comprehensive than many people expect compared to 
 
 Here's where it gets genuinely interesting, and where I'd argue most Medicare guidance glosses over the details too quickly.
 
-About 12 million Americans qualify for both Medicare and Medicaid simultaneously. They're called "dual-eligible" or "dual-eligible beneficiaries." This population tends to be lower-income seniors or people with disabilities who have both the age or disability status that qualifies them for Medicare and the financial situation that qualifies them for Medicaid.
+Many Americans qualify for both Medicare and Medicaid simultaneously. They're called "dual-eligible" or "dual-eligible beneficiaries." This population tends to be lower-income seniors or people with disabilities who have both the age or disability status that qualifies them for Medicare and the financial situation that qualifies them for Medicaid.
 
 When someone has both, the programs work together in a specific way: Medicare pays first (it's called the "primary payer"), and Medicaid steps in as the "secondary payer" to cover costs Medicare leaves behind, like copays, deductibles, and services Medicare doesn't cover at all.
 
@@ -77,7 +77,7 @@ For someone in this category, Medicaid can also help pay Medicare premiums throu
 - **QI (Qualifying Individual):** Similar to SLMB, with slightly higher income limits.
 - **QDWI (Qualified Disabled and Working Individuals):** Helps a small group pay Part A premiums.
 
-Paying $202.90 a month (plus their Part A costs if applicable) when they qualified to have Medicaid cover all of it. The paperwork isn't obvious, and many people just... don't apply.
+Some people end up paying $202.90 a month (plus their Part A costs if applicable) when they qualified to have Medicaid cover all of it. The paperwork isn't obvious, and many people just... don't apply.
 
 If you think you or a family member might qualify, [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has a solid breakdown of the Medicare Savings Programs, and the [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) can connect you with a free local counselor who'll help you apply. I'd take that help. The application process through your state Medicaid office can be tedious.
 
@@ -85,7 +85,7 @@ If you think you or a family member might qualify, [AARP's Medicare resource cen
 
 I'll be honest: the thing I wish more people understood is the long-term care distinction.
 
-Medicare will pay for a skilled nursing facility stay, but only under narrow conditions. You have to have a qualifying hospital inpatient stay of at least three days first. Medicare covers skilled nursing facility care at 100% for days 1-20, and then you pay a daily coinsurance (in 2026, around $204.50 per day) for days 21-100. After day 100, Medicare pays nothing.
+Medicare will pay for a skilled nursing facility stay, but only under narrow conditions. You have to have a qualifying hospital inpatient stay of at least three days first. Medicare covers skilled nursing facility care at 100% for days 1-20, and then you pay a daily coinsurance (in 2026, $217 per day) for days 21-100. After day 100, Medicare pays nothing.
 
 If you need custodial care, meaning you need help with activities of daily living (bathing, dressing, eating) but don't need skilled nursing services, Medicare won't cover that at all.
 

@@ -9,12 +9,12 @@ tags: ["sign", "medicare"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "how-to-sign-up-for-medicare"
 affiliate_disclosure: true
 faqs:
  - q: "What if I missed my Initial Enrollment Period?"
-   a: "If you missed your IEP and don't qualify for a Special Enrollment Period, you'll need to wait for the General Enrollment Period, which runs January 1 through March 31 each year, with coverage starting July 1. You may also owe a late enrollment penalty for Part B and Part D, depending on how long you waited."
+   a: "If you missed your IEP and don't qualify for a Special Enrollment Period, you'll need to wait for the General Enrollment Period, which runs January 1 through March 31 each year, with coverage starting the first day of the month after you sign up. You may also owe a late enrollment penalty for Part B and Part D, depending on how long you waited."
  - q: "Can I sign up for Medicare if I'm still working at 65?"
    a: "Yes, but you'll want to think carefully about whether to take Part B. If you have creditable employer coverage, you can delay Part B penalty-free. If your employer has fewer than 20 employees, Medicare is supposed to pay first, so enrolling in Part B matters more in that situation."
  - q: "How do I know if my employer coverage is 'creditable'?"
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, if you're on Original Medicare, Part D is a separate plan you purchase from a private insurer. It doesn't come automatically. You can compare plans at Medicare.gov's Plan Finder tool, which lets you enter your specific medications to see which plan covers them at the lowest total cost."
  - q: "What's the difference between Medigap and Medicare Advantage?"
    a: "These two options are actually mutually exclusive. Medigap (Medicare Supplement) policies work alongside Original Medicare to cover gaps like deductibles, copays, and coinsurance. Medicare Advantage replaces Original Medicare with a private plan. You can't have both at the same time."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 
 You're probably here because something changed. Maybe you just got a letter from Social Security, or a birthday with a "6" and a "5" in it is coming up faster than expected, and someone told you to "just go sign up for Medicare." As if it were obvious. As if there weren't about a dozen ways to do it wrong.
@@ -74,15 +74,15 @@ Part D, which is prescription drug coverage, has a similar penalty: 1% of the na
 | --- | --- | --- | --- |
 | Part A | Inpatient hospital, skilled nursing facility, home health, hospice | Usually free* | Automatic if collecting Social Security at 65; otherwise self-enroll |
 | Part B | Medical insurance (doctor visits, outpatient care) | Monthly premium | Must actively enroll; delays with employer coverage allowed via SEP |
-| Part D | Prescription drug coverage | Varies | Enroll during IEP or Annual Enrollment; 1% monthly penalty if delayed |
+| Part D | Prescription drug coverage | Varies | Enroll during IEP or Annual Enrollment; penalty of 1% of the national base premium per uncovered month if delayed |
 
-*Free if you or spouse worked and paid Medicare taxes for at least 10 years (40 quarters).
+*Free if you or your spouse worked and paid Medicare taxes for at least 10 years (40 quarters). With 30 to 39 quarters the premium is $311 a month in 2026; with fewer than 30 quarters it is $565 a month.
 
 Let me quickly put the pieces in place, because the lettering genuinely confuses people who are new to this.
 
 Part A covers inpatient hospital stays, skilled nursing facility care after a hospitalization, some home health, and hospice. Most people don't pay a premium for Part A if they or their spouse worked and paid Medicare taxes for at least 10 years (40 quarters). If you don't meet that threshold, you can still buy Part A, but the premium can run several hundred dollars a month.
 
-Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. Part B does have a monthly premium, and it's income-adjusted. Higher earners pay more through something called IRMAA (Income-Related Monthly Adjustment Amount). You'll know you're subject to IRMAA if Social Security sends you a notice. It's based on your tax return from two years prior.
+Part B covers outpatient care: doctor visits, preventive services, lab work, durable medical equipment. Part B does have a monthly premium, and it's income-adjusted. Higher earners pay more through something called IRMAA (Income-Related Monthly Adjustment Amount). You'll know you're subject to IRMAA if Social Security sends you a notice. It's based on your tax return from two years prior (for 2026, your 2024 return).
 
 Together, Parts A and B form "Original Medicare." Many people stop there, but most people also want prescription drug coverage (Part D) and some kind of supplemental coverage to help with Original Medicare's cost-sharing.
 

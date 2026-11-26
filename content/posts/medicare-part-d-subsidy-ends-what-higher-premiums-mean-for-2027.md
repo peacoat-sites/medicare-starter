@@ -9,10 +9,10 @@ tags: ["medicare", "part d", "premiums", "open enrollment"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-part-d-subsidy-ends-what-higher-premiums-mean-for-2027"
 affiliate_disclosure: true
-lastmod: 2026-11-22T22:00:00Z
+lastmod: 2026-11-26
 ---
 
 [Open enrollment](/medicare-open-enrollment-period/) closes December 7, 2026. And this year, missing that deadline carries a specific, calculable cost that it hasn't carried in recent memory.
@@ -21,7 +21,7 @@ Here's what changed. A federal program called the Part D Premium Stabilization D
 
 The window to do something about this closes December 7. After that, you're locked into whatever plan you're in, at whatever premium it charges come January.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D Premium Stabilization Demonstration ends December 31, 2026, raising average standalone premiums from ~$34 to ~$51/month.</li><li style="margin:5px 0">Open enrollment closes December 7, 2026, switching plans after that date isn't possible until next year.</li><li style="margin:5px 0">Original Medicare + standalone Part D enrollees face the biggest premium hit; Medicare Advantage drug coverage is largely unaffected.</li><li style="margin:5px 0">Extra Help (Low Income Subsidy) recipients are protected from these premium increases.</li><li style="margin:5px 0">15 newly negotiated drug prices, including Ozempic and Wegovy, take effect January 1, 2027, potentially offsetting some costs.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D Premium Stabilization Demonstration ends December 31, 2026, raising average standalone premiums from ~$34 to ~$51/month.</li><li style="margin:5px 0">Open enrollment closes December 7, 2026. Plan changes made after that date generally wait until next year, though Medicare Advantage members can make one switch between January 1 and March 31.</li><li style="margin:5px 0">Original Medicare + standalone Part D enrollees face the biggest premium hit; Medicare Advantage drug coverage is largely unaffected.</li><li style="margin:5px 0">Extra Help (Low Income Subsidy) recipients are protected from these premium increases.</li><li style="margin:5px 0">15 newly negotiated drug prices, including Ozempic and Wegovy, take effect January 1, 2027, potentially offsetting some costs.</li></ul></div>
 
 ## Who Gets Hit the Hardest
 
@@ -39,9 +39,9 @@ The premium increase gets the most attention, and rightly so, but 2027 brings a 
 |---|---|---|
 | Average standalone Part D premium | ~$34/month | ~$51/month |
 | Part D out-of-pocket cap | $2,100 | $2,400 |
-| Medicare-negotiated drug prices (IRA) | First 10 drugs | 15 drugs, including Ozempic and Wegovy |
+| Medicare-negotiated drug prices (IRA) | First 10 drugs (since January 2026) | 15 more drugs, including Ozempic and Wegovy |
 
-The out-of-pocket cap rising from $2,100 to $2,400 is a step backward in affordability for people who take high-cost drugs. That cap, introduced in 2025, was a major win for people managing expensive chronic conditions. Watching it climb stings.
+The out-of-pocket cap rising from $2,100 to $2,400 is a step backward in affordability for people who take high-cost drugs. That cap, introduced in 2025 at $2,000, was a major win for people managing expensive chronic conditions. Watching it climb from $2,000 to $2,100 in 2026 and now to $2,400 stings.
 
 On the other side, 15 drugs with newly negotiated prices take effect January 1, 2027, under the Inflation Reduction Act. Ozempic and Wegovy are on that list, which matters enormously to the growing number of Medicare enrollees using GLP-1 medications. If you take one of the newly negotiated drugs, your out-of-pocket cost per dose may drop even as your premium rises. Whether that tradeoff works in your favor depends entirely on which drugs you take and how often.
 

@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 Your favorite cardiologist just left the network. Or maybe you split the year between Arizona winters and Maine summers, and your HMO doesn't cover you outside the home service area. This happens more often than you'd think, and it leads a lot of seniors to the same question: "Can I switch back to Original Medicare?"
 
@@ -58,7 +58,7 @@ This is where people get tripped up. You can't switch back to Original Medicare 
 
 **Special Enrollment Periods (SEPs)** exist for qualifying life events. Moving out of your plan's service area, losing plan coverage because the plan exits your area, or qualifying for Extra Help (the low-income subsidy) can all trigger an SEP outside the normal windows.
 
-Outside these periods, you're locked in. If it's July and your situation changed, contact [Medicare.gov](https://www.medicare.gov/) directly or call 1-800-MEDICARE to check whether special circumstances apply.
+Outside these periods, you're generally locked in. If it's July and your situation changed, contact [Medicare.gov](https://www.medicare.gov/) directly or call 1-800-MEDICARE to check whether special circumstances apply.
 
 ## The Medigap Problem: The Most Important Thing Nobody Tells You
 
@@ -72,7 +72,7 @@ When you switch back to Original Medicare, you're generally not entitled to guar
 
 There are exceptions. New York, Connecticut, Massachusetts, and Maine have stronger consumer protections requiring year-round guaranteed issue. A handful of other states have limited protections. Certain SEP situations come with a guaranteed issue right. But in most states, most of the time, switching back without Medigap coverage is a serious financial risk.
 
-Here's why: Original Medicare has no out-of-pocket maximum. Part A (hospital) has a deductible per benefit period. Part B (medical) covers 80% of approved services after you meet your annual deductible. That 20% coinsurance has no cap. A serious illness or hospital stay can cost tens of thousands. Our guide to [Medigap plan options for 2026](/best-medigap-plans-2026/) walks through the standardized plan types and what they cover.
+Here's why: Original Medicare has no out-of-pocket maximum. Part A (hospital) has a deductible per benefit period ($1,736 in 2026). Part B (medical) covers 80% of approved services after you meet your annual deductible ($283 in 2026). That 20% coinsurance has no cap. A serious illness or hospital stay can cost tens of thousands. Our guide to [Medigap plan options for 2026](/best-medigap-plans-2026/) walks through the standardized plan types and what they cover.
 
 Contact your state's SHIP before you decide anything. The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free, unbiased counseling. They'll tell you exactly what protections exist in your state.
 
@@ -84,7 +84,7 @@ Once you've decided to move forward, the process is straightforward.
 
 **Step 2: Check your Medigap options first.** Before you disenroll from Advantage, find out whether you can get a Medigap policy. Call several insurers or work with an independent broker representing multiple companies. Get quotes and check for underwriting. Our overview of the [best Medicare Supplement companies](/best-medicare-supplement-companies/) can help identify reputable options.
 
-**Step 3: Decide on drug coverage.** Original Medicare doesn't include prescription drugs. You'll need a [standalone Part D plan](/best-medicare-advantage-plans-2026/). Compare plans at Medicare.gov using their Plan Finder tool. Skip this and you'll face a Part D late enrollment penalty lasting as long as you have Part D coverage if you go more than 63 days without creditable drug coverage.
+**Step 3: Decide on drug coverage.** Original Medicare doesn't include prescription drugs. You'll need a [standalone Part D plan](/best-medicare-advantage-plans-2026/). Compare plans at Medicare.gov using their Plan Finder tool. Skip this and you'll face a Part D late enrollment penalty, 1% of the base beneficiary premium ($38.99 in 2026) for each full uncovered month, added to your premium for as long as you have Part D, if you go 63 days or more without creditable drug coverage.
 
 **Step 4: Disenroll from your Medicare Advantage plan.** You can do this by:
 - Enrolling in a standalone Part D plan (this automatically triggers Advantage disenrollment)

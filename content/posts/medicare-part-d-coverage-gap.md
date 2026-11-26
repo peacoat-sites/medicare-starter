@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 You fill your prescription at the pharmacy, hand over your Medicare Part D card, and then the cashier tells you your cost just jumped significantly. Nothing about your health changed. Nothing about your plan changed. You've simply crossed an invisible spending threshold, and now you're in what Medicare calls the coverage gap. For millions of people, this moment is genuinely shocking, and I want to make sure you understand exactly what happened, why it happened, and what you can do about it.
 
@@ -31,36 +31,36 @@ You fill your prescription at the pharmacy, hand over your Medicare Part D card,
 
 Medicare Part D is the prescription drug benefit, it either comes standalone or as part of a Medicare Advantage plan, and it was designed with a specific cost structure in mind. That structure has four distinct phases in any given calendar year: the deductible phase, the initial coverage phase, the coverage gap, and then catastrophic coverage.
 
-The coverage gap kicks in after you and your plan together have spent a certain combined amount on covered drugs. In 2024, that threshold is $5,030 in total drug costs. Once you hit that number, you move into the gap, where your cost-sharing jumps up. Before 2024, people in the gap paid a much larger percentage of their drug costs themselves. Here's the genuinely good news: thanks to the [Inflation Reduction Act](/medicare-2000-out-of-pocket-cap-drugs/), starting in 2024, your out-of-pocket costs in the coverage gap are capped at 25% of what your covered drugs actually cost. That's a meaningful improvement over where things stood just a few years ago.
+The coverage gap no longer exists. Since 2025, the Inflation Reduction Act eliminated the gap and replaced it with an annual out-of-pocket cap, which is $2,100 in 2026. Once you reach that cap, you pay nothing more for covered drugs for the rest of the year. Before 2025, people in the gap paid a much larger percentage of their drug costs themselves. Here's the genuinely good news: thanks to the [Inflation Reduction Act](/medicare-2000-out-of-pocket-cap-drugs/), your yearly out-of-pocket drug spending is now capped at $2,100, and the old coverage gap threshold of $5,030 no longer applies. That's a meaningful improvement over where things stood just a few years ago.
 
-The term "donut hole" came about because the original 2003 law that created Medicare Part D literally left a hole in coverage between the initial coverage phase and catastrophic coverage. You'd have decent coverage, then a gap with much higher costs, then protection again once your spending got high enough. The Inflation Reduction Act has been steadily closing that hole. 2025 brings the most dramatic change yet: a hard cap on out-of-pocket drug costs.
+The term "donut hole" came about because the original 2003 law that created Medicare Part D literally left a hole in coverage between the initial coverage phase and catastrophic coverage. You'd have decent coverage, then a gap with much higher costs, then protection again once your spending got high enough. The Inflation Reduction Act has been steadily closing that hole. 2025 brought the most dramatic change yet: a hard cap on out-of-pocket drug costs, set at $2,000 in its first year and $2,100 in 2026.
 
 Drug costs can spike for reasons unrelated to personal error. This is how the benefit is designed, and understanding the mechanics puts you back in control.
 
 ## The Four Phases of Part D: A Clear Breakdown
 
-Knowing where you are in the Part D cycle at any given moment changes everything about how you plan. Here's how the phases work in the 2024 plan year:
+Knowing where you are in the Part D cycle at any given moment changes everything about how you plan. Here's how the phases work in the 2026 plan year:
 
 | Phase | What Triggers It | What You Pay |
 |---|---|---|
 | Deductible Phase | Start of plan year | Up to $615 (the 2026 maximum deductible) for covered drugs |
 | Initial Coverage | After deductible is met | Your plan's standard copays or coinsurance |
-| Coverage Gap | After $5,030 in total drug costs | 25% of the cost of covered brand-name and generic drugs |
+| Coverage Gap | No longer exists (eliminated in 2025) | Not applicable; you move straight from initial coverage to the out-of-pocket cap |
 | Catastrophic Coverage | After $2,100 in true out-of-pocket costs | $0 out of pocket |
 
-A couple of things matter here. The $5,030 figure counts both what you paid AND what your plan paid toward your drugs. But the $8,000 catastrophic threshold counts only what came out of your pocket, plus manufacturer discounts on brand-name drugs. Generic discounts from your plan don't count toward that number. This distinction confuses a lot of people and can make the catastrophic threshold feel much farther away than it actually is.
+One thing matters here. The $2,100 cap counts only your true out-of-pocket costs, not what your plan pays. Because only your own spending moves you toward the cap, it can feel farther away than total drug costs suggest.
 
 Not every Part D plan charges the maximum deductible, either. Some plans waive it entirely for certain drug tiers. This is one reason why [comparing plans during open enrollment](/comparing-medicare-part-d-plans/) (October 15 to December 7 each year) matters so much.
 
 ## The Big 2025 Change You Need to Know About
 
-Starting January 1, 2026, the Inflation Reduction Act puts a $2,100 hard cap on what you'll pay out of pocket for Part D drugs in a calendar year. Once you've hit $2,100, your covered drugs cost you nothing for the rest of the year.
+Since January 1, 2025, the Inflation Reduction Act has put a hard cap on what you pay out of pocket for Part D drugs in a calendar year: $2,000 in 2025 and $2,100 in 2026. Once you've hit $2,100, your covered drugs cost you nothing for the rest of the year.
 
 This is the most significant change to Medicare Part D since the benefit launched in 2006. For people who take expensive specialty medications, people managing cancer, rheumatoid arthritis, multiple sclerosis, or other chronic conditions, this change is potentially life-changing. I don't say that lightly.
 
-The coverage gap as a distinct phase effectively disappears in 2025. You'll move from initial coverage directly to a new catastrophic phase once you hit that $2,100 threshold. The financial cliff that people used to fall off of is now much more gradual.
+The coverage gap as a distinct phase disappeared in 2025. You move from initial coverage directly to the catastrophic phase once you hit the $2,100 cap in 2026. The financial cliff that people used to fall off of is now much more gradual.
 
-There's also a new Medicare Prescription Payment Plan launching in 2025 that lets you spread your out-of-pocket costs across the calendar year in monthly installments rather than paying large lump sums early in the year. This helps with cash flow even if your total annual cost stays the same.
+There's also the Medicare Prescription Payment Plan, which launched in 2025 and lets you spread your out-of-pocket costs across the calendar year in monthly installments rather than paying large lump sums early in the year. This helps with cash flow even if your total annual cost stays the same.
 
 ## How to Tell If You're Approaching the Gap
 
@@ -76,7 +76,7 @@ Here's how to stay on top of your spending:
 
 4. **Call your plan.** Ask specifically: "How much more do I need to spend before I reach the coverage gap, and how much before I reach catastrophic coverage?" Get the numbers in writing if you can.
 
-5. **Ask about the Medicare Prescription Payment Plan for 2025.** Starting next year, you can enroll in the installment option, which spreads costs out monthly.
+5. **Ask about the Medicare Prescription Payment Plan.** You can enroll in the installment option, which spreads your out-of-pocket costs out monthly.
 
 6. **Review your plan at open enrollment.** If you're spending into the gap regularly, a different plan with better coverage on your specific drugs might save you real money. Use the plan finder tool at [Medicare.gov](https://www.medicare.gov/plan-compare/) to compare options based on the exact drugs you take.
 
@@ -104,7 +104,7 @@ Not all drugs count toward the gap threshold equally. Only covered Part D drugs 
 
 ---
 
-The coverage gap has frustrated Medicare beneficiaries for nearly two decades. If you've been caught off guard by it, you're in very good company. The 2025 changes represent real, meaningful relief. But right now, the best thing you can do is know where you stand in your coverage year, understand your options, and reach out to a SHIP counselor or call Medicare at 1-800-MEDICARE if you have questions you can't get answered. You deserve to understand a benefit you've earned, and getting clear on this can make a genuine difference in both your budget and your peace of mind.
+The coverage gap frustrated Medicare beneficiaries for nearly two decades. If you were ever caught off guard by it, you're in very good company. The 2025 changes brought real, meaningful relief. But right now, the best thing you can do is know where you stand in your coverage year, understand your options, and reach out to a SHIP counselor or call Medicare at 1-800-MEDICARE if you have questions you can't get answered. You deserve to understand a benefit you've earned, and getting clear on this can make a genuine difference in both your budget and your peace of mind.
 
 ## Sources & References
 

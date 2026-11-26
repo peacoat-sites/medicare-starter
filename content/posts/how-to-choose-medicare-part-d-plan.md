@@ -18,12 +18,12 @@ faqs:
  - q: "What's the difference between a standalone Part D plan and drug coverage through Medicare Advantage?"
    a: "A standalone Part D plan (PDP) pairs with Original Medicare, Parts A and B, and covers only prescription drugs. A Medicare Advantage Prescription Drug plan (MA-PD) bundles hospital, medical, and drug coverage all in one. If you're on Original Medicare, you need a standalone PDP. If you're on Medicare Advantage, your drug coverage is built into that plan, and you generally cannot also enroll in a separate standalone PDP. Choosing between the two approaches is a bigger decision than just drug coverage, and it's worth getting personalized help."
  - q: "What is the Medicare Extra Help program and who qualifies?"
-   a: "Extra Help, also called the Low Income Subsidy or LIS, is a federal program that helps people with limited income and resources pay for Part D premiums, deductibles, and copays. In 2024, individuals with annual incomes up to roughly 150% of the federal poverty level may qualify, though the limits adjust annually. If you qualify, your Part D costs can drop dramatically. You apply through the Social Security Administration or online at SSA.gov. It's free to apply and absolutely worth checking, even if you're not sure you'll qualify."
+   a: "Extra Help, also called the Low Income Subsidy or LIS, is a federal program that helps people with limited income and resources pay for Part D premiums, deductibles, and copays. In 2026, individuals with annual incomes below 150% of the federal poverty level (about $23,475 for a single person) who also meet the resource limit may qualify, though the limits adjust annually. If you qualify, your Part D costs can drop dramatically. You apply through the Social Security Administration or online at SSA.gov. It's free to apply and absolutely worth checking, even if you're not sure you'll qualify."
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 You've just turned 65, or maybe you're staring at a stack of Medicare mailers wondering why twelve different insurance companies suddenly know your name. Every envelope promises "low premiums" and "comprehensive coverage," and somewhere in the pile is a decision you have to make about prescription drug coverage, formally called Medicare Part D. If you skip it or delay, you could face a permanent [late enrollment penalty](/medicare-part-d-late-enrollment-penalty/) for the rest of your life. If you rush and pick the wrong plan, you could end up paying hundreds more than necessary for the medications you take every day. The right plan isn't the one with the lowest premium. It's the one built around *your* specific medications.
 
@@ -79,17 +79,9 @@ The most powerful free tool available to you is the Medicare Plan Finder at [Med
 
 Many people overlook the deductible. In 2026, the maximum deductible a Part D plan can charge is $615, though many plans charge less, and some charge none at all. If a plan has a full deductible, you pay 100% of your drug costs out of pocket until you've spent that amount, before any plan coverage kicks in. For someone who takes multiple brand-name medications, that deductible can hit fast.
 
-After the deductible, you move into the initial coverage phase. Here's where tiers matter enormously.
+After the deductible, you move into the initial coverage phase, where the tier of each drug determines what you pay.
 
-| Tier | Typical Drug Type | Typical Cost-Sharing |
-|---|---|---|
-| Tier 1 | Preferred generics | Low copay (often $0-$5) |
-| Tier 2 | Non-preferred generics | Moderate copay |
-| Tier 3 | Preferred brand names | Higher copay or coinsurance |
-| Tier 4 | Non-preferred brand names | Significantly higher cost |
-| Tier 5 | Specialty drugs | Highest cost, often coinsurance % |
-
-One important change took effect in 2024 and 2025 under the Inflation Reduction Act: the catastrophic phase of Part D coverage was restructured, and a $2,000 annual out-of-pocket cap was established for 2025. That cap has since increased to $2,100 for 2026. Once you hit that cap, you pay nothing more for covered Part D drugs for the rest of the year. For people on expensive specialty medications, this is a significant protection. You can read about the current rules at [Medicare.gov](https://www.medicare.gov/).
+One important change under the Inflation Reduction Act: the catastrophic phase of Part D coverage was restructured, and a $2,000 annual out-of-pocket cap was established for 2025. That cap increased to $2,100 for 2026 and is scheduled to rise to $2,400 on January 1, 2027. Once you hit that cap, you pay nothing more for covered Part D drugs for the rest of the year. For people on expensive specialty medications, this is a significant protection. You can read about the current rules at [Medicare.gov](https://www.medicare.gov/).
 
 ## The Late Enrollment Penalty Nobody Warns You About
 

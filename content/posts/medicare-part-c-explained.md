@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 You just turned 65. Your kitchen table is buried under Medicare mailers. Every single one mentions "Medicare Advantage." Your neighbor loves hers. Your brother-in-law won't touch one. And you're wondering if Medicare Part C is some secret fourth option or just corporate jargon for something you already understand.
 
@@ -37,7 +37,7 @@ Part C, also called Medicare Advantage, is a different way to get that same cove
 
 Here's what trips most people up: you must still be enrolled in both Part A and Part B to join a Medicare Advantage plan. You don't leave Medicare. You stay enrolled. You just get your benefits through a private insurer instead of the government directly.
 
-By law, Medicare Advantage plans must cover everything Original Medicare covers, with a few exceptions like hospice (which stays under Part A). Beyond that baseline, most plans throw in extras that Original Medicare doesn't offer: routine dental cleanings, vision exams, eyeglasses, hearing aids, gym memberships, sometimes even over-the-counter allowances. Those extras are why enrollment has exploded. As of 2024, more than half of all Medicare beneficiaries are in a Medicare Advantage plan, according to the Kaiser Family Foundation.
+By law, Medicare Advantage plans must cover everything Original Medicare covers, with a few exceptions like hospice (which stays under Part A). Beyond that baseline, most plans throw in extras that Original Medicare doesn't offer: routine dental cleanings, vision exams, eyeglasses, hearing aids, gym memberships, sometimes even over-the-counter allowances. Those extras are why enrollment has exploded. Enrollment in Medicare Advantage has grown rapidly in recent years.
 
 ## The Different Types of Medicare Advantage Plans
 
@@ -67,7 +67,7 @@ Most people do fine starting with an HMO if their current doctors are in-network
 
 This is where the real story emerges. Medicare Advantage plans often advertise $0 premiums, and some genuinely have no additional monthly cost beyond your Part B premium ($202.90 per month in 2026 for most people). But premium is just the opening act.
 
-Every Medicare Advantage plan has an out-of-pocket maximum, a yearly cap on what you can spend on covered services. Original Medicare has no such cap, which is why many people in Original Medicare also buy a [Medigap (Medicare Supplement) plan](/what-medicare-does-not-cover/) to cover those endless costs. In Medicare Advantage, the cap is required by law. In 2024, it can't exceed $8,850 for in-network services, though most plans set it lower.
+Every Medicare Advantage plan has an out-of-pocket maximum, a yearly cap on what you can spend on covered services. Original Medicare has no such cap, which is why many people in Original Medicare also buy a [Medigap (Medicare Supplement) plan](/what-medicare-does-not-cover/) to cover those endless costs. In Medicare Advantage, the cap is required by law. In 2026, it can't exceed $9,250 for in-network services (or $13,900 combined in- and out-of-network), though most plans set it lower.
 
 Beyond the premium and cap come copays and coinsurance. Maybe $10 for a primary care visit, $40 for a specialist, a percentage of hospital costs. These shift wildly by plan and location.
 
@@ -79,7 +79,7 @@ For healthy people with moderate health care use, Medicare Advantage can be genu
 
 You can enroll during specific windows only. Here's the timeline:
 
-1. **Initial Enrollment Period (IEP):** Your first chance. It spans the 3 months before your 65th birthday month, your birthday month, and 3 months after. Sign up before your birthday month starts, and coverage kicks in on the first day of your birthday month.
+1. **Initial Enrollment Period (IEP):** Your first chance. It spans the 3 months before your 65th birthday month, your birthday month, and 3 months after. Sign up before your birthday month starts, and coverage generally kicks in on the first day of your birthday month (if your birthday is on the 1st, coverage begins the month before).
 
 2. **Annual Enrollment Period (AEP):** October 15 through December 7 each year, you can switch plans, drop one, or return to Original Medicare. Changes take effect January 1.
 
@@ -98,7 +98,7 @@ You can enroll during specific windows only. Here's the timeline:
 | Who pays your claims | Federal government | Private insurer approved by Medicare |
 | Network restrictions | See any Medicare-approved provider nationwide | Usually limited to plan network |
 | Referrals required | No | Often yes (HMOs) |
-| Out-of-pocket maximum | None | Required by law (up to $8,850 in 2024) |
+| Out-of-pocket maximum | None | Required by law (up to $9,250 in 2026) |
 | Extra benefits (dental, vision, hearing) | Not covered | Often included |
 | Drug coverage | Not included (need separate Part D) | Usually included |
 | Monthly premium | Part B premium only | Part B premium plus plan premium (often $0) |
@@ -112,7 +112,7 @@ Second mistake: not verifying your doctors are in-network before enrolling. Obvi
 
 Third: ignoring [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/). They offer clear guides, comparison tools, and annual updates on plan changes. Not a substitute for professional advice, but a solid foundation for getting oriented.
 
-Finally, don't think you're locked in. Every Annual Enrollment Period gives you a reassessment chance. Your health changes. Your medications change. Plans change networks and formularies every single year. A plan that worked perfectly in 2022 might be the wrong fit in 2025.
+Finally, don't think you're locked in. Every Annual Enrollment Period gives you a reassessment chance. Your health changes. Your medications change. Plans change networks and formularies every single year. A plan that worked perfectly in 2024 might be the wrong fit in 2027.
 
 ---
 

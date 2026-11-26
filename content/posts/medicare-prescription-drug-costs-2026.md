@@ -22,14 +22,14 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 October 15 rolls around, and suddenly your mailbox fills with Part D plan notices. Premium up. Your cholesterol medication moved to a higher tier. Deductible changed again. Millions of people go through this every fall, and most of them ignore it. Don't. The 2026 changes to [Medicare drug coverage](/best-medicare-part-d-plans-2026/) actually work in your favor if you pay attention, and switching plans could save you hundreds of dollars.
 
 ## What's Actually Changing in 2026 (and Why It Matters)
 
-The Inflation Reduction Act, signed in 2022, keeps rolling out. The headline change for 2026: a hard [$2,100 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drugs. Starting January 1, once you hit $2,100 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
+The Inflation Reduction Act, signed in 2022, keeps rolling out. The cap began in 2025 at $2,000 and is $2,100 for 2026 (rising to $2,400 in 2027): a hard [out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drugs. Once you hit $2,100 in actual out-of-pocket spending on covered drugs in a calendar year, your plan pays 100% of the rest. Done.
 
 This matters because before, there was no ceiling. Without the cap, people could spend $10,000, $15,000, or $20,000-plus annually on cost-sharing for cancer drugs or biologics. The cap flips that entirely.
 
@@ -45,9 +45,9 @@ One thing people miss: "out of pocket" has a narrow definition. It includes your
 | Phase 2: Initial Coverage | You pay copays or coinsurance | Until out-of-pocket reaches $2,100 |
 | Phase 3: Catastrophic Coverage | Plan pays 100% of remaining drugs | $0 for rest of calendar year |
 
-The old system had four phases. You probably remember the coverage gap, that infamous "donut hole" where you suddenly paid way more. It's gone as of 2025, replaced with a cleaner three-step structure that runs into 2026.
+The old system had four phases. You probably remember the coverage gap, that infamous "donut hole" where you suddenly paid way more. It's gone as of 2025, replaced with a cleaner three-step structure that continues in 2026 and 2027.
 
-**Phase 1: Deductible.** Standard maximum is $615 for 2026. Plans can go lower or waive it for certain drugs, but can't exceed $615. You pay full price until you hit it.
+**Phase 1: Deductible.** Standard maximum is $615 for 2026 (rising to $700 in 2027). Plans can go lower or waive it for certain drugs, but can't exceed the maximum. You pay full price until you hit it.
 
 **Phase 2: Initial Coverage.** After your deductible, you pay copays or coinsurance until your out-of-pocket total reaches $2,100.
 
@@ -59,7 +59,7 @@ The coverage gap is replaced by a manufacturer discount program that runs in the
 
 Part D premiums vary wildly depending on where you live, which plan you pick, and what drugs you take. There's no one number I can give you because there's no one answer.
 
-Watch for income-related surcharges, though. If your 2024 income (used to calculate 2026 premiums) exceeds $109,000 as an individual or $218,000 as a married couple filing jointly, you'll pay extra on top of your base premium. CMS updates these brackets annually, so confirm the 2026 numbers on Medicare.gov once they publish.
+Watch for income-related surcharges, though. If your 2024 income (used to calculate 2026 premiums) exceeds $109,000 as an individual or $218,000 as a married couple filing jointly, you'll pay extra on top of your base premium. For 2026 the first Part D surcharge is $14.50 a month on top of your plan premium, rising to $91.00 a month at the top tier. CMS updates these brackets annually, and the 2027 brackets, based on 2025 income, start above $112,000 for single filers and $224,000 for joint filers.
 
 Your plan's premium can stay flat while your actual costs jump because formularies change every year. A drug at Tier 2 in 2025 can move to Tier 4 in 2026, and your copay goes up even though the plan didn't technically raise rates.
 
@@ -95,7 +95,7 @@ Review your Evidence of Coverage document or use Plan Finder to compare your cur
 
 ---
 
-This is worth repeating: the $2,000 cap genuinely changed the math in your favor. But you still have to shop every fall, because the best plan last year might not be best this year. Mark your calendar for October 15. Gather your drug list. Spend an hour on Plan Finder. That hour could be worth several hundred dollars.
+This is worth repeating: the $2,100 cap genuinely changed the math in your favor. But you still have to shop every fall, because the best plan last year might not be best this year. Mark your calendar for October 15. Gather your drug list. Spend an hour on Plan Finder. That hour could be worth several hundred dollars.
 
 ---
 

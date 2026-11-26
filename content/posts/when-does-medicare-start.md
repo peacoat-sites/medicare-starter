@@ -14,7 +14,7 @@ faqs:
  - q: "Can I start Medicare before 65?"
    a: "Yes, in specific circumstances. If you've been receiving Social Security Disability Insurance for 24 consecutive months, Medicare enrollment kicks in automatically in month 25. People diagnosed with ALS are enrolled immediately upon receiving disability benefits. People with End-Stage Renal Disease can qualify at any age but typically must apply."
  - q: "What if I miss my Initial Enrollment Period?"
-   a: "If you miss your IEP and don't have a qualifying reason like employer coverage, you'll have to wait for the General Enrollment Period, which runs from January 1 through March 31 each year, with coverage beginning July 1. You'll also likely face late enrollment penalties on Part B. This is a situation worth avoiding. If you're approaching 65 and unsure whether to enroll, it's better to sign up than to wait and hope."
+   a: "If you miss your IEP and don't have a qualifying reason like employer coverage, you'll have to wait for the General Enrollment Period, which runs from January 1 through March 31 each year, with coverage beginning the first day of the month after you sign up. You'll also likely face late enrollment penalties on Part B. This is a situation worth avoiding. If you're approaching 65 and unsure whether to enroll, it's better to sign up than to wait and hope."
  - q: "Does my spouse's employer coverage protect me from Medicare penalties?"
    a: "Yes, it can. If you're covered under your spouse's employer group health plan and that employer has 20 or more employees, you generally qualify for the Special Enrollment Period when that coverage ends. You'll have eight months to enroll in Part B without penalty. Keep documentation of your coverage dates because you may need to prove creditable coverage."
  - q: "When does Part D (drug coverage) start?"
@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 You turned 64 a few months ago, and suddenly your mailbox is drowning in Medicare mailers. Your neighbor swears you need to sign up at 65. Your HR department says something completely different. And your brother-in-law is certain you can wait until you retire, whenever that happens. Everyone has an opinion. Almost nobody agrees.
 
@@ -35,7 +35,7 @@ Most people become eligible for Medicare the day they turn 65. That's the anchor
 
 But "eligible" and "enrolled" aren't the same thing. You can be eligible at 65 and still have choices to make about whether to sign up right then or wait. Those choices carry consequences.
 
-If you've worked and paid Medicare taxes for at least 10 years (40 quarters), you qualify for premium-free [Medicare Part A](/medicare-part-a-explained/), which covers hospital stays, skilled nursing facility care, and some home health services. Medicare Part B covers outpatient care, doctor visits, and preventive services. It comes with a monthly premium. In 2026, the standard Part B premium is $202.90 per month, though higher-income beneficiaries pay more through IRMAA (Income-Related Monthly Adjustment Amount).
+If you've worked and paid Medicare taxes for at least 10 years (40 quarters), you qualify for premium-free [Medicare Part A](/medicare-part-a-explained/), which covers hospital stays, skilled nursing facility care, and some home health services. If you have fewer than 40 quarters, you can still buy Part A for $311 or $565 per month in 2026, depending on your work history. Medicare Part B covers outpatient care, doctor visits, and preventive services. It comes with a monthly premium. In 2026, the standard Part B premium is $202.90 per month, though higher-income beneficiaries pay more through IRMAA (Income-Related Monthly Adjustment Amount).
 
 You're also eligible before 65 if you've received Social Security Disability Insurance (SSDI) for 24 months. People with ALS or End-Stage Renal Disease qualify on faster timelines.
 
@@ -44,7 +44,7 @@ You're also eligible before 65 if you've received Social Security Disability Ins
 | Situation | Coverage Timing | Enrollment Window | Key Consideration |
 | --- | --- | --- | --- |
 | Employer has 20+ employees | Medicare secondary to employer plan | 8 months after leaving job (SEP) | No late penalty if enrolled within SEP |
-| Employer has <20 employees | Medicare primary | Initial Enrollment Period (7 months) | Late penalty applies if delayed |
+| Employer has <20 employees | Medicare primary | Initial Enrollment Period (7 months) | Delaying Part B risks a late penalty and claim denials |
 | SSDI for 24 months | Eligible before 65 | Automatic upon SSDI qualification | Separate eligibility path |
 | ALS or ESRD | Eligible immediately | Upon diagnosis | Immediate coverage available |
 
@@ -56,9 +56,9 @@ The Initial Enrollment Period, or IEP, is your first official chance to sign up 
 
 This window opens automatically. You don't need to do anything to trigger it. But when you actually sign up within that window determines when your coverage begins.
 
-Sign up in the three months before your birthday month, and coverage starts on the first day of your birthday month. Sign up during your birthday month, and you're waiting until the next month. Enroll in the first month after your birthday month, and you're waiting two months for coverage to kick in. Wait until months two or three after your birthday month, and the delay stretches to three months.
+Sign up in the three months before your birthday month, and coverage starts on the first day of your birthday month. Sign up during your birthday month, and coverage starts the first of the next month. Enroll in the first month after your birthday month, and coverage generally starts the first of the month after you sign up. The same one-month-after-signup rule applies if you enroll in months two or three after your birthday month.
 
-The practical takeaway: sign up early in your IEP, ideally in the three months before you turn 65, to avoid any gap between eligibility and actual coverage.
+The practical takeaway: sign up early in your IEP, ideally in the three months before you turn 65, to avoid any gap between eligibility and actual coverage. (One caution: if your birthday falls on the first of the month, your eligibility begins the month before, so your window shifts one month earlier.)
 
 ## What Happens If You're Still Working at 65
 

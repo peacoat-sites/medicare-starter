@@ -1,7 +1,7 @@
 ---
 title: "Dispute a Medicare Claim in 180 Days: Your Complete Guide"
 date: 2026-07-16T15:47:14.338417+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn the Medicare claims dispute process, key deadlines, and step-by-step instructions to appeal denied or incorrect charges effectively."
 image: "/img/heroes/8428049.jpg"
@@ -10,12 +10,12 @@ tags: ["dispute", "medicare", "claim"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "how-to-dispute-a-medicare-claim"
 affiliate_disclosure: true
 faqs:
   - q: "How long do I have to appeal a Medicare denial?"
-    a: "You have 120 days from the date you receive your Medicare Summary Notice (MSN) to file a Level 1 redetermination. Medicare assumes you receive the MSN five days after it's mailed, so don't wait. Each subsequent appeal level has its own deadline, ranging from 60 to 180 days from the prior decision."
+    a: "You have 120 days from the date you receive your Medicare Summary Notice (MSN) to file a Level 1 redetermination. Medicare assumes you receive the MSN five days after it's mailed, so don't wait. Each subsequent appeal level has its own deadline, ranging from 60 to 180 days from the prior decision. For Level 1, the 120 days start on the date you receive the notice, which Medicare presumes is five days after it is mailed."
   - q: "Can I appeal if my Medicare Advantage plan denied a claim?"
     a: "Yes, absolutely. Medicare Advantage plans must follow federal appeals rules, which mirror Original Medicare's five-level process. Start by filing an 'organization determination' request with your plan in writing. If denied, request a plan-level appeal, then an independent review, and so on. The timelines are slightly different for Advantage plans, so check your plan's Evidence of Coverage document for specifics."
   - q: "What if I already paid the bill? Can I still dispute it?"
@@ -28,11 +28,11 @@ faqs:
 
 Most people who get a Medicare denial letter assume the decision is final. It isn't. And that assumption costs beneficiaries real money every single year.
 
-According to data from the Office of Medicare Hearings and Appeals (OMHA), beneficiaries who appeal Medicare denials win their cases at the Administrative Law Judge level roughly 75% of the time. Three out of four. That means the initial denial, which feels so official and intimidating in that envelope, is often just... wrong. Or at least contestable. And most people never push back.
+Appealing a denial is often worth the effort, and many cases are reversed on appeal. That means the initial denial, which feels so official and intimidating in that envelope, is often just... wrong. Or at least contestable. And most people never push back.
 
 I've sat across the table from hundreds of people over the years who quietly absorbed a denial, paid the bill, and moved on. I understand why. The letters are full of codes and jargon, and when you're also managing a health condition, fighting paperwork feels like one burden too many. But if there's one thing I want you to take from this article, it's that the appeals process was specifically built for you, and it works more often than anyone tells you.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Beneficiaries win roughly 75% of Medicare appeals at the ALJ (Administrative Law Judge) level, per OMHA data.</li><li style="margin:5px 0">You have 120 days from receiving a denial to file a standard appeal (redetermination).</li><li style="margin:5px 0">The appeals process has 5 levels; most disputes resolve at levels 1 or 2, without a hearing.</li><li style="margin:5px 0">Always request your Medicare Summary Notice (MSN) first, it's the starting document for every dispute.</li><li style="margin:5px 0">A free SHIP counselor (State Health Insurance Assistance Program) can walk you through every step at no cost.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Many denials are reversed on appeal, especially when your doctor supplies supporting documentation.</li><li style="margin:5px 0">You have 120 days from receiving a denial to file a standard appeal (redetermination).</li><li style="margin:5px 0">The appeals process has 5 levels; most disputes resolve at levels 1 or 2, without a hearing.</li><li style="margin:5px 0">Always request your Medicare Summary Notice (MSN) first, it's the starting document for every dispute.</li><li style="margin:5px 0">A free SHIP counselor (State Health Insurance Assistance Program) can walk you through every step at no cost.</li></ul></div>
 
 ## What You're Actually Disputing (and Why the Terminology Matters)
 
@@ -70,9 +70,9 @@ This is where I want to get specific, because the generic advice out there is of
 
 **Step 5: Wait, and follow up.** Level 1 decisions should come within 60 days. If you haven't heard back, call 1-800-MEDICARE (1-800-633-4227) and ask about the status.
 
-As one example, a [home health](/medicare-home-health-care-cost/) aide visit denied as "not medically necessary" following a hip replacement was reversed after the patient's surgeon provided a one-page letter explaining why homebound status applied under Medicare's criteria. A Level 1 redetermination filed with that documentation resulted in a full reversal within 45 days, with approximately $1,200 in charges dropped.
+Consider a [home health](/medicare-home-health-care-cost/) aide visit denied as "not medically necessary" following a hip replacement. If the patient's surgeon provides a one-page letter explaining why homebound status applied under Medicare's criteria, a Level 1 redetermination filed with that documentation can succeed, as in a hypothetical case where about $1,200 in charges are dropped within 45 days.
 
-Another: A man disputing a skilled nursing facility discharge got his case to Level 3. The ALJ agreed with him. He stayed in the facility an additional 11 days, covered by Medicare. That was roughly $4,400 in coverage he would have lost had he accepted the original decision.
+Or consider a man disputing a skilled nursing facility discharge who takes his case to Level 3. If the ALJ agrees with him and he stays an additional 11 days covered by Medicare, that is roughly $4,400 in coverage he would have lost by accepting the original decision.
 
 ## The "Medically Necessary" Problem
 
@@ -80,9 +80,9 @@ This is the source of most denials I see. Medicare uses a specific definition: a
 
 Medicare contractors, who are private companies paid by the government to process claims, sometimes apply Local Coverage Determinations (LCDs) that are stricter than what your doctor ordered. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes all LCDs publicly. I'd encourage you to look up the LCD for whatever service was denied, because sometimes the denial is based on missing documentation rather than the service itself being uncovered. That's actually good news, because it means adding the right documentation can reverse the denial at Level 1 without a fight.
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Medicare Appeal Outcomes by Level (Overturn Rate %)</div><div class="sc-row"><span class="sc-label">Level 1 Redetermination</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Level 2 QIC Reconsideration</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Level 3 ALJ Hearing</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">75%</span></div><div class="sc-row"><span class="sc-label">Level 4 Appeals Council</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">23%</span></div><div class="sc-src">Source: OMHA Annual Report (2024)</div></div>
+<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style>
 
-That jump at Level 3 is striking, and it's consistently documented in OMHA's annual reports. Independent ALJs, who aren't employed by Medicare contractors, review the evidence fresh. They overturn contractor decisions at a rate that should make every denial feel provisional, not permanent.
+At Level 3, independent ALJs, who aren't employed by Medicare contractors, review the evidence fresh. That is one more reason a denial should feel provisional, not permanent.
 
 ## Get Help: You Don't Have to Do This Alone
 

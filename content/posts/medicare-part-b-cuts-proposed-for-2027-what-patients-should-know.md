@@ -1,7 +1,7 @@
 ---
 title: "Medicare Part B Cuts Proposed for 2027: What Patients Should Know"
 date: 2026-08-08T14:42:36.052666+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Medicare Part B payment cuts proposed for 2027 could affect your healthcare costs. Learn what these changes mean for your benefits and coverage options."
 image: "/img/heroes/12599544.jpg"
@@ -10,18 +10,18 @@ tags: ["medicare", "part", "cuts", "proposed", "2027:"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-part-b-cuts-proposed-for-2027-what-patients-should-know"
 affiliate_disclosure: true
 ---
 
-Medicare beneficiaries may receive letters from their doctors' offices saying they're "reassessing their Medicare participation." This can happen without warning, even for patients in long-term treatment relationships. Right now, in August 2026, these notifications are about to get more common.
+Medicare beneficiaries may receive letters from their doctors' offices saying they're "reassessing their Medicare participation." This can happen without warning, even for patients in long-term treatment relationships. These notifications may become more common as the 2027 payment rule moves toward a final version.
 
-Here's what's happening. On July 14, 2026, the Centers for Medicare & Medicaid Services (CMS, the federal agency that runs Medicare) released its proposed payment rule for 2027. It's a nearly 1,600-page document that [would cut](/cms-proposed-rule-would-cut-hospital-outpatient-costs-for-seniors/) what Medicare pays doctors for almost every type of visit and procedure. The comment period closes September 14, 2026. That's not much time, and most beneficiaries don't even know this is on the table.
+Here's what's happening. On July 14, 2026, the Centers for Medicare & Medicaid Services (CMS, the federal agency that runs Medicare) released its proposed payment rule for 2027. It's a nearly 1,600-page document that [would cut](/cms-proposed-rule-would-cut-hospital-outpatient-costs-for-seniors/) what Medicare pays doctors for almost every type of visit and procedure. The comment period closed September 14, 2026, and a final rule is expected before January 1, 2027.
 
 The short version: a temporary 2.5% payment boost that Congress tucked into 2026 legislation called the Working Families Tax Cut Act (WFTCA) is about to expire. When it does, physician pay under [Medicare Part](/comparing-medicare-part-d-plans/) B (the part that covers doctor visits, outpatient care, and preventive services) drops. That affects your care more directly than most people realize.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed rule (July 14, 2026) would drop the Medicare physician conversion factor from $33.40 to $32.84 in 2027.</li><li style="margin:5px 0">The 1.68% cut is driven by expiration of a one-year 2.5% congressional boost from WFTCA.</li><li style="margin:5px 0">Dermatology faces a proposed 9% cut; orthopedic surgery –7%; clinical social work could see +12%.</li><li style="margin:5px 0">Public comments are open through September 14, 2026 at regulations.gov.</li><li style="margin:5px 0">Doctors who lose money on Medicare patients may limit how many they accept.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed rule (July 14, 2026) would drop the Medicare physician conversion factor from $33.40 to $32.84 in 2027.</li><li style="margin:5px 0">The 1.68% cut is driven by expiration of a one-year 2.5% congressional boost from WFTCA.</li><li style="margin:5px 0">Dermatology faces a proposed 9% cut; orthopedic surgery –7%; clinical social work could see +12%.</li><li style="margin:5px 0">The public comment period closed September 14, 2026; a final rule is expected before January 1, 2027.</li><li style="margin:5px 0">Doctors who lose money on Medicare patients may limit how many they accept.</li></ul></div>
 
 ## Why This Cut Is Happening Now
 
@@ -46,7 +46,7 @@ These figures come from the [LeadingAge analysis of the proposed rule](https://l
 
 ## What This Means for Your Access to Care
 
-The woman who called me about her orthopedic surgeon? Her situation is exactly the access problem these payment cuts create. A doctor can do one of three things under Medicare: accept "assignment" (meaning they agree to Medicare's payment as full payment), become a non-participating provider (they can bill slightly higher but you pay more), or opt out entirely and operate outside Medicare altogether.
+Consider a patient whose orthopedic surgeon stops accepting Medicare assignment: that is exactly the access problem these payment cuts can create. A doctor can do one of three things under Medicare: accept "assignment" (meaning they agree to Medicare's payment as full payment), become a non-participating provider (they can bill slightly higher but you pay more), or opt out entirely and operate outside Medicare altogether.
 
 When payment rates drop sharply, the opt-out calculation changes. Practices in high-cost areas like major cities or medically underserved rural regions feel the squeeze most. Specialties like dermatology and orthopedic surgery, which have significant Medicare patient populations and high overhead costs, are particularly vulnerable.
 
@@ -54,15 +54,15 @@ Here's what this means practically for you. If your dermatologist or orthopedic 
 
 ## This Is a Proposed Rule, Not a Final One
 
-This matters. The rule released on July 14, 2026, is a proposal. CMS is legally required to accept public comments, and the window is open through September 14, 2026. Comments from beneficiaries carry real weight alongside those from medical associations and hospital systems. You can submit a comment at regulations.gov by searching for the CY 2027 Physician Fee Schedule Proposed Rule.
+This matters. The rule released on July 14, 2026, is a proposal until CMS issues a final version. CMS was legally required to accept public comments, and that window closed September 14, 2026. Comments from beneficiaries carried weight alongside those from medical associations and hospital systems, and the final rule may differ from the proposal.
 
-What should you say? Keep it personal and specific. If you depend on a specialist who's facing a large cut, describe what it would mean if you lost access to that doctor. CMS staff read beneficiary comments differently than they read lobbying letters, and they do count.
+Even with the comment period over, you can still tell your members of Congress what losing access to a specialist would mean for you, since Congress could act before the cut takes effect.
 
 Congress could also act before January 1, 2027. Temporary patches get passed in late December more often than not. But relying on that is not a plan, and the May 2026 House subcommittee hearing suggests Congress is at least aware that the recurring patch-and-expire cycle isn't working long term. Whether that awareness turns into permanent reform this year remains to be seen.
 
 ## Steps You Can Take Right Now
 
-You don't need to wait for this to become final before taking action. A few things worth doing before September:
+You don't need to wait for the final rule before taking action. A few things worth doing now:
 
 First, call your primary care doctor and any specialists you see regularly. Ask directly: "Are you planning to continue accepting Medicare in 2027?" A brief conversation now is far better than a surprise letter later.
 
@@ -70,9 +70,9 @@ Second, look up your doctors on Medicare.gov using the Care Compare tool (medica
 
 Third, if you have a Medicare Supplement plan (also called Medigap), review what it covers in terms of excess charges, those are extra amounts a non-participating provider can charge above Medicare rates. Plan F and Plan G handle these differently. If you have Medicare Advantage (Part C, offered by private insurers approved by Medicare), check whether your plan's network still includes your doctors. Advantage plans renegotiate with providers separately, so the fee schedule cut affects them indirectly but the network access risk is real.
 
-Fourth, submit a comment at regulations.gov before September 14. It takes ten minutes and it matters.
+Fourth, if you want to weigh in, contact your members of Congress before the end of the year, when temporary payment patches are typically decided.
 
-The payment fight between Congress, CMS, and the medical community has been grinding along for decades. What's different in 2026 is that the cumulative effect of years of below-inflation payments is pushing more practices toward a tipping point. I don't say that to alarm you. I say it because knowing what's coming is how you protect yourself. Talk to your doctors, check your coverage, and consider saying something to CMS before the window closes. A knowledgeable friend would tell you the same thing.
+The payment fight between Congress, CMS, and the medical community has been grinding along for decades. What's different in 2026 is that the cumulative effect of years of below-inflation payments is pushing more practices toward a tipping point. I don't say that to alarm you. I say it because knowing what's coming is how you protect yourself. Talk to your doctors, check your coverage, and consider contacting your representatives while Congress can still act. A knowledgeable friend would tell you the same thing.
 
 ---
 

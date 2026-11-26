@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 Every year, someone calls me in a panic in late November, convinced they've already missed their chance to sign up for Medicare. Sometimes they're right. More often, they're wrong about which deadline actually applies to them, and the difference costs them either a lifetime penalty or months of uncovered medical bills while they wait for the next window.
 
@@ -44,11 +44,11 @@ Most people's first encounter with Medicare happens around their 65th birthday. 
 
 That sounds generous. Here's the catch most people miss.
 
-If you wait until those last three months to sign up, your coverage won't start right away. Sign up in the three months before your birthday month, and your Part B (medical insurance) starts the first day of your birthday month. Sign up in your birthday month or the month after, and coverage starts the following month. Wait until the second or third month after your birthday month, and there's a gap of up to three months before you're covered. This matters enormously if you're in the middle of treatment for anything.
+If you wait until the last few months to sign up, your coverage won't start right away. Sign up in the three months before your birthday month, and your Part B (medical insurance) starts the first day of your birthday month. Sign up in your birthday month, and coverage starts the following month. Wait until the one to three months after your birthday month, and there's a gap of up to three months before you're covered. This matters enormously if you're in the middle of treatment for anything.
 
 My strong advice: enroll in the three months before you turn 65 unless you have a very specific reason not to. Don't let the full seven months lull you into thinking it doesn't matter when within that window you act.
 
-One more thing. The IEP covers Part A (hospital insurance) and Part B. Part D, which covers prescription drugs, has its own enrollment logic tied to the same window, but through a private insurer. You can also use this period to enroll in a Medicare Advantage plan (Part C, an all-in-one alternative to Original Medicare offered through private insurance). It all happens at the same time, but you need to be intentional about each piece.
+One more thing. The IEP covers Part A (hospital insurance) and Part B. Part D, which covers prescription drugs, has its own enrollment window that is separate from the Part A and B signup but follows the same seven-month timing, and you enroll through a private insurer. You can also use this period to enroll in a Medicare Advantage plan (Part C, an all-in-one alternative to Original Medicare offered through private insurance). It all happens at the same time, but you need to be intentional about each piece.
 
 ## If You're Still Working Past 65, Read This Carefully
 
@@ -60,7 +60,7 @@ When that employer coverage ends, you get an eight-month [Special Enrollment Per
 
 I'd also caution you not to confuse "creditable coverage" with just having insurance. The IRS and Medicare definitions are specific. If your employer plan is considered creditable drug coverage (your plan administrator is required to tell you this in writing each year), you're protected. If it isn't, penalties can apply even if you technically had insurance. When in doubt, get that notice in writing and keep it somewhere you can actually find it.
 
-A common mistake is assuming that coverage under a spouse's retiree health plan provides protected status to delay Medicare. It doesn't. The late enrollment penalty is 10% added to the Part B premium for every 12-month period of delay. On a base premium of $202.90 per month (the 2026 standard Part B premium), even a two-year delay means paying roughly $243.48 a month instead. For the rest of your life. That's not a hypothetical. It's exactly how the penalty works.
+A common mistake is assuming that coverage under a spouse's retiree health plan provides protected status to delay Medicare. It doesn't. The late enrollment penalty is 10% added to the Part B premium for every full 12-month period of delay. On a base premium of $202.90 per month (the 2026 standard Part B premium), even a two-year delay means paying roughly $243.48 a month instead. For the rest of your life. That's not a hypothetical. It's exactly how the penalty works.
 
 ## The Annual Enrollment Period Is Not Your Backup for Late Signups
 

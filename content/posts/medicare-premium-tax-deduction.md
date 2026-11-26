@@ -1,6 +1,7 @@
 ---
 title: "Medicare Premium Tax Deduction: Who Qualifies and How to Claim It"
 date: 2026-11-25T23:03:14.085531+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Learn if you can deduct Medicare premiums from your taxes, eligibility requirements, and steps to claim this potential tax benefit."
 image: "/img/heroes/7247409.jpg"
@@ -9,7 +10,7 @@ tags: ["medicare", "premium", "deduction"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-premium-tax-deduction"
 affiliate_disclosure: true
 faqs:
@@ -30,7 +31,7 @@ Medicare premiums can absolutely be deducted from your federal taxes, but whethe
 That 7.5% floor is where most people get tripped up. It's not a dollar-for-dollar deduction. It's a threshold you have to clear first. If your AGI is $60,000, only medical expenses above $4,500 (7.5% of $60,000) are actually deductible. For someone with modest medical costs and a standard deduction that already beats their itemized total, the Medicare deduction may be worth exactly zero. That's not pessimism; it's math worth running before you assume you're saving money.
 
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare premiums are deductible as medical expenses, but only amounts exceeding 7.5% of your AGI.</li><li style="margin:5px 0">You must itemize on Schedule A to claim this deduction; the standard deduction eliminates it.</li><li style="margin:5px 0">Self-employed individuals can deduct 100% of Medicare premiums above the line, no itemizing needed.</li><li style="margin:5px 0">Part B ($202.90/month in 2026), Part D, Medicare Advantage, and Medigap premiums all qualify.</li><li style="margin:5px 0">IRMAA surcharges you pay count as deductible premiums too.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare premiums are deductible as medical expenses, but only amounts exceeding 7.5% of your AGI.</li><li style="margin:5px 0">You must itemize on Schedule A to claim this deduction; the standard deduction eliminates it.</li><li style="margin:5px 0">Self-employed individuals may be able to deduct Medicare premiums above the line, no itemizing needed, subject to limits.</li><li style="margin:5px 0">Part B ($202.90/month in 2026), Part D, Medicare Advantage, and Medigap premiums all qualify.</li><li style="margin:5px 0">IRMAA surcharges you pay count as deductible premiums too.</li></ul></div>
 
 
 ## Who Actually Benefits
@@ -58,7 +59,7 @@ What doesn't qualify: late enrollment penalties added to your Part B or [Part D 
 
 ## The Math in Practice
 
-**Example:** Assume a married couple, both retired, with combined AGI of $80,000 in 2026. Each pays the standard Part B premium of $202.90/month, and they each have a Medigap Plan G policy costing $180/month. They also paid $2,400 in dental expenses during the year.
+**Example:** Consider a hypothetical married couple, both retired, with combined AGI of $80,000 in 2026. Each pays the standard Part B premium of $202.90/month, and they each have a Medigap Plan G policy costing $180/month. They also paid $2,400 in dental expenses during the year.
 
 Their total qualified medical expenses:
 

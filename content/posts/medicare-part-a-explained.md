@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 You're 64, six months from retirement, and someone asks: "Do you have hospital coverage?" You pause. Medicare's coming, sure, but the details feel foggy. Part A rings a bell, but what does it actually cover? Will you pay for it? What happens if you miss a deadline? That fog is more common than you'd think, and it costs people real money. Let me walk you through Medicare Part A so you can step into retirement actually knowing what you have.
 
@@ -61,7 +61,7 @@ But premium-free isn't completely free. Part A has cost-sharing once you actuall
 
 **The Part A deductible** applies per benefit period, not per calendar year. A benefit period starts when you're admitted as an inpatient and ends when you've been out of the hospital and haven't received SNF care for 60 consecutive days. You pay the deductible once per benefit period, and there's no limit on how many benefit periods you can have in a year.
 
-After paying the deductible, Part A covers all hospital costs for days 1 through 60. Days 61 to 90 cost you daily coinsurance. Beyond day 90, you tap into your "lifetime reserve days", 60 total, per your lifetime, not per benefit period. Once those are spent, you're on the hook for everything. For SNF care, Part A covers days 1 through 20 fully. Days 21 to 100 require daily coinsurance. After 100 days, Part A pays nothing.
+After paying the deductible, Part A covers all hospital costs for days 1 through 60. Days 61 to 90 cost you daily coinsurance. Beyond day 90, you tap into your "lifetime reserve days", 60 total for your entire lifetime, not per benefit period. Once those are spent, you're on the hook for everything. For SNF care, Part A covers days 1 through 20 fully. Days 21 to 100 require daily coinsurance. After 100 days, Part A pays nothing.
 
 This is why many people add a Medicare Supplement (Medigap) plan to fill those gaps.
 
@@ -75,7 +75,7 @@ If you're already collecting Social Security when you turn 65, you'll be automat
 
 Still working at 65 with employer coverage through a current employer (or spouse's current employer)? You may qualify for a Special Enrollment Period letting you delay without penalty. The word "current" matters, COBRA and retiree coverage don't count.
 
-If you miss your IEP and don't qualify for an SEP, the **General Enrollment Period (GEP)** runs January 1 through March 31 each year, with coverage starting July 1. But if you owe a premium for Part A, late enrollment adds a 10% penalty for twice as many years as you delayed. That penalty sticks around for life.
+If you miss your IEP and don't qualify for an SEP, the **General Enrollment Period (GEP)** runs January 1 through March 31 each year, with coverage starting the first day of the month after you sign up. But if you owe a premium for Part A, late enrollment adds a 10% penalty for twice as many years as you delayed. The penalty does not last for life; it ends once you've paid it for that many years.
 
 Call a SHIP counselor when you're unsure. The State Health Insurance Assistance Program ([SHIP](https://www.shiphelp.org/)) offers free, unbiased help from trained counselors in every state. They'll look at your work history, current coverage, and timeline and tell you exactly what to do.
 
@@ -97,7 +97,7 @@ Use this checklist to get Part A rolling smoothly.
 
 **Step 1: Check your Social Security statement.** Log into My Social Security at ssa.gov and confirm your work credits. Do you have 40 or more?
 
-**Step 2: Find out if you'll be auto-enrolled.** Auto-enrollment happens if you're already collecting Social Security or Railroad Retirement Board benefits at least four months before turning 65. Otherwise, you apply.
+**Step 2: Find out if you'll be auto-enrolled.** Auto-enrollment happens if you're already collecting Social Security or Railroad Retirement Board benefits when you turn 65. Otherwise, you apply.
 
 **Step 3: Apply if needed.** Apply online at ssa.gov, call Social Security at 1-800-772-1213, or visit your local office. The online application takes about 10 minutes.
 

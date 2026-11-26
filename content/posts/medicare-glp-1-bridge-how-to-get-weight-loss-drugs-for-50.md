@@ -9,12 +9,12 @@ tags: ["medicare", "glp-1", "bridge:", "weight-loss", "drugs"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-glp-1-bridge-how-to-get-weight-loss-drugs-for-50"
 affiliate_disclosure: true
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
-Most people assume Medicare simply doesn't cover weight-loss drugs, full stop. That's been true for decades, thanks to a longstanding federal exclusion that kept obesity medications completely off the table. But starting July 1, 2026, that changes. CMS is launching the Medicare GLP-1 Bridge, and if you or someone you love has a Part D plan and a BMI over 27, this is genuinely worth understanding before the month is out.
+Most people assume Medicare simply doesn't cover weight-loss drugs, full stop. That's been true for decades, thanks to a longstanding federal exclusion that kept obesity medications completely off the table. But starting July 1, 2026, that changes. CMS is launching the Medicare GLP-1 Bridge, and if you or someone you love has a Part D plan and a BMI of 27 or higher, this is genuinely worth understanding.
 
 The details are more interesting, and also more complicated, than the headlines suggest.
 
@@ -30,7 +30,7 @@ The structural reason for this separation matters too. CMS operates the Bridge t
 
 Three medications are on the covered list: all formulations of Wegovy (semaglutide), all formulations of Foundayo (a newer GLP-1 agent), and the KwikPen formulation of Zepbound (tirzepatide). That last one comes with an important asterisk. The single-dose vial and single-dose pen formulations of Zepbound are excluded. Only the KwikPen counts.
 
-This matters because Zepbound's single-dose vials have become popular as a lower-cost option in recent years. If your doctor's been prescribing you those, you'd need a formulation change to qualify under the Bridge. That's a conversation worth having before July 1, not after, because prior authorization requests can't be submitted until the program officially opens.
+This matters because Zepbound's single-dose vials have become popular as a lower-cost option in recent years. If your doctor's been prescribing you those, you'd need a formulation change to qualify under the Bridge. That's a conversation worth having early, since a formulation change may be needed before a prior authorization request can be submitted.
 
 What struck me here was that Ozempic and Mounjaro, which are the diabetic-indication versions of the same active ingredients, aren't part of this program. The Bridge is specifically for obesity treatment. CMS has been careful to draw that line.
 
@@ -62,7 +62,7 @@ The indefinite delay of BALANCE also signals that CMS is still working through q
 
 ## What to Do Before July 1
 
-If you think you might qualify, the most useful thing you can do right now is gather your documentation. Know your current BMI measurement. Pull together any records related to your comorbidities, a recent A1C if you have prediabetes, cardiology notes if heart disease is the qualifying condition. Then contact your primary care provider and ask specifically whether they're prepared to submit a GLP-1 Bridge prior authorization on July 1 or shortly after.
+If you think you might qualify, the most useful thing you can do right now is gather your documentation. Know your current BMI measurement. Pull together any records related to your comorbidities, a recent A1C if you have prediabetes, cardiology notes if heart disease is the qualifying condition. Then contact your primary care provider and ask specifically whether they're prepared to submit a GLP-1 Bridge prior authorization.
 
 Check your current plan type as well. If you're on Original Medicare without a Part D plan, you won't be eligible. The Bridge requires active Part D enrollment.
 

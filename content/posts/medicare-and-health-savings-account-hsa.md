@@ -9,7 +9,7 @@ tags: ["medicare", "health", "savings", "account"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-and-health-savings-account-hsa"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "Yes. Part A enrollment alone disqualifies you from making new HSA contributions, even if you haven't enrolled in Part B. There's no 'partial' Medicare enrollment that preserves HSA eligibility."
  - q: "If I decline Medicare Part A to keep my HSA, am I giving up something valuable?"
    a: "Part A is premium-free for most people who've worked 40 or more quarters, so declining it has a real cost. You'd give up hospital coverage to preserve HSA contribution ability. For most people, that trade doesn't pencil out unless they have another specific reason to delay and are still building significant HSA assets. Run the numbers before deciding."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 Most people get the Medicare-HSA relationship completely backwards. They assume an HSA is just a savings account, so it shouldn't matter what insurance you have. Wrong. The IRS ties HSA eligibility directly to your health coverage type, not your age or income, and the moment Medicare enters the picture, everything changes.
 
@@ -43,7 +43,7 @@ Here's the distinction that matters: the prohibition is on *contributions*, not 
 
 Here's a scenario that causes real grief: you turn 65 in October and sign up for Medicare starting November 1. You've been contributing to your HSA all year, including those months before Medicare. Under normal IRS rules, you'd prorate your contribution limit for the months you were eligible. But there's a tempting shortcut called the "last month rule" that lets you contribute the full annual amount if you were HSA-eligible on December 1, regardless of when that eligibility actually started.
 
-Problem: if you use the last month rule and then enroll in Medicare, you must remain eligible for the entire following calendar year or face taxes and a 10% penalty on excess contributions. Most people who retire at 65 and enroll in Medicare immediately aren't going to stay HSA-eligible through the next December. So the last month rule becomes a trap.
+Problem: if you use the last month rule and then enroll in Medicare, you must remain eligible for the entire following calendar year (the testing period) or face income tax and a 10% additional tax on the excess contributions. Most people who retire at 65 and enroll in Medicare immediately aren't going to stay HSA-eligible through the next December. So the last month rule becomes a trap.
 
 The safe approach is to prorate your contributions based on actual eligible months. If you're Medicare-eligible starting in May, you're eligible for four months (January through April), so you can contribute 4/12 of the annual limit. Stop contributing before your Medicare start date.
 
@@ -60,7 +60,7 @@ This one is genuinely sneaky. When you apply for Social Security benefits at or 
 
 Example: you turn 65 in March 2026, keep contributing to your HSA, and then apply for Social Security in September 2026. Medicare Part A activates retroactively to March (or earlier). Those contributions from March forward are now excess contributions.
 
-The fix is straightforward: stop HSA contributions at least six months before you plan to claim Social Security. Some advisors push that to the full six months before you turn 65 if you're planning to claim right away. The Centers for Medicare & Medicaid Services has information about this on their site, but it's buried and not flagged during enrollment. Worth finding anyway.
+The fix is straightforward: stop HSA contributions at least six months before you plan to claim Social Security. If you plan to claim Social Security right around age 65, the same logic applies: stop contributing six months before you expect to enroll.
 
 ## Your Existing HSA Balance Is Actually Valuable in Retirement
 

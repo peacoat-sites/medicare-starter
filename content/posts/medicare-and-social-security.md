@@ -9,7 +9,7 @@ tags: ["medicare", "social", "security"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-and-social-security"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
     a: "Yes. If you haven't worked enough quarters yourself (40 quarters, or roughly 10 years of Medicare-taxed work), you can qualify for premium-free Part A based on your current or former spouse's work record, as long as you're at least 65 and they've met the 40-quarter requirement."
   - q: "If I delay Social Security until 70, do I also delay Medicare?"
     a: "No. These are separate decisions. You should still enroll in Medicare at 65 (or during your Special Enrollment Period if you have qualifying employer coverage). Delaying Social Security is often a smart financial move. Delaying Medicare without qualifying coverage is almost never a smart move, and comes with permanent penalties."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Many people assume Medicare and Social Security are basically the same program. They're not, and mixing them up can cost you real money and, in some cases, permanently reduce your monthly income.
@@ -34,7 +34,7 @@ These two programs are deeply connected, but they work on completely different r
 
 ## How They're Connected (And Where People Get Confused)
 
-Here's the part most people don't realize: you don't have to be receiving Social Security benefits to get Medicare. And you don't have to be 65 to get Social Security. The programs share a birthday in 1965, they're both administered with federal oversight, and your Social Security earnings record is what Medicare uses to determine your Part A (hospital insurance) premium, but they're genuinely separate systems.
+Here's the part most people don't realize: you don't have to be receiving Social Security benefits to get Medicare. And you don't have to be 65 to get Social Security. Medicare was created in 1965 and Social Security in 1935, both are administered with federal oversight, and your Social Security earnings record is what Medicare uses to determine your Part A (hospital insurance) premium, but they're genuinely separate systems.
 
 Social Security is an income program. It replaces a portion of your pre-retirement wages when you retire, become disabled, or die and leave behind eligible survivors. Medicare is a health insurance program. It covers hospital stays, doctor visits, prescription drugs, and more, starting mostly at 65 (with earlier eligibility if you have a qualifying disability or certain conditions like [End-Stage Renal Disease](/medicare-eligibility-requirements/)).
 
@@ -75,7 +75,7 @@ Part A covers inpatient hospital care. If you or your spouse worked and paid Med
 
 [Part B covers outpatient care](/medicare-part-b-explained/): doctor visits, lab work, preventive screenings, and more. The standard premium as of July 2026 is $202.90/month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). IRMAA is calculated using your tax return from two years prior, so a high-income year can haunt you even if your income has since dropped. Worth flagging for anyone who sold a business, a rental property, or had a big Roth conversion recently.
 
-Part C is Medicare Advantage, a private-plan alternative to original Medicare that bundles in Part D drug coverage. No direct Social Security connection here, though your premium is still often deducted from your Social Security check if you're receiving benefits.
+Part C is Medicare Advantage, a private-plan alternative to original Medicare that bundles Parts A and B and usually includes Part D drug coverage. No direct Social Security connection here, though your premium is still often deducted from your Social Security check if you're receiving benefits.
 
 Part D covers prescription drugs. Same deal: premium is often deducted automatically from Social Security.
 
@@ -87,11 +87,11 @@ That automatic deduction is actually convenient for most people. The premium com
 
 I want to spend a moment on IRMAA because it blindsides people who did everything right.
 
-IRMAA applies to both Part B and Part D premiums. If your modified adjusted gross income (MAGI) from two years ago was above $109,000 for an individual (2026 thresholds, roughly), you'll pay more. A lot more. The top tier can push your Part B premium past $580/month, per person.
+IRMAA applies to both Part B and Part D premiums. If your modified adjusted gross income (MAGI) from two years ago was above $109,000 for an individual (2026 thresholds, roughly), you'll pay more. A lot more. The top tier can push your Part B premium to $689.90/month, per person.
 
 What most people don't realize: you can appeal IRMAA if your income has dropped due to a qualifying life event. Retirement, divorce, death of a spouse, or the loss of income-producing property all qualify. You file Form SSA-44 with the Social Security Administration and request that they use your more recent income instead.
 
-**Worked example:** Tom and Karen sold their small business in 2024, reporting $340,000 in income that year. In 2026, they're both fully retired with income well under the IRMAA threshold. But Medicare is still using their 2024 tax return, putting them both in the highest IRMAA bracket. They each file SSA-44 with documentation of their retirement. Within 8 weeks, their premiums drop back to the standard $202.90/month each, saving them over $790/month combined. That's real money.
+**Worked example:** Consider a married couple who sold their small business in 2024, reporting $340,000 in income that year. In 2026, they're both fully retired with income well under the IRMAA threshold. But Medicare is still using their 2024 tax return, putting them both in the highest IRMAA bracket. If they each file SSA-44 with documentation of their retirement, the outcome could look like this. Within 8 weeks, their premiums drop back to the standard $202.90/month each, saving them over $970/month combined. That's real money.
 
 You can download Form SSA-44 directly from ssa.gov and submit it to your local Social Security office. It's tedious paperwork, yes, but it's worth every minute.
 
@@ -115,7 +115,7 @@ If you haven't looked at your My Social Security account online, go do it today 
 
 For Medicare-specific information, [Medicare.gov](https://www.medicare.gov/) has a plan comparison tool that lets you plug in your zip code and medications to compare Part D and Medicare Advantage options side by side. I use it with clients every fall during Open Enrollment. It's not perfect, but it's the most useful free tool available.
 
-**Worked example:** A reader I'll call Dennis, a 67-year-old in Phoenix, had never looked at his Medicare.gov account. He was still on his original Part D plan from when he enrolled at 65. When we ran his medications through the plan comparison tool, we found a different plan would have covered his Eliquis (apixaban) at $45/month instead of $310/month. He switched during Open Enrollment, effective January 2026. Annual savings: roughly $3,180.
+**Worked example:** Consider a 67-year-old in Phoenix who has never looked at his Medicare.gov account. He was still on his original Part D plan from when he enrolled at 65. If he ran his medications through the plan comparison tool, he might find a different plan that covers his Eliquis (apixaban) at $45/month instead of $310/month. He switched during Open Enrollment, effective January 2026. Annual savings: roughly $3,180.
 
 ---
 

@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 You're staring at a pile of Medicare mail. One promises "$0 premiums and free dental!" The other looks like boring government stuff. You have no idea which one is actually Medicare.
 
@@ -54,22 +54,9 @@ Neither is universally better. That's the honest answer, and anyone claiming oth
 
 The $0 premium on a Medicare Advantage plan sounds incredible until you see the full picture.
 
-**Original Medicare** means a monthly Part B premium (the 2025 amount varies, check [Medicare.gov](https://www.medicare.gov/) for current figures). Part A has no premium if you or your spouse paid Medicare taxes for at least 10 years. But you're exposed to serious cost-sharing: Part A deductible per hospital benefit period, a Part B deductible, and then 20% coinsurance for most Part B services. The killer: no out-of-pocket maximum. A major illness can wipe you out financially without a supplement.
+**Original Medicare** means a monthly Part B premium (the 2025 amount varies, check [Medicare.gov](https://www.medicare.gov/) for current figures). Part A has no premium if you or your spouse paid Medicare taxes for at least 40 quarters (10 years); otherwise it costs $311 or $565 a month in 2026, depending on work history. But you're exposed to serious cost-sharing: Part A deductible per hospital benefit period, a Part B deductible, and then 20% coinsurance for most Part B services. The killer: no out-of-pocket maximum. A major illness can wipe you out financially without a supplement.
 
-**Medicare Advantage** usually charges a low or $0 monthly premium on top of your Part B premium (which you still pay). These plans use networks, copays, and out-of-pocket maximums. By law, every Advantage plan caps your annual out-of-pocket costs. That cap might be several thousand dollars, but at least there's a ceiling. Original Medicare has no such limit on its own.
-
-Here's how they stack up:
-
-| Feature | Original Medicare | Medicare Advantage |
-|---|---|---|
-| Monthly premium | Part B premium only | Part B premium + plan premium (often $0) |
-| Out-of-pocket maximum | None | Required by law (varies by plan) |
-| Doctor network | Any doctor accepting Medicare, nationwide | Usually restricted network (HMO or PPO) |
-| Referrals needed | No | Often yes (HMO plans) |
-| Dental, vision, hearing | Not covered | Often included |
-| Prescription drugs | Separate Part D plan needed | Usually bundled in |
-| Travel coverage | Nationwide | Limited to network area (usually) |
-| Prior authorization | Rarely required | Common |
+**Medicare Advantage** usually charges a low or $0 monthly premium on top of your Part B premium (which you still pay). These plans use networks, copays, and out-of-pocket maximums. By law, every Advantage plan caps your annual in-network out-of-pocket costs. The legal maximum is $9,250 in 2026, and many plans set a lower limit, but at least there's a ceiling. Original Medicare has no such limit on its own.
 
 A common mistake is picking a plan based purely on the $0 premium, only to have a claim denied because a specialist isn't in-network. The sticker price never tells the whole story.
 
@@ -117,7 +104,7 @@ You can change your mind. You're not locked in forever.
 
 You can switch from Original Medicare to Medicare Advantage, or between Advantage plans, during Annual Enrollment Period (AEP) from October 15 to December 7 each year. Changes take effect January 1.
 
-Going backwards, from Medicare Advantage back to Original Medicare, is also possible during AEP. But here's where it gets tricky: if you want to add a Medigap plan after leaving Medicare Advantage, insurers in most states can use medical underwriting and potentially deny you coverage or charge higher premiums based on your health history. There are some exceptions, but the general rule is straightforward. Your easiest window to get Medigap without underwriting is during your initial enrollment period when you first become eligible for Medicare.
+Going backwards, from Medicare Advantage back to Original Medicare, is also possible during AEP, and current Advantage members can also do it during the January 1 to March 31 Medicare Advantage Open Enrollment Period. But here's where it gets tricky: if you want to add a Medigap plan after leaving Medicare Advantage, insurers in most states can use medical underwriting and potentially deny you coverage or charge higher premiums based on your health history. There are some exceptions, but the general rule is straightforward. Your easiest window to get Medigap without underwriting is your Medigap open enrollment period, the 6 months starting the month you are 65 or older and enrolled in Part B.
 
 This might be the most important thing to understand about this whole decision. Going into Medicare Advantage at 65 when you're healthy can make financial sense, but it may be significantly harder to switch back to Original Medicare with Medigap if your health changes later.
 

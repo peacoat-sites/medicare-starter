@@ -1,7 +1,7 @@
 ---
 title: "How to Prepare for Part D Open Enrollment Before October 15"
 date: 2026-08-05T16:06:50.597126+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Prepare for Medicare Part D Open Enrollment starting October 15. Learn key steps to review plans, compare costs, and switch coverage to save money on prescripti"
 image: "/img/heroes/8123888.jpg"
@@ -10,18 +10,18 @@ tags: ["prepare", "part", "open", "enrollment", "before"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "how-to-prepare-for-part-d-open-enrollment-before-october-15"
 affiliate_disclosure: true
 ---
 
-Most people assume Part D open enrollment is a routine chore, something you skip if nothing major changed with your health. This fall is different. On July 28, 2026, CMS (the Centers for Medicare and Medicaid Services) announced it is ending the Part D Premium Stabilization Demonstration after December 31, 2026, a subsidy program that spent $9.8 billion over 2025 and 2026 to hold down drug plan premiums. When that support disappears, the roughly 25 million Americans enrolled in standalone Part D plans, also called PDPs ([Prescription Drug](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) Plans), will feel it in their 2027 premiums. The open enrollment window runs October 15 through December 7, 2026. But here's the thing: the best time to prepare is right now, in August, before a single 2027 price has even been published.
+Most people assume Part D open enrollment is a routine chore, something you skip if nothing major changed with your health. This fall is different. On July 28, 2026, CMS (the Centers for Medicare and Medicaid Services) announced it is ending the Part D Premium Stabilization Demonstration after December 31, 2026, a subsidy program that spent $9.8 billion over 2025 and 2026 to hold down drug plan premiums. When that support disappears, Americans enrolled in standalone Part D plans, also called PDPs ([Prescription Drug](/how-to-choose-a-medicare-part-d-prescription-drug-plan/) Plans), will feel it in their 2027 premiums. The open enrollment window runs October 15 through December 7, 2026, and the best time to prepare is before it opens, before a single 2027 price has even been published.
 
 And CMS Administrator Dr. Mehmet Oz did offer some, projecting that most beneficiaries will see increases of less than $10 [per month](/how-much-does-medicare-cost-per-month/). But independent analysts quoted in Forbes on July 31 warned that some plans could see significantly larger jumps, depending on how insurers restructure their offerings once the subsidy cushion is gone. Plan costs won't be certain until mid-to-late September 2026, when insurers release pricing. Every plan loads to Medicare.gov on October 1, giving shoppers a narrow window of just six weeks before enrollment opens. That's why August prep matters so much.
 
 What surprised me was how many people don't realize this subsidy was even running. If your premium felt stable over the past two years, part of the reason was a $26 per month reduction in 2025 and a $16 per month reduction in 2026, per reporting from MedicareFAQ and Medicare Starter. Those savings were invisible, built into the premium you paid. Now they won't be.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS ended the $9.8B Part D subsidy on July 28, 2026; 25 million enrollees face 2027 premium increases.</li><li style="margin:5px 0">The subsidy cut premiums by $26/month in 2025 and $16/month in 2026; removal reverses those savings.</li><li style="margin:5px 0">CMS projects increases under $10/month; independent analysts warn some plans may cost significantly more.</li><li style="margin:5px 0">2027 plan pricing posts to Medicare.gov on October 1, giving you just 6 weeks before Oct. 15 enrollment opens.</li><li style="margin:5px 0">The $2,100 out-of-pocket cap and $35 insulin cap remain in place for 2027.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS announced on July 28, 2026 that the $9.8B Part D subsidy ends after 2026; standalone plan enrollees face 2027 premium increases.</li><li style="margin:5px 0">The subsidy cut premiums by $26/month in 2025 and $16/month in 2026; removal reverses those savings.</li><li style="margin:5px 0">CMS projects increases under $10/month; independent analysts warn some plans may cost significantly more.</li><li style="margin:5px 0">2027 plan pricing posts to Medicare.gov on October 1, giving you just 6 weeks before Oct. 15 enrollment opens.</li><li style="margin:5px 0">The out-of-pocket cap ($2,100 in 2026) rises to $2,400 in 2027, and the $35 insulin cap remains in place.</li></ul></div>
 
 ## What the Subsidy Removal Actually Means in Dollars
 
@@ -41,7 +41,7 @@ The declining value from 2025 to 2026 is itself telling. The subsidy was already
 
 ## The Good News You Shouldn't Overlook
 
-Before you panic, some genuinely important protections are staying in place. The annual out-of-pocket cap on drug costs, which started at $2,000 in 2025 under the Inflation Reduction Act and is $2,100 in 2026, continues into 2027. So does the $35 monthly cap on insulin for Medicare beneficiaries. And the Medicare [drug price negotiation](/medicare-drug-price-negotiation-heads-to-2028-what-beneficiaries-shoul/) program is expanding: 10 drugs already have negotiated prices, and 15 additional drugs will gain negotiated prices in 2027. If any of those 25 drugs are in your medicine cabinet, you may actually pay less for those specific medications even as the premium itself rises.
+Before you panic, some genuinely important protections are staying in place. The annual out-of-pocket cap on drug costs, which started at $2,000 in 2025 under the Inflation Reduction Act and is $2,100 in 2026, continues into 2027 and rises to $2,400. So does the $35 monthly cap on insulin for Medicare beneficiaries. And the Medicare [drug price negotiation](/medicare-drug-price-negotiation-heads-to-2028-what-beneficiaries-shoul/) program is expanding: 10 drugs already have negotiated prices, and 15 additional drugs will gain negotiated prices in 2027. If any of those 25 drugs are in your medicine cabinet, you may actually pay less for those specific medications even as the premium itself rises.
 
 The out-of-pocket cap is especially significant for people on expensive specialty drugs. A premium increase of even $20 to $30 per month could be completely offset by catastrophic cost protection if you're someone who previously spent thousands out of pocket annually.
 
@@ -57,7 +57,7 @@ Finally, check whether you qualify for Extra Help (also called the Low Income Su
 
 ## When to Actually Compare Plans
 
-The practical answer is: start October 1, not October 15. Plans post to Medicare.gov on October 1, two weeks before enrollment officially opens. That two-week head start lets you compare without the enrollment clock ticking. The Medicare Plan Finder at Medicare.gov is the official tool, free, and it pulls real-time data from actual plan filings. Enter your drugs, your dosages, and your pharmacy, and sort by estimated annual drug cost rather than premium alone.
+The practical answer is: start October 1, not October 15. Plans post to Medicare.gov shortly before enrollment officially opens, which lets you compare without the enrollment clock ticking. The Medicare Plan Finder at Medicare.gov is the official tool, free, and it pulls real-time data from actual plan filings. Enter your drugs, your dosages, and your pharmacy, and sort by estimated annual drug cost rather than premium alone.
 
 If you want a second set of eyes, State Health Insurance Assistance Programs, known as SHIP counselors, offer free one-on-one help from trained volunteers. Every state has one. Find yours at shiphelp.org. These counselors are not selling anything. That matters.
 

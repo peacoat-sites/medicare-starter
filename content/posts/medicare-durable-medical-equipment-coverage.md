@@ -1,7 +1,7 @@
 ---
 title: "Medicare Durable Medical Equipment: What Gets Covered"
 date: 2026-07-11T15:10:30.781545+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn which durable medical equipment Medicare covers, how to qualify, what you pay, and how to find Medicare-approved suppliers near you."
 image: "/img/heroes/6010887.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "durable", "medical", "equipment", "coverage"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-durable-medical-equipment-coverage"
 affiliate_disclosure: true
 faqs:
@@ -60,7 +60,7 @@ Medicare requires that you use a Medicare-enrolled supplier. Not just any medica
 
 There's another layer: competitive bidding areas (CBAs). Since Medicare implemented its competitive bidding program, certain equipment types in certain geographic areas can only be covered if you use a contract supplier. If your city is in a CBA (and many major metro areas are), you must use one of Medicare's contracted suppliers for that category of equipment, or again, no coverage. This applies to things like oxygen, CPAP supplies, standard power wheelchairs, and hospital beds, among others. The list of current CBA areas and contract suppliers is on Medicare.gov, and I'd check it before you accept delivery of anything significant.
 
-A common problem arises when a referring clinician sends you to a Medicare-enrolled supplier who isn't contracted with your regional Competitive Bidding Area (CBA) for that specific equipment type. For example, in a CBA region for oxygen equipment, a non-contracted supplier's claim will deny, and switching to a contracted supplier can take weeks. Verify that your supplier holds the right CBA contract for your equipment type, rather than assuming the referring clinician has done this.
+A common problem arises when a referring clinician sends you to a Medicare-enrolled supplier who isn't contracted for your Competitive Bidding Area (CBA) and equipment type. In that case the claim can deny, and switching to a contracted supplier can take weeks. Verify that your supplier holds the right CBA contract for your equipment type, rather than assuming the referring clinician has done this.
 
 ## Getting Your Doctor's Documentation Right
 
@@ -70,11 +70,11 @@ Missing, vague, or incomplete paperwork will result in denial. The doctor's note
 
 Three real-world scenarios that show how this plays out:
 
-Patient with post-stroke hemiplegia needs a power wheelchair → Physician documents inability to self-propel a manual chair, PT performs evaluation, CMN completed correctly → Medicare approves, patient pays approximately $900 on a $4,500 chair after 20% coinsurance.
+Consider a patient with post-stroke hemiplegia who needs a power wheelchair → Physician documents inability to self-propel a manual chair, PT performs evaluation, CMN completed correctly → Medicare approves, patient pays approximately $900 on a $4,500 chair after 20% coinsurance.
 
-Diabetic patient needs a blood glucose monitor and test strips → Primary care doctor writes a prescription and notes insulin-dependent status → Medicare covers the monitor and up to 300 test strips per 3 months; patient pays roughly $15 out of pocket total after deductible.
+Consider a diabetic patient who needs a blood glucose monitor and test strips → Primary care doctor writes a prescription and notes insulin-dependent status → Medicare covers the monitor and up to 300 test strips per 3 months; patient pays roughly $15 out of pocket total after deductible.
 
-COPD patient needs home oxygen → Pulmonologist orders oxygen with documented oxygen saturation of 88% or below (the threshold Medicare requires) → Medicare covers monthly rental; if patient improves above saturation threshold within 12 months, coverage can be discontinued.
+Consider a COPD patient who needs home oxygen → Pulmonologist orders oxygen with documented oxygen saturation of 88% or below (the threshold Medicare requires) → Medicare covers monthly rental; if patient improves above saturation threshold within 12 months, coverage can be discontinued.
 
 ## Medicare Advantage and DME
 

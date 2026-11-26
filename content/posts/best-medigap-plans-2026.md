@@ -12,7 +12,7 @@ faqs:
  - q: "Can I be denied a Medigap plan if I have pre-existing conditions?"
    a: "During your six-month Medigap Open Enrollment Period, no. Insurance companies are legally required to sell you any plan they offer at standard rates, regardless of your health history. Outside that window, in most states, they can use medical underwriting and may deny you or charge more. A handful of states, including New York, Connecticut, and Massachusetts, have year-round guaranteed issue laws. Check your state's rules."
  - q: "Is Plan G better than Plan F in 2026?"
-   a: "For anyone newly eligible for Medicare, this is a moot point: Plan F isn't available to you. For those who already have Plan F, it's usually worth keeping if the premium is reasonable. Plan G covers nearly everything Plan F does except the Part B deductible. Since that deductible is just over $250 per year, Plan G is often the smarter financial choice even for those who could still access Plan F."
+   a: "For anyone newly eligible for Medicare, this is a moot point: Plan F isn't available to you. For those who already have Plan F, it's usually worth keeping if the premium is reasonable. Plan G covers nearly everything Plan F does except the Part B deductible. Since that deductible is $283 in 2026, Plan G is often the smarter financial choice even for those who could still access Plan F."
  - q: "Does Medigap cover prescription drugs?"
    a: "No. Medigap plans sold after 2006 don't include prescription drug coverage. You'll need to enroll in a separate Medicare Part D prescription drug plan. Missing your Part D enrollment window can result in a late enrollment penalty that lasts as long as you have Part D, so don't delay that enrollment either."
  - q: "How much does Medigap cost per month?"
@@ -22,8 +22,8 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 You just turned 65, enrolled in Original Medicare, and your first Explanation of Benefits shows a 20% coinsurance charge plus a $1,736 hospital deductible for 2026. One serious illness or two surgeries in a year and you're looking at thousands in out-of-pocket costs. That gap is exactly why Medigap exists. Pick the right plan in 2026 and you could save thousands, or sleep better at night knowing you're covered.
 
@@ -31,7 +31,7 @@ You just turned 65, enrolled in Original Medicare, and your first Explanation of
 
 Medigap, also called Medicare Supplement Insurance, is private insurance that fills the holes in Original Medicare. It doesn't replace Medicare. It works alongside it. When Medicare pays its portion, your Medigap policy covers some or all of what's left, depending on which plan you chose.
 
-There are 10 standardized Medigap plans, labeled A through N (C and F aren't available to anyone who became Medicare-eligible after January 1, 2020). Because the federal government standardizes these plans, a Plan G from Blue Cross covers the exact same benefits as a Plan G from Aetna or Cigna. The only real difference is the premium and customer service quality.
+There are 10 standardized Medigap plans, labeled A through N (C and F can't be bought by anyone who became Medicare-eligible on or after January 1, 2020). Because the federal government standardizes these plans, a Plan G from Blue Cross covers the exact same benefits as a Plan G from Aetna or Cigna. The only real difference is the premium and customer service quality.
 
 What Medigap does NOT cover: prescription drugs (that's Part D), dental, vision, hearing, or long-term care. I've talked with seniors who thought their Medigap card would cover everything, and the confusion around dental alone causes genuine frustration. Know the boundaries before you commit.
 
@@ -49,7 +49,7 @@ Not every plan fits every person.
 
 **Plan G: The Gold Standard for New Enrollees**
 
-If you're becoming Medicare-eligible in 2020 or later, Plan G is the most comprehensive option. It covers your Part A hospital deductible, Part A coinsurance and hospital costs for up to 365 days after Medicare benefits end, Part B coinsurance or copayments, the first three pints of blood, Part A hospice care coinsurance, skilled nursing facility coinsurance, and 80% of foreign travel emergency costs (up to limits).
+If you became Medicare-eligible on or after January 1, 2020, Plan G is the most comprehensive option available to you. It covers your Part A hospital deductible, Part A coinsurance and hospital costs for up to 365 days after Medicare benefits end, Part B coinsurance or copayments, the first three pints of blood, Part A hospice care coinsurance, skilled nursing facility coinsurance, and 80% of foreign travel emergency costs (up to limits).
 
 The only thing Plan G doesn't cover is the Part B deductible, which is $283 in 2026. You pay that yourself at the start of each year, then you're covered for Medicare-approved services. If you see specialists regularly or expect surgery, that tradeoff almost always makes sense.
 
@@ -61,13 +61,13 @@ The benefit is a noticeably lower monthly premium. Plan N may work well for peop
 
 **High-Deductible Plan G: For Budget-Conscious Seniors**
 
-This is Plan G's lower-premium cousin. You get the same coverage, but you pay a deductible (around $2,870 in 2025, adjusted annually) before the plan kicks in. After you hit that deductible, coverage works like standard Plan G.
+This is Plan G's lower-premium cousin. You get the same coverage, but you pay an annual deductible (about $2,870 in 2025; it is adjusted every year, so confirm the 2026 amount) before the plan kicks in. After you hit that deductible, coverage works like standard Plan G.
 
 This works for people who are healthy, have some savings for an unexpected medical bill, and want to keep monthly premiums down. Think of it as a high-deductible health plan for your retirement.
 
 **Plan K and Plan L: Partial Coverage at Lower Premiums**
 
-Plans K and L cover a percentage of benefits rather than 100%. Plan K covers 50% of most cost-sharing; Plan L covers 75%. Both have out-of-pocket maximums, which matters. They're less popular but can work for people on tight budgets who still want catastrophic protection.
+Plans K and L cover a percentage of benefits rather than 100%. Plan K covers 50% of most cost-sharing; Plan L covers 75%. Both have out-of-pocket maximums ($8,000 for Plan K and $4,000 for Plan L in 2026), which matters. They're less popular but can work for people on tight budgets who still want catastrophic protection.
 
 ## How Premiums Are Calculated (This Part Really Matters)
 
@@ -118,7 +118,7 @@ AARP's Medicare resource center at [aarp.org/health/medicare-insurance](https://
 | Plan N | Yes | Yes (with copays) | No | Yes | Yes | No | Healthy seniors wanting lower premiums |
 | HD Plan G | Yes (after deductible) | Yes (after deductible) | No | Yes | Yes | Yes | Budget-conscious, healthy seniors |
 | Plan K | 50% | 50% | No | 50% | No | No | Very tight budget, some protection needed |
-| Plan A | No | Yes | No | No | No | No | Minimal coverage, lowest premium |
+| Plan A | Part A deductible not covered | Yes | No | No | No | No | Minimal coverage, lowest premium |
 
 *Note: Plan F and Plan C cover the Part B deductible but are only available to those eligible for Medicare before January 1, 2020.*
 

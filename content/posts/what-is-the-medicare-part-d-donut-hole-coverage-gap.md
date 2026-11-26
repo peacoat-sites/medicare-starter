@@ -1,6 +1,7 @@
 ---
 title: "Medicare Part D Donut Hole: Coverage Gap Explained"
 date: 2026-11-17T22:14:03.548685+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Learn how Medicare Part D's donut hole works, when you enter the coverage gap, and strategies to reduce your prescription drug costs during this period."
 image: "/img/heroes/12585200.jpg"
@@ -9,12 +10,12 @@ tags: ["what", "medicare", "part", "donut", "hole"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "what-is-the-medicare-part-d-donut-hole-coverage-gap"
 affiliate_disclosure: true
 faqs:
   - q: "Does the donut hole still exist in 2026?"
-    a: "Yes, the coverage gap still exists as a defined phase of Part D. However, your costs while in the gap are now capped at 25% for covered drugs, which is a significant improvement over earlier years. The gap doesn't mean you're suddenly paying full retail price."
+    a: "No. The Inflation Reduction Act eliminated the coverage gap starting in 2025. In 2026, after you meet the deductible (maximum $615), you pay your plan's copays or coinsurance until your out-of-pocket costs reach the $2,100 annual cap, and then you pay nothing more for covered drugs for the rest of the year."
   - q: "Does what my plan pays count toward reaching the donut hole?"
     a: "Yes. The initial coverage limit is based on total drug spending, meaning what you paid plus what your plan paid. That combined total is what triggers entry into the gap. Once you're in the gap, only your true out-of-pocket costs (TrOOP) count toward reaching catastrophic coverage."
   - q: "Can I avoid the coverage gap by switching plans mid-year?"
@@ -25,11 +26,11 @@ faqs:
     a: "Call your plan's member services and ask about tier exceptions or lower-cost alternatives. Apply for Extra Help through the Social Security Administration (1-800-772-1213). Contact your state's SHIP program for free counseling. Some drug manufacturers also have patient assistance programs for people who don't qualify for Extra Help but still can't afford their medications."
 ---
 
-Most people on Medicare Part D ([prescription drug](/medicare-prescription-drug-costs-2026/) coverage) hit the coverage gap at some point, and the first time it happens, it's genuinely confusing. The short version: once you and your plan together spend a certain amount on covered drugs in a year, you enter a phase called the coverage gap, sometimes called the "donut hole," where your cost-sharing temporarily changes. The good news is that the donut hole is significantly less painful than it used to be, and since 2020 it's been capped in a way that limits your out-of-pocket exposure.
+Most people on Medicare Part D ([prescription drug](/medicare-prescription-drug-costs-2026/) coverage) hit the coverage gap at some point, and the first time it happens, it's genuinely confusing. The short version: once you and your plan together spend a certain amount on covered drugs in a year, you enter a phase called the coverage gap, sometimes called the "donut hole," where your cost-sharing temporarily changes. The good news is that the donut hole has been eliminated: since 2025, Part D has an annual out-of-pocket cap ($2,100 in 2026) instead of a coverage gap.
 
 Understanding exactly how this works, and what you can do about it, matters more than most people realize.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D coverage gap begins after you and your plan reach a set combined drug spending threshold each year.</li><li style="margin:5px 0">Since 2020, your costs in the coverage gap are capped at 25% for both brand-name and generic drugs.</li><li style="margin:5px 0">Once your true out-of-pocket costs hit the catastrophic coverage threshold, your costs drop sharply.</li><li style="margin:5px 0">Extra Help (Low Income Subsidy) eliminates the donut hole for qualifying enrollees.</li><li style="margin:5px 0">Check Medicare.gov's Plan Finder to compare how different Part D plans handle gap coverage.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Part D coverage gap begins after you and your plan reach a set combined drug spending threshold each year.</li><li style="margin:5px 0">Since 2025, the donut hole no longer exists; Part D instead has an annual out-of-pocket cap of $2,100 in 2026.</li><li style="margin:5px 0">Once your out-of-pocket costs reach the cap, you pay nothing more for covered drugs for the rest of the year.</li><li style="margin:5px 0">Extra Help (Low Income Subsidy) lowers drug copays further for qualifying enrollees.</li><li style="margin:5px 0">Check Medicare.gov's Plan Finder to compare how different Part D plans handle gap coverage.</li></ul></div>
 
 ## How Part D Coverage Actually Works
 
@@ -39,22 +40,22 @@ Part D isn't one flat benefit. It runs in stages, and your costs shift as you mo
 
 **Stage 2: Initial coverage.** After your deductible, you pay copays or coinsurance and your plan pays the rest. This continues until the combined amount you and your plan have spent on covered drugs reaches the initial coverage limit for that year.
 
-**Stage 3: Coverage gap (the donut hole).** You're now in the gap. For 2026, you should verify the exact initial coverage limit at Medicare.gov, since the [Centers for Medicare & Medicaid Services](https://www.cms.gov/) updates these figures each fall during the Annual Enrollment Period.
+**Stage 3: Coverage gap (eliminated).** The coverage gap no longer exists. Since 2025, you stay in the initial coverage stage until your out-of-pocket costs reach the annual cap, which the [Centers for Medicare & Medicaid Services](https://www.cms.gov/) sets each year ($2,100 in 2026).
 
-**Stage 4: Catastrophic coverage.** Once your true out-of-pocket spending (more on what that means in a moment) reaches the annual threshold, catastrophic coverage kicks in and your costs drop substantially.
+**Stage 4: Catastrophic coverage.** Once your out-of-pocket spending reaches the $2,100 annual cap in 2026, you pay nothing more for covered drugs for the rest of the year.
 
 ## What the Donut Hole Costs You Now
 
 This is where a lot of outdated information circulates online, so let's be direct. Before the Affordable Care Act's changes were fully phased in, being in the [coverage gap](/medicare-part-d-coverage-gap/) could mean paying the full retail price of your drugs. That era is over.
 
-Currently, while you're in the gap, you pay **25%** of the cost of both brand-name and generic covered drugs. Your plan pays the rest. For most people on common generics, this isn't dramatically different from initial coverage costs. Where it stings is on expensive brand-name medications, where 25% of a $500 monthly drug can still be a lot.
+Today there is no gap phase at all. After the deductible, you pay your plan's copays or coinsurance until your out-of-pocket spending reaches the $2,100 cap in 2026. Where costs still add up is on expensive brand-name medications, where cost-sharing on a $500 monthly drug can reach the cap quickly.
 
 | Coverage Phase | What You Typically Pay |
 |---|---|
 | Deductible phase | Up to 100% (until deductible met) |
 | Initial coverage | Your plan's copay or coinsurance (varies by plan tier) |
-| Coverage gap (donut hole) | 25% of the cost for covered brand-name and generic drugs |
-| Catastrophic coverage | A small copay or coinsurance; verify current amounts at Medicare.gov |
+| Coverage gap (donut hole) | Eliminated in 2025 |
+| After the $2,100 out-of-pocket cap (2026) | $0 for covered drugs for the rest of the year |
 
 One thing that trips people up: the calculation for when you *exit* the gap and enter catastrophic coverage is based on "true out-of-pocket" costs (sometimes called TrOOP), not just what you paid at the pharmacy counter. TrOOP includes what you paid plus the manufacturer discount on brand-name drugs. That manufacturer discount counts toward your TrOOP total even though you didn't pay it yourself, which helps you reach the catastrophic threshold faster than you might expect.
 
@@ -80,7 +81,7 @@ Your state may also have a pharmaceutical assistance program that fills gaps. Th
 
 **Example:** Assume a Part D enrollee has no deductible on their plan. They take one brand-name drug with a negotiated price of $400 per month and one generic at $20 per month. The initial coverage limit for their plan year is $5,030 (a figure CMS has used in recent years; confirm the current threshold at Medicare.gov). During initial coverage, they pay their plan's cost-sharing tiers. Once combined spending by them and the plan crosses $5,030, they enter the gap. At that point, they pay 25% of each covered drug: $100/month for the brand-name drug and $5/month for the generic. The manufacturer's discount on the brand-name drug counts toward TrOOP; verify the current manufacturer discount percentage at Medicare.gov, as it changed with the Inflation Reduction Act restructuring of Part D. So each month in the gap, their TrOOP increases by what they paid out of pocket plus any applicable manufacturer discount that counts toward TrOOP; check Medicare.gov for the current discount percentage to calculate your specific TrOOP accumulation. They'll reach the catastrophic threshold faster than they might assume, and catastrophic coverage then sharply reduces their costs for the rest of the year.
 
-The math here matters. A lot of people assume they'll be stuck paying high costs all year. Often they're not.
+The math here matters. A lot of people assume they'll be stuck paying high costs all year. With the $2,100 cap in 2026, they aren't: once spending reaches the cap, covered drugs cost nothing more that year.
 
 ## Picking a Plan That Softens the Blow
 

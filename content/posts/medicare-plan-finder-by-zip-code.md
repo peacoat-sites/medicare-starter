@@ -9,7 +9,7 @@ tags: ["medicare", "plan", "finder", "code"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-plan-finder-by-zip-code"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "They're estimates based on standard pricing and your pharmacy selection, so treat them as a useful comparison tool rather than a guaranteed figure. Prices can vary based on your specific pharmacy's contract with the plan, manufacturer rebates, and whether you use mail order. The estimates are most useful when you're comparing plans side by side, not as a precise prediction of what you'll pay."
  - q: "When should I use the Plan Finder, and how often?"
    a: "At minimum, run a fresh comparison every October during the Annual Enrollment Period (October 15 to December 7). Plans change their premiums, drug formularies, and networks every year, and a plan that was the best fit for you two years ago may not be today. If you have a major change in medications or health needs during the year, it's worth checking your options again, though your ability to switch outside of AEP depends on whether you qualify for a Special Enrollment Period (SEP)."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 If you're sitting with a stack of Medicare mail feeling uncertain about a decision, you're not alone and you're not behind. This stuff is genuinely complicated, and the fact that you're looking it up means you're already doing the right thing.
@@ -46,11 +46,11 @@ Go to [Medicare.gov](https://www.medicare.gov/) and click "Find health and drug 
 
 Step one is entering your zip code. Simple. Step two is choosing what you're looking for: Medicare Advantage plans (Part C), stand-alone Part D drug plans, or both. If you have Original Medicare (Parts A and B) and you're only looking for drug coverage, choose Part D only. If you want an all-in-one plan that bundles hospital, medical, and usually drug coverage, choose Medicare Advantage.
 
-The step most people skip is entering their prescriptions. Click "Add your drugs," type in each medication by name, enter the dosage and how often you take it, and then enter your preferred pharmacy. The tool will then calculate your estimated annual drug costs for each plan. This is where the real differences show up. For example, a plan with the lowest monthly premium might charge $300 more per month for insulin or a specialty medication than a plan with a slightly higher premium. The annual drug cost estimate, not the monthly premium, is the number you want to compare.
+The step most people skip is entering their prescriptions. Click "Add your drugs," type in each medication by name, enter the dosage and how often you take it, and then enter your preferred pharmacy. The tool will then calculate your estimated annual drug costs for each plan. This is where the real differences show up. For example, a plan with the lowest monthly premium might charge far more per month for insulin or a specialty medication than a plan with a slightly higher premium. The annual drug cost estimate, not the monthly premium, is the number you want to compare.
 
 Once you've entered your drugs and pharmacy, sort the results by "Estimated annual drug costs" or "Total estimated annual costs." Don't sort by star rating alone. A four-star plan with high drug costs is worse for you than a three-star plan that covers your medications cheaply. Star ratings matter for quality, yes, but they're a secondary filter, not a primary one.
 
-A worked example from my own experience: a retired teacher in her late sixties, living outside of Denver, was paying $42 a month for a Medicare Advantage HMO she'd been on for three years. She hadn't revisited her plan since enrollment. When we ran her medications through the Plan Finder in October 2025, we found a different MA plan in her zip code with a $0 monthly premium and an estimated $1,100 less in annual drug costs, with the same primary care group in network. She switched during open enrollment and came out ahead by over $1,600 in year one.
+Consider a hypothetical retired teacher in her late sixties, living outside of Denver, who is paying $42 a month for a Medicare Advantage HMO she's been on for three years. She hadn't revisited her plan since enrollment. If she ran her medications through the Plan Finder during open enrollment, she might find a different MA plan in her zip code with a $0 monthly premium and an estimated $1,100 less in annual drug costs, with the same primary care group in network. Switching would leave her ahead by over $1,600 in the first year.
 
 That's not unusual. Plans change every year, and if you're not comparing annually, you're probably leaving money on the table.
 
@@ -66,11 +66,11 @@ The plan comparison page can feel overwhelming. Here's how I tell people to cut 
 
 First, filter by plan type. If you have a trusted specialist or a specific hospital you want to keep, HMO plans are riskier because they generally require referrals and won't cover out-of-network care except in emergencies. A PPO (Preferred Provider Organization) gives you more flexibility. Filter to PPO if that matters to you.
 
-Second, look at the out-of-pocket maximum. Under Medicare Advantage, federal rules cap how much you can pay out of pocket each year for covered services. Currently, that cap can run anywhere from under $2,000 to $8,850 for in-network services, depending on the plan. The lower the cap, the more protection you have if something major happens. A plan with a $0 premium and an $8,000 out-of-pocket maximum is a gamble if you have significant health needs.
+Second, look at the out-of-pocket maximum. Under Medicare Advantage, federal rules cap how much you can pay out of pocket each year for covered services. In 2026, the in-network maximum can be as high as $9,250, and many plans set lower limits. The lower the cap, the more protection you have if something major happens. A plan with a $0 premium and an $8,000 out-of-pocket maximum is a gamble if you have significant health needs.
 
 Third, check the star rating, but don't worship it. Medicare rates MA and Part D plans on a one-to-five star scale covering things like customer service, accuracy of drug pricing information, and how well the plan manages chronic conditions. As of June 2026, CMS (the Centers for Medicare and Medicaid Services) has continued emphasizing star ratings as a quality indicator, but plans shift ratings year to year, and a plan that earned four stars last year might be sitting at three this year. Use it as a tiebreaker, not a deciding factor.
 
-One thing I got wrong for years: I used to tell people to always pick the highest-star plan available. Then I started tracking outcomes more carefully with the folks I counseled. A three-star plan that had my client's oncologist in-network and covered her cancer medications at low cost did more for her than a five-star plan with a network that didn't include her cancer center. Network fit and drug coverage fit beat star ratings every time for people with real health needs.
+One thing I got wrong for years: I used to tell people to always pick the highest-star plan available. Consider someone with cancer: a three-star plan that has her oncologist in-network and covers her cancer medications at low cost can do more for her than a five-star plan with a network that doesn't include her cancer center. Network fit and drug coverage fit beat star ratings every time for people with real health needs.
 
 ## The Part D-Only Search: When You're Staying on Original Medicare
 
@@ -80,7 +80,7 @@ You can choose any stand-alone Part D plan regardless of where you got your Medi
 
 When comparing Part D plans, watch for three numbers: the monthly premium, the annual deductible, and the drug tier your medications fall into. A plan with a $12-a-month premium might have a $615 deductible (the standard maximum deductible, which CMS adjusts each year) that applies before your drug benefits kick in. A plan with a $35 monthly premium might waive the deductible entirely. Do the math before you assume cheaper is better.
 
-Worked example: a gentleman in rural Tennessee was on two medications, both brand-name. He found a Part D plan with a $14 monthly premium. When we entered his drugs, the Plan Finder estimated $2,800 in annual drug costs under that plan. A different plan in his zip code at $31 a month estimated $1,100 in annual drug costs because it had negotiated better pricing for one of his specific medications. He switched and saved roughly $1,500 in a year, even after paying the higher premium. That's the drug cost comparison feature doing exactly what it's supposed to do.
+Consider a hypothetical man in rural Tennessee who takes two medications, both brand-name. He found a Part D plan with a $14 monthly premium. When we entered his drugs, the Plan Finder estimated $2,800 in annual drug costs under that plan. A different plan in his zip code at $31 a month estimated $1,100 in annual drug costs because it had negotiated better pricing for one of his specific medications. Switching would save roughly $1,500 in a year, even after paying the higher premium. That's the drug cost comparison feature doing exactly what it's supposed to do.
 
 ## A Few Things Medicare.gov's Tool Won't Tell You
 

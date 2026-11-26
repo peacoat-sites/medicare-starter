@@ -22,10 +22,10 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
-You just turned 65. Your doctor's visit cost $300. Medicare's share? Nothing yet. Your share? $283, plus 20% of what's left after that. That surprise is exactly why millions of people pick Medigap Plan G every year, but there's one thing they all need to know: Plan G has a deductible that changed in 2026, and understanding it could save you real money.
+You just turned 65. Your doctor's visit cost $300. Medicare's share? Nothing yet. Your share? $283, plus 20% of what's left after that. That surprise is exactly why many people pick Medigap Plan G, but there's one thing they all need to know: Plan G has a deductible that changed in 2026, and understanding it could save you real money.
 
 ---
 
@@ -33,7 +33,7 @@ You just turned 65. Your doctor's visit cost $300. Medicare's share? Nothing yet
 
 Medigap (also called Medicare Supplement Insurance) fills the gaps that Original Medicare leaves behind. Original Medicare covers hospital and outpatient care through Parts A and B, but it doesn't cover everything. Copayments, coinsurance, and deductibles add up fast when you're dealing with serious illness or frequent care.
 
-Plan G is one of the most popular Medigap options, and it's easy to see why. It covers nearly every gap Original Medicare creates: the Part A deductible, Part A coinsurance for hospital stays beyond 60 days (up to 365 days after Medicare stops), Part B coinsurance, skilled nursing facility coinsurance, and foreign travel emergency care. There's exactly one thing Plan G doesn't cover: the Medicare Part B deductible.
+Plan G is one of the most popular Medigap options, and it's easy to see why. It covers nearly every gap Original Medicare creates: the Part A deductible, Part A coinsurance for hospital stays beyond 60 days (up to 365 days after Medicare stops), Part B coinsurance, Part B excess charges, skilled nursing facility coinsurance, and foreign travel emergency care. The one major cost Plan G doesn't cover is the Medicare Part B deductible.
 
 That single exclusion is what separates Plan G from the old Plan F, which used to cover everything. Congress stopped selling Plan F to newly eligible beneficiaries starting in 2020, which made Plan G the most comprehensive option available to most people enrolling today.
 

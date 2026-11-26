@@ -2,6 +2,7 @@
 title: "Original Medicare vs. Medicare Advantage: Which Plan Is Right for You?"
 hide_title: true
 date: 2026-06-10
+lastmod: 2026-11-26
 description: "Use our free interactive selector to understand whether Original Medicare with a Medigap supplement or Medicare Advantage better fits your health, travel, and budget needs."
 categories: ["Medicare Enrollment"]
 author: "Nancy Davis"
@@ -20,9 +21,9 @@ This guide explains the key differences, the factors that push most people towar
 
 Original Medicare is the federal program administered by the Centers for Medicare & Medicaid Services (CMS). Part A covers inpatient hospital care, skilled nursing facility stays, and some home health services. Part B covers outpatient care, preventive services, and medical equipment.
 
-Original Medicare's biggest advantage is **nationwide freedom**: you can see any doctor or hospital that accepts Medicare, roughly 93% of all physicians, without referrals or network restrictions. This is especially valuable if you travel frequently, spend time in multiple states, or have specialists you need to continue seeing.
+Original Medicare's biggest advantage is **nationwide freedom**: you can see any doctor or hospital that accepts Medicare, without referrals or network restrictions. This is especially valuable if you travel frequently, spend time in multiple states, or have specialists you need to continue seeing.
 
-The trade-off is cost structure. Original Medicare covers 80% of most Part B costs; you pay the remaining 20% with no cap. A serious illness can expose you to substantial out-of-pocket costs. Most people pair Original Medicare with a **Medigap supplement** (like Plan G) to cover that 20% gap and cap their spending.
+The trade-off is cost structure. Original Medicare covers 80% of most Part B costs after the $283 annual Part B deductible in 2026; you pay the remaining 20% with no cap. A serious illness can expose you to substantial out-of-pocket costs. Most people pair Original Medicare with a **Medigap supplement** (like Plan G) to cover that 20% gap and cap their spending.
 
 ## Medicare Advantage: Part C
 
@@ -46,11 +47,11 @@ Answer five questions about your situation to get a personalized starting recomm
 
 ## Key Enrollment Periods
 
-**Initial Enrollment Period (IEP):** 7-month window beginning 3 months before your 65th birthday month. This is when you have full Medigap guarantee-issue rights.
+**Initial Enrollment Period (IEP):** 7-month window beginning 3 months before your 65th birthday month. Your separate 6-month Medigap open enrollment period begins the month you are 65 or older and enrolled in Part B, and that is when you have full Medigap guarantee-issue rights.
 
 **Annual Enrollment Period (AEP):** October 15 – December 7 each year. You can switch between Original Medicare and Medicare Advantage, or change Medicare Advantage plans.
 
-**Medicare Advantage Open Enrollment:** January 1 – March 31. Allows a one-time switch if you're already in a Medicare Advantage plan.
+**Medicare Advantage Open Enrollment:** January 1 – March 31. Allows one switch if you're already in a Medicare Advantage plan, either to another Medicare Advantage plan or back to Original Medicare.
 
 ## What to Do Next
 

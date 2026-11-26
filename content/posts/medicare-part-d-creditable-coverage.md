@@ -10,7 +10,7 @@ tags: ["medicare", "part", "creditable", "coverage"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-part-d-creditable-coverage"
 affiliate_disclosure: true
 faqs:
@@ -54,7 +54,7 @@ Miss that window, and the penalty is 1% of the national base beneficiary premium
 
 A plan with a $500 annual drug cap, for example, would fail the actuarial test for creditable coverage. If someone carried such a plan for 19 months without realizing it didn't qualify, the penalty would be 19% on top of the monthly premium, and it would be permanent.
 
-That's not a hypothetical horror story. According to CMS data, approximately 2.5 million Part D enrollees are currently paying a late enrollment penalty. Most of them didn't realize they'd had a gap.
+That's not a hypothetical horror story. Many people who pay the penalty never realized they'd had a gap.
 
 ## How to Confirm Your Coverage Is Creditable
 
@@ -62,13 +62,13 @@ Your insurer is legally required to tell you, in writing, whether your drug cove
 
 The notice will literally say: "This coverage IS creditable" or "This coverage is NOT creditable." It should also say this is measured against Medicare Part D. If you got a letter like this and threw it out, call your HR department or insurer and ask for a replacement. They're required to provide one.
 
-Keep every creditable coverage notice you receive. If you ever dispute a penalty later, the Social Security Administration is going to want documentation. Without paper proof, even perfect coverage can be difficult to verify and may take months to sort out with former employers.
+Keep every creditable coverage notice you receive. If you ever dispute a penalty later, your Medicare drug plan and the independent review entity are going to want documentation. Without paper proof, even perfect coverage can be difficult to verify and may take months to sort out with former employers.
 
 ## What Happens When You Sign Up Late
 
 When you enroll in Part D after missing the window, your penalty is calculated from the end of your Initial Enrollment Period (the 7-month window around your 65th birthday), not from when you lost coverage. That distinction matters.
 
-Say you turned 65 in January 2024, didn't have creditable coverage, and finally enrolled in Part D in July 2026. That's 30 months. Your penalty is 30% of the base beneficiary premium, added permanently to whatever plan you pick.
+Say you turned 65 in January 2024, didn't have creditable coverage, and finally enrolled in Part D in July 2026. The Initial Enrollment Period ran from October 2023 through April 2024, so uncovered months start counting in May 2024 and run through June 2026. That's 26 months. Your penalty is 26% of the base beneficiary premium, added permanently to whatever plan you pick.
 
 The math on penalties over a typical retirement is grim:
 
@@ -94,11 +94,11 @@ One scenario that trips people up: moving from active employment to a retiree pl
 
 Worked examples:
 
-- Barbara, 66, retired from state government with a retiree health plan that included a drug benefit. Her HR office confirmed in writing that it was creditable. She delayed Part D enrollment for four years with no penalty. When she finally enrolled, she owed nothing extra. Outcome: $0 penalty, clean enrollment.
+- Consider a 66-year-old who retired from state government with a retiree health plan that included a drug benefit. Her HR office confirmed in writing that it was creditable. She delayed Part D enrollment for four years with no penalty. When she finally enrolled, she owed nothing extra. Outcome: $0 penalty, clean enrollment.
 
-- James, 68, had carried a private supplemental health plan since retiring at 62. The plan covered some prescriptions but failed the actuarial test. He'd had no creditable coverage for three years before enrolling in Part D. Penalty: 36% added permanently, roughly $168/year at the 2026 base premium, every year he's on Part D. Over 20 years that's about $3,360, and more if the base premium rises.
+- Consider a 68-year-old who has carried a private supplemental health plan since retiring at 62. The plan covered some prescriptions but failed the actuarial test. He'd had no creditable coverage for three years before enrolling in Part D. Penalty: 36% added permanently, roughly $168/year at the 2026 base premium, every year he's on Part D. Over 20 years that's about $3,360, and more if the base premium rises.
 
-- Carol, 70, lost her employer coverage at 65 but had VA drug benefits through her late husband's service record. VA coverage is creditable. She enrolled in Part D five years later with zero penalty. Outcome: $0 penalty, enrollment processed without incident.
+- Consider a 70-year-old who lost her employer coverage at 65 but had VA drug benefits. VA coverage is creditable. She enrolled in Part D five years later with zero penalty. Outcome: $0 penalty, enrollment processed without incident.
 
 ## Sources
 
@@ -106,7 +106,7 @@ Worked examples:
 - [Medicare.gov](https://www.medicare.gov/drug-coverage-part-d/costs-for-medicare-drug-coverage/part-d-late-enrollment-penalty): Medicare's official explanation of the late enrollment penalty calculation
 - [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/): Free counseling resource for Medicare creditable coverage questions, available in all 50 states
 - CMS Creditable Coverage Guidance for Plan Sponsors (2026): Actuarial equivalence standards and model notice language for insurers
-- CMS Medicare Part D Enrollment Data (2025 annual report): Approximately 2.5 million enrollees currently subject to the late enrollment penalty
+- CMS Medicare Part D Enrollment Data: general program and enrollment reporting
 
 ---
 

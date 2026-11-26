@@ -9,7 +9,7 @@ tags: ["medicare", "cobra"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-and-cobra"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "If you haven't enrolled in Part A and you're taking COBRA, COBRA acts as your primary insurance. Once you enroll in Part A (and Part B), Medicare becomes primary and COBRA becomes secondary. The shift happens automatically based on enrollment dates. Keep your COBRA administrator informed of your Medicare enrollment dates so claims get coordinated correctly."
  - q: "My employer never told me about the COBRA and Medicare interaction. Is that normal?"
    a: "Honestly, yes. Employers are required to give you a COBRA election notice, but they're not required to explain how COBRA interacts with Medicare. That gap in communication is a big reason this mistake happens so often. HR departments aren't Medicare counselors, and they can't give you individualized advice anyway. This is exactly why programs like SHIP exist. Call them before you sign anything."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 Most people get this backwards. They assume COBRA is the safe choice, the familiar bridge that keeps them covered while they figure out Medicare, and so they sign up for COBRA first and assume they can sort out Medicare later. That assumption costs some people thousands of dollars. I've sat across from enough seniors to know that this particular misunderstanding is one of the most expensive Medicare mistakes there is, and it's completely avoidable once you understand how the two programs actually interact.
 
@@ -39,7 +39,7 @@ Let me say that again, because this is where people get into trouble. Enrolling 
 
 The late enrollment penalty for Part B (the part that covers doctor visits and outpatient care) is a 10% premium increase for every 12-month period you were eligible but didn't enroll. Those penalties stick around forever. If you delayed by three years, your Part B premium goes up 30% for the rest of your life. That's not a hypothetical. I've met people paying it.
 
-Part D (prescription drug coverage) has a similar penalty: roughly 1% of the national base beneficiary premium for each month you went without creditable drug coverage. It adds up faster than most people expect.
+Part D (prescription drug coverage) has a similar penalty: 1% of the national base beneficiary premium ($38.99 in 2026) for each full month you went 63 or more days without creditable drug coverage. It is simple multiplication, but the penalty stays on your monthly premium for as long as you have Part D.
 
 ## When COBRA Actually Makes Sense Alongside Medicare
 
@@ -63,7 +63,7 @@ The real question for most people turning 65 isn't "COBRA or Medicare." It's "Me
 
 If you're still actively working at 65, and you're covered by your employer's group health plan through that current job (not through COBRA, which is coverage from a previous job), you can delay both Medicare Part B and Part D without penalty. The key word is "actively." Coverage from a current employer counts as creditable coverage. COBRA does not.
 
-Once that active employment ends, you get a Special Enrollment Period: eight months to sign up for Part A and Part B, and two months to enroll in Part D or a Medicare Advantage plan with drug coverage. That window starts the day your employment or employer coverage ends, whichever comes first. Don't wait for a COBRA notice to show up. The clock has already started.
+Once that active employment ends, you get a Special Enrollment Period: eight months to sign up for Part A and Part B, and two months to enroll in Part D or a Medicare Advantage plan with drug coverage. For Part A and Part B, the eight-month window starts the month after your employment or employer coverage ends, whichever comes first. Don't wait for a COBRA notice to show up. The clock has already started.
 
 This is genuinely one of the most confusing areas in all of Medicare. The [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) offers free one-on-one counseling specifically designed for situations like this. These are trained volunteers who don't sell insurance and have no stake in what you choose. I'd strongly recommend calling your state's SHIP program before you make any enrollment decisions.
 
@@ -83,7 +83,7 @@ Walk through this slowly, because the order of operations matters.
 
 If you're leaving a job at 65 or older, the first thing to do is enroll in Medicare Part A, which is premium-free for most people, as soon as you're eligible. There's almost no downside to signing up for Part A right away.
 
-Part B is the decision point. If you're losing employer coverage and don't have other qualifying coverage from a current job, enroll in Part B during your Special Enrollment Period (if you had active employer coverage) or your Initial Enrollment Period (if you're turning 65). Do not wait on this because of COBRA.
+Part B is the decision point. If you're losing active employer coverage from a current job, enroll in Part B during your eight-month Special Enrollment Period. If you're turning 65 and have no active employer coverage, enroll during your Initial Enrollment Period. Do not wait on this because of COBRA.
 
 After you've enrolled in Part A and Part B, then you can decide about COBRA. Contact your employer's HR department. You'll receive a COBRA election notice within 14 days of losing coverage, and you have 60 days to decide whether to elect it. You can use COBRA as secondary coverage alongside Medicare, or skip COBRA and instead look at Medigap plans or Medicare Advantage.
 

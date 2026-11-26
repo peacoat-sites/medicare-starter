@@ -9,7 +9,7 @@ tags: ["medicare", "summary", "benefits"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-summary-of-benefits"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "Not in the same format. Original Medicare doesn't issue a plan-style Summary because it's a federal program, not a private plan. The Medicare & You handbook, mailed each fall, functions as the closest equivalent. It covers costs, covered services, and rights for both Part A and Part B."
  - q: "How often should I actually re-read my Summary of Benefits?"
    a: "Every fall before Open Enrollment ends on December 7. Plans change their premiums, copays, formularies, and extra benefits each year. Even if you're happy with your current plan, a 15-minute review confirming your key cost-sharing figures is worth doing. Catching one change in drug tier pricing can easily save you several hundred dollars annually."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people read their Medicare Summary of Benefits exactly once, right after they enroll, and never look at it again. That's a mistake that can cost real money.
@@ -40,13 +40,13 @@ Every Summary of Benefits covers: your plan's monthly premium, the annual deduct
 
 What it won't show you in full detail: exact prior authorization rules, formulary tiers for every drug, or the network provider list. Those live in the Evidence of Coverage and the formulary document. The Summary gives you the framework; the other documents fill in the specifics. Both matter. Most people only look at one.
 
-I'll admit I made this mistake myself years ago when helping a neighbor compare plans. I focused entirely on the premium and ignored the out-of-pocket maximum. She picked a plan with a $0 monthly premium and a $7,550 out-of-pocket maximum. Her friend picked a plan with a $48/month premium but a $3,400 cap. My neighbor ended up having knee surgery that year. By the time we did the math, the "free" plan cost her roughly $4,000 more out of pocket, even after subtracting the premiums she didn't pay. The Summary had every number we needed. We just didn't read it carefully enough.
+Consider someone who focuses entirely on the premium and ignores the out-of-pocket maximum. She picks a plan with a $0 monthly premium and a $7,550 out-of-pocket maximum, while a friend picks a plan with a $48/month premium but a $3,400 cap. If she has knee surgery that year, the "free" plan could cost her roughly $4,000 more out of pocket, even after subtracting the premiums she didn't pay. The Summary has every number needed to see this coming. It just has to be read carefully.
 
 ## How to Read It Without Going Cross-Eyed
 
 Start with three numbers: the monthly premium, the annual out-of-pocket maximum, and the copay for your most common service type (primary care, specialist, or emergency, depending on your health situation).
 
-Those three numbers tell you 80% of what you need to know about whether a plan fits your life.
+Those three numbers tell you most of what you need to know about whether a plan fits your life.
 
 Then look at drug coverage. If you take maintenance medications, the drug tier structure in the Summary is worth careful attention. A Tier 1 generic might cost $0-$5 per fill. A Tier 3 preferred brand-name drug might cost $47 or more. A Tier 4 or 5 specialty drug can run $100-plus per month even with insurance. These numbers vary by plan and change every year, so check the current Summary and the formulary together. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) maintains guidance on how plans must present this information, which is why the format is consistent enough to actually compare.
 
@@ -56,20 +56,20 @@ One specific thing most people miss: the in-network versus out-of-network split.
 
 | Scenario | Plan | Monthly Premium | Annual Deductible | Specialist Copay | Generic Drug Copay | Out-of-Pocket Max | Annual Cost (Typical Use) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Retired teacher, light use | Plan A | $0 | $500 (inpatient) | $40 | $0 | $6,700 | ~$80 more |
+| Retired teacher, light use | Plan A | $0 | $500 (inpatient) | $40 | $0 | $6,700 | ~$328 less |
 | Retired teacher, light use | Plan B | $29 | $0 | $30 | $0 | $4,200 | Baseline |
 | Type 2 diabetes patient, 4 specialist visits/year | Original Plan | - | - | - | - | - | Baseline |
-| Type 2 diabetes patient, 4 specialist visits/year | Cheaper Premium Plan | $22 less/month | - | - | - | - | $412 more annually |
+| Type 2 diabetes patient, 4 specialist visits/year | Cheaper Premium Plan | $22 less/month | - | - | - | - | $496 more annually |
 
 This is where the standardized format earns its keep. Because every plan must use the same structure, you can literally lay two Summaries next to each other and compare line by line.
 
-Here's a real-world walkthrough from the kind of comparison I've walked dozens of people through:
+Here are two hypothetical walkthroughs of the kind of comparison worth doing:
 
-**Scenario 1:** A retired teacher in Phoenix, 69 years old, two specialist visits per year, one generic blood pressure medication, no hospitalizations in recent history.
+**Scenario 1:** Consider a retired teacher, 69 years old, with two specialist visits per year, one generic blood pressure medication, and no hospitalizations in recent history.
 
-She was comparing two local MA-HMO plans. Plan A had a $0 premium, $500 deductible for inpatient hospital stays, $40 specialist copay, $0 generic drug copay, and a $6,700 out-of-pocket max. Plan B had a $29/month premium, no hospital deductible, $30 specialist copay, $0 generic copay, and a $4,200 out-of-pocket max. For her typical year (light healthcare use), Plan A costs her roughly $80 less annually on premiums and about $20 more on specialists. If nothing goes wrong, she's marginally ahead with Plan A. If she has a hospital stay, Plan B's lower out-of-pocket max and no hospital deductible saves her potentially $2,500 or more. She chose Plan B. The Summary made that choice obvious once she looked at it that way.
+She was comparing two local MA-HMO plans. Plan A had a $0 premium, $500 deductible for inpatient hospital stays, $40 specialist copay, $0 generic drug copay, and a $6,700 out-of-pocket max. Plan B had a $29/month premium, no hospital deductible, $30 specialist copay, $0 generic copay, and a $4,200 out-of-pocket max. For her typical year (light healthcare use), Plan A costs her $348 less annually on premiums ($29 x 12) and about $20 more on specialists. If nothing goes wrong, she's marginally ahead with Plan A. If she has a major hospital stay, Plan B's lower out-of-pocket max ($2,500 lower) and no hospital deductible could save her up to about $2,500, less the $348 she pays in extra premiums. She chose Plan B. The Summary made that choice obvious once she looked at it that way.
 
-**Scenario 2:** A 74-year-old man in Tampa managing Type 2 diabetes, seeing his endocrinologist four times a year, on two brand-name Tier 3 medications. He compared plans focusing only on premiums. Switching to the cheaper-premium plan would have raised his annual drug costs by roughly $640 and his specialist copays by $120 annually. Net cost of "saving" $22/month on premium: an extra $412 per year. He kept his existing plan.
+**Scenario 2:** Consider a 74-year-old man managing Type 2 diabetes, seeing his endocrinologist four times a year, on two brand-name Tier 3 medications. If he compared plans focusing only on premiums, switching to a cheaper-premium plan could raise his annual drug costs by roughly $640 and his specialist copays by $120. Net cost of "saving" $22/month ($264 a year) on premium: an extra $496 per year. The cheaper plan would be the wrong choice.
 
 The math isn't hard. The challenge is slowing down enough to do it.
 

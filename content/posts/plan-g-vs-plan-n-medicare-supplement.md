@@ -10,11 +10,11 @@ slug: "plan-g-vs-plan-n-medicare-supplement"
 affiliate_disclosure: true
 faqs:
  - q: "Can I switch from Plan N to Plan G later if my health needs change?"
-   a: "You can try to switch, but there's a catch. After your Open Enrollment Period ends, most states allow insurers to require medical underwriting before approving a switch between Medigap plans. If you've developed significant health issues, you might be declined. A few states, including Connecticut, Massachusetts, and New York, have stronger protections that allow year-round switching without underwriting, but most don't. This is one reason some people start with Plan G when they're younger and healthier, even if it costs more, rather than getting locked into Plan N when switching later becomes"
+   a: "You can try to switch, but there's a catch. After your Open Enrollment Period ends, most states allow insurers to require medical underwriting before approving a switch between Medigap plans. If you've developed significant health issues, you might be declined. A few states, including Connecticut and New York, have stronger protections that allow year-round switching without underwriting, but most don't. This is one reason some people start with Plan G when they're younger and healthier, even if it costs more, rather than getting locked into Plan N when switching later becomes"
  - q: "Does Plan N still cover me if I go to the emergency room but don't get admitted?"
    a: "Yes, Plan N covers ER visits, but you'll owe a copay of up to $50. If the ER visit results in an inpatient admission, that copay is waived. So if you go to the ER for chest pain and get admitted overnight, you pay nothing for the ER visit itself under Plan N. If you're treated and sent home, you could owe up to $50."
  - q: "What's the difference between Plan G and Plan G High Deductible?"
-   a: "Plan G High Deductible is a variation where you pay all costs out of pocket until you reach a high deductible amount, which is $2,800 in 2024, before Plan G benefits kick in. In exchange, the monthly premiums are significantly lower. This can work well for healthy people who want catastrophic-level protection, but it requires you to be comfortable absorbing moderate costs on your own. It's a separate conversation from standard Plan G vs. Plan N, but worth knowing about."
+   a: "Plan G High Deductible is a variation where you pay all costs out of pocket until you reach a high annual deductible, before Plan G benefits kick in. In exchange, the monthly premiums are significantly lower. This can work well for healthy people who want catastrophic-level protection, but it requires you to be comfortable absorbing moderate costs on your own. It's a separate conversation from standard Plan G vs. Plan N, but worth knowing about."
  - q: "Are Plan G and Plan N available in all states?"
    a: "Medigap plans are standardized at the federal level, so Plans G and N are available in most states. However, Massachusetts, Minnesota, and Wisconsin have their own standardized Medigap systems that don't follow the lettered plan structure. Residents of those states work with different plan names and designs. If you live in one of those states, your state insurance department can explain your local equivalent options."
  - q: "Do Medigap plans cover prescription drugs?"
@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 You've just retired, sitting across from an insurance agent, and they slide two brochures at you: Plan G and Plan N. Both promise to cover most of what Original Medicare leaves behind. Both look decent on paper. But the premiums differ, the out-of-pocket exposure differs, and the agent's watching the clock. You don't want to pick wrong and pay for it for years.
 
@@ -37,7 +37,7 @@ Here's what people often miss: Original Medicare isn't free once you start using
 
 That's the gap Medigap fills. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) standardizes Medigap plans by letter, so a Plan G from Aetna covers exactly what a Plan G from Blue Cross Blue Shield covers. The only difference between insurers is the premium and sometimes customer service quality. This standardization matters because you can shop purely on price once you've chosen a plan letter.
 
-Plan G and Plan N are the two most popular Medigap options for new Medicare enrollees. Plan F, historically the go-to, closed to people who became eligible for Medicare on or after January 1, 2020. If you're newly eligible, G and N are where your real decision sits.
+Plan G and Plan N are the two most popular Medigap options for new Medicare enrollees. Plan F, historically the go-to, can't be bought by people who became eligible for Medicare on or after January 1, 2020. If you're newly eligible, G and N are where your real decision sits.
 
 ## Plan G: The Close-to-Complete Coverage Option
 

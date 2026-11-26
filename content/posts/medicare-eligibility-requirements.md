@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 You worked for 35 years, paid into the system every single paycheck, and now you're 64 and wondering: "Wait, am I actually going to qualify for Medicare?" Most people assume it's automatic. It's not quite that simple. There are specific rules around age, work history, disability status, and citizenship that determine whether you qualify, what you'll pay, and when you can enroll. Getting these details wrong can cost you real money in late penalties that follow you for life. Let's walk through exactly what you need to know.
 
@@ -43,7 +43,7 @@ Your Initial Enrollment Period (IEP) is a seven-month window. It starts three mo
 
 Age isn't the only door into Medicare. Two other significant pathways exist for people under 65: qualifying through disability or through a specific serious illness.
 
-If you've been receiving Social Security Disability Insurance (SSDI) benefits, you'll automatically become eligible for Medicare after 24 months of receiving those disability payments. The clock starts the month your SSDI benefits begin, not the month you applied or were approved. This 24-month waiting period is genuinely brutal. I've talked with clients who struggled hard during that time.
+If you've been receiving Social Security Disability Insurance (SSDI) benefits, you'll automatically become eligible for Medicare after 24 months of receiving those disability payments. The clock starts the month your SSDI benefits begin, not the month you applied or were approved. This 24-month waiting period is genuinely brutal. Many people struggle hard during that time.
 
 Two conditions bypass the 24-month wait entirely:
 
@@ -72,7 +72,7 @@ Medicare Part A covers hospital care, skilled nursing facility stays, hospice, a
 
 To receive premium-free Part A, you or your spouse must have paid Medicare taxes for at least 40 quarters, which equals 10 years of work. Those quarters don't have to be consecutive. They can be spread across your entire working life.
 
-If you have between 30 and 39 quarters of work history, you can still get Part A, but you'll pay a reduced monthly premium. In 2024, that premium is set by the Centers for Medicare & Medicaid Services (https://www.cms.gov/) and adjusted annually, so always check the current year's figures on Medicare.gov before planning your budget.
+If you have between 30 and 39 quarters of work history, you can still get Part A, but you'll pay a reduced monthly premium. In 2026, that premium is $311 per month for people with 30-39 quarters of work history (and $565 per month for those with fewer than 30 quarters). It is set by the Centers for Medicare & Medicaid Services (https://www.cms.gov/) and adjusted annually, so always check the current year's figures on Medicare.gov before planning your budget.
 
 Fewer than 30 quarters? You'll pay the highest Part A premium available.
 
@@ -90,7 +90,7 @@ Part B, which covers doctor visits, outpatient care, and preventive services, al
 
 This is the part I wish every pre-retiree understood years before turning 65. Penalties for late enrollment aren't temporary. They follow you for as long as you have Medicare.
 
-**Part A Late Penalty:** If you have to pay a premium for Part A and you don't enroll when first eligible, your monthly premium increases by 10% for twice the number of years you delayed. Wait two years to enroll? You'll pay a higher premium for four years.
+**Part A Late Penalty:** If you have to pay a premium for Part A and you don't enroll when first eligible, your monthly premium increases by 10% for twice the number of years you could have had Part A but didn't sign up. Wait two years to enroll? You'll pay the higher premium for four years.
 
 **Part B Late Penalty:** For every 12-month period you were eligible but didn't enroll in Part B, your premium goes up by 10%. That penalty is permanent. Someone who waited three years could pay 30% more for Part B for the rest of their life.
 

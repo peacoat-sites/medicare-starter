@@ -12,7 +12,7 @@ faqs:
  - q: "Can I see a specialist without a referral on a Medicare Advantage HMO?"
    a: "Generally, no. Standard HMO plans require a referral from your primary care physician before you see most specialists. Some plans have exceptions for certain screenings or OB/GYN visits, but as a rule, you'll need that referral. If you skip it and see a specialist directly, the plan typically won't cover the visit. An HMO-POS plan may offer a little more flexibility, but referrals are still the norm for in-network specialist care."
  - q: "What happens if I use an out-of-network emergency room on an HMO plan?"
-   a: "Medicare Advantage HMOs must cover emergency care anywhere in the United States, regardless of network. Emergency is defined by your symptoms at the time you sought care, not by the eventual diagnosis. So if you had chest pain and went to the nearest ER, that's covered even if that hospital is out of network. Urgently needed care (not quite an emergency but needed right away, like a bad infection while traveling) is also covered out of network. Post-stabilization care rules are more complicated, so if you're admitted after an ER visit, call your plan as soon as reasonably possible."
+   a: "Medicare Advantage plans, including HMOs, must cover emergency care anywhere in the United States, regardless of network. Emergency is defined by your symptoms at the time you sought care, not by the eventual diagnosis. So if you had chest pain and went to the nearest ER, that's covered even if that hospital is out of network. Urgently needed care (not quite an emergency but needed right away, like a bad infection while traveling) is also covered out of network. Post-stabilization care rules are more complicated, so if you're admitted after an ER visit, call your plan as soon as reasonably possible."
  - q: "Is a PPO better if I have cancer or a serious chronic condition?"
    a: "Not automatically, but it deserves serious consideration. If your oncologist or specialist is out of network, a PPO gives you the option to continue that relationship at a higher cost share, while an HMO may leave you no covered option at all. That said, a high-quality HMO with your preferred cancer center in network might actually offer better coordinated care at lower out-of-pocket cost. The plan type matters less than whether your specific providers and facilities are in the network. Always check before you enroll."
  - q: "Can I switch from an HMO to a PPO outside of Open Enrollment?"
@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 It's October, and you're sitting at your kitchen table staring at a pile of Medicare plan brochures. Two of them look almost identical: same monthly premium, same star rating. One says "HMO" and the other says "PPO." You pick the wrong one, and by January you're getting unexpected bills or you can't see the specialist you've been going to for years. This happens thousands of times during the Medicare Open Enrollment Period (October 15 through December 7), and it's almost always avoidable if you know what to look for upfront.
 
@@ -63,7 +63,7 @@ What you actually get:
 - Out-of-network care is covered, but you'll pay a higher coinsurance or copay.
 - Premiums are typically higher than comparable HMO plans, and out-of-pocket maximums for out-of-network care can be substantially higher.
 
-The flexibility of a PPO is real. If you have a specialist at a major academic medical center who's out of network, you can still see them, you'll just pay more. If you split time between two states, a PPO is almost always the better structural choice since your in-network options follow you.
+The flexibility of a PPO is real. If you have a specialist at a major academic medical center who's out of network, you can still see them, you'll just pay more. If you split time between two states, a PPO is often the better structural choice, but check whether the plan's network actually reaches both areas.
 
 A common mistake is choosing a PPO with the expectation of using out-of-network providers regularly, only to encounter high costs when doing so. The out-of-network out-of-pocket maximum on some PPO plans runs quite high, and Medicare.gov makes clear that these figures vary significantly by plan. Read the Evidence of Coverage document, not just the Summary of Benefits, before you commit.
 

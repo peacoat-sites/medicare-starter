@@ -10,7 +10,7 @@ tags: ["medicare", "premiums", "increase"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "why-medicare-premiums-increase"
 affiliate_disclosure: true
 faqs:
@@ -32,7 +32,7 @@ The standard explanations are technically accurate and practically useless. "Hea
 
 Medicare premiums go up for several distinct reasons, and they don't all apply to every person equally. Some increases are universal. Some land only on higher earners. A few are avoidable with the right planning. The [difference between](/difference-between-medicare-and-medicaid-explained/) understanding this and not understanding it can be several hundred dollars a year.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Part B premiums are set annually by CMS and tend to increase most years, often tied to projected healthcare spending.</li><li style="margin:5px 0">Higher-income beneficiaries pay IRMAA surcharges on top of base premiums, up to $628.90/month for Part B in 2026 for top earners.</li><li style="margin:5px 0">A two-year income lookback means a good year financially can raise your Medicare bill today.</li><li style="margin:5px 0">Part D (prescription drug) premiums vary by plan and also carry income surcharges for higher earners.</li><li style="margin:5px 0">You can appeal an IRMAA increase if your income dropped due to a qualifying life event.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Part B premiums are set annually by CMS and tend to increase most years, often tied to projected healthcare spending.</li><li style="margin:5px 0">Higher-income beneficiaries pay IRMAA surcharges on top of base premiums, up to $689.90/month for Part B in 2026 for top earners.</li><li style="margin:5px 0">A two-year income lookback means a good year financially can raise your Medicare bill today.</li><li style="margin:5px 0">Part D (prescription drug) premiums vary by plan and also carry income surcharges for higher earners.</li><li style="margin:5px 0">You can appeal an IRMAA increase if your income dropped due to a qualifying life event.</li></ul></div>
 
 ## The Mechanics Behind the Annual Increase
 
@@ -40,9 +40,9 @@ Medicare premiums go up for several distinct reasons, and they don't all apply t
 
 The formula is anchored in law: Part B is designed so that premiums cover roughly 25% of program costs, with general federal revenue covering the rest. When projected spending goes up, your premium follows. CMS looks at things like new drug approvals, physician fee schedule changes, and [hospital outpatient costs](/cms-proposed-rule-would-cut-hospital-outpatient-costs-for-seniors/). If an expensive new treatment becomes widely used, it genuinely affects what everyone pays.
 
-What the brochures don't tell you: a single high-cost drug or a CMS actuarial projection that turns out to be too conservative can swing the following year's premium substantially. The Part B premium jumped by $21.60 per month between 2021 and 2022, in part because CMS had built in contingency costs for Aduhelm, an Alzheimer's drug with a then-staggering list price. When utilization came in much lower than projected, CMS actually rolled back some of that increase the next year. The system is reactive in a way that most people never realize.
+What the brochures don't tell you: a single high-cost drug or a CMS actuarial projection that turns out to be too conservative can swing the following year's premium substantially. The Part B premium jumped sharply between 2021 and 2022, in part because CMS had built in contingency costs for Aduhelm, an Alzheimer's drug with a then-staggering list price. When utilization came in much lower than projected, CMS actually rolled back some of that increase the next year. The system is reactive in a way that most people never realize.
 
-As of August 2026, the standard Part B premium sits at $202.90 per month for most beneficiaries. That's a concrete number to anchor your planning.
+In 2026, the standard Part B premium is $202.90 per month for most beneficiaries, and CMS has announced it will rise to $209.40 on January 1, 2027. That's a concrete number to anchor your planning.
 
 ## IRMAA: The Increase Most Articles Underexplain
 
@@ -54,18 +54,18 @@ Picture someone who sold a late spouse's business in 2024, a one-time event that
 
 The table below shows current IRMAA brackets for 2026. These are per-person figures, not per-household.
 
-| 2024 Individual MAGI | 2024 Joint MAGI | Monthly Part B Premium | Monthly Part D Surcharge |
+| 2024 Individual MAGI | 2024 Joint MAGI | Monthly Part B Premium (2026) | Monthly Part D Surcharge (2026) |
 |---|---|---|---|
-| Up to $106,000 | Up to $212,000 | $185.00 | $0 |
-| $106,001–$133,000 | $212,001–$266,000 | $259.00 | $13.70 |
-| $133,001–$167,000 | $266,001–$334,000 | $370.00 | $35.30 |
-| $167,001–$200,000 | $334,001–$400,000 | $480.90 | $57.00 |
-| $200,001–$500,000 | $400,001–$750,000 | $591.90 | $78.60 |
-| Above $500,000 | Above $750,000 | $628.90 | $85.80 |
+| Up to $109,000 | Up to $218,000 | $202.90 | $0 |
+| $109,001–$137,000 | $218,001–$274,000 | $284.10 | $14.50 |
+| $137,001–$171,000 | $274,001–$342,000 | $405.80 | $37.50 |
+| $171,001–$205,000 | $342,001–$410,000 | $527.50 | $60.40 |
+| $205,001–$499,999 | $410,001–$749,999 | $649.20 | $83.30 |
+| $500,000 and above | $750,000 and above | $689.90 | $91.00 |
 
 *Source: CMS 2026 Medicare premium and IRMAA schedules.*
 
-The jump from the base tier to the first IRMAA tier is over $74 per month, per person. A married couple where both spouses are on Medicare could pay nearly $150 more per month, or $1,800 more annually, just by crossing that first threshold. That's real money.
+The jump from the base tier to the first IRMAA tier is $81.20 per month in Part B, plus a $14.50 Part D surcharge, per person. A married couple where both spouses are on Medicare could pay $191.40 more per month, or $2,296.80 more a year, just by crossing that first threshold. That's real money.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Monthly Part B Premium by Income Bracket (single filers)</div><div class="sc-row"><span class="sc-label">Standard (up to $109k)</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$202.90</span></div><div class="sc-row"><span class="sc-label">Tier 1 ($109k-$137k)</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$284.10</span></div><div class="sc-row"><span class="sc-label">Tier 2 ($137k-$171k)</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$405.80</span></div><div class="sc-row"><span class="sc-label">Tier 3 ($171k-$205k)</span><span class="sc-track"><span class="sc-bar" style="width:76%"></span></span><span class="sc-val">$527.50</span></div><div class="sc-row"><span class="sc-label">Tier 4 ($205k-$500k)</span><span class="sc-track"><span class="sc-bar" style="width:94%"></span></span><span class="sc-val">$649.20</span></div><div class="sc-row"><span class="sc-label">Tier 5 ($500k and up)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$689.90</span></div><div class="sc-src">Source: CMS, 2026 Medicare Parts A &amp; B Premiums and Deductibles. Joint-filer thresholds are double, starting above $218k.</div></div>
 
@@ -77,7 +77,7 @@ If you receive an IRMAA determination and your income has dropped significantly 
 
 The process: Download Form SSA-44 from SSA.gov (the Social Security Administration's website), gather documentation of the life event and your current income, and submit it to your local Social Security office. Processing times typically range from four to eight weeks. When it works, the adjustment applies retroactively to January of the current year, which means a refund if you've been overpaying.
 
-Scenario: Retired teacher, age 67, sold an investment property in 2024 for a $180,000 gain → income pushed into the fourth IRMAA tier → filed SSA-44 in February 2026 documenting retirement in 2025 with pension income of $38,000 → IRMAA surcharge removed retroactively → recovered approximately $2,900 in overpaid premiums.
+Scenario: Consider a retired teacher, age 67, who sold an investment property in 2024 for a $180,000 gain → income pushed into a higher IRMAA tier → files SSA-44 in February 2026 documenting retirement in 2025 with pension income of $38,000 → if approved, the IRMAA surcharge is removed retroactively and the overpaid premiums are refunded.
 
 That outcome isn't guaranteed. The SSA has to agree that your situation qualifies. But it's absolutely worth filing if you have a legitimate event.
 
@@ -85,7 +85,7 @@ That outcome isn't guaranteed. The SSA has to agree that your situation qualifie
 
 Part D (prescription drug coverage) premiums are set by private insurers, so they vary considerably by plan and by where you live. What they share with Part B: they also carry IRMAA surcharges for higher earners (see the table above), and they go up for the same broad reason Part B does, rising drug costs passed through to plan pricing.
 
-One thing I'd flag: switching Part D plans during open enrollment (October 15 through December 7 each year) is one of the few levers you actually control. Plans can change their drug formularies (the list of covered drugs) and their premiums every year. A plan that was a good deal in 2025 might cost you $40 more a month in 2026 for the same coverage. Medicare.gov has a plan comparison tool that lets you enter your specific prescriptions and find your actual out-of-pocket cost across available plans. Use it. Most people don't.
+One thing I'd flag: switching Part D plans during open enrollment (October 15 through December 7 each year) is one of the few levers you actually control. Plans can change their drug formularies (the list of covered drugs) and their premiums every year. A plan that was a good deal this year might cost you $40 more a month next year for the same coverage. Medicare.gov has a plan comparison tool that lets you enter your specific prescriptions and find your actual out-of-pocket cost across available plans. Use it. Most people don't.
 
 Medicare Advantage (Part C) plans work differently: the base Part B premium still applies, but many Advantage plans have their own monthly premium on top (sometimes zero, sometimes $50 or more), and that can change year to year. The State Health Insurance Assistance Program (SHIP) at [shiphelp.org](https://www.shiphelp.org/) offers free one-on-one counseling to help you compare your options, and they don't sell anything, which matters.
 
@@ -95,7 +95,7 @@ There's a provision called "hold harmless" that prevents Part B premiums from ri
 
 Also: if the COLA is large (as it was in 2022, when it hit 5.9%), the hold-harmless rule matters less because premiums can rise freely without exceeding the Social Security increase. The rule provides a real floor only in low-COLA years.
 
-Scenario: Two neighbors, both on Medicare. One receives Social Security; Part B deducted automatically → protected by hold-harmless in a low-COLA year, premium increase capped → premium rises $6/month. The other is 64, pays Part B directly because she deferred Social Security → no protection → premium rises the full amount → pays $22/month more than her neighbor for identical coverage.
+Scenario: Consider two neighbors, both on Medicare. One receives Social Security; Part B deducted automatically → protected by hold-harmless in a low-COLA year, premium increase capped → premium rises by less than the full amount. The other is 66, pays Part B directly because she deferred Social Security → no protection → premium rises the full amount → pays more than her neighbor for identical coverage.
 
 Same Medicare. Different rules. That asymmetry bothers people when they discover it, and reasonably so.
 

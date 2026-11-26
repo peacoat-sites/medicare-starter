@@ -22,8 +22,8 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 You're turning 65 in three months, your employer just sent a letter about ending your group health coverage, and someone at your church mentioned you might owe a penalty if you don't enroll in Medicare at exactly the right time. That last part is absolutely true, and it's the kind of detail that trips up thousands of people every year. Medicare is one of the most valuable benefits you'll ever receive, but it comes with rules, moving parts, and deadlines that aren't always obvious. Let me walk you through exactly how it works.
 
@@ -32,19 +32,19 @@ You're turning 65 in three months, your employer just sent a letter about ending
 | Medicare Part | Monthly Premium | Coverage Type | Best For |
 | --- | --- | --- | --- |
 | Part A | Usually $0 | Inpatient hospital, skilled nursing, hospice, home health | Hospital and facility care |
-| Part B | $174.70 (2024 standard) | Doctor visits, outpatient care, preventive services, durable medical equipment | Outpatient and doctor care |
+| Part B | $202.90 (2026 standard) | Doctor visits, outpatient care, preventive services, durable medical equipment | Outpatient and doctor care |
 | Part C (Medicare Advantage) | Often $0 (plus Part B) | All Original Medicare benefits plus usually dental, vision, hearing | Those wanting broader coverage and fixed costs |
 | Part D | Varies by plan | Prescription drugs | Those on Original Medicare needing drug coverage |
 
 Medicare is federal health insurance, run primarily by [the Centers for Medicare & Medicaid Services](https://www.cms.gov/). Most people think of it as one program, but it's actually a collection of parts that work together. Understanding what each part covers is the foundation of everything else.
 
-**Part A** covers inpatient hospital stays, skilled nursing facility care after a qualifying hospital stay, hospice care, and some home health services. Most people don't pay a monthly premium for Part A because they or their spouse paid Medicare taxes for at least 10 years (40 quarters) while working. If you didn't hit that threshold, you can still buy in, but you'll pay monthly.
+**Part A** covers inpatient hospital stays, skilled nursing facility care after a qualifying hospital stay, hospice care, and some home health services. Most people don't pay a monthly premium for Part A because they or their spouse paid Medicare taxes for at least 10 years (40 quarters) while working. If you didn't hit that threshold, you can still buy in, but you'll pay monthly: $311 in 2026 with 30-39 quarters, or $565 with fewer than 30 quarters.
 
 **Part B** covers doctor visits, outpatient procedures, preventive services like flu shots and cancer screenings, durable medical equipment, and most other things you'd use without being admitted to a hospital. Part B always costs you monthly. In 2026, the standard premium is $202.90, though higher-income beneficiaries pay more through something called IRMAA (Income-Related Monthly Adjustment Amount).
 
 **Part C**, also called Medicare Advantage, is an alternative way to get your Medicare benefits. You enroll in a private insurance plan approved by Medicare instead of getting coverage directly from the federal government. These plans must cover everything Original Medicare covers, and most throw in prescription drug coverage. More on that in a moment.
 
-**Part D** is prescription drug coverage offered through private insurers. You add it to Original Medicare (Parts A and B) if you don't pick a Medicare Advantage plan that already includes drugs. Skip Part D when you first become eligible, and you'll face a permanent late enrollment penalty. You can't undo that later.
+**Part D** is prescription drug coverage offered through private insurers. You add it to Original Medicare (Parts A and B) if you don't pick a Medicare Advantage plan that already includes drugs. Go 63 or more days without Part D or other creditable drug coverage after you first become eligible, and you'll face a late enrollment penalty that is added to your monthly premium for as long as you have Part D.
 
 ## Original Medicare vs. Medicare Advantage: Two Very Different Paths
 
@@ -64,7 +64,7 @@ Your **Initial Enrollment Period (IEP)** is a 7-month window: 3 months before yo
 
 If you or your spouse is still working and covered by employer insurance from a company with 20 or more employees, you might qualify for a **Special Enrollment Period (SEP)**. This lets you delay Medicare without penalty and enroll within 8 months of losing that employer coverage. It's legitimate and common, but the rules are strict. Coverage from a spouse's retiree plan or COBRA doesn't count.
 
-Miss your IEP without a qualifying SEP? You're waiting for the **General Enrollment Period** (January 1 through March 31 each year, with coverage starting July 1). You'll also owe a late enrollment penalty for Part B: 10% added to your premium for every 12-month period you were eligible but didn't enroll. That penalty sticks with you forever. Part D works the same way: 1% of the national base beneficiary premium multiplied by the number of months you skipped coverage.
+Miss your IEP without a qualifying SEP? You're waiting for the **General Enrollment Period** (January 1 through March 31 each year, with coverage starting the first day of the month after you sign up). You'll also owe a late enrollment penalty for Part B: 10% added to your premium for every 12-month period you were eligible but didn't enroll. That penalty sticks with you forever. Part D works on a similar principle: 1% of the national base beneficiary premium ($38.99 in 2026) multiplied by the number of full months you went without creditable coverage, rounded to the nearest $0.10 and added to your monthly premium.
 
 ## What Medicare Doesn't Cover
 

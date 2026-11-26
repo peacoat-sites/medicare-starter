@@ -1,7 +1,7 @@
 ---
 title: "Medicare for People Under 65 With Disabilities"
 date: 2026-07-31T16:08:28.831926+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn how 24 million disabled Americans under 65 access Medicare coverage, eligibility requirements, and what benefits are available before age 65."
 image: "/img/heroes/6285378.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "coverage", "people", "with", "disabilities"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-coverage-for-people-with-disabilities-under-65"
 affiliate_disclosure: true
 faqs:
@@ -26,13 +26,13 @@ faqs:
     a: "Yes. When you turn 65, you get a new Initial Enrollment Period (IEP) specifically for turning 65. This is the window that triggers federal Medigap Open Enrollment protections, which under-65 disability beneficiaries don't automatically have. Mark your 65th birthday carefully: the Medigap open enrollment window is only six months, starting the first month you are both 65 and enrolled in Part B. Missing it means potentially dealing with medical underwriting for supplemental coverage for the rest of your life."
 ---
 
-About 9 million Americans under age 65 are currently enrolled in Medicare. Nine million. That number surprises almost everyone I tell it to, because most people think Medicare is strictly a retirement program. It isn't, and that misunderstanding costs people real money and real access to care every single year.
+Millions of Americans under age 65 are currently enrolled in Medicare. That surprises many people, because most think Medicare is strictly a retirement program. It isn't, and that misunderstanding costs people real money and real access to care every single year.
 
 The under-65 population often faces confusion about Medicare eligibility, missed deadlines, and preventable financial harm. When someone is approved for [Social Security](/medicare-and-social-security/) Disability Insurance (SSDI) and Medicare kicks in automatically, many beneficiaries don't understand what coverage they have or how to use it. That's what this article is for.
 
 Let me walk you through how this actually works, what it costs, what the traps are, and what most people in this situation don't think to ask until it's too late.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">You qualify for Medicare after 24 months of receiving SSDI payments, not 24 months after approval.</li><li style="margin:5px 0">People with ALS (Lou Gehrig's disease) get Medicare immediately, with no waiting period at all.</li><li style="margin:5px 0">As of 2026, the standard Part B premium is $202.90/month; lower-income beneficiaries may qualify for help paying it.</li><li style="margin:5px 0">If you have End-Stage Renal Disease (ESRD), you qualify regardless of age or disability status after a 3-month waiting period.</li><li style="margin:5px 0">Missing your enrollment window can mean permanent premium penalties, so the timeline is not optional.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">You qualify for Medicare after 24 months of receiving SSDI payments, not 24 months after approval.</li><li style="margin:5px 0">People with ALS (Lou Gehrig's disease) get Medicare immediately, with no waiting period at all.</li><li style="margin:5px 0">In 2026, the standard Part B premium is $202.90/month ($209.40 in 2027); lower-income beneficiaries may qualify for help paying it.</li><li style="margin:5px 0">If you have End-Stage Renal Disease (ESRD), you qualify regardless of age or disability status after a 3-month waiting period.</li><li style="margin:5px 0">Missing your enrollment window can mean permanent premium penalties, so the timeline is not optional.</li></ul></div>
 
 ## How You Actually Qualify (and the Timeline Trips Everyone Up)
 
@@ -64,9 +64,9 @@ This is the part that makes me genuinely frustrated on behalf of younger benefic
 
 Medicare Supplement plans (also called Medigap) are private insurance policies that fill in Medicare's cost-sharing gaps: deductibles, coinsurance, things like that. For people who turn 65, there's a federally guaranteed 6-month Medigap Open Enrollment Period during which insurers cannot deny you coverage or charge you more due to health status. That protection is iron-clad for seniors.
 
-For people under 65 on Medicare due to disability? Federal law does not require insurers to sell you a Medigap policy at all. States can, and some do, require insurers to offer at least one Medigap plan to under-65 beneficiaries. But as of 2026, only about 30 states have some form of this protection, and the rules vary enormously. Some states require coverage but allow much higher premiums. Some only require coverage of one specific plan type.
+For people under 65 on Medicare due to disability? Federal law does not require insurers to sell you a Medigap policy at all. States can, and some do, require insurers to offer at least one Medigap plan to under-65 beneficiaries. But only some states have this protection, and the rules vary enormously. Some states require coverage but allow much higher premiums. Some only require coverage of one specific plan type.
 
-I had a client, Maria, a 38-year-old with multiple sclerosis in a state with no under-65 Medigap protections. She'd accumulated significant out-of-pocket costs because she couldn't get a supplemental plan and was managing cost-sharing on her own. When she turned 65, she immediately enrolled in a Medigap Plan G during her Open Enrollment Period and her financial exposure dropped dramatically. But she'd spent 11 years with no supplemental coverage first. That's the reality for a lot of people.
+Consider Maria, a hypothetical 38-year-old with multiple sclerosis in a state with no under-65 Medigap protections. She'd accumulated significant out-of-pocket costs because she couldn't get a supplemental plan and was managing cost-sharing on her own. When she turned 65, she immediately enrolled in a Medigap Plan G during her Open Enrollment Period and her financial exposure dropped dramatically. But she'd spent 11 years with no supplemental coverage first. That's the reality for a lot of people.
 
 To find out what your state requires, contact your State Health Insurance Assistance Program (SHIP), which you can locate through [Medicare.gov's SHIP locator](https://www.medicare.gov/health-drug-plans/health-plans/your-coverage-options/other-coverage/ship-local-medicare-counseling). The counseling is free.
 
@@ -87,9 +87,9 @@ This table reflects current figures as of July 2026. Actual premium costs vary b
 
 Part D, Medicare's prescription drug program, is optional. You choose a stand-alone drug plan to pair with Original Medicare (Parts A and B), or you get drug coverage bundled into a Medicare Advantage plan. Either way, if you delay enrollment in Part D after your Medicare starts, and you don't have "creditable" drug coverage from another source (like employer coverage), you'll pay a permanent late enrollment penalty added to your premium every month for as long as you have Medicare.
 
-Someone who gets Medicare at age 40 and skips Part D will face a penalty that compounds across potentially decades of enrollment. Don't make that call.
+Someone who gets Medicare at age 40 and skips Part D will pay a penalty that continues across potentially decades of enrollment. Don't make that call.
 
-Worked example: A 44-year-old woman on SSDI decided Part D wasn't worth it since she only took two generic medications. She went 36 months without creditable coverage. Her penalty was calculated as 1% of the national base beneficiary premium per uncovered month, so roughly 36% added to her monthly premium permanently. On a $35/month plan, that's an extra $12.60 every single month, every year, for the rest of her Medicare enrollment. Over 20 years: more than $3,000 in penalties for skipping a plan that would have cost her far less than that.
+Worked example: A 44-year-old woman on SSDI decided Part D wasn't worth it since she only took two generic medications. She went 36 months without creditable coverage. Her penalty was calculated as 1% of the national base beneficiary premium ($38.99 in 2026) per uncovered month, so 36% of $38.99, about $14.00 (rounded to the nearest $0.10), added to her monthly premium permanently. That's an extra $14.00 every single month, every year, for the rest of her Medicare enrollment. Over 20 years: more than $3,300 in penalties for skipping a plan that would have cost her far less than that.
 
 ## Sources
 

@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 Your neighbor paid almost nothing out of pocket after her knee replacement. Your cousin paid thousands for the exact same surgery. Both have Medicare. Same program, wildly different bills.
 
@@ -45,7 +45,7 @@ One critical thing upfront: Medigap only works with Original Medicare. If you're
 
 Ten standardized Medigap plan types exist in most states, labeled A through N. A few things before we go through them.
 
-Plans C and F are no longer available to anyone who became eligible for Medicare on or after January 1, 2020. If you enrolled before that date, you can keep yours. New enrollees can't sign up anymore because Congress decided to phase out the Part B deductible coverage for incoming beneficiaries.
+Plans C and F are no longer available to anyone who became eligible for Medicare on or after January 1, 2020. If you enrolled before that date, you can keep yours. People who became eligible on or after that date can't buy them because Congress ended Part B deductible coverage for new beneficiaries.
 
 Here's what the most popular plans actually cover:
 
@@ -60,7 +60,7 @@ Here's what the most popular plans actually cover:
 | Part B deductible | No | No | No | No |
 | [Part B excess charges](/medicare-part-b-premium/) | No | Yes | No | No |
 | Foreign travel emergency | No | Yes (80%) | No | Yes (80%) |
-| Out-of-pocket limit (2024) | None | None | ~$7,060 | None |
+| Out-of-pocket limit (2026) | None | None | $8,000 | None |
 
 Plan G dominates the market for new enrollees right now. Compared to the old Plan F, it doesn't cover the Part B deductible, which is $283 per year in 2026. You pay that once and Plan G covers everything else. For most people, the premium savings versus Plan F exceed that $283 anyway.
 
@@ -80,7 +80,7 @@ New York, Massachusetts, and Connecticut have their own continuous open enrollme
 
 ## How Medigap Pricing Works (And Why the Same Plan Varies So Much)
 
-Get quotes for Plan G from three companies and you'll see $90 to $250 per month. That range is real.
+Get quotes for Plan G from three companies and you may see a wide spread in monthly premiums. That range is real.
 
 How's that possible if benefits are identical?
 
@@ -141,4 +141,4 @@ If you're approaching 65 or helping family think through this, talk with a licen
 
 - **[Medicare For Dummies](https://www.amazon.com/dp/1119689937/?tag=contentportfo-20)** (~$22), The definitive consumer guide to Medicare, enrollment windows, Part A/B/C/D, and supplement plans.
 - **[Get What's Yours for Medicare](https://www.amazon.com/dp/1668031914/?tag=contentportfo-20)** (~$17), Maximize your Medicare benefits and minimize out-of-pocket costs. Covers Part D drug coverage gaps and Medigap in depth.
-- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original bestselling guide to navigating Medicare and Social Security timing, over 100,000 copies sold.
+- **[Get What's Yours for Medicare (Original)](https://www.amazon.com/dp/1501124005/?tag=contentportfo-20)** (~$15), The original guide to navigating Medicare and Social Security timing.

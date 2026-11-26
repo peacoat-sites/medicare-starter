@@ -9,7 +9,7 @@ tags: ["medicare", "coinsurance", "explained"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-coinsurance-explained"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
     a: "Yes. Medicare Savings Programs, administered by your state, can pay coinsurance for people who meet income and asset limits. The QMB level provides the most comprehensive help. Contact your local SHIP office or visit Medicare.gov to screen for eligibility."
   - q: "Does Medicare coinsurance apply to preventive care visits?"
     a: "Not always. Many preventive services under Part B, including the annual wellness visit and certain cancer screenings, are covered at 100% with no coinsurance. However, if your doctor addresses a separate medical issue during what starts as a preventive visit, that portion of the visit may trigger coinsurance. It's worth asking your provider upfront how the visit will be billed."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people assume Medicare is basically free once you hit 65. In fact, Medicare has real out-of-pocket costs, and coinsurance is one of the biggest sources of surprise bills for seniors.
@@ -42,7 +42,7 @@ Here's a worked example to make that concrete:
 
 You're admitted for outpatient surgery. Medicare approves $8,000 for the procedure. You've already met your [Part B deductible](/medicare-deductible-2026/) (currently $283 as of 2026). Your share: 20% of $8,000, which is $1,600. Just like that, out of pocket, no ceiling.
 
-For example, someone with original Medicare only might receive an $1,800 coinsurance bill after a hospital outpatient procedure without realizing it was coming. Enrolling in a Medicare Supplement (also called Medigap) plan before the procedure could reduce coinsurance responsibility to zero or near zero depending on the plan letter chosen.
+Consider someone with original Medicare only who receives an $1,800 coinsurance bill after a hospital outpatient procedure without realizing it was coming. Enrolling in a Medicare Supplement (also called Medigap) plan before the procedure could reduce coinsurance responsibility to zero or near zero depending on the plan letter chosen.
 
 ## How Coinsurance Works in Each Part of Medicare
 
@@ -58,7 +58,7 @@ For example, someone with original Medicare only might receive an $1,800 coinsur
 
 Part A, Part B, and Part D all handle coinsurance differently. This trips people up constantly.
 
-**Part A (hospital insurance)** uses a combination of deductibles and coinsurance based on how long you're hospitalized. For 2026, days 1 through 60 of a hospital stay carry no coinsurance after you pay the inpatient deductible (currently $1,736 per benefit period). But days 61 through 90? You pay $434 per day in coinsurance. Days 91 and beyond, if you're drawing on your lifetime reserve days, the coinsurance jumps to $868 per day. And once those reserve days are used up, Medicare pays nothing.
+**Part A (hospital insurance)** uses a combination of deductibles and coinsurance based on how long you're hospitalized. For 2026, days 1 through 60 of a hospital stay carry no daily coinsurance after you pay the inpatient deductible (currently $1,736 per benefit period). But days 61 through 90? You pay $434 per day in coinsurance. Days 91 and beyond, if you're drawing on your lifetime reserve days, the coinsurance jumps to $868 per day. And once those reserve days are used up, Medicare pays nothing.
 
 Skilled nursing facility (SNF) stays work similarly. Days 1 through 20 are covered in full by Part A. Days 21 through 100, you owe coinsurance of $217 per day as of this year. After day 100, you're on your own entirely.
 
@@ -78,9 +78,9 @@ This is why Medigap plans exist. A [Medicare Supplement plan](/medicare-advantag
 
 The research on whether Medigap is "worth it" is actually mixed, because it depends heavily on your health status and utilization. If you're generally healthy and rarely use medical services, you might pay more in premiums than you'd ever spend in coinsurance. But for people managing chronic conditions or those who simply can't absorb a surprise $3,000 bill, a Medigap plan can be the difference between financial stability and real hardship. AARP's Medicare resource center at [aarp.org](https://www.aarp.org/health/medicare-insurance/) has solid plan comparison guidance if you want to think through the numbers for your own situation.
 
-Medicare Advantage (Part C) plans are the other route. These private plans replace original Medicare and almost always include an out-of-pocket maximum, often between $4,000 and $8,500 annually. That cap is genuinely valuable. The tradeoff is that you're usually working within a network and may need referrals, which matters a lot depending on where you live and which doctors you use.
+Medicare Advantage (Part C) plans are the other route. These private plans replace original Medicare and always include an out-of-pocket maximum, which can be no higher than $9,250 in network for 2026. Many plans set lower limits. That cap is genuinely valuable. The tradeoff is that you're usually working within a network and may need referrals, which matters a lot depending on where you live and which doctors you use.
 
-**Scenario → Action taken → Result:** Someone choosing between a $0-premium Medicare Advantage plan and a Medigap Plan G (running about $140/month in a given area) while managing Type 2 diabetes and seeing specialists every few months faces a trade-off. Mapping out projected annual utilization, coinsurance exposure under original Medicare alone typically runs $1,200 to $1,800 annually. The Medigap plan costs about $1,680/year in premiums but effectively eliminates that unpredictable exposure. For someone with frequent specialist visits, Plan G can make sense. The right choice depends on individual health needs and risk tolerance.
+**Scenario → Action taken → Result:** Someone choosing between a $0-premium Medicare Advantage plan and a Medigap Plan G (running about $140/month in a given area) while managing Type 2 diabetes and seeing specialists every few months faces a trade-off. Mapping out projected annual utilization shows the coinsurance exposure under original Medicare alone. The Medigap plan costs about $1,680/year in premiums but effectively eliminates that unpredictable exposure. For someone with frequent specialist visits, Plan G can make sense. The right choice depends on individual health needs and risk tolerance.
 
 ## Extra Help, Low-Income Subsidies, and Coinsurance Relief Programs
 

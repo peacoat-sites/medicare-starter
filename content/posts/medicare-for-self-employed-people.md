@@ -9,7 +9,7 @@ tags: ["medicare", "self", "employed", "people"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-for-self-employed-people"
 affiliate_disclosure: true
 faqs:
@@ -20,10 +20,10 @@ faqs:
   - q: "What if I don't take Social Security yet, can I still enroll in Medicare at 65?"
     a: "Absolutely. You can enroll in Medicare at 65 without claiming Social Security retirement benefits. Visit Medicare.gov or your local Social Security office to enroll directly. You'll pay your Part B premium by quarterly billing rather than having it deducted from a Social Security check."
   - q: "Is there a penalty for enrolling late in Part D drug coverage?"
-    a: "Yes, same logic as Part B. The penalty is 1% of the 'national base beneficiary premium' (currently around $34.70/month in 2026) for every month you were without creditable drug coverage. It's smaller than the Part B penalty but still permanent. Enroll in Part D when you first become eligible."
+    a: "Yes, same logic as Part B. The penalty is 1% of the 'national base beneficiary premium' (currently $38.99/month in 2026) for every full month you were without creditable drug coverage. It's smaller than the Part B penalty but still permanent. Enroll in Part D when you first become eligible."
   - q: "Can I deduct my Medicare premiums as a self-employed person?"
     a: "Generally yes. The self-employed health insurance deduction allows you to deduct Medicare Part B premiums, Part D premiums, and Medigap premiums from your federal income taxes, as long as you weren't eligible to be covered under an employer-sponsored plan. Confirm your specific situation with a tax professional, since the rules have nuances."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most self-employed people I've talked with over the years assume Medicare is simple: you turn 65, you sign up, done. The part they consistently miss is that without an employer handling enrollment, the entire thing lands on you, and the penalties for getting it wrong can follow you for life.
@@ -38,7 +38,7 @@ When you work for a company, your HR department nudges you about open enrollment
 
 The core issue is this: most people with employer-sponsored health coverage can delay Medicare Part B without penalty, because their employer plan counts as "creditable coverage." But the rules for self-employed people are different in one critical way. If you're buying your own health insurance on the ACA marketplace or through a trade association, that coverage does NOT qualify as creditable coverage for Medicare purposes. The moment you're eligible for Medicare (generally the month you turn 65), your clock starts.
 
-I got this wrong myself years ago when explaining it to a client who was a self-employed graphic designer in Portland. She assumed her solid ACA plan meant she could wait. It doesn't. She enrolled late and took a 10% Part B penalty. Completely avoidable.
+Consider a self-employed graphic designer in Portland who assumes her solid ACA plan means she can wait. It doesn't. If she enrolls late, she takes a 10% Part B penalty. Completely avoidable.
 
 The exception worth knowing: if you're actively working and covered under a group health plan through your spouse's employer, that qualifies. But your own individual or marketplace plan does not. Period.
 
@@ -46,7 +46,7 @@ The exception worth knowing: if you're actively working and covered under a grou
 
 | Medicare Part | Coverage Type | Premium Cost (2026) | Key Consideration for Self-Employed |
 | --- | --- | --- | --- |
-| Part A | Hospital insurance | Free (if 40+ quarters paid) | Enroll at 65; no penalty for delay if actively working under group plan |
+| Part A | Hospital insurance | Free (if 40+ quarters paid) | Enroll at 65; premium-free for most, so there is little reason to delay |
 | Part B | Medical insurance | $202.90/month standard | 10% permanent penalty per 12-month delay without creditable coverage |
 | Part D | Prescription drugs | Varies by plan | Penalty applies if delayed without creditable drug coverage |
 | Part C (Advantage) | Private bundled plan | Often $0 beyond Part B | Network restrictions; may have high specialist copays ($350+) |
@@ -74,11 +74,11 @@ Medicare Advantage plans often have $0 premiums beyond Part B, which is attracti
 
 The honest answer: run the actual numbers for your situation. A local [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) counselor will do this with you for free, with no agenda to sell you anything. Use them. They're one of Medicare's best-kept secrets.
 
-**Example:** A Plan G Medigap policy at $142/month plus $202.90 for Part B totals $344.90/month. By contrast, an Advantage plan might cost $202.90/month but result in $1,200 in out-of-pocket costs in a year with specialist visits. Over 12 months, the Medigap enrollee pays $4,138.80; the Advantage enrollee pays $3,634.80. At low utilization the outcomes are similar, but Medigap protection scales much better if serious illness occurs.
+**Example:** A Plan G Medigap policy at $142/month plus $202.90 for Part B totals $344.90/month. By contrast, an Advantage plan might cost $202.90/month but result in $1,200 in out-of-pocket costs in a year with specialist visits. Over 12 months, the Medigap enrollee pays $4,138.80 in premiums (plus the $283 Part B deductible); the Advantage enrollee pays $2,434.80 + $1,200 = $3,634.80. At low utilization the outcomes are similar, but Medigap protection scales much better if serious illness occurs.
 
 ## Enrollment Timing: Don't Miss Your Window
 
-Your Initial Enrollment Period (IEP) is a seven-month window: three months before the month you turn 65, the birthday month itself, and three months after. If you miss it, you wait for the General Enrollment Period (January 1 through March 31 each year), with coverage starting July 1. And you pay that penalty.
+Your Initial Enrollment Period (IEP) is a seven-month window: three months before the month you turn 65, the birthday month itself, and three months after. If you miss it, you wait for the General Enrollment Period (January 1 through March 31 each year), with coverage starting the first day of the month after you sign up. And you pay that penalty.
 
 Self-employed people often miss this because they're heads-down in their work. Put a calendar alert 120 days before your 65th birthday. Do it now.
 
@@ -88,7 +88,7 @@ One more timing thing worth knowing: you can sign up for Medicare even if you're
 
 ## What About Self-Employment Income and Premium Costs?
 
-One thing self-employed people often overlook: the IRMAA surcharge is based on your income from two years prior. So if you had a banner year at 63 and then retired at 65, you could start Medicare paying significantly more than the standard premium. In 2026, the highest IRMAA tier adds over $400/month to your Part B costs.
+One thing self-employed people often overlook: the IRMAA surcharge is based on your income from two years prior. So if you had a banner year at 63 and then retired at 65, you could start Medicare paying significantly more than the standard premium. In 2026, the highest IRMAA tier adds $487.00/month to your Part B costs.
 
 You can appeal IRMAA if your income has dropped due to a "life-changing event." Retiring from self-employment counts. The form is SSA-44; the Social Security Administration handles it. Worth filing if your income dropped substantially since your base year.
 

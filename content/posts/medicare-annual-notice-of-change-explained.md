@@ -1,6 +1,7 @@
 ---
 title: "Medicare Annual Notice of Change: What You Need to Know"
 date: 2026-11-22T21:51:46.177435+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Learn what Medicare's Annual Notice of Change means for your coverage, costs, and plan options. Key deadlines and next steps explained."
 image: "/img/heroes/8424515.jpg"
@@ -9,7 +10,7 @@ tags: ["medicare", "annual", "notice", "change", "explained"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-annual-notice-of-change-explained"
 affiliate_disclosure: true
 faqs:
@@ -51,11 +52,11 @@ The ANOC is not a full plan document. It's a summary of changes. For the complet
 
 Drug formulary changes deserve more attention than most people give them. This is where plans quietly make moves that affect your out-of-pocket costs the most.
 
-A drug you've been taking for years might still be "covered" but moved from Tier 2 to Tier 4 on the formulary. That tier jump can mean the difference between a $15 copay and a $80+ coinsurance charge, every single month. Plans also add [prior authorization](/original-medicare-now-requires-prior-authorization-in-six-states/) requirements, quantity limits, or step therapy rules (meaning you have to try a cheaper drug first) for drugs that had none of those restrictions before.
+A drug you've been taking for years might still be "covered" but moved from Tier 2 to Tier 4 on the formulary. That tier jump can mean a much higher copay or coinsurance charge on every fill. Plans also add [prior authorization](/original-medicare-now-requires-prior-authorization-in-six-states/) requirements, quantity limits, or step therapy rules (meaning you have to try a cheaper drug first) for drugs that had none of those restrictions before.
 
 Look up each of your medications in the ANOC's formulary section. If your drug isn't listed at all, call the plan before the AEP closes. Don't assume a gap is a typo.
 
-**Example:** Assume you take three maintenance medications, one on Tier 1, one on Tier 2, and one on Tier 3. Your ANOC shows the Tier 3 drug moving to Tier 4 specialty, with a 25% coinsurance instead of a flat $45 copay. If that drug costs $400/month at the pharmacy, your cost goes from $45 to $100 per fill. Over 12 months, that's $660 more out of pocket, all from one formulary change you might have missed.
+**Example:** Consider a hypothetical member who takes three maintenance medications, one on Tier 1, one on Tier 2, and one on Tier 3. Your ANOC shows the Tier 3 drug moving to Tier 4 specialty, with a 25% coinsurance instead of a flat $45 copay. If that drug costs $400/month at the pharmacy, your cost goes from $45 to $100 per fill. Over 12 months, that's $660 more out of pocket, all from one formulary change you might have missed.
 
 ## Reading the ANOC vs. Actually Using It
 
@@ -80,7 +81,7 @@ Here's a simple framework for comparing your current plan's changes against alte
 | Out-of-pocket maximum | The most you'll pay in a year for covered services | ANOC benefits section |
 | Supplemental benefits | Dental, vision, OTC allowances, fitness programs | ANOC benefits summary |
 
-Don't skip the out-of-pocket maximum column. Medicare Advantage plans are required to cap your annual costs for covered medical services; original Medicare has no such cap. If your plan's maximum is rising significantly, that's worth weighing.
+Don't skip the out-of-pocket maximum column. Medicare Advantage plans are required to cap your annual in-network costs for covered medical services (the 2026 limit is $9,250, though many plans set lower limits); original Medicare has no such cap. If your plan's maximum is rising significantly, that's worth weighing.
 
 ## If Your Plan Is Leaving Your Area or Being Discontinued
 

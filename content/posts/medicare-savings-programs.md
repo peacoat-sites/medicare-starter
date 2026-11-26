@@ -9,7 +9,7 @@ tags: ["medicare", "savings", "programs"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-savings-programs"
 affiliate_disclosure: true
 faqs:
@@ -23,10 +23,10 @@ faqs:
    a: "More than most people realize. Some states cover additional benefits, have higher income limits, or have eliminated the asset test entirely. The federal rules are a floor, not a ceiling. A SHIP counselor in your state will know exactly what your state offers beyond the federal minimum."
  - q: "If I qualify for QMB, can providers still send me to collections for Medicare cost-sharing?"
    a: "They shouldn't, and you have recourse if they do. QMB prohibits providers from billing you for Medicare cost-sharing. If you receive a bill or a collections notice for charges QMB should have covered, contact your State Medicaid office and file a complaint. You can also call 1-800-MEDICARE. Don't just pay it because the bill showed up."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
-A woman called me a few years ago, nearly in tears. She'd been paying her Medicare [Part B premium](/medicare-part-b-premium/) every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she'd qualified for a program that would have covered that premium entirely. We're talking about $3,000 she'd paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.
+Consider a woman who has paid her Medicare [Part B premium](/medicare-part-b-premium/) every month for two years, dutifully, right out of her Social Security check. What she didn't know was that she qualified for a program that would have covered that premium entirely. That's about $3,000 she paid out-of-pocket that she didn't have to. The program existed. She just didn't know to ask.
 
 That's the thing about Medicare Savings Programs (MSPs). They're not hidden exactly, but nobody sends you a letter that says "Hey, you qualify for this, here's how to sign up." You have to find them yourself, or know someone who'll tell you. Consider me that someone.
 
@@ -36,7 +36,7 @@ MSPs are state-administered programs funded jointly by states and the federal go
 
 The **Qualified Medicare Beneficiary (QMB)** program is the most comprehensive. It covers your Part A premium (if you have one), your Part B premium, and your deductibles, copays, and coinsurance across both parts. If you're enrolled in QMB, Medicare providers are actually prohibited by federal law from billing you for cost-sharing. Not just supposed to not bill you. Prohibited. Some people enrolled in QMB still receive bills from providers who aren't aware of or don't follow this rule. You can push back on those.
 
-The **Specified Low-Income Medicare Beneficiary (SLMB)** program does one thing: it pays your Part B premium. That's currently around $202.90 a month, depending on your income, which adds up to more than $2,200 a year returned to your Social Security payment.
+The **Specified Low-Income Medicare Beneficiary (SLMB)** program does one thing: it pays your Part B premium. That's $202.90 a month in 2026, which adds up to more than $2,400 a year no longer deducted from your Social Security payment.
 
 **Qualifying Individual (QI)** does the same thing as SLMB, just at a slightly higher income level. The catch with QI is that it's funded through annual congressional appropriations, which means slots can run out. Apply early in the year if you think you might qualify here.
 
@@ -73,9 +73,9 @@ One genuinely underused resource here is your local [State Health Insurance Assi
 
 ## The Part D Connection (Extra Help)
 
-If you qualify for QMB, SLMB, or QI, you're automatically eligible for Extra Help, which is Medicare's Low Income Subsidy (LIS) for Part D prescription drug costs. Extra Help can reduce or eliminate your Part D premiums, lower your drug copays to a few dollars per prescription, and eliminate the Part D coverage gap (sometimes called the donut hole, though its structure has changed in recent years).
+If you qualify for QMB, SLMB, or QI, you automatically qualify for Extra Help, which is Medicare's Low Income Subsidy (LIS) for Part D prescription drug costs, because people in a Medicare Savings Program get full Extra Help. Extra Help can reduce or eliminate your Part D premiums and lower your drug copays to a few dollars per prescription (in 2026, up to $5.10 for generics and $12.65 for brand-name drugs). The old coverage gap, sometimes called the donut hole, no longer exists, and Part D now has a $2,100 annual out-of-pocket cap in 2026.
 
-The value of Extra Help is substantial. People who qualify for the full subsidy can save well over a thousand dollars a year on prescription costs, sometimes considerably more depending on what medications they take. If you're enrolled in an MSP, Social Security is supposed to automatically enroll you in Extra Help. But confirm it happened. The automatic enrollment occasionally misses people, so a phone call to Social Security (1-800-772-1213) can verify your status.
+The value of Extra Help is substantial. How much you save depends on the medications you take. If you're enrolled in an MSP, Social Security is supposed to automatically enroll you in Extra Help. But confirm it happened. The automatic enrollment occasionally misses people, so a phone call to Social Security (1-800-772-1213) can verify your status.
 
 ## A Contrarian Take Worth Considering
 
@@ -93,7 +93,7 @@ If your income or assets change, report it. This goes both directions. If your i
 
 ---
 
-The woman who called me, the one who'd spent two years paying a premium she didn't owe? She applied, qualified, and got her premium covered going forward. She couldn't recover what she'd already paid, which still bothers me to this day. The point is: if there's even a reasonable chance you might qualify for a Medicare Savings Program, apply now. Not next month.
+The woman in that example, who spent two years paying a premium she didn't owe, could apply, qualify, and have her premium covered going forward. She likely couldn't recover what she'd already paid. The point is: if there's even a reasonable chance you might qualify for a Medicare Savings Program, apply now. Not next month.
 
 ---
 

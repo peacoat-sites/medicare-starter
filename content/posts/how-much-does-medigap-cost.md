@@ -18,12 +18,12 @@ faqs:
  - q: "Why does one company charge so much more than another for the exact same Plan G?"
    a: "The benefits are identical, but insurers have different claims histories, administrative costs, profit margins, and pricing strategies. An insurer with a large, older enrollment pool may charge more because their average member is sicker and filing more claims. A newer entrant to a market might price aggressively to attract younger, healthier enrollees. This is exactly why shopping multiple companies matters."
  - q: "I'm in good health. Should I choose a high-deductible plan to save money?"
-   a: "High-Deductible Plan G can be a genuinely smart choice for people in good health who want catastrophic protection without paying high monthly premiums. The math works in your favor in years when your medical costs stay low. The risk is that one bad year with significant cost-sharing could use up your deductible quickly. Many of my clients use a hybrid strategy: start with High-Deductible Plan G in their early 60s and revisit their coverage as their health and healthcare use evolve."
+   a: "High-Deductible Plan G can be a genuinely smart choice for people in good health who want catastrophic protection without paying high monthly premiums. The math works in your favor in years when your medical costs stay low. The risk is that one bad year with significant cost-sharing could use up your deductible quickly. One hybrid strategy is to start with High-Deductible Plan G and revisit coverage as health and healthcare use evolve."
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 You've just turned 65, there's a stack of Medicare mail on your kitchen table, and one envelope promises to protect you from "unlimited out-of-pocket costs." You open it. The monthly premium makes your coffee go cold. Is that price reasonable? Too high? Is there something cheaper that does the same job?
 
@@ -47,7 +47,7 @@ So why does Medigap cost money on top of your Part B premium? Because you're buy
 
 | Medigap Plan | Monthly Premium Range (65yo) | Coverage Level | Key Limitation |
 | --- | --- | --- | --- |
-| Plan G | $80-$300+ | Most comprehensive | Doesn't cover Part B deductible ($283/year in 2026) |
+| Plan G | Varies widely by insurer, age, and location | Most comprehensive | Doesn't cover Part B deductible ($283/year in 2026) |
 | Plan N | $80-$300+ | Moderate | $20 office visit copays, $50 ER copay, no Part B excess coverage |
 | High-Deductible Plan G | Under $50-$300+ | Comprehensive after deductible | $2,800 annual deductible (2026) |
 | Plan K | Lower | Limited | Only partial cost-sharing coverage |
@@ -59,7 +59,7 @@ Monthly premiums for [Plan G and Plan N](/medigap-plan-g-vs-plan-n-comparison/),
 
 Plan G is currently the most comprehensive plan available to new Medicare enrollees. Plan F, which was slightly richer, closed to new enrollees in 2020. Plan G covers everything except the Part B deductible, which in 2026 is $283 per year. Plan N is a step down. It has lower premiums, but you'll pay up to $20 copays for office visits and up to $50 for emergency room visits, and it doesn't cover Part B excess charges.
 
-High-deductible Plan G is a third option worth knowing about. It carries a deductible of $2,800 in 2024, meaning you pay that amount in costs before the plan kicks in. In exchange, monthly premiums can be dramatically lower, sometimes under $50 per month for a healthy 65-year-old in a favorable zip code. If you're relatively healthy and rarely use medical care, this version can save you significant money over time.
+High-deductible Plan G is a third option worth knowing about. It carries a deductible of $2,800 in 2026, meaning you pay that amount in costs before the plan kicks in. In exchange, monthly premiums can be dramatically lower, sometimes under $50 per month for a healthy 65-year-old in a favorable zip code. If you're relatively healthy and rarely use medical care, this version can save you significant money over time.
 
 The lowest-cost options, Plan K and Plan L, cover only a portion of your cost-sharing and have annual out-of-pocket limits. They're less common, but they might suit someone who wants catastrophic protection without comprehensive first-dollar coverage.
 
@@ -69,7 +69,7 @@ The lowest-cost options, Plan K and Plan L, cover only a portion of your cost-sh
 
 Understanding what drives the price helps you shop smarter.
 
-**1. Where you live.** This is the biggest one. Insurance is regulated state by state, and premiums can vary dramatically between zip codes, even within the same state. Someone in rural Kansas might pay half what someone in urban Florida pays for identical Plan G coverage. Some states, including Massachusetts, Minnesota, and Wisconsin, have their own standardized plan structures that differ from the federal framework, which changes the pricing picture entirely.
+**1. Where you live.** This is the biggest one. Insurance is regulated state by state, and premiums can vary dramatically between zip codes, even within the same state. Someone in a low-cost rural area might pay far less than someone in a high-cost urban area for identical Plan G coverage. Some states, including Massachusetts, Minnesota, and Wisconsin, have their own standardized plan structures that differ from the federal framework, which changes the pricing picture entirely.
 
 **2. How the insurance company prices its plans.** This is called the "rating method," and it's one of the most important concepts in Medigap shopping. There are three types:
 
@@ -81,7 +81,7 @@ If a company is offering you a very low price today, ask which rating method the
 
 **3. Your age and gender at the time of enrollment.** Older applicants pay more with attained-age and issue-age plans. Gender is a factor in most states, with men typically paying somewhat higher premiums.
 
-**4. Whether you use tobacco.** Most insurers charge smokers a surcharge, sometimes 10% to 20% more.
+**4. Whether you use tobacco.** Most insurers charge smokers a surcharge.
 
 One thing that does NOT typically affect your Medigap price: your health history, at least during your [Open Enrollment Period](/medigap-open-enrollment-period/). During the six months that starts the month you're both 65 and enrolled in Part B, insurers must sell you any plan they offer at the standard rate, no matter your health conditions. Miss that window, and in most states, companies can medically underwrite you and either charge more or deny coverage altogether.
 

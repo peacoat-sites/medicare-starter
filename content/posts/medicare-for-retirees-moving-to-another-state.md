@@ -1,7 +1,7 @@
 ---
 title: "Medicare for Retirees Moving States: What Changes"
 date: 2026-08-04T16:20:28.400780+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn how your Medicare coverage changes when you relocate to another state, including plan options and enrollment deadlines for retirees."
 image: "/img/heroes/4554240.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "retirees", "moving", "another", "state"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-for-retirees-moving-to-another-state"
 affiliate_disclosure: true
 faqs:
@@ -73,11 +73,11 @@ One thing I always tell people: if you're currently in a Medicare Advantage plan
 
 ## Three Real Scenarios
 
-**A retiree in an HMO MA plan moves from Tampa to Asheville with no notice to her plan.** Her Tampa plan has no network presence in North Carolina. She discovers this when her new GP's office turns her away. She's 45 days past her move date. She calls Medicare (1-800-MEDICARE), confirms her SEP is still open, enrolls in a new Advantage plan in Asheville, and avoids a coverage gap, though she loses two weeks of care coordination while the paperwork processes.
+**Consider a retiree in an HMO MA plan who moves from Tampa to Asheville with no notice to her plan.** Her Tampa plan has no network presence in North Carolina. She discovers this when her new GP's office turns her away. She's 45 days past her move date. She calls Medicare (1-800-MEDICARE), confirms her SEP is still open, enrolls in a new Advantage plan in Asheville, and avoids a coverage gap, though she loses two weeks of care coordination while the paperwork processes.
 
-**A couple moves from Ohio to Florida with Original Medicare plus Medigap Plan G policies.** Their coverage works fine with Florida providers. They consider switching to a lower-premium Plan G sold by a Florida insurer. Because neither has guaranteed-issue rights at this point (their initial Medigap open enrollment period ended years ago), both would need to pass medical underwriting. One of them is declined due to a prior cardiac event. They keep their Ohio-issued plans, which follow them to Florida with no issue.
+**Consider a couple who move from Ohio to Florida with Original Medicare plus Medigap Plan G policies.** Their coverage works fine with Florida providers. They consider switching to a lower-premium Plan G sold by a Florida insurer. Because neither has guaranteed-issue rights at this point (their initial Medigap open enrollment period ended years ago), both would need to pass medical underwriting. One of them is declined due to a prior cardiac event. They keep their Ohio-issued plans, which follow them to Florida with no issue.
 
-**A retiree on a Part D plan paying $31/month for her blood pressure medication moves from Minnesota to Arizona.** She runs her same medication list through Medicare.gov's Plan Finder for her new ZIP code and finds her current plan isn't available in Arizona. The equivalent plan in Arizona has a $67/month premium for the same drugs. She compares four plans, finds one at $39/month that covers all her medications, and enrolls during her SEP. Annual savings: roughly $336.
+**Consider a retiree on a Part D plan paying $31/month for her blood pressure medication who moves from Minnesota to Arizona.** She runs her same medication list through Medicare.gov's Plan Finder for her new ZIP code and finds her current plan isn't available in Arizona. The equivalent plan in Arizona has a $67/month premium for the same drugs. She compares four plans, finds one at $39/month that covers all her medications, and enrolls during her SEP. Annual savings: roughly $336.
 
 ## Before You Pack the Moving Truck
 

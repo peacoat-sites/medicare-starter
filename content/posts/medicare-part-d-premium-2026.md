@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 You opened your Medicare plan confirmation letter expecting the usual small tweak to your prescription drug costs. Instead, the 2026 premium figure staring back at you is noticeably higher than what you paid last year. You're not imagining it, and you're not alone. Part D premiums are climbing again in 2026, and the reasons why, and what you can do about it, are worth understanding before you accept whatever plan you're currently enrolled in as your only option.
 
@@ -33,9 +33,9 @@ Medicare Part D is the standalone prescription drug coverage program added to Me
 
 The national base beneficiary premium for 2026 is $38.99, up from $36.78 in 2025. That base figure isn't what most people actually pay. It's a benchmark the government uses to calculate [late enrollment penalties](/medicare-part-d-late-enrollment-penalty/) and income-related surcharges. Your real premium depends on which specific plan you choose and where you live.
 
-A few things are piling up at once. The Inflation Reduction Act of 2022 restructured Part D's benefit design significantly, including capping out-of-pocket drug costs at $2,000 annually starting in 2025. That protection is genuinely valuable, but insurance plans are now pricing in the added liability. Specialty drug costs, especially for GLP-1 medications like semaglutide, are straining plan formularies hard. Plans absorb more risk now, and premiums reflect that reality.
+A few things are piling up at once. The Inflation Reduction Act of 2022 restructured Part D's benefit design significantly, including capping out-of-pocket drug costs annually starting in 2025 ($2,000 in 2025, $2,100 in 2026). That protection is genuinely valuable, but insurance plans are now pricing in the added liability. Specialty drug costs, especially for GLP-1 medications like semaglutide, are straining plan formularies hard. Plans absorb more risk now, and premiums reflect that reality.
 
-The Centers for Medicare & Medicaid Services has published the full 2026 Part D landscape data, which shows a wide range of plan premiums available across regions. That range is the important part: across most states, you'll find plans ranging from under $10 per month to well over $100. The average beneficiary has access to more than 20 standalone Part D plans. The difference between the cheapest adequate plan and the one you're defaulting to could easily be $600 or more per year.
+The Centers for Medicare & Medicaid Services has published the full 2026 Part D landscape data, which shows a wide range of plan premiums available across regions. That range is the important part: across most states, you'll find plans ranging from under $10 per month to well over $100. Most beneficiaries have a wide choice of standalone Part D plans. The difference between the cheapest adequate plan and the one you're defaulting to could easily be $600 or more per year.
 
 ## The Income Adjustment Most People Don't Expect: IRMAA
 
@@ -82,13 +82,13 @@ If you'd rather have guided help, your State Health Insurance Assistance Program
 
 ## The $2,100 Cap and What It Changes for 2026
 
-The [$2,100 annual out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drug costs, introduced in 2025 as part of the Inflation Reduction Act, continues in 2026. This is genuinely the most significant improvement to Part D in years. Before this cap existed, people with expensive specialty medications faced catastrophic costs that could exceed $3,000 to $10,000 or more annually.
+The [$2,100 annual out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/) on Part D drug costs, introduced in 2025 as part of the Inflation Reduction Act, continues in 2026. This is genuinely the most significant improvement to Part D in years. Before this cap existed, people with expensive specialty medications could face very high annual costs.
 
 What changes with the cap:
 
 If you take high-cost medications, say a biologic drug for rheumatoid arthritis or a cancer maintenance drug, your total Part D cost exposure stops at $2,100. Anything above that, the plan and the manufacturer (through the coverage gap discount program) absorb.
 
-This also makes the separate catastrophic phase of Part D essentially invisible to most beneficiaries. You won't hit a coverage gap "donut hole" the way people did before 2025, because the cap stops the bleeding earlier.
+The old coverage gap "donut hole" no longer exists: since 2025, the cap stops your out-of-pocket spending earlier.
 
 One thing to watch: plans are now restructuring their formularies and tier systems partly in response to taking on more catastrophic risk. Some plans have moved specialty drugs to Tier 4 or Tier 5, which means higher cost-sharing before you hit the cap. The $2,100 ceiling still applies, but your monthly drug costs before reaching that ceiling might be higher than you'd expect. This is exactly why running the Medicare.gov Plan Finder calculation with your specific drugs matters more than ever.
 
@@ -96,9 +96,9 @@ AARP's Medicare resource center has plain-language guides on how the restructure
 
 ## Low-Income Help: Extra Help and LIS
 
-If your income and assets are limited, you may qualify for the Part D Low Income Subsidy, commonly called Extra Help. This federal program significantly reduces or eliminates your Part D premium, deductible, and copays. Roughly 14 million people qualify, but enrollment isn't automatic for everyone who's eligible.
+If your income and assets are limited, you may qualify for the Part D Low Income Subsidy, commonly called Extra Help. This federal program significantly reduces or eliminates your Part D premium, deductible, and copays. Enrollment isn't automatic for everyone who's eligible.
 
-For 2026, full Extra Help generally applies if your income is below roughly 135% of the federal poverty level. Partial help extends to around 150%. Asset limits also apply, though they're indexed to inflation annually.
+For 2026, full Extra Help applies if your income is below 150% of the federal poverty level and you meet the resource limit. Since 2024 there is no partial tier. Asset limits also apply, though they're indexed to inflation annually.
 
 People who automatically qualify for Extra Help include those enrolled in full Medicaid, those receiving Supplemental Security Income (SSI), or those enrolled in a Medicare Savings Program. Everyone else needs to apply through Social Security.
 

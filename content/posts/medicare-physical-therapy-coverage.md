@@ -9,21 +9,21 @@ tags: ["medicare", "physical", "therapy", "coverage"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "medicare-physical-therapy-coverage"
 affiliate_disclosure: true
 faqs:
   - q: "Do I need a referral from my doctor to get physical therapy?"
     a: "Yes. Medicare requires that a doctor, nurse practitioner, or other qualified provider order the therapy and document that it's medically necessary. You can't just walk into a clinic and start therapy on your own."
   - q: "What's the difference between my deductible and the therapy cap?"
-    a: "Your Part B deductible (currently $283 per year) applies to all Part B services, including physical therapy. Once you've met it, Medicare pays 80 percent. The therapy cap ($2,310 in 2026) is the total amount Medicare will cover for all your outpatient therapy combined in a calendar year. Meet the deductible first, then your therapy visits count toward the cap."
+    a: "Your Part B deductible (currently $283 per year) applies to all Part B services, including physical therapy. Once you've met it, Medicare pays 80 percent. Medicare also has an annual threshold for all your outpatient therapy combined in a calendar year; once costs pass it, your therapist must document that the care is still medically necessary. Meet the deductible first, then Medicare pays 80 percent of covered therapy."
   - q: "Can I switch therapists mid-treatment if I don't like the first one?"
     a: "Yes. You can switch therapists anytime. Just tell your clinic you'd like to transfer to a different provider or facility. Medicare will continue coverage with the new therapist as long as the therapy remains medically necessary. There's no penalty for switching."
   - q: "Does Medicare cover in-home physical therapy?"
     a: "Yes, if you're homebound (meaning leaving home is difficult or impossible). Your doctor has to order it, and it's usually covered under Part B as an outpatient service. Some Advantage plans require pre-auth for home visits. This is a good question to confirm with your plan before scheduling."
   - q: "What happens if I've used all my visits and still need therapy?"
-    a: "Once you hit the $2,310 annual cap, Medicare stops paying. You can continue therapy if you pay out of pocket, which typically runs $100 to $150 per visit. Some therapists will negotiate a self-pay rate. If you believe you need more therapy and the cap has prevented medically necessary care, you can request an exception from your plan (Advantage) or appeal to Medicare (Original). Success isn't guaranteed, but it's worth asking."
-lastmod: 2026-11-24T12:00:00Z
+    a: "Medicare does not simply stop paying when therapy costs pass the annual threshold. If your therapist documents that the care is still medically necessary, Medicare continues to cover it. If a claim is denied, you can appeal to Medicare (Original) or your plan (Advantage). Success isn't guaranteed, but it's worth asking."
+lastmod: 2026-11-26
 ---
 
 A common source of confusion is physical therapy coverage after surgery. Someone might get approval from their surgeon, but when they call their Medicare plan, they hear vague terms like "medically necessary" and "needing approval first" without clear answers. Physical therapy is one of those benefits that looks straightforward on paper until you actually try to use it, and then suddenly you're wondering whether you need pre-approval, how many visits you get, and whether that outpatient clinic down the street is in-network.
@@ -36,7 +36,7 @@ Original Medicare (Parts A and B) covers physical therapy in three settings: inp
 
 For outpatient physical therapy, which is what most people use after an injury or surgery, Medicare Part B will cover it if a doctor or other qualified professional (like a nurse practitioner) orders it and it's deemed medically necessary. That "medically necessary" language matters. Medicare isn't paying for someone to get stronger in general; they're paying because you have a specific condition (a broken ankle, a stroke, frozen shoulder, spinal fusion) that requires treatment to improve function or prevent it from getting worse.
 
-Here's the part that trips people up: as of 2026, there's an annual cap on outpatient therapy services. Medicare covers up to $2,310 in combined outpatient therapy (physical, occupational, and speech therapy) per calendar year, though if you're doing rehabilitation following an inpatient hospital stay, the rules are different. The cap isn't a hard wall every year; Congress sometimes waives it, and the amount adjusts annually. You should check with your plan or Medicare.gov to confirm the current limit before you start.
+Here's the part that trips people up: Original Medicare has an annual dollar threshold for outpatient therapy services (physical, occupational, and speech therapy combined). Once your therapy costs pass that threshold, your therapist has to add a modifier to the claim confirming the care is medically necessary, and extra documentation may be required. It isn't a hard cutoff, and the amount adjusts annually. Check Medicare.gov to confirm the current figure before you start.
 
 ## Your Plan Type Affects What You Actually Get
 
@@ -47,7 +47,7 @@ Here's the part that trips people up: as of 2026, there's an annual cap on outpa
 
 If you have [Original Medicare and a Medigap](/medicare-advantage-vs-medicare-supplement-total-cost/) (supplement) plan, you'll have more straightforward coverage. Original Medicare pays 80 percent of the cost after you've met your Part B deductible (which for 2026 is $283). Your Medigap plan typically covers that 20 percent coinsurance, depending on which plan you have. Plan G and Plan N are popular because they cover most out-of-pocket costs, though they cost more upfront.
 
-[Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/) (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. For example, an Advantage plan might require physical therapy to be ordered through a primary care physician first, which can add delays to treatment. That's not a Medicare rule; that's her plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.
+[Medicare Advantage plans](/medicare-advantage-vs-medicare-supplement-total-cost/) (Part C) are different. These plans contract with specific networks of providers, and they often impose their own requirements on top of Medicare's. Some Advantage plans require you to get prior authorization before you start therapy. Some have stricter limits than the standard Medicare cap. For example, an Advantage plan might require physical therapy to be ordered through a primary care physician first, which can add delays to treatment. That's not a Medicare rule; that's the plan's rule. Read your plan's summary of benefits carefully before you assume you know what's covered.
 
 ## Getting Pre-Authorization and Finding a Provider
 
@@ -67,15 +67,15 @@ On your first day, the therapist evaluates you, probably takes some measurements
 
 Medicare processes the claim and pays 80 percent. You pay the remaining 20 percent. If you have Medigap, your supplement covers that 20 percent, and you pay nothing. If you don't have a supplement, that 20 percent is out of your pocket. Some clinics also charge a copay upfront, depending on your plan.
 
-Here's where it gets important: keep track of how many visits you've had. When you're getting close to that $2,310 annual cap (which is roughly 23 visits at $100 per visit, though costs vary), your therapist should flag it. Some do proactively; some don't. If you hit the cap, Medicare stops paying, and you're responsible for the full cost. No exceptions. This is why a fifteen-minute conversation with your plan in advance of your therapy can save you hundreds of dollars.
+Here's where it gets important: keep track of how many visits you've had. As your therapy costs approach the annual threshold, your therapist should flag it and confirm the documentation shows the care is still medically necessary. Some do this proactively; some don't. This is why a fifteen-minute conversation with your plan in advance of your therapy can save you hundreds of dollars.
 
 ## When Medicare Denies Physical Therapy
 
 I see this happen more often than people expect. Medicare denies a claim because the therapist didn't document that the therapy was medically necessary, or because the diagnosis doesn't clearly warrant ongoing treatment, or because the provider wasn't properly credentialed.
 
-Example: A reader from Portland, Oregon, was denied coverage for physical therapy after a minor ankle sprain. Her therapist had submitted the claim with a diagnosis code but no documentation of functional limitations. Medicare said "this looks like general conditioning, not rehabilitation," and denied it. The therapist resubmitted with better documentation (measurements showing loss of range of motion, functional tests showing difficulty walking), and on resubmission, it was approved. The delay cost her about six weeks of treatment.
+Example: Consider a patient who is denied coverage for physical therapy after a minor ankle sprain. Her therapist had submitted the claim with a diagnosis code but no documentation of functional limitations. Medicare said "this looks like general conditioning, not rehabilitation," and denied it. The therapist resubmitted with better documentation (measurements showing loss of range of motion, functional tests showing difficulty walking), and on resubmission, it was approved. The delay cost her about six weeks of treatment.
 
-If your claim is denied, ask your therapist to file an appeal. You can also appeal directly to Medicare through the Beneficiary Improvement and Protection Act (BIPA) process, though honestly, most appeals succeed if your therapist provides clearer documentation the second time. Don't just accept a denial and pay out of pocket without asking.
+If your claim is denied, ask your therapist to file an appeal. You can also appeal directly to Medicare through the standard Medicare appeals process, which starts with a redetermination request, and a clearer record from your therapist often helps. Don't just accept a denial and pay out of pocket without asking.
 
 ## Medicare Advantage vs. Original Medicare for PT
 

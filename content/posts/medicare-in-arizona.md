@@ -1,7 +1,7 @@
 ---
 title: "Medicare in Arizona: Coverage Options and Enrollment"
 date: 2026-08-13T15:08:42.174532+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn about Medicare coverage options available to Arizona residents, including eligibility requirements, enrollment periods, and local resources for beneficiar"
 image: "/img/heroes/8376222.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "arizona"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-in-arizona"
 affiliate_disclosure: true
 faqs:
@@ -32,15 +32,15 @@ The plan landscape varies dramatically across Arizona, not just between cities, 
 
 Arizona has become one of the most competitive Medicare Advantage markets in the country, which is genuinely good news for most beneficiaries, but it also means more chances to pick the wrong plan.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Arizona has one of the largest Medicare Advantage plan markets in the U.S., with 40+ plan options in major metro areas as of 2026.</li><li style="margin:5px 0">The average Medicare Advantage premium in Arizona is well below the national average in most counties, with $0-premium plans widely available.</li><li style="margin:5px 0">Arizona's SHIP program (called SHIP Arizona, run through the Arizona Department of Insurance) offers free one-on-one counseling.</li><li style="margin:5px 0">Part D drug plan costs vary dramatically by county; always use Medicare.gov's Plan Finder before enrolling.</li><li style="margin:5px 0">Snowbirds spending 6+ months in Arizona may need to update their Medicare plan to reflect their primary residence.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Arizona has one of the largest Medicare Advantage plan markets in the U.S., with 40+ plan options in major metro areas as of 2026.</li><li style="margin:5px 0">$0-premium Medicare Advantage plans are widely available in most Arizona counties.</li><li style="margin:5px 0">Arizona's SHIP program (called SHIP Arizona, run through the Arizona Department of Insurance) offers free one-on-one counseling.</li><li style="margin:5px 0">Part D drug plan costs vary dramatically by county; always use Medicare.gov's Plan Finder before enrolling.</li><li style="margin:5px 0">Snowbirds spending 6+ months in Arizona may need to update their Medicare plan to reflect their primary residence.</li></ul></div>
 
 ## What Arizona's Medicare Landscape Actually Looks Like
 
-Maricopa County (metro Phoenix) is a Medicare Advantage goldmine, and I don't use that word lightly. As of this year, beneficiaries there can choose from plans offered by UnitedHealthcare, Humana, Aetna, Blue Cross Blue Shield of Arizona, Cigna, Devoted Health, and several others. The competition keeps premiums low and benefits surprisingly rich. I've personally helped clients find $0-premium plans that included dental, vision, hearing, and even over-the-counter (OTC) allowances of $75 to $150 per quarter. That's not universal, and it won't last forever as the regulatory environment shifts, but right now it's real.
+Maricopa County (metro Phoenix) is a Medicare Advantage goldmine, and I don't use that word lightly. As of this year, beneficiaries there can choose from plans offered by UnitedHealthcare, Humana, Aetna, Blue Cross Blue Shield of Arizona, Cigna, Devoted Health, and several others. The competition keeps premiums low and benefits surprisingly rich. Some $0-premium plans include dental, vision, hearing, and even over-the-counter (OTC) allowances of $75 to $150 per quarter. That's not universal, and it won't last forever as the regulatory environment shifts, but right now it's real.
 
 Pima County (Tucson) and Yavapai County (Prescott area) also have robust plan availability. Rural counties like Greenlee, La Paz, and Graham are a different story. There, [Original Medicare](/original-medicare-now-requires-prior-authorization-in-six-states/) (Parts A and B) plus a Medigap supplement may actually be the stronger choice, not because Advantage plans are bad in principle, but because limited provider networks in rural areas can create real headaches when you need a specialist two hours away.
 
-Here's something I always warn people about: Arizona's large independent hospital systems don't all contract with the same Advantage plans. Banner Health, Dignity Health, and Valleywise Health have different network agreements with different insurers, and those agreements can change year to year. I had a client in Chandler who enrolled in a plan that her cardiologist accepted, only to discover during the [Annual Enrollment Period](/medicare-annual-enrollment-period-dates-2026/) (AEP) in October that he'd dropped out of that network for the coming year. She caught it in time. Not everyone does.
+Here's something I always warn people about: Arizona's large independent hospital systems don't all contract with the same Advantage plans. Banner Health, Dignity Health, and Valleywise Health have different network agreements with different insurers, and those agreements can change year to year. Consider a Chandler resident who enrolled in a plan that her cardiologist accepted, only to discover during the [Annual Enrollment Period](/medicare-annual-enrollment-period-dates-2026/) (AEP) in October that he'd dropped out of that network for the coming year. If she catches it in time, she can switch. Not everyone does.
 
 ## Original Medicare vs. Medicare Advantage in Arizona
 
@@ -50,18 +50,18 @@ Let me lay out the basic comparison honestly, because I find that most articles 
 |---|---|---|
 | Monthly premium (2026) | $202.90/month for Part B (standard) | $0 to $100+/month, varies by plan |
 | Network restrictions | See any Medicare-accepting provider | Usually limited to plan's network |
-| Out-of-pocket maximum | No annual cap (significant risk) | Required cap, often $3,000-$8,500/year |
+| Out-of-pocket maximum | No annual cap (significant risk) | Required cap, up to $9,250 in-network in 2026; many plans set lower limits |
 | Prescription drug coverage | Requires separate Part D plan | Usually bundled in |
 | Extra benefits (dental, vision) | Not covered | Commonly included |
 | Best for | Those who travel or want any doctor | Those who stay local and want low premiums |
 
-Original Medicare has no out-of-pocket maximum, which is a significant financial risk. If you're hospitalized for a complex surgery and rehab, costs can spiral well past $10,000. That's why anyone choosing Original Medicare in Arizona should pair it with a Medigap (Medicare Supplement) policy. Plan G is currently the most popular for new enrollees, covering almost everything except the Part B deductible ($283 in 2026). Monthly premiums for Plan G in Arizona typically run between $90 and $200 depending on age, gender, tobacco use, and the insurer.
+Original Medicare has no out-of-pocket maximum, which is a significant financial risk. A single hospital stay carries a $1,736 Part A deductible in 2026, and skilled nursing days 21-100 cost $217 per day, so a long hospitalization and rehab can add up quickly. That's why anyone choosing Original Medicare in Arizona should pair it with a Medigap (Medicare Supplement) policy. Plan G is currently the most popular for new enrollees, covering almost everything except the Part B deductible ($283 in 2026). Monthly premiums for Plan G in Arizona typically run between $90 and $200 depending on age, gender, tobacco use, and the insurer.
 
 One thing that only becomes obvious once you've sat across the table from dozens of Arizona clients: Medigap premiums here are actually quite competitive compared to many other states. I don't have a rigorous study to cite on that specific point, so take it as observational, but the pricing I see consistently is favorable.
 
 ## The Snowbird Problem (It's Bigger Than You Think)
 
-Arizona draws somewhere around 300,000 seasonal residents every winter, and a significant chunk of them are Medicare-eligible. I'll be honest: this creates the single most common and most costly Medicare mistake I encounter.
+Arizona draws a large number of seasonal residents every winter, and many of them are Medicare-eligible. I'll be honest: this creates the single most common and most costly Medicare mistake I encounter.
 
 If you spend January through April in Scottsdale and the rest of the year in Minnesota, your Medicare Advantage plan is probably attached to your Minnesota county. That plan may have zero in-network providers in Arizona except for emergency care. Which means that nagging knee, the routine cardiology follow-up, the dermatology check, all of it has to wait until you drive back north, or you pay out-of-network rates that can be eye-watering.
 
@@ -77,7 +77,7 @@ Prescription drug plans vary enormously by zip code and by what medications you 
 
 [Medicare.gov](https://www.medicare.gov/) has a Part D Plan Finder tool that lets you enter your exact medications and get a total estimated annual cost per plan. I strongly encourage everyone to use it before the AEP closes on December 7th. I use it myself every year when I help family members review their coverage.
 
-One underappreciated wrinkle in Arizona: the state doesn't have its own drug assistance program quite as robust as some states, but the federal Extra Help (also called Low Income Subsidy, or LIS) program can dramatically reduce Part D costs for beneficiaries below roughly 150% of the federal poverty level. If you're anywhere near that threshold, apply. Some beneficiaries have saved over $2,000 annually through the program.
+One underappreciated wrinkle in Arizona: the state doesn't have its own drug assistance program quite as robust as some states, but the federal Extra Help (also called Low Income Subsidy, or LIS) program can dramatically reduce Part D costs for beneficiaries below roughly 150% of the federal poverty level. If you're anywhere near that threshold, apply. Extra Help can substantially reduce annual Part D costs for those who qualify.
 
 Scenario: A 71-year-old in Mesa takes three brand-name medications, including a GLP-1 receptor agonist (used for diabetes management). He chose a low-premium Part D plan without checking the formulary. → The drug was on Tier 5 (specialty tier) with 33% coinsurance. → Annual out-of-pocket drug costs exceeded $4,100. After switching to a plan with a preferred placement for that drug and applying for Extra Help, his annual cost dropped to approximately $800.
 

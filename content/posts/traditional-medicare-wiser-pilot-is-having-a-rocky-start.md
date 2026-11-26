@@ -1,7 +1,7 @@
 ---
 title: "Traditional Medicare WISeR Pilot Is Having a Rocky Start"
 date: 2026-08-11T15:11:28.433947+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Traditional Medicare WISeR Pilot faces early challenges in implementation. Learn about the obstacles affecting this healthcare initiative and what's next for be"
 image: "/img/heroes/6129454.jpg"
@@ -10,7 +10,7 @@ tags: ["traditional", "medicare", "wiser", "pilot", "having"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "traditional-medicare-wiser-pilot-is-having-a-rocky-start"
 affiliate_disclosure: true
 ---
@@ -19,7 +19,7 @@ If you live in Arizona, New Jersey, Ohio, Oklahoma, Texas, or Washington and you
 
 Here's what I tell people when they come in confused and frustrated: you're not missing something obvious. This is genuinely new, and it caught a lot of providers off guard too. The program is called WISeR, which stands for Wasteful and Inappropriate Service Reduction. It launched January 1, 2026, under the Centers for Medicare and Medicaid Services, commonly called CMS. It's a pilot program, meaning it's being tested before any decision is made to expand it. The pilot runs through December 31, 2031, covering roughly 6.4 million [traditional Medicare](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) beneficiaries across those six states. And seven months in, it is not going smoothly.
 
-A June 2026 report from Yahoo Finance and a July 2026 analysis from Rise Health both documented real, on-the-ground problems: AI-generated denials, long waits for doctors to reach a live reviewer, and patients sitting in pain while paperwork crawls through the system. One Arizona patient with severe back pain received two AI-generated denials before finally getting relief. That's not an edge case. That's a preview of what the system looks like when it doesn't work the way it was designed to.
+A June 2026 report from Yahoo Finance and a July 2026 analysis from Rise Health both documented real, on-the-ground problems: AI-generated denials, long waits for doctors to reach a live reviewer, and patients sitting in pain while paperwork crawls through the system. Reports describe patients, including one in Arizona with severe back pain, who received two AI-generated denials before finally getting relief. That's not an edge case. That's a preview of what the system looks like when it doesn't work the way it was designed to.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">WISeR launched January 1, 2026, covering 6.4 million traditional Medicare beneficiaries in 6 states.</li><li style="margin:5px 0">The pilot applies AI-assisted prior authorization to 17 outpatient procedures through December 31, 2031.</li><li style="margin:5px 0">As of mid-2026, documented cases include AI denials and long waits for peer-to-peer physician review.</li><li style="margin:5px 0">Beginning July 2026, CMS introduced "gold carding" to exempt high-performing physicians from prior authorization.</li><li style="margin:5px 0">42 Democratic members of Congress formally challenged the pilot in a July 31, 2026 letter to CMS Administrator Dr. Mehmet Oz.</li></ul></div>
 

@@ -9,7 +9,7 @@ tags: ["medicare", "people", "still", "working"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-for-people-still-working-at-65"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "Generally no, as long as you or your spouse worked enough quarters to qualify for premium-free Part A. There is a premium-based Part A available if you don't qualify, and that one does carry a late enrollment penalty. Most people reading this won't hit that situation, but if you're not sure how many quarters you've earned, check your Social Security statement at SSA.gov."
  - q: "My employer is pressuring me to drop their coverage and go on Medicare. Can they do that?"
    a: "If your employer has 20 or more employees, it's actually illegal for them to offer you incentives to drop the group plan and take Medicare instead. The law prohibits large employers from doing anything that discourages active employees from enrolling in the group plan. If you're feeling that pressure, document it and consider reaching out to your State Health Insurance Assistance Program (SHIP) for free counseling."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 Sixty-five shows up whether you're ready for it or not. And if you're still working, still covered by your employer's health plan, and suddenly getting Medicare signup reminders in the mail, you've probably got that nagging feeling you're supposed to do *something* but have no idea what. That confusion often leads to genuinely expensive mistakes, and they're worth avoiding.
 
@@ -33,7 +33,7 @@ Let me be direct: the rules around Medicare and active employment coverage are g
 
 | Employer Size | Medicare Primary/Secondary | Part A at 65 | Part B at 65 | Special Enrollment Period |
 | --- | --- | --- | --- | --- |
-| 20+ employees | Employer plan is primary | Generally sign up (premium-free if 10+ years work history) | Can delay without penalty | 8 months after coverage ends |
+| 20+ employees | Employer plan is primary | Generally sign up (premium-free if 10+ years work history) | Can delay without penalty | 8 months after employment or coverage ends, whichever comes first |
 | Fewer than 20 employees | Medicare is primary | Must sign up | Must sign up | N/A - enroll at 65 |
 
 Most people panic about this one thing: the standard Medicare enrollment window is the 7-month Initial Enrollment Period (IEP) centered on your 65th birthday. Miss it, the story goes, and permanent late-enrollment penalties follow. True in some situations. But if you're still working and covered by a qualifying employer health plan, the rules are different. Much more forgiving, actually.
@@ -86,7 +86,7 @@ The 8-month Special Enrollment Period starts the day your employment ends or you
 
 A common mistake: people assume the SEP starts when they retire, so they figure they have 8 months to figure it out. Then they realize Medicare Part B doesn't start immediately after you apply; there's a processing lag. Apply a few months before your employer coverage ends if you can. Aiming for January 1 Part B coverage? You generally need to apply by October 1 of the prior year.
 
-COBRA is not creditable coverage for avoiding the Medicare late enrollment penalty. If you leave work, turn down Part B, and take COBRA instead, the clock on penalty-free enrollment doesn't pause. That's one of the most expensive misconceptions I come across. COBRA can run $700 or $800 a month for a single person and it doesn't protect you from Medicare penalties. It's almost never the right bridge strategy.
+COBRA is not creditable coverage for avoiding the Medicare late enrollment penalty. If you leave work, turn down Part B, and take COBRA instead, the clock on penalty-free enrollment doesn't pause. That's one of the most expensive misconceptions I come across. COBRA is often costly and it doesn't protect you from Medicare penalties. It's almost never the right bridge strategy.
 
 ---
 

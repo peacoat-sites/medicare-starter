@@ -1,7 +1,7 @@
 ---
 title: "Medicare Costs 2027: Premiums and Deductibles vs. 2026"
 date: 2026-01-03
-lastmod: 2026-11-24
+lastmod: 2026-11-26
 draft: false
 description: "Official 2027 Medicare costs from CMS: Part B is $209.40 a month with a $292 deductible, and the Part A deductible is $1,776. Compare 2026 and every year since 2015."
 author: "Susan Park"
@@ -15,7 +15,7 @@ Every fall, the Centers for Medicare & Medicaid Services (CMS) announces the nex
 
 ## What these numbers actually mean
 
-**Part B premium ($209.40/month in 2027).** This is the standard monthly premium most people pay for Part B, which covers doctor visits, outpatient care and medical equipment. It rose $6.50 from 2026, about 3.2%, a much smaller increase than the $17.90 jump the year before. Most people have it taken out of their Social Security check. Details are in our guide to [Medicare Part B costs](/medicare-part-b-premium/).
+**Part B premium ($209.40/month in 2027).** This is the standard monthly premium most people pay for Part B, which covers doctor visits, outpatient care and medical equipment. It rose $6.50 from 2026, about 3.2%, a much smaller increase than the $17.90 jump the year before (from $185.00 in 2025 to $202.90 in 2026). Most people have it taken out of their Social Security check. Details are in our guide to [Medicare Part B costs](/medicare-part-b-premium/).
 
 **Part B deductible ($292 in 2027).** You pay this once a year before Part B starts paying its share. After that, you typically pay 20% of the Medicare-approved amount for most services.
 

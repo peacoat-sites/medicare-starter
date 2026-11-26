@@ -9,7 +9,7 @@ tags: ["medicare", "part", "donut", "hole", "2026"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-part-d-donut-hole-2026"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
     a: "If your drug isn't covered by your plan's formulary, you typically pay full price and that spending doesn't count toward your out-of-pocket cap. You can request a formulary exception from your plan, or use the Medicare Plan Finder to look for plans that do cover your drug, especially during Open Enrollment."
   - q: "How do I apply for Extra Help with Part D costs?"
     a: "You apply through the Social Security Administration, either online at SSA.gov, by calling 1-800-772-1213, or at your local Social Security office. Medicare.gov also has a tool to check your eligibility. If you qualify, the program can dramatically reduce or eliminate your Part D premiums, deductibles, and co-pays."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Many people hear "donut hole" and picture some minor inconvenience, like a small co-pay bump they'll barely notice. But pharmacy bills in October can bring a nasty surprise.
@@ -51,23 +51,22 @@ The $2,100 cap is a genuine change, not one with hidden limitations. It's the si
 | Phase | Maximum Deductible | Total Drug Spending Threshold | Your Out-of-Pocket Status |
 | --- | --- | --- | --- |
 | Deductible | $615 | $0 | You pay 100% |
-| Initial Coverage | N/A | Up to $2,100 | You pay co-pays/coinsurance |
-| Coverage Gap | N/A | $2,100+ | Increased cost-sharing (brief) |
-| Catastrophic | N/A | $2,100+ out-of-pocket reached | You pay $0 |
+| Initial Coverage | N/A | Until your out-of-pocket costs reach $2,100 | You pay co-pays/coinsurance |
+| Catastrophic | N/A | $2,100 out-of-pocket reached | You pay $0 |
 
 Even with the cap, Part D still runs in stages, and knowing them saves money. As of July 2026, here's how it breaks down:
 
 **The deductible phase.** Most Part D plans charge a deductible before any coverage kicks in. The maximum allowable deductible in 2026 is $615. Some plans charge less or waive it for certain drug tiers; a few charge nothing. You pay 100% of drug costs until you've met your deductible.
 
-**Initial coverage phase.** Once you've cleared your deductible, your plan starts sharing costs with you. You pay your standard co-pays or coinsurance rates (whatever your specific plan charges per drug tier), and this continues until your total covered drug spending (what you pay plus what the plan pays) reaches $2,100.
+**Initial coverage phase.** Once you've cleared your deductible, your plan starts sharing costs with you. You pay your standard co-pays or coinsurance rates (whatever your specific plan charges per drug tier), and this continues until your own out-of-pocket spending reaches the $2,100 cap.
 
-Wait, actually, I need to correct something I almost got wrong here myself the first time I studied the new structure. The $2,100 cap is on your *out-of-pocket* spending, not total drug spending. These are not the same number. Total drug spending includes what your plan pays. What counts toward the $2,100 is only what *you* pay out of pocket. For most people on standard plans, you'll hit that cap somewhere in the $8,000-$12,000 range of total drug spending, but that depends heavily on your specific drugs and plan.
+Wait, actually, I need to correct something I almost got wrong here myself the first time I studied the new structure. The $2,100 cap is on your *out-of-pocket* spending, not total drug spending. These are not the same number. Total drug spending includes what your plan pays. What counts toward the $2,100 is only what *you* pay out of pocket. How much total drug spending it takes to reach that cap depends heavily on your specific drugs and plan.
 
-**The coverage gap (the donut hole).** This is where it gets a little odd in 2026. The gap technically still exists as a defined phase in the law, but because of the $2,100 cap, you can't stay in it long. Once you enter the gap (when total drug spending hits $2,100 in the initial coverage period), your cost-sharing actually increases briefly, but you're also burning through your out-of-pocket maximum quickly. For most people with significant drug costs, the gap phase in 2026 is a speed bump rather than a crater.
+**The coverage gap (the donut hole).** This is where it gets a little odd in 2026. The coverage gap phase was eliminated by the Inflation Reduction Act, and the $2,100 out-of-pocket cap replaced it. In practice there is no longer a gap in which your cost-sharing jumps; you keep paying your plan's normal cost-sharing until you reach the cap.
 
 **Catastrophic coverage.** Once you've hit $2,100 out of pocket, you owe $0 for covered Part D drugs for the rest of the calendar year. Full stop.
 
-A reader, Barbara from Phoenix, emailed me in January 2026 after her plan year reset. She takes three brand-name specialty drugs for a chronic condition. In prior years she'd hit the old catastrophic threshold and still owed 5% coinsurance, which on $15,000/month in drug spending adds up fast. This year, she hit her $2,100 cap by mid-March and paid nothing from March through December. "I cried," she wrote. That's not hyperbole. For some people this is life-changing.
+Consider a hypothetical patient who takes three brand-name specialty drugs for a chronic condition. In prior years she'd hit the old catastrophic threshold and still owed 5% coinsurance, which on $15,000/month in drug spending adds up fast. Under the 2026 rules, she could hit her $2,100 cap by mid-March and pay nothing from March through December. For some people this is life-changing.
 
 ---
 
@@ -94,7 +93,7 @@ Result: She reaches $2,100 in true out-of-pocket costs by mid-April. From mid-Ap
 
 I cannot write about Part D costs without mentioning Extra Help (also called the Low Income Subsidy, or LIS). It's a federal program that covers most or all of your Part D costs, including premiums, deductibles, and co-pays, if your income and resources fall below certain thresholds.
 
-What most people don't realize is how many people qualify and don't know it. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) estimates that hundreds of thousands of eligible people aren't enrolled. If your income is below about 150% of the federal poverty level (the exact threshold adjusts annually), you should absolutely check. The application is through the Social Security Administration, and you can start at [Medicare.gov](https://www.medicare.gov/). For 2026, people who receive Extra Help are fully exempt from the coverage gap as it previously existed, and the $2,100 cap combines with Extra Help's benefits to make drug costs genuinely manageable for lower-income beneficiaries.
+What most people don't realize is how many people qualify and don't know it. The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) estimates that hundreds of thousands of eligible people aren't enrolled. If your income is below about 150% of the federal poverty level (the exact threshold adjusts annually), you should absolutely check. The application is through the Social Security Administration, and you can start at [Medicare.gov](https://www.medicare.gov/). For 2026, people who receive Extra Help pay drug copays of no more than $5.10 for generics and $12.65 for brand-name drugs, which makes drug costs genuinely manageable for lower-income beneficiaries.
 
 If you're helping a parent or spouse figure this out and they've been quietly skipping doses because of cost: please look into Extra Help this week. Not next month.
 
@@ -106,7 +105,7 @@ Open Enrollment runs every year from October 15 through December 7, and changes 
 
 Here's what I tell everyone:
 
-Run a comparison using the Medicare Plan Finder tool on Medicare.gov. Plug in every drug you take, the exact doses, and your preferred pharmacy. The tool will show you estimated total annual costs including premiums, deductibles, and expected out-of-pocket drug costs. Use that number, not just the monthly premium, to make your decision. People can save $1,500-$3,000 a year by switching plans based on this comparison.
+Run a comparison using the Medicare Plan Finder tool on Medicare.gov. Plug in every drug you take, the exact doses, and your preferred pharmacy. The tool will show you estimated total annual costs including premiums, deductibles, and expected out-of-pocket drug costs. Use that number, not just the monthly premium, to make your decision. Some people can save meaningful money by switching plans based on this comparison.
 
 **A worked example:**
 Tom, 68, diabetes and high cholesterol, on three generics and one brand-name drug. He's been on the same Part D plan for five years because "it's fine."

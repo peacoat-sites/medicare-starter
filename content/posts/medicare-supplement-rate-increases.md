@@ -9,7 +9,7 @@ tags: ["medicare", "supplement", "rate", "increases"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-supplement-rate-increases"
 affiliate_disclosure: true
 faqs:
@@ -22,8 +22,8 @@ faqs:
  - q: "Does Medicare.gov show Medigap rate increase history by insurer?"
    a: "Not directly. Medicare.gov shows current available plans and premiums in your area, but historical rate increase data lives in state insurance department filings. An independent insurance broker familiar with your state market can often give you a practical summary of which carriers have the most and least volatile rate histories."
  - q: "If I switch Medigap plans, do I lose any benefits I currently have?"
-   a: "All standardized Medigap plan letters (G, N, F, etc.) have identical core benefits regardless of insurer. You won't lose coverage by switching from one company's Plan G to another's Plan G. The one exception: if you have a pre-2010 plan with benefits that are no longer available to new enrollees, like Plan F's full Part B deductible coverage, switching would mean giving that benefit up permanently."
-lastmod: 2026-11-16T16:00:00Z
+   a: "All standardized Medigap plan letters (G, N, F, etc.) have identical core benefits regardless of insurer. You won't lose coverage by switching from one company's Plan G to another's Plan G. The one exception: if you became eligible for Medicare before January 1, 2020 and have Plan F or Plan C, which cover the Part B deductible and can no longer be bought by people newly eligible, switching to another company's plan letter other than F or C would mean giving that benefit up."
+lastmod: 2026-11-26
 ---
 
 Your Medicare Supplement premium went up again. Maybe a little, maybe a lot. Either way, nobody warned you it would keep happening, and most of what you read online treats rate increases as a minor footnote instead of one of the biggest financial risks in Medicare planning. Let's fix that.
@@ -34,9 +34,9 @@ The standard answer is: "Insurers raise rates due to medical inflation." True, b
 
 The real driver is something called **block aging**, and it's worth understanding in plain terms. When an insurer sells a Medigap plan, that pool of policyholders tends to age together. As the group gets older and sicker over time, claims go up. The insurer responds by raising rates. New, healthier people don't join that pool because new applicants go into newer policy blocks. So the original pool gets progressively sicker and more expensive, and the rate spiral accelerates. This is why a Plan G you bought at 65 can have dramatically higher premiums at 75 than a Plan G someone buys fresh at 75 today.
 
-Medical trend is real too, around 5-8% annually in recent years, but that's table stakes. Block aging is what separates a manageable 5% increase from a jaw-dropping 15-20% one.
+Medical trend is real too, but that's table stakes. Block aging is what separates a manageable 5% increase from a jaw-dropping 15-20% one.
 
-There's also the insurer's loss ratio to consider. States require that insurance companies spend a certain percentage of premiums on actual claims (typically 65% for individual Medigap policies). If an insurer has been underpricing to gain market share, regulators may actually allow a steeper correction later. Some of the most aggressively priced plans in 2015-2018 came back to bite policyholders hard in subsequent years.
+There's also the insurer's loss ratio to consider. States require that insurance companies spend a certain percentage of premiums on actual claims. If an insurer has been underpricing to gain market share, regulators may actually allow a steeper correction later. Some of the most aggressively priced plans in 2015-2018 came back to bite policyholders hard in subsequent years.
 
 A plan that looks like the best deal at enrollment often isn't the best deal at year seven.
 
@@ -44,9 +44,9 @@ A plan that looks like the best deal at enrollment often isn't the best deal at 
 
 | Rating Method | Age Factor | Rate Increase Pattern | Best For |
 | --- | --- | --- | --- |
-| Community-rated | No | Medical trend only (~5-8% annually) | Long-term budget stability |
+| Community-rated | No | Medical trend only | Long-term budget stability |
 | Issue-age-rated | No | Applied to stable base | Moderate cost predictability |
-| Attained-age-rated | Yes, on every birthday | Medical trend + age factor (40-50% higher by age 80) | Younger enrollees only |
+| Attained-age-rated | Yes, on every birthday | Medical trend + age factor (substantially higher by age 80) | Younger enrollees only |
 
 Three ways insurers price Medigap plans exist, and this is where most coverage completely glosses over what matters.
 
@@ -54,7 +54,7 @@ Three ways insurers price Medigap plans exist, and this is where most coverage c
 
 **Issue-age-rated** plans lock in a rate based on how old you were when you first enrolled. No additional age factor piles on top each year. You still see increases, but they're applied to a stable base.
 
-**Attained-age-rated** plans are the most common, and the riskiest for long-term budgeting. Your premium climbs with every birthday on top of whatever [medical trend increase](/how-much-does-medicare-cost-per-month/) the insurer applies. When you're 70 it's manageable. By 78 or 80, you can be paying 40-50% more than you would on a community-rated plan that started at the same price.
+**Attained-age-rated** plans are the most common, and the riskiest for long-term budgeting. Your premium climbs with every birthday on top of whatever [medical trend increase](/how-much-does-medicare-cost-per-month/) the insurer applies. When you're 70 it's manageable. By 78 or 80, you can be paying substantially more than you would on a community-rated plan that started at the same price.
 
 Here's my contrarian take on this: most people pick plans primarily based on the current monthly premium, and that instinct is backwards. The rating method is a better predictor of your five-year cost than today's rate. A community-rated plan priced $30 higher per month at enrollment can easily save you thousands over a decade. Run the math before you assume the cheaper option is cheaper.
 
@@ -96,7 +96,7 @@ One more thing: don't switch based solely on a $15/month savings. Transaction co
 
 If Plan G rates are starting to feel painful, Plan N is worth a serious look. It's not a downgrade from Plan G. It's a different tradeoff.
 
-Plan N covers the same hospital costs as Plan G but leaves you with a $20 copay for most doctor visits and a $50 copay for ER visits that don't result in admission. You also remain responsible for any Part B excess charges (the difference between what Medicare approves and what a non-participating provider charges). For people who see their primary doctor two or three times a year and use participating providers, the out-of-pocket exposure is often modest while the premium savings can be $30-60 per month or more.
+Plan N covers the same hospital costs as Plan G but leaves you with copays of up to $20 for some office visits and up to $50 for ER visits that don't result in admission. You also remain responsible for any Part B excess charges (the difference between what Medicare approves and what a non-participating provider charges). For people who see their primary doctor two or three times a year and use participating providers, the out-of-pocket exposure is often modest while the premium savings can be $30-60 per month or more.
 
 The catch: if your plan G rate is rising because your insurer is having block-aging problems, Plan N from the same insurer has the same problem. Switching plan letters within the same company addresses the cost, not the underlying actuarial pressure. The insurer matters as much as the plan letter.
 

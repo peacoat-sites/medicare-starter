@@ -3,6 +3,7 @@ title: "Medigap Plan Comparison Chart: Plans A Through N Explained"
 hide_title: true
 slug: "medigap-plan-comparison"
 date: 2026-06-10
+lastmod: 2026-11-26
 author: "Frank Alvarez"
 categories: ["Medicare Supplement"]
 description: "Compare all Medigap (Medicare Supplement) plans A through N side by side. See what each plan covers, which plans include Part A and B deductibles, and how to choose the right one."
@@ -17,10 +18,10 @@ Medigap policies are standardized by the federal government. That means a Plan G
 
 The key gaps Medigap can cover include:
 
-- **Part A coinsurance** for hospital stays (days 61-90: $408/day in 2024; lifetime reserve days: $816/day)
+- **Part A coinsurance** for hospital stays (days 61-90: $434/day in 2026; lifetime reserve days: $868/day)
 - **Part B coinsurance** (typically 20% of the Medicare-approved amount for outpatient care)
 - **Part A and B deductibles** (depending on the plan)
-- **Skilled nursing facility (SNF) coinsurance** (days 21-100: $204/day in 2024)
+- **Skilled nursing facility (SNF) coinsurance** (days 21-100: $217/day in 2026)
 - **Part B excess charges** (what non-participating providers can charge above Medicare rates)
 - **Foreign travel emergency care** (80% after a deductible, up to lifetime limits)
 
@@ -30,11 +31,11 @@ Use the comparison table below to see which gaps each plan covers.
 
 ## Choosing the Right Plan
 
-**Plan G** is the most comprehensive plan available to new Medicare enrollees (those eligible after January 1, 2020). It covers everything Plan F covered except the Part B deductible ($283 in 2026). Because premiums for Plan G are often significantly lower than Plan F was, many beneficiaries come out ahead with G.
+**Plan G** is the most comprehensive plan available to new Medicare enrollees (those eligible after January 1, 2020). It covers everything Plan F covers except the Part B deductible ($283 in 2026). Because premiums for Plan G are often significantly lower than Plan F was, many beneficiaries come out ahead with G.
 
 **Plan N** offers slightly lower premiums than Plan G in exchange for copays of up to $20 for doctor visits and up to $50 for emergency room visits. It also does not cover Part B excess charges, so if you see providers who do not accept Medicare assignment, Plan G is safer.
 
-**High-deductible Plan G (G-HD)** is a good option if you are healthy and want catastrophic coverage only. You pay the first $2,800 (2024) out of pocket before the plan kicks in, but after that, the plan covers everything Plan G covers. Premiums are much lower than standard Plan G.
+**High-deductible Plan G (G-HD)** is a good option if you are healthy and want catastrophic coverage only. You pay a high annual deductible out of pocket before the plan kicks in (it is adjusted each year), but after that, the plan covers everything Plan G covers. Premiums are much lower than standard Plan G.
 
 **Plans K and L** have out-of-pocket limits and cover a percentage of most benefits rather than 100%. These are lower-premium options that still cap your annual exposure.
 

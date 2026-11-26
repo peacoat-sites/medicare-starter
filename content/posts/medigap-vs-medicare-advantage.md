@@ -12,18 +12,18 @@ faqs:
  - q: "Can I switch from Medicare Advantage back to Medigap later?"
    a: "Yes, but it's not always easy. You can disenroll from Medicare Advantage during the Medicare Advantage Open Enrollment Period (January 1 through March 31 each year) or during the Annual Enrollment Period (October 15 through December 7). But returning to Medigap means applying for a new policy, and in most states, insurers can reject you or charge higher premiums based on your current health. There are a handful of guaranteed issue situations where they can't, such as if your plan leaves your area or goes bankrupt, but those are exceptions. This is why the timing decision at age 65 carries so m"
  - q: "Does Medicare Advantage cover care when I travel internationally?"
-   a: "Generally, no. Most Medicare Advantage plans cover emergency care only within the United States and its territories. Some Medigap plans, specifically Plans C, D, F, G, M, and N, include foreign travel emergency coverage up to a lifetime limit, typically 80% of covered costs after a $250 deductible. If you travel abroad frequently, this is a meaningful difference."
+   a: "Generally, no. Most Medicare Advantage plans cover emergency care only within the United States and its territories. Some Medigap plans, specifically Plans C, D, F, G, M, and N, include foreign travel emergency coverage, typically paying 80% of covered costs after a $250 deductible, up to a lifetime limit. If you travel abroad frequently, this is a meaningful difference."
  - q: "Are Medigap premiums tax deductible?"
    a: "Potentially, yes. Medigap premiums are considered medical expenses. If your total medical expenses exceed 7.5% of your adjusted gross income and you itemize deductions, the amount above that threshold may be deductible. Talk to a tax professional for guidance specific to your situation, because this varies based on your overall financial picture."
  - q: "What's the Medicare Advantage star rating system and should I care about it?"
-   a: "Medicare rates Advantage plans on a scale of 1 to 5 stars based on quality measures like member satisfaction, managing chronic conditions, and customer service. Plans that earn 5 stars can be enrolled in at any time of year, a special enrollment right. Higher-rated plans also receive more funding from Medicare, which often translates into better benefits. You should absolutely check a plan's star rating before enrolling. You can see ratings for every plan at Medicare.gov's plan comparison tool."
+   a: "Medicare rates Advantage plans on a scale of 1 to 5 stars based on quality measures like member satisfaction, managing chronic conditions, and customer service. A 5-star plan can be joined through a special enrollment period that lets you switch once between December 8 and November 30 of the following year. Higher-rated plans also receive more funding from Medicare, which often translates into better benefits. You should absolutely check a plan's star rating before enrolling. You can see ratings for every plan at Medicare.gov's plan comparison tool."
  - q: "If I keep Original Medicare with Medigap, do I still need to sign up for Part D?"
    a: "Yes, and don't skip it. If you don't enroll in a Part D prescription drug plan when you're first eligible and you go more than 63 consecutive days without creditable drug coverage, you'll face a late enrollment penalty. That penalty is permanently added to your Part D premium for as long as you have Medicare. Even if you take no prescriptions today, enrolling in a low-cost Part D plan protects you from this penalty and covers you if your situation changes."
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 You just turned 65. Your Medicare card showed up in the mail last week. Now insurance agents won't stop calling, your kitchen table is buried under mailers, and your two closest friends are giving you completely opposite advice. One loves her Medicare Advantage plan because her monthly premium is basically zero. The other swears by his Medigap policy because he's never had a surprise medical bill. They're both right, which is exactly why this choice is so genuinely difficult.
 
@@ -31,7 +31,7 @@ You just turned 65. Your Medicare card showed up in the mail last week. Now insu
 
 Original Medicare, Part A (hospital coverage) and Part B (doctors and outpatient services), covers a lot of ground. But it leaves you paying deductibles, copayments, and coinsurance. There's no annual out-of-pocket maximum to catch you if something serious happens. Both Medigap and Medicare Advantage exist to fill that hole. They just do it completely differently.
 
-**Medigap**, or Medicare Supplement Insurance, works alongside Original Medicare. You keep Medicare as your primary coverage. A private Medigap policy then covers some or all of the costs Medicare doesn't, like the Part A deductible, copays, and coinsurance. Ten standardized plans exist, labeled A through N. The crucial thing: Plan G from Humana covers exactly what Plan G from Blue Cross covers. Price varies between insurers, but benefits don't.
+**Medigap**, or Medicare Supplement Insurance, works alongside Original Medicare. You keep Medicare as your primary coverage. A private Medigap policy then covers some or all of the costs Medicare doesn't, like the Part A deductible, copays, and coinsurance. Standardized plans are labeled A through N (A, B, C, D, F, G, K, L, M and N are the ten sold in most states). The crucial thing: Plan G from Humana covers exactly what Plan G from Blue Cross covers. Price varies between insurers, but benefits don't.
 
 **Medicare Advantage** (Part C) takes the opposite approach. A private insurer approved and paid by Medicare replaces Original Medicare entirely. They deliver all your Part A and Part B benefits, usually bundled with Part D (prescription drugs) plus extras like dental, vision, and hearing. You're still technically in Medicare, but a private company runs your coverage.
 
@@ -43,7 +43,7 @@ Cost comparisons between these two rarely line up cleanly because money flows in
 
 With Medigap, you pay a real monthly premium. In exchange, you get predictability. Plan G, the most popular option now that Plan F closed to new enrollees in 2020, covers almost everything Original Medicare doesn't, except the Part B deductible ($283 in 2026). Once you hit that annual deductible, your out-of-pocket costs for covered services are effectively zero. For someone managing diabetes, arthritis, or multiple prescriptions, or someone who travels between Florida winters and Maine summers, that certainty matters enormously.
 
-Medicare Advantage plans advertise $0 or near-$0 monthly premiums. Those low numbers get attention. But the costs don't vanish. They reappear as copays at your doctor's office, coinsurance when you have a procedure, and higher specialist fees. Each plan structures its own cost-sharing, so you have to read the Summary of Benefits carefully. The protection: every Medicare Advantage plan must have an annual out-of-pocket maximum capped at $8,850 for in-network services in 2024. That stops catastrophic financial damage in a way Original Medicare alone cannot.
+Medicare Advantage plans advertise $0 or near-$0 monthly premiums. Those low numbers get attention. But the costs don't vanish. They reappear as copays at your doctor's office, coinsurance when you have a procedure, and higher specialist fees. Each plan structures its own cost-sharing, so you have to read the Summary of Benefits carefully. The protection: every Medicare Advantage plan must have an annual out-of-pocket maximum capped at $9,250 for in-network services in 2026. That stops catastrophic financial damage in a way Original Medicare alone cannot.
 
 A common discovery during surgery or a hospital stay is that an Advantage plan requires serious cost-sharing at the moment of service. That doesn't make these plans bad. It just means the low premium is incomplete information.
 
@@ -51,7 +51,7 @@ A common discovery during surgery or a hospital stay is that an Advantage plan r
 
 This is where these two strategies diverge most sharply in your actual daily life.
 
-Medigap plus Original Medicare lets you see any doctor or use any hospital nationwide that accepts Medicare. That's roughly 93% of all non-pediatric physicians. No referrals. No network directories. No restrictions. Spend half the year in Arizona and half in Vermont? Your coverage follows you. For people with established relationships with specific specialists or living in rural areas with limited options, this freedom is worth serious money.
+Medigap plus Original Medicare lets you see any doctor or use any hospital nationwide that accepts Medicare.  No referrals. No network directories. No restrictions. Spend half the year in Arizona and half in Vermont? Your coverage follows you. For people with established relationships with specific specialists or living in rural areas with limited options, this freedom is worth serious money.
 
 Medicare Advantage plans use managed care networks. HMOs generally require network doctors and referrals for specialists. PPOs give more flexibility but charge extra if you go out of network. PFFS plans have their own payment terms that providers must accept. Before you enroll in any Advantage plan, confirm your current doctors actually participate in that specific plan. Not just Medicare generally. That specific plan.
 
@@ -70,25 +70,25 @@ If you're comparing plans, the [Medicare plan comparison tool at Medicare.gov](h
 | Feature | Medigap + Original Medicare | Medicare Advantage |
 |---|---|---|
 | Monthly premium | Usually higher | Often low or $0 |
-| Out-of-pocket predictability | Very high (especially Plan G) | Moderate (capped at $8,850 in-network in 2024) |
+| Out-of-pocket predictability | Very high (especially Plan G) | Moderate (capped at $9,250 in-network in 2026) |
 | Provider network | Any Medicare-accepting provider | Network restrictions usually apply |
 | Referrals needed | No | Often yes (HMO) |
 | Prescription drug coverage | Separate Part D plan required | Usually included |
 | Dental, vision, hearing | Separate plans required | Often included |
-| Annual out-of-pocket maximum | None | $8,850 (in-network, 2024) |
+| Annual out-of-pocket maximum | None | $9,250 (in-network, 2026) |
 
 Here's the key differences laid out clearly.
 
 | Feature | Medigap + Original Medicare | Medicare Advantage |
 |---|---|---|
 | Monthly premium | Usually higher | Often low or $0 |
-| Out-of-pocket predictability | Very high (especially Plan G) | Moderate (capped, but variable) |
+| Out-of-pocket predictability | Very high (especially Plan G) | Moderate (capped at $9,250 in-network in 2026) |
 | Provider network | Any Medicare-accepting provider | Network restrictions usually apply |
 | Referrals needed | No | Often yes (HMO) |
 | Prescription drug coverage | Separate Part D plan required | Usually included |
 | Dental, vision, hearing | Not included | Often included |
 | Coverage while traveling in U.S. | Nationwide | Limited to plan's service area |
-| Annual out-of-pocket maximum | None (Original Medicare has none) | Required by law |
+| Annual out-of-pocket maximum | None (Original Medicare has none) | $9,250 in-network in 2026 |
 
 No single row decides this for you. The right choice depends on your health, your finances, your doctors, and how you live.
 

@@ -1,7 +1,7 @@
 ---
 title: "Medicare Medicaid Coordination by State: Key Coverage Differences"
 date: 2026-07-17T15:23:54.697784+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn how Medicare and Medicaid coordination varies by state, including eligibility rules, coverage gaps, and enrollment requirements for dual-eligible benefici"
 image: "/img/heroes/7821684.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "medicaid", "coordination", "state"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-medicaid-coordination-by-state"
 affiliate_disclosure: true
 faqs:
@@ -30,9 +30,9 @@ Most people find out about Medicare-Medicaid coordination the hard way. Many peo
 
 Here's what makes this so frustrating: the rules aren't secret. They're just scattered across 50 different state Medicaid agencies, each with its own income limits, enrollment timelines, and benefit packages. What works in Florida won't necessarily work in Wyoming. And the people who need this information most are often the least equipped to track it down.
 
-If you're enrolled in both Medicare and Medicaid (or think you might qualify for both), you're considered "dually eligible." Currently, roughly 12.5 million Americans fall into this category. The coordination between these two programs determines who pays first, who pays second, and in many cases, who pays nothing at all. Getting that coordination right can save you thousands of dollars a year.
+If you're enrolled in both Medicare and Medicaid (or think you might qualify for both), you're considered "dually eligible." Millions of Americans fall into this category. The coordination between these two programs determines who pays first, who pays second, and in many cases, who pays nothing at all. Getting that coordination right can save you thousands of dollars a year.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">About 12.5 million Americans are dually eligible for both Medicare and Medicaid as of 2026.</li><li style="margin:5px 0">Medicare always pays first; Medicaid picks up remaining costs as the "payer of last resort."</li><li style="margin:5px 0">D-SNPs (Dual Eligible Special Needs Plans) are available in most states and often add dental, vision, and hearing benefits.</li><li style="margin:5px 0">State Medicaid income and asset limits vary widely, some states are far more generous than others.</li><li style="margin:5px 0">A free SHIP (State Health Insurance Assistance Program) counselor can help you claim benefits you're missing.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Millions of Americans are dually eligible for both Medicare and Medicaid.</li><li style="margin:5px 0">Medicare always pays first; Medicaid picks up remaining costs as the "payer of last resort."</li><li style="margin:5px 0">D-SNPs (Dual Eligible Special Needs Plans) are available in most states and often add dental, vision, and hearing benefits.</li><li style="margin:5px 0">State Medicaid income and asset limits vary widely, some states are far more generous than others.</li><li style="margin:5px 0">A free SHIP (State Health Insurance Assistance Program) counselor can help you claim benefits you're missing.</li></ul></div>
 
 ## How the Two Programs Are Supposed to Work Together
 
@@ -40,7 +40,7 @@ The basic rule isn't complicated: Medicare pays first, and Medicaid pays second.
 
 That "payer of last resort" rule is federal law. Medicaid cannot pay a claim before [Medicare has](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) processed it. This sounds straightforward but in practice, billing errors happen constantly. Providers sometimes bill Medicaid directly and skip Medicare entirely, which can create denials and delays. If you ever get a bill that looks wrong, ask your provider's billing office which insurer they submitted to first. You'd be surprised how often the answer is "just Medicaid."
 
-Where states have enormous power is in the Medicaid side of this equation. Federal law sets the floor; states can build higher. California's Medicaid program, Medi-Cal, provides significantly richer wrap-around coverage than, say, Mississippi's. The gap in benefits between a high-benefit state like New York and a lower-benefit state like Wyoming can easily translate to $2,000 or more per year in real costs for a typical dual-eligible senior.
+Where states have enormous power is in the Medicaid side of this equation. Federal law sets the floor; states can build higher. California's Medicaid program, Medi-Cal, provides significantly richer wrap-around coverage than, say, Mississippi's. The gap in benefits between a high-benefit state like New York and a lower-benefit state like Wyoming can translate to real differences in yearly out-of-pocket costs for a dual-eligible senior.
 
 ## The Alphabet Soup That Actually Matters
 
@@ -59,7 +59,7 @@ I'll be honest: the acronyms in this space are genuinely terrible. But a few of 
 
 The QMB level is the one that shocks people when they discover it. If you qualify, providers are literally prohibited by federal law from billing you for [Medicare cost](/medicare-cost-for-low-income-seniors/)-sharing. Not "they probably won't bill you." They cannot. If that happens to you, call 1-800-MEDICARE and report it.
 
-**D-SNPs (Dual Eligible Special Needs Plans)** are a different animal entirely. These are Medicare Advantage plans specifically designed for dually eligible people. Enrollment has grown sharply, and as of this year roughly 5.5 million dual-eligible beneficiaries are enrolled in one. The appeal is real: many D-SNPs bundle dental, vision, hearing, and transportation benefits into a single card. The catch, which I'll get to, is that quality and coverage vary enormously by state and plan.
+**D-SNPs (Dual Eligible Special Needs Plans)** are a different animal entirely. These are Medicare Advantage plans specifically designed for dually eligible people. Enrollment has grown sharply in recent years. The appeal is real: many D-SNPs bundle dental, vision, hearing, and transportation benefits into a single card. The catch, which I'll get to, is that quality and coverage vary enormously by state and plan.
 
 ## Why Your State Changes Everything
 
@@ -69,7 +69,7 @@ Every state administers its own Medicaid program with federal approval, using a 
 
 California and New York have historically provided the most generous wrap-around benefits for dually eligible seniors. Texas and Florida, despite their large senior populations, have significantly leaner Medicaid coverage for most non-institutional services. Wyoming has very limited supplemental dental and vision coverage through Medicaid.
 
-This matters in a very practical way. Scenario one: Maria is 72, dually eligible, living in Los Angeles. Her D-SNP, through Medi-Cal, covers $1,800 in dental benefits annually, transportation to her oncologist, and a $0 Part B premium. Her monthly out-of-pocket on a fixed income is close to zero. Scenario two: Gary is 71, dually eligible, living in Amarillo. His Medicaid covers the Part B premium and limited copay assistance, but dental is minimal, and his D-SNP's extra benefits are thinner because the underlying Medicaid contract is thinner. Same federal eligibility, very different real-world situation.
+This matters in a very practical way. Scenario one: consider a 72-year-old woman, dually eligible, living in Los Angeles. Her D-SNP, through Medi-Cal, covers $1,800 in dental benefits annually, transportation to her oncologist, and a $0 Part B premium. Her monthly out-of-pocket on a fixed income is close to zero. Scenario two: consider a 71-year-old man, dually eligible, living in Amarillo. His Medicaid covers the Part B premium and limited copay assistance, but dental is minimal, and his D-SNP's extra benefits are thinner because the underlying Medicaid contract is thinner. Same federal eligibility, very different real-world situation.
 
 The reason for this gap is money and political will. Medicaid is jointly funded by states and the federal government, and states with lower Federal Medical Assistance Percentages (FMAP) effectively pay more per dollar of benefit. Wealthier states tend to expand more aggressively. I don't say that to be political; it's just the mechanism that produces these disparities.
 
@@ -81,7 +81,7 @@ The federal government has spent years trying to get Medicare and Medicaid to wo
 
 A Fully Integrated Dual Eligible Special Needs Plan (FIDE-SNP) is usually the best option if you can get one in your area. These plans are contractually required to integrate both Medicare and Medicaid into a single plan, single care team, and single ID card. The coordinated care model allows a single care team to manage both programs together, reducing the risk of medication conflicts and missed care issues that can happen when Medicare and Medicaid coverage operates separately.
 
-The problem is availability. FIDE-SNPs exist in fewer than 20 states as of this year, and even within those states, not every county has one. You can check plan availability at [Medicare.gov's plan finder](https://www.medicare.gov/plan-compare).
+The problem is availability. FIDE-SNPs exist in only some states, and even within those states, not every county has one. You can check plan availability at [Medicare.gov's plan finder](https://www.medicare.gov/plan-compare).
 
 If a FIDE-SNP isn't available in your area, a D-SNP (without full integration) is still worth considering over Original Medicare plus standalone Medicaid, especially if you have complex health needs. The single point of contact alone is worth a lot.
 
@@ -95,7 +95,7 @@ Your best free resource, and I mean genuinely excellent, is your local SHIP (Sta
 
 [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) is also worth bookmarking. Their state-by-state Medicaid guides are updated regularly and written for normal people.
 
-Scenario: Robert, 68, from rural Georgia, retired postal worker, thought he earned too much for Medicaid. His monthly Social Security check was $1,410. A SHIP counselor reviewed his situation and found he qualified for the SLMB program, which paid his $202.90 Part B premium (current 2026 standard rate). Action taken: Robert filed a simple one-page application with his county DFCS office. Result: $202.90 back in his pocket every single month, retroactive to his application date. He'd left over $2,000 on the table the prior year by not knowing.
+Scenario: consider a 68-year-old retired postal worker from rural Georgia who thought he earned too much for Medicaid. His monthly Social Security check was $1,410. A SHIP counselor reviewed his situation and found he qualified for the SLMB program, which paid his $202.90 Part B premium (current 2026 standard rate). Action taken: Robert filed a simple one-page application with his county DFCS office. Result: $202.90 back in his pocket every single month, retroactive to his application date. He'd left over $2,000 on the table the prior year by not knowing.
 
 ## Sources
 

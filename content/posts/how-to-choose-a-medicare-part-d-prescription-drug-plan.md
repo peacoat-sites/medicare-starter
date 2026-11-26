@@ -9,21 +9,21 @@ tags: ["choose", "medicare", "part", "prescription", "drug"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "how-to-choose-a-medicare-part-d-prescription-drug-plan"
 affiliate_disclosure: true
 faqs:
  - q: "Can I have more than one Part D plan at the same time?"
    a: "No. You can only be enrolled in one Part D plan at a time. If you join a new plan during Open Enrollment, the new plan automatically replaces your old one on January 1st."
  - q: "What happens if I don't sign up for Part D when I'm first eligible?"
-   a: "You'll face a late enrollment penalty. It's calculated as 1% of the national base beneficiary premium multiplied by every month you went without creditable drug coverage, and it gets added permanently to your premium for as long as you have Part D. The national base premium changes annually; in 2026 it's around $36. It adds up. The only exception is if you had other creditable coverage, like through an employer or union plan."
+   a: "You'll face a late enrollment penalty. It's calculated as 1% of the national base beneficiary premium multiplied by every month you went without creditable drug coverage, and it gets added permanently to your premium for as long as you have Part D. The national base premium changes annually; in 2026 it's $38.99. It adds up. The only exception is if you had other creditable coverage, like through an employer or union plan."
  - q: "Do I need Part D if I'm on Medicare Advantage?"
    a: "Maybe not separately. Most Medicare Advantage plans (Part C) include built-in drug coverage that functions like Part D. Before enrolling in a standalone Part D plan, confirm whether your Medicare Advantage plan already includes drug coverage. If it does, enrolling separately in Part D could actually trigger a disenrollment from your Advantage plan."
  - q: "My drug isn't on the plan's formulary. What should I do?"
    a: "You have a few options. First, ask your doctor about a therapeutically equivalent alternative that is covered. Second, file a formulary exception request with the plan, supported by a letter from your doctor explaining medical necessity. Third, check whether another plan in your area covers your drug at a better tier before you lock in during Open Enrollment."
  - q: "Is a $0 premium Part D plan always a bad deal?"
    a: "Not always, but often. A $0 premium plan can work well if you take only generics that sit at Tier 1 or 2 on that plan's formulary, and if your preferred pharmacy is in-network. The danger is assuming a $0 premium means low costs overall. Run the numbers through the Medicare Plan Finder with your actual drugs before assuming it's a deal."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people spend more time picking a Netflix subscription than they do choosing their Medicare Part D drug plan. This mistake can cost hundreds of dollars a year, sometimes over a thousand, and it's entirely avoidable.
@@ -54,7 +54,7 @@ Most people look at the monthly premium and stop there. Don't.
 
 The true out-of-pocket cost of a Part D plan comes from four pieces working together: the premium (what you pay every month regardless of whether you fill a prescription), the deductible (what you pay before coverage kicks in, currently up to $615 for standard Part D plans in 2026), your copays or coinsurance on each prescription, and the pharmacy network (because getting your drug at an out-of-network pharmacy can blow up your costs fast).
 
-There's one more thing to understand this year: the [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/). Starting in 2025, the Inflation Reduction Act capped what Medicare Part D enrollees pay out-of-pocket annually, beginning at $2,000 that first year and rising to $2,100 in 2026. That's a genuinely significant protection, especially for people on expensive specialty drugs. If you're paying more than $2,100 in drug costs in a calendar year, something is wrong. Check your plan.
+There's one more thing to understand this year: the [$2,000 out-of-pocket cap](/medicare-2000-out-of-pocket-cap-drugs/). Starting in 2025, the Inflation Reduction Act capped what Medicare Part D enrollees pay out-of-pocket annually, beginning at $2,000 that first year and rising to $2,100 in 2026. That's a genuinely significant protection, especially for people on expensive specialty drugs. If you're paying more than $2,100 in covered drug costs in a calendar year, something is wrong. Check your plan.
 
 I've seen people fixate on a $12/month premium plan and end up paying $80 per refill because their drug sits at Tier 4. A plan with a $45 premium that covers the same drug at Tier 2 for a $15 copay is objectively the better deal. Do the math on your specific drugs, not on the sticker price.
 
@@ -88,7 +88,7 @@ That said, mail-order doesn't work well for medications you take short-term, any
 
 ## The Extra Help Program (Low Income Subsidy): Most People Who Qualify Don't Know They Do
 
-If your income is at or below roughly 150% of the federal poverty level, you may qualify for Extra Help, officially called the Low Income Subsidy (LIS). This is a federal program that dramatically reduces your Part D costs: lower or eliminated premiums, reduced deductibles, and very small copays (often $4 or less for generics, under $12 for brand drugs in 2026).
+If your income is at or below roughly 150% of the federal poverty level, you may qualify for Extra Help, officially called the Low Income Subsidy (LIS). This is a federal program that dramatically reduces your Part D costs: lower or eliminated premiums, reduced deductibles, and very small copays (up to $5.10 for generics and $12.65 for brand-name drugs in 2026).
 
 Millions of people qualify and haven't applied. The Social Security Administration handles applications at ssa.gov/extrahelp, and it takes about 30 minutes. This is one of those cases where I'd say: if there's any chance you qualify, just apply. The worst outcome is a denial letter.
 

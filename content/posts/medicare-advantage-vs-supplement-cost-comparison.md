@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 You're sitting at your kitchen table with two folders. One has a $0-premium Medicare Advantage plan and a brochure promising dental and vision. The other is a Medigap application with a premium that made you wince. Your neighbor loves her Advantage plan. Your brother-in-law swears by supplements. You have no idea who's right.
 
@@ -47,7 +47,7 @@ Here's what catches most people: that $0-premium Medicare Advantage plan isn't a
 
 The monthly premium might be low or nonexistent (beyond your Part B premium, which you're paying anyway). But every time you use the plan, you pay. A specialist visit runs $40 to $75. Outpatient surgery means 20% coinsurance. Hospital stays have daily copays for the first several days. When you're healthy, these feel manageable. During a serious illness, hospitalization, or when you're bouncing between multiple specialists, they pile up fast.
 
-The number that actually matters is the **[annual out-of-pocket maximum](/medicare-advantage-out-of-pocket-maximum/)**, the ceiling on what you'll spend on covered services in a year. Plans can have annual out-of-pocket maximums ranging from $4,000 to $9,000 or higher. Hitting that ceiling in a bad health year means significant costs.
+The number that actually matters is the **[annual out-of-pocket maximum](/medicare-advantage-out-of-pocket-maximum/)**, the ceiling on what you'll spend on covered services in a year. Plans set annual out-of-pocket maximums that can run as high as $9,250 for in-network care in 2026, and many plans set lower limits. Hitting that ceiling in a bad health year means significant costs.
 
 Medigap flips this around. You pay more every month, whether you use healthcare or not. The payoff? Once you've paid the premium, per-use costs mostly vanish, depending on which plan letter you choose. Medigap Plan G covers almost everything Medicare doesn't (after you hit the Part B deductible once yearly). Plan N covers quite a bit but leaves modest copays for office visits and ER trips.
 
@@ -63,7 +63,7 @@ Healthy and rarely seeing doctors? A Medigap plan feels expensive for insurance 
 | Ongoing chronic conditions, frequent specialist care | Costs vary, network restrictions may matter a lot | Predictable monthly cost, broad provider access |
 | Travel or use of out-of-network providers | May be limited or not covered outside network | Covered anywhere Medicare is accepted nationwide |
 
-The table below won't give you exact numbers (those vary wildly by location, age, plan, and health). It shows how costs *structure* differently across situations.
+The table above won't give you exact numbers (those vary wildly by location, age, plan, and health). It shows how costs *structure* differently across situations.
 
 | Situation | Medicare Advantage | Medigap + Part D |
 |---|---|---|
@@ -81,7 +81,7 @@ This isn't just arithmetic. A few factors can shift things dramatically, and mos
 
 **Geography matters enormously.** Medigap premiums depend on age and location. Some parts of the country have reasonable premiums. Others are steep enough to hurt on a fixed income. Medicare Advantage options vary just as wildly. Urban areas often have competitive plans with solid benefits. Rural areas might have almost nothing available.
 
-**Your ability to buy Medigap can change after your first year.** This catches people off guard. When you first enroll in Medicare Part B, you get a six-month window where insurance companies can't deny you a Medigap policy or charge more based on your health. After that window closes, most states allow **medical underwriting**, meaning carriers can reject you or charge higher premiums based on your medical history. For example, someone trying to switch from Medicare Advantage to Medigap after a serious health event could face rejection from insurers. That initial enrollment window is irreplaceable. Don't assume you can always switch later.
+**Your ability to buy Medigap can change after your first year.** This catches people off guard. When you are 65 or older and first enroll in Medicare Part B, you get a six-month window where insurance companies can't deny you a Medigap policy or charge more based on your health. After that window closes, most states allow **medical underwriting**, meaning carriers can reject you or charge higher premiums based on your medical history. For example, someone trying to switch from Medicare Advantage to Medigap after a serious health event could face rejection from insurers. That initial enrollment window is irreplaceable. Don't assume you can always switch later.
 
 **Prescription drug coverage moves independently.** Medicare Advantage plans usually include it. With Medigap, you need a standalone Part D plan. Depending on your medications, this can shift your total cost significantly either way.
 
@@ -105,7 +105,7 @@ This doesn't need to be complicated. Here's a practical approach.
 
 Can you change your mind? Sometimes, with serious caveats.
 
-Medicare Advantage enrollees can switch plans or return to Original Medicare during the **Annual Enrollment Period** (October 15 through December 7 each year), starting January 1. There's also a Medicare Advantage Open Enrollment Period from January 1 to March 31, where you can make one change.
+Medicare Advantage enrollees can switch plans or return to Original Medicare during the **Annual Enrollment Period** (October 15 through December 7 each year), with changes taking effect January 1. There's also a Medicare Advantage Open Enrollment Period from January 1 to March 31, where you can make one change.
 
 Switching from Medicare Advantage back to Medigap gets sticky. In most states, you'll face medical underwriting, and any health conditions you've developed might disqualify you or lead to higher premiums. A handful of states, including New York, Massachusetts, and Connecticut, have more consumer-friendly rules that allow year-round Medigap enrollment without underwriting. If you live there, you have flexibility. Most people don't.
 

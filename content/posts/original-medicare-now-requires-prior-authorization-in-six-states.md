@@ -1,7 +1,7 @@
 ---
 title: "Original Medicare Now Requires Prior Authorization in Six States"
 date: 2026-07-21T15:50:34.307907+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Original Medicare expands prior authorization requirements in six states. Learn which states are affected and how this impacts your healthcare coverage and clai"
 image: "/img/heroes/8441787.jpg"
@@ -10,16 +10,16 @@ tags: ["original", "medicare", "requires", "prior", "authorization"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "original-medicare-now-requires-prior-authorization-in-six-states"
 affiliate_disclosure: true
 ---
 
-Most people with [Traditional Medicare](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) have never had to ask permission before getting a test or procedure. You show your red-white-and-blue Medicare card, your doctor orders the service, and the claim gets paid. That's how it has always worked. But as of January 1, 2026, that assumption is no longer true for about 1.5 million beneficiaries living in six specific states, and six months into this experiment, a lot of people still don't know it applies to them.
+Most people with [Traditional Medicare](/traditional-medicare-has-no-spending-cap-a-new-bill-would-change-that/) have never had to ask permission before getting a test or procedure. You show your red-white-and-blue Medicare card, your doctor orders the service, and the claim gets paid. That's how it has always worked. But as of January 1, 2026, that assumption is no longer true for beneficiaries living in six specific states, and months into this experiment, a lot of people still don't know it applies to them.
 
 The program is called WISeR, which stands for Wasteful and Inappropriate Service Reduction. It's the first time in Medicare's 60-year history that the federal Centers for Medicare & Medicaid Services, or CMS, has required prior authorization inside Traditional Medicare (also called [Original Medicare](/switching-from-medicare-advantage-to-original-medicare/) or Part A and Part B). If you live in Arizona, New Jersey, Ohio, Oklahoma, Texas, or Washington, and your doctor wants to order one of 17 specific Part B procedures, the provider now has to get pre-approval before delivering that care. Miss that step and you could be on the hook for the bill yourself.
 
-What surprised me when I went deep on this is how little awareness there is even among people directly affected. According to reporting from TIME in May 2026, beneficiaries and advocates are raising real concerns about confusion and care delays. The pilot runs all the way through December 31, 2031, after which CMS will decide whether to roll it out nationwide. That's not a small test. That's six full years of real patients experiencing a fundamentally different Medicare than the one they enrolled in.
+What surprised me when I went deep on this is how little awareness there is even among people directly affected. According to reporting from TIME in May 2026, beneficiaries and advocates are raising real concerns about confusion and care delays. The pilot runs all the way through December 31, 2031, after which CMS will decide whether to roll it out nationwide. That's not a small test. That's roughly six years of real patients experiencing a fundamentally different Medicare than the one they enrolled in.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">WISeR is the first prior authorization program inside Traditional Medicare, active since January 1, 2026.</li><li style="margin:5px 0">Six states are affected: Arizona, New Jersey, Ohio, Oklahoma, Texas, and Washington.</li><li style="margin:5px 0">Seventeen specific Part B procedures require pre-approval before care is delivered.</li><li style="margin:5px 0">Medigap supplement plan holders (Plan G, Plan N, etc.) in those states are also subject to the rules.</li><li style="margin:5px 0">The pilot runs through December 31, 2031; CMS will then decide whether to expand it nationwide.</li></ul></div>
 
@@ -46,7 +46,7 @@ Here's where it gets genuinely interesting. CMS isn't using human reviewers alon
 
 That's a pretty significant shift in how Medicare oversight works. For proponents, it's a smarter, faster way to catch fraud before money goes out the door rather than chasing it afterward. For critics, the concern is real: an AI flagging a legitimate medical need as suspicious, a review that takes days, and a patient who needed that procedure last week. TIME's reporting in May 2026 captures both sides of this debate without sugarcoating it, and I think that tension is worth sitting with.
 
-CMS is also exploring a compliance-based exemption process in 2026. The idea is that high-performing providers who consistently show proper documentation could eventually be exempt from the pre-approval requirement. That would be a meaningful relief valve for experienced physicians with clean track records. But as of July 2026, that process is still described as "being explored," meaning it's not yet operational for most practices.
+CMS is also exploring a compliance-based exemption process in 2026. The idea is that high-performing providers who consistently show proper documentation could eventually be exempt from the pre-approval requirement. That would be a meaningful relief valve for experienced physicians with clean track records. But as of this writing, that process has been described as "being explored," so it may not yet be operational for most practices.
 
 ## What This Means If You Have a Medigap Plan
 

@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 You've just turned 65. Your mailbox is full of insurance brochures. Three different agents have each sworn their company is "the best." One's quoting $112 a month. Another wants $187. A third is asking for $203. And here's the kicker: all three are offering identical coverage.
 
@@ -89,7 +89,7 @@ For a detailed breakdown of what each plan letter covers and which fits your sit
 
 The plan letter you pick matters just as much as the company. Two plans dominate new Medicare beneficiary enrollment today.
 
-**Plan G** is the most comprehensive option for people who became Medicare-eligible after January 1, 2020. It covers almost everything except the Part B deductible ($283 in 2026). If you want predictable costs and hate surprise bills, Plan G is built for you. Our [full explanation of Medicare Supplement Plan G](/medicare-supplement-plan-g-explained/) covers every benefit in detail.
+**Plan G** is the most comprehensive option available to people who became Medicare-eligible on or after January 1, 2020, since they can't buy Plans C or F. It covers almost everything except the Part B deductible ($283 in 2026). If you want predictable costs and hate surprise bills, Plan G is built for you. Our [full explanation of Medicare Supplement Plan G](/medicare-supplement-plan-g-explained/) covers every benefit in detail.
 
 **Plan N** is the budget alternative. Premiums run 15-25% lower than Plan G in most markets, but you'll pay copayments: up to $20 for office visits, up to $50 for emergency room visits. You're also exposed to Part B excess charges, which doctors not accepting Medicare assignment can add on. If you're relatively healthy, see a moderate number of doctors, and your providers accept Medicare assignment, Plan N makes financial sense. See our [Medicare Supplement Plan N explained](/medicare-supplement-plan-n-explained/) article for the full picture.
 
@@ -117,7 +117,7 @@ This is the practical process I walk clients through. Two or three hours total. 
 
 **Step 3: Get quotes from at least five carriers.** Use Medicare.gov's Medigap plan finder, or work with an independent broker who represents multiple companies (not a captive agent selling one carrier only). Independent brokers cost you nothing. The carrier pays their commission.
 
-**Step 4: Look up each carrier's NAIC complaint ratio.** Go to naic.org, find the Insurance Company Search tool, pull up each carrier, and check their current complaint index. Eliminate any carrier above 1.5.
+**Step 4: Look up each carrier's NAIC complaint ratio.** Go to naic.org, find the Insurance Company Search tool, pull up each carrier, and check their current complaint index. Eliminate any carrier above 1.0.
 
 **Step 5: Verify the AM Best rating.** Quick search at ambest.com confirms financial strength. Aim for A- or better.
 

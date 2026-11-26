@@ -10,7 +10,7 @@ tags: ["medicare", "supplement", "rates"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-supplement-rates-by-age"
 affiliate_disclosure: true
 faqs:
@@ -32,7 +32,7 @@ A common mistake is misunderstanding how insurers actually price [Medicare suppl
 
 Here is what is actually going on with Medigap rates by age, because most of the advice floating around online leaves out the parts that matter most.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Three distinct pricing methods determine how your Medigap premium changes as you age, your choice at enrollment locks you in to one forever.</li><li style="margin:5px 0">Attained-age plans often start cheapest but can cost $100+ more per month by your mid-70s compared to issue-age or community-rated plans.</li><li style="margin:5px 0">Your Open Enrollment window (6 months starting when you turn 65 and enroll in Part B) is the single best time to lock in a rate, medical underwriting can't touch you then.</li><li style="margin:5px 0">A Plan G premium for a 65-year-old currently averages roughly $110-$180/month depending on state; by age 80, attained-age pricing for the same plan can push past $300/month.</li><li style="margin:5px 0">Switching plans after enrollment is medically underwritten in most states, meaning insurers can reject you or charge more based on health history.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Three distinct pricing methods determine how your Medigap premium changes as you age, your choice at enrollment locks you in to one forever.</li><li style="margin:5px 0">Attained-age plans often start cheapest but can cost $100+ more per month by your early 80s compared to issue-age or community-rated plans.</li><li style="margin:5px 0">Your Open Enrollment window (6 months starting when you turn 65 and enroll in Part B) is the single best time to lock in a rate, medical underwriting can't touch you then.</li><li style="margin:5px 0">A Plan G premium for a 65-year-old currently averages roughly $110-$180/month depending on state; by age 80, attained-age pricing for the same plan can push past $300/month.</li><li style="margin:5px 0">Switching plans after enrollment is medically underwritten in most states, meaning insurers can reject you or charge more based on health history.</li></ul></div>
 
 ## The Three Pricing Methods (And Why This Choice Is Permanent)
 
@@ -60,13 +60,13 @@ Here is a side-by-side comparison of illustrative Plan G ranges. The numbers bel
 | 80  | ~$185/mo                 | ~$165/mo                 | ~$265/mo                    |
 | 85  | ~$198/mo                 | ~$185/mo                 | ~$340/mo                    |
 
-Read across that table from left to right at age 85 and let it sink in. The attained-age plan that looked $50 cheaper at 65 is now costing roughly $155 more per month than community-rated. That's $1,860 per year extra, every year, at precisely the age when you can least easily switch to something cheaper.
+Read across that table from left to right at age 85 and let it sink in. The attained-age plan that looked $50 cheaper at 65 is now costing roughly $142 more per month than community-rated. That's about $1,700 per year extra, at precisely the age when you can least easily switch to something cheaper.
 
 ## The Open Enrollment Window Is Not a Suggestion
 
 Six months. That's what you get. Starting the first month you're both 65 and enrolled in Medicare Part B, federal law gives you a six-month Open Enrollment Period during which no insurer can deny you a Medigap policy, charge you more for health conditions, or make you wait for coverage to kick in. The [AARP Medicare resource center](https://www.aarp.org/health/medicare-insurance/) calls this the single most important window in Medicare planning, and they're right.
 
-For example, someone who delays enrolling in a supplement plan during their initial Open Enrollment may face medical underwriting later. If they develop a health condition before enrolling, carriers can reject them outright or accept them with exclusions for that condition. Such exclusions can cost over $14,000 out of pocket during a related hospitalization.
+For example, someone who delays enrolling in a supplement plan during their initial Open Enrollment may face medical underwriting later. If they develop a health condition before enrolling, carriers can reject them outright or accept them with exclusions for that condition. Such exclusions can leave you paying the full cost of care for that condition out of pocket.
 
 In most states, if you miss that window, insurers can and will underwrite you. "Guaranteed issue" rights exist in a few specific situations (your employer coverage ended, your Medicare Advantage plan left the area, etc.), but outside of those situations, your health becomes part of the equation.
 
@@ -84,9 +84,9 @@ What most people don't realize is that beyond age and rating method, three other
 
 A worked example of how these factors compound:
 
-*A 65-year-old male smoker in Florida, choosing an attained-age Plan G* → *pays roughly $165/month at enrollment due to tobacco surcharge and Florida's higher market rates* → *by age 78, that premium has grown to approximately $310/month, compared to about $195/month for a non-smoking woman of the same age in Ohio who chose a community-rated plan.*
+*Consider a 65-year-old male smoker in Florida, choosing an attained-age Plan G* → *pays roughly $165/month at enrollment due to tobacco surcharge and Florida's higher market rates* → *by age 78, that premium has grown to approximately $310/month, compared to about $195/month for a non-smoking woman of the same age in Ohio who chose a community-rated plan.*
 
-That gap compounds every year. Over thirteen years, the difference in cumulative premiums can easily exceed $20,000.
+That gap compounds every year. Over thirteen years, the difference in cumulative premiums can run to many thousands of dollars.
 
 ## Plan G vs. Plan N: The Age-Rate Interaction
 
@@ -94,7 +94,7 @@ One point that is easy to miss: the pricing method interacts with which plan you
 
 Plan G covers nearly everything except the Part B deductible (currently $283 in 2026). For someone who sees specialists frequently or anticipates complex care, the math often favors Plan G by the mid-70s even if Plan N looked cheaper at 65.
 
-Second worked example: *A 65-year-old man enrolls in attained-age Plan N at $92/month, expecting to save money* → *by 73, his premium is $178/month and he's paying an average of $340/year in copays due to regular specialist visits* → *total annual cost: $2,476. A neighbor who enrolled in community-rated Plan G at $155/month pays $1,860/year with zero additional cost-sharing. The Plan G buyer saves $616 annually at that point, with the gap widening each year.*
+Second worked example: *Consider a 65-year-old man who enrolls in attained-age Plan N at $92/month, expecting to save money* → *by 73, his premium is $178/month and he's paying an average of $340/year in copays due to regular specialist visits* → *total annual cost: $2,476. A hypothetical neighbor who enrolled in community-rated Plan G at $155/month pays $1,860/year with zero additional cost-sharing. The Plan G buyer saves $616 annually at that point, with the gap widening each year.*
 
 ## Sources
 

@@ -10,8 +10,8 @@ slug: "medicare-and-employer-insurance"
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-07-08
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 Turning 65 brings decisions, and none are messier than figuring out how Medicare works with your current employer health plan. Whether you're still working, your spouse is, or you're just weeks away from retirement, this is one of the most confusing corners of health insurance. Most people get it wrong.
 
@@ -52,12 +52,12 @@ One big exception: if you contribute to a **[Health Savings Account (HSA)](/medi
 
 ### Retiring Before or At 65
 
-Leave your job before 65? You've got a 7-month window starting 3 months before your birthday to enroll. This is your **Initial Enrollment Period (IEP)**. Miss it without a qualifying reason, and you'll pay permanent penalties forever.
+Leave your job before 65? You've got a 7-month window starting 3 months before the month you turn 65 to enroll. This is your **Initial Enrollment Period (IEP)**. Miss it without a qualifying reason, and you'll pay permanent penalties forever.
 
 Those penalties are brutal:
 
 - **Part B:** 10% of your monthly premium added for every 12 months you were eligible but didn't sign up.
-- **Part D:** 1% of the national base premium per month you went uninsured for prescription drugs.
+- **Part D:** 1% of the national base premium ($38.99 in 2026) for each full month you went without Part D or creditable drug coverage.
 
 These stick around for life. You don't age out of them.
 
@@ -81,6 +81,8 @@ Here's how it typically breaks down:
 | Outpatient surgery | $5,000 | $4,000 | $800 | $200 |
 | Specialist visit | $300 | $240 | $48 | $12 |
 | Prescription drugs | $200/month | $160 | N/A (need Part D) | $40 |
+
+*These figures are illustrative examples only. Actual coverage depends on your plans and on what Medicare approves for each service.*
 
 Having Medicare backstop your employer plan can slash your actual costs. But keep in mind: Medicare only pays for what's left unpaid after your employer plan. It won't double-pay or cover things your employer plan handles completely.
 
@@ -149,7 +151,7 @@ People mess this up all the time, even when they think they know what they're do
 
 **Get a free consultation.** Your state's Health Insurance Assistance Program (SHIP) offers free counseling from licensed advisors who work for you, not insurance companies. They'll review your whole situation at no cost.
 
-**Don't overlook dental, vision, and hearing.** Original Medicare covers almost none of these. If your employer plan does, think hard before dropping it. You might end up paying $150-300 per year out of pocket for basics that used to be covered.
+**Don't overlook dental, vision, and hearing.** Original Medicare covers almost none of these. If your employer plan does, think hard before dropping it. You might end up paying out of pocket for basics that used to be covered.
 
 **Check your options every year.** Employer plans change. October 15, December 7 is Medicare's Annual Enrollment Period. Spend an hour reviewing whether your current setup is still the best choice.
 
@@ -161,7 +163,7 @@ People mess this up all the time, even when they think they know what they're do
 
 **Q: Can I have both Medicare and employer insurance at the same time?**
 
-Yes. Millions of people over 65 carry both. The key is knowing which one pays first. Usually, if your employer has 20+ employees, the employer plan is primary and Medicare is secondary. That dual coverage often results in very low out-of-pocket costs for covered services.
+Yes. Many people over 65 carry both. The key is knowing which one pays first. Usually, if your employer has 20+ employees, the employer plan is primary and Medicare is secondary. That dual coverage often results in very low out-of-pocket costs for covered services.
 
 **Q: Will I be penalized if I delay Medicare enrollment because I have employer coverage?**
 
@@ -173,7 +175,7 @@ If your employer's drug plan is certified as creditable coverage, meaning it's a
 
 **Q: What happens to my Medicare coverage when I retire and lose employer insurance?**
 
-Losing employer coverage triggers an 8-month Special Enrollment Period for Part B (and 63 days for Part D). You can enroll without penalties during this window. Act quickly, because once it closes, you have to wait for General Enrollment (January 1, March 31) and may face penalties. This is also when you should explore Medigap plans, which have special rules during your first Medicare enrollment period.
+Losing employer coverage triggers an 8-month Special Enrollment Period for Part B. For Part D, a gap of 63 or more days without creditable drug coverage triggers the late enrollment penalty, so enroll within that window. You can enroll without penalties during this window. Act quickly, because once it closes, you have to wait for General Enrollment (January 1, March 31) and may face penalties. This is also when you should explore Medigap plans, which have special rules during your first Medicare enrollment period.
 
 **Q: Can I drop my employer plan and switch to Medicare while I'm still working?**
 

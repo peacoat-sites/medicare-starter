@@ -1,7 +1,7 @@
 ---
 title: "Medicare Cataract Surgery Coverage: What You'll Pay"
 date: 2026-08-03T16:35:12.215321+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn what Medicare covers for cataract surgery, including costs, copays, and out-of-pocket expenses you may face."
 image: "/img/heroes/12104186.jpg"
@@ -10,7 +10,7 @@ tags: ["does", "medicare", "cover", "cataract", "surgery"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "does-medicare-cover-cataract-surgery"
 affiliate_disclosure: true
 faqs:
@@ -26,7 +26,7 @@ faqs:
     a: "This is one people get wrong all the time, myself included the first time I looked it up. Routine eye exams are not covered by Original Medicare Part B. However, a medical eye exam with an ophthalmologist to diagnose and evaluate a cataract is covered as a medical service, not a routine vision exam. The distinction is whether the exam is for a medical condition vs. a general vision check. If your primary care doctor refers you to an ophthalmologist because of vision changes or a suspected cataract, that visit is generally covered under Part B."
 ---
 
-More than 3.8 million cataract surgeries are performed in the United States every year, making it the single most common surgical procedure Medicare pays for. That number alone should tell you something: if you're sitting with a diagnosis and wondering whether your Medicare card covers this, you are absolutely not alone, and the answer is almost certainly yes.
+Cataract surgery is one of the most common surgical procedures Medicare pays for. That number alone should tell you something: if you're sitting with a diagnosis and wondering whether your Medicare card covers this, you are absolutely not alone, and the answer is almost certainly yes.
 
 But "yes" comes with details, and those details matter when you're looking at an out-of-pocket bill. A common source of confusion is the gap between what Medicare agrees to cover and what a hospital bills. Understanding this gap helps you avoid unexpected out-of-pocket costs.
 
@@ -40,7 +40,7 @@ Part B covers the surgery itself, the surgeon's fee, the anesthesiologist, and t
 
 Here's where a lot of people get surprised. If you want a premium IOL, like a multifocal lens that can reduce your dependence on glasses at multiple distances, or a toric lens that also corrects astigmatism, [Medicare will cover](/medicare-will-cover-weight-loss-drugs-for-50-starting-july-1/) the part of that lens equivalent to a standard monofocal. The upgrade cost, sometimes called a "balance bill" or a "facility charge for a non-covered upgrade," comes out of your pocket. That upgrade can run anywhere from roughly $1,500 to over $3,000 per eye depending on the lens type and the surgeon's practice. Many people are surprised by upgrade charges because they weren't explained beforehand. Ask before you consent to anything.
 
-The one pair of eyeglasses or contacts benefit after surgery is real, but it only applies to your first cataract surgery per the current Medicare guidelines. Per [Medicare.gov](https://www.medicare.gov/), the frames must be from a supplier who participates in Medicare, and even then Medicare's covered amount for the frames themselves is modest. You'll often still pay something. Keep that in mind if your ophthalmologist's office sells frames at retail prices.
+The one pair of eyeglasses or contacts benefit after surgery is real, but it only applies to your first cataract surgery per the current Medicare guidelines. Per [Medicare.gov](https://www.medicare.gov/), the glasses or contacts must come from a supplier enrolled in Medicare, and you pay 20% of the Medicare-approved amount after the Part B deductible. You'll often still pay something. Keep that in mind if your ophthalmologist's office sells frames at retail prices.
 
 ## What You'll Actually Pay: The Numbers Broken Down
 
@@ -62,15 +62,15 @@ These figures reflect typical ranges for the base surgery with a standard lens. 
 
 ## Two Real Scenarios Worth Walking Through
 
-**Margaret, 73, Original Medicare only, standard lens:** Margaret had been putting off her right eye surgery for over a year because she wasn't sure what it would cost. She'd already met her Part B deductible from a separate procedure earlier that year. Her surgeon's office billed Medicare, Medicare approved roughly $1,600 for the total facility and physician fee, paid $1,280, and Margaret owed $320. She paid it, healed well, and scheduled the second eye three months later.
+**Consider a 73-year-old on Original Medicare only, with a standard lens:** She had been putting off her right eye surgery for over a year because she wasn't sure what it would cost. She'd already met her Part B deductible from a separate procedure earlier that year. Her surgeon's office billed Medicare, Medicare approved roughly $1,600 for the total facility and physician fee, paid $1,280, and she owed $320. She paid it, healed well, and scheduled the second eye three months later.
 
-**Robert, 68, Medigap Plan G, wanted toric lens:** Robert's right eye had significant astigmatism and he really wanted the toric IOL. His surgeon quoted the lens upgrade at $1,850 for that eye. Medicare covered the base surgery cost and his Medigap Plan G picked up the 20% coinsurance. But the $1,850 lens upgrade was entirely his responsibility. He decided it was worth it for better uncorrected distance vision. He paid it out of pocket. That's a completely legitimate choice. Just make sure it's an informed one.
+**Consider a 68-year-old with Medigap Plan G who wants a toric lens:** His right eye has significant astigmatism and he really wants the toric IOL. His surgeon quoted the lens upgrade at $1,850 for that eye. Medicare covered the base surgery cost and his Medigap Plan G picked up the 20% coinsurance. But the $1,850 lens upgrade was entirely his responsibility. If he decides it is worth it for better uncorrected distance vision, he pays it out of pocket. That's a completely legitimate choice. Just make sure it's an informed one.
 
-**Louise, 71, Medicare Advantage HMO:** Louise's plan required her to use an in-network ophthalmologist and get a referral from her primary care doctor first. She didn't know about the referral requirement. She called the surgeon directly, booked the surgery, and almost ended up with a denied claim. Her plan's member services line caught the issue in time and walked her through getting the retroactive referral approved. Close call. Always call your Medicare Advantage plan before scheduling any surgical procedure.
+**Consider a 71-year-old in a Medicare Advantage HMO:** Her plan requires an in-network ophthalmologist and a referral from her primary care doctor first. If she doesn't know about the referral requirement, calls the surgeon directly and books the surgery, she risks a denied claim. Always call your Medicare Advantage plan before scheduling any surgical procedure.
 
 ## The Lens Choice Decision (More Important Than Most People Realize)
 
-I'll be direct here: I generally tell people not to let a surgeon upsell them on a premium lens without sitting with that decision for at least a few days. A standard monofocal IOL produces excellent vision outcomes for the vast majority of people. The evidence that multifocal IOLs reduce overall glasses dependence is real, but so is the evidence that a small percentage of patients experience halos, glare, or reduced contrast sensitivity with multifocal lenses that they don't with monofocals. A 2021 review published in the journal *Ophthalmology* found that while multifocal IOLs improved spectacle independence compared to monofocals, patient satisfaction scores were not always higher because of those visual side effects.
+I'll be direct here: I generally tell people not to let a surgeon upsell them on a premium lens without sitting with that decision for at least a few days. A standard monofocal IOL produces excellent vision outcomes for the vast majority of people. The evidence that multifocal IOLs reduce overall glasses dependence is real, but so is the evidence that a small percentage of patients experience halos, glare, or reduced contrast sensitivity with multifocal lenses that they don't with monofocals. Multifocal IOLs can improve spectacle independence compared to monofocals, but patient satisfaction is not always higher because of those visual side effects.
 
 If you have significant astigmatism, a toric lens is often genuinely worth discussing. If you're very motivated to be free of reading glasses, a multifocal or extended depth-of-focus lens might suit you. But go in knowing that Medicare won't cover the upgrade cost, the price is often $1,500 to $3,000+ per eye above what Medicare pays, and the visual tradeoffs are real for some patients. It's a personal decision, and a good surgeon will give you time to make it without pressure.
 

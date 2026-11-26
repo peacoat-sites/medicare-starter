@@ -1,6 +1,7 @@
 ---
 title: "AI Prior Auth in Original Medicare: What WISeR Has Done So Far"
 date: 2026-07-09T16:35:05.192456+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Discover how WISeR is transforming prior authorization in Original Medicare using AI, streamlining approvals, reducing delays, and improving outcomes for patien"
 image: "/img/heroes/8376320.jpg"
@@ -9,7 +10,7 @@ tags: ["prior", "auth", "original", "medicare:", "what"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "ai-prior-auth-in-original-medicare-what-wiser-has-done-so-far"
 affiliate_disclosure: true
 ---
@@ -20,7 +21,7 @@ You might be wondering: does this affect me? And if it does, what should I be do
 
 ## What WISeR Actually Is
 
-CMS (the Centers for Medicare and Medicaid Services) launched a pilot program called WISeR, which stands for Wasteful and Inappropriate Services Reduction. It runs from January 1, 2026 through December 31, 2031, and it covers an estimated 6.4 million Original Medicare beneficiaries across those six states. That's roughly one in five Original Medicare beneficiaries in the entire country, which is a significant slice of people to test something this new.
+CMS (the Centers for Medicare and Medicaid Services) launched a pilot program called WISeR, which stands for Wasteful and Inappropriate Services Reduction. It runs from January 1, 2026 through December 31, 2031, and it covers an estimated 6.4 million Original Medicare beneficiaries across those six states. That is a significant slice of people to test something this new.
 
 Here's the basic mechanics: six private technology companies are using AI and algorithmic software to conduct coverage reviews for 13 specific procedures. The AI flags potential issues, but a human clinician still makes the final call on approval or denial. CMS has been clear that a person is in the decision loop, not a machine acting alone. That's an important distinction, though critics argue it doesn't go far enough in protecting patients.
 

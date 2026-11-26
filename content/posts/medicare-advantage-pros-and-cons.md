@@ -18,12 +18,12 @@ faqs:
  - q: "What happens if I move to a different state while on Medicare Advantage?"
    a: "Your current Medicare Advantage plan likely won't cover you in your new state, since most plans are geographically specific. You'll have a Special Enrollment Period to choose a new plan in your new location. This is another reason why Original Medicare with Medigap is often a better fit for people who move or travel frequently."
  - q: "Is Medicare Advantage a good choice if I have a serious chronic condition?"
-   a: "It can be, but you need to do your homework carefully. Some Medicare Advantage plans specialize in chronic care and offer excellent care coordination benefits. Others may create barriers through prior authorization requirements or narrow specialist networks. For complex conditions, many counselors, myself included, suggest modeling out your expected annual costs under both options before deciding. The best Medicare Advantage plans for 2026 vary significantly by region and health need."
+   a: "It can be, but you need to do your homework carefully. Some Medicare Advantage plans specialize in chronic care and offer excellent care coordination benefits. Others may create barriers through prior authorization requirements or narrow specialist networks. For complex conditions, many counselors suggest modeling out your expected annual costs under both options before deciding. The best Medicare Advantage plans for 2026 vary significantly by region and health need."
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 You're turning 65 in three months. Your mailbox is stuffed with glossy Medicare Advantage brochures promising $0 premiums, dental coverage, and gym memberships. It sounds almost too good. And honestly, parts of it are.
 
@@ -51,7 +51,7 @@ Medicare Advantage plans offer real benefits that Original Medicare doesn't touc
 
 **Built-in drug coverage.** Most Medicare Advantage plans include Part D. One card, one plan, one set of rules. If you want to understand standalone drug coverage for comparison, our [Medicare Part D explained](/medicare-part-d-explained/) article breaks it down.
 
-**Out-of-pocket maximums.** Original Medicare has no spending cap. Medicare Advantage plans are legally required to have an annual maximum. In 2024, that cap was $8,850 for in-network services. Hit it, and the plan pays 100% for covered care for the rest of the year. That protection matters during a serious illness.
+**Out-of-pocket maximums.** Original Medicare has no spending cap. Medicare Advantage plans are legally required to have an annual maximum. In 2026, that cap is $9,250 for in-network services ($9,350 in 2025). Many plans set lower limits. Hit it, and the plan pays 100% for covered care for the rest of the year. That protection matters during a serious illness.
 
 **Care coordination.** Many HMOs assign you a primary care doctor who oversees your treatment. If you have multiple chronic conditions, having someone watching the full picture can actually improve your health outcomes.
 
@@ -112,7 +112,7 @@ Don't pick based on the fanciest brochure. Here's the real way to evaluate wheth
 
 ---
 
-Medicare Advantage works wonderfully for some people and creates real headaches for others. Your neighbor's glowing review about her $0 premium dental plan might be completely accurate for her and totally wrong for you. Check your doctors. Run your medications through the formulary. Read the Summary of Benefits. If you're still uncertain, call a SHIP counselor or independent broker. This affects your healthcare and finances for years. You deserve to decide with clear eyes and solid information.
+Medicare Advantage works wonderfully for some people and creates real headaches for others. A glowing review of a $0 premium dental plan might be completely accurate for the reviewer and totally wrong for you. Check your doctors. Run your medications through the formulary. Read the Summary of Benefits. If you're still uncertain, call a SHIP counselor or independent broker. This affects your healthcare and finances for years. You deserve to decide with clear eyes and solid information.
 
 ---
 

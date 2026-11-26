@@ -1,7 +1,7 @@
 ---
 title: "Medicare Supplement Plan G High Deductible: Lower Premiums Explained"
 date: 2026-08-16T14:34:05.572828+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Explore how Medicare supplement high deductible Plan G works, compare costs and coverage gaps, and determine if it's right for your healthcare needs."
 image: "/img/heroes/7926696.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "supplement", "high", "deductible", "plan"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-supplement-high-deductible-plan-g"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
   - q: "Does High Deductible Plan G cover prescription drugs?"
     a: "No. No Medigap plan covers prescription drugs. For drug coverage, you'd enroll in a standalone Medicare Part D (prescription drug) plan separately. Missing your Part D enrollment window can result in a late enrollment penalty, so don't skip it."
   - q: "How does HDG differ from Plan K or Plan L?"
-    a: "All three plans have out-of-pocket limits and lower premiums than standard Plan G, but differently. HDG has a single deductible ($2,870 in 2026), after which coverage is essentially complete. Plans K and L cover only 50% and 75% of most benefits respectively, with higher out-of-pocket limits ($7,220 and $3,610 in 2026). For most people, HDG's structure is cleaner and more predictable."
+    a: "All three plans have out-of-pocket limits and lower premiums than standard Plan G, but differently. HDG has a single deductible ($2,870 in 2026), after which coverage is essentially complete. Plans K and L cover only 50% and 75% of most benefits respectively, with higher out-of-pocket limits ($8,000 and $4,000 in 2026). For most people, HDG's structure is cleaner and more predictable."
 ---
 Most people are already confused about High Deductible Plan G when they start researching it, usually after hearing from a friend that it's "basically free." It's not quite that simple. But here's what IS true: for the right person, HDG (that's the shorthand for [Medicare Supplement](/best-medicare-supplement-companies/) High Deductible Plan G) is genuinely one of the most underrated options on the market right now. Most insurance agents don't push it because their commission on it is smaller.
 
@@ -44,7 +44,7 @@ What most people don't realize is that hitting the full $2,870 deductible requir
 | Standard Plan G | $120–$200+ | None (virtually $0 after premium) | Yes | Yes |
 | High Deductible Plan G (HDG) | $40–$80 | $2,870 (2026) | Yes, after deductible | Yes, after deductible |
 | Standard Plan N | $70–$130 | Copays of up to $20/visit + $50 ER | Yes | Partial |
-| Plan K | $50–$90 | $7,220 (2026) | 50% | 50% |
+| Plan K | $50–$90 | $8,000 (2026) | 50% | 50% |
 
 Premiums above are broad national ranges based on insurer filings reviewed as of August 2026. Your actual quote will depend on your state, age, tobacco use, and the specific insurer.
 
@@ -56,17 +56,17 @@ It works beautifully for someone who is 65 to 68, in good health, has an emergen
 
 It's a harder sell for someone with a chronic condition requiring regular specialist visits, someone who finds the unpredictability of medical bills genuinely stressful, or anyone who doesn't have liquid savings to cover a high-cost year. Stress has real health costs. If worrying about a potential $2,870 bill keeps you from going to the doctor when you should, the "savings" evaporate.
 
-For example, someone might enroll in HDG at 65 with premiums around $52 a month. If they have a minor outpatient procedure in year two costing about $800 out-of-pocket, they'd pay roughly $1,872 in premiums and $800 in out-of-pocket costs over three years, totaling about $2,672. A comparable standard Plan G policy over the same period would cost an estimated $5,400 in premiums alone, with virtually nothing additional out-of-pocket, showing that HDG can work well for those with minimal healthcare needs.
+For example, consider someone who enrolls in HDG at 65 with premiums around $52 a month. If they have a minor outpatient procedure in year two costing about $800 out-of-pocket, they'd pay roughly $1,872 in premiums and $800 in out-of-pocket costs over three years, totaling about $2,672. A comparable standard Plan G policy over the same period would cost an estimated $5,400 in premiums alone, with virtually nothing additional out-of-pocket, showing that HDG can work well for those with minimal healthcare needs.
 
-That said, her situation: healthy, financially stable, comfortable with some risk. If you're not Carol, the math might flip.
+That person is healthy, financially stable and comfortable with some risk. If that doesn't describe you, the math might flip.
 
 ## The Enrollment Trap Nobody Warns You About
 
 This is the part where I'd lean across the table and make sure you're paying attention. When you first enroll in Medicare Part B, you have a six-month Medigap Open Enrollment window. During that window, any insurance company offering Medigap plans in your state must sell you any plan they offer at standard rates, regardless of your health history. No medical underwriting. No rejections.
 
-Once that window closes, most states allow insurers to medically underwrite you. Which means if you developed diabetes, heart disease, COPD, or a handful of other conditions, you can be denied or charged significantly more. A few states (California, Connecticut, Maine, Massachusetts, New York, and a couple of others) have guaranteed issue rights year-round or on anniversary dates, so check [Medicare.gov](https://www.medicare.gov) for your state's rules.
+Once that window closes, most states allow insurers to medically underwrite you. Which means if you developed diabetes, heart disease, COPD, or a handful of other conditions, you can be denied or charged significantly more. A few states (such as Connecticut, Maine, Massachusetts and New York, plus a couple of others) have guaranteed issue rights year-round or on anniversary dates, so check [Medicare.gov](https://www.medicare.gov) for your state's rules.
 
-I made the mistake years ago of assuming a client could always "try" HDG and switch later if her health changed. She could not. By the time she wanted to move to standard Plan G, she had a new diagnosis that got her rejected by every carrier in her state (which was not one of the protected ones). She's still on HDG, managing fine financially, but it wasn't the choice she'd have made if she'd fully understood the rules up front.
+Consider someone who assumes they can always "try" HDG and switch later if their health changes. In most states they could not. By the time they wanted to move to standard Plan G, a new diagnosis could get them rejected by every carrier in a state without year-round guaranteed issue. They might stay on HDG and manage fine financially, but it wouldn't be the choice they'd have made if they had fully understood the rules up front.
 
 The practical upshot: choose your initial Medigap plan thoughtfully, because switching later may not be an option.
 
@@ -76,7 +76,7 @@ In practice, here's how it flows. You go to a doctor who accepts Medicare. Medic
 
 Once you cross $2,870 for the year, the plan pays 100% of Medicare-approved amounts for the rest of the calendar year. On January 1, the counter resets.
 
-One detail that surprises people: foreign travel emergency coverage is not included in HDG (it's also not in standard Plan G, actually, so you'd want a Plan G with the optional travel rider, or a Plan D or N if international coverage matters to you). If you travel abroad frequently, factor that in.
+One detail that surprises people: foreign travel emergency coverage is included in HDG (80% after a $250 deductible, up to a lifetime limit), the same as standard Plan G, so it is not a differentiator between the two plans. If you travel abroad frequently, factor that in.
 
 The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes updated benefit charts annually, and I'd recommend bookmarking that resource if you want to verify any figures as they change year to year.
 

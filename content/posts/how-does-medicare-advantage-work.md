@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 Your Medicare card arrives in the mail on your 65th birthday, and your neighbor mentions she pays almost nothing for health coverage because she switched to "Medicare Advantage." You nod along, but wonder: what exactly is Medicare Advantage, and how does it actually work? You're not alone. Every year, millions of Americans hit this wall of confusion, and the choices they make in the next few weeks can shape their healthcare costs for years.
 
@@ -61,7 +61,7 @@ Beyond that, the big selling point for Medicare Advantage is "extra benefits" th
 - Over-the-counter allowances for vitamins or pain relievers
 - Telehealth and remote monitoring
 
-Many people are surprised to learn that [dental and vision are included](/medicare-advantage-dental-coverage/) in Medicare Advantage plans. Original Medicare covers almost no dental and very limited vision, so if you wear glasses and see the dentist twice a year, these extras add real value.
+Many people are surprised to learn that [dental and vision are often included](/medicare-advantage-dental-coverage/) in Medicare Advantage plans. Original Medicare covers almost no dental and very limited vision, so if you wear glasses and see the dentist twice a year, these extras can add real value.
 
 But read the fine print. Dental coverage on many plans has low annual limits, and not every benefit is as generous as the marketing says.
 
@@ -71,7 +71,7 @@ But read the fine print. Dental coverage on many plans has low annual limits, an
 | --- | --- | --- |
 | Monthly Part B Premium | $202.90 (2026 standard) | $202.90 (2026 standard) |
 | Plan Premium | Often $0, sometimes additional | N/A |
-| Out-of-Pocket Maximum | Capped at $9,350 in-network/$14,000 combined (2025 federal max) | No annual cap |
+| Out-of-Pocket Maximum | Capped at $9,250 in-network/$13,900 combined (2026 federal max, many plans set lower limits) | No annual cap |
 | Dental Coverage | Often included | Minimal/not covered |
 | Vision Coverage | Often included | Very limited |
 | Prescription Drug (Part D) | Many plans include (MA-PD) | Separate enrollment required |
@@ -90,7 +90,7 @@ Beyond premiums, there's cost-sharing:
 - **Coinsurance:** A percentage of the cost
 - **Deductibles:** Some plans have them for medical or drug coverage
 
-The number that matters most is the **maximum out-of-pocket (MOOP)** limit. For 2025, Medicare caps in-network MOOP at $9,350 and combined in-network and out-of-network at $14,000. Your specific plan might set its MOOP lower than the federal max, and that's a major factor when comparing.
+The number that matters most is the **maximum out-of-pocket (MOOP)** limit. For 2026, Medicare caps in-network MOOP at $9,250 and combined in-network and out-of-network at $13,900. Your specific plan might set its MOOP lower than the federal max, and that's a major factor when comparing.
 
 Here's a quick comparison:
 

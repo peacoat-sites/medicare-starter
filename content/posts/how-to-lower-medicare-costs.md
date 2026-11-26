@@ -9,7 +9,7 @@ tags: ["lower", "medicare", "costs"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "how-to-lower-medicare-costs"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "For many people, yes, particularly if you have ongoing health needs or simply want cost predictability. Medigap Plan G is currently the most comprehensive option for new Medicare enrollees (Plan C and Plan F are no longer available to people who became eligible for Medicare after January 1, 2020). Whether it's worth the premium depends on how often you use medical services; run the numbers for your specific situation before committing."
  - q: "What if I can't afford my Medicare premiums right now?"
    a: "Don't just stop paying. Contact Medicare or Social Security immediately, and check your eligibility for Medicare Savings Programs through your state Medicaid office. If you're in a Medicare Advantage plan, you may also be able to move to a lower-cost plan during an enrollment period. A free SHIP counselor can help you sort through your options without any sales pressure."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people don't realize they're overpaying for Medicare until the bill lands and they're already locked in for the year.
@@ -46,9 +46,9 @@ That's not a complaint about Medicare; I think it's genuinely one of the most va
 
 ## The First Thing I Tell Everyone: Check Whether You Qualify for Help
 
-Before we talk about plan optimization or drug cost tricks, I want to make sure you haven't missed something much bigger. There are federal and state programs specifically designed to reduce Medicare costs for people with limited income and resources, and they go dramatically underused. AARP estimates millions of eligible people aren't enrolled.
+Before we talk about plan optimization or drug cost tricks, I want to make sure you haven't missed something much bigger. There are federal and state programs specifically designed to reduce Medicare costs for people with limited income and resources, and they go dramatically underused. These programs go underused, and many eligible people never enroll.
 
-The big one is the Extra Help program (also called the Low Income Subsidy, or LIS). It helps pay for Part D prescription drug costs, including premiums, deductibles, and copays. Depending on your income and assets, it could save you $2,000 or more annually on drug costs alone. You apply through Social Security at ssa.gov or call 1-800-772-1213.
+The big one is the Extra Help program (also called the Low Income Subsidy, or LIS). It helps pay for Part D prescription drug costs, including premiums, deductibles, and copays. Depending on your income and assets, it could meaningfully lower your annual drug costs. You apply through Social Security at ssa.gov or call 1-800-772-1213.
 
 There's also the [Medicare Savings Program (MSP)](/medicare-savings-programs/), actually a group of four related programs, that can pay your Part B premium, deductibles, and copays if you meet income limits. The income thresholds are higher than most people expect, so don't rule yourself out before you check. Your state Medicaid office handles enrollment.
 
@@ -66,9 +66,9 @@ A lot of people pick a [Medicare Advantage plan (Part C)](/medicare-advantage-vs
 
 Conversely, some people buy the most expensive Medigap plan (Plan G is currently the most comprehensive for new enrollees) without doing the math on whether it makes sense for their health situation. If you're relatively healthy and rarely use medical services, a lower-premium supplement or even a Medicare Advantage plan with good cost-sharing might save you money.
 
-My honest take: do the math every single year during Open Enrollment (October 15 to December 7). Plans change. Your health changes. What was the right fit in 2023 might be costing you an extra $800 a year in 2026.
+My honest take: do the math every single year during Open Enrollment (October 15 to December 7). Plans change. Your health changes. What was the right fit a few years ago might be costing you hundreds of dollars more a year today.
 
-One worked example: A couple I know in their late 60s, both with controlled chronic conditions, were each on Medicare Advantage plans with $40 monthly premiums and decent networks. When I helped them compare plans during 2025 Open Enrollment, we found a competitor plan in their county with the same network, lower drug costs for their specific medications, and a $0 premium. They switched. Between the two of them, they saved about $960 per year in premiums, plus an estimated $600 in lower Part D copays. That's $1,560 a year, just from taking two hours to compare.
+One worked example: Consider a couple in their late 60s, both with controlled chronic conditions, each on a Medicare Advantage plan with a $40 monthly premium and a decent network. When they compare plans during Open Enrollment, they find a competing plan in their county with the same network, lower drug costs for their specific medications, and a $0 premium. If they switch, between the two of them they would save about $960 per year in premiums, plus an estimated $600 in lower Part D copays. That's $1,560 a year, just from taking two hours to compare.
 
 Medicare.gov has a free plan comparison tool where you can enter your specific drugs and dosages. Use it. Every year.
 
@@ -82,7 +82,7 @@ First: make sure your Part D plan actually covers your drugs at the lowest tier 
 
 Second: ask about generic alternatives. I know that sounds obvious, but I've watched people pay $90 a month for a brand-name drug when a therapeutically equivalent generic was available for $4. Your doctor can often prescribe the generic if you ask directly.
 
-Third: check GoodRx or similar discount programs. This surprises people, but sometimes paying cash with a discount card is cheaper than using your Part D coverage, particularly for common generics. You can't use GoodRx and Part D for the same prescription at the same time, but you can choose which one to use at the counter.
+Third: check GoodRx or similar discount programs. This surprises people, but sometimes paying cash with a discount card is cheaper than using your Part D coverage, particularly for common generics. You generally can't combine a discount card and Part D on the same fill, but you can choose which one to use at the counter.
 
 Fourth: manufacturer patient assistance programs. If you're on an expensive brand-name drug that has no generic, the manufacturer may have a program to reduce your out-of-pocket cost, even if you have Medicare. NeedyMeds.org is a good place to start searching. [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) also maintains a helpful guide on drug cost reduction strategies.
 

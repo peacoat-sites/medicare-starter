@@ -22,12 +22,12 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 Most people assume Medicare is either free or close to it once you hit 65. This assumption often costs seniors real money, sometimes thousands of dollars a year that they never had to spend.
 
-Here's what almost nobody tells you upfront: if your income is low enough, you might qualify for programs that pay your Medicare premiums, cover your deductibles and copays, and even help with your prescriptions. Completely. Not partially. All of it. And yet, according to Medicare.gov, millions of eligible people never apply because they simply don't know these programs exist.
+Here's what almost nobody tells you upfront: if your income is low enough, you might qualify for programs that pay your Medicare premiums, cover your deductibles and copays, and even help with your prescriptions. Completely. Not partially. All of it. And yet many eligible people never apply because they simply don't know these programs exist.
 
 Let me give you the real picture.
 
@@ -46,11 +46,11 @@ Let me give you the real picture.
 
 Standard Medicare breaks down into several pieces, and none of them are free.
 
-Part A covers hospital stays and is free if you or your spouse paid Medicare taxes for at least 10 years (40 quarters). If you didn't meet that threshold, you'll pay up to $505 a month in 2024. Most people have no idea that's even possible.
+Part A covers hospital stays and is free if you or your spouse paid Medicare taxes for at least 10 years (40 quarters). If you didn't meet that threshold, you'll pay up to $565 a month in 2026. Most people have no idea that's even possible.
 
-Part B handles doctor visits and outpatient services. $174.70 a month in 2024 for the vast majority of enrollees. It comes straight out of your Social Security check automatically. Then there's a $240 annual deductible before Part B coverage actually starts.
+Part B handles doctor visits and outpatient services. $202.90 a month in 2026 for the vast majority of enrollees. It comes straight out of your Social Security check automatically. Then there's a $283 annual deductible before Part B coverage actually starts.
 
-The stuff nobody budgets for properly is Part D (prescription drugs). It's got its own premium, its own deductible that can hit $615 in 2026, plus copays on top of that. A [Medicare Supplement plan (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/) to fill the gaps that Part A and B leave wide open runs $150 to $250 monthly depending on your age, where you live, and what your health history looks like.
+The stuff nobody budgets for properly is Part D (prescription drugs). It's got its own premium, its own deductible that can hit $615 in 2026, plus copays on top of that, though a $2,100 annual out-of-pocket cap now limits your total spending. A [Medicare Supplement plan (Medigap)](/medicare-advantage-vs-medicare-supplement-total-cost/) to fill the gaps that Part A and B leave wide open runs $150 to $250 monthly depending on your age, where you live, and what your health history looks like.
 
 All together? A senior with zero financial assistance could be paying $500 to $600 a month just on Medicare before they pick up a single prescription or see a specialist. On Social Security income of $1,500 to $1,800 a month, that's devastating.
 
@@ -66,7 +66,7 @@ Medicare Savings Programs (MSPs) are run by individual states with federal fundi
 
 **Qualified Medicare Beneficiary (QMB):** The top tier. If you qualify, this program covers your Part A and Part B premiums, your deductibles, your coinsurance, and every copay. Providers accepting Medicare can't legally bill you for cost-sharing if you have QMB status. In 2024 the income limit sits around $1,275 monthly for an individual ($1,724 for a couple), though most states go higher.
 
-**Specified Low-Income Medicare Beneficiary (SLMB):** This one covers your Part B premium only. Higher income ceiling, roughly $1,526 a month for an individual in 2024.
+**Specified Low-Income Medicare Beneficiary (SLMB):** This one covers your Part B premium only. Higher income ceiling, roughly $1,528 a month for an individual in 2024.
 
 **Qualifying Individual (QI):** Also pays your Part B premium. Even higher income limit at around $1,715 a month for an individual. The catch? QI gets limited funding and operates on a first-come, first-served basis annually. Apply early.
 
@@ -82,9 +82,9 @@ To apply, contact your state Medicaid office. Find the number through Medicare.g
 
 Extra Help (also the Low-Income Subsidy) is separate from the Medicare Savings Programs. It targets Part D prescription costs specifically.
 
-Extra Help pays most or all of your Part D premium, wipes out your deductible, and slashes copays. At full benefit level in 2024, you cap out at $4.50 for generics and $11.20 for brand drugs. For the entire year. Not per month.
+Extra Help pays most or all of your Part D premium, wipes out your deductible, and slashes copays. At full benefit level in 2026, you cap out at $5.10 for generics and $12.65 for brand drugs per prescription. Not per month, and not for the entire year.
 
-The income limits are higher than you'd think, roughly $22,590 yearly for an individual or $30,660 for a married couple in 2024 (150% of federal poverty line). Social Security handles the application. Apply online at ssa.gov, call, or walk into your local Social Security office.
+The income limits are higher than you'd think, roughly $23,475 yearly for an individual or $31,725 for a married couple in 2026 (150% of federal poverty line). Social Security handles the application. Apply online at ssa.gov, call, or walk into your local Social Security office.
 
 Here's the part people routinely miss: if you already qualify for any Medicare Savings Program, you automatically get Extra Help too. No separate application needed. That's massive and most people never claim it.
 
@@ -104,7 +104,7 @@ I'll be straight with you: dual eligibility is phenomenal coverage, but coordina
 
 Almost every time I talk to someone about these programs, eventually they ask: "But they check my savings, right? I can't have anything in the bank?"
 
-It depends on the program. Extra Help has asset limits of $17,220 for an individual and $34,360 for a couple in 2024. Certain things don't count: your home, one car, household goods, and life insurance under $1,500 face value.
+It depends on the program. Extra Help has asset limits of $18,090 for an individual and $36,100 for a couple in 2026. Certain things don't count: your home, one car, household goods, and life insurance under $1,500 face value.
 
 For Medicare Savings Programs, rules vary state to state. Some states ditched asset tests entirely for MSPs, which was huge. Others still use them but the thresholds are often higher than people expect.
 

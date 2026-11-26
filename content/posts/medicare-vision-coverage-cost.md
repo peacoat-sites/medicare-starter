@@ -10,7 +10,7 @@ tags: ["medicare", "vision", "coverage", "cost"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-vision-coverage-cost"
 affiliate_disclosure: true
 faqs:
@@ -53,7 +53,7 @@ That last point matters more than people realize. If your ophthalmologist discov
 
 What Medicare absolutely won't touch: annual [eye exams](/does-medicare-cover-eye-exams/) to update your glasses prescription, the glasses themselves, contact lenses outside of post-cataract situations, or any kind of low-vision aids. Period.
 
-Neither is covered for routine care under Original Medicare.
+Routine eye exams, glasses and contacts are all excluded under Original Medicare.
 
 ## The Real Costs You're Looking At
 
@@ -78,7 +78,7 @@ Also: macular degeneration injections are not a one-time thing. Patients receivi
 
 If you want routine vision coverage as a Medicare beneficiary, the realistic path for most people is a Medicare Advantage plan (Part C). These are private plans that provide at least the same benefits as Original Medicare but often add extras: dental, hearing, fitness, and yes, vision.
 
-As of July 2026, over 54% of Medicare beneficiaries are enrolled in Medicare Advantage plans, according to KFF (formerly the Kaiser Family Foundation). And the majority of those plans include some form of vision benefit.
+A majority of Medicare beneficiaries now choose Medicare Advantage plans, and most of those plans include some form of vision benefit.
 
 What "vision benefit" means varies enormously by plan. Here's the range I typically see:
 
@@ -88,7 +88,7 @@ What "vision benefit" means varies enormously by plan. Here's the range I typica
 
 The catch, and it's a real one: most Advantage plans use a network, usually VSP (Vision Service Plan) or EyeMed. If your eye doctor isn't in the network, you'll pay out-of-network rates, which can wipe out the benefit entirely. For example, if your local optometrist isn't covered, you may need to travel a significant distance to find a participating provider. That's a real tradeoff.
 
-**Scenario → Action → Result:** Robert, 71, in rural North Carolina, was on Original Medicare with a Medigap (supplemental) plan. His annual eye exam ran $175 out of pocket. He switched to a Medicare Advantage plan with a $0 premium and a $150 vision allowance. First year, his net vision cost dropped to about $40. But his ophthalmologist wasn't in the Advantage plan network, so when he needed follow-up for a suspicious retinal spot, he paid $225 out of network instead of the $35 copay he'd expected. Total year: he roughly broke even. The lesson isn't that Advantage is bad; it's that you have to verify your specific doctors before you switch.
+**Scenario → Action → Result:** Consider a hypothetical 71-year-old in rural North Carolina on Original Medicare with a Medigap (supplemental) plan. His annual eye exam runs $175 out of pocket. He switches to a Medicare Advantage plan with a $0 premium and a $150 vision allowance. In the first year, his net vision cost drops to about $40. But his ophthalmologist isn't in the Advantage plan network, so when he needs follow-up for a suspicious retinal spot, he pays $225 out of network instead of the $35 copay he'd expected. Total year: he roughly breaks even. The lesson isn't that Advantage is bad; it's that you have to verify your specific doctors before you switch.
 
 You can compare Advantage plans side-by-side on [Medicare.gov](https://www.medicare.gov/) using the plan finder tool. Filter by your county and check the "vision" benefit category specifically. The plan details are right there, though they can be dense.
 
@@ -106,7 +106,7 @@ One thing most people don't realize: many of these standalone plans have a waiti
 
 This is genuinely one of those areas where talking to a real human saves money. [The State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/) provides free, unbiased Medicare counseling in every state. These aren't salespeople. They don't earn commissions. They'll sit with you, look at your specific doctors, medications, and budget, and help you figure out whether Advantage or a Medigap-plus-standalone-vision combo actually makes sense for you. SHIP counseling is free, so there is little to lose by asking for a review of your options.
 
-**Scenario → Action → Result:** Margaret, 73, from suburban Chicago, was spending about $520 a year on glasses and eye exams with no coverage. A SHIP counselor helped her find a $0-premium Advantage plan in her county with a $250 vision allowance and VSP network access. Her eye doctor was in-network. Her annual out-of-pocket vision cost dropped to roughly $80. Two years in, she's still happy with the switch.
+**Scenario → Action → Result:** Consider a hypothetical 73-year-old in suburban Chicago who spends about $520 a year on glasses and eye exams with no coverage. A SHIP counselor helps her find a $0-premium Advantage plan in her county with a $250 vision allowance and VSP network access. Her eye doctor is in-network. Her annual out-of-pocket vision cost drops to roughly $80.
 
 *Note: These are estimated annual costs for a typical senior needing one exam and one pair of single-vision glasses. Actual costs vary by plan, location, and prescription needs.*
 

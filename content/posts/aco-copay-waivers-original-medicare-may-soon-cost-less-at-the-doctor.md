@@ -1,6 +1,7 @@
 ---
 title: "ACO Copay Waivers: Original Medicare May Soon Cost Less at the Doctor"
 date: 2026-11-24T01:38:25.333440+00:00
+lastmod: 2026-11-26
 draft: false
 description: "ACO copay waivers could reduce your Original Medicare costs at A office. Learn how these changes may lower your out-of-pocket expenses."
 image: "/img/heroes/39192333.jpg"
@@ -9,14 +10,14 @@ tags: ["copay", "waivers:", "original", "medicare", "soon"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "aco-copay-waivers-original-medicare-may-soon-cost-less-at-the-doctor"
 affiliate_disclosure: true
 ---
 
 Something quiet happened on November 4, 2026, and most Medicare beneficiaries haven't heard about it yet. Buried inside the Centers for Medicare and Medicaid Services (CMS) final rule for the CY 2027 Physician Fee Schedule is a provision that could genuinely change what you pay at the doctor's office, starting as soon as April 1, 2027. If your doctor belongs to an Accountable Care Organization (ACO, a group of doctors and hospitals that coordinate your care and share in Medicare savings), that ACO may soon have the power to reduce or even eliminate your Part B copays entirely.
 
-Part B is the piece of Original [Medicare that covers](/what-does-medicare-cover/) outpatient care: doctor visits, lab tests, preventive services, outpatient surgeries, and more. Right now, the standard deal is that Medicare pays 80% and you pay 20%. No cap. That 20% adds up fast, and it's one of the biggest reasons people choose Medicare Advantage (MA, the private managed-care alternative) over Original Medicare. MA plans often layer in lower copays at the point of care. This new ACO copay waiver rule is a direct answer to that. CMS is giving Original Medicare a tool to compete on cost without pushing beneficiaries into a private network.
+Part B is the piece of Original [Medicare that covers](/what-does-medicare-cover/) outpatient care: doctor visits, lab tests, preventive services, outpatient surgeries, and more. Right now, the standard deal is that Medicare pays 80% and you pay 20%. No cap. That 20% adds up fast, and it is a common reason people consider Medicare Advantage (MA, the private managed-care alternative) over Original Medicare. MA plans often layer in lower copays at the point of care. This new ACO copay waiver rule is a direct answer to that. CMS is giving Original Medicare a tool to compete on cost without pushing beneficiaries into a private network.
 
 According to the [CMS fact sheet on the CY 2027 Physician Fee Schedule final rule](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-final-rule-cms-1848-f-medicare-shared-savings), ACOs in the Medicare Shared Savings Program (MSSP) can apply to CMS for approval to waive or reduce cost-sharing for most Part B services. Applications open in early 2027, waivers take effect in Q2 2027, and the broader benchmarking changes in the same rule are projected to generate $5.5 billion in net federal savings over 10 years.
 
@@ -30,7 +31,7 @@ You don't join an ACO the way you join an MA plan. CMS assigns you to one based 
 
 ## What the Waiver Covers, and What It Doesn't
 
-The rule is specific about scope. ACOs can waive or reduce cost-sharing for most Original [Medicare Part](/medicare-part-c-explained/) B items and services. That includes office visits, preventive care, outpatient procedures, mental health services, and similar care. Three categories are explicitly excluded: durable medical equipment (DME, things like wheelchairs and walkers), prosthetics and orthotics, and Part B drugs (medications administered in a clinical setting, like infusion therapies or chemotherapy).
+The rule is specific about scope. ACOs can waive or reduce cost-sharing for most Original [Medicare Part](/medicare-part-c-explained/) B items and services. That includes office visits, preventive care, outpatient procedures, mental health services, and similar care. Three categories are excluded under the final rule: durable medical equipment (DME, things like wheelchairs and walkers), prosthetics and orthotics, and Part B drugs (medications administered in a clinical setting, like infusion therapies or chemotherapy).
 
 | Category | Waiver Allowed? |
 |---|---|

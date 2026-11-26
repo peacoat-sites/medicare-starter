@@ -16,7 +16,7 @@ faqs:
  - q: "How do I know if I'm already enrolled in Extra Help?"
    a: "Check any letters you've received from the SSA or from CMS. You can also call 1-800-MEDICARE and ask. If you're enrolled in Medicaid or SSI, you're almost certainly already receiving it."
  - q: "If I qualify mid-year, can I change my drug plan?"
-   a: "Yes. Qualifying for Extra Help gives you a Special Enrollment Period (SEP) that lets you switch Part D or Medicare Advantage plans at any time, once per quarter during the first three quarters of the year. You don't have to wait for the annual October enrollment window."
+   a: "Yes. Qualifying for Extra Help gives you a Special Enrollment Period (SEP) that lets you switch Part D plans. You don't have to wait for the annual enrollment window that runs October 15 to December 7."
  - q: "What happens to my Extra Help if my income goes up?"
    a: "The SSA reviews your eligibility each year using IRS data. If your income rises above the limit, you'll receive a notice and your subsidy may be reduced or ended. You can provide updated information to the SSA if their data doesn't reflect your current situation accurately. And if your income later decreases again, you can reapply."
  - q: "What are the extra Medicare programs that help with costs?"
@@ -26,7 +26,7 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 lastmod: 2026-11-26
 ---
 Many people on fixed incomes discover their prescription drug plan costs several hundred dollars a month, only to learn later that a program could have reduced those costs to almost nothing. It's common for people who qualify to be unaware the program exists or that they're eligible for it.
@@ -41,7 +41,7 @@ Extra Help is a federal program run by the Social Security Administration that h
 
 [Medicare Part D](/best-medicare-part-d-plans-2026/) is the prescription drug benefit. It comes with monthly premiums, annual deductibles, and copays each time you fill a prescription. Without Extra Help, those costs pile up fast, especially if you take multiple medications or specialty drugs. Extra Help was created specifically to make sure lower-income Medicare beneficiaries aren't forced to choose between groceries and prescriptions.
 
-Here's what most people don't realize: this program covers a lot. Qualifying beneficiaries can see their Part D costs reduced dramatically, including the monthly premium, the annual deductible, and the copays at the pharmacy. Depending on your income and assets, you may pay as little as a few dollars per prescription or nothing at all for certain generic drugs. The federal government caps these costs each year, and for 2024, copays for Extra Help recipients are capped at $4.50 for generic drugs and $11.20 for brand-name drugs (these figures update annually, so always verify current amounts at [Medicare.gov](https://www.medicare.gov/)).
+Here's what most people don't realize: this program covers a lot. Qualifying beneficiaries can see their Part D costs reduced dramatically, including the monthly premium, the annual deductible, and the copays at the pharmacy. Depending on your income and assets, you may pay as little as a few dollars per prescription or nothing at all for certain generic drugs. The federal government caps these costs each year, and for 2026, copays for Extra Help recipients are capped at $5.10 for generic drugs and $12.65 for brand-name drugs (these figures update annually, so always verify current amounts at [Medicare.gov](https://www.medicare.gov/)).
 
 ---
 
@@ -51,11 +51,11 @@ Most people assume they won't qualify and stop reading. Please don't. The income
 
 The SSA looks at two things: your income and your resources (assets).
 
-For income, the general guideline is earning below 150% of the Federal Poverty Level. For a single person in 2024, that's roughly $21,900 per year. For a married couple, it's higher. These thresholds shift yearly, so treat these as ballpark figures and check ssa.gov or [Medicare.gov](https://www.medicare.gov/) for current numbers.
+For income, the general guideline is earning below 150% of the Federal Poverty Level. For 2026, the income limit is about $23,475 for a single person and $31,725 for a married couple (higher in Alaska and Hawaii). These thresholds shift yearly, so check ssa.gov or [Medicare.gov](https://www.medicare.gov/) for current numbers.
 
-For resources, the SSA looks at bank accounts, stocks, and bonds. Your home, one car, personal belongings, and life insurance aren't counted. For 2024, the resource limit is roughly $16,600 for an individual and $33,240 for a married couple.
+For resources, the SSA looks at bank accounts, stocks, and bonds. Your home, one car, personal belongings, and life insurance aren't counted. For 2026, the resource limit is $18,090 for an individual and $36,100 for a married couple (these include $1,500 per person for burial expenses).
 
-Here's an important change: in 2024, the Centers for Medicare and Medicaid Services eliminated what used to be called "partial" Extra Help. Now there are two tiers: full Extra Help and partial Extra Help. People who previously got partial benefits may now qualify for full benefits. If you received Extra Help before and were told you got a reduced amount, check your eligibility again.
+Here's an important change: in 2024, the Centers for Medicare and Medicaid Services eliminated what used to be called "partial" Extra Help. Now there is only one tier: full Extra Help. People with income below 150% of the federal poverty level who meet the resource limit qualify for full benefits, so people who previously got partial benefits may now qualify for full benefits. If you received Extra Help before and were told you got a reduced amount, check your eligibility again.
 
 A few groups get automatic enrollment. If you're enrolled in Medicaid, receive Supplemental Security Income (SSI), or are in a Medicare Savings Program (MSP), you're automatically eligible for full Extra Help without a separate application.
 
@@ -92,25 +92,25 @@ The SSA sends you a letter with their decision. If you're approved, they'll noti
 
 ## What Extra Help Actually Covers, Broken Down
 
-| Cost Category | Without Extra Help | With Full Extra Help (2024) |
+| Cost Category | Without Extra Help | With Full Extra Help (2026) |
 |---|---|---|
 | Monthly Part D premium | You pay full premium | Covered up to benchmark amount |
-| Annual deductible | Up to $545 | $0 |
-| Copay for generic drugs | Varies by plan | $4.50 or less |
-| Copay for brand-name drugs | Varies by plan | $11.20 or less |
+| Annual deductible | Up to $615 | $0 |
+| Copay for generic drugs | Varies by plan | $5.10 or less |
+| Copay for brand-name drugs | Varies by plan | $12.65 or less |
 | Coverage gap ("donut hole") costs | You pay a percentage | Eliminated entirely |
 
 The details matter here.
 
-| Cost Category | Without Extra Help | With Full Extra Help (2024) |
+| Cost Category | Without Extra Help | With Full Extra Help (2026) |
 |---|---|---|
 | Monthly [Part D premium](/medicare-part-d-premium-2026/) | You pay full premium | Covered up to benchmark amount |
-| Annual deductible | Up to $545 | $0 |
-| Copay for generic drugs | Varies by plan | $4.50 or less |
-| Copay for brand-name drugs | Varies by plan | $11.20 or less |
+| Annual deductible | Up to $615 | $0 |
+| Copay for generic drugs | Varies by plan | $5.10 or less |
+| Copay for brand-name drugs | Varies by plan | $12.65 or less |
 | Coverage gap ("donut hole") costs | You pay a percentage | Eliminated entirely |
 
-The coverage gap, also called the "donut hole," used to be a major financial hit. With Extra Help, it doesn't apply to you at all. That's significant protection.
+The coverage gap, also called the "donut hole," used to be a major financial hit. It no longer exists for anyone: since 2025, Part D has an annual out-of-pocket cap, which is $2,100 in 2026. Extra Help keeps your costs well below that cap.
 
 About the premium benefit: Extra Help covers your Part D premium up to the "benchmark" amount, which is based on the average premium for plans in your region. If you choose a plan below the benchmark, you pay nothing. Pick one above it, and you pay the difference. Plan selection still matters even with Extra Help. [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has a helpful guide on choosing Part D plans.
 

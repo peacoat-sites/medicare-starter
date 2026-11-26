@@ -1,6 +1,7 @@
 ---
 title: "Medicare Advantage Plan Exits Are Accelerating Into 2027"
 date: 2026-07-10T16:34:20.113278+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Medicare Advantage plan exits are rising heading into 2027. Learn what these changes mean for beneficiaries, coverage options, and how to prepare for open enrol"
 image: "/img/heroes/8439679.jpg"
@@ -9,14 +10,14 @@ tags: ["medicare", "advantage", "plan", "exits", "accelerating"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-advantage-plan-exits-are-accelerating-into-2027"
 affiliate_disclosure: true
 ---
 
 Most coverage of the Medicare Advantage shakeout focuses on what already happened. That's the wrong lens. What matters right now, in July 2026, is what's coming, and whether your plan is likely to survive it intact.
 
-Here's the situation plainly: a Johns Hopkins Bloomberg School of Public Health study published in February found that approximately 2.9 million Medicare Advantage enrollees faced forced disenrollment in 2026, a forced disenrollment rate of roughly 10%. To put that in perspective, the average forced disenrollment rate between 2018 and 2024 was just over 1%. That's not a blip. That's a structural shift. And the funding picture heading into 2027 suggests the exits aren't done.
+Here's the situation plainly: a Johns Hopkins Bloomberg School of Public Health study published in February found that roughly 1 in 10 Medicare Advantage enrollees faced forced disenrollment in 2026. That's not a blip. That's a structural shift. And the funding picture heading into 2027 suggests the exits aren't done.
 
 ## The Funding Math That's Driving This
 
@@ -30,7 +31,7 @@ The plan-count data confirms the trend. According to KFF analysis, the average M
 
 ## Vermont Is the Canary
 
-No state shows the pressure more starkly. Vermont is on track to see 92.2% of its Medicare Advantage enrollees lose coverage in 2026, per research published in AJMC in June. That's a second consecutive year of major insurer exits in a small state where the risk pool never made the math attractive for large national carriers.
+No state shows the pressure more starkly. Vermont has seen among the heaviest insurer exits in the country, per research published in AJMC in June. That's a second consecutive year of major insurer exits in a small state where the risk pool never made the math attractive for large national carriers.
 
 Vermont is an extreme case. But the underlying dynamic, insurers exiting markets where margins are too thin or enrollment too small to justify the administrative cost, is playing out in rural counties and smaller metro areas across the country. If your plan serves a relatively small geographic footprint, that's a risk factor worth taking seriously.
 

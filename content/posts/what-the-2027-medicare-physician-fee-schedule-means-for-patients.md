@@ -1,6 +1,7 @@
 ---
 title: "What the 2027 Medicare Physician Fee Schedule Means for Patients"
 date: 2026-07-23T16:03:25.534751+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Understand how the 2027 Medicare Physician Fee Schedule impacts your healthcare costs, access to care, and doctor reimbursements. Learn what patients need to kn"
 image: "/img/heroes/6285399.jpg"
@@ -9,7 +10,7 @@ tags: ["what", "2027", "medicare", "physician", "schedule"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "what-the-2027-medicare-physician-fee-schedule-means-for-patients"
 affiliate_disclosure: true
 ---
@@ -20,11 +21,11 @@ CMS, the Centers for Medicare & Medicaid Services, dropped this [proposed rule](
 
 What surprised me was how many moving parts there are this cycle, even by the standards of a policy area known for complexity. Let me break down what actually matters for patients.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed the 2027 Physician Fee Schedule on July 14, 2026; public comments due September 14, 2026.</li><li style="margin:5px 0">The conversion factor drops to $32.84 for most doctors, a 1.68% cut from 2026 rates.</li><li style="margin:5px 0">APM-participating doctors get a slightly higher rate: $33.1693, a 1.19% cut.</li><li style="margin:5px 0">Mental health telehealth waivers (no in-person visit required) extended through December 31, 2027.</li><li style="margin:5px 0">A mandatory new Ambulatory Specialty Model launches January 1, 2027.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">CMS proposed the 2027 Physician Fee Schedule on July 14, 2026; public comments due September 14, 2026.</li><li style="margin:5px 0">The proposed conversion factor is $32.84 for most doctors, a cut from 2026 rates.</li><li style="margin:5px 0">APM-participating doctors get a slightly higher proposed rate: $33.1693, also a cut from 2026.</li><li style="margin:5px 0">Mental health telehealth waivers (no in-person visit required) extended through December 31, 2027.</li><li style="margin:5px 0">A mandatory new Ambulatory Specialty Model launches January 1, 2027.</li></ul></div>
 
 ## The Pay Cut That Affects Whether Your Doctor Stays in Medicare
 
-Here's the number that matters most. The proposed conversion factor, which is the dollar multiplier that drives essentially every Medicare physician payment, drops to $32.84 for doctors who don't participate in qualifying alternative payment models. That's a 1.68% cut from 2026. Doctors in qualifying APMs (Alternative Payment Models, which are structured arrangements rewarding value over volume) fare slightly better at $33.1693, a 1.19% reduction.
+Here's the number that matters most. The proposed conversion factor, which is the dollar multiplier that drives essentially every Medicare physician payment, drops to $32.84 for doctors who don't participate in qualifying alternative payment models. That's the rate CMS proposed for 2027, down from 2026. Doctors in qualifying APMs (Alternative Payment Models, which are structured arrangements rewarding value over volume) fare slightly better at $33.1693, a 1.19% reduction.
 
 I'll be honest: these percentages sound small. But applied across thousands of patient visits, they represent real erosion of physician income in a year when practice costs continue to climb. The [CMS fact sheet released July 14](https://www.cms.gov/newsroom/fact-sheets/calendar-year-cy-2027-medicare-physician-fee-schedule-proposed-rule) confirms both figures, and analysts at [Holland & Knight noted](https://www.hklaw.com/en/insights/publications/2026/07/cms-issues-cy-2027-medicare-physician-fee-schedule-proposed-rule) that this continues a pattern of downward pressure on physician reimbursement.
 
@@ -32,8 +33,8 @@ Why does that affect you? Because when Medicare pays doctors less, some of them 
 
 | Provider Type | 2027 Proposed Conversion Factor | Change from 2026 |
 | --- | --- | --- |
-| Non-qualifying providers | $32.84 | -1.68% |
-| Qualifying APM participants | $33.1693 | -1.19% |
+| Non-qualifying providers | $32.84 | Cut |
+| Qualifying APM participants | $33.1693 | Smaller cut |
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2027 Medicare Conversion Factor by Provider Type</div><div class="sc-row"><span class="sc-label">Non-APM Providers</span><span class="sc-track"><span class="sc-bar" style="width:99%"></span></span><span class="sc-val">$32.8</span></div><div class="sc-row"><span class="sc-label">APM Participants</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$33.2</span></div><div class="sc-src">Source: CMS Proposed Rule, July 14, 2026</div></div>
 

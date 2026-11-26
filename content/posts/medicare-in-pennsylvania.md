@@ -1,7 +1,7 @@
 ---
 title: "Medicare in Pennsylvania: Your Complete Coverage Guide"
 date: 2026-07-24T15:39:29.426176+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn how to navigate Medicare in Pennsylvania, including enrollment options, coverage details, and resources to help you make the right healthcare decisions."
 image: "/img/heroes/4173244.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "pennsylvania"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-in-pennsylvania"
 affiliate_disclosure: true
 faqs:
@@ -26,7 +26,7 @@ faqs:
     a: "If you're enrolled in the QMB (Qualified Medicare Beneficiary) program, providers cannot legally bill you for Medicare cost-sharing. If you receive such a bill, don't pay it without first calling 1-800-MEDICARE (1-800-633-4227). The billing is a violation of program rules, and Medicare can intervene on your behalf."
 ---
 
-Many people in Pennsylvania leave money on the table because they don't know the state has its own Medicare assistance programs. For example, someone on a fixed income paying a $214 monthly Part B premium might qualify for a program that would cover every penny of it, but without knowing to ask, they'd never find out.
+Many people in Pennsylvania leave money on the table because they don't know the state has its own Medicare assistance programs. For example, someone on a fixed income paying the $202.90 monthly Part B premium might qualify for a program that would cover every penny of it, but without knowing to ask, they'd never find out.
 
 That's the thing about Medicare in Pennsylvania. The federal rules apply to everyone, yes. But Pennsylvania layers on programs, resources, and protections that many states simply don't offer, and if you don't know they exist, you won't use them. Let me walk you through what actually matters here.
 
@@ -52,7 +52,7 @@ What does it get you? Under PACE, you pay a $6 to $9 copay per prescription, per
 
 PACE/PACENET coordinates with [Medicare Part](/best-medicare-part-d-plans-2026/) D in a specific way that sometimes confuses people. In most cases, PACE/PACENET acts as secondary coverage, meaning Part D pays first and then PACE/PACENET covers what's left, including your copays. If you're not enrolled in Part D and you're eligible for it, enrolling can actually help PACE/PACENET cover you better. A common mistake is skipping Part D because you think PACE makes it unnecessary, but that's backwards.
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated monthly Rx copays: PACE vs. PACENET vs. typical Part D (no extra help)</div><div class="sc-row"><span class="sc-label">PACE copay (per drug)</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">$7</span></div><div class="sc-row"><span class="sc-label">PACENET copay (per drug)</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$12</span></div><div class="sc-row"><span class="sc-label">Typical Part D (generic)</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$10</span></div><div class="sc-row"><span class="sc-label">Typical Part D (brand-name, no extra help)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$47</span></div><div class="sc-src">Source: Pennsylvania Department of Aging 2026 program guidelines / CMS Part D data</div></div>
+<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated monthly Rx copays: PACE vs. PACENET vs. typical Part D (no extra help)</div><div class="sc-row"><span class="sc-label">PACE copay (per drug)</span><span class="sc-track"><span class="sc-bar" style="width:15%"></span></span><span class="sc-val">$7</span></div><div class="sc-row"><span class="sc-label">PACENET copay (per drug)</span><span class="sc-track"><span class="sc-bar" style="width:26%"></span></span><span class="sc-val">$12</span></div><div class="sc-row"><span class="sc-label">Typical Part D (generic)</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$10</span></div><div class="sc-row"><span class="sc-label">Typical Part D (brand-name, no extra help)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$47</span></div><div class="sc-src">Illustrative copay examples only; actual costs vary by plan and drug.</div></div>
 
 ## APPRISE: Free Help That's Actually Good
 
@@ -62,7 +62,7 @@ APPRISE is Pennsylvania's State Health Insurance Assistance Program (often calle
 
 The AARP Medicare resource center (https://www.aarp.org/health/medicare-insurance/) also has solid plan comparison tools, though I still lean toward having a human walk you through the numbers for anything complex. To find your local APPRISE office, call the PDA Helpline at 1-800-753-8827 or search by county at aging.pa.gov.
 
-A reader from Lancaster County emailed me last winter after switching plans with the help of an APPRISE counselor. She'd been on a Medicare Advantage plan with a $0 premium and thought she was saving money. The counselor pulled up her actual claims and showed her she'd paid $2,340 out-of-pocket the prior year in copays for specialist visits and a short hospital stay. A different plan with a $47 monthly premium would have capped her costs at $1,200. She made the switch during Open Enrollment and came out roughly $900 ahead that year.
+Consider a hypothetical Lancaster County resident who switched plans with the help of an APPRISE counselor. She'd been on a Medicare Advantage plan with a $0 premium and thought she was saving money. The counselor pulled up her actual claims and showed her she'd paid $2,340 out-of-pocket the prior year in copays for specialist visits and a short hospital stay. A different plan with a $47 monthly premium would have capped her costs at $1,200. She made the switch during Open Enrollment and came out roughly $900 ahead that year.
 
 ## Choosing a Plan in Pennsylvania
 
@@ -80,7 +80,7 @@ This is a genuine choice with real tradeoffs, not a simple answer. Original Medi
 |---|---|---|
 | Monthly premium (rough range in PA) | $202.90 Part B + $80-$250 Medigap | $202.90 Part B + $0-$80 plan premium |
 | Provider access | Any provider accepting Medicare | Network-based (HMO or PPO) |
-| Out-of-pocket maximum | Varies by Medigap plan (some cap at ~$3,500) | Set by plan (up to $8,850 in-network, 2026) |
+| Out-of-pocket maximum | Varies by Medigap plan (Plans K and L cap at $8,000 and $4,000 in 2026) | Set by plan (up to $9,250 in-network, 2026) |
 | Dental/vision/hearing coverage | Separate policy needed | Often included |
 | Prescription drug coverage | Need separate Part D plan | Usually included |
 | Works well if you... | Travel frequently, see specialists, want predictability | Stay local, prefer one-card simplicity, are generally healthy |
@@ -104,7 +104,7 @@ Applying for these goes through your county assistance office in Pennsylvania, n
 
 ## Enrollment Timing Still Trips People Up
 
-I thought I understood this completely until a situation came up with my own family that taught me otherwise. My brother-in-law retired at 68, stayed on his employer coverage until then, and assumed his Special Enrollment Period (the 8-month window after losing employer coverage) would automatically protect him from the Part B late enrollment penalty. What he nearly missed: the SEP starts when employer coverage ends, not when you stop working. If your company keeps you on a retiree health plan for a few months after retirement, that's a different situation than employer-sponsored active coverage, and the rules aren't identical.
+Consider someone who retired at 68, stayed on employer coverage until then, and assumed the Special Enrollment Period (the 8-month window after losing employer coverage) would automatically protect against the Part B late enrollment penalty. What he nearly missed: the SEP starts when employer coverage ends, not when you stop working. If your company keeps you on a retiree health plan for a few months after retirement, that's a different situation than employer-sponsored active coverage, and the rules aren't identical.
 
 The general enrollment periods everyone needs to know in Pennsylvania:
 

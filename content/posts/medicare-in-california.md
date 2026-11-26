@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 You'd think that living in one of the wealthiest, most populous states in the country would make Medicare simpler. More options, more competition, better coverage. And honestly, for many Californians, that's exactly true. California's sheer size and diversity can actually make Medicare more confusing, not less. Your ZIP code matters enormously. A Medicare Advantage plan that's highly rated in Los Angeles County might not even be available in Shasta County. A doctor who's in-network in San Diego could be out-of-network if you spend winters in Palm Springs. Many California seniors are surprised by the number of Medicare decisions involved, especially if they're comparing their experience to friends in smaller states.
 
@@ -66,11 +66,11 @@ Here's how the main options break down:
 | Qualified Medicare Beneficiary (QMB) | Lower income, limited assets | Part A and B premiums, deductibles, and cost-sharing |
 | Specified Low-Income Medicare Beneficiary (SLMB) | Slightly higher income | Part B premium only |
 | Qualifying Individual (QI) | Higher income than SLMB | Part B premium only |
-| Low Income Subsidy (LIS) / Extra Help | Limited income and resources | Reduces Part D drug costs significantly |
+| Low Income Subsidy (LIS) / Extra Help | Limited income and resources | Reduces Part D drug costs significantly; this is a federal program separate from the Medicare Savings Programs above |
 
 Income and asset thresholds change annually. The best way to check eligibility is to contact your local county social services office or call California's Medi-Cal line directly.
 
-California also has a program called the Medicare Savings Program that's worth checking even if you think you earn too much to qualify. The state has expanded eligibility in recent years, and the asset limits are more generous than many people expect.
+The Medicare Savings Programs described above are worth checking even if you think you earn too much to qualify. The state has expanded eligibility in recent years, and the asset limits are more generous than many people expect.
 
 Beyond these programs, California beneficiaries can access free, unbiased counseling through HICAP, which stands for Health Insurance Counseling and Advocacy Program. HICAP is California's version of the national [State Health Insurance Assistance Program (SHIP)](https://www.shiphelp.org/), and their counselors are not paid commission, meaning they have no financial interest in steering you toward any particular plan. If you're confused about your options, calling HICAP is one of the best moves you can make.
 
@@ -78,7 +78,7 @@ Beyond these programs, California beneficiaries can access free, unbiased counse
 
 The enrollment process itself trips people up, especially around timing. Missing your window can mean paying a penalty for years or going months without coverage.
 
-**Step 1: Know your Initial Enrollment Period (IEP).** When you turn 65, you have a 7-month window: 3 months before your birthday month, your birthday month itself, and 3 months after. Enroll during the first 3 months to make sure coverage starts on time.
+**Step 1: Know your Initial Enrollment Period (IEP).** When you turn 65, you have a 7-month window: 3 months before your birthday month, your birthday month itself, and 3 months after. Enroll during the first 3 months before your birthday month to make sure coverage starts on time.
 
 **Step 2: Determine whether you have creditable coverage.** If you or your spouse is still working and covered by employer insurance, you may be able to delay Part B without penalty. But this only applies to active employer coverage, not retiree coverage. Getting this distinction wrong is one of the most common and costly mistakes I see.
 

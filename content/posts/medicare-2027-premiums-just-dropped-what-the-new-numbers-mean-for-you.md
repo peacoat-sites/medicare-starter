@@ -1,23 +1,23 @@
 ---
-title: "Medicare 2027 Premiums Just Dropped: What the New Numbers Mean for You"
+title: "Medicare 2027 Premiums Are Out: What the New Numbers Mean for You"
 date: 2026-11-18T21:51:52.539596+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
-description: "Medicare 2027 premiums have decreased significantly. Learn how the new rates affect your coverage costs, benefits, and what changes you need to know about."
+description: "CMS set the 2027 Part B premium at $209.40 a month, up $6.50, with a $292 deductible. See the 2027 IRMAA tiers, Part D changes and what to do before December 7."
 image: "/img/heroes/4386366.jpg"
 categories: ["trending"]
-tags: ["medicare", "2027", "premiums", "just", "dropped:"]
+tags: ["Medicare", "2027", "premiums", "IRMAA"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-2027-premiums-just-dropped-what-the-new-numbers-mean-for-you"
 affiliate_disclosure: true
 ---
 
 The official numbers are finally here. On November 17, 2026, the Centers for Medicare & Medicaid Services (CMS) released the 2027 Medicare cost figures, and the timing couldn't be tighter: the [Annual Enrollment Period](/medicare-annual-enrollment-period-dates-2026/) (AEP) closes on December 7, just 20 days away. If you're still comparing plans or wondering whether to switch, these are the real numbers you've been waiting for.
 
-The headline is reasonably good news. The standard [Medicare Part](/best-medicare-part-d-plans-2026/) B premium, which covers outpatient care, doctor visits, and preventive services, rises to $209.40 per month in 2027, up $6.50 from $202.90 this year. That's a 3.2% increase, and it's a noticeable contrast to the $17.90 jump absorbed for 2026. AARP called it only a slight increase, and that framing feels accurate. Still, "smaller than last year" doesn't mean free, and there are some other cost changes that deserve a closer look before December 7 arrives.
+The headline is reasonably good news. The standard [Medicare Part](/best-medicare-part-d-plans-2026/) B premium, which covers outpatient care, doctor visits, and preventive services, rises to $209.40 per month in 2027, up $6.50 from $202.90 this year. That's a 3.2% increase, and it's a noticeable contrast to the $17.90 jump absorbed for 2026 ($185.00 to $202.90). AARP called it only a slight increase, and that framing feels accurate. Still, "smaller than last year" doesn't mean free, and there are some other cost changes that deserve a closer look before December 7 arrives.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Part B premium rises $6.50 to $209.40/month in 2027, the smallest dollar increase in recent years.</li><li style="margin:5px 0">Part B deductible increases $9 to $292; combined annual cost rise is $87 for standard enrollees.</li><li style="margin:5px 0">Part D deductible jumps $85 to $700 in 2027; the out-of-pocket cap rises to $2,400.</li><li style="margin:5px 0">Part A inpatient deductible increases $40 to $1,776 per benefit period.</li><li style="margin:5px 0">High earners may pay up to $711.80/month total for Part B due to IRMAA surcharges.</li></ul></div>
 
@@ -31,17 +31,18 @@ As the CMS fact sheet published November 17 makes clear, these standard figures 
 
 IRMAA stands for Income-Related Monthly Adjustment Amount. It's a surcharge added to your Part B premium if your modified adjusted gross income exceeds certain thresholds, based on your tax return from two years prior. So your 2027 premium is determined by your 2025 income.
 
-The surcharges are steep at the top. In 2027, the highest IRMAA tier adds $502.40 per month to the standard premium, bringing the total Part B cost to $711.80 per month for those enrollees. That's nearly $8,542 per year for Part B alone. Even the first IRMAA tier adds a meaningful amount, so if your income was above $106,000 as an individual or $212,000 as a couple in 2025, check your tier carefully. Medicare.gov has a tool to help you estimate where you land.
+The surcharges are steep at the top. In 2027, the highest IRMAA tier adds $502.40 per month to the standard premium, bringing the total Part B cost to $711.80 per month for those enrollees. That's about $8,542 per year for Part B alone. Even the first IRMAA tier adds $83.70 a month to the Part B premium ($293.10 total), so if your income was above $112,000 as an individual or $224,000 as a couple in 2025, check your tier carefully. Medicare.gov has a tool to help you estimate where you land.
 
-| Income (Individual, 2025) | Income (Married Filing Jointly, 2025) | 2027 Monthly Part B Premium |
-|---|---|---|
-| $106,000 or less | $212,000 or less | $209.40 |
-| $106,001 to $133,000 | $212,001 to $266,000 | $300.90 |
-| $133,001 to $167,000 | $266,001 to $334,000 | $392.40 |
-| $167,001 to $200,000 | $334,001 to $400,000 | $483.90 |
-| Above $200,000 | Above $400,000 | $711.80 |
+| Income (Individual, 2025) | Income (Married Filing Jointly, 2025) | 2027 Monthly Part B Premium | 2027 Part D Surcharge |
+|---|---|---|---|
+| $112,000 or less | $224,000 or less | $209.40 | $0 |
+| $112,001 to $141,000 | $224,001 to $282,000 | $293.10 | $15.40 |
+| $141,001 to $177,000 | $282,001 to $354,000 | $418.80 | $39.70 |
+| $177,001 to $212,000 | $354,001 to $424,000 | $544.40 | $64.00 |
+| $212,001 to $499,999 | $424,001 to $749,999 | $670.00 | $88.30 |
+| $500,000 or more | $750,000 or more | $711.80 | $96.40 |
 
-*Note: CMS releases exact IRMAA bracket thresholds separately; figures above reflect the standard and top tiers confirmed in the November 17 CMS fact sheet. Confirm your specific tier at Medicare.gov.*
+*Brackets and amounts from the CMS 2027 fact sheet (November 17, 2026). The Part D surcharge is added to your plan premium. Married couples filing separately have different brackets; see our [IRMAA brackets guide](/irmaa-medicare-surcharge/).*
 
 ## Part D Drug Coverage: The Changes That Might Surprise You
 
@@ -53,7 +54,7 @@ The annual out-of-pocket cap for Part D also increases to $2,400 in 2027. This c
 
 ## Part A: The Hospital Coverage Numbers
 
-Part A covers inpatient hospital stays, skilled nursing facility care, and hospice. Most people don't pay a monthly premium for Part A if they or their spouse worked and paid Medicare taxes for at least 10 years. But the inpatient deductible, what you owe per benefit period if you're admitted, does change.
+Part A covers inpatient hospital stays, skilled nursing facility care, and hospice. Most people don't pay a monthly premium for Part A if they or their spouse worked and paid Medicare taxes for at least 10 years (40 quarters). But the inpatient deductible, what you owe per benefit period if you're admitted, does change.
 
 In 2027, the Part A inpatient deductible rises to $1,776 per benefit period. A benefit period starts the day you're admitted and ends after you've been out of the hospital or skilled nursing facility for 60 consecutive days. It's not an annual deductible; you could technically owe it more than once in a year if you have separate hospital stays.
 

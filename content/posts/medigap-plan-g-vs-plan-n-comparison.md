@@ -22,8 +22,8 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 Most people choosing between Medigap Plan G and Plan N aren't struggling with the Medicare basics anymore. They've done the reading. What gets them stuck is a deceptively simple question: "Is the cheaper plan actually worth it, or will I regret saving that money?"
 
@@ -33,8 +33,8 @@ That's exactly the right question to ask. I'm going to walk you through it the w
 
 | Coverage Item | Plan G | Plan N |
 | --- | --- | --- |
-| Part A Deductible ($1,676 in 2025) | Covered | Covered |
-| Part B Deductible ($257 in 2025) | Not Covered | Not Covered* |
+| Part A Deductible ($1,736 in 2026) | Covered | Covered |
+| Part B Deductible ($283 in 2026) | Not Covered | Not Covered |
 | Part B Excess Charges | Covered | Not Covered |
 | Office Visit Copayments | None | Up to $20 |
 | Emergency Room Copayments | None | Up to $50 (if not admitted) |
@@ -42,13 +42,11 @@ That's exactly the right question to ask. I'm going to walk you through it the w
 | Part A Hospital Coinsurance | Covered | Covered |
 | Foreign Travel Emergency (80%) | Covered | Covered |
 
-*Varies by insurer
-
 Both Plan G and Plan N are Medigap (Medicare Supplement Insurance) plans. Private insurance companies sell these to fill gaps that Original Medicare (Part A and Part B) leaves open, like hospital deductibles, coinsurance, and copayments that would otherwise hit your bank account.
 
-Plan G is about as close to comprehensive coverage as you can get in today's Medigap world. When Plan C and Plan F closed to new enrollees in 2020, Plan G became the top-tier choice for most people. Here's what it covers:
+Plan G is about as close to comprehensive coverage as you can get in today's Medigap world. Plans C and F can't be bought by people who became eligible for Medicare on or after January 1, 2020, so Plan G became the top-tier choice for most new enrollees. Here's what it covers:
 
-- The Medicare Part A (hospital insurance) deductible: $1,676 in 2025
+- The Medicare Part A (hospital insurance) deductible: $1,736 in 2026
 - Part A coinsurance and hospital costs up to an additional 365 days after Medicare benefits run out
 - Part A hospice care coinsurance or copayments
 - Part B (outpatient insurance) coinsurance or copayments
@@ -59,7 +57,7 @@ Plan G is about as close to comprehensive coverage as you can get in today's Med
 
 One thing Plan G doesn't cover: the Medicare Part B deductible, which is $283 in 2026. You pay that once a year, then Plan G handles everything else.
 
-Plan N covers what Plan G covers, with three key differences. It doesn't cover Part B excess charges. It has copayments up to $20 for some office visits and up to $50 for emergency room visits that don't turn into hospital admissions. And some Plan N policies also require you to pay the Part B deductible (this varies by insurer, so check your specific policy).
+Plan N covers what Plan G covers, with three key differences. It doesn't cover Part B excess charges. It has copayments up to $20 for some office visits and up to $50 for emergency room visits that don't turn into hospital admissions. Like Plan G, Plan N also leaves the Part B deductible ($283 in 2026) for you to pay.
 
 That's really it. The question becomes whether those three differences matter for your situation.
 
@@ -67,7 +65,7 @@ That's really it. The question becomes whether those three differences matter fo
 
 The premium difference between Plan G and Plan N isn't fixed. It depends on your age, where you live, which insurance company you pick, and whether you're going through open enrollment or medical underwriting.
 
-In many markets, Plan N costs $30 to $80 a month less than Plan G for a 65-year-old. I've seen gaps as narrow as $20 in some regions and over $100 in others. Take Florida versus Ohio: a 65-year-old woman in Miami might pay $195 monthly for Plan G and $145 for Plan N. That same woman in Columbus could see $140 for Plan G and $105 for Plan N. Geography matters.
+In many markets, Plan N costs $30 to $80 a month less than Plan G for a 65-year-old. I've seen gaps as narrow as $20 in some regions and over $100 in others. Geography matters. As a purely hypothetical illustration, a 65-year-old in one high-cost city might pay $195 monthly for Plan G and $145 for Plan N, while the same person in a lower-cost city could see $140 for Plan G and $105 for Plan N.
 
 This is why you should price both plans in your specific ZIP code instead of trusting numbers from a general article (including this one). The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) has a Medigap comparison tool on Medicare.gov that actually works for getting real local prices.
 
@@ -81,7 +79,7 @@ Medicare sets an approved amount for every medical service. Most doctors who acc
 
 Plan G covers these completely. Plan N doesn't. You pay 100% of any excess charge yourself.
 
-Here's where people reasonably disagree. Some counselors say excess charges are uncommon and shouldn't drive you toward a pricier plan. They're not entirely wrong. Excess charges have become less frequent as more doctors accept assignment. CMS data shows that most Medicare-participating providers don't bill excess charges.
+Here's where people reasonably disagree. Some counselors say excess charges are uncommon and shouldn't drive you toward a pricier plan. They're not entirely wrong. Excess charges have become less frequent as more doctors accept assignment. Most Medicare-participating providers accept assignment and don't bill excess charges.
 
 But consider the exception. If you live in a major city with lots of concierge practices or academic medical centers, or if you're dealing with serious specialist care, excess charges pile up fast. I've talked to people who got hit with $300 or $400 in excess charges after a handful of specialist visits they didn't anticipate. Not catastrophic, but it eats into your Plan N savings.
 

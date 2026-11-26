@@ -10,7 +10,7 @@ slug: "what-does-medicare-part-a-and-b-cover-for-seniors"
 affiliate_disclosure: true
 faqs:
  - q: "Does Medicare Part A cover ambulance transportation?"
-   a: "Yes, Part B (not Part A) covers medically necessary ambulance services when other transportation would endanger your health. You'll pay 20% of the Medicare-approved amount after your deductible. Air ambulance is covered under the same rules, but costs can be very high if the provider isn't in a Medicare-participating network. Some people add supplemental coverage specifically for this."
+   a: "Part B (not Part A) covers medically necessary ambulance services when other transportation would endanger your health. You'll pay 20% of the Medicare-approved amount after your deductible. Air ambulance is covered under the same rules, but costs can be very high if the provider isn't in a Medicare-participating network. Some people add supplemental coverage specifically for this."
  - q: "Is there really no out-of-pocket maximum with Original Medicare?"
    a: "Correct. Original Medicare (Part A and Part B alone) has no annual cap on what you can owe. A serious illness or prolonged hospital stay could result in costs well into the five figures. That's why most people add either a Medigap policy or choose Medicare Advantage, which is required by law to have a yearly out-of-pocket maximum."
  - q: "Does Medicare cover physical therapy?"
@@ -22,12 +22,12 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
-Every year, I watch the same thing happen to people turning 65. They get their Medicare card in the mail, feel a wave of relief, and assume they're basically covered. Then they get a bill for $1,600 after a hospital stay and call me completely blindsided.
+Every year, I watch the same thing happen to people turning 65. They get their Medicare card in the mail, feel a wave of relief, and assume they're basically covered. Then they get a bill for over $1,700 after a hospital stay and call me completely blindsided.
 
-That $1,600 isn't a billing error. It's the Part A deductible. And it's just one of the gaps that Original Medicare, meaning Part A and Part B, leaves wide open. Before you can make smart decisions about supplements, Advantage plans, or prescription drug coverage, you have to understand what you actually have in the first place.
+That bill isn't a billing error. It's the Part A deductible. And it's just one of the gaps that Original Medicare, meaning Part A and Part B, leaves wide open. Before you can make smart decisions about supplements, Advantage plans, or prescription drug coverage, you have to understand what you actually have in the first place.
 
 ---
 
@@ -44,9 +44,9 @@ Here's the practical breakdown for inpatient hospital stays. For each benefit pe
 
 That structure baffles most people. It's not an annual deductible like you'd have with employer insurance. It resets every benefit period. If you're admitted in March, recover, go back in July, you've got a brand new deductible to meet.
 
-**Skilled nursing facility care** is where things get tricky, because a lot of people assume Medicare pays for long-term nursing home care. It doesn't, with very narrow exceptions. To get SNF coverage at all, you need a qualifying inpatient hospital stay of at least three days. Observation status does not count, which is a whole separate headache. After that three-day stay, Medicare covers SNF days 1 through 20 at 100%. Days 21 through 100 cost you about $204 per day in 2024. Day 101 onward? Medicare stops paying entirely. That's where long-term care insurance, Medicaid, or personal savings have to take over.
+**Skilled nursing facility care** is where things get tricky, because a lot of people assume Medicare pays for long-term nursing home care. It doesn't, with very narrow exceptions. To get SNF coverage at all, you need a qualifying inpatient hospital stay of at least three days. Observation status does not count, which is a whole separate headache. After that three-day stay, Medicare covers SNF days 1 through 20 at 100%. Days 21 through 100 cost you $217 per day in 2026. Day 101 onward? Medicare stops paying entirely. That's where long-term care insurance, Medicaid, or personal savings have to take over.
 
-Most people qualify for Part A without paying a premium, as long as they or their spouse worked and paid Medicare taxes for at least 40 quarters (10 years). If you haven't, you can buy in. The premiums in 2024 are up to $505 a month. Not many people face this, but it's worth checking if your work history is complicated.
+Most people qualify for Part A without paying a premium, as long as they or their spouse worked and paid Medicare taxes for at least 40 quarters (10 years). If you haven't, you can buy in. The premiums in 2026 are up to $565 a month. Not many people face this, but it's worth checking if your work history is complicated.
 
 ---
 
@@ -116,7 +116,7 @@ None of this is simple, and the system wasn't designed with your convenience in 
 ## Sources & References
 
 - [Medicare.gov, What Part A covers](https://www.medicare.gov/what-medicare-covers/what-part-a-covers), Official source for Part A coverage details
-- [Medicare.gov, Part A costs](https://www.medicare.gov/basics/costs/medicare-costs), Supports 2024 deductible and coinsurance figures
+- [Medicare.gov, Part A costs](https://www.medicare.gov/basics/costs/medicare-costs), Supports 2026 deductible and coinsurance figures
 - [Medicare.gov, What Part B covers](https://www.medicare.gov/what-medicare-covers/what-part-b-covers), Official source for Part B coverage details
 
 *Photo: [Jsme MILA](https://www.pexels.com/@jsme-mila-523821574) via Pexels*

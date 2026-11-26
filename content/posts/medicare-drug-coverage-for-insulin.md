@@ -22,10 +22,10 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
-If you're paying more than $35 a month for insulin, something's broken in your setup. Not an exaggeration. Since 2023, Medicare capped out-of-pocket insulin costs at $35 per month per covered insulin under Part D drug plans and Medicare Advantage plans with drug coverage. Most seniors don't know this. Most pharmacies won't tell you. And plenty of people are overpaying because nobody mentioned the rules changed.
+If you're paying more than $35 a month for insulin, something's broken in your setup. Not an exaggeration. Since 2023, Medicare has capped out-of-pocket insulin costs at $35 per month per covered insulin under Part D drug plans and Medicare Advantage plans with drug coverage. Most seniors don't know this. Most pharmacies won't tell you. And plenty of people are overpaying because nobody mentioned the rules changed.
 
 ## What Medicare Actually Covers for Insulin (And Where It Comes From)
 
@@ -80,9 +80,9 @@ Plans must refund overcharges retroactively if you catch them within the coverag
 
 ---
 
-## What Changes in 2025 (The $2,000 Out-of-Pocket Cap)
+## What Changes in 2026 (The $2,100 Out-of-Pocket Cap)
 
-2026 brought another shift. Medicare Part D now has a hard out-of-pocket cap of $2,100 per year for all covered drugs, including insulin. Once you've spent $2,100 out of pocket on Part D drugs in a calendar year, you pay nothing for the rest of it.
+The Part D out-of-pocket cap started in 2025 at $2,000 and rose to $2,100 in 2026. It is a hard annual limit for all covered drugs, including insulin. Once you've spent $2,100 out of pocket on Part D drugs in a calendar year, you pay nothing for the rest of it.
 
 For people taking only insulin and a handful of generics, this cap probably won't change much. The $35 monthly insulin cap will likely keep your annual insulin spending well below $2,100 anyway. But if you take other expensive medications alongside insulin, the $2,100 cap becomes genuinely protective.
 

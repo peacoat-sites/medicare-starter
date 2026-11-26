@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-07-08
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 Your 65th birthday's coming. You've enrolled in Medicare Part B (doctor visits, outpatient care), and your neighbor just told you she got denied for a Medigap policy because of her diabetes. *Could that happen to you?* 
 
@@ -51,7 +51,7 @@ After those six months end, guaranteed issue protection vanishes. Insurers pull 
 
 People mess this up more often than you'd think, and it costs them. Your OEP is tied to your Part B enrollment date, not your birthday.
 
-Say your 65th birthday is June 15. You enroll in Part B, coverage starts June 1. Your Medigap OEP runs June 1 through November 30. Submit an application December 1? You've missed it.
+Say your 65th birthday is June 15. You enroll in Part B, and coverage starts June 1, the first day of your birthday month. Your Medigap OEP runs June 1 through November 30. Submit an application December 1? You've missed it.
 
 A few wrinkles complicate things:
 
@@ -67,7 +67,7 @@ A few wrinkles complicate things:
 
 I've talked to countless people who put it off. They felt fine. Didn't think they needed a supplement yet. Got busy. Then they got sick, tried to buy a Medigap policy, and got turned down or quoted a price they couldn't swallow.
 
-Original Medicare has real gaps. Part A has a deductible per benefit period (not per year) with no out-of-pocket cap. Part B covers 80% of approved charges; you pay the other 20%, forever, no annual limit. A serious diagnosis or surgery can generate $50,000 in that 20%.
+Original Medicare has real gaps. Part A has a deductible per benefit period (not per year) with no out-of-pocket cap. Part B covers 80% of approved charges; you pay the other 20%, forever, no annual limit. A serious diagnosis or surgery can generate thousands of dollars in that 20%.
 
 Here's what matters: [Medigap plans are standardized](/best-medigap-plans-2026/) by the federal government. Plan G from Company A covers exactly what Plan G from Company B covers. Price is the only difference. During your OEP, you can pick the cheapest plan from a rock-solid insurer because no one can reject you. After your OEP, your health history decides what you get.
 
@@ -119,11 +119,11 @@ Your OEP isn't your only shot at guaranteed issue protection. Certain events lat
 - Your employer coverage ends
 - Your Medigap insurer goes bankrupt or loses its license
 
-These are real safety nets. But they're narrowly defined. You typically have 63 days from the event to apply with guaranteed issue. If you're wondering whether Medicare Advantage might be better than a supplement, [Medigap vs. Medicare Advantage](/medigap-vs-medicare-advantage/) breaks down the honest trade-offs.
+These are real safety nets. But they're narrowly defined. You typically have 63 days from the event (or from when your coverage ends) to apply with guaranteed issue. If you're wondering whether Medicare Advantage might be better than a supplement, [Medigap vs. Medicare Advantage](/medigap-vs-medicare-advantage/) breaks down the honest trade-offs.
 
 ---
 
-Your Medigap Open Enrollment Period is a one-time gift, and it costs you nothing but the effort to use it. Do the research. Compare plans carefully. Don't let the deadline slip by. A licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP) can give free personalized help if you're unsure. Call Medicare.gov to find your local SHIP. The right choice inside that six-month window protects your health and your bank account for decades.
+Your Medigap Open Enrollment Period is a one-time gift, and it costs you nothing but the effort to use it. Do the research. Compare plans carefully. Don't let the deadline slip by. A licensed Medicare counselor or your State Health Insurance Assistance Program (SHIP) can give free personalized help if you're unsure. Visit Medicare.gov or call 1-800-MEDICARE to find your local SHIP. The right choice inside that six-month window protects your health and your bank account for decades.
 
 ## Sources & References
 

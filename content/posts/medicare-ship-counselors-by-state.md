@@ -1,6 +1,7 @@
 ---
 title: "800 Medicare SHIP Counselors: Your State's Free Health Insurance Help"
 date: 2026-11-16T23:21:57.109163+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Find out how many SHIP counselors serve your state and get free Medicare insurance guidance from trained local advisors."
 image: "/img/heroes/7551645.jpg"
@@ -9,7 +10,7 @@ tags: ["medicare", "ship", "counselors", "state"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-ship-counselors-by-state"
 affiliate_disclosure: true
 faqs:
@@ -59,13 +60,13 @@ Here's a quick reference for states that use a different local name so you're no
 | New York | HIICAP (Health Insurance Information, Counseling and Assistance Program) |
 | Florida | SHINE (Serving Health Insurance Needs of Elders) |
 | Illinois | SHIP (Senior Health Insurance Program) |
-| Texas | HICAP (Health Information, Counseling and Advocacy Program) |
+| Texas | HICAP (Health Information Counseling and Advocacy Program) |
 | Pennsylvania | APPRISE |
 | Ohio | OSHIIP (Ohio Senior Health Insurance Information Program) |
 | Michigan | MMAP (Michigan Medicare/Medicaid Assistance Program) |
 | New Jersey | SHIP (uses the national name) |
 | Washington | SHIBA (Statewide Health Insurance Benefits Advisors) |
-| Oregon | SHIBA (same acronym as Washington) |
+| Oregon | SHIBA (Senior Health Insurance Benefits Assistance) |
 | Arizona | SHIP / Arizona State SHIP |
 | North Carolina | SHIIP (Seniors' Health Insurance Information Program) |
 | Virginia | VICAP (Virginia Insurance Counseling and Assistance Program) |
@@ -85,7 +86,7 @@ Timing matters. The moments where SHIP counseling gives you the most value are:
 
 **After a denied claim.** Don't wait on this one. Medicare appeal deadlines are strict. A denied Medicare Advantage claim, for example, typically must be appealed within 65 days of the denial notice. SHIP counselors can help you draft an appeal letter and understand what standard of review applies.
 
-**Example:** Someone who turns 65 in March 2027 has an IEP that opens December 1, 2026 and runs through June 30, 2027 (three months before the birthday month, the birthday month itself, and three months after). If they call SHIP in November 2026, a counselor can explain whether their current employer coverage qualifies them to delay Part B without penalty, what their Part D options are, and how to compare a Medigap Plan G against a Medicare Advantage plan given their current prescriptions and doctors. Getting this advice in November leaves plenty of time to make an informed decision before the IEP window closes.
+**Example:** Consider someone who turns 65 in March 2027. Their IEP opens December 1, 2026 and runs through June 30, 2027 (three months before the birthday month, the birthday month itself, and three months after). If they call SHIP in November 2026, a counselor can explain whether their current employer coverage qualifies them to delay Part B without penalty, what their Part D options are, and how to compare a Medigap Plan G against a Medicare Advantage plan given their current prescriptions and doctors. Getting this advice in November leaves plenty of time to make an informed decision before the IEP window closes.
 
 ## A Note on SHIP Funding and Capacity
 

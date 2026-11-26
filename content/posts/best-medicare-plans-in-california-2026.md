@@ -22,8 +22,8 @@ faqs:
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
+lastmod: 2026-11-26
 ---
 Most people picking a Medicare plan in California treat it like choosing a cable package: flip through the options, pick something that sounds okay, and move on. That instinct costs them hundreds, sometimes thousands, of dollars a year.
 
@@ -62,13 +62,13 @@ Four things should drive your decision:
 
 In 2026, the Medicare Advantage market in California is dominated by a handful of carriers, and they're not all equally good.
 
-**Kaiser Permanente** consistently ranks at or near the top for California Advantage plans, and I'll stand behind that assessment. Kaiser's integrated model (insurance and care delivery under the same roof) means fewer billing headaches and often better care coordination. In the 2024 and 2025 Star Ratings published by the Centers for Medicare and Medicaid Services (CMS), Kaiser's California HMO plans held 4.5 to 5 stars, which is legitimately exceptional. The tradeoff: you have to use Kaiser providers. If you're already in the Kaiser system and like it, this is a very hard plan to beat.
+**Kaiser Permanente** consistently ranks at or near the top for California Advantage plans, and I'll stand behind that assessment. Kaiser's integrated model (insurance and care delivery under the same roof) means fewer billing headaches and often better care coordination. In recent Star Ratings published by the Centers for Medicare and Medicaid Services (CMS), Kaiser's California HMO plans have earned some of the highest ratings in the state, which is legitimately exceptional. The tradeoff: you have to use Kaiser providers. If you're already in the Kaiser system and like it, this is a very hard plan to beat.
 
 **Blue Shield of California** and **Anthem Blue Cross** both offer strong PPO options, which give you more flexibility to see out-of-network providers (usually at higher cost sharing). What surprised me about Anthem's 2025 offerings in Southern California specifically was how competitive the drug coverage had gotten after a couple of years of complaints about their formularies.
 
 **Alignment Health** and **Molina Healthcare** are worth knowing about if you're lower income and likely to qualify for dual-eligible (Medicare and Medicaid) programs or Extra Help for Part D. Their benefits packages for those populations can be significantly richer than what you'd get from the bigger names.
 
-**Aetna** and **UnitedHealthcare** (through their AARP-branded plans) are widely available across California counties. Both are solid mid-tier options, though I'd encourage you to look closely at the out-of-pocket maximums before enrolling. In 2026, CMS set the maximum allowable out-of-pocket limit for MA plans at $9,350 for in-network care, but better plans come in well below that. Well-regarded California plans often have out-of-pocket caps in the $4,500-$5,500 range, which is a meaningful difference if you ever have a serious hospitalization.
+**Aetna** and **UnitedHealthcare** (through their AARP-branded plans) are widely available across California counties. Both are solid mid-tier options, though I'd encourage you to look closely at the out-of-pocket maximums before enrolling. In 2026, CMS set the maximum allowable out-of-pocket limit for MA plans at $9,250 for in-network care, but better plans come in well below that. Many plans set caps well below the legal maximum, which is a meaningful difference if you ever have a serious hospitalization.
 
 One thing I'll flag: star ratings matter more than people realize. CMS uses them to determine bonus payments to insurers, and plans below 3 stars can lose those bonuses, which tends to erode benefits over time. Before you enroll in any Advantage plan, check its current star rating at Medicare.gov.
 
@@ -80,7 +80,7 @@ A lot of people assume that because so many Advantage plans advertise $0 premium
 
 The honest tradeoff: Original Medicare (Parts A and B) has no network restrictions. You can see any doctor in the country who accepts Medicare, no referrals needed. Add a Medigap policy, and you're covering most or all of the gaps in Original Medicare's cost sharing. Add a standalone Part D plan for drug coverage, and you have comprehensive, predictable coverage.
 
-The cost is real. A Plan G (the most popular Medigap option since Plan F closed to new enrollees in 2020) runs somewhere in the range of $100 to $250+ per month for a California beneficiary in their late 60s, depending on age, gender, and which insurer you buy from. That's on top of your Part B premium (in 2026, the standard Part B premium is $202.90 per month). So yes, you're paying more upfront.
+The cost is real. A Plan G (the most popular Medigap option since Plan F became unavailable to people who became eligible for Medicare on or after January 1, 2020) runs somewhere in the range of $100 to $250+ per month for a California beneficiary in their late 60s, depending on age, gender, and which insurer you buy from. That's on top of your Part B premium (in 2026, the standard Part B premium is $202.90 per month). So yes, you're paying more upfront.
 
 But here's what the $0-premium Advantage plan brochure doesn't show you: cost sharing adds up fast when you're actually sick. Copays for specialist visits, hospital stays, chemotherapy, dialysis. People who have serious, ongoing health needs often find that the predictability of Medigap is worth every dollar.
 
@@ -94,7 +94,7 @@ California is also one of a small number of states that allows guaranteed issue 
 
 Standalone Part D plans get almost no attention compared to Advantage plans, and that's a mistake, especially if you're on Original Medicare.
 
-In 2026, the Part D landscape changed meaningfully thanks to provisions in the Inflation Reduction Act. The out-of-pocket cap for prescription drug costs is $2,100. That's a big deal for anyone on expensive medications. Insulin costs are capped at $35 a month. And the "donut hole" (the coverage gap that used to leave people paying full price for drugs) is effectively gone.
+The Part D landscape changed meaningfully thanks to provisions in the Inflation Reduction Act, which first took effect in 2025. In 2026, the annual out-of-pocket cap for prescription drug costs is $2,100 ($2,000 in 2025), rising to $2,400 in 2027. That's a big deal for anyone on expensive medications. Insulin costs are capped at $35 a month. And the "donut hole" (the coverage gap that used to leave people paying full price for drugs) is effectively gone.
 
 Even with those improvements, plan choice matters. Formularies differ. Preferred pharmacy networks differ. If you use a 90-day mail-order pharmacy, check whether your plan gives you better pricing through Costco Pharmacy or CVS Caremark versus a local independent. The difference on a maintenance medication can be $40-$50 per month.
 
@@ -110,7 +110,7 @@ Pull together your current doctors' names and their NPI (National Provider Ident
 
 After that, I'd strongly recommend calling your State Health Insurance Assistance Program (SHIP) counselor. SHIP is a free, unbiased counseling program funded by the federal government, and California's version is called the Health Insurance Counseling and Advocacy Program (HICAP). These are trained volunteers and staff who have no financial stake in what you choose. You can find your local HICAP through [the SHIP website at shiphelp.org](https://www.shiphelp.org/). I'm genuinely not sure enough people know this service exists.
 
-Open Enrollment for 2026 plans runs October 15 through December 7, 2025. If you're new to Medicare, your Initial Enrollment Period (IEP) is a 7-month window around your 65th birthday.
+The Annual Enrollment Period for 2027 plans runs October 15 through December 7, 2026, with changes taking effect January 1, 2027. If you're new to Medicare, your Initial Enrollment Period (IEP) is a 7-month window around your 65th birthday.
 
 ---
 

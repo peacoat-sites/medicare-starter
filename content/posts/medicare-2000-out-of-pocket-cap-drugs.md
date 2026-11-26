@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 If you're taking a specialty drug for rheumatoid arthritis, multiple sclerosis, or cancer, you know exactly how fast the bills pile up. Before 2025, some Medicare Part D enrollees were paying $10,000, $15,000, sometimes more out of pocket on prescriptions in a single year, with nothing to stop it. That's over. Starting January 1, 2025, Medicare Part D introduced an out-of-pocket cap on covered drugs in a calendar year. That cap started at $2,000 in 2025 and is $2,100 in 2026. Full stop. If you've been white-knuckling through expensive drug costs or quietly skipping doses because you couldn't afford the refill, this is the change you've been waiting for.
 
@@ -39,7 +39,7 @@ Let me be direct. Once your total out-of-pocket spending on covered Part D drugs
 
 That $2,100 threshold gets counted through something called True Out-of-Pocket costs, or TrOOP. It includes your deductible, your copays and coinsurance, and in some cases, contributions from certain third-party assistance programs. Once TrOOP hits $2,100, your plan picks up 100% of covered drug costs for the rest of the year.
 
-Here's where people get tripped up. The $2,100 limit applies only to drugs on your plan's formulary, which is the plan's official list of covered medications. If you're taking something not on your formulary, what you spend doesn't count toward the $2,100 cap, and your plan won't cover it anyway. That's why checking your formulary every year during Open Enrollment matters.
+Here's where people get tripped up. The $2,100 limit applies only to drugs on your plan's formulary, which is the plan's official list of covered medications. If you're taking something not on your formulary, what you spend doesn't count toward the $2,100 cap, and your plan won't cover it anyway. That's why checking your formulary every year during the Annual Enrollment Period (October 15 to December 7) matters.
 
 The cap also only applies to Part D prescription coverage. Medicare Part A (hospital insurance) and Part B (medical insurance) have their own separate cost-sharing structures. Some drugs, especially infused cancer medications or drugs administered in a doctor's office, fall under Part B, not Part D. Those costs don't touch the $2,100 cap.
 
@@ -47,9 +47,9 @@ The cap also only applies to Part D prescription coverage. Medicare Part A (hosp
 
 This $2,100 cap didn't appear out of nowhere. It came from the [Inflation Reduction Act](/medicare-part-d-coverage-gap/), signed into law in August 2022, which overhauled Medicare drug coverage for the first time in roughly two decades. The law rolled out its changes in phases: a cap on insulin in 2023, changes to manufacturer discount programs in 2024, and the full $2,000 out-of-pocket cap in 2025, rising to $2,100 in 2026.
 
-Before this year, Part D included a coverage gap (people called it the "donut hole") and a catastrophic phase where seniors paid a percentage of drug costs with no upper limit. I've sat across from clients who hit the catastrophic phase thinking they'd finally caught a break, only to realize they were still on the hook for 5% of a $60,000 drug. Five percent doesn't sound like much until you do the math. The Inflation Reduction Act eliminated both the coverage gap and the unlimited catastrophic exposure entirely.
+Before 2025, Part D included a coverage gap (people called it the "donut hole") and a catastrophic phase where seniors paid a percentage of drug costs with no upper limit. Consider someone who hit the catastrophic phase thinking they'd finally caught a break, only to realize they were still on the hook for 5% of a $60,000 drug. Five percent doesn't sound like much until you do the math. The Inflation Reduction Act eliminated both the coverage gap and the unlimited catastrophic exposure entirely.
 
-For 2025, Part D has a simpler structure: a deductible phase (up to $590 for standard plans, though many plans set theirs lower), an initial coverage phase where you pay your plan's normal copays or coinsurance, then the cap. Once you hit $2,000 TrOOP, you're done paying for covered drugs that year.
+For 2026, Part D has a simpler structure: a deductible phase (up to $615 for standard plans, though many plans set theirs lower), an initial coverage phase where you pay your plan's normal copays or coinsurance, then the cap. Once you hit $2,100 TrOOP, you're done paying for covered drugs that year.
 
 ## The New Medicare Prescription Payment Plan: Spreading Costs Over the Year
 
@@ -81,11 +81,11 @@ Not everyone will see a huge change. If you're generally healthy and drug costs 
 
 If you're not sure where you fall, [Medicare.gov](https://www.medicare.gov/) has a Plan Finder tool that lets you enter your specific medications and see projected annual costs under different plans, including how quickly you'd hit the cap.
 
-## What to Watch Out For in 2025
+## What to Watch Out For in 2026
 
 The cap is genuinely good news, but real pitfalls exist.
 
-**Premium increases.** Plans adjusted their premiums and cost-sharing structures to account for the new cap. In some cases monthly premiums went up, and in others, formularies changed, meaning some drugs moved to higher tiers or were dropped. A plan that worked in 2024 might not be the best in 2025. Always check your Annual Notice of Change letter and compare plans during Open Enrollment.
+**Premium increases.** Plans adjusted their premiums and cost-sharing structures to account for the new cap. In some cases monthly premiums went up, and in others, formularies changed, meaning some drugs moved to higher tiers or were dropped. A plan that worked last year might not be the best this year. Always check your Annual Notice of Change letter and compare plans during the Annual Enrollment Period (October 15 to December 7).
 
 **Formulary changes mid-year.** Plans can change formularies mid-year in limited circumstances. If your drug is removed or tier-shifted, you generally have rights to a coverage determination or appeal. Know those rights.
 
@@ -99,11 +99,11 @@ For specific questions about how the cap applies to your situation, a free unbia
 
 | Phase | Pre-2025 Structure | 2025 Structure |
 |---|---|---|
-| Deductible | Up to $545 (2024) | Up to $590 |
+| Deductible | Up to $545 (2024) | Up to $590 (2025); $615 (2026) |
 | Initial Coverage | Pay copays/coinsurance | Pay copays/coinsurance |
 | Coverage Gap (Donut Hole) | 25% cost-sharing up to threshold | Eliminated |
 | Catastrophic Phase | 5% of drug cost, no limit | Eliminated |
-| Out-of-Pocket Cap | None | $2,000 TrOOP limit |
+| Out-of-Pocket Cap | None | $2,000 TrOOP limit (2025); $2,100 (2026) |
 | After Cap | Continued 5% exposure | $0 for rest of year |
 
 The table shows what's changed isn't just a number. The entire back half of the old structure, the part that caused the most financial damage, is gone.

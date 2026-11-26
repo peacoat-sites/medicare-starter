@@ -12,7 +12,7 @@ faqs:
  - q: "Do I have to enroll in Medicare at 65 if I'm still working?"
    a: "Not necessarily. If you're covered by an employer group health plan from a company with 20 or more employees, you can delay Part B enrollment without penalty. You'll get a Special Enrollment Period of eight months when that coverage ends. Part A is usually free and harmless to enroll in early."
  - q: "What happens if I miss my Initial Enrollment Period?"
-   a: "You can still sign up during the General Enrollment Period (January 1 through March 31 each year), but your coverage won't start until July 1 and you'll owe a late enrollment penalty on your Part B premium. The penalty is 10% for every full 12-month period you were late, and it's permanent."
+   a: "You can still sign up during the General Enrollment Period (January 1 through March 31 each year), your coverage starts the first day of the month after you sign up, and you'll owe a late enrollment penalty on your Part B premium. The penalty is 10% for every full 12-month period you were late, and it's permanent."
  - q: "Can I enroll in Medicare online?"
    a: "Yes. Go to Medicare.gov and apply through your my Social Security account. It takes about 10 minutes and you receive a confirmation immediately. This is genuinely easier than calling or visiting an office."
  - q: "Is Medicare free at 65?"
@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 Most people miss their Medicare enrollment window not because they're careless, but because the rules are genuinely confusing and the official guidance buries the deadline math in bureaucratic language. Let me fix that.
 
@@ -33,17 +33,17 @@ That's not a scare tactic. That's the actual rule, and it catches people every y
 
 ## The Parts, Briefly
 
-| Coverage Type | Premium (2024) | What It Covers |
+| Coverage Type | Premium (2026) | What It Covers |
 | --- | --- | --- |
-| Part A | Up to $505/month (if not premium-free) | Hospital stays, skilled nursing facility care, some home health services |
-| Part B | $174.70/month (standard; higher for IRMAA) | Doctor visits, lab work, preventive services, durable medical equipment |
+| Part A | Up to $565/month (if not premium-free) | Hospital stays, skilled nursing facility care, some home health services |
+| Part B | $202.90/month (standard; higher for IRMAA) | Doctor visits, lab work, preventive services, durable medical equipment |
 | Part D | Varies by plan | Prescription drugs |
 | Part C (Advantage) | Often $0 upfront | Parts A, B, and usually D bundled by private insurer; may include dental, vision |
 | Medigap (Plan G example) | $150-$200/month | Supplements Original Medicare coverage; varies by plan and state |
 
 Medicare has four main pieces, and conflating them is where most confusion starts.
 
-**Part A** covers hospital stays, skilled nursing facility care, and some home health services. Most people get it premium-free if they or their spouse paid Medicare taxes for at least 10 years (40 quarters). If you didn't hit that threshold, you can still buy it, but premiums in 2024 run up to $505 a month, so this matters.
+**Part A** covers hospital stays, skilled nursing facility care, and some home health services. Most people get it premium-free if they or their spouse paid Medicare taxes for at least 10 years (40 quarters). If you didn't hit that threshold, you can still buy it, but premiums in 2026 run up to $565 a month, so this matters.
 
 **Part B** covers outpatient care: doctor visits, lab work, preventive services, durable medical equipment. The standard 2026 premium is $202.90 a month, though higher earners pay more through what's called IRMAA (Income-Related Monthly Adjustment Amount). More on that in a moment.
 
@@ -67,7 +67,7 @@ When you eventually leave that qualifying employer coverage, you get a [Special 
 
 ## The IRMAA Trap Most People Don't See Coming
 
-If your modified adjusted gross income from two years prior exceeded $109,000 (individual) or $218,000 (joint) in 2024, you'll pay more than the standard $202.90 for Part B. How much more depends on your income bracket, but the top tier can push your monthly premium past $500. For Part D, high earners pay a surcharge on top of their plan premium.
+If your modified adjusted gross income from two years prior (your 2024 tax return) exceeded $109,000 (individual) or $218,000 (joint), you'll pay more than the standard $202.90 for Part B. How much more depends on your income bracket, but the top tier can push your monthly premium to $689.90. For Part D, high earners pay a surcharge on top of their plan premium.
 
 Two years prior. So if you retire at 63 and your income drops, Medicare looks at your 63-year-old income when you enroll at 65. This stings a lot of recently retired professionals who had a high-earning final year.
 
@@ -83,7 +83,7 @@ After that window closes, insurers in most states can reject you, or charge you 
 
 I lean toward telling people to take this window seriously. If you're 65 and healthy, you might look at Medigap Plan G premiums and think "why am I paying $150 to $200 a month when I feel fine?" But the point of that window is to lock in coverage before you're not fine. People who buy Medigap at 65 and then develop a serious illness in their 70s are extremely glad they did. People who try to switch to Medigap after a cancer diagnosis often can't.
 
-Medicare Advantage has lower upfront premiums, dental, vision, sometimes a gym membership. The tradeoff: network restrictions and prior authorization requirements tend to bite harder as your healthcare needs increase. Network restrictions and prior authorization requirements tend to become more burdensome as healthcare needs increase.
+Medicare Advantage has lower upfront premiums, dental, vision, sometimes a gym membership. The tradeoff: network restrictions and prior authorization requirements tend to bite harder as your healthcare needs increase.
 
 For an independent comparison of Medigap plans, the [*Medicare Supplement Insurance* book from NOLO](https://www.nolo.com/) is genuinely useful. (Note: this site may earn a commission on purchases.) For free, unbiased help with zero financial incentives, your state's [SHIP (State Health Insurance Assistance Program)](https://www.shiphelp.org/) offers one-on-one counseling at no charge. These are trained volunteers who have no stake in what you choose.
 
@@ -97,7 +97,7 @@ Simultaneously, decide on Part D. Even if you take no prescriptions, enroll in t
 
 Within the first month after your Part B effective date, evaluate your Medigap options. Get quotes from multiple insurers. Premiums for the same plan can vary significantly between carriers. Plan G is the most comprehensive option available to new Medicare enrollees (Plan F closed to new enrollees in 2020). Plan N costs less but involves some copays.
 
-If you're leaning toward Medicare Advantage instead, compare plans during the fall Annual Enrollment Period (October 15 through December 7), with coverage starting January 1. You can also make this switch during your Initial Enrollment Period.
+If you're leaning toward Medicare Advantage instead, compare plans during the fall Annual Enrollment Period (October 15 through December 7), with coverage starting January 1. You can also choose a Medicare Advantage plan when you first enroll, during your Initial Enrollment Period.
 
 Don't try to do this alone if you're uncertain. A SHIP counselor costs nothing and can sit with you and your specific situation, not a generic checklist.
 
@@ -118,7 +118,7 @@ The enrollment rules aren't designed to be friendly. They reward people who do a
 ## Sources & References
 
 - [Medicare.gov, Initial Enrollment Period](https://www.medicare.gov/basics/get-started-with-medicare/sign-up/when-does-medicare-coverage-start), Explains 7-month IEP and enrollment timing rules
-- [Medicare.gov, Part B costs](https://www.medicare.gov/basics/costs/medicare-costs), Confirms 2024 premiums and late enrollment penalties
+- [Medicare.gov, Part B costs](https://www.medicare.gov/basics/costs/medicare-costs), Confirms 2026 premiums and late enrollment penalties
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

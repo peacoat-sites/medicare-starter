@@ -22,10 +22,10 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
-About 14 million people qualify for Extra Help with Medicare drug costs. Roughly a third of them never apply.
+Many people who qualify for Extra Help with Medicare drug costs never apply.
 
 That number stuck with me the first time I read it, and I think about it every time someone tells me, "I didn't know I could get help with that." They're not careless people. They're people who got a packet in the mail, assumed it was junk, and moved on. Or they heard "Medicare" and figured everything worked the same way for everyone. Or nobody told them.
 
@@ -35,7 +35,7 @@ If you're paying more for prescriptions than feels right, or if someone in your 
 
 Extra Help is a federal program run by the Social Security Administration (SSA) that helps people with Medicare pay for Part D prescription drug coverage. Part D covers medications. Without it, you're paying your plan's full premium, deductible, and copays out of pocket. With Extra Help, the federal government covers a significant portion of those costs.
 
-Here's what that actually means. In 2024, people who qualify for full Extra Help pay no more than $4.50 for generic drugs and $11.20 for brand-name drugs per prescription. No premium. No deductible. For someone taking four or five medications a month, that's hundreds of dollars in savings. For someone managing diabetes or heart disease, it can be far more.
+Here's what that actually means. In 2026, people who qualify for full Extra Help pay no more than $5.10 for generic drugs and $12.65 for brand-name drugs per prescription. No premium. No deductible. For someone taking four or five medications a month, that's hundreds of dollars in savings. For someone managing diabetes or heart disease, it can be far more.
 
 You might wonder if this is different from Medicaid. It is. Extra Help covers specifically Medicare Part D costs. Medicaid is separate. Some people qualify for both, and that overlap is actually one of the automatic pathways into Extra Help, which I'll explain in a moment.
 
@@ -45,7 +45,7 @@ A lot of people assume Extra Help is completely federal, so it works identically
 
 But here's what changes by state: whether your state has expanded the program, what other programs you might be automatically enrolled through, and which local agencies can help you apply.
 
-**Medicaid automatic enrollment.** If you're enrolled in your state's Medicaid program, you're automatically deemed eligible for Extra Help. That's it. You don't apply separately. But Medicaid eligibility varies enormously by state because of the Affordable Care Act's Medicaid expansion. As of 2024, 40 states plus Washington D.C. have expanded Medicaid, meaning more low-income adults qualify. If you're in a non-expansion state (Texas, Florida, Georgia, and several others), your Medicaid eligibility threshold is narrower, which means fewer people in those states get auto-enrolled into Extra Help through this pathway.
+**Medicaid automatic enrollment.** If you're enrolled in your state's Medicaid program, you're automatically deemed eligible for Extra Help. That's it. You don't apply separately. But Medicaid eligibility varies enormously by state because of the Affordable Care Act's Medicaid expansion. A majority of states plus Washington D.C. have expanded Medicaid, meaning more low-income adults qualify. If you're in a non-expansion state (Texas, Florida, Georgia, and several others), your Medicaid eligibility threshold is narrower, which means fewer people in those states get auto-enrolled into Extra Help through this pathway.
 
 **State Pharmaceutical Assistance Programs (SPAPs).** This is where things genuinely differ by location. Some states run their own drug assistance programs on top of Extra Help. Pennsylvania's PACE program, New York's EPIC program, New Jersey's PAAD, and California's various assistance options all provide additional help that can stack with federal Extra Help. If you live in a state with a strong SPAP, you may get your out-of-pocket costs down even further than the federal program alone. The [AARP Medicare resource center](https://www.aarp.org/health/medicare-insurance/) keeps an updated list of SPAPs by state, and I'd check there if you're in a state with a large senior population.
 
@@ -55,12 +55,12 @@ But here's what changes by state: whether your state has expanded the program, w
 
 | Category | Single Person | Married Couple |
 | --- | --- | --- |
-| 2024 Income Limit | $22,590 | $30,660 |
-| Asset Limit | $17,220 | $34,360 |
-| Generic Drug Copay (Full Extra Help) | $4.50 | $4.50 |
-| Brand-Name Drug Copay (Full Extra Help) | $11.20 | $11.20 |
+| 2026 Income Limit (approx.) | $23,475 | $31,725 |
+| 2026 Resource Limit | $18,090 | $36,100 |
+| Generic Drug Copay (Full Extra Help) | $5.10 | $5.10 |
+| Brand-Name Drug Copay (Full Extra Help) | $12.65 | $12.65 |
 
-The 2024 income limit for Extra Help is $22,590 for a single person and $30,660 for a married couple. Asset limits are $17,220 for an individual and $34,360 for a couple. These numbers adjust each year, so always verify at ssa.gov or Medicare.gov before you apply.
+The 2026 income limit for Extra Help is about $23,475 for a single person and $31,725 for a married couple. Resource limits are $18,090 for an individual and $36,100 for a couple, which include $1,500 per person for burial expenses. These numbers adjust each year, so always verify at ssa.gov or Medicare.gov before you apply.
 
 A few things people regularly get wrong about these limits.
 
@@ -68,7 +68,7 @@ Not all assets count. Your home, one car, personal belongings, life insurance po
 
 Income isn't just your Social Security check. It includes wages, pension payments, rental income, and other sources. But some income is excluded too, including food assistance (SNAP benefits) and most home energy assistance. If you're close to the line, a SHIP counselor can help you figure out exactly what counts.
 
-There are two tiers: full Extra Help and partial Extra Help. Full benefit goes to people with lower incomes and assets. Partial benefit phases in some cost-sharing. The cutoff isn't always obvious. If you're anywhere near the limits, apply anyway and let SSA make the determination.
+There is one tier: full Extra Help. Since 2024 there is no partial tier, so anyone with income below 150% of the federal poverty level who meets the resource limit gets the full benefit. The cutoff isn't always obvious. If you're anywhere near the limits, apply anyway and let SSA make the determination.
 
 ## How to Actually Apply (Without the Runaround)
 
@@ -82,15 +82,15 @@ One practical note: if you apply and get approved, your Extra Help coverage can 
 
 ## The Enrollment Period Question
 
-Let's say you get approved for Extra Help mid-year. Can you switch to a better Part D plan? Yes. Extra Help gives you a Special Enrollment Period (SEP) that lets you change your Part D plan once per calendar quarter from January through September, and once between October and December. You're not locked into Open Enrollment like most Medicare beneficiaries.
+Let's say you get approved for Extra Help mid-year. Can you switch to a better Part D plan? Yes. Extra Help gives you a Special Enrollment Period (SEP) that lets you change your Part D plan, and you aren't limited to Open Enrollment like most Medicare beneficiaries. Check Medicare.gov for the current rules on how often you can switch. You're not locked into Open Enrollment like most Medicare beneficiaries.
 
 This matters more than people realize. Part D plans vary a lot in how they cover specific drugs. A plan that works well for someone taking metformin and a blood pressure medication might be a poor fit for someone taking a specialty drug. Getting approved for Extra Help isn't the end of the process. It's worth spending an hour on Medicare.gov's plan finder to see whether your current plan is actually the best fit given your medications. Medicare's [plan comparison tool](https://www.medicare.gov/plan-compare/) lets you plug in your exact prescriptions and see cost estimates across plans available in your zip code.
 
 ---
 
-Fourteen million people. A third of them leaving help on the table, not because they don't need it, but because the system doesn't exactly advertise itself. If you've read this far, you won't be one of them. Apply, get your state-specific options sorted with a SHIP counselor, and then actually check whether your Part D plan is the right one now that your cost-sharing has changed. Most people skip that last step. It's also the one that saves you the most.
+Many eligible people leave help on the table, not because they don't need it, but because the system doesn't exactly advertise itself. If you've read this far, you won't be one of them. Apply, get your state-specific options sorted with a SHIP counselor, and then actually check whether your Part D plan is the right one now that your cost-sharing has changed. Most people skip that last step. It's also the one that saves you the most.
 
-*Maria Vasquez is a Medicare counselor and contributor. This article is for informational purposes only and does not constitute professional benefits advice. Eligibility thresholds and benefit amounts change annually. Always verify current figures at Medicare.gov or SSA.gov, and consult your local SHIP counselor for guidance specific to your state and situation.*
+*Dorothy Chen is a Medicare counselor and contributor. This article is for informational purposes only and does not constitute professional benefits advice. Eligibility thresholds and benefit amounts change annually. Always verify current figures at Medicare.gov or SSA.gov, and consult your local SHIP counselor for guidance specific to your state and situation.*
 
 ---
 

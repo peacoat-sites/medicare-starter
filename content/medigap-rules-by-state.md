@@ -2,6 +2,7 @@
 title: "Medigap Rules by State: Birthday Rules, Guaranteed Issue, and What Plan G Really Costs"
 slug: "medigap-rules-by-state"
 date: 2026-07-18
+lastmod: 2026-11-26
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
@@ -33,13 +34,13 @@ This page puts every state's rules in one place: who has a birthday rule, who ha
 
 Nine states (California, Idaho, Illinois, Kentucky, Louisiana, Maryland, Nevada, Oklahoma, and Oregon) give you an annual window around your birthday to move to a plan of equal or lesser benefits with no health questions asked. Oregon invented this in 2013; the others copied it because it works.
 
-Here is why it matters in practice. Say you bought Plan G in California at 65 for $145 a month. Five years later your insurer has raised you to $210, but a competitor offers the identical, federally standardized Plan G for $165. In a standard-rules state you would need to pass underwriting to switch, and a heart condition or diabetes diagnosis could keep you trapped. In a birthday-rule state you just switch. Same coverage, $540 a year back in your pocket. If you live in one of these nine states, put your birthday window on the calendar every single year and spend twenty minutes comparing rates.
+Here is why it matters in practice. Consider someone who bought Plan G in California at 65 for $145 a month. Five years later your insurer has raised you to $210, but a competitor offers the identical, federally standardized Plan G for $165. In a standard-rules state you would need to pass underwriting to switch, and a heart condition or diabetes diagnosis could keep you trapped. In a birthday-rule state you just switch. Same coverage, $540 a year back in your pocket ($210 minus $165 is $45 a month). If you live in one of these nine states, put your birthday window on the calendar every single year and spend twenty minutes comparing rates.
 
 ## New York and Connecticut: guaranteed issue, at a price
 
-New York and Connecticut require insurers to accept Medigap applicants year-round, forever. If you develop a serious condition at 72, you can still buy Plan G next month. No other states offer that.
+New York and Connecticut require insurers to accept Medigap applicants year-round, forever. If you develop a serious condition at 72, you can still buy a Medigap plan next month.
 
-The tradeoff shows up in the premium column: typical Plan G in New York runs $278 to $420 a month, roughly double the national norm, because insurers must price for a risk pool that includes people who enroll after they get sick. Whether that trade is worth it depends on which side of it you end up on, and nobody knows that in advance.
+The tradeoff shows up in the premium column: Plan G in New York is among the most expensive in the country, because insurers must price for a risk pool that includes people who enroll after they get sick. Whether that trade is worth it depends on which side of it you end up on, and nobody knows that in advance.
 
 ## Rating methods decide what you pay at 80, not 65
 
@@ -55,7 +56,7 @@ When I compare two quotes for a client, I always ask the agent which method appl
 
 If you are turning 65: your 6-month open enrollment is guaranteed issue everywhere, so the state rules above matter less than picking the right plan letter. See our [Plan G vs Plan N comparison](/plan-g-vs-plan-n-medicare-supplement/) and the current [Plan G deductible details](/medigap-plan-g-deductible/) before deciding.
 
-If you already have Medigap: find your state in the table. Birthday rule or anytime-switching state? Comparison shop every year during your window. Standard-rules state? You can still apply to switch anytime, you just need to be healthy enough to pass underwriting, so shop while you are.
+If you already have Medigap: find your state in the table. Birthday rule or anytime-switching state? Comparison shop every year during your window. Standard-rules state? You can still apply to switch, but you generally must answer health questions and the insurer can decline you or charge more, so shop while you are healthy.
 
 If you are choosing between Medigap and Medicare Advantage: the state rules above are half the story. The [total cost comparison](/medicare-advantage-vs-medicare-supplement-total-cost/) walks through the other half.
 

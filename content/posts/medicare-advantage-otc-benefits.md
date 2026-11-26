@@ -1,7 +1,7 @@
 ---
 title: "Medicare Advantage OTC Benefits: What You Can Buy"
 date: 2026-08-02T15:13:34.849077+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn which over-the-counter products Medicare Advantage plans cover, eligibility requirements, and how to use your OTC benefits."
 image: "/img/heroes/8667534.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "advantage", "benefits"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-advantage-otc-benefits"
 affiliate_disclosure: true
 faqs:
@@ -28,11 +28,11 @@ faqs:
 
 Most people hear "OTC benefit" from their [Medicare Advantage plan](/medicare-advantage-plan-exits-are-accelerating-into-2027/) and picture a $10 monthly credit toward aspirin and bandages. That's wrong in a way that costs real money.
 
-The OTC (over-the-counter) benefit built into many [Medicare Advantage](/medicare-advantage-vs-medicare-supplement-total-cost/) (MA) plans is often one of the most underused, least-understood perks in the entire package. I've sat across from hundreds of beneficiaries over the years, and I'd estimate that fewer than a third of the people who have this benefit actually use the full amount. The rest let the credits expire, usually because nobody explained what "OTC benefit" actually covers, where to spend it, or that it doesn't roll over.
+The OTC (over-the-counter) benefit built into many [Medicare Advantage](/medicare-advantage-vs-medicare-supplement-total-cost/) (MA) plans is often one of the most underused, least-understood perks in the entire package. I've sat across from hundreds of beneficiaries over the years, and many of the people who have this benefit never use the full amount. The rest let the credits expire, usually because nobody explained what "OTC benefit" actually covers, where to spend it, or that it doesn't roll over.
 
 Let me fix that.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">OTC benefits in Medicare Advantage plans range from roughly $25 to over $150 per month, depending on the plan.</li><li style="margin:5px 0">Credits typically expire quarterly or monthly, unused funds rarely roll over, so timing matters.</li><li style="margin:5px 0">Eligible items go well beyond medicine: vitamins, dental care products, some food items, and fitness supplies often qualify.</li><li style="margin:5px 0">You spend the benefit through a plan-issued card, a catalog, or specific retail partners, not any store you choose.</li><li style="margin:5px 0">As of 2026, about 90% of MA plans include some OTC benefit, per CMS enrollment data.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">OTC benefits in Medicare Advantage plans range from roughly $25 to over $150 per month, depending on the plan.</li><li style="margin:5px 0">Credits typically expire quarterly or monthly, unused funds rarely roll over, so timing matters.</li><li style="margin:5px 0">Eligible items go well beyond medicine: vitamins, dental care products, some food items, and fitness supplies often qualify.</li><li style="margin:5px 0">You spend the benefit through a plan-issued card, a catalog, or specific retail partners, not any store you choose.</li></ul></div>
 
 ## What the Benefit Actually Covers
 
@@ -52,11 +52,11 @@ This varies widely, and the range surprises people.
 | Mid-tier PPO | $300 to $600 | Monthly or quarterly | Rarely |
 | High-benefit SNP (Special Needs Plan) | $600 to $2,000+ | Monthly | Sometimes partial |
 | Dual-eligible (D-SNP) plans | Up to $2,500+ | Monthly | Plan-dependent |
-| Average across all MA plans (2026 est.) | ~$450 to $500/year | Varies | Mostly no |
 
-For example, someone on a mid-tier HMO might assume an OTC benefit is $25 a quarter, only to discover by calling the plan that it's actually $75 a month. Over 24 months, that's roughly $1,200 left unused.
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated avg. annual OTC benefit by plan tier</div><div class="sc-row"><span class="sc-label">Basic HMO</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Mid-tier HMO/PPO</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$450</span></div><div class="sc-row"><span class="sc-label">SNP plans</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$900</span></div><div class="sc-row"><span class="sc-label">D-SNP plans</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-src">Source: CMS Medicare Advantage benefit data, 2026</div></div>
+For example, someone on a mid-tier HMO might assume an OTC benefit is $25 a quarter, only to discover by calling the plan that it's actually $75 a month. Over 24 months, that's $1,800 in benefits versus $200 assumed, so roughly $1,600 could go unused.
+
+<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated avg. annual OTC benefit by plan tier</div><div class="sc-row"><span class="sc-label">Basic HMO</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">Mid-tier HMO/PPO</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$450</span></div><div class="sc-row"><span class="sc-label">SNP plans</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$900</span></div><div class="sc-row"><span class="sc-label">D-SNP plans</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,800</span></div><div class="sc-src">Illustrative estimates only; actual benefits vary by plan.</div></div>
 
 The CMS (Centers for Medicare & Medicaid Services) publishes MA plan benefit data at [Medicare.gov](https://www.medicare.gov/), where you can compare plans side by side during open enrollment. Worth bookmarking.
 
@@ -78,13 +78,13 @@ One thing I've learned from watching people fumble with this: the card balance d
 
 Here's a claim I'll commit to: the OTC benefit alone should never be the reason you pick a Medicare Advantage plan. But it can be the tiebreaker between two otherwise equivalent plans, and it's often overlooked during that comparison.
 
-The real value calculation involves three factors: the dollar amount, the eligible item list, and the credit frequency. A plan that gives you $150 a month but has a narrow eligible item list and no rollover can be worth less in practice than a plan giving $75 a month with a broad list and quarterly rollover. Do the math for your specific situation.
+The real value calculation involves three factors: the dollar amount, the eligible item list, and the credit frequency. A plan that gives you $150 a month but has a narrow eligible item list and no rollover can be worth less in practice than a plan giving $75 a month with a broad list and flexible spending. Do the math for your specific situation.
 
 I made this mistake myself when I helped a relative choose a plan several years ago. I focused on the premium and the drug formulary (the list of covered drugs), did a quick scan of the OTC benefit, and moved on. Three months in, she called me because her plan's OTC catalog didn't include the blood pressure cuff brand she wanted, and the generic option sold out online constantly. The lesson: verify the specific items you'll actually use are on the eligible list.
 
 Scenario walkthrough:
 
-Maria, 71, has Type 2 diabetes and uses a blood glucose meter, test strips, and several vitamins daily. She's comparing two plans with similar premiums. Plan A: $50/month OTC credit, quarterly distribution, eligible items include her exact meter brand and strips. Plan B: $75/month OTC credit, monthly distribution, but test strips require a different brand and vitamins are excluded. Maria goes with Plan A. Over a year, Plan A saves her roughly $600 in out-of-pocket supply costs because the items she'd actually buy are covered. Plan B's higher credit is effectively phantom money for her.
+Consider a 71-year-old with Type 2 diabetes who uses a blood glucose meter, test strips, and several vitamins daily. She's comparing two plans with similar premiums. Plan A: $50/month OTC credit, quarterly distribution, eligible items include her exact meter brand and strips. Plan B: $75/month OTC credit, monthly distribution, but test strips require a different brand and vitamins are excluded. She goes with Plan A. Over a year, Plan A's $600 in credits ($50 a month) goes toward supplies she would actually buy, because those items are covered. Plan B's higher credit is effectively phantom money for her.
 
 ## Don't Let It Expire
 

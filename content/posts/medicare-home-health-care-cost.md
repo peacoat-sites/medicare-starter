@@ -1,7 +1,7 @@
 ---
 title: "Medicare Home Health Care Costs: What You'll Actually Pay"
 date: 2026-07-14T15:41:16.771103+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Understand Medicare home health care coverage, out-of-pocket costs, and eligibility requirements. Get answers to common questions about home care expenses."
 image: "/img/heroes/8949828.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "home", "health", "care", "cost"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-home-health-care-cost"
 affiliate_disclosure: true
 faqs:
@@ -28,7 +28,7 @@ faqs:
 
 Most people assume Medicare pays nothing for home health care. That assumption costs real money.
 
-The truth is Medicare Part A and Part B both cover home health services, and when you qualify, the coverage is genuinely generous. We're talking skilled nursing visits, physical therapy, occupational therapy, speech therapy, medical social services, and home health aide visits. Zero cost-sharing for most of it. No copay. No deductible.
+The truth is Medicare Part A and Part B both cover home health services, and when you qualify, the coverage is genuinely generous. We're talking skilled nursing visits, physical therapy, occupational therapy, speech therapy, medical social services, and home health aide visits. Home health services themselves carry no copay and no deductible, though durable medical equipment carries 20% coinsurance.
 
 But the qualifying conditions are strict, the covered services have hard limits, and the gap between what Medicare covers and what families actually need is often enormous. That gap is where the real cost conversation starts.
 
@@ -48,27 +48,27 @@ Also not covered: homemaker services, grocery shopping, meal delivery, 24-hour c
 
 Current as of July 2026, here's what you're actually looking at when Medicare's coverage runs out or doesn't apply.
 
-Those numbers hurt. Home health aide care runs roughly $28 to $35 per hour through a licensed agency in most markets, though rates in cities like San Francisco or New York can push past $45. Hiring privately (without an agency) costs less but shifts all the tax, liability, and oversight burden onto the family.
+Those numbers hurt. Home health aide care runs roughly $25 to $35 per hour through a licensed agency in most markets, though rates in cities like San Francisco or New York can push past $45. Hiring privately (without an agency) costs less but shifts all the tax, liability, and oversight burden onto the family.
 
 | Service | Medicare Covers? | Typical Out-of-Pocket Cost |
 |---|---|---|
 | Skilled nursing visits | Yes, 100% if eligible | $0 when covered; $150-$250/visit otherwise |
 | Physical/occupational therapy | Yes, 100% if eligible | $0 when covered; $100-$200/visit otherwise |
 | Home health aide (with skilled need) | Yes, limited hours | $0 when covered |
-| Home health aide (custodial only) | No | $200-$280/day through agency |
+| Home health aide (custodial only) | No | $120-$280/day through agency |
 | 24-hour live-in care | No | $300-$450/day or more |
 | Homemaker/companion services | No | $25-$35/hour |
 | Meal delivery | No | $8-$15/meal |
 
 Three scenarios, from my own casework over the years:
 
-**Margaret, 78, hip replacement recovery in suburban Ohio** → Certified as homebound post-surgery, doctor ordered skilled PT three times weekly → Medicare covered 100% of 18 PT visits and intermittent nursing checks. Total out-of-pocket: $0. Duration: 6 weeks.
+**Consider a 78-year-old recovering from hip replacement in suburban Ohio** → Certified as homebound post-surgery, doctor ordered skilled PT three times weekly → Medicare covered 100% of 18 PT visits and intermittent nursing checks. Total out-of-pocket: $0. Duration: 6 weeks.
 
-**Frank, 83, moderate dementia, living alone in Phoenix** → Needed daily help with meals, medication reminders, bathing. No skilled care need, so no Medicare eligibility → Family paid $22 per hour for 4 hours daily through a local agency. Monthly cost: roughly $2,640. Medicaid covered none of it because Frank's savings exceeded Arizona's limit.
+**Consider an 83-year-old with moderate dementia, living alone in Phoenix** → Needed daily help with meals, medication reminders, bathing. No skilled care need, so no Medicare eligibility → Family paid $22 per hour for 4 hours daily through a local agency. Monthly cost: roughly $2,640. Medicaid covered none of it because Frank's savings exceeded his state's limit.
 
-**Diane, 71, recovering from stroke with ongoing weakness** → Initially qualified for Medicare home health (PT, OT, speech therapy). After 90 days, skilled need tapered. Aide visits ended with it → Family transitioned to private pay at $31/hour for a home health aide, 5 hours daily. Monthly cost: approximately $4,650.
+**Consider a 71-year-old recovering from a stroke with ongoing weakness** → Initially qualified for Medicare home health (PT, OT, speech therapy). After 90 days, skilled need tapered. Aide visits ended with it → Family transitioned to private pay at $31/hour for a home health aide, 5 hours daily. Monthly cost: approximately $4,650.
 
-Situations like Frank and Diane's are far more common than Margaret's. Many families end up in a private-pay gap within months.
+Situations like the second and third are far more common than the first. Many families end up in a private-pay gap within months.
 
 ## How Medicare Advantage Changes the Math
 

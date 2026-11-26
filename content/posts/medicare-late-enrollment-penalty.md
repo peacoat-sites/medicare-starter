@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 Most people think the Medicare late enrollment penalty is a one-time fee you pay and forget about. It's not. It follows you. Every single month, for the rest of your life, your premium gets higher than it would've been if you'd enrolled on time. I've sat across from seniors who didn't find this out until they were already paying it, and the moment they realized it was permanent, not temporary? I still remember those faces. If you're here because you missed your enrollment window or you're not sure when it actually closes, this is the place to start.
 
@@ -31,7 +31,7 @@ Most people think the Medicare late enrollment penalty is a one-time fee you pay
 
 Medicare works on risk pooling. Healthy people pay in, sick people draw out, and everything balances. The late enrollment penalty exists to stop people from waiting until they're sick to sign up, which would break the whole system pretty fast.
 
-The penalty applies to three parts of Medicare: Part B (medical insurance), Part D (prescription drug coverage), and sometimes Part A (hospital insurance). Most people get Part A free, so that penalty's relatively rare. Part B and Part D penalties? Those catch people constantly.
+The penalty applies to three parts of Medicare: Part B (medical insurance), Part D (prescription drug coverage), and sometimes Part A (hospital insurance). Most people get Part A free, so that penalty's relatively rare. It applies only to people who must buy Part A (2026 premium: $311 a month with 30-39 quarters of work, $565 under 30 quarters). Part B and Part D penalties? Those catch people constantly.
 
 Here's what surprised me digging into this: the penalty isn't a flat dollar amount. It's a percentage-based surcharge that sticks with you permanently. That percentage gets applied to your base premium, which the federal government recalculates every single year. So your penalty doesn't just hang around, it actually grows in dollar terms over time as the base premium rises.
 
@@ -41,13 +41,13 @@ Here's what surprised me digging into this: the penalty isn't a flat dollar amou
 | --- | --- | --- | --- |
 | Part B | Late Enrollment | 10% of standard monthly premium per 12-month period of delay | Permanent, lifetime |
 | Part D | Late Enrollment | 1% of national base beneficiary premium per month of delay | Permanent, lifetime |
-| Part A | Late Enrollment | Applicable in some cases | Permanent, lifetime |
+| Part A | Late Enrollment | 10% premium increase, only for those who must buy Part A | Twice the number of years of delay |
 
 The Part B late enrollment penalty is 10% of the standard monthly premium for every full 12-month period you went without Part B coverage after your [Initial Enrollment Period (IEP)](/medicare-initial-enrollment-period/) ended.
 
 Your IEP is a 7-month window: the 3 months before your 65th birthday month, your birthday month itself, and the 3 months after. Miss that without a qualifying reason, and the clock starts.
 
-Let's make this concrete. Say you were eligible at 65 but didn't enroll until 67. That's roughly two 12-month periods of delay. Your permanent penalty would be 20% added to your monthly Part B premium, every month, forever. If the standard Part B premium is $202.90 per month, you'd pay an extra $40.58 every month on top. That's $486.96 per year. Over 20 years of retirement, you're looking at nearly $9,740 in additional costs for a decision made at 65.
+Let's make this concrete. Say you were eligible at 65 but didn't enroll until 67. That's roughly two 12-month periods of delay. Your permanent penalty would be 20% added to your monthly Part B premium, every month, forever. With the 2026 standard Part B premium of $202.90 per month, you'd pay an extra $40.58 every month on top. That's $486.96 per year. Over 20 years of retirement, you're looking at nearly $9,740 in additional costs for a decision made at 65, and more if the premium keeps rising.
 
 Most people who delay Part B aren't being careless. They're still working, they have employer coverage, or a spouse has coverage through their job. Those situations can qualify for a [Special Enrollment Period (SEP)](/medicare-special-enrollment-period/) that lets you sign up later without any penalty. The key word is "can." The rules about what qualifies are specific, and assuming you're covered without checking can be one of the costliest mistakes to make.
 
@@ -95,13 +95,13 @@ One more thing: if you're enrolled in a Medicare Savings Program through your st
 
 | | **Part A** | **Part B** | **Part D** |
 |---|---|---|---|
-| Who it affects | People who didn't work 40+ quarters | Anyone who misses IEP or SEP | Anyone without creditable drug coverage |
+| Who it affects | People who must buy Part A and delay signing up | Anyone who misses IEP or SEP | Anyone without creditable drug coverage |
 | Penalty amount | 10% premium increase | 10% per 12-month delay period | 1% per month of delay |
-| Duration | 2 years only | Lifetime | Lifetime |
+| Duration | Twice the number of years you delayed | Lifetime | Lifetime |
 | Most common cause | Never paid into Medicare | Didn't know they needed to enroll | Assumed non-creditable coverage counted |
 | How to avoid | Check your work history early | Understand your IEP and SEP timing | Confirm coverage is creditable annually |
 
-Part A's the only one with an end date. Two years. Everything else is permanent. That table should make clear why getting this right matters so much.
+Part A's the only one with an end date, and it lasts for twice the number of years you delayed. Everything else is permanent. That table should make clear why getting this right matters so much.
 
 ---
 

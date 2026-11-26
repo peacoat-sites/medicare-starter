@@ -9,12 +9,12 @@ tags: ["Medicare", "Annual", "Enrollment", "Period", "dates"]
 slug: "medicare-annual-enrollment-period-dates"
 affiliate_disclosure: true
 faqs:
- - q: "What if I miss the December 7, 2025 deadline?"
-   a: "If you miss the AEP deadline, your options narrow considerably. You'll generally stay in your current plan through December 31, 2026. There is a separate period called the Medicare Advantage Open Enrollment Period, which runs January 1 through March 31 each year. During that window, if you're already enrolled in a Medicare Advantage plan, you can switch to a different Advantage plan or drop Advantage and return to Original Medicare (and join a Part D plan). But you can't use it to join Advantage for the first time. Outside of these windows, you'd need to qualify for a Special Enrollment Period"
+ - q: "What if I miss the December 7, 2026 deadline?"
+   a: "If you miss the AEP deadline, your options narrow considerably. You'll generally stay in your current plan through December 31, 2027. There is a separate period called the Medicare Advantage Open Enrollment Period, which runs January 1 through March 31 each year. During that window, if you're already enrolled in a Medicare Advantage plan, you can switch to a different Advantage plan or drop Advantage and return to Original Medicare (and join a Part D plan). But you can't use it to join Advantage for the first time. Outside of these windows, you'd need to qualify for a Special Enrollment Period"
  - q: "Can I make multiple changes during AEP, or does my first choice lock me in?"
    a: "You can change your mind as many times as you like before December 7. If you enroll in Plan A on October 20 and then decide Plan B is a better fit on November 10, you can enroll in Plan B and that will supersede the earlier enrollment. Only the last enrollment you make before the deadline takes effect on January 1."
  - q: "Do I need to do anything if I'm happy with my current plan?"
-   a: "You don't have to take any action if you want to stay in your current plan. You'll be automatically re-enrolled. That said, please still read your Annual Notice of Change so you know what's different about your plan in 2026. Staying put can be the right call, but it should be an informed one."
+   a: "You don't have to take any action if you want to stay in your current plan. You'll be automatically re-enrolled. That said, please still read your Annual Notice of Change so you know what's different about your plan in 2027. Staying put can be the right call, but it should be an informed one."
  - q: "I have both Medicare and Medicaid. Does AEP apply to me?"
    a: "If you qualify for both Medicare and Medicaid, often called 'dual eligible,' you have additional protections and flexibility. You can generally change your Medicare Advantage or Part D plan once per quarter for the first three quarters of the year, not just during AEP. You may also be eligible for a Dual Eligible Special Needs Plan, or D-SNP, which is designed specifically for people in your situation. A SHIP counselor can help you understand what's available in your area."
  - q: "Are there any changes to the Part D out-of-pocket cap in 2026?"
@@ -22,8 +22,8 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
 You checked the mail and found a thick envelope from your Medicare plan. Inside is a notice that your premiums are going up next year, or maybe your plan is dropping a drug you take every month, or your favorite doctor is no longer in the network. Your stomach drops a little. Now what? Here's the good news: once a year, Medicare gives you a dedicated window to do something about exactly this kind of situation. That window is called the Annual Enrollment Period, and for 2026 coverage, it runs from **October 15 to December 7, 2025**. If you [miss it](/missing-medicare-open-enrollment/), you'll generally be locked into your current plan for another full year. So let's make sure that doesn't happen.
 
@@ -90,7 +90,7 @@ Once you've picked a plan, you can enroll online at Medicare.gov, call 1-800-MED
 | --- | --- | --- |
 | Monthly Premium | Often $0-$50+ | $0 (Part A/B already covered) |
 | Provider Network | Restricted to plan network | Accept any Medicare provider |
-| Out-of-Pocket Cap | Yes, annual maximum | No annual cap |
+| Out-of-Pocket Cap | Yes, annual maximum | No annual cap on Part A/B costs (Part D drug costs are capped) |
 | Drug Coverage | Usually included (Part D) | Separate Part D plan required |
 | Prescription Drug Formulary | Plan-specific formulary | Plan-specific formulary |
 | When You Can Switch | During AEP (Oct 15-Dec 7) | During AEP (Oct 15-Dec 7) |

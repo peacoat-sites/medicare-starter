@@ -1,7 +1,7 @@
 ---
 title: "Medicare and Hearing Aids: What Coverage You Actually Get"
 date: 2026-07-10T16:31:38.447930+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Original Medicare rarely covers hearing aids. Learn what Parts A, B, C, and D cover, plus your best options for affordable hearing care."
 image: "/img/heroes/8972559.jpg"
@@ -10,7 +10,7 @@ tags: ["does", "medicare", "cover", "hearing", "aids"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "does-medicare-cover-hearing-aids"
 affiliate_disclosure: true
 faqs:
@@ -28,7 +28,7 @@ faqs:
 
 Most people assume Medicare covers hearing aids the way it covers a hip replacement or a round of chemotherapy. It doesn't. And that gap has real consequences for millions of older Americans who are quietly losing their hearing and quietly going broke trying to do something about it.
 
-I'll be honest: even after twenty years of helping seniors sort through their Medicare paperwork, the number of people who sit across from me expecting hearing aid coverage still catches me off guard. The assumption is so widespread, and so understandable, that I've started addressing it in the very first five minutes of any benefits counseling session.
+Many people expect hearing aid coverage from Medicare, and the assumption is so widespread and so understandable that it is worth addressing up front.
 
 Here's where things actually stand, as of July 2026.
 
@@ -42,7 +42,7 @@ So: Part A, no. Part B, no, except for that narrow diagnostic exam.
 
 ## Medicare Advantage: Where It Gets More Interesting
 
-Medicare Advantage (Part C) is a different story, and this is where I spend most of my time when a client asks about hearing aids. These are private insurance plans that contract with Medicare to deliver your benefits, and they're allowed to offer additional coverage beyond what original Medicare provides. Hearing aid coverage is one of the most common extras they advertise.
+Medicare Advantage (Part C) is a different story, and this is where I spend most of my time when a client asks about hearing aids. These are private insurance plans that contract with Medicare to deliver your benefits, and they're allowed to offer additional coverage beyond what original Medicare provides. Hearing aid coverage is a common extra they advertise.
 
 Here's what I've learned to tell people: the marketing is generous; the actual coverage requires careful reading.
 
@@ -71,7 +71,7 @@ The research on OTC outcomes is mixed. A 2022 JAMA study from Johns Hopkins foun
 
 My honest take: if you're on a tight budget, genuinely have mild loss, and are tech-comfortable enough to use an app to adjust settings, OTC aids are worth trying seriously. If you're not sure of your severity, get a diagnostic hearing exam first. Medicare Part B will cover that exam if your doctor orders it for a medical reason, and it gives you a baseline audiogram to work from.
 
-Worked example: A 71-year-old retiree in Phoenix notices difficulty hearing conversations in noisy restaurants. Her primary care doctor refers her for a diagnostic hearing exam (covered by Part B after her $283 deductible). Audiologist confirms mild-to-moderate high-frequency loss. She purchases Jabra Enhance Pro OTC aids for $1,195. Her Medicare Advantage plan provides a $750 hearing aid benefit, reducing her net out-of-pocket to $445. Compare that to a traditional prescription pair at $5,200 with the same $750 benefit: her out-of-pocket would have been $4,450.
+Worked example: Consider a 71-year-old retiree in Phoenix who notices difficulty hearing conversations in noisy restaurants. Her primary care doctor refers her for a diagnostic hearing exam (covered by Part B after her $283 deductible). Audiologist confirms mild-to-moderate high-frequency loss. She purchases Jabra Enhance Pro OTC aids for $1,195. Her Medicare Advantage plan provides a $750 hearing aid benefit, reducing her net out-of-pocket to $445. Compare that to a traditional prescription pair at $5,200 with the same $750 benefit: her out-of-pocket would have been $4,450.
 
 ## What to Actually Do If You Need Hearing Aids
 
@@ -79,9 +79,9 @@ Start with your Medicare plan documents, specifically the Evidence of Coverage (
 
 If you're still on original Medicare with a Medigap supplement and no Advantage plan, your realistic options are OTC aids or paying out of pocket. Some states have programs that help, so it's worth calling your State Health Insurance Assistance Program (SHIP) at shiphelp.org, a free counseling service staffed by trained advisors who know your state's specific programs.
 
-Veterans are in a separate category entirely. If you have any VA (Department of Veterans Affairs) eligibility, the VA's hearing aid program is among the most generous available, including full coverage for hearing aids and batteries if your loss is service-connected. A reader contacted me last spring who had no idea he qualified because his hearing loss wasn't rated as his primary disability. It was still covered. Worth checking.
+Veterans are in a separate category entirely. If you have any VA (Department of Veterans Affairs) eligibility, the VA's hearing aid program is among the most generous available, including full coverage for hearing aids and batteries if your loss is service-connected. Some veterans never apply because they assume a hearing loss that isn't their primary rated disability won't qualify, so it is worth checking.
 
-Worked example: A 68-year-old veteran in rural Tennessee has moderate bilateral hearing loss from years of machinery noise. He's been on Medicare Advantage with a $1,000 hearing benefit and paying $2,800 out of pocket per pair every few years. He contacts his VA regional office, establishes that his loss qualifies, and receives his next set of hearing aids at no cost, with free batteries included. Total savings on his first pair: $3,800.
+Worked example: Consider a 68-year-old veteran in rural Tennessee who has moderate bilateral hearing loss from years of machinery noise. He's been on Medicare Advantage with a $1,000 hearing benefit and paying $2,800 out of pocket per pair every few years. He contacts his VA regional office, establishes that his loss qualifies, and receives his next set of hearing aids at no cost, with free batteries included. Total savings on his first pair: $3,800.
 
 Costco's hearing center offers prescription hearing aids (fitted by licensed audiologists on staff) at significantly lower prices than private audiology practices, typically $1,400 to $1,600 per pair. You don't need a Costco membership for their pharmacy, but you do for the hearing center. If a Medicare Advantage plan covers $1,500 and you go to Costco, the out-of-pocket cost can be minimal.
 

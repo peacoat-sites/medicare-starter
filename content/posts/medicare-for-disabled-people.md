@@ -9,7 +9,7 @@ tags: ["medicare", "disabled", "people"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-for-disabled-people"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
     a: "Technically yes, but it's complicated. Federal law doesn't require insurers to sell Medigap policies to people under 65, though some states do require it. If your state doesn't mandate it, insurers can charge higher premiums or deny you. Check your state insurance commissioner's website for the rules where you live, because this varies significantly."
   - q: "How do I apply for the Extra Help program to lower my drug costs?"
     a: "You can apply online at ssa.gov, call the SSA at 1-800-772-1213, or visit your local Social Security office. If you're already enrolled in Medicaid or a Medicare Savings Program, you may be automatically enrolled in Extra Help without needing a separate application. It's worth checking either way."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Many people think they missed something about Medicare for disabled people, as though there were a memo explaining how it all works that somehow didn't reach them. There wasn't. The rules around qualifying for Medicare before age 65 are genuinely confusing, and it's common for smart, capable people to feel blindsided by what they didn't know.
@@ -34,7 +34,7 @@ So if you're trying to figure out Medicare coverage for yourself or someone you 
 
 Here's the piece most people get wrong at first: Medicare isn't only for people 65 and older. If you receive Social Security Disability Insurance (SSDI), you automatically become eligible for Medicare after a 24-month waiting period. That's two full years from the date your SSDI benefits begin, not the date you were approved or the date your disability started. The distinction matters a lot.
 
-I'll be honest, I got this wrong myself early in my career. A client came in frustrated because she'd been approved for SSDI in January and assumed Medicare would kick in that summer. It didn't. Her benefit start date was actually backdated several months, which helped, but she still faced a gap she wasn't expecting. Always check your actual SSDI benefit start date, not your approval letter date.
+I'll be honest, I got this wrong myself early in my career. Consider someone who was approved for SSDI in January and assumed Medicare would kick in that summer. It didn't. Her benefit start date was actually backdated several months, which helped, but she still faced a gap she wasn't expecting. Always check your actual SSDI benefit start date, not your approval letter date.
 
 There are two other pathways worth knowing:
 
@@ -48,20 +48,20 @@ Two years is a long time to go without coverage. Here's what I tell people who a
 
 If you're still connected to an employer (or a spouse's employer), COBRA (Consolidated Omnibus Budget Reconciliation Act) continuation coverage can bridge part of the gap, though it's expensive. Marketplace plans through Healthcare.gov are another option, and if your income is low enough, you may qualify for a premium tax credit that makes them genuinely affordable. Medicaid is the other big one. Many states allow people receiving SSDI to qualify for Medicaid during the Medicare waiting period, and in some states the two programs overlap and coordinate once you get Medicare. Worth calling your state Medicaid office directly to ask.
 
-One worked example that plays out more than people expect: A 51-year-old former electrician with a back injury that prevents him from working gets approved for SSDI in March 2026, with benefits starting in October 2025. His Medicare eligibility begins October 2027. During that two-year window, his income drops significantly and he qualifies for Medicaid. He uses Medicaid for most of his care, then transitions to Medicare in October 2027, with Medicaid remaining as a secondary payer to help cover costs. He never goes without coverage. The key was calling the Medicaid office early, not waiting until the Medicare card showed up.
+One worked example that plays out more than people expect: A 51-year-old former electrician with a back injury that prevents him from working gets approved for SSDI in March 2026, with benefits starting in October 2025. His Medicare eligibility begins October 2027, after the 24-month wait counted from his benefit start date. During that two-year window, his income drops significantly and he qualifies for Medicaid. He uses Medicaid for most of his care, then transitions to Medicare in October 2027, with Medicaid remaining as a secondary payer to help cover costs. He never goes without coverage. The key was calling the Medicaid office early, not waiting until the Medicare card showed up.
 
 ## What Medicare Actually Covers for Disabled Enrollees
 
 | Medicare Part | What It Covers | Premium (2026) | Notes for Disabled Enrollees |
 | --- | --- | --- | --- |
-| Part A | Hospital stays, skilled nursing facility care, hospice, home health care | $0-$500+/month | No premium if you or spouse paid Medicare taxes for 10+ years (40 quarters); otherwise can buy in |
+| Part A | Hospital stays, skilled nursing facility care, hospice, home health care | $0, $311 or $565/month | No premium if you or spouse paid Medicare taxes for 10+ years (40 quarters); otherwise can buy in |
 | Part B | Doctor visits, physical therapy, lab work, durable medical equipment | $202.90/month | Income-adjusted for higher earners |
 | Part D | Prescription drug coverage | Varies by plan | Optional but late enrollment penalties apply if skipped |
 | Part C (Medicare Advantage) | Bundles A, B, and often D | Varies by plan | May include extra benefits (vision, dental); network restrictions possible |
 
 Once you're in, Medicare for disabled people works almost identically to Medicare for seniors. You get:
 
-**Part A** covers hospital stays, skilled nursing facility care, hospice, and some home health care. Most people don't pay a premium for Part A if they (or a spouse) paid Medicare taxes for at least 10 years (40 quarters). If you haven't hit that threshold, you can still buy into Part A, though the premium can run over $500 a month currently. For many people with disabilities who haven't worked long enough, this is a real issue.
+**Part A** covers hospital stays, skilled nursing facility care, hospice, and some home health care. Most people don't pay a premium for Part A if they (or a spouse) paid Medicare taxes for at least 10 years (40 quarters). If you haven't hit that threshold, you can still buy into Part A, though the premium is $311 a month (30-39 quarters) or $565 a month (under 30 quarters) in 2026. For many people with disabilities who haven't worked long enough, this is a real issue.
 
 **Part B** covers outpatient care: doctor visits, physical therapy, lab work, durable medical equipment (DME, like wheelchairs or walkers), and much more. The standard Part B premium as of 2026 is $202.90 a month, though it's income-adjusted for higher earners.
 
@@ -77,7 +77,7 @@ The Extra Help program (also called the Low Income Subsidy, or LIS) helps pay Pa
 
 Medicare Savings Programs (MSPs) are run by state Medicaid programs and can pay your Part B premium, and in some cases Part A premiums and cost-sharing. There are four tiers, with names like Qualified Medicare Beneficiary (QMB) and Specified Low-Income Medicare Beneficiary (SLMB), each with different income thresholds. If you're on SSDI and your income is limited, I'd strongly encourage you to check eligibility at Medicare.gov or call 1-800-MEDICARE.
 
-Another example: A 44-year-old woman with MS (multiple sclerosis) who's been on Medicare for three years didn't know about Extra Help. Once we identified she qualified and she applied, her Part D costs dropped from roughly $85 a month to under $4 a month. Same drugs, same plan, just finally enrolled in the benefit she'd been entitled to all along.
+Consider a 44-year-old woman with MS (multiple sclerosis) who's been on Medicare for three years and didn't know about Extra Help. If she qualified and applied, her Part D costs could drop from roughly $85 a month to under $4 a month. Same drugs, same plan, just finally enrolled in the benefit she'd been entitled to all along.
 
 [AARP's Medicare resource center](https://www.aarp.org/health/medicare-insurance/) has a solid breakdown of these programs if you want to dig in before talking to someone.
 

@@ -1,7 +1,7 @@
 ---
 title: "Medicare Enrollment for Federal Employees: Your Complete Guide"
 date: 2026-08-01T15:11:53.585178+00:00
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Learn how federal employees can enroll in Medicare, including timing, coverage options, and coordination with FEHB benefits."
 image: "/img/heroes/7163944.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "enrollment", "federal", "employees"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "medicare-enrollment-for-federal-employees"
 affiliate_disclosure: true
 faqs:
@@ -32,11 +32,11 @@ Federal employees aren't automatically exempt [from Medicare](/switching-from-me
 
 The enrollment rules for federal employees are genuinely different from the general population, and the standard Medicare advice you'll find everywhere doesn't fully apply to you. Let me walk you through what I've pieced together from years of talking to federal retirees, digging into OPM guidance, and yes, a few hard conversations with people who got it wrong.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Federal employees with FEHB can delay Medicare Part B without penalty while actively employed.</li><li style="margin:5px 0">Most federal retirees benefit from enrolling in Medicare Part B at 65, especially for cost-sharing reduction.</li><li style="margin:5px 0">Missing your Special Enrollment Period as a retiree triggers a 10% permanent premium penalty per year delayed.</li><li style="margin:5px 0">Medicare Part A is almost always free for federal employees with 10+ years of federal service (40 quarters).</li><li style="margin:5px 0">Coordinating FEHB with Medicare can dramatically reduce or eliminate most out-of-pocket costs.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Federal employees with FEHB can delay Medicare Part B without penalty while actively employed.</li><li style="margin:5px 0">Most federal retirees benefit from enrolling in Medicare Part B at 65, especially for cost-sharing reduction.</li><li style="margin:5px 0">Missing your Special Enrollment Period as a retiree triggers a 10% permanent premium penalty for each full 12-month period you delay.</li><li style="margin:5px 0">Medicare Part A is almost always free for federal employees with 10+ years of federal service (40 quarters).</li><li style="margin:5px 0">Coordinating FEHB with Medicare can dramatically reduce or eliminate most out-of-pocket costs.</li></ul></div>
 
 ## How Federal Employment Changes the Medicare Picture
 
-Let's start with Part A, the hospital insurance piece. Most federal employees qualify for premium-free Part A because they've paid Medicare taxes throughout their careers. If you have at least 40 quarters of Medicare-covered employment, which works out to 10 years, you pay $0 per month for Part A. As of 2026, the standard Part A premium for those who don't qualify for premium-free coverage is $505 per month, so this is not a trivial number. Federal employees hired before 1983 are a special case, since [Social Security](/medicare-and-social-security/) and Medicare taxes weren't always deducted from federal paychecks before that date. If you started federal work before January 1, 1983, and haven't accumulated 40 quarters through other jobs, you may not qualify for premium-free Part A. Worth checking.
+Let's start with Part A, the hospital insurance piece. Most federal employees qualify for premium-free Part A because they've paid Medicare taxes throughout their careers. If you have at least 40 quarters of Medicare-covered employment, which works out to 10 years, you pay $0 per month for Part A. As of 2026, the Part A premium for those who don't qualify for premium-free coverage is $311 per month (30-39 quarters) or $565 per month (under 30 quarters), so this is not a trivial number. Federal employees hired before 1983 are a special case, since [Social Security](/medicare-and-social-security/) and Medicare taxes weren't always deducted from federal paychecks before that date. If you started federal work before January 1, 1983, and haven't accumulated 40 quarters through other jobs, you may not qualify for premium-free Part A. Worth checking.
 
 Part B, the outpatient coverage, is where most of the real decisions happen. The standard Part B premium in 2026 is $202.90 per month, though higher-income individuals pay more under IRMAA (Income-Related Monthly Adjustment Amount) surcharges.
 
@@ -68,7 +68,7 @@ I'll be honest: this is where I see the most genuinely mixed advice. Some financ
 
 Here's the practical calculus. Many FEHB plans have a sweetener specifically for retirees who are enrolled in Medicare: when Medicare is primary and FEHB is secondary, the FEHB plan often waives its deductibles and copays entirely. The two together function almost like a true zero-cost-sharing arrangement for covered services. I've looked at the Blue Cross Blue Shield Service Benefit Plan (the most popular FEHB plan among federal retirees), and their Medicare coordination benefit is substantial.
 
-Example: A federal retiree in Virginia has a $3,500 knee replacement surgery. Without Medicare Part B, her FEHB plan pays 75% after a $350 deductible, leaving her with around $1,225 out of pocket. With Medicare Part B as primary, Medicare covers 80% of the approved amount, and her FEHB plan picks up nearly all the remainder. Her out-of-pocket costs drop to close to $0.
+Example: Consider a hypothetical federal retiree who has a $3,500 knee replacement surgery. Without Medicare Part B, her FEHB plan pays 75% after a $350 deductible, leaving her with around $1,225 out of pocket. With Medicare Part B as primary, Medicare covers 80% of the approved amount, and her FEHB plan picks up nearly all the remainder. Her out-of-pocket costs drop to close to $0.
 
 Action taken: Enrolled in Part B at 65 during Initial Enrollment Period.
 Result: Annual out-of-pocket maximum essentially eliminated for major medical events.
@@ -81,7 +81,7 @@ For personalized help running these numbers, your state's SHIP counselors (you c
 
 Medicare Part D covers prescription drugs. Here's what's different for federal retirees: FEHB plans all include prescription drug coverage that Medicare has certified as "creditable," meaning it's at least as good as standard Part D coverage. So you don't need to enroll in a standalone Part D plan while you have FEHB.
 
-What surprises most people is that you also don't need to worry about the Part D late enrollment penalty as long as you keep your FEHB coverage active. The moment you drop FEHB, though, you need to pick up Part D coverage within 63 days or the penalty kicks in: 1% of the national base beneficiary premium per month you were without creditable coverage. As of 2026, that base premium is around $36 per month, so penalties compound quickly.
+What surprises most people is that you also don't need to worry about the Part D late enrollment penalty as long as you keep your FEHB coverage active. The moment you drop FEHB, though, you need to pick up Part D coverage within 63 days or the penalty kicks in: 1% of the national base beneficiary premium per month you were without creditable coverage. As of 2026, that base premium is $38.99 per month, so the penalty grows with every month you go without coverage and stays for as long as you have Part D.
 
 One thing I'd flag: some federal retirees drop FEHB thinking Medicare Advantage (Part C) will cover everything. It might, but you can never re-enroll in FEHB if you drop it. That door closes permanently. I've heard this described as one of the most consequential and irreversible decisions a federal retiree can make, and I agree with that framing completely.
 

@@ -22,12 +22,12 @@ faqs:
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+lastmod: 2026-11-26
 ---
-When a Part D plan sends a notice that a blood pressure medication is jumping from a $10 copay to $47 starting January 1st, the person receiving it often doesn't realize they didn't change anything - the plan did. With about six weeks until the change takes effect, many people discover they have options they didn't know about. A common reaction is: "I didn't know I could switch."
+When a Part D plan sends a notice that a blood pressure medication is jumping from a $10 copay to $47 starting January 1st, the person receiving it often doesn't realize they didn't change anything - the plan did. With about six weeks until the change takes effect, many people discover they have options they didn't know about. A common reaction is surprise that switching is allowed.
 
-You can switch. Every year. And for 2026, there are real reasons to pay attention during Open Enrollment, which runs October 15 through December 7, 2025.
+You can switch. Every year. And there are real reasons to pay attention every year during Open Enrollment, which runs October 15 through December 7.
 
 ## What Part D Actually Is (And Why the Details Matter More Than the Premium)
 
@@ -35,7 +35,7 @@ Part D is Medicare's prescription drug coverage. It's sold by private insurance 
 
 Here's what most people don't realize: the monthly premium is almost never the most important number. A plan with a $0 premium can cost you thousands more per year than a plan with a $35 premium, depending on which drugs you take and how that plan's formulary is structured. A formulary is the list of drugs a plan covers, and each drug gets assigned to a tier that determines your cost. Lower tiers mean lower copays. Your medication might be on Tier 2 in one plan and Tier 4 in another, and that difference adds up fast.
 
-The 2026 plan year also comes with an important milestone. Thanks to the Inflation Reduction Act, the out-of-pocket cap on Part D drug costs is now $2,100 per year. Before this law passed, there was no true cap, and some people with serious illnesses were spending $5,000, $7,000, or more annually just on prescriptions. That $2,100 ceiling is a meaningful protection, and it's now standard on every Part D plan. Medicare.gov has a full breakdown of how this cap works and what counts toward it.
+The 2026 plan year also comes with an important milestone. Thanks to the Inflation Reduction Act, the out-of-pocket cap on Part D drug costs is now $2,100 per year. Before this law passed, there was no true cap, and some people with serious illnesses were spending $5,000, $7,000, or more annually just on prescriptions. That $2,100 ceiling is a meaningful protection in 2026, and it applies to every Part D plan. Medicare.gov has a full breakdown of how this cap works and what counts toward it.
 
 ## The Big Changes Heading Into 2026
 
@@ -44,11 +44,11 @@ The 2026 plan year also comes with an important milestone. Thanks to the Inflati
 | Deductible Phase | Initial out-of-pocket costs before coverage begins | You pay the full cost of drugs until deductible is met |
 | Initial Coverage Phase | Standard coverage after deductible | You pay copays/coinsurance; plan pays its share |
 | Catastrophic Phase | High-cost protection | You pay minimal costs; plan covers the rest (with $2,100 annual cap) |
-| Coverage Gap | Eliminated as of 2026 | Replaced by simplified three-phase structure under Inflation Reduction Act |
+| Coverage Gap | Eliminated beginning in 2025 | Replaced by simplified three-phase structure under Inflation Reduction Act |
 
 Every fall, Medicare releases updated plan data and the landscape shifts. Premiums change. Formularies get restructured. Some plans enter a market, others leave. Going into 2026, here's what you need to know.
 
-The national benchmark premium that determines whether you owe a [Late Enrollment Penalty](/medicare-part-d-late-enrollment-penalty/) is recalculated each year. For 2026, that number is expected to shift modestly, though final figures are published by CMS (the Centers for Medicare and Medicaid Services) in the fall. What doesn't change is the penalty itself: if you delayed enrolling in Part D when you were first eligible and didn't have other creditable drug coverage, you pay a permanent penalty added to your premium for as long as you have Part D.
+The national benchmark premium that determines whether you owe a [Late Enrollment Penalty](/medicare-part-d-late-enrollment-penalty/) is recalculated each year. For 2026, the national base beneficiary premium is $38.99, up from $36.78 in 2025. What doesn't change is the penalty itself: if you delayed enrolling in Part D when you were first eligible and didn't have other creditable drug coverage, you pay a permanent penalty added to your premium for as long as you have Part D.
 
 Plans are also adjusting to the new cost-sharing structure created by the Inflation Reduction Act. The "coverage gap" (the old "donut hole") has been eliminated in its traditional form, replaced with a simpler three-phase structure: deductible phase, initial coverage phase, and catastrophic phase. With [the $2,100 cap](/medicare-2000-out-of-pocket-cap-drugs/) in place, most people with high drug costs will reach catastrophic coverage and pay nothing for the rest of the year. This is genuinely good news, but it also means plan premiums have risen in some markets to offset the insurers' increased costs.
 
@@ -91,7 +91,7 @@ This quick comparison framework can help you organize your research:
 | Factor | What to Look For |
 |---|---|
 | Monthly premium | One piece of the total cost, not the whole picture |
-| Annual deductible | Up to $615 in 2026; check if your drugs are exempt from the deductible |
+| Annual deductible | Up to $615 in 2026 (rising to $700 in 2027); check if your drugs are exempt from the deductible |
 | Formulary tier for your drugs | Lower tier = lower copay; confirm before enrolling |
 | Preferred pharmacy network | Verify your pharmacy is preferred, not just in-network |
 | Star Rating | Look for 4 or 5 stars |
@@ -101,9 +101,9 @@ This quick comparison framework can help you organize your research:
 
 ## Extra Help: The Program Most People Don't Know to Ask About
 
-If your income and resources are limited, you may qualify for Extra Help, officially called the Low Income Subsidy (LIS). This is a federal program that pays for most of your Part D costs, including premiums, deductibles, and copays. For 2025, individuals with income below roughly 150% of the federal poverty level may qualify, and the 2026 thresholds will be similar.
+If your income and resources are limited, you may qualify for Extra Help, officially called the Low Income Subsidy (LIS). This is a federal program that pays for most of your Part D costs, including premiums, deductibles, and copays. For 2026, people with income below 150% of the federal poverty level who meet the resource limit ($18,090 single / $36,100 married) qualify for full Extra Help. People with Medicaid, SSI or a Medicare Savings Program qualify automatically.
 
-What I find heartbreaking is how many people are eligible and simply don't know it. The Social Security Administration estimates millions of people qualify for Extra Help but aren't enrolled. You apply through Social Security, either online at ssa.gov, by phone, or at your local Social Security office. If you qualify, you also get a Special Enrollment Period to switch Part D plans at any time during the year, which is a significant flexibility benefit.
+What I find heartbreaking is how many people are eligible and simply don't know it. Many people who qualify for Extra Help never apply. You apply through Social Security, either online at ssa.gov, by phone, or at your local Social Security office. If you qualify, you also get a Special Enrollment Period to switch Part D plans at any time during the year, which is a significant flexibility benefit.
 
 Not sure whether you qualify? Your State Health Insurance Assistance Program (SHIP) can help. SHIP counselors provide free, unbiased Medicare counseling. Find your local SHIP at shiphelp.org.
 

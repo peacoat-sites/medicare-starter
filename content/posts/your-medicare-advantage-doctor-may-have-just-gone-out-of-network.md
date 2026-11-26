@@ -9,15 +9,15 @@ tags: ["your", "medicare", "advantage", "doctor", "have"]
 author: "Robert Williams"
 author_slug: "robert-williams"
 author_title: "Benefits Advocate"
-author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Advisor Guide, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
+author_bio: "Robert Williams is trained through the SHIP counselor framework and focuses on helping lower-income seniors access the full range of benefits available to them, including Extra Help with prescription costs, Medicare Savings Programs, and Medicaid coordination. At Medicare Starter, he covers low-income benefit programs, avoiding common enrollment penalties, and getting help navigating Medicare when the process feels overwhelming."
 slug: "your-medicare-advantage-doctor-may-have-just-gone-out-of-network"
 affiliate_disclosure: true
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people signing up for Medicare Advantage assumed the hardest part was picking a plan. What they didn't realize is that the plan they picked might not keep their doctors.
 
-That assumption is colliding hard with reality right now. As of July 1, 2026, a fresh wave of hospital system exits from Medicare Advantage networks took effect, including Brown University Health physicians, Main Line Health in the Philadelphia suburbs, and ECU Health hospitals in North Carolina. Moffitt Cancer Center in Tampa, one of the country's premier cancer treatment facilities, went out of network with Humana Medicare Advantage plans this same month. These aren't small community clinics. These are major regional anchors where people go for serious, sometimes life-or-death care. According to [Becker's Hospital Review](https://www.beckershospitalreview.com/finance/16-health-systems-dropping-medicare-advantage-plans-2026/), at least 23 health systems have dropped Medicare Advantage contracts in 2026 alone, joining earlier high-profile departures from Mass General Brigham, Mayo Clinic, and the Providence Clinical Network. KFF estimates that as many as 2.9 million Medicare Advantage enrollees, roughly 1 in 10, are facing forced disenrollment or significant network disruption this year.
+That assumption is colliding hard with reality right now. As of July 1, 2026, a fresh wave of hospital system exits from Medicare Advantage networks took effect, including Brown University Health physicians, Main Line Health in the Philadelphia suburbs, and ECU Health hospitals in North Carolina. Moffitt Cancer Center in Tampa, one of the country's premier cancer treatment facilities, went out of network with Humana Medicare Advantage plans this same month. These aren't small community clinics. These are major regional anchors where people go for serious, sometimes life-or-death care. According to [Becker's Hospital Review](https://www.beckershospitalreview.com/finance/16-health-systems-dropping-medicare-advantage-plans-2026/), at least 23 health systems have dropped Medicare Advantage contracts in 2026 alone, joining earlier high-profile departures from Mass General Brigham, Mayo Clinic, and the Providence Clinical Network. Many Medicare Advantage enrollees are facing forced disenrollment or significant network disruption this year.
 
 If you or someone you love is on a Medicare Advantage plan, this is the moment to check, not assume.
 
@@ -29,7 +29,7 @@ Medicare Advantage plans, often called MA plans, are private insurance alternati
 
 Health systems say they're spending enormous resources fighting claim denials and fighting to get patients the care they need. The insurers say they're managing costs to keep premiums low. Both things can be true at once, and the research here is genuinely mixed on who carries more of the blame. What isn't mixed is the outcome: hospitals are deciding the contracts aren't worth it, and patients are caught in the middle.
 
-The scale of insurer pullback is significant too. [KFF's 2026 enrollment analysis](https://www.kff.org/medicare/medicare-advantage-in-2026-enrollment-update-and-key-trends/) found that UnitedHealthcare and Humana, the two largest MA insurers, now offer plans in about 80% of U.S. counties, down from nearly 90% the year before. UnitedHealth Group projected a drop of roughly 1 million members in its Medicare Advantage enrollment for 2026, driven by benefit cuts and deliberate plan exits from certain markets.
+The scale of insurer pullback is significant too. [KFF's 2026 enrollment analysis](https://www.kff.org/medicare/medicare-advantage-in-2026-enrollment-update-and-key-trends/) found that UnitedHealthcare and Humana, the two largest MA insurers, now offer plans in about 80% of U.S. counties, down from nearly 90% the year before. UnitedHealth Group projected a decline in its Medicare Advantage enrollment for 2026, driven by benefit cuts and deliberate plan exits from certain markets.
 
 ## What This Actually Means for Your Care
 

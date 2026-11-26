@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 You get a cancer diagnosis in January. Suddenly it's chemotherapy, specialist visits, imaging scans, maybe a hospital stay or two. The bills stack up fast. If you're on a Medicare Advantage plan, one number could be the difference between financial devastation and a manageable year: your out-of-pocket maximum. That single figure caps how much you'll ever pay for covered services in a calendar year. Once you hit it, the plan pays 100% for the rest of the year. Most people don't think about this number until they're sick. That's exactly the wrong time to be surprised by it.
 
@@ -31,7 +31,7 @@ You get a cancer diagnosis in January. Suddenly it's chemotherapy, specialist vi
  <div class="vm-head">MOOP Comparison: Plan Tiers by Cost</div>
  <div class="vm-body">
  <p class="vm-intro">Medicare Advantage plans cluster into predictable tiers, here's how MOOP levels typically correlate with premiums and cost-sharing structures.</p>
- <table><caption>Typical Medicare Advantage Plan Tiers (2025)</caption><thead><tr><th>Plan Tier</th><th>Typical MOOP Range</th><th>Monthly Premium Range</th><th>PCP Copay</th><th>Specialist Copay</th><th>Best For</th></tr></thead><tbody><tr><td>Low-Premium / High-MOOP</td><td>$7,500-$9,350</td><td>$0-$25</td><td>$0-$10</td><td>$40-$50</td><td>Healthy enrollees wanting minimal monthly costs</td></tr><tr><td>Mid-Range</td><td>$5,000-$7,499</td><td>$30-$75</td><td>$5-$15</td><td>$30-$45</td><td>Moderate healthcare users seeking balance</td></tr><tr><td>Lower-MOOP / Higher-Premium</td><td>$3,000-$4,999</td><td>$80-$150</td><td>$0-$10</td><td>$20-$35</td><td>Those with chronic conditions or expected high utilization</td></tr><tr><td>Integrated D-SNP Plans</td><td>$0-$3,400</td><td>$0 (Medicaid-eligible)</td><td>$0</td><td>$0-$10</td><td>Dual-eligible enrollees (Medicare + Medicaid)</td></tr></tbody><tfoot><tr><td colspan="6">Note: Ranges are illustrative based on typical plan structures. Actual plans vary by region and carrier. The 2025 federal maximum is $9,350 in-network.</td></tr></tfoot></table>
+ <table><caption>Typical Medicare Advantage Plan Tiers</caption><thead><tr><th>Plan Tier</th><th>Typical MOOP Range</th><th>Monthly Premium Range</th><th>PCP Copay</th><th>Specialist Copay</th><th>Best For</th></tr></thead><tbody><tr><td>Low-Premium / High-MOOP</td><td>$7,500-$9,250</td><td>$0-$25</td><td>$0-$10</td><td>$40-$50</td><td>Healthy enrollees wanting minimal monthly costs</td></tr><tr><td>Mid-Range</td><td>$5,000-$7,499</td><td>$30-$75</td><td>$5-$15</td><td>$30-$45</td><td>Moderate healthcare users seeking balance</td></tr><tr><td>Lower-MOOP / Higher-Premium</td><td>$3,000-$4,999</td><td>$80-$150</td><td>$0-$10</td><td>$20-$35</td><td>Those with chronic conditions or expected high utilization</td></tr><tr><td>Integrated D-SNP Plans</td><td>$0-$3,400</td><td>$0 (Medicaid-eligible)</td><td>$0</td><td>$0-$10</td><td>Dual-eligible enrollees (Medicare + Medicaid)</td></tr></tbody><tfoot><tr><td colspan="6">Note: Ranges are illustrative based on typical plan structures. Actual plans vary by region and carrier. The 2026 federal maximum is $9,250 in-network ($9,350 in 2025).</td></tr></tfoot></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -42,7 +42,7 @@ Medicare Advantage (Part C) is run by private insurance companies approved by Me
 
 The MOOP is your annual ceiling on what you personally pay for covered medical services. That means copayments, coinsurance (your percentage of a bill), and deductibles. Hit that number, and the plan covers 100% of in-network covered costs for the rest of the year.
 
-The federal government set the maximum allowable MOOP at $9,350 for in-network services and $14,000 for combined in and out-of-network in 2025. Most plans set their limits lower. A lower MOOP usually signals a more generous plan, though it almost always comes with higher monthly premiums. That tradeoff is worth understanding upfront.
+The federal government set the maximum allowable MOOP at $9,250 for in-network services and $13,900 for combined in and out-of-network in 2026 ($9,350 in-network in 2025). Most plans set their limits lower. A lower MOOP usually signals a more generous plan, though it almost always comes with higher monthly premiums. That tradeoff is worth understanding upfront.
 
 Here's something people miss: the MOOP only covers services your plan actually covers. Get a service that isn't covered? Those costs don't count toward your limit at all. Reading what a plan covers matters as much as knowing the dollar number.
 

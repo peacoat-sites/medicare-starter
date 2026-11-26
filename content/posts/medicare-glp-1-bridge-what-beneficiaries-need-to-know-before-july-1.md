@@ -9,10 +9,10 @@ tags: ["medicare", "glp-1", "bridge:", "what", "beneficiaries"]
 author: "Nancy Davis"
 author_slug: "nancy-davis"
 author_title: "Drug Plan Analyst"
-author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Advisor Guide, she covers Part D plan selection, the coverage gap, and how to use the Medicare Plan Finder effectively."
+author_bio: "Nancy Davis has spent years analyzing Medicare Part D plans and helping seniors reduce their out-of-pocket prescription costs. She knows how the coverage gap works, which strategies actually reduce costs, and how to compare formularies across plans to find the best fit for a specific medication list. At Medicare Starter, she covers Part D plan selection, the out-of-pocket cap, and how to use the Medicare Plan Finder effectively."
 slug: "medicare-glp-1-bridge-what-beneficiaries-need-to-know-before-july-1"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-26
 ---
 Most coverage of the Medicare GLP-1 Bridge leads with the headline: starting July 1, 2026, Medicare will cover weight-loss drugs for the first time ever. What gets lost is the fine print that actually determines whether this helps you, and how much you'll pay. A few specific details could catch people off guard who think they've got it figured out.
 
@@ -36,7 +36,7 @@ You also need Part D coverage to access the Bridge. Medicare Advantage plans tha
 
 ## The $50 Copay: What They're Not Telling You
 
-Every qualifying beneficiary pays a flat $50 per month for their GLP-1 medication under the Bridge. No tiered formulary nonsense. No prior authorization maze.
+Every qualifying beneficiary pays a flat $50 per month for their GLP-1 medication under the Bridge. No tiered formulary nonsense.
 
 The real problem: that $50 monthly copay doesn't count toward your $2,100 annual Part D out-of-pocket cap. Under standard 2026 Part D rules, once you've paid $2,100 out of pocket, your covered drugs are free for the rest of the year. Bridge copays exist completely outside that accounting.
 
@@ -49,7 +49,7 @@ If you hit the cap on other medications, you're still paying $50 a month for GLP
 | Copay amount | $50/month flat | Tiered by plan | No prior authorization required on Bridge |
 | Counts toward annual cap | No | Yes | Bridge copays stay outside the $2,100 cap |
 | Covered obesity GLP-1s | Wegovy, Zepbound (KwikPen), Foundayo | Varies by plan | Only these three qualify under Bridge |
-| Diabetes GLP-1s (Ozempic, Mounjaro) | No-stay under Part D | Yes | Prescribing indication determines coverage route |
+| Diabetes GLP-1s (Ozempic, Mounjaro) | Not covered under Bridge | Yes | Prescribing indication determines coverage route |
 | Program duration | July 1, 2026-Dec 31, 2027 | Ongoing | Bridge is temporary demonstration only |
 
 Three medications only. Wegovy (semaglutide, injectable and oral), Zepbound in KwikPen form (tirzepatide, injectable), and Foundayo, which is Eli Lilly's newer GLP-1 pill. Standard diabetes GLP-1s like Ozempic, Mounjaro, and Rybelsus stay under normal Part D rules and aren't part of the Bridge, as the [Medicare Rights Center noted in their June 4 explainer](https://www.medicarerights.org/medicare-watch/2026/06/04/glp-1-weight-loss-drug-demonstration-begins-july-2026).

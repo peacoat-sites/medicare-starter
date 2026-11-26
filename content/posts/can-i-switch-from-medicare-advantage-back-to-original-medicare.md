@@ -9,7 +9,7 @@ tags: ["switch", "from", "medicare", "advantage", "back"]
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
 slug: "can-i-switch-from-medicare-advantage-back-to-original-medicare"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
     a: "Yes, but it requires a qualifying life event that triggers a Special Enrollment Period. Examples include moving to an area your plan doesn't serve, your plan leaving your area, or qualifying for Medicaid or Extra Help. If you think a life event might apply, call 1-800-MEDICARE or check with your local SHIP counselor to confirm eligibility."
   - q: "Does switching back to Original Medicare affect my Part A or Part B benefits?"
     a: "No. Your underlying Medicare Part A (hospital insurance) and Part B (medical insurance) coverage remains in place the whole time you're in a Medicare Advantage plan. You're not giving those up when you join MA, and you're not re-enrolling in them when you leave. You're simply changing how those benefits are delivered."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 ---
 
 You're probably sitting with a stack of Explanation of Benefits forms, a provider directory that somehow keeps shrinking, and a growing suspicion that your Medicare Advantage plan isn't quite what it was sold to you as. Maybe your cardiologist just left the network. Maybe you're facing a big procedure and the prior authorization process has you ready to scream. Whatever got you here, you're not alone, and the question you're asking is one of the most important ones you can ask: can I actually go back to Original Medicare?
@@ -38,7 +38,7 @@ The short answer is yes. But there are timing rules and coverage gaps to watch f
 | Medicare Advantage Open Enrollment Period | January 1 - March 31 | People already in a Medicare Advantage plan | First of following month |
 | Special Enrollment Periods (SEPs) | Varies by trigger | Those with qualifying life events | Varies by trigger |
 
-A common source of confusion is that switching is possible during Open Enrollment every fall, but that's not the whole picture.
+A common source of confusion is that people think the fall Annual Enrollment Period is the only chance to switch, but that's not the whole picture.
 
 There are actually several windows when you can drop your Medicare Advantage (MA) plan and return to Original Medicare (Parts A and B):
 
@@ -58,18 +58,18 @@ When you first enrolled in Medicare Part B, you had what's called a "guaranteed 
 
 A few states (California, Connecticut, Maine, Massachusetts, Missouri, New York, and a handful of others) have ongoing guaranteed issue protections, meaning insurers must sell you a Medigap policy regardless of your health. If you live in one of those states, this is a much smaller concern. But if you're in Texas, Florida, Ohio, or most other states, this is a real risk.
 
-For example, someone switching back to Original Medicare at 71 after their plan's network dropped a key provider might qualify for a Plan G Medigap policy at around $180 a month if they're in good health. However, those with diabetes, heart disease, or a recent cancer diagnosis may face quotes of $400 a month or denial altogether. Original Medicare without any supplement means you're on the hook for 20% of Part B costs with no cap, which can be devastating in a serious illness.
+For example, someone switching back to Original Medicare at 71 after their plan's network dropped a key provider might qualify for a Plan G Medigap policy at around $180 a month if they're in good health. However, those with diabetes, heart disease, or a recent cancer diagnosis may face quotes of $400 a month or denial altogether. Original Medicare without any supplement means you're on the hook for 20% of Part B costs after the $283 annual deductible, with no cap, which can be devastating in a serious illness.
 
 I don't say this to discourage you. I say it because you need this information before you switch, not after.
 
 **Scenario example:**
-Retired teacher, age 68, Colorado. Frustrated with prior authorizations on her rheumatology care. Switches back to Original Medicare during the January Open Enrollment Period. Applies for Plan G Medigap. Has well-controlled rheumatoid arthritis on her record. Gets denied by two carriers, approved by a third at $247/month. Still made the switch, still happy with the decision, but the shopping process took six weeks and nearly derailed her timeline.
+Consider a retired teacher, age 68, in Colorado. She is frustrated with prior authorizations on her rheumatology care and switches back to Original Medicare during the January Open Enrollment Period. She applies for Plan G Medigap with well-controlled rheumatoid arthritis on her record. Two carriers might deny her and a third might approve her at a higher premium. She could still be glad she switched, but the shopping process could take weeks and nearly derail her timeline.
 
 The lesson: start shopping for Medigap before you formally disenroll from your Advantage plan. Talk to a broker (ideally one who works with multiple carriers, not just one company) or contact your state's [SHIP (State Health Insurance Assistance Program)](https://www.shiphelp.org/) for free, unbiased help. SHIP counselors are volunteers specifically trained to help Medicare beneficiaries, and they have zero financial incentive to steer you anywhere.
 
 ## Don't Forget Part D
 
-Original Medicare doesn't include prescription drug coverage. If you're leaving a Medicare Advantage plan that included drug coverage (most do), you'll need to pick up a standalone Part D plan separately or you'll face a late enrollment penalty later. That penalty compounds, and it sticks around forever, so this isn't something to procrastinate on.
+Original Medicare doesn't include prescription drug coverage. If you're leaving a Medicare Advantage plan that included drug coverage (most do), you'll need to pick up a standalone Part D plan separately or you'll face a late enrollment penalty later. That penalty is simple multiplication rather than compounding, but it is added to your monthly premium for as long as you have Part D, so this isn't something to procrastinate on.
 
 You can enroll in a Part D plan during the same enrollment windows mentioned above. Use the plan finder tool at Medicare.gov to compare options based on your specific medications and your preferred pharmacy.
 

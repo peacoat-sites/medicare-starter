@@ -1,6 +1,7 @@
 ---
 title: "Medicare Hospital Cost Per Day: What You'll Actually Pay"
 date: 2026-11-20T21:46:50.493405+00:00
+lastmod: 2026-11-26
 draft: false
 description: "Understand Medicare hospital daily costs, including deductibles, copayments, and what coverage includes for inpatient stays."
 image: "/img/heroes/6010874.jpg"
@@ -9,7 +10,7 @@ tags: ["medicare", "hospital", "cost"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "medicare-hospital-cost-per-day"
 affiliate_disclosure: true
 faqs:
@@ -27,7 +28,7 @@ faqs:
 
 Medicare covers a lot, but it doesn't cover everything, and the gap that surprises people most is what you owe during a hospital stay. The good news: once you understand how the cost-per-day structure works, you can plan for it. The short answer is that [Medicare Part](/medicare-part-b-premium/) A uses a "benefit period" system with a one-time deductible, then daily coinsurance that kicks in after day 60. That coinsurance can be steep.
 
-Part A's hospital cost structure has nothing to do with how long your stay is per se. It resets based on benefit periods, not calendar years. That's the piece most people miss, and it's the reason a second hospitalization can cost you a second full deductible within the same year.
+Part A's hospital cost structure depends on how long your stay is, but the deductible resets based on benefit periods, not calendar years. That's the piece most people miss, and it's the reason a second hospitalization can cost you a second full deductible within the same year.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Medicare Part A charges a single deductible per benefit period, not per year, check Medicare.gov for the current amount.</li><li style="margin:5px 0">Days 1-60 of a hospital stay cost you nothing beyond the deductible (assuming no secondary coverage).</li><li style="margin:5px 0">Days 61-90 carry significant daily coinsurance; "lifetime reserve days" (days 91-150) cost even more per day.</li><li style="margin:5px 0">After 150 days, Medicare Part A pays nothing, you're on your own unless you have a Medigap or employer supplement plan.</li><li style="margin:5px 0">A new benefit period (and a new deductible) starts after you've been out of a hospital or skilled nursing facility for 60 consecutive days.</li></ul></div>
 
@@ -50,7 +51,7 @@ Here's where the daily costs actually land. Medicare Part A divides a hospital s
 
 The jump from the days 61-90 tier to the lifetime reserve tier is significant. And once you've used your 60 lifetime reserve days, they're gone permanently. This is not a figure that resets annually or per benefit period.
 
-**Example:** Assume the Part A deductible is $1,632 (a figure CMS published for a recent year; verify the current amount at Medicare.gov). Someone admitted for a 75-day stay would owe: the full deductible once, plus 15 days of daily coinsurance at the days 61-90 rate. If that rate is roughly $408/day (again, verify current figures), those 15 days add about $6,120. Total out-of-pocket before any supplemental coverage: approximately $7,752. That's a real number for a stay most people would consider "just" two and a half months.
+**Example:** Assume the Part A deductible is $1,736 (the 2026 amount; verify the current figure at Medicare.gov). Someone admitted for a 75-day stay would owe: the full deductible once, plus 15 days of daily coinsurance at the days 61-90 rate. That rate is $434/day in 2026, so those 15 days add $6,510. Total out-of-pocket before any supplemental coverage: $8,246. That's a real number for a stay most people would consider "just" two and a half months.
 
 ## Skilled Nursing Facility Costs Are Different
 

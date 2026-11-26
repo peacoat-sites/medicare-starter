@@ -22,8 +22,8 @@ faqs:
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
+lastmod: 2026-11-26
 ---
 Most people assume Medicare covers hearing aids the way it covers a hip replacement or a round of chemotherapy. It doesn't. Not even close.
 
@@ -40,9 +40,9 @@ That's the uncomfortable truth that gets glossed over in a lot of Medicare expla
 | Medigap (Supplement) | No | 100% out-of-pocket ($4,000-$7,000+) | Does not cover what Medicare excludes |
 | Over-the-Counter (OTC) | No | 100% out-of-pocket ($200-$1,500) | Only suitable for mild-to-moderate loss; not appropriate for severe/profound loss or ear disease |
 
-The average pair of hearing aids costs somewhere between $4,000 and $7,000 out of pocket, though you can spend north of $6,000 for premium Bluetooth-enabled devices from brands like Phonak or Oticon. Over-the-counter options, which the FDA cleared for adults with mild to moderate hearing loss in 2022, run considerably cheaper, sometimes $200 to $1,500 for a pair.
+A pair of prescription hearing aids typically costs somewhere between $4,000 and $7,000 out of pocket, and premium Bluetooth-enabled devices from brands like Phonak or Oticon sit at the high end of that range or above it. Over-the-counter options, which the FDA cleared for adults with mild to moderate hearing loss in 2022, run considerably cheaper, often $200 to $1,500 for a pair.
 
-When a Medicare beneficiary with traditional Part A and Part B shows up at an audiology clinic, the bill is entirely their responsibility. There's no deductible that applies. No coinsurance. The EOB (Explanation of Benefits) will come back stamped "not a covered service," and no amount of appeals will change that outcome, because the denial isn't a billing error. It's policy.
+When a Medicare beneficiary with traditional Part A and Part B shows up at an audiology clinic for a hearing aid, the bill is entirely their responsibility. Medicare pays nothing toward the device, so no deductible or coinsurance applies to it. The EOB (Explanation of Benefits) will come back stamped "not a covered service," and no amount of appeals will change that outcome, because the denial isn't a billing error. It's policy.
 
 Part B does cover diagnostic hearing exams, but only when a physician orders them to rule out a medical condition, not simply to measure hearing loss for fitting a device. That distinction matters at billing time.
 
@@ -58,7 +58,7 @@ Before you assume your Advantage plan is generous, check a few things.
 
 First, the network. If the plan's hearing benefit only applies to in-network providers, and the audiologist you've seen for years is out of network, you'll either pay full price or switch providers. Second, whether the allowance resets annually or every two or three years. Most quality hearing aids last five to seven years, so a biennial benefit might actually align reasonably well with replacement cycles. Third, what device tier the allowance covers. A $1,500 allowance that only applies to entry-level aids won't go far if your audiologist recommends a mid-range device for your specific type of loss.
 
-I've talked to seniors who enrolled in a Medicare Advantage plan specifically for the hearing benefit, only to discover at the fitting appointment that their model of loss required a level of technology not covered by the plan. That's a painful surprise at $3,000 a pair.
+Consider someone who enrolls in a Medicare Advantage plan specifically for the hearing benefit, only to discover at the fitting appointment that their type of loss requires a level of technology not covered by the plan. That's a painful surprise at $3,000 a pair.
 
 The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes plan-level benefits data, and Medicare.gov's plan finder tool lets you filter by extra benefits including hearing. Use it before you assume, not after you enroll.
 
@@ -66,7 +66,7 @@ The [Centers for Medicare & Medicaid Services](https://www.cms.gov/) publishes p
 
 Medigap plans, which are sold by private insurers to cover the [cost-sharing gaps in original Medicare](/medicare-coinsurance-explained/), do not cover hearing aids either. They wrap around what Medicare covers. Since Medicare doesn't cover hearing aids, neither does Medigap. A Plan G or Plan N policy is excellent for reducing your hospital and outpatient cost exposure, but it will do nothing for your audiologist's bill.
 
-This is a common misconception I've heard from readers. They buy comprehensive Medigap coverage expecting it to act as a catch-all. It isn't.
+This is a common misconception: some people buy comprehensive Medigap coverage expecting it to act as a catch-all. It isn't.
 
 ## The OTC Option: Real, But Right for Fewer People Than the Marketing Suggests
 
@@ -74,7 +74,7 @@ The 2022 FDA rule creating an over-the-counter hearing aid category genuinely ch
 
 For mild to moderate hearing loss in an otherwise healthy adult, OTC aids can work well. If you're straining to hear conversation in a restaurant or asking people to repeat themselves on the phone, an OTC device at $600 to $900 might do most of what a $4,500 prescription device would do.
 
-But OTC aids aren't appropriate for everyone. Severe or profound hearing loss, single-sided deafness, hearing loss associated with ear disease, and many cases involving tinnitus still require a licensed audiologist and prescription-grade technology. Fitting matters enormously. An incorrectly programmed or poorly fitted aid can actually make hearing worse, or cause discomfort significant enough that the device ends up in a drawer. Roughly a third of hearing aids go unworn.
+But OTC aids aren't appropriate for everyone. Severe or profound hearing loss, single-sided deafness, hearing loss associated with ear disease, and many cases involving tinnitus still require a licensed audiologist and prescription-grade technology. Fitting matters enormously. An incorrectly programmed or poorly fitted aid can actually make hearing worse, or cause discomfort significant enough that the device ends up in a drawer. Poorly fitted aids often end up unworn.
 
 Medicare Part B won't reimburse OTC aids any more than prescription ones. But the price difference makes the coverage gap sting less.
 

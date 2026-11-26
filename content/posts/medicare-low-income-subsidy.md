@@ -9,7 +9,7 @@ tags: ["medicare", "income", "subsidy"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-low-income-subsidy"
 affiliate_disclosure: true
 faqs:
@@ -23,9 +23,9 @@ faqs:
    a: "Look at your Medicare card or any recent letter from Medicare or Social Security. If you have full Medicaid, SSI, or a Medicare Savings Program, you have automatic Extra Help. You can also call 1-800-MEDICARE (1-800-633-4227) and ask directly. It takes about five minutes."
  - q: "Does Extra Help coverage renew automatically?"
    a: "If you have automatic Extra Help (through Medicaid, SSI, or an MSP), it renews as long as you stay enrolled in those programs. If you applied directly through Social Security, you'll typically receive a review letter periodically, usually once a year, to confirm your situation hasn't changed significantly. Respond to those letters promptly. Missing one can interrupt your benefits."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
-Most people who qualify for the Medicare Low Income Subsidy never apply. That's not exaggeration. The Social Security Administration says roughly a third of eligible people aren't enrolled, which means they're throwing away real money every single month. Many eligible seniors end up paying $50, $80, or sometimes $140 a month for prescriptions they could get for almost nothing through this program, simply because they weren't aware it existed.
+Most people who qualify for the Medicare Low Income Subsidy never apply. That's not exaggeration. Many eligible people aren't enrolled, which means they're throwing away real money every single month. Many eligible seniors end up paying $50, $80, or sometimes $140 a month for prescriptions they could get for almost nothing through this program, simply because they weren't aware it existed.
 
 Let me fix that.
 
@@ -33,22 +33,22 @@ Let me fix that.
 
 | Benefit Type | Premium | Deductible | Generic Copay | Brand-Name Copay |
 | --- | --- | --- | --- | --- |
-| Full Extra Help | $0 | $0 | $1.60 | ~$4.80 |
+| Full Extra Help | $0 | $0 | Up to $5.10 | Up to $12.65 |
 | Standard Part D (2026) | Varies | Varies | Varies | Varies |
 
 The Low Income Subsidy (LIS) is a federal program that helps people with Medicare pay for Part D prescription drug coverage. [Part D covers medications](/best-medicare-part-d-plans-2026/), and it comes with premiums, deductibles, and copays that'll hurt on a fixed income. The LIS, sometimes called "Extra Help" (that's what Social Security calls it when you apply), covers most or all of those costs.
 
-Here's what most people miss: this isn't a small discount. Full Extra Help means $0 premiums for a benchmark Part D plan, a $0 deductible, and copays as low as $1.60 for generic drugs and around $4.80 for brand-name drugs in 2026. Those numbers adjust every year, but we're talking about near-complete elimination of your drug costs if you qualify for full benefits.
+Here's what most people miss: this isn't a small discount. Full Extra Help means $0 premiums for a benchmark Part D plan, a $0 deductible, and copays of no more than $5.10 for generic drugs and $12.65 for brand-name drugs in 2026. Those numbers adjust every year, but we're talking about near-complete elimination of your drug costs if you qualify for full benefits.
 
-Two levels of Extra Help exist right now. Full Extra Help is available automatically if you have Medicaid, get Supplemental Security Income (SSI), or are enrolled in a Medicare Savings Program (MSP). If you're in one of those programs, you might already have Extra Help and not even know it. Partial Extra Help goes to people above those thresholds but still with limited income and resources.
+Only one level of Extra Help exists right now. Since 2024, there is no partial tier. Extra Help is granted automatically if you have Medicaid, get Supplemental Security Income (SSI), or are enrolled in a Medicare Savings Program (MSP). If you're in one of those programs, you might already have Extra Help and not even know it. Other people with income below 150% of the federal poverty level who meet the resource limit also get full Extra Help by applying.
 
 ## Who Qualifies
 
 This is where people get confused. The income and resource limits shift every year and depend on your situation.
 
-In 2026, full Extra Help covers people at around 135% of the federal poverty level. Partial Extra Help extends to about 150%. For a single person, that's roughly $20,000 to $22,000 annually. Married couples living together get higher limits. Don't rule yourself out based on something you heard from a neighbor. Run the actual numbers first.
+In 2026, full Extra Help covers people with income below 150% of the federal poverty level who meet the resource limit. There is no longer a partial tier. For a single person, the income limit is about $23,475 annually. Married couples living together get higher limits, about $31,725. Don't rule yourself out based on something you heard from a neighbor. Run the actual numbers first.
 
-Resources matter too. This means money in checking and savings accounts, stocks, bonds. Your home doesn't count. Neither does one car, personal belongings, or life insurance policies under a certain value. For a single person in 2026, the resource limit is approximately $17,220. Married couples get around $34,360. Check [Medicare.gov](https://www.medicare.gov/) for the current figures before you assume you're disqualified.
+Resources matter too. This means money in checking and savings accounts, stocks, bonds. Your home doesn't count. Neither does one car, personal belongings, or life insurance policies under a certain value. For a single person in 2026, the resource limit is $18,090. Married couples get $36,100. Both figures include $1,500 per person for burial expenses. Check [Medicare.gov](https://www.medicare.gov/) for the current figures before you assume you're disqualified.
 
 Here's what I need to be direct about: many people assume that owning their home or having a modest IRA will automatically disqualify them. That assumption has cost people thousands. The rules around countable resources are specific and sometimes surprising. A prepaid burial fund doesn't count. An IRA sometimes does, sometimes doesn't, depending on whether it's accessible. Get actual guidance before you give up.
 

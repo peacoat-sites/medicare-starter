@@ -9,7 +9,7 @@ tags: ["compare", "medicare", "plans", "cost"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "how-to-compare-medicare-plans-cost"
 affiliate_disclosure: true
 faqs:
@@ -23,7 +23,7 @@ faqs:
    a: "Many do offer some dental and vision benefits, but the coverage varies enormously. Some plans offer meaningful benefits; others offer limited preventive care only with significant restrictions on major procedures. Always read the actual plan documents, not just the marketing summary, before counting on those benefits in your cost comparison."
  - q: "Should I use an insurance broker to compare plans, or do it myself?"
    a: "An independent broker who works with multiple carriers can be genuinely helpful, and their services are typically free to you (they're paid by commissions from the plans). The key word is 'independent.' A captive agent who sells only one company's plans can't give you a full comparison. For a truly unbiased perspective, pair a broker with a SHIP counselor consultation."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 Most people spend more time picking a Netflix plan than comparing their Medicare options. I'll be honest: I spent years watching that pattern play out, and it still frustrates me. Because the stakes here aren't $15 a month. They're your savings, your health, and whether you can afford to see the doctors you trust.
@@ -36,7 +36,7 @@ So let me walk you through how I actually compare Medicare plan costs, including
 
 Before you can compare anything, you need to understand what you're comparing. Medicare has four basic parts: Part A (hospital insurance), Part B (medical insurance), Part C (Medicare Advantage, which bundles A, B, and often D together), and Part D (prescription drug coverage). Most people I counsel are choosing between Original Medicare (Parts A and B, often paired with a Medigap supplement and a [Part D plan](/how-much-does-medicare-cost-per-month/)) and Medicare Advantage (Part C).
 
-Here's what surprised me the first time I mapped out the real cost structure: Original Medicare, on its own, has no [out-of-pocket maximum](/does-medicare-cover-100-percent/). None. A catastrophic illness could cost you $50,000 or more in a bad year. Medicare Advantage plans, by contrast, are required to cap your annual out-of-pocket spending. In 2026, that cap can be as high as $9,350 for in-network services, but many plans set it lower.
+Here's what surprised me the first time I mapped out the real cost structure: Original Medicare, on its own, has no [out-of-pocket maximum](/does-medicare-cover-100-percent/). None. A catastrophic illness could leave you facing very large bills in a bad year. Medicare Advantage plans, by contrast, are required to cap your annual out-of-pocket spending. In 2026, that cap can be as high as $9,250 for in-network services, but many plans set it lower.
 
 The numbers you absolutely must compare across any plans you're considering:
 
@@ -50,7 +50,7 @@ The numbers you absolutely must compare across any plans you're considering:
 
 **Drug costs.** If you take any regular prescriptions, run your specific medications through each plan's formulary (the list of covered drugs). Two plans with identical premiums can have wildly different costs for the same medication. Metformin might be free on one plan and $47 a month on another.
 
-As certified Medicare counselor Diane Holt, who has been working with seniors in the Pacific Northwest for 22 years, puts it: "Most people come in focused on the monthly premium. I spend the first half of every appointment getting them to stop staring at that number and start thinking about their actual health situation, what they spend in a typical year, and what they're risking in a bad year."
+Experienced Medicare counselors often describe the same pattern: most people arrive focused on the monthly premium, and the first half of an appointment goes to shifting their attention to their actual health situation, what they spend in a typical year, and what they risk in a bad year.
 
 That reframe alone changes everything.
 
@@ -62,9 +62,9 @@ Check our [Medicare plan comparison guide](/medicare-plan-comparison) to see how
 | --- | --- | --- |
 | Monthly Premium | $235 ($198 Medigap + $37 Part D) | $0 |
 | Annual Premium Cost | $2,820 | $0 |
-| Typical Year Out-of-Pocket (Carol's example) | ~$0 (Plan G covers most costs after deductibles) | ~$2,820 |
+| Typical Year Out-of-Pocket (Carol's example) | ~$283 (Part B deductible; Plan G covers most other costs) | Varies; heavy specialist use can push this toward the $7,900 max |
 | Out-of-Pocket Maximum | N/A (Plan G covers costs) | $7,900 |
-| Worst-Case Annual Cost | ~$2,844 | ~$8,700 |
+| Worst-Case Annual Cost | ~$3,103 | ~$7,900 |
 | Typical Year Out-of-Pocket (Robert's example) | ~$2,820 (premiums only) | ~$340 (copays + drugs) |
 
 This is the step most comparison articles gloss over, so I'm going to be specific.
@@ -79,7 +79,7 @@ Here's what I mean. Look at the plan's out-of-pocket maximum and ask yourself: i
 
 Situation: Carol, 69, in suburban Ohio, takes three daily medications and sees her cardiologist and endocrinologist regularly.
 Action: She compared a $0-premium Medicare Advantage plan (out-of-pocket max: $7,900) against Original Medicare plus a Plan G Medigap supplement ($198/month) and a Part D plan ($37/month).
-Result: In a typical healthy year, the Advantage plan saved her roughly $2,820 in premiums. But when she ran the bad-year scenario, her worst-case cost under Original Medicare plus Plan G was about $2,844 total (the Plan G covers most out-of-pocket costs after her deductibles). Her worst case under the Advantage plan was over $8,700. The "free" plan wasn't free at all.
+Result: In a typical healthy year, the Advantage plan saved her roughly $2,820 in premiums. But when she ran the bad-year scenario, her worst-case cost under Original Medicare plus Plan G was about $3,103 total (the $2,820 in premiums plus the $283 Part B deductible, since Plan G covers most other costs). Her worst case under the Advantage plan was $7,900 (its out-of-pocket maximum), and she would reach that level far more easily with her specialist visits. The "free" plan wasn't free at all.
 
 **Worked example 2:**
 
@@ -119,7 +119,7 @@ What surprised me, honestly, is how underused this resource is. SHIP counseling 
 
 Situation: Margaret, 67, recently widowed, newly Medicare-eligible, overwhelmed by the options in her county in Tennessee.
 Action: She scheduled a SHIP appointment. The counselor spent 90 minutes with her, entered her eight medications into the Plan Finder, and compared her realistic annual costs across six plans.
-Result: The plan she'd been about to pick based on a TV commercial would have cost her an estimated $4,200 more per year in drug costs than the plan she ultimately enrolled in. Same benefit structure. Very different formulary.
+Result: The plan she'd been about to pick based on a TV commercial would have cost her thousands more per year in drug costs than the plan she ultimately enrolled in. Same benefit structure. Very different formulary.
 
 Build your short list of plans to compare before your SHIP appointment using the [Medicare.gov](https://www.medicare.gov/) Plan Finder, then bring your questions to the counselor.
 

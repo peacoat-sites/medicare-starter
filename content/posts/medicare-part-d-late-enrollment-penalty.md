@@ -18,12 +18,12 @@ faqs:
  - q: "How do I know if my current employer coverage is creditable?"
    a: "Your insurer or employer plan administrator is required by law to send you a creditable coverage notice before October 15 each year. It will explicitly state whether your plan is creditable for Part D purposes. If you're unsure or didn't receive one, contact your HR or benefits department directly and ask in writing so you have documentation."
  - q: "I'm 67 and just retired. How much time do I have before the penalty kicks in?"
-   a: "When your employer coverage ends, you have a Special Enrollment Period of 2 months to enroll in a Part D plan without penalty. The window opens the day your coverage ends, not the day you realize you need coverage. If you miss it, day 63 of being uncovered starts generating penalty months. Contact Medicare immediately when your coverage ends and don't assume you have more time than you do."
+   a: "When your employer coverage ends, you have a Special Enrollment Period of 2 months to enroll in a Part D plan without penalty. The window opens the day your coverage ends, not the day you realize you need coverage. If you miss it and go 63 or more days without creditable coverage, penalty months start counting. Contact Medicare immediately when your coverage ends and don't assume you have more time than you do."
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 Most people don't discover the Medicare Part D late enrollment penalty by reading about it ahead of time. They find out when their first monthly premium arrives and it's higher than they expected. Sometimes significantly higher. That surprise bill is the result of a straightforward but unforgiving rule: if you go without creditable prescription drug coverage for 63 or more consecutive days after your Initial Enrollment Period ends, Medicare adds a permanent penalty to your Part D premium for as long as you have drug coverage. Permanent. Not a one-time fee. Not a short-term surcharge. A monthly addition to your bill that follows you for the rest of your life.
 
@@ -31,9 +31,9 @@ Most people don't discover the Medicare Part D late enrollment penalty by readin
 
 The math isn't complicated, but the result can be painful.
 
-Medicare calculates your penalty using the national base beneficiary premium, which changes every year. For 2024, that figure is $34.70. Your penalty equals 1% of that base premium, multiplied by the number of months you went without creditable coverage.
+Medicare calculates your penalty using the national base beneficiary premium, which changes every year. For 2026, that figure is $38.99. Your penalty equals 1% of that base premium, multiplied by the number of months you went without creditable coverage.
 
-So if you waited 20 months to enroll, your penalty is 20% of $34.70, which works out to roughly $6.94 per month. That gets rounded to the nearest $0.10 and added to your monthly Part D premium permanently. Because the base premium adjusts annually, your penalty amount can also shift slightly from year to year, even though the percentage is locked in.
+So if you waited 20 months to enroll, your penalty is 20% of $38.99, which works out to roughly $7.80 per month. That gets rounded to the nearest $0.10 and added to your monthly Part D premium permanently. Because the base premium adjusts annually, your penalty amount can also shift slightly from year to year, even though the percentage is locked in.
 
 A 20-month gap might not sound long. But consider what happens when someone doesn't think they need drug coverage because they aren't taking prescriptions yet. If they turn 68, get a diagnosis, and suddenly need several medications, a 36-month gap will have built a penalty of 36% baked into every premium they'd ever pay going forward.
 
@@ -66,14 +66,14 @@ The annual creditable coverage notice your insurer sends every fall isn't just p
 
 | Enrollment Period | Duration | Key Details |
 | --- | --- | --- |
-| Initial Enrollment Period (IEP) | 7 months | 3 months before 65th birthday month + birthday month + 3 months after; missing this starts penalty clock on day 64 of no coverage |
+| Initial Enrollment Period (IEP) | 7 months | 3 months before 65th birthday month + birthday month + 3 months after; missing this starts the penalty clock after 63 or more days with no creditable coverage |
 | Special Enrollment Period (SEP) | 2 months | Available if you lose creditable employer coverage; window opens the day coverage ends |
 | Annual Enrollment Period (AEP) | October 15 - December 7 | Anyone can join, switch, or drop Part D; penalty already accumulating if enrolling after a gap |
-| Penalty Accumulation | 1% per month | Based on national base beneficiary premium ($34.70 in 2024); permanent addition to monthly premium |
+| Penalty Accumulation | 1% per month | Based on national base beneficiary premium ($38.99 in 2026); permanent addition to monthly premium |
 
 Medicare gives you a defined window to sign up for Part D without penalty. Miss it, and the meter starts running.
 
-Your Initial Enrollment Period (IEP) is a 7-month window: the 3 months before your 65th birthday month, your birthday month itself, and the 3 months after. If you don't enroll during that window and you don't have other creditable coverage, day 64 of going uncovered is the day your penalty clock starts.
+Your Initial Enrollment Period (IEP) is a 7-month window: the 3 months before your 65th birthday month, your birthday month itself, and the 3 months after. If you don't enroll during that window and you don't have other creditable coverage, a gap of 63 or more days without coverage is what triggers the penalty.
 
 Two other important enrollment periods exist:
 
@@ -81,7 +81,7 @@ Two other important enrollment periods exist:
 
 **Annual Enrollment Period (AEP):** Runs October 15 through December 7 each year. This is when anyone can join, switch, or drop a Part D plan. But if you're enrolling here after a gap, the penalty has already been accumulating. AEP doesn't erase it.
 
-Here's a trap worth naming: Medicare Advantage plans. If you enroll in a Medicare Advantage plan that includes drug coverage (called an MA-PD plan), your Part D coverage is built in, so no penalty accumulates. But if you enroll in a Medicare Advantage plan without drug coverage, and you don't have other creditable coverage, the penalty clock still runs.
+Here's a trap worth naming: Medicare Advantage plans. If you enroll in a Medicare Advantage plan that includes drug coverage (called an MA-PD plan), your Part D coverage is built in, so no new penalty months accumulate while you are enrolled. But if you enroll in a Medicare Advantage plan without drug coverage, and you don't have other creditable coverage, the penalty clock still runs.
 
 ## Step-by-Step: What To Do If You Already Have a Penalty
 
@@ -108,7 +108,7 @@ The late enrollment penalty has one meaningful carve-out: the Extra Help program
 
 If you qualify for Extra Help, Medicare's program that assists with Part D premiums, deductibles, and copays, you are not subject to the late enrollment penalty. Not reduced. Eliminated entirely.
 
-Extra Help is available to people with limited income and resources. In 2024, the income limit is generally around 150% of the federal poverty level, though the exact thresholds adjust annually. You can apply through the Social Security Administration or your state Medicaid office.
+Extra Help is available to people with limited income and resources. In 2026, the income limit is about $23,475 for a single person and $31,725 for a married couple, with resource limits of $18,090 single and $36,100 married, though the exact thresholds adjust annually. You can apply through the Social Security Administration or your state Medicaid office.
 
 If you're close to those income thresholds and you've been avoiding enrolling in Part D because of cost, this program changes everything. The penalty won't apply to you, the premiums will be reduced significantly or eliminated, and copays at the pharmacy can drop to just a few dollars.
 
@@ -124,9 +124,9 @@ People sometimes rationalize skipping Part D by comparing the premium cost to wh
 | Annual out-of-pocket on no medications | $0 | $360-$720 |
 | New diagnosis requiring 3 brand drugs | Can be $400-$2,000+/month | Capped with plan coverage |
 | Late penalty after 24-month gap | 24% added permanently | N/A |
-| Catastrophic coverage cap (2026) | None | $2,100 out-of-pocket max |
+| Annual out-of-pocket cap (2026) | None | $2,100 out-of-pocket max |
 
-The 2024 Inflation Reduction Act changes to Part D also added a $2,000 annual out-of-pocket cap on covered drug costs starting in 2025. That's a significant protection that people without Part D simply don't get.
+The Inflation Reduction Act changes to Part D also added an annual out-of-pocket cap on covered drug costs, which started at $2,000 in 2025 and is $2,100 in 2026. That's a significant protection that people without Part D simply don't get.
 
 The math for skipping coverage almost never works in your favor once a real health event occurs.
 

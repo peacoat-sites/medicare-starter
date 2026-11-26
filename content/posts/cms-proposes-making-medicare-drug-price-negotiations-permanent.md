@@ -9,10 +9,10 @@ tags: ["proposes", "making", "medicare", "drug", "price"]
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
 slug: "cms-proposes-making-medicare-drug-price-negotiations-permanent"
 affiliate_disclosure: true
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 For two years, the Medicare drug price negotiation program has run on administrative guidance, which is essentially rules that the next administration could rewrite or ignore. On June 12, 2026, CMS changed that. The agency published proposed rule CMS-4215-P, which would lock the negotiation program into permanent federal regulation for the first time. If you're on Medicare Part D, or about to be, this matters more than most policy news you'll scroll past this week.
 
@@ -20,7 +20,7 @@ For two years, the Medicare drug price negotiation program has run on administra
 
 The short version: CMS wants to move the negotiation program from "we're doing this via guidance" to "this is codified federal regulation." That shift is significant because guidance can be reversed with a memo. A finalized rule requires a formal rulemaking process to undo, which creates a much higher bar for any future rollback.
 
-The rule governs negotiations beginning with the Initial Price Applicability Year 2029. The cycles covering 2026, 2027, and 2028 drug negotiations stay under existing guidance and aren't affected. So this is forward-looking, building the permanent architecture for where the program goes next, not renegotiating what's already done.
+The rule governs negotiations beginning with the Initial Price Applicability Year 2029. The cycles whose negotiated prices take effect in 2026, 2027, and 2028 stay under existing guidance and aren't affected. So this is forward-looking, building the permanent architecture for where the program goes next, not renegotiating what's already done.
 
 Starting with the 2029 cycle, CMS will be able to select up to 20 drugs per year for negotiation, covering both Medicare Part D (outpatient prescriptions) and Medicare Part B (drugs administered in a doctor's office or clinic, like infusions). That's an expansion worth noting. Part B drugs have historically been priced through a different mechanism, and pulling them more fully into the negotiation framework is a meaningful structural change.
 
@@ -32,14 +32,14 @@ CMS expects to finalize the rule this fall, according to the agency's press rele
 | --- | --- | --- | --- |
 | Cycle 1 (Original batch) | 10 | Initial IRA drugs | January 1, 2026 |
 | Cycle 2 | 15 | 44% average net savings; Ozempic/Wegovy 71% reduction | January 1, 2027 |
-| Cycle 3+ (2029 onward) | Up to 20 per year | Includes Part B drugs; permanent regulation | Proposed framework |
+| Cycle 3 (2028) and Cycle 4+ (2029 onward) | Up to 20 per year | 2029+ cycles include Part B drugs; permanent regulation | Proposed framework |
 | **Total negotiated (through Cycle 2)** | **25** | Covers Part D and Part B (2029+) | - |
 
 Before getting too abstract about regulatory frameworks, it helps to look at what the program has already produced.
 
 CMS has negotiated prices for 25 high-expenditure drugs across the program's first two cycles. The first 10 of those, the original batch selected under the Inflation Reduction Act, hit their negotiated maximum fair prices on January 1, 2026. The second cycle delivered a 44% average net savings across 15 drugs. The headline figure from that second round is the 71% list-price reduction for Ozempic and Wegovy (semaglutide), effective January 1, 2027. Those are two of the most prescribed and most expensive drugs in the country right now, so that reduction is not a rounding error.
 
-For context on what this means in practice: if you're currently paying a percentage-based coinsurance for one of these negotiated drugs, your out-of-pocket costs track the list price. A 71% price reduction doesn't necessarily mean you pay 71% less at the counter, because your actual cost depends on your plan design, deductible, and what phase of the Part D benefit you're in. But lower list prices do reduce what both you and Medicare pay, and the [$2,100 annual out-of-pocket cap](/what-the-2026-medicare-trustees-report-means-for-beneficiaries/) that took effect in 2025 under the IRA (Inflation Reduction Act) provides a ceiling regardless.
+For context on what this means in practice: if you're currently paying a percentage-based coinsurance for one of these negotiated drugs, your out-of-pocket costs track the list price. A 71% price reduction doesn't necessarily mean you pay 71% less at the counter, because your actual cost depends on your plan design, deductible, and what phase of the Part D benefit you're in. But lower list prices do reduce what both you and Medicare pay, and the [$2,100 annual out-of-pocket cap](/what-the-2026-medicare-trustees-report-means-for-beneficiaries/) for 2026 (the cap began at $2,000 in 2025 under the IRA, the Inflation Reduction Act) provides a ceiling regardless.
 
 ## Why "Permanent" Is the Operative Word
 
@@ -51,9 +51,9 @@ The Duane Morris LLP alert on the proposed rule points out that the 2029 cycle f
 
 ## What This Means If You're on Medicare Now
 
-If you're currently taking one of the 25 drugs already negotiated, the proposed rule doesn't change your 2026 prices. Those are set. What it does is tell you the program that produced those prices isn't going anywhere if CMS gets this finalized on its expected timeline.
+If you're currently taking one of the 25 drugs already negotiated, the proposed rule doesn't change the prices already set for them. Those are set. What it does is tell you the program that produced those prices isn't going anywhere if CMS gets this finalized on its expected timeline.
 
-If you're choosing a Part D plan during Open Enrollment this fall (which runs October 15 through December 7), the negotiated prices for the second-cycle drugs take effect January 1, 2027. That means plan formularies and premium structures for 2027 should, in theory, reflect those lower prices. Watch for that when comparing plans on Medicare.gov's Plan Finder tool.
+If you're choosing a Part D plan during the Annual Enrollment Period (which runs October 15 through December 7), the negotiated prices for the second-cycle drugs take effect January 1, 2027. That means plan formularies and premium structures for 2027 should, in theory, reflect those lower prices. Watch for that when comparing plans on Medicare.gov's Plan Finder tool.
 
 If you're not yet on Medicare but will be in the next few years, the 2029 cycle is the one to watch. Up to 20 drugs per year negotiated under a permanent regulatory framework is a substantially larger program than where this started. Drugs that aren't negotiated yet may be by the time you enroll.
 

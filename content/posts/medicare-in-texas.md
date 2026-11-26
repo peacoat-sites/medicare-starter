@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 Most people assume Medicare is just... Medicare. Federal program, same rules everywhere, one-size-fits-all. I believed that too, until I started really digging into how the program actually plays out state by state. Texas, it turns out, is one of the most interesting cases in the country, and not always in a good way.
 
@@ -41,7 +41,7 @@ Original Medicare has no out-of-pocket maximum. None. If you get seriously ill, 
 
 ## Medicare Advantage in Texas: More Choices Than Almost Anywhere
 
-Texas is a massive market, and insurance companies know it. In the Houston metro area alone, beneficiaries typically have access to 60 or more [Medicare Advantage plans](/best-medicare-plans-in-california-2026/). Dallas-Fort Worth, San Antonio, and Austin aren't far behind. Even in less densely populated areas of West Texas or the Panhandle, you'll usually find several competitive options.
+Texas is a massive market, and insurance companies know it. In the Houston metro area alone, beneficiaries typically have access to dozens of [Medicare Advantage plans](/best-medicare-plans-in-california-2026/). Dallas-Fort Worth, San Antonio, and Austin aren't far behind. Even in less densely populated areas of West Texas or the Panhandle, you'll usually find several competitive options.
 
 Medicare Advantage (also called Part C) is the all-in-one alternative to Original Medicare. You get your Part A and B coverage through a private insurer instead of directly through the federal government, and most plans bundle Part D (prescription drug coverage) along with extras like dental, vision, and hearing. Many Texas MA plans carry $0 monthly premiums.
 
@@ -51,11 +51,11 @@ Texas Medicare Advantage plans vary significantly by county. A plan available in
 
 ## Medicare Supplement (Medigap) Plans in Texas
 
-If you stick with Original Medicare instead of going the Advantage route, you'll almost certainly want a Medigap plan to cover what Medicare doesn't: that Part A deductible ($1,632 in 2024), the 20% coinsurance on Part B services, and skilled nursing facility costs.
+If you stick with Original Medicare instead of going the Advantage route, you'll almost certainly want a Medigap plan to cover what Medicare doesn't: that Part A deductible ($1,736 in 2026), the 20% coinsurance on Part B services, and skilled nursing facility costs.
 
 Texas follows federal Medigap rules, meaning the same standardized plan letters exist here as everywhere else. Plan G is currently the most comprehensive plan available to new Medicare beneficiaries (Plan F was discontinued for people becoming eligible after January 1, 2020). Plan N is a popular lower-cost alternative with some copays.
 
-Prices vary wildly. A Plan G policy for a 65-year-old woman in Austin might run $120 to $190 a month depending on the insurer. The coverage is identical regardless of who sells it; only the premium and customer service differ. Shop hard. Use a broker who represents multiple carriers, or compare through [medicare.gov](https://www.medicare.gov/). The benefits are standardized, so the cheapest reputable company is usually the right answer.
+Prices vary wildly. Plan G premiums for a 65-year-old in Austin can differ by tens of dollars a month depending on the insurer. The coverage is identical regardless of who sells it; only the premium and customer service differ. Shop hard. Use a broker who represents multiple carriers, or compare through [medicare.gov](https://www.medicare.gov/). The benefits are standardized, so the cheapest reputable company is usually the right answer.
 
 Texas has what's called a "Birthday Rule" that deserves mention. As of 2024, Texas passed legislation (effective June 2023) establishing a Birthday Rule similar to California's: during a 60-day window starting on your birthday each year, you can switch from one Medigap plan to a plan with equal or lesser benefits without medical underwriting. That means you can potentially switch to a cheaper Plan G from another company without answering health questions. This is a genuinely useful protection that doesn't exist in most states.
 
@@ -65,23 +65,23 @@ Texas has what's called a "Birthday Rule" that deserves mention. As of 2024, Tex
 | --- | --- | --- | --- |
 | Original Medicare (A & B) | Federal, standardized | None | Part B premium $202.90/month (2026); no OOP cap |
 | Medicare Advantage (Part C) | Private insurance alternative | Varies by plan | Often $0 premium; includes Part D, dental, vision, hearing |
-| Medigap Plan G | Supplemental coverage | N/A | Most comprehensive for new beneficiaries; $120-$190/month (Austin example) |
+| Medigap Plan G | Supplemental coverage | N/A | Most comprehensive for new beneficiaries; premiums vary by insurer |
 | Medigap Plan N | Supplemental coverage | N/A | Lower-cost alternative with some copays |
-| Part D (Standalone) | Prescription drug | $2,100 (2026) | 20-30 plans available; premiums $7-$100+/month |
+| Part D (Standalone) | Prescription drug | $2,100 (2026) | Many plans available; premiums and formularies vary widely |
 
-Part D plans are where I see the most "set it and forget it" behavior, and it costs people real money. Texas beneficiaries have access to somewhere between 20 and 30 standalone Part D plans in most regions. Premiums range from around $7 to well over $100 a month, and the formularies (the list of covered drugs) are completely different across plans.
+Part D plans are where I see the most "set it and forget it" behavior, and it costs people real money. Texas beneficiaries have a wide range of standalone Part D plans in most regions. Premiums vary widely, and the formularies (the list of covered drugs) are completely different across plans.
 
-In 2024, the Medicare Part D out-of-pocket cap changed significantly: once you hit $8,000 in out-of-pocket drug costs, you pay nothing for the rest of the year. The old "donut hole" structure is largely gone. That's a meaningful protection, especially for Texans on expensive specialty medications.
+In 2026, the Medicare Part D out-of-pocket cap is $2,100: once you hit $2,100 in out-of-pocket drug costs, you pay nothing for the rest of the year. The old "donut hole" structure is largely gone. That's a meaningful protection, especially for Texans on expensive specialty medications.
 
-Every year during Open Enrollment (October 15 through December 7), run your specific drug list through [medicare.gov/plan-compare](https://www.medicare.gov/plan-compare). Switching Part D plans during open enrollment can save $800 to $1,200 annually. The math changes every year because drug formularies change every year.
+Every year during Open Enrollment (October 15 through December 7), run your specific drug list through [medicare.gov/plan-compare](https://www.medicare.gov/plan-compare). Switching Part D plans during open enrollment can save real money, because formularies and prices change every year. The math changes every year because drug formularies change every year.
 
 ## Help Paying for Medicare in Texas: Programs Most People Miss
 
 This is where I get fired up, because billions of dollars in assistance go unclaimed every year, and Texas seniors are leaving a lot of it on the table.
 
-If your income is modest, you may qualify for one of four Medicare Savings Programs (MSPs) in Texas. These are state-administered programs that help pay Medicare premiums, deductibles, and copays. The income limits aren't as low as you might think. For 2024, a single person earning up to roughly $1,660 a month may qualify for the Qualified Medicare Beneficiary (QMB) program, which covers your Part B premium and most cost-sharing. That's a program worth over $2,000 a year, and many people who qualify don't even know it exists.
+If your income is modest, you may qualify for one of four Medicare Savings Programs (MSPs) in Texas. These are state-administered programs that help pay Medicare premiums, deductibles, and copays. The income limits aren't as low as you might think. A single person with low income may qualify for the Qualified Medicare Beneficiary (QMB) program, which covers your Part B premium and most cost-sharing. With the 2026 Part B premium at $202.90 a month, that is over $2,400 a year in premiums alone, and many people who qualify don't even know it exists.
 
-There's also Extra Help (also called the Low Income Subsidy, or LIS), a federal program that dramatically reduces Part D drug costs. In 2024, the full Extra Help subsidy is worth an estimated $5,300 annually for someone with high drug costs. You apply through the Social Security Administration or through your state Medicaid office.
+There's also Extra Help (also called the Low Income Subsidy, or LIS), a federal program that dramatically reduces Part D drug costs. In 2026, Extra Help limits drug copays to $5.10 for generics and $12.65 for brand-name drugs, and the resource limits are $18,090 for a single person and $36,100 for a married couple. You apply through the Social Security Administration or through your state Medicaid office.
 
 Figuring out whether you qualify for these programs can be confusing. The best free resource in Texas is a SHIP counselor. SHIP stands for State Health Insurance Assistance Program, and [Texas's SHIP program (called HIICAP, or Health Information Counseling and Advocacy Program)](https://www.shiphelp.org/) offers free, unbiased counseling from trained volunteers who have no financial stake in what plan you choose. They can sit with you, review your specific drugs and doctors, and help you apply for assistance programs. I can't recommend them strongly enough.
 

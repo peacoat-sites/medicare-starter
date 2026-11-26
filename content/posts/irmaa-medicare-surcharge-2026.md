@@ -22,8 +22,8 @@ faqs:
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T18:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 If your 2025 income was above $112,000 on a single tax return or $224,000 on a joint return, you'll pay more than the standard Medicare premium in 2027. That extra charge is IRMAA, the Income-Related Monthly Adjustment Amount. It lifts the Part B premium from the standard $209.40 a month to as much as $711.80, and it adds $15.40 to $96.40 a month to your Part D drug coverage.
 
@@ -87,7 +87,7 @@ Each threshold is a cliff, not a ramp. A single filer with $112,000 of 2025 MAGI
 
 The two-year delay hides the cost of one-off income. A Roth conversion, a large IRA withdrawal, or a capital gain from selling a rental or an investment all raise MAGI in the year they happen, and the IRMAA bill shows up two years later.
 
-**Example:** A single filer has $100,000 of MAGI in 2025 and converts $50,000 from a traditional IRA to a Roth that year. MAGI becomes $150,000, which lands in the 2027 bracket of $141,001 to $177,000. That means $418.80 a month for Part B plus a $39.70 Part D surcharge, or $249.10 a month more than the standard amount: $2,989.20 for 2027. A $12,000 conversion instead would have kept MAGI at exactly $112,000, the top of the standard bracket, and avoided IRMAA for that year.
+**Example:** A single filer has $100,000 of MAGI in 2025 and converts $50,000 from a traditional IRA to a Roth that year. MAGI becomes $150,000, which lands in the 2027 bracket of $141,001 to $177,000. That means $418.80 a month for Part B plus a $39.70 Part D surcharge, or $249.10 a month more than the standard amount: $2,989.20 for 2027. A conversion of $12,000 or less instead would have kept MAGI at $112,000 or below, the top of the standard bracket, and avoided IRMAA for that year.
 
 None of this makes Roth conversions a bad idea. It means the IRMAA cost belongs in the math, and spreading conversions over several years to stay under a threshold is a common approach. Qualified charitable distributions from an IRA, which count toward required minimum distributions without adding to MAGI, are another tool people use once they're 70½ or older.
 

@@ -18,12 +18,12 @@ faqs:
  - q: "Does Part D cover insulin and diabetes supplies?"
    a: "Yes, with significant improvements in recent years. Under the Inflation Reduction Act, Medicare Part D caps the monthly cost-sharing for covered insulin at $35 per month per prescription, with no deductible applying to insulin. Certain diabetes supplies, like test strips and lancets, are actually covered under Medicare Part B (not Part D), so check which part applies to what you need."
  - q: "When can I switch Part D plans outside of Open Enrollment?"
-   a: "Outside of the October 15 to December 7 Open Enrollment window, you can switch in limited circumstances. These include moving to a new address that changes your plan availability, losing other drug coverage, qualifying for Extra Help or losing that qualification, or being enrolled in a Special Needs Plan. There's also a Medicare Advantage Open Enrollment Period from January 1 to March 31, though that applies specifically to Advantage plan changes."
+   a: "Outside of the October 15 to December 7 Annual Enrollment Period, you can switch in limited circumstances. These include moving to a new address that changes your plan availability, losing other drug coverage, qualifying for Extra Help or losing that qualification, or being enrolled in a Special Needs Plan. There's also a Medicare Advantage Open Enrollment Period from January 1 to March 31, though that applies specifically to Advantage plan changes."
 author: "Dorothy Chen"
 author_slug: "dorothy-chen"
 author_title: "Medicare Specialist"
-author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
-lastmod: 2026-11-24T12:00:00Z
+author_bio: "Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65."
+lastmod: 2026-11-26
 ---
 You're standing at the pharmacy counter with your new Medicare card, and the pharmacist tells you your prescription costs $340 out of pocket. You assumed Medicare covered your medications. It doesn't. Not automatically. That gap blindsides thousands of people every year, and it's exactly why Medicare Part D exists, and why understanding it before you actually need it can save you real money and real stress.
 
@@ -49,13 +49,13 @@ Part D isn't a simple flat copay system. It moves through distinct phases, and k
 
 **The Initial Coverage Phase.** Once you've met your deductible, you and your plan split costs. You'll pay copays or coinsurance per prescription depending on which "tier" your drug sits on. Generic drugs typically land on lower tiers. Brand names, specialty drugs, and non-preferred options sit higher, where you pay more.
 
-**Catastrophic Coverage.** This is the genuinely good news, and it got way better in 2024. Congress passed the Inflation Reduction Act, which eliminated the old "donut hole" and capped what you pay out of pocket annually. In 2024, once you've spent $8,000 in total out-of-pocket costs on covered drugs, you pay nothing for the rest of the year. The cap started at $2,000 in 2025 and is $2,100 in 2026. That's massive protection if you're on expensive medications.
+**Catastrophic Coverage.** This is the genuinely good news, and it got way better in 2025. Congress passed the Inflation Reduction Act, which eliminated the old "donut hole" and capped what you pay out of pocket annually. The annual out-of-pocket cap started at $2,000 in 2025 and is $2,100 in 2026, and once you reach it you pay nothing more for covered drugs for the rest of the year. That's massive protection if you're on expensive medications.
 
 ## Enrollment Rules and That Late Penalty Nobody Wants
 
 Timing matters enormously. Get it wrong and you could pay a penalty forever.
 
-Your Initial Enrollment Period is the seven-month window around your 65th birthday: three months before, your birthday month, and three months after. That's your clean shot with no penalty.
+Your Initial Enrollment Period is the seven-month window around your 65th birthday: three months before, your birthday month, and three months after. That's your clean shot with no penalty. The penalty applies after a gap of 63 or more days without Part D or creditable drug coverage.
 
 Miss that window and don't have other creditable prescription drug coverage, and Medicare will hit you with a Late Enrollment Penalty. It's 1% of the national base beneficiary premium for every month you went without coverage, permanently added to your Part D premium. A two-year gap means a 24% permanent increase. I've seen clients shocked years later when they finally needed medications and discovered they'd been overpaying the whole time.
 
@@ -87,7 +87,7 @@ Open Enrollment runs October 15 through December 7 annually. Changes take effect
 
 ## Extra Help: The Low-Income Subsidy You May Qualify For
 
-If money is tight, don't skip the Extra Help program (also called the Low-Income Subsidy). It's a federal program helping people with limited income and resources pay for Part D premiums, deductibles, and copays. In 2024, individual income up to about 150% of the federal poverty level may qualify you.
+If money is tight, don't skip the Extra Help program (also called the Low-Income Subsidy). It's a federal program helping people with limited income and resources pay for Part D premiums, deductibles, and copays. In 2026, income below 150% of the federal poverty level (about $23,475 for a single person) and resources under $18,090 may qualify you.
 
 Extra Help isn't a secret. It's just dramatically underused. Millions of eligible people never apply. The Social Security Administration handles applications at ssa.gov or 1-800-772-1213.
 

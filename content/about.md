@@ -2,6 +2,7 @@
 title: "About Medicare Starter"
 hide_title: true
 date: 2026-01-01
+lastmod: 2026-11-26
 draft: false
 description: "About Medicare Starter,  meet Dorothy Chen and learn how we help people navigate Medicare enrollment and coverage."
 layout: "about-page"
@@ -18,7 +19,7 @@ Medicare Starter is an independent resource dedicated to helping people understa
 
 **Dorothy Chen** is the editor behind Medicare Starter.
 
-Dorothy Chen is a benefits counselor who has helped hundreds of seniors navigate Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Advisor Guide, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65.
+Dorothy Chen is a retired benefits professional and researcher who writes about Medicare enrollment, Medigap selection, and the ongoing decisions that come with managing healthcare in retirement. She is not an insurance agent and does not sell plans, which means her guidance is entirely focused on helping people understand their options. At Medicare Starter, she covers enrollment timelines, plan types, and the decisions that matter most when turning 65.
 
 ## What We Cover
 

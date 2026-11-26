@@ -1,7 +1,7 @@
 ---
 title: "How the Medicare GLP-1 Bridge Works: Eligibility, Copays and Catches"
 date: 2026-07-17T15:26:02.540444+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-26
 draft: false
 description: "Medicare GLP-1 Bridge program helps eligible beneficiaries access weight loss medications. Learn about eligibility requirements, copay costs, and important limi"
 image: "/img/heroes/13466255.jpg"
@@ -10,7 +10,7 @@ tags: ["medicare", "glp-1", "bridge", "works:", "eligibility,"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "how-the-medicare-glp-1-bridge-works-eligibility-copays-and-catches"
 affiliate_disclosure: true
 ---
@@ -19,7 +19,7 @@ Most people I talk to assumed Medicare would simply add GLP-1 weight-loss drugs 
 
 The $50 flat monthly copay sounds straightforward. But it doesn't count toward your Part D deductible or your $2,100 annual out-of-[pocket cap](/medicare-2000-out-of-pocket-cap-drugs/), which can be surprising to beneficiaries. For a beneficiary who's carefully tracking their drug spending toward that cap, the Bridge sits in a separate financial universe. It's neither inside your plan nor exactly outside Medicare. Think of it as a parallel lane that CMS built quickly to get these drugs to seniors while longer-term coverage rules get sorted out.
 
-The Medicare Rights Center flagged the program back in early June 2026, noting the extension through December 31, 2027, after CMS indefinitely delayed the follow-on BALANCE Model and needed more runway for the demonstration itself. That extension was finalized in May 2026 and quietly changed the calculus for a lot of patients who thought this was a short-term bridge in the most literal sense.
+The Medicare Rights Center flagged the program back in early June 2026. The Bridge runs through December 31, 2027, which changes the calculus for a lot of patients who thought this was a short-term bridge in the most literal sense.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The Bridge runs July 1, 2026 through December 31, 2027, covering Wegovy, Zepbound (KwikPen only), and Foundayo.</li><li style="margin:5px 0">Eligible beneficiaries pay a flat $50/month copay, Extra Help cannot reduce it.</li><li style="margin:5px 0">The $50 copay does NOT count toward your Part D deductible or $2,100 annual out-of-pocket cap.</li><li style="margin:5px 0">BMI ≥35 qualifies alone; lower BMIs require specific conditions like prediabetes or prior heart attack.</li><li style="margin:5px 0">Doctors must document diagnosis, BMI, and comorbidities at the time therapy started, not at the PA request date.</li></ul></div>
 
@@ -55,7 +55,7 @@ Also fixed: the fact that this $50 doesn't build toward any out-of-pocket protec
 
 There's one eligibility rule that's easy to miss and will determine whether you can use the Bridge at all. If your regular Part D plan is already covering a GLP-1 drug for you, whether for diabetes or any other approved indication, you cannot use the Bridge for weight management. The two pathways don't overlap.
 
-This matters because some beneficiaries with Type 2 diabetes have had semaglutide or tirzepatide covered under Part D for glucose management. Those patients are not Bridge-eligible, even if they also have obesity. Healthy Connections noted this in their July 2026 coverage of the launch, flagging it as one of the most common eligibility misunderstandings during the program's opening days. If you're in that situation, it's worth a conversation with your prescriber about whether your current Part D coverage adequately addresses your treatment goals, rather than trying to switch tracks.
+This matters because some beneficiaries with Type 2 diabetes have had semaglutide or tirzepatide covered under Part D for glucose management. Those patients are not Bridge-eligible, even if they also have obesity. Healthy Connections noted this rule in their July 2026 coverage of the launch. If you're in that situation, it's worth a conversation with your prescriber about whether your current Part D coverage adequately addresses your treatment goals, rather than trying to switch tracks.
 
 For the right person, the Bridge can reduce what had been completely unaffordable drug costs. But talk to your prescriber before assuming you qualify, and consider reaching out to a State Health Insurance Assistance Program (SHIP) counselor, a free service in every state, or checking Medicare.gov for the most current official program details. The rules here are specific enough that getting personalized guidance is genuinely worth the time.
 

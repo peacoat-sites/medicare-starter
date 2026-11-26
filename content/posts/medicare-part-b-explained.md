@@ -22,8 +22,8 @@ faqs:
 author: "Frank Thompson"
 author_slug: "frank-thompson"
 author_title: "Retirement Researcher"
-author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Advisor Guide, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
-lastmod: 2026-11-16T16:00:00Z
+author_bio: "Frank Thompson is a retirement planning researcher who focuses on the intersection of Medicare, Social Security, and retirement income. He has spent years studying how healthcare costs in retirement interact with withdrawal strategies and benefit timing. At Medicare Starter, he covers the financial planning side of Medicare, including how Medicare decisions affect Social Security benefits."
+lastmod: 2026-11-26
 ---
 You turned 65, felt fine, and figured you could skip Part B to save money. Then you took a fall, needed an MRI, and found out you owed 100% of the bill. Part B is invisible until you actually need it, and that's when late enrollment penalties kick in, penalties that stick with you for years.
 
@@ -62,9 +62,9 @@ Here's what you're actually paying:
 
 Part B enrollment has specific windows. Miss them and you pay.
 
-Your Initial Enrollment Period runs seven months: three months before you turn 65, the month of your birthday, and three months after. Sign up in the first four months and coverage begins right on schedule. Wait until the last three months and your start date slips.
+Your Initial Enrollment Period runs seven months: three months before you turn 65, the month of your birthday, and three months after. Sign up in the first three months and coverage begins on the first day of your birthday month. Wait until your birthday month or the three months after and your start date slips.
 
-After that comes the General Enrollment Period, January 1 through March 31 each year. But there's a catch: coverage through GEP doesn't kick in until July 1. You'd go months with no Part B coverage. Enroll late without a valid reason and you'll pay a late enrollment penalty of 10% added to your premium for every 12 months you were eligible but didn't sign up. That penalty sticks with you forever.
+After that comes the General Enrollment Period, January 1 through March 31 each year. Coverage through the GEP starts the first day of the month after you sign up, so any months before that are months with no Part B coverage. Enroll late without a valid reason and you'll pay a late enrollment penalty of 10% added to your premium for every full 12-month period you were eligible but didn't sign up. That penalty lasts for as long as you have Part B.
 
 One exception exists. If you're still working and have group health insurance through your own job or your spouse's current employer, you might qualify for a Special Enrollment Period. The SEP lets you delay Part B without penalty and enroll within eight months of losing that employer coverage or leaving work. The word "current" is the key. COBRA doesn't count. Retiree health plans don't count. This distinction catches people constantly.
 

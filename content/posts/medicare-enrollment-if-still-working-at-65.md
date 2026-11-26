@@ -9,7 +9,7 @@ tags: ["medicare", "enrollment", "still", "working"]
 author: "Susan Park"
 author_slug: "susan-park"
 author_title: "Plan Comparison Specialist"
-author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Advisor Guide, she covers plan comparison, network considerations, and annual enrollment decisions."
+author_bio: "Susan Park has spent years helping Medicare-eligible adults compare plan options, and she has developed a systematic approach to cutting through the overwhelming number of choices in most markets. She understands the key differences between Medicare Advantage and Medigap and how to evaluate a plan based on actual healthcare usage rather than the premium alone. At Medicare Starter, she covers plan comparison, network considerations, and annual enrollment decisions."
 slug: "medicare-enrollment-if-still-working-at-65"
 affiliate_disclosure: true
 faqs:
@@ -20,10 +20,10 @@ faqs:
  - q: "Can I use Medicare and my employer plan at the same time?"
    a: "Yes. When your employer has 20 or more employees, Medicare acts as the secondary payer and your employer plan pays first. Some people do choose to enroll in both for the additional coverage layer, but it's not required."
  - q: "What happens if I miss my Special Enrollment Period?"
-   a: "If you miss the 8-month window and don't have another qualifying exception, you'll generally have to wait until the General Enrollment Period (January 1 through March 31 each year), with coverage starting July 1. You'll also pay the 10% per-year late enrollment penalty on your Part B premium permanently. This is a situation worth going out of your way to avoid."
+   a: "If you miss the 8-month window and don't have another qualifying exception, you'll generally have to wait until the General Enrollment Period (January 1 through March 31 each year), with coverage starting the month after you sign up. You'll also pay the 10% per-year late enrollment penalty on your Part B premium permanently. This is a situation worth going out of your way to avoid."
  - q: "Should I sign up for Medicare Part A even if I have an HSA?"
    a: "This one depends. If you want to keep contributing to your HSA, you should not enroll in Part A (or any Medicare) yet, because Medicare eligibility ends your HSA contribution rights. Stop contributing at least six months before you plan to enroll to avoid the retroactive coverage issue. If you've already stopped contributing, enrolling in Part A at 65 is usually the right call since it's free for most people."
-lastmod: 2026-11-24T12:00:00Z
+lastmod: 2026-11-26
 ---
 
 You're turning 65, still working, and your inbox is suddenly full of Medicare mailers that all seem to assume you're about to retire. You might be wondering whether any of this actually applies to you right now, or whether you can just set it aside until you're ready to stop working. That's exactly the question I want to answer here, because getting this wrong can cost you real money and create coverage headaches that follow you for years.
@@ -47,7 +47,7 @@ So before you do anything else, ask your HR department two questions: how many e
 
 Assuming you work for a company with 20 or more employees, you can delay Medicare enrollment past 65 without penalty, but only certain parts of it.
 
-Medicare Part A, which covers hospital stays, is almost always free if you've worked and paid Medicare taxes for at least 10 years (40 quarters). Most people in this situation should go ahead and enroll in Part A at 65 even if they're keeping their employer coverage. There's almost no reason not to, since it costs nothing and can act as a secondary layer of coverage for hospitalizations.
+Medicare Part A, which covers hospital stays, is free if you've worked and paid Medicare taxes for at least 10 years (40 quarters); with fewer quarters you'd pay a monthly premium of $311 (30-39 quarters) or $565 (under 30 quarters) in 2026. Most people in this situation should go ahead and enroll in Part A at 65 even if they're keeping their employer coverage. There's almost no reason not to, since it costs nothing and can act as a secondary layer of coverage for hospitalizations.
 
 Part B is a different story. Part B covers outpatient care and doctor visits, and it has a monthly premium (currently around $202.90, though this changes each year and your income can affect it). If your employer coverage is solid, paying that premium for coverage you don't really need makes no sense. You have the right to delay Part B, and if you qualify under the active employment exception, you will not face a late enrollment penalty for doing so.
 
