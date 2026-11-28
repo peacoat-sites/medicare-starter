@@ -46,5 +46,18 @@
       "plan"
     ],
     "desc": "Answer a few questions to see which type of Medicare plan fits you."
+  },
+  {
+    "label": "Enrollment Checklist",
+    "url": "/medicare-enrollment-checklist/",
+    "icon": "✅",
+    "match": [
+      "enroll",
+      "turning 65",
+      "sign up",
+      "initial enrollment",
+      "penalty"
+    ],
+    "desc": "Every step and deadline for signing up at 65, with a free printable PDF."
   }
 ]
