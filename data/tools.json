@@ -4,8 +4,7 @@
     "url": "/irmaa-medicare-calculator/",
     "icon": "🧮",
     "match": [
-      "irmaa",
-      "medicare"
+      "irmaa"
     ],
     "desc": "See whether your income triggers higher Medicare Part B and D premiums."
   },
